@@ -1,0 +1,9 @@
+[
+  {
+    "status": "failed",
+    "url": "https://cursor.com/resources/Composer2.pdf",
+    "title": "Composer2.pdf",
+    "error": "Unsupported content type: application/pdf",
+    "stage": "fetch_full_text"
+  }
+]

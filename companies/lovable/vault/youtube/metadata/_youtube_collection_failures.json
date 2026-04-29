@@ -1,0 +1,33 @@
+[
+  {
+    "id": "Zsh9giT237U",
+    "video_id": "Zsh9giT237U",
+    "title": "Anton Osika: Den sista mjukvaran, startups och framtiden för AI | En AI till Kaffet #39",
+    "status": "no_transcript",
+    "error": "all_transcript_providers_failed",
+    "search_provider": "yt_dlp_search",
+    "source_queries": [
+      "Anton Osika Lovable podcast",
+      "GPT Engineer Lovable Anton Osika"
+    ],
+    "provider_attempts": [
+      {
+        "provider": "rapidapi_transcript3",
+        "status": "skipped_provider_disabled",
+        "generated_at": "2026-04-22T16:29:31"
+      },
+      {
+        "provider": "youtube_transcript_api",
+        "status": "no_transcript",
+        "generated_at": "2026-04-22T16:29:37",
+        "chars": 0
+      },
+      {
+        "provider": "yt_dlp_subtitle",
+        "status": "no_subtitle",
+        "generated_at": "2026-04-22T16:30:04",
+        "chars": 0
+      }
+    ]
+  }
+]

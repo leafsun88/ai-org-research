@@ -1,0 +1,81 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "web_longform",
+  "generated_at": "2026-04-17T13:45:01",
+  "total_records": 10,
+  "success_records": 3,
+  "failure_records": 7,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://ramp.com/leading-indicators/ai-index-march-2026",
+      "title": "ai-index-march-2026",
+      "chars": 5980,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/web_longform/unknown_ai-index-march-2026.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/research/economic-index-march-2026-report/",
+      "title": "economic-index-march-2026-report",
+      "chars": 29227,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/web_longform/unknown_economic-index-march-2026-report.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/impact-software-development",
+      "title": "impact-software-development",
+      "chars": 16357,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/web_longform/unknown_impact-software-development.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://arxiv.org/abs/2511.15080",
+      "title": "2511.15080",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.technology.org/2025/08/02/anthropic-claude-models-capture-32-enterprise-market-share-overtaking-openai-in-business-ai-adoption/",
+      "title": "anthropic-claude-models-capture-32-enterprise-market-share-overtaking-openai-in-business-ai-adoption",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://scottarmbruster.com/articles/chatgpt-built-market-claude-winning-enterprise-2026/",
+      "title": "chatgpt-built-market-claude-winning-enterprise-2026",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.techradar.com/pro/claude-cowork-is-now-available-for-enterprise-use-adds-analytics-access-controls-and-more",
+      "title": "claude-cowork-is-now-available-for-enterprise-use-adds-analytics-access-controls-and-more",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.itpro.com/security/ai-agents-using-anthropic-mcp-supply-chain-attacks-claim-researchers",
+      "title": "ai-agents-using-anthropic-mcp-supply-chain-attacks-claim-researchers",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://arxiv.org/abs/2601.17549",
+      "title": "2601.17549",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://arxiv.org/abs/2603.20847",
+      "title": "2603.20847",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

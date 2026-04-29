@@ -1,0 +1,44 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+    "title": "midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy",
+    "error": "HTTP 403",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-V1/",
+    "title": "midjourney-launches-its-first-ai-video-generation-model-V1",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://apnews.com/article/722b1b892192e7e1628f7ae5da8cc427",
+    "title": "722b1b892192e7e1628f7ae5da8cc427",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://apnews.com/article/b87d80d7b4a4dfdcf0ee149d30830551",
+    "title": "b87d80d7b4a4dfdcf0ee149d30830551",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://copyrightalliance.org/wp-content/uploads/2025/09/WBE-v.-Midjourney.pdf",
+    "title": "WBE-v.-Midjourney.pdf",
+    "error": "Unsupported content type: application/pdf",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://news.justia.com/wp-content/uploads/2025/06/Disney-Universal-v.-Midjourney-Complaint.pdf",
+    "title": "Disney-Universal-v.-Midjourney-Complaint.pdf",
+    "error": "Unsupported content type: application/pdf",
+    "stage": "fetch_full_text"
+  }
+]

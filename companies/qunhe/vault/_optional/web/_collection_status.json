@@ -1,0 +1,46 @@
+{
+  "research_key": "QUNHE",
+  "company": "Manycore Tech Inc.",
+  "channel": "web_longform",
+  "generated_at": "2026-04-18T23:36:22",
+  "total_records": 5,
+  "success_records": 0,
+  "failure_records": 5,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://finance.sina.com.cn/tech/2026-04-17/doc-inhuupte2249457.shtml",
+      "title": "doc-inhuupte2249457.shtml",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.eeo.com.cn/2026/0417/841813.shtml",
+      "title": "841813.shtml",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://ori.hangzhou.com.cn/ornews/content/2026-04/17/content_9208000.htm",
+      "title": "content_9208000.htm",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.jiemian.com/article/14266182.html",
+      "title": "14266182.html",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.nbd.com.cn/articles/2026-04-09/4330797.html",
+      "title": "4330797.html",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

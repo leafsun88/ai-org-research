@@ -1,0 +1,520 @@
+{
+  "company": "applovin",
+  "updated": "2026-03-25T22:45:00",
+  "exec_voice": {
+    "last_check": "2026-03-25T10:00:00",
+    "items": [
+      {
+        "date": "2026-03-24",
+        "person": "多位高管",
+        "role": "Insider",
+        "source_type": "sec_filing",
+        "source_name": "SEC Form 4 — Insider Selling",
+        "summary": "⚠️ 3月11-13日CEO Foroughi出售59,296股A类股+赠予20,000股，CTO Shikin出售6,005股，董事Vivas出售20,910股。Foroughi直接持股仍有247万股。非预安排交易计划，需跟踪后续是否持续。",
+        "url": "https://www.stocktitan.net/sec-filings/APP/form-4-app-lovin-corp-insider-trading-activity-9732e15a0f89.html",
+        "tags": ["insider_selling", "risk_signal", "SEC_filing"]
+      },
+      {
+        "date": "2026-02-19",
+        "person": "葛小川 (Giovanni Ge)",
+        "role": "CPEO",
+        "source_type": "podcast",
+        "source_name": "中文播客 — 社交平台战略披露",
+        "summary": "🔴 重大战略信号：TikTok竞购失败后，Ge首次公开披露AppLovin将自建下一代AI内容驱动社交平台，策略为\"反转Meta模式\"——先用广告基础设施，再反向构建社交层。新加坡岗位招聘佐证：\"architect the digital backbone of our next-generation social platform\"。",
+        "url": "https://finance.yahoo.com/news/applovin-faces-sec-scrutiny-while-171509045.html",
+        "tags": ["social_platform", "10x_bet", "strategic_pivot", "CPEO"]
+      },
+      {
+        "date": "2026-03-13",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "conference",
+        "source_name": "Goldman Sachs Builders and Innovators Summit",
+        "summary": "Foroughi谈及AppLovin创业历程与竞争优势，强调\"比周围所有人都更努力工作\"是核心驱动力。讨论收购策略：重视\"喜欢共事的人\"而非财务数据。坦承\"我们是1000亿+公司，但很少有人知道我们\"。",
+        "url": "https://www.ibtimes.co.uk/who-adam-foroughi-quiet-tech-billionaire-challenging-trumps-tiktok-ban-1735242",
+        "tags": ["leadership", "culture", "M&A", "founder_story"]
+      },
+      {
+        "date": "2026-03-04",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "conference",
+        "source_name": "Morgan Stanley TMT Conference 2026",
+        "summary": "详述电商扩张路径，称平台目前转化率1.3%，游戏高价值时刻可超5%。广告主投放规模已超Snap+Pinterest+Twitter+Reddit总和。电商TAM是游戏的5-10x，H1完成更广泛电商产品上线。",
+        "url": "https://finance.yahoo.com/news/applovin-touts-upside-gaming-ads-184716778.html",
+        "tags": ["ecommerce", "axon", "conversion_rate", "TAM"]
+      },
+      {
+        "date": "2026-03-04",
+        "person": "Matt Stumpf",
+        "role": "CFO",
+        "source_type": "conference",
+        "source_name": "Morgan Stanley TMT Conference 2026",
+        "summary": "重申游戏广告20-30%增速存在上行空间。透露约900名员工，核心广告科技约400人，电商团队仅约15人，未来增员\"数十人\"规模。",
+        "url": "https://www.trefis.com/articles/592333/applovin-stock-10-ceo-touts-e-commerce-push-at-ms-conference/2026-03-05",
+        "tags": ["headcount", "gaming_growth", "ecommerce_team", "guidance"]
+      },
+      {
+        "date": "2026-02-11",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "earnings_call",
+        "source_name": "Q4 2025 Earnings Call",
+        "summary": "Q4营收16.6亿美元（+66%），EBITDA利润率84%，全年FCF 39.5亿美元（+91%）。AI模型持续迭代和电商探索是核心驱动。Q1 2026指引：营收17.45-17.75亿，EBITDA维持84%。",
+        "url": "https://www.fool.com/earnings/call-transcripts/2026/02/11/applovin-app-q4-2025-earnings-call-transcript/",
+        "tags": ["earnings", "Q4_2025", "guidance", "free_cash_flow"]
+      },
+      {
+        "date": "2026-02-11",
+        "person": "Matt Stumpf",
+        "role": "CFO",
+        "source_type": "earnings_call",
+        "source_name": "Q4 2025 Earnings Call",
+        "summary": "全年营收54.8亿（+70%），EBITDA 45.1亿（利润率82%）。Q4 FCF 13.1亿（+88%），现金余额25亿。全年回购640万股耗资25.8亿，剩余33亿回购授权。",
+        "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-applovin-beats-q4-2025-forecasts-stock-dips-93CH-4501514",
+        "tags": ["earnings", "buyback", "EBITDA", "capital_return"]
+      },
+      {
+        "date": "2025-11-06",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "earnings_call",
+        "source_name": "Q3 2025 Earnings Call",
+        "summary": "Q3营收14.05亿（+68%），EBITDA利润率82%。Axon Ads Manager于10月1日邀请制上线，向中小企业和流媒体发行商开放，定位电商扩张核心自助服务入口。",
+        "url": "https://www.fool.com/earnings/call-transcripts/2025/11/06/applovin-app-q3-2025-earnings-call-transcript/",
+        "tags": ["Q3_2025", "axon_ads_manager", "ecommerce", "self_serve"]
+      },
+      {
+        "date": "2025-10-01",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "podcast",
+        "source_name": "20VC Podcast with Harry Stebbings",
+        "summary": "深度分享组织管理哲学：1000+人规模极少开会，强调\"高密度信任\"文化。拒绝VC投资保持独立决策权是AppLovin最大竞争优势之一。",
+        "url": "https://www.applovin.com/blog/adam-foroughi-on-the-20vc-podcast/",
+        "tags": ["organization", "culture", "leadership_philosophy"]
+      },
+      {
+        "date": "2025-08-06",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "earnings_call",
+        "source_name": "Q2 2025 Earnings Call",
+        "summary": "Q2营收12.6亿（+77%），净利润8.2亿（+164%），EBITDA利润率81%。电商约占10%，客户上线受限于视频素材不足；GenAI工具将显著提升新广告主上线率。",
+        "url": "https://247wallst.com/investing/2025/08/06/live-will-applovin-app-spike-after-q2-earnings/",
+        "tags": ["Q2_2025", "ecommerce", "generative_ai", "creative_tools"]
+      },
+      {
+        "date": "2025-05-07",
+        "person": "Adam Foroughi",
+        "role": "CEO",
+        "source_type": "earnings_call",
+        "source_name": "Q1 2025 Earnings Call",
+        "summary": "Q1营收14.84亿（+40%），广告营收11.59亿（+71%）。宣布出售游戏业务，战略聚焦纯广告科技。电商30天LTV/CAC回收周期验证商业模式初步可行性。",
+        "url": "https://www.cnbc.com/2025/05/07/applovin-earnings-mobile-gaming.html",
+        "tags": ["Q1_2025", "games_divestiture", "ecommerce", "LTV_CAC"]
+      }
+    ]
+  },
+  "business_metrics": {
+    "charts": [
+      {
+        "id": "quarterly_revenue",
+        "title": "季度营收",
+        "type": "bar",
+        "labels": ["Q1'24", "Q2'24", "Q3'24", "Q4'24", "Q1'25", "Q2'25", "Q3'25", "Q4'25"],
+        "values": [10.6, 10.8, 12.0, 13.7, 14.8, 12.6, 14.1, 16.6],
+        "unit": "亿美元",
+        "latest_note": "Q1'26指引: $17.45-17.75亿",
+        "source": "SEC Filings"
+      },
+      {
+        "id": "ebitda_margin",
+        "title": "EBITDA利润率(%)",
+        "type": "bar",
+        "labels": ["Q1'24", "Q2'24", "Q3'24", "Q4'24", "Q1'25", "Q2'25", "Q3'25", "Q4'25"],
+        "values": [52.0, 47.3, 60.8, 61.9, 73.0, 80.8, 82.4, 84.0],
+        "unit": "%",
+        "source": "Earnings Releases"
+      },
+      {
+        "id": "rpi_growth",
+        "title": "净安装收入(RPI)增速",
+        "type": "bar",
+        "labels": ["2023", "2024", "2025"],
+        "values": [25, 45, 72],
+        "unit": "% YoY",
+        "latest_note": "安装量仅+3%，但RPI+72%=AI提效核心证据",
+        "source": "Earnings Release / Perplexity"
+      },
+      {
+        "id": "eps_trend",
+        "title": "每股收益(EPS)",
+        "type": "bar",
+        "labels": ["Q1'24", "Q2'24", "Q3'24", "Q4'24", "Q1'25", "Q2'25", "Q3'25", "Q4'25"],
+        "values": [0.67, 0.89, 1.25, 1.73, 1.67, 2.09, 2.72, 3.24],
+        "unit": "美元",
+        "latest_note": "Q4'25 beat 预期$3.11 (+4.2%)",
+        "source": "Earnings Releases / Perplexity"
+      },
+      {
+        "id": "revenue_per_employee",
+        "title": "人均创收",
+        "type": "bar",
+        "labels": ["2022", "2023", "2024", "2025"],
+        "values": [3.76, 1.91, 4.96, 5.76],
+        "unit": "百万美元/人",
+        "source": "Revenue / Headcount"
+      },
+      {
+        "id": "employee_count",
+        "title": "员工总数",
+        "type": "bar",
+        "labels": ["2022", "2023", "2024", "2025"],
+        "values": [864, 1707, 950, 900],
+        "unit": "人",
+        "source": "SEC 10-K / CFO Disclosure"
+      },
+      {
+        "id": "free_cash_flow",
+        "title": "自由现金流",
+        "type": "bar",
+        "labels": ["Q1'24", "Q2'24", "Q3'24", "Q4'24", "Q1'25", "Q2'25", "Q3'25", "Q4'25"],
+        "values": [3.88, 4.67, 5.45, 6.95, 8.20, 8.81, 10.49, 13.10],
+        "unit": "亿美元",
+        "source": "Earnings Releases"
+      },
+      {
+        "id": "stock_price_12m",
+        "title": "过去一年股价走势",
+        "type": "line",
+        "labels": ["Apr'25", "May'25", "Jun'25", "Jul'25", "Aug'25", "Sep'25", "Oct'25", "Nov'25", "Dec'25", "Jan'26", "Feb'26", "Mar'26"],
+        "values": [269, 393, 350, 358, 500, 719, 620, 599, 674, 473, 445, 436],
+        "unit": "美元",
+        "latest_note": "峰值$746(9月) | 低点$200(52周) | 当前$436",
+        "source": "Market Data (via Perplexity)"
+      }
+    ],
+    "product_launches": [
+      {
+        "date": "2026-03-01",
+        "name": "New Visitor Campaign",
+        "description": "电商广告三步走最后一步上线，增量性最高，让广告主触达全新访客",
+        "status": "launched",
+        "source": "MS TMT Conference 2026.3"
+      },
+      {
+        "date": "2026-02-11",
+        "name": "Q1 2026 Guidance: $17.5-17.75亿",
+        "description": "Q4财报发布，给出Q1指引，EBITDA维持84%",
+        "status": "announced",
+        "source": "Q4 2025 Earnings Call"
+      },
+      {
+        "date": "2025-10-01",
+        "name": "Axon Ads Manager 自助平台",
+        "description": "邀请制上线（referral-only），面向中小企业和流媒体发行商的自助投放入口",
+        "status": "launched",
+        "source": "Q3 2025 Earnings Call"
+      },
+      {
+        "date": "2025-10-01",
+        "name": "New Customer Campaign",
+        "description": "电商三步走第二步：新客获取Campaign产品上线",
+        "status": "launched",
+        "source": "Q3 2025 Earnings Call"
+      },
+      {
+        "date": "2025-08-01",
+        "name": "SparkLabs GenAI 创意生成",
+        "description": "100+电商广告主参与GenAI视频素材生成试点，10分钟完成素材跑马",
+        "status": "pilot",
+        "source": "Q2 2025 Earnings Call"
+      },
+      {
+        "date": "2025-06-01",
+        "name": "Apps Business 出售完成",
+        "description": "以$9亿出售游戏业务给Triple Dot Studios，正式转型纯广告科技平台",
+        "status": "completed",
+        "source": "SEC Filing"
+      }
+    ],
+    "private_charts": [
+      {
+        "id": "axon_pixel_installs",
+        "title": "AXON Pixel / MAX SDK 覆盖",
+        "type": "bar",
+        "labels": ["2025 YE"],
+        "values": [1],
+        "unit": "",
+        "latest_note": "MAX SDK覆盖TOP下载游戏128/175（73%市占率）| 电商Pixel：77%广告主保留，23%测试后移除 | 安装量YoY仅+3%但RPI+72%，AI提效远大于规模扩张 | BofA预估平台约4000家大广告主",
+        "source": "Vault文档: red-team + intel + notes (Gamesforum/BofA/Earnings)",
+        "confidence": "partial"
+      },
+      {
+        "id": "ecommerce_advertisers",
+        "title": "电商广告主数量",
+        "type": "bar",
+        "labels": ["Pilot", "GA目标"],
+        "values": [100, 10000],
+        "unit": "家",
+        "latest_note": "GenAI创意试点100+家，潜在TAM为\"数十万\"中小商家 (Foroughi语)",
+        "source": "Management Commentary / Perplexity",
+        "confidence": "partial"
+      },
+      {
+        "id": "self_serve_status",
+        "title": "Self-Serve平台进度",
+        "type": "gauge",
+        "labels": ["当前进度"],
+        "values": [75, 100],
+        "unit": "%",
+        "latest_note": "2025.10邀请制上线→2026 H1全面开放(GA)目标，当前约75%进度",
+        "source": "Management Guidance",
+        "confidence": "estimated"
+      }
+    ],
+    "key_facts": {
+      "stock_price": "$437.89 (2026-03-25 盘中)",
+      "market_cap": "~$1370亿 (从峰值$2480亿下跌45%)",
+      "analyst_consensus": "23 Buy / 2 Hold / 1 Sell，均值目标价$703-742",
+      "analyst_range": "$360 (Wells Fargo) — $860 (BofA)",
+      "implied_upside": "~60% (从当前$438到均值$703)",
+      "insider_activity": "⚠️ CEO 3月出售5.9万股+赠予2万股，CTO出售6千股",
+      "max_market_share_downloads": "73.1% (TOP下载游戏)",
+      "max_market_share_grossing": "55% (TOP畅销游戏)",
+      "max_games_integrated": "128/175 TOP下载游戏使用MAX",
+      "daily_active_users": "10亿+",
+      "annual_media_spend": "$110亿+",
+      "ecommerce_pilot_advertisers": "~100家 (GenAI创意试点)",
+      "axon_ads_manager_status": "2025.10.1邀请制上线，2026 H1 GA目标",
+      "axon_3_status": "AXON 2.0为当前版本，GenAI创意在100+客户pilot中",
+      "sparklabs_status": "AI创意生成工具，采用率和生成量未公开",
+      "shopify_merchants": "未公开，已推出标准化接入接口",
+      "data_source": "Perplexity API + SEC Filings + Earnings Calls"
+    }
+  },
+  "market_views": {
+    "sell_side": [
+      {
+        "date": "2026-03-18",
+        "firm": "BofA",
+        "analyst": "Omar Dessouky",
+        "rating": "Buy",
+        "prev_rating": "Buy",
+        "target": 860,
+        "prev_target": 700,
+        "summary": "Street-High目标价$860⬆️。调研400家DTC客户后大幅上调，认为电商扩张被严重低估。"
+      },
+      {
+        "date": "2026-03-11",
+        "firm": "Needham",
+        "analyst": "",
+        "rating": "Buy",
+        "prev_rating": "Buy",
+        "target": 700,
+        "prev_target": 700,
+        "summary": "维持买入，目标价$700。当前回调是良好买入窗口。"
+      },
+      {
+        "date": "2026-02-12",
+        "firm": "UBS",
+        "analyst": "John Hodulik",
+        "rating": "Buy",
+        "prev_rating": "Buy",
+        "target": 686,
+        "prev_target": 740,
+        "summary": "维持买入，目标价$740→$686（-7%）。Q4强劲但二次下修反映估值压缩。"
+      },
+      {
+        "date": "2026-02-12",
+        "firm": "Jefferies",
+        "analyst": "",
+        "rating": "Buy",
+        "prev_rating": "Buy",
+        "target": 700,
+        "prev_target": 860,
+        "summary": "维持买入，目标价$860→$700（-19%）。基本面极强，下调反映估值倍数收缩。"
+      },
+      {
+        "date": "2026-02-12",
+        "firm": "Goldman Sachs",
+        "analyst": "",
+        "rating": "Neutral",
+        "prev_rating": "Neutral",
+        "target": 585,
+        "prev_target": 710,
+        "summary": "维持中性，目标价$710→$585。谨慎立场，等待更多电商数据。"
+      },
+      {
+        "date": "2026-02-12",
+        "firm": "Citigroup",
+        "analyst": "",
+        "rating": "Buy",
+        "prev_rating": "Buy",
+        "target": 710,
+        "prev_target": 820,
+        "summary": "维持买入，目标价$820→$710。看好AI广告长期护城河。"
+      },
+      {
+        "date": "2026-03-10",
+        "firm": "Morgan Stanley",
+        "analyst": "Matt Cost",
+        "rating": "Overweight",
+        "prev_rating": "Overweight",
+        "target": 720,
+        "prev_target": 800,
+        "summary": "维持增持但下调$800→$720（-10%）。AI竞争和市场动态不确定性增加。"
+      },
+      {
+        "date": "2026-03-01",
+        "firm": "Oppenheimer",
+        "analyst": "",
+        "rating": "Outperform",
+        "prev_rating": null,
+        "target": 740,
+        "prev_target": null,
+        "summary": "维持跑赢评级$740，尽管SEC调查确认活跃，仍看好基本面。"
+      },
+      {
+        "date": "2026-02-10",
+        "firm": "Wells Fargo",
+        "analyst": "",
+        "rating": "Underweight",
+        "prev_rating": "Underweight",
+        "target": 360,
+        "prev_target": null,
+        "summary": "🐻 Street最低目标价$360。对AXON黑盒模型和SEC调查持最悲观态度。"
+      },
+      {
+        "date": "2026-01-26",
+        "firm": "Needham",
+        "analyst": "",
+        "rating": "Buy",
+        "prev_rating": "Hold",
+        "target": 700,
+        "prev_target": null,
+        "summary": "从持有上调至买入⬆️，设立$700目标价。近期最重要评级升级。"
+      },
+      {
+        "date": "2026-01-14",
+        "firm": "Evercore ISI",
+        "analyst": "Robert Coolbrith",
+        "rating": "Outperform",
+        "prev_rating": null,
+        "target": 835,
+        "prev_target": null,
+        "summary": "首次覆盖，跑赢大盘$835。Axon为\"同类最佳ML广告引擎\"。"
+      }
+    ],
+    "retail_leaders": [
+      {
+        "id": "leader-yt-undervalued",
+        "name": "APP深度分析频道",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/watch?v=CocQGwBq_vI",
+        "followers": null,
+        "concentration": "high",
+        "influence": "medium",
+        "duration": "2026",
+        "finfluencer_flag": false,
+        "recent_posts": [
+          {
+            "date": "2026-03",
+            "title": "Is Applovin Stock an Undervalued Stock to Buy Now in March 2026?",
+            "url": "https://www.youtube.com/watch?v=CocQGwBq_vI",
+            "engagement": {"upvotes": 0, "comments": 0},
+            "sentiment": "bullish"
+          }
+        ]
+      },
+      {
+        "id": "leader-yt-sec",
+        "name": "APP基本面+SEC分析",
+        "platform": "YouTube",
+        "profile_url": "https://www.youtube.com/watch?v=SlulmIsN6hU",
+        "followers": null,
+        "concentration": "high",
+        "influence": "medium",
+        "duration": "2025-2026",
+        "finfluencer_flag": false,
+        "recent_posts": [
+          {
+            "date": "2025-10-07",
+            "title": "APP Stock Analysis: Fundamentals and SEC Probe (Oct 2025)",
+            "url": "https://www.youtube.com/watch?v=SlulmIsN6hU",
+            "engagement": {"upvotes": 0, "comments": 0},
+            "sentiment": "neutral"
+          }
+        ]
+      },
+      {
+        "id": "leader-seekingalpha",
+        "name": "Seeking Alpha APP专栏",
+        "platform": "Seeking Alpha",
+        "profile_url": "https://seekingalpha.com/symbol/APP",
+        "followers": null,
+        "concentration": "medium",
+        "influence": "high",
+        "duration": "2022至今",
+        "finfluencer_flag": true,
+        "recent_posts": [
+          {
+            "date": "2026-03",
+            "title": "多位作者维持买入，聚焦FCF和电商转化",
+            "url": "https://seekingalpha.com/symbol/APP",
+            "engagement": {"upvotes": 0, "comments": 0},
+            "sentiment": "bullish"
+          }
+        ]
+      },
+      {
+        "id": "leader-reddit",
+        "name": "Reddit r/stocks + r/wallstreetbets",
+        "platform": "Reddit",
+        "profile_url": "https://www.reddit.com/r/stocks/search/?q=applovin",
+        "followers": null,
+        "concentration": "low",
+        "influence": "high",
+        "duration": "2024至今",
+        "finfluencer_flag": false,
+        "recent_posts": [
+          {
+            "date": "2026-03",
+            "title": "APP从峰值跌40%：散户情绪从FOMO转向谨慎乐观",
+            "url": "https://www.reddit.com/r/stocks/search/?q=applovin&sort=new",
+            "engagement": {"upvotes": 0, "comments": 0},
+            "sentiment": "mixed"
+          }
+        ]
+      },
+      {
+        "id": "leader-stocktwits",
+        "name": "Stocktwits $APP",
+        "platform": "Stocktwits",
+        "profile_url": "https://stocktwits.com/symbol/APP",
+        "followers": null,
+        "concentration": "high",
+        "influence": "medium",
+        "duration": "2023至今",
+        "finfluencer_flag": false,
+        "recent_posts": [
+          {
+            "date": "2026-03",
+            "title": "实时讨论社区，每日数百条更新",
+            "url": "https://stocktwits.com/symbol/APP",
+            "engagement": {"upvotes": 0, "comments": 0},
+            "sentiment": "bullish"
+          }
+        ]
+      }
+    ],
+    "retail_leader_config": {
+      "last_full_scan": "2026-03-25",
+      "auto_track": true,
+      "user_added": [],
+      "user_removed": [],
+      "sentiment_summary": "整体散户情绪：谨慎乐观。从2024年极度乐观（+700%驱动FOMO）转向2026年初的理性分歧，SEC调查和估值高位是主要顾虑，电商扩张叙事仍是多头核心论点。"
+    }
+  }
+}

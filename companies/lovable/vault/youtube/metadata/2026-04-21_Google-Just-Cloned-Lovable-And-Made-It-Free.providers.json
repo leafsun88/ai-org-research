@@ -1,0 +1,16 @@
+{
+  "video_id": "KW_n1u429uI",
+  "title": "Google Just Cloned Lovable (And Made It Free)",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:18:53",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:18:53"
+}

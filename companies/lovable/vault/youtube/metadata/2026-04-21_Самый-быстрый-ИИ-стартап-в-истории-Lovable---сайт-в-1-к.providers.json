@@ -1,0 +1,16 @@
+{
+  "video_id": "Pi9KGLKoQ64",
+  "title": "Самый быстрый ИИ-стартап в истории: Lovable - сайт в 1 клик",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:17:53",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:17:53"
+}

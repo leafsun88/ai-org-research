@@ -1,0 +1,16 @@
+{
+  "video_id": "6qAB6aUMIeA",
+  "title": "The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:14:45",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:14:45"
+}

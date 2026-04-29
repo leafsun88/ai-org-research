@@ -1,0 +1,10 @@
+{
+  "name": "Amazon",
+  "ticker": "AMZN",
+  "exchange": "NASDAQ",
+  "market_cap": "$2T",
+  "sector": "电商/云/广告",
+  "category": "Meta+NVIDIA",
+  "note": "AWS云+$56B广告+Trainium AI芯片",
+  "created": "2026-04-06"
+}

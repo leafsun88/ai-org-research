@@ -1,0 +1,26 @@
+---
+ticker: TME
+credibility: S5
+evidence: E3
+updated: 2026-04-07
+---
+
+# Tencent Music Entertainment Group (TME)
+
+## Company Overview
+
+- **Sector**: Communication Services
+- **Industry**: Internet Content & Information
+- **Country**: China
+- **Website**: https://www.tencentmusic.com
+- **Market Cap**: $15.2B
+- **Exchange**: NYQ
+
+- **CEO**: Zhu Liang
+- **HQ**: Shenzhen, None, CN
+- **IPO Date**: 2018-12-12
+
+## Business Description
+
+Tencent Music Entertainment Group operates online music entertainment platforms that provides music streaming, online karaoke, and live streaming services in the People's Republic of China. It offers QQ Music, Kugou Music, and Kuwo Music that enable users to discover, enjoy, and share music in personalized ways; long-form audio content, including audiobooks, podcasts and talk shows, as well as music-oriented video content comprising music videos, live performances, and short videos; and WeSing, which enables users to sing along from its library of karaoke songs and share their performances in audio or video formats with friends. The company also delivers music-centric live streaming services primarily through the Live Streaming tab on QQ Music, Kugou Music, Kuwo Music, WeSing, Kugou Live, and Kuwo Live that provides an interactive online stage for performers and users to showcase their talent and engage with audience base; and Lazy Audio, an audio platform. In addition, it sells artist-related merchandise, such as branded apparel, posters and art prints, and accessories; other music services, such as content licensing, sales of digital albums, sales of customized artist-related merchandises, live performances and concerts, and artist management services; and music subscriptions, as well as offers advertising services across its social entertainment platforms. The company is headquartered in Shenzhen, China. Tencent Music Entertainment Group is a subsidiary of Tencent Holdings Limited.
+

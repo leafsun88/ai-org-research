@@ -1,0 +1,4833 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "R0Wqf2eLGD4",
+  "url": "https://www.youtube.com/watch?v=R0Wqf2eLGD4",
+  "title": "【ゲスト:Niji（ベトナム 人アイドル）】ベトナム人にインタビュー！ベトナム人と合わせましょう！〜勝手にASEAN会議〜#31",
+  "channel": "よしもとHELLO ASIAチャンネル",
+  "source_queries": [
+    "Niji 7 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:05:50",
+  "segments": [
+    {
+      "text": "エアーちゃんどこがあるんだろう",
+      "duration": 3.23,
+      "offset": 1.82,
+      "lang": "en"
+    },
+    {
+      "text": "はぁはぁ",
+      "duration": 3.59,
+      "offset": 8.96,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.77,
+      "offset": 14.57,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 9.05,
+      "offset": 25.4,
+      "lang": "en"
+    },
+    {
+      "text": "car",
+      "duration": 3.16,
+      "offset": 32.82,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 4.34,
+      "offset": 34.45,
+      "lang": "en"
+    },
+    {
+      "text": "ええええええ",
+      "duration": 2.81,
+      "offset": 35.98,
+      "lang": "en"
+    },
+    {
+      "text": "消防",
+      "duration": 3.89,
+      "offset": 38.85,
+      "lang": "en"
+    },
+    {
+      "text": "向かってやブランデー",
+      "duration": 5.47,
+      "offset": 40.39,
+      "lang": "en"
+    },
+    {
+      "text": "ねえ敬礼やっぱりこいつ日です",
+      "duration": 4.81,
+      "offset": 42.74,
+      "lang": "en"
+    },
+    {
+      "text": "リッコ氏です",
+      "duration": 23.64,
+      "offset": 45.86,
+      "lang": "en"
+    },
+    {
+      "text": "voodoo sair 我々は各国にパティマースチャーチョウンヌー",
+      "duration": 21.95,
+      "offset": 47.55,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバー試合がとーございまーぬー",
+      "duration": 11.91,
+      "offset": 75.87,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバー白サージ",
+      "duration": 8.76,
+      "offset": 101.21,
+      "lang": "en"
+    },
+    {
+      "text": "ご紹介いいですか日本語でできますか",
+      "duration": 10.54,
+      "offset": 106.15,
+      "lang": "en"
+    },
+    {
+      "text": "いう大丈夫んあっていますねこれを一人ずつお願いしますふうちゃん達からお願いし",
+      "duration": 9.14,
+      "offset": 109.97,
+      "lang": "en"
+    },
+    {
+      "text": "ます",
+      "duration": 2.42,
+      "offset": 116.69,
+      "lang": "en"
+    },
+    {
+      "text": "てならぬん",
+      "duration": 6.23,
+      "offset": 121.18,
+      "lang": "en"
+    },
+    {
+      "text": "今日は皆さん私はあれだ大針か",
+      "duration": 9.23,
+      "offset": 122.31,
+      "lang": "en"
+    },
+    {
+      "text": "ただまだまだ様方をください our ですよ",
+      "duration": 4.13,
+      "offset": 127.41,
+      "lang": "en"
+    },
+    {
+      "text": "言えばいいのございます",
+      "duration": 3.3,
+      "offset": 131.74,
+      "lang": "en"
+    },
+    {
+      "text": "ぬー",
+      "duration": 4.56,
+      "offset": 133.51,
+      "lang": "en"
+    },
+    {
+      "text": "f r 1ん",
+      "duration": 4.84,
+      "offset": 135.04,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 4.12,
+      "offset": 138.07,
+      "lang": "en"
+    },
+    {
+      "text": "あきゃいや好きです",
+      "duration": 6.96,
+      "offset": 139.88,
+      "lang": "en"
+    },
+    {
+      "text": "与え早い私証やあかしやは好きです",
+      "duration": 5.54,
+      "offset": 142.19,
+      "lang": "en"
+    },
+    {
+      "text": "あっはい",
+      "duration": 3.61,
+      "offset": 146.84,
+      "lang": "en"
+    },
+    {
+      "text": "博士ん",
+      "duration": 2.72,
+      "offset": 147.73,
+      "lang": "en"
+    },
+    {
+      "text": "ブービーをもう好きありがとう",
+      "duration": 8.34,
+      "offset": 163.58,
+      "lang": "en"
+    },
+    {
+      "text": "俺もいいじゃねーよでははいっ",
+      "duration": 9.58,
+      "offset": 166.7,
+      "lang": "en"
+    },
+    {
+      "text": "は私はしたプラですああ私は大好き",
+      "duration": 8.59,
+      "offset": 171.92,
+      "lang": "en"
+    },
+    {
+      "text": "s ねえっ san",
+      "duration": 8.9,
+      "offset": 176.28,
+      "lang": "en"
+    },
+    {
+      "text": "これうわぁプロレ",
+      "duration": 4.67,
+      "offset": 180.51,
+      "lang": "en"
+    },
+    {
+      "text": "はいはい",
+      "duration": 4.58,
+      "offset": 185.69,
+      "lang": "en"
+    },
+    {
+      "text": "お願いですはい",
+      "duration": 6.32,
+      "offset": 188.21,
+      "lang": "en"
+    },
+    {
+      "text": "もしでございまっ赤い靴でね",
+      "duration": 9.42,
+      "offset": 190.27,
+      "lang": "en"
+    },
+    {
+      "text": "赤いここが生きているためキー維持 us のあの空色担当",
+      "duration": 10.43,
+      "offset": 194.53,
+      "lang": "en"
+    },
+    {
+      "text": "リーダーのオフですは boa の民主党は",
+      "duration": 5.27,
+      "offset": 199.69,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバー氏はリングで見なきゃいいいいい",
+      "duration": 19.99,
+      "offset": 218.65,
+      "lang": "en"
+    },
+    {
+      "text": "4ポロ r wrc アッキー noraushi torazoku",
+      "duration": 15.2,
+      "offset": 223.44,
+      "lang": "en"
+    },
+    {
+      "text": "ああああああああねぇ",
+      "duration": 15.08,
+      "offset": 243.43,
+      "lang": "en"
+    },
+    {
+      "text": "erp nanoo えっあっあああああそりゃあもう",
+      "duration": 11.73,
+      "offset": 246.78,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 5.68,
+      "offset": 258.71,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー",
+      "duration": 7.44,
+      "offset": 269.56,
+      "lang": "en"
+    },
+    {
+      "text": "何ですかああああありがとうございますみなさん今日はですね皆さんにもう",
+      "duration": 13.05,
+      "offset": 270.67,
+      "lang": "en"
+    },
+    {
+      "text": "先鞭前回ねフィリップが吹くにフィリピン人が思い描く日本人のイメージ日本が",
+      "duration": 11.37,
+      "offset": 277.0,
+      "lang": "en"
+    },
+    {
+      "text": "イメージみたいな質問しましたので今回はベトナム人のみなさんに聞いていこうと思い",
+      "duration": 6.18,
+      "offset": 283.72,
+      "lang": "en"
+    },
+    {
+      "text": "ますはーい",
+      "duration": 7.93,
+      "offset": 288.37,
+      "lang": "en"
+    },
+    {
+      "text": "うれしい俺を殺すますうれしい",
+      "duration": 9.52,
+      "offset": 289.9,
+      "lang": "en"
+    },
+    {
+      "text": "早速いいですかじゃレッツ pot web",
+      "duration": 7.59,
+      "offset": 296.3,
+      "lang": "en"
+    },
+    {
+      "text": "これだから勝負でしょそうですよ4月場所でパンでありにまたね",
+      "duration": 11.34,
+      "offset": 299.42,
+      "lang": "en"
+    },
+    {
+      "text": "an 0枚になったんですよ-3にペン-耽溺なんかはい僕やべぱ国が違えばね答えも",
+      "duration": 12.4,
+      "offset": 303.89,
+      "lang": "en"
+    },
+    {
+      "text": "変わって昨日だねあのベトナムの方4名いるのであの",
+      "duration": 11.26,
+      "offset": 310.76,
+      "lang": "en"
+    },
+    {
+      "text": "あっアポイントだけだからよぷっのうち2人が同じ答えがそれはてから2ポイントも",
+      "duration": 7.02,
+      "offset": 316.29,
+      "lang": "en"
+    },
+    {
+      "text": "その場で入ることにします",
+      "duration": 5.37,
+      "offset": 322.02,
+      "lang": "en"
+    },
+    {
+      "text": "どうぞああああああはぁ一切怒ら",
+      "duration": 10.77,
+      "offset": 323.31,
+      "lang": "en"
+    },
+    {
+      "text": "3ポイント入ると言うじゃあいいきますチャーイカロス施工",
+      "duration": 8.92,
+      "offset": 327.39,
+      "lang": "en"
+    },
+    {
+      "text": "池ランディングですよ",
+      "duration": 7.71,
+      "offset": 334.08,
+      "lang": "en"
+    },
+    {
+      "text": "a いる私はいもちこはーいでこれ",
+      "duration": 5.48,
+      "offset": 336.31,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバのあの自分のプロサティ持ち全然違うませんっヒアロそれじゃあかよちんプー",
+      "duration": 16.82,
+      "offset": 343.69,
+      "lang": "en"
+    },
+    {
+      "text": "ちゃん to do",
+      "duration": 4.84,
+      "offset": 359.27,
+      "lang": "en"
+    },
+    {
+      "text": "って色々頷いてるからもうあり外周だな",
+      "duration": 8.94,
+      "offset": 360.51,
+      "lang": "en"
+    },
+    {
+      "text": "いいねってまぁちょっと事前質問してもいいの",
+      "duration": 8.79,
+      "offset": 364.11,
+      "lang": "en"
+    },
+    {
+      "text": "やっぱそのパーソナルもやっぱ知っておいた方がいいからさーああああああどれ誰",
+      "duration": 4.98,
+      "offset": 369.45,
+      "lang": "en"
+    },
+    {
+      "text": "かーっ",
+      "duration": 6.82,
+      "offset": 372.9,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあこの4人で日本に行ったことある人は何ですかスカ",
+      "duration": 10.61,
+      "offset": 374.43,
+      "lang": "en"
+    },
+    {
+      "text": "うかだけそれからけんちゃんだけ音だけカラオケをくらい",
+      "duration": 10.78,
+      "offset": 379.72,
+      "lang": "en"
+    },
+    {
+      "text": "だけでぶーちゃんたちは情報の偏りはまああるかと思いますね何が行われたじゃない子",
+      "duration": 7.8,
+      "offset": 385.04,
+      "lang": "en"
+    },
+    {
+      "text": "だよね今社長人ずつ",
+      "duration": 8.48,
+      "offset": 390.5,
+      "lang": "en"
+    },
+    {
+      "text": "日本ホールどのぐらい勉強をしましたか何ヶ月とか何年とか",
+      "duration": 9.65,
+      "offset": 392.84,
+      "lang": "en"
+    },
+    {
+      "text": "パターンを勉強したいと思います本当チャイがないったと思う",
+      "duration": 5.54,
+      "offset": 398.98,
+      "lang": "en"
+    },
+    {
+      "text": "いい",
+      "duration": 2.03,
+      "offset": 402.49,
+      "lang": "en"
+    },
+    {
+      "text": "えっつ3ヶ月愛宕下からをしてるの王将なう",
+      "duration": 8.81,
+      "offset": 404.66,
+      "lang": "en"
+    },
+    {
+      "text": "がから茶碗制度ヶ月0ほかでしょタカプラっちゃ",
+      "duration": 7.2,
+      "offset": 409.63,
+      "lang": "en"
+    },
+    {
+      "text": "0かぶりん号ホッピングあったこちら",
+      "duration": 5.25,
+      "offset": 413.47,
+      "lang": "en"
+    },
+    {
+      "text": "ああ",
+      "duration": 6.36,
+      "offset": 416.83,
+      "lang": "en"
+    },
+    {
+      "text": "1パターン2ヵ月に1回だけどいいだけ",
+      "duration": 15.41,
+      "offset": 418.72,
+      "lang": "en"
+    },
+    {
+      "text": "i 楓ちゃんとかだっけ三ちゃんも高いんだっけえっ何を何年何年だっけへっにょっ",
+      "duration": 10.94,
+      "offset": 423.19,
+      "lang": "en"
+    },
+    {
+      "text": "8年間くらいアーチ年ぐらいですね学生んし何やら",
+      "duration": 9.87,
+      "offset": 434.28,
+      "lang": "en"
+    },
+    {
+      "text": "カーおろすんじゃんはもうほぼ日本人として考えていいでしょうかバカ日本人た方が",
+      "duration": 8.09,
+      "offset": 438.84,
+      "lang": "en"
+    },
+    {
+      "text": "良いと思いますっっ",
+      "duration": 8.25,
+      "offset": 444.15,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーちゃうっちゃんの回答だから当たりやすい眠っ追っては",
+      "duration": 7.34,
+      "offset": 446.93,
+      "lang": "en"
+    },
+    {
+      "text": "だすぐ大規模ができます",
+      "duration": 4.9,
+      "offset": 452.4,
+      "lang": "en"
+    },
+    {
+      "text": "ok ラッコいらん",
+      "duration": 5.98,
+      "offset": 454.27,
+      "lang": "en"
+    },
+    {
+      "text": "ベトナム人の方が重い鋭角",
+      "duration": 6.22,
+      "offset": 457.3,
+      "lang": "en"
+    },
+    {
+      "text": "日本の料理といえば",
+      "duration": 8.49,
+      "offset": 460.25,
+      "lang": "en"
+    },
+    {
+      "text": "基本両親では言え部二部予言ゲームあんにゃ版",
+      "duration": 7.59,
+      "offset": 463.52,
+      "lang": "en"
+    },
+    {
+      "text": "いいかけうどん本水",
+      "duration": 5.79,
+      "offset": 468.74,
+      "lang": "en"
+    },
+    {
+      "text": "うんうない",
+      "duration": 5.03,
+      "offset": 471.11,
+      "lang": "en"
+    },
+    {
+      "text": "ni",
+      "duration": 6.65,
+      "offset": 474.53,
+      "lang": "en"
+    },
+    {
+      "text": "いやでもこれでしょもうまだねうんする金指令",
+      "duration": 9.77,
+      "offset": 476.14,
+      "lang": "en"
+    },
+    {
+      "text": "色ちゃんと者3人とも書いてあとで出してください",
+      "duration": 6.19,
+      "offset": 481.18,
+      "lang": "en"
+    },
+    {
+      "text": "いやーいいと思う",
+      "duration": 4.76,
+      "offset": 485.91,
+      "lang": "en"
+    },
+    {
+      "text": "なんか回開けますかなんかペイントペンあるかねぇ",
+      "duration": 4.08,
+      "offset": 487.37,
+      "lang": "en"
+    },
+    {
+      "text": "ん",
+      "duration": 4.16,
+      "offset": 490.67,
+      "lang": "en"
+    },
+    {
+      "text": "紙とペンに書いて",
+      "duration": 3.38,
+      "offset": 491.45,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.08,
+      "offset": 495.23,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー言いじゃーんっ日本より怒れ",
+      "duration": 6.6,
+      "offset": 506.94,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 6.78,
+      "offset": 511.98,
+      "lang": "en"
+    },
+    {
+      "text": "最近はないか行ったらなるでしょうであえて言ってましたではないかと言ってましたね",
+      "duration": 8.99,
+      "offset": 513.54,
+      "lang": "en"
+    },
+    {
+      "text": "灯だよねっますねはい",
+      "duration": 3.77,
+      "offset": 518.76,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.09,
+      "offset": 527.0,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーはいじゃああー夜明けからいいか",
+      "duration": 5.49,
+      "offset": 532.13,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 3.97,
+      "offset": 538.42,
+      "lang": "en"
+    },
+    {
+      "text": "voodoo サイコロさーああああ",
+      "duration": 7.25,
+      "offset": 553.45,
+      "lang": "en"
+    },
+    {
+      "text": "皆さん年代もしっとりたかったなぁ何歳ぐらい買ってあげると良いでしょうから",
+      "duration": 5.46,
+      "offset": 556.44,
+      "lang": "en"
+    },
+    {
+      "text": "アイドルで嘘",
+      "duration": 4.44,
+      "offset": 560.7,
+      "lang": "en"
+    },
+    {
+      "text": "俺もそれだけどねぇアイドルですよ",
+      "duration": 6.77,
+      "offset": 561.9,
+      "lang": "en"
+    },
+    {
+      "text": "おじいさんいい",
+      "duration": 3.53,
+      "offset": 565.14,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバー組織",
+      "duration": 5.66,
+      "offset": 584.78,
+      "lang": "en"
+    },
+    {
+      "text": "ウィッチャー7回たアーメイちゃんた合意",
+      "duration": 8.16,
+      "offset": 587.08,
+      "lang": "en"
+    },
+    {
+      "text": "大丈夫 s チューブで歳で猿をうまく男性から出しますはーい",
+      "duration": 8.63,
+      "offset": 590.44,
+      "lang": "en"
+    },
+    {
+      "text": "をと書いてもええの",
+      "duration": 3.83,
+      "offset": 595.24,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーこの国ないものみたいなキャンペーンだよねーっすよ",
+      "duration": 10.02,
+      "offset": 609.9,
+      "lang": "en"
+    },
+    {
+      "text": "麺料理が僕のイメージ下手なも多いんですかね",
+      "duration": 8.85,
+      "offset": 616.14,
+      "lang": "en"
+    },
+    {
+      "text": "なんだべ寿司っていうのはちょっと魅力的なものだったねぇーちゃんねーんですよね",
+      "duration": 5.87,
+      "offset": 619.92,
+      "lang": "en"
+    },
+    {
+      "text": "では",
+      "duration": 2.96,
+      "offset": 624.99,
+      "lang": "en"
+    },
+    {
+      "text": "大丈夫ですから女性陣は",
+      "duration": 4.22,
+      "offset": 625.79,
+      "lang": "en"
+    },
+    {
+      "text": "ただケアの皆さん",
+      "duration": 5.87,
+      "offset": 627.95,
+      "lang": "en"
+    },
+    {
+      "text": "c でしょういいやぁこれはそうでしょ",
+      "duration": 9.19,
+      "offset": 630.01,
+      "lang": "en"
+    },
+    {
+      "text": "あかいつで食らって皆さんように何だかやばい事実と言いません",
+      "duration": 7.86,
+      "offset": 633.82,
+      "lang": "en"
+    },
+    {
+      "text": "バンダーん",
+      "duration": 2.48,
+      "offset": 639.2,
+      "lang": "en"
+    },
+    {
+      "text": "us 02",
+      "duration": 5.37,
+      "offset": 657.06,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー言っちゃって百景",
+      "duration": 6.48,
+      "offset": 670.4,
+      "lang": "en"
+    },
+    {
+      "text": "あえっ",
+      "duration": 4.76,
+      "offset": 677.37,
+      "lang": "en"
+    },
+    {
+      "text": "どうして a",
+      "duration": 5.18,
+      "offset": 678.89,
+      "lang": "en"
+    },
+    {
+      "text": "越冬強いやなっ",
+      "duration": 6.63,
+      "offset": 682.13,
+      "lang": "en"
+    },
+    {
+      "text": "あのそこみんな一緒にたこ焼き食べたのでああはいはい",
+      "duration": 11.59,
+      "offset": 684.07,
+      "lang": "en"
+    },
+    {
+      "text": "食べ入れ氷美味しくっておいてくればねーすごい安全性や対策や木にあったり確かに",
+      "duration": 10.64,
+      "offset": 688.76,
+      "lang": "en"
+    },
+    {
+      "text": "たくさんあるからちょっと店も食べるんですよ",
+      "duration": 7.55,
+      "offset": 695.66,
+      "lang": "en"
+    },
+    {
+      "text": "だからとくださってる強い開かれ履けるんですね",
+      "duration": 8.1,
+      "offset": 699.4,
+      "lang": "en"
+    },
+    {
+      "text": "確かに上手だった平子すごいパーッああすげえ",
+      "duration": 5.53,
+      "offset": 703.21,
+      "lang": "en"
+    },
+    {
+      "text": "a",
+      "duration": 6.07,
+      "offset": 707.5,
+      "lang": "en"
+    },
+    {
+      "text": "とラジエータああああこうやっちかわかんなかっ後やキー",
+      "duration": 6.59,
+      "offset": 708.74,
+      "lang": "en"
+    },
+    {
+      "text": "ぺぺちゃん",
+      "duration": 7.28,
+      "offset": 713.57,
+      "lang": "en"
+    },
+    {
+      "text": "ベトナム愛たこ焼きはだいたい何円くらいですかなーなんどん",
+      "duration": 7.66,
+      "offset": 715.33,
+      "lang": "en"
+    },
+    {
+      "text": "何どんくらい",
+      "duration": 4.47,
+      "offset": 720.85,
+      "lang": "en"
+    },
+    {
+      "text": "goo",
+      "duration": 2.33,
+      "offset": 722.99,
+      "lang": "en"
+    },
+    {
+      "text": "普段食べてる奴はねえっ",
+      "duration": 3.62,
+      "offset": 725.74,
+      "lang": "en"
+    },
+    {
+      "text": "普段は",
+      "duration": 21.36,
+      "offset": 727.99,
+      "lang": "en"
+    },
+    {
+      "text": "4分んどろそりゃあこれ可愛い女性にマンって言われ",
+      "duration": 26.43,
+      "offset": 729.36,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれっ",
+      "duration": 6.44,
+      "offset": 749.35,
+      "lang": "en"
+    },
+    {
+      "text": "です何のネタが好きですかプレーオフ",
+      "duration": 4.6,
+      "offset": 769.34,
+      "lang": "en"
+    },
+    {
+      "text": "ああ",
+      "duration": 3.74,
+      "offset": 772.93,
+      "lang": "en"
+    },
+    {
+      "text": "創成館やしっ",
+      "duration": 5.24,
+      "offset": 773.94,
+      "lang": "en"
+    },
+    {
+      "text": "仔仔",
+      "duration": 2.51,
+      "offset": 776.67,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーそろそろ",
+      "duration": 7.82,
+      "offset": 794.4,
+      "lang": "en"
+    },
+    {
+      "text": "ほい数えて三冠はね早くもやっぱ女じゃない",
+      "duration": 8.13,
+      "offset": 798.08,
+      "lang": "en"
+    },
+    {
+      "text": "どんどんだろのみんな好きだぁいすきすねぇかいうえあーーーー",
+      "duration": 5.51,
+      "offset": 802.22,
+      "lang": "en"
+    },
+    {
+      "text": "いきましょう",
+      "duration": 7.1,
+      "offset": 806.21,
+      "lang": "en"
+    },
+    {
+      "text": "あー部屋ですねー気づいたああ良いクリコンねせたナムジンが思い描く",
+      "duration": 13.8,
+      "offset": 807.73,
+      "lang": "en"
+    },
+    {
+      "text": "日本に行ったらいったい場所はそれをれたやなぁ著名ですかはい",
+      "duration": 9.92,
+      "offset": 813.31,
+      "lang": "en"
+    },
+    {
+      "text": "ランド番目",
+      "duration": 8.72,
+      "offset": 821.53,
+      "lang": "en"
+    },
+    {
+      "text": "悲鳴にしましょうかね悲鳴はいちょっと別れたら回転どうかな俺ちょっと発送",
+      "duration": 10.89,
+      "offset": 823.23,
+      "lang": "en"
+    },
+    {
+      "text": "解説の税を素数が違ったからなぁねえ直径あ",
+      "duration": 6.54,
+      "offset": 830.25,
+      "lang": "en"
+    },
+    {
+      "text": "も僕パッと思いましたわ",
+      "duration": 6.09,
+      "offset": 834.12,
+      "lang": "en"
+    },
+    {
+      "text": "tr か黒子ズレビガー",
+      "duration": 6.63,
+      "offset": 836.79,
+      "lang": "en"
+    },
+    {
+      "text": "a 0 d 8番 tm もんビダー",
+      "duration": 3.95,
+      "offset": 840.21,
+      "lang": "en"
+    },
+    {
+      "text": "ああああああ",
+      "duration": 4.02,
+      "offset": 843.42,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 6.59,
+      "offset": 844.16,
+      "lang": "en"
+    },
+    {
+      "text": "あーてぃとぅ",
+      "duration": 4.52,
+      "offset": 847.44,
+      "lang": "en"
+    },
+    {
+      "text": "a",
+      "duration": 6.67,
+      "offset": 850.75,
+      "lang": "en"
+    },
+    {
+      "text": "えっこれ俺ちょっとすべては書いても有利にするちょっとまあみんなする方 jal は",
+      "duration": 6.57,
+      "offset": 851.96,
+      "lang": "en"
+    },
+    {
+      "text": "もうどうでしょ",
+      "duration": 5.19,
+      "offset": 857.42,
+      "lang": "en"
+    },
+    {
+      "text": "アオジんお散歩ビビりました padi",
+      "duration": 7.68,
+      "offset": 858.53,
+      "lang": "en"
+    },
+    {
+      "text": "でもまあまあ下手なぁまぁここだと思います",
+      "duration": 8.97,
+      "offset": 862.61,
+      "lang": "en"
+    },
+    {
+      "text": "そうですねっれたれ僕も良いと思いますでもねちょっとたこれだけが濃いんだよなー",
+      "duration": 5.74,
+      "offset": 866.21,
+      "lang": "en"
+    },
+    {
+      "text": "こー",
+      "duration": 2.75,
+      "offset": 871.58,
+      "lang": "en"
+    },
+    {
+      "text": "にそれで a fellow だ",
+      "duration": 6.37,
+      "offset": 871.95,
+      "lang": "en"
+    },
+    {
+      "text": "考え変わったんですのでついてますもんね箱奴多く攻めた待つ間",
+      "duration": 5.63,
+      "offset": 874.33,
+      "lang": "en"
+    },
+    {
+      "text": "前回にすっ",
+      "duration": 4.64,
+      "offset": 878.32,
+      "lang": "en"
+    },
+    {
+      "text": "でも部分が下手なんでしょたぶん雑司町攻めてるぞ",
+      "duration": 6.96,
+      "offset": 879.96,
+      "lang": "en"
+    },
+    {
+      "text": "やれよはすべてのくれることなんだぞやっぱ若い1個だからっていうのはあると思い",
+      "duration": 4.77,
+      "offset": 882.96,
+      "lang": "en"
+    },
+    {
+      "text": "ます",
+      "duration": 5.4,
+      "offset": 886.92,
+      "lang": "en"
+    },
+    {
+      "text": "そこらのやっぱもうちょっとメルト寿司がぶっちぎりだと思うけどなぁ",
+      "duration": 5.61,
+      "offset": 887.73,
+      "lang": "en"
+    },
+    {
+      "text": "はい",
+      "duration": 5.85,
+      "offset": 892.32,
+      "lang": "en"
+    },
+    {
+      "text": "でもあそだおじさん達を考えるんですよね昨夏に保持てるよだからの乳児ネーションで",
+      "duration": 6.3,
+      "offset": 893.34,
+      "lang": "en"
+    },
+    {
+      "text": "市場シェアジェネレーションですよ",
+      "duration": 6.09,
+      "offset": 898.17,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあまあ男性陣に出しましょうかねまあよりいらっしゃるとそれもより行きに彼女が",
+      "duration": 7.98,
+      "offset": 899.64,
+      "lang": "en"
+    },
+    {
+      "text": "でしょあ生の東京",
+      "duration": 10.47,
+      "offset": 904.26,
+      "lang": "en"
+    },
+    {
+      "text": "きっ230これだろおっ言い方から言うとはを機に来てまた某キリンページでお気に",
+      "duration": 8.25,
+      "offset": 907.62,
+      "lang": "en"
+    },
+    {
+      "text": "入ってほしいだろうはい",
+      "duration": 6.81,
+      "offset": 914.73,
+      "lang": "en"
+    },
+    {
+      "text": "氏が破っちびり人気ですまじゃあやっぱそんなんかーい",
+      "duration": 11.74,
+      "offset": 915.87,
+      "lang": "en"
+    },
+    {
+      "text": "いやじぇろすかねあんがティックせてるけどあ",
+      "duration": 13.81,
+      "offset": 921.54,
+      "lang": "en"
+    },
+    {
+      "text": "やするなんかこのメンバーだと俺はあるんだなと思いますけどこれさぁ秋葉原って入れ",
+      "duration": 11.58,
+      "offset": 927.61,
+      "lang": "en"
+    },
+    {
+      "text": "たしねソウ哀悼としてそういうことだっぱらホラー",
+      "duration": 7.08,
+      "offset": 935.35,
+      "lang": "en"
+    },
+    {
+      "text": "でわぁまぢで太るクリック",
+      "duration": 6.75,
+      "offset": 939.19,
+      "lang": "en"
+    },
+    {
+      "text": "4ページん皆さんお願いしますはい",
+      "duration": 6.87,
+      "offset": 942.43,
+      "lang": "en"
+    },
+    {
+      "text": "マイ性能のっ",
+      "duration": 10.49,
+      "offset": 945.94,
+      "lang": "en"
+    },
+    {
+      "text": "あきもーみんにゃにゃー",
+      "duration": 7.13,
+      "offset": 949.3,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバー",
+      "duration": 15.83,
+      "offset": 959.93,
+      "lang": "en"
+    },
+    {
+      "text": "ティッチんぬー29",
+      "duration": 18.85,
+      "offset": 961.29,
+      "lang": "en"
+    },
+    {
+      "text": "列車 a 東京1位お嫁ちえる今陸協は",
+      "duration": 12.97,
+      "offset": 975.76,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあワーコレコレア競馬なきゃバーのあの答えは何ですかね d やっぱりあるいは",
+      "duration": 11.49,
+      "offset": 980.14,
+      "lang": "en"
+    },
+    {
+      "text": "アクトバラード生えちゃうん",
+      "duration": 5.64,
+      "offset": 988.73,
+      "lang": "en"
+    },
+    {
+      "text": "秋葉原うん",
+      "duration": 6.45,
+      "offset": 991.63,
+      "lang": "en"
+    },
+    {
+      "text": "どうしてそりゃあ間鯖じゃないから晴れ",
+      "duration": 8.8,
+      "offset": 994.37,
+      "lang": "en"
+    },
+    {
+      "text": "たーっモーター1あぁーっ",
+      "duration": 5.09,
+      "offset": 998.08,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー言っ",
+      "duration": 4.17,
+      "offset": 1011.09,
+      "lang": "en"
+    },
+    {
+      "text": "はいじゃあもう",
+      "duration": 21.75,
+      "offset": 1013.5,
+      "lang": "en"
+    },
+    {
+      "text": "お店が多いからとか ran made a ar サーチャーヌー式",
+      "duration": 25.93,
+      "offset": 1015.26,
+      "lang": "en"
+    },
+    {
+      "text": "家がもう何も知らないんだからベトナムのことじゃないからちょっと待って",
+      "duration": 10.22,
+      "offset": 1035.25,
+      "lang": "en"
+    },
+    {
+      "text": "まず服屋行っ皆さん皆さん",
+      "duration": 7.97,
+      "offset": 1041.19,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーある宿ゆぬ",
+      "duration": 6.83,
+      "offset": 1045.47,
+      "lang": "en"
+    },
+    {
+      "text": "そうアイターアイター",
+      "duration": 3.14,
+      "offset": 1049.16,
+      "lang": "en"
+    },
+    {
+      "text": "切ってんどうかじゃないも入れますば負担はねゆちゃんがねダブランダーん",
+      "duration": 6.77,
+      "offset": 1052.37,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブされるなぁこれだーれロス",
+      "duration": 11.67,
+      "offset": 1069.36,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 3.94,
+      "offset": 1077.09,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー sa ペーパンヌード漫画案に目",
+      "duration": 14.75,
+      "offset": 1085.33,
+      "lang": "en"
+    },
+    {
+      "text": "んだ言ってもなあこれライブ詳しいはず",
+      "duration": 7.62,
+      "offset": 1095.55,
+      "lang": "en"
+    },
+    {
+      "text": "馬車がこれいます茶コーラと基礎はーい",
+      "duration": 8.31,
+      "offset": 1100.08,
+      "lang": "en"
+    },
+    {
+      "text": "ですねぽちっれるは有名だって感じるんだよねそうですね",
+      "duration": 10.08,
+      "offset": 1103.17,
+      "lang": "en"
+    },
+    {
+      "text": "いう音有名なてがといえばみたいな何を想像するみたいに言って待ってもありましたよ",
+      "duration": 10.92,
+      "offset": 1108.39,
+      "lang": "en"
+    },
+    {
+      "text": "ね a man ガーバーアニメエティエンドアバンが付いアニメ水",
+      "duration": 12.6,
+      "offset": 1113.25,
+      "lang": "en"
+    },
+    {
+      "text": "4つあるパー enjin ねこやぴまえー breaker",
+      "duration": 11.8,
+      "offset": 1119.31,
+      "lang": "en"
+    },
+    {
+      "text": "みなさんの好きな人じゃないことですよね日本まだ今のは好きな奴でもいいですか",
+      "duration": 8.83,
+      "offset": 1125.85,
+      "lang": "en"
+    },
+    {
+      "text": "みたいな感じで聞かれたんだけどこれをぴょっ系それも譲らん",
+      "duration": 7.08,
+      "offset": 1131.11,
+      "lang": "en"
+    },
+    {
+      "text": "あーまじでしっ猫ちゃんはだいぶすべて作ったよね",
+      "duration": 8.04,
+      "offset": 1134.68,
+      "lang": "en"
+    },
+    {
+      "text": "詳しいからラティオ a えっなったんでしょ",
+      "duration": 7.33,
+      "offset": 1138.19,
+      "lang": "en"
+    },
+    {
+      "text": "今僕はおっきいまっ雨じゃあカット",
+      "duration": 8.02,
+      "offset": 1142.72,
+      "lang": "en"
+    },
+    {
+      "text": "だしてそしたら a 難しい半に実は米こちらはでもコアなやつくるけどあと太いかで",
+      "duration": 6.15,
+      "offset": 1145.52,
+      "lang": "en"
+    },
+    {
+      "text": "来ると思うから",
+      "duration": 3.96,
+      "offset": 1150.74,
+      "lang": "en"
+    },
+    {
+      "text": "どっちを取るかレスポイントを取りに行く俺は何その",
+      "duration": 5.67,
+      "offset": 1151.67,
+      "lang": "en"
+    },
+    {
+      "text": "そこがでもなぁ",
+      "duration": 10.49,
+      "offset": 1154.7,
+      "lang": "en"
+    },
+    {
+      "text": "逃がしてるのかなーっている女子は好きなんで",
+      "duration": 7.85,
+      "offset": 1157.34,
+      "lang": "en"
+    },
+    {
+      "text": "いやー",
+      "duration": 2.33,
+      "offset": 1166.38,
+      "lang": "en"
+    },
+    {
+      "text": "bouvet peltor の優勝 d 4 e 野球狂の詩急遽",
+      "duration": 14.01,
+      "offset": 1174.97,
+      "lang": "en"
+    },
+    {
+      "text": "なんで昔あああーーヌー",
+      "duration": 9.05,
+      "offset": 1179.93,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれロス",
+      "duration": 9.05,
+      "offset": 1201.59,
+      "lang": "en"
+    },
+    {
+      "text": "とこだけですよおじいさん4実弾",
+      "duration": 10.11,
+      "offset": 1207.4,
+      "lang": "en"
+    },
+    {
+      "text": "キャッキャ家でもうつワゴンな言ってごめんとも伸びない公園とことでねハッハー",
+      "duration": 12.51,
+      "offset": 1210.64,
+      "lang": "en"
+    },
+    {
+      "text": "難しいなぁ石臼アームそれをタッチしは何ページかなとから間違えちゃう食べてたよ",
+      "duration": 8.1,
+      "offset": 1217.51,
+      "lang": "en"
+    },
+    {
+      "text": "大破",
+      "duration": 6.33,
+      "offset": 1223.15,
+      "lang": "en"
+    },
+    {
+      "text": "いいですからやろどうなるんですけどねこれは出ないなぁ",
+      "duration": 6.45,
+      "offset": 1225.61,
+      "lang": "en"
+    },
+    {
+      "text": "それはアークじゃあ俺までたいっ",
+      "duration": 7.7,
+      "offset": 1229.48,
+      "lang": "en"
+    },
+    {
+      "text": "いきましょーへいの男性時ねもう下手です下手",
+      "duration": 9.59,
+      "offset": 1232.06,
+      "lang": "en"
+    },
+    {
+      "text": "あきまー archi 滅が木刀ほ泉さん日別のヤイバー",
+      "duration": 5.47,
+      "offset": 1237.18,
+      "lang": "en"
+    },
+    {
+      "text": "組成",
+      "duration": 22.8,
+      "offset": 1241.65,
+      "lang": "en"
+    },
+    {
+      "text": "ポラフィリポ等へもえええええっ印象が bleach regus ぶっさーい",
+      "duration": 21.8,
+      "offset": 1242.65,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー s ましょう",
+      "duration": 7.24,
+      "offset": 1271.42,
+      "lang": "en"
+    },
+    {
+      "text": "うわぁ路線のみなさーん",
+      "duration": 4.67,
+      "offset": 1276.23,
+      "lang": "en"
+    },
+    {
+      "text": "お願いします",
+      "duration": 3.9,
+      "offset": 1278.66,
+      "lang": "en"
+    },
+    {
+      "text": "ねえな",
+      "duration": 6.77,
+      "offset": 1280.9,
+      "lang": "en"
+    },
+    {
+      "text": "日別のライマーわー def brain もうほどホケ瀬あっ",
+      "duration": 7.5,
+      "offset": 1282.56,
+      "lang": "en"
+    },
+    {
+      "text": "セーラームーン年名",
+      "duration": 6.56,
+      "offset": 1287.67,
+      "lang": "en"
+    },
+    {
+      "text": "a なるほどはパラちょっとなぁ",
+      "duration": 8.82,
+      "offset": 1290.06,
+      "lang": "en"
+    },
+    {
+      "text": "痛くないんだねぇねぇ荒毛たなーすげー村 keter",
+      "duration": 7.74,
+      "offset": 1294.23,
+      "lang": "en"
+    },
+    {
+      "text": "是非当院さんが市いい",
+      "duration": 6.3,
+      "offset": 1298.88,
+      "lang": "en"
+    },
+    {
+      "text": "ヒメプラ行きか決めつも1ねえええ",
+      "duration": 5.23,
+      "offset": 1301.97,
+      "lang": "en"
+    },
+    {
+      "text": "うーんすごくだよ",
+      "duration": 7.99,
+      "offset": 1305.18,
+      "lang": "en"
+    },
+    {
+      "text": "それかじゃないはいえー音声清覧結ぶちゃんどうして",
+      "duration": 12.81,
+      "offset": 1307.2,
+      "lang": "en"
+    },
+    {
+      "text": "えっと者バレー言う生だもんってあのその漫画アニメが好きのうちとだけじゃなくて",
+      "duration": 11.4,
+      "offset": 1313.17,
+      "lang": "en"
+    },
+    {
+      "text": "あるとパンのベトナム人もしてるんじゃそは音姉",
+      "duration": 7.6,
+      "offset": 1320.01,
+      "lang": "en"
+    },
+    {
+      "text": "ライン祐明とロスええええ",
+      "duration": 6.64,
+      "offset": 1324.57,
+      "lang": "en"
+    },
+    {
+      "text": "いろんなブランドでもあの取り上げる",
+      "duration": 5.77,
+      "offset": 1327.61,
+      "lang": "en"
+    },
+    {
+      "text": "あれ",
+      "duration": 6.04,
+      "offset": 1331.21,
+      "lang": "en"
+    },
+    {
+      "text": "ちゃんと流れやってるセーラームーンは主題歌",
+      "duration": 8.79,
+      "offset": 1333.38,
+      "lang": "en"
+    },
+    {
+      "text": "歌も一緒にほんのうたといっしょですねあいっしょなんだんですよ",
+      "duration": 8.91,
+      "offset": 1337.25,
+      "lang": "en"
+    },
+    {
+      "text": "歌もみんな結構知ってるので他の人はそうなんだ",
+      "duration": 5.03,
+      "offset": 1342.17,
+      "lang": "en"
+    },
+    {
+      "text": "う",
+      "duration": 3.74,
+      "offset": 1346.16,
+      "lang": "en"
+    },
+    {
+      "text": "普通なもについて詳しい a",
+      "duration": 8.5,
+      "offset": 1347.2,
+      "lang": "en"
+    },
+    {
+      "text": "aiaiai ジャンピーですウォッチしてるけどピース one piece は",
+      "duration": 8.0,
+      "offset": 1349.9,
+      "lang": "en"
+    },
+    {
+      "text": "キャラクター誰がっきー",
+      "duration": 9.51,
+      "offset": 1355.7,
+      "lang": "en"
+    },
+    {
+      "text": "お兄ちゃーん b あサンディスキーさんジーパンず猫こそっっ",
+      "duration": 9.35,
+      "offset": 1357.9,
+      "lang": "en"
+    },
+    {
+      "text": "スゴイエー",
+      "duration": 5.1,
+      "offset": 1365.21,
+      "lang": "en"
+    },
+    {
+      "text": "あ辛くてから赤髪のシャンクかと思ったら一番ね",
+      "duration": 6.47,
+      "offset": 1367.25,
+      "lang": "en"
+    },
+    {
+      "text": "どこ渋いところだよね赤いからじゃう",
+      "duration": 6.98,
+      "offset": 1370.31,
+      "lang": "en"
+    },
+    {
+      "text": "全貼ってる10年そうしてるドラえもんはやっぱり",
+      "duration": 7.35,
+      "offset": 1373.72,
+      "lang": "en"
+    },
+    {
+      "text": "土のうフラ現在も有名だよね10代20代ますよね",
+      "duration": 6.13,
+      "offset": 1377.29,
+      "lang": "en"
+    },
+    {
+      "text": "レンヌしていいでしょ",
+      "duration": 6.37,
+      "offset": 1381.07,
+      "lang": "en"
+    },
+    {
+      "text": "りんごちゃんは決め釣ればいやーさあ",
+      "duration": 6.66,
+      "offset": 1383.42,
+      "lang": "en"
+    },
+    {
+      "text": "倒れるで姫つのヤイバー",
+      "duration": 3.78,
+      "offset": 1387.44,
+      "lang": "en"
+    },
+    {
+      "text": "あ",
+      "duration": 4.59,
+      "offset": 1390.08,
+      "lang": "en"
+    },
+    {
+      "text": "選んだパリ名バラマンディあのならバイ",
+      "duration": 4.95,
+      "offset": 1391.22,
+      "lang": "en"
+    },
+    {
+      "text": "p pro",
+      "duration": 6.35,
+      "offset": 1394.67,
+      "lang": "en"
+    },
+    {
+      "text": "4あの読んでると版がとかアニメは4 a",
+      "duration": 4.85,
+      "offset": 1396.17,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 5.29,
+      "offset": 1412.38,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー",
+      "duration": 4.19,
+      "offset": 1419.55,
+      "lang": "en"
+    },
+    {
+      "text": "who 誓っはい勉強しました",
+      "duration": 6.83,
+      "offset": 1420.65,
+      "lang": "en"
+    },
+    {
+      "text": "はぁ今ちょっとには6命よんだよねー",
+      "duration": 7.97,
+      "offset": 1423.74,
+      "lang": "en"
+    },
+    {
+      "text": "随伴トラックわかるぞでもうそーすぎやだあああ",
+      "duration": 8.34,
+      "offset": 1427.48,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとちょっと変わった人もん day",
+      "duration": 9.99,
+      "offset": 1431.71,
+      "lang": "en"
+    },
+    {
+      "text": "日本人男性のイメージはエアーこれはかんあ m ず",
+      "duration": 10.37,
+      "offset": 1435.82,
+      "lang": "en"
+    },
+    {
+      "text": "これは何でしょうかねぇ南2",
+      "duration": 4.49,
+      "offset": 1441.7,
+      "lang": "en"
+    },
+    {
+      "text": "エイラ ana",
+      "duration": 8.03,
+      "offset": 1447.5,
+      "lang": "en"
+    },
+    {
+      "text": "政治家の会クレームが大クレーム期待はこんなにいう",
+      "duration": 6.65,
+      "offset": 1450.53,
+      "lang": "en"
+    },
+    {
+      "text": "すーっ",
+      "duration": 5.68,
+      "offset": 1455.53,
+      "lang": "en"
+    },
+    {
+      "text": "日本人男性のい何でもいいようなんでもいいいい",
+      "duration": 7.43,
+      "offset": 1457.18,
+      "lang": "en"
+    },
+    {
+      "text": "ネガティブでもいい子なんだろうなぁ",
+      "duration": 8.59,
+      "offset": 1461.21,
+      "lang": "en"
+    },
+    {
+      "text": "8思われてるから8かあっああノズル言葉がいいかな",
+      "duration": 8.85,
+      "offset": 1464.61,
+      "lang": "en"
+    },
+    {
+      "text": "マッセイ邪魔でしょうかな性格政府が生ん",
+      "duration": 5.89,
+      "offset": 1469.8,
+      "lang": "en"
+    },
+    {
+      "text": "a みようかなうーん",
+      "duration": 3.06,
+      "offset": 1473.46,
+      "lang": "en"
+    },
+    {
+      "text": "2",
+      "duration": 3.02,
+      "offset": 1475.69,
+      "lang": "en"
+    },
+    {
+      "text": "なんだ",
+      "duration": 3.89,
+      "offset": 1476.52,
+      "lang": "en"
+    },
+    {
+      "text": "mlq たーーー",
+      "duration": 4.84,
+      "offset": 1478.71,
+      "lang": "en"
+    },
+    {
+      "text": "字受けれるじゃないのでやや傾い",
+      "duration": 8.42,
+      "offset": 1480.41,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 19.24,
+      "offset": 1483.55,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー s かあんた分質問を創造して考えてくれたんですぅー do",
+      "duration": 17.56,
+      "offset": 1488.83,
+      "lang": "en"
+    },
+    {
+      "text": "adam rhymester 言ってください",
+      "duration": 8.26,
+      "offset": 1502.79,
+      "lang": "en"
+    },
+    {
+      "text": "re トントン開けほんと灰紺茶にファイリング me",
+      "duration": 6.02,
+      "offset": 1506.39,
+      "lang": "en"
+    },
+    {
+      "text": "ああああ",
+      "duration": 3.85,
+      "offset": 1511.05,
+      "lang": "en"
+    },
+    {
+      "text": "えーんですよねー",
+      "duration": 7.02,
+      "offset": 1512.41,
+      "lang": "en"
+    },
+    {
+      "text": "a それそれそれこそどうそぼきました",
+      "duration": 8.32,
+      "offset": 1514.9,
+      "lang": "en"
+    },
+    {
+      "text": "のウソを言ってきたかいた",
+      "duration": 10.51,
+      "offset": 1519.43,
+      "lang": "en"
+    },
+    {
+      "text": "集まってくださいまぁこれでんがイスラエルが日本人の女性のイメージで言ったのが",
+      "duration": 10.17,
+      "offset": 1523.22,
+      "lang": "en"
+    },
+    {
+      "text": "チャイカ妻と言いましたね日本女性は社員じゃない",
+      "duration": 6.1,
+      "offset": 1529.94,
+      "lang": "en"
+    },
+    {
+      "text": "男性はどう思ってんだろうなぁ",
+      "duration": 4.65,
+      "offset": 1533.39,
+      "lang": "en"
+    },
+    {
+      "text": "自分たちだからなぁ",
+      "duration": 7.78,
+      "offset": 1536.04,
+      "lang": "en"
+    },
+    {
+      "text": "でも多分これだったもんだよなぁ一般的な例なんだろう",
+      "duration": 5.78,
+      "offset": 1538.04,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーと思うからたブーブー配信じゃなくて本当に思ってるはずったら a loss",
+      "duration": 19.16,
+      "offset": 1544.2,
+      "lang": "en"
+    },
+    {
+      "text": "あって下さないと思いますよ本当の本心を歩き",
+      "duration": 8.43,
+      "offset": 1556.63,
+      "lang": "en"
+    },
+    {
+      "text": "ません",
+      "duration": 8.48,
+      "offset": 1563.36,
+      "lang": "en"
+    },
+    {
+      "text": "で話題米ていいですかいい出荷付く付かせていきますよはいお会いしましょう",
+      "duration": 9.21,
+      "offset": 1565.06,
+      "lang": "en"
+    },
+    {
+      "text": "たぜ人生の",
+      "duration": 5.24,
+      "offset": 1571.84,
+      "lang": "en"
+    },
+    {
+      "text": "早田し",
+      "duration": 6.05,
+      "offset": 1574.27,
+      "lang": "en"
+    },
+    {
+      "text": "んですよねだろうなぁか人",
+      "duration": 6.78,
+      "offset": 1577.08,
+      "lang": "en"
+    },
+    {
+      "text": "だからサイトをやりたいだ仕事がいるなぁ仕事を",
+      "duration": 7.68,
+      "offset": 1580.32,
+      "lang": "en"
+    },
+    {
+      "text": "ばっかりしてるんだねなるほどなるほど真面目かなぁ",
+      "duration": 8.46,
+      "offset": 1583.86,
+      "lang": "en"
+    },
+    {
+      "text": "はい成熟しているかご誠実ました青い空いいよ",
+      "duration": 7.45,
+      "offset": 1588.0,
+      "lang": "en"
+    },
+    {
+      "text": "遺書処理愛的には",
+      "duration": 4.36,
+      "offset": 1592.32,
+      "lang": "en"
+    },
+    {
+      "text": "では",
+      "duration": 3.93,
+      "offset": 1595.45,
+      "lang": "en"
+    },
+    {
+      "text": "女性の皆さん",
+      "duration": 6.02,
+      "offset": 1596.68,
+      "lang": "en"
+    },
+    {
+      "text": "お願いします勝敗",
+      "duration": 7.73,
+      "offset": 1599.38,
+      "lang": "en"
+    },
+    {
+      "text": "はい生の h 様から",
+      "duration": 9.3,
+      "offset": 1602.7,
+      "lang": "en"
+    },
+    {
+      "text": "ロレゲーム分か可愛いとかです",
+      "duration": 8.16,
+      "offset": 1607.11,
+      "lang": "en"
+    },
+    {
+      "text": "恋がしたいいいとか",
+      "duration": 8.1,
+      "offset": 1612.0,
+      "lang": "en"
+    },
+    {
+      "text": "いや声が可愛い声かな声が可愛く2不明られはーいフィード",
+      "duration": 7.58,
+      "offset": 1615.27,
+      "lang": "en"
+    },
+    {
+      "text": "どんな人いる",
+      "duration": 2.75,
+      "offset": 1620.1,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーし",
+      "duration": 4.44,
+      "offset": 1637.8,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーイメージですねはい",
+      "duration": 12.57,
+      "offset": 1646.36,
+      "lang": "en"
+    },
+    {
+      "text": "都営パーカーちゃんヌーはかっこいいっ",
+      "duration": 9.86,
+      "offset": 1649.07,
+      "lang": "en"
+    },
+    {
+      "text": "ana",
+      "duration": 7.64,
+      "offset": 1659.73,
+      "lang": "en"
+    },
+    {
+      "text": "レモンとライムスターはう天たねハミィちゃんはお兄ちゃん",
+      "duration": 5.93,
+      "offset": 1661.44,
+      "lang": "en"
+    },
+    {
+      "text": "ブービー厳しいかああーっ",
+      "duration": 11.26,
+      "offset": 1673.96,
+      "lang": "en"
+    },
+    {
+      "text": "可愛いかえーっあっあーっはああいう言い方は良いは何よ",
+      "duration": 10.83,
+      "offset": 1677.69,
+      "lang": "en"
+    },
+    {
+      "text": "かわいいが変わいうのよしこれらを en",
+      "duration": 5.26,
+      "offset": 1685.22,
+      "lang": "en"
+    },
+    {
+      "text": "さあ",
+      "duration": 5.41,
+      "offset": 1688.52,
+      "lang": "en"
+    },
+    {
+      "text": "運ゲ動画で言うなよ糸目",
+      "duration": 7.97,
+      "offset": 1690.48,
+      "lang": "en"
+    },
+    {
+      "text": "現場は性格が可愛いんですよねぇー",
+      "duration": 16.93,
+      "offset": 1693.93,
+      "lang": "en"
+    },
+    {
+      "text": "ブービー1現れるおぉけっこう大大大大パーティーはでパティますアーマーれ恋か",
+      "duration": 20.02,
+      "offset": 1698.45,
+      "lang": "en"
+    },
+    {
+      "text": "あっっはいいよみー",
+      "duration": 10.51,
+      "offset": 1710.86,
+      "lang": "en"
+    },
+    {
+      "text": "銅像はいいけどなぁ",
+      "duration": 2.9,
+      "offset": 1718.47,
+      "lang": "en"
+    },
+    {
+      "text": "俺子さんどうぞ",
+      "duration": 6.38,
+      "offset": 1722.61,
+      "lang": "en"
+    },
+    {
+      "text": "ガトーがかわいいですよねかわいい犬舎8のおっさんが",
+      "duration": 7.07,
+      "offset": 1724.19,
+      "lang": "en"
+    },
+    {
+      "text": "アーク大門もうわー",
+      "duration": 6.27,
+      "offset": 1728.99,
+      "lang": "en"
+    },
+    {
+      "text": "横根 a は会やたっちゃん",
+      "duration": 8.44,
+      "offset": 1731.26,
+      "lang": "en"
+    },
+    {
+      "text": "c これは難しいですねでも嬉しい",
+      "duration": 6.47,
+      "offset": 1735.26,
+      "lang": "en"
+    },
+    {
+      "text": "トレイでいいですかねぇ",
+      "duration": 6.14,
+      "offset": 1739.7,
+      "lang": "en"
+    },
+    {
+      "text": "なんだよっているものの余地用地",
+      "duration": 10.11,
+      "offset": 1741.73,
+      "lang": "en"
+    },
+    {
+      "text": "ああああ可愛いなどこれにはお姉ちゃん優しいとかが入ってるってことどういう可愛い",
+      "duration": 11.32,
+      "offset": 1745.84,
+      "lang": "en"
+    },
+    {
+      "text": "なんだろうなんだろう子供見たいところを急ぐは編者に行く",
+      "duration": 6.84,
+      "offset": 1751.84,
+      "lang": "en"
+    },
+    {
+      "text": "んじゃいます",
+      "duration": 2.91,
+      "offset": 1757.16,
+      "lang": "en"
+    },
+    {
+      "text": "んじゃないか",
+      "duration": 2.86,
+      "offset": 1758.68,
+      "lang": "en"
+    },
+    {
+      "text": "4いいね",
+      "duration": 2.45,
+      "offset": 1760.07,
+      "lang": "en"
+    },
+    {
+      "text": "病名やない",
+      "duration": 3.35,
+      "offset": 1761.54,
+      "lang": "en"
+    },
+    {
+      "text": "井村言わ",
+      "duration": 9.46,
+      "offset": 1762.52,
+      "lang": "en"
+    },
+    {
+      "text": "あれはなんかられちゃう実はありませんですけど無茶もう意味がわからない",
+      "duration": 11.89,
+      "offset": 1764.89,
+      "lang": "en"
+    },
+    {
+      "text": "意味がわかんないいやーなんかビールのいいかわかんないみたいなそういうことなんか",
+      "duration": 7.38,
+      "offset": 1771.98,
+      "lang": "en"
+    },
+    {
+      "text": "なきゃだねもう散っなんだ",
+      "duration": 7.3,
+      "offset": 1776.78,
+      "lang": "en"
+    },
+    {
+      "text": "a 俺そういう事ですもんねイメージってそういうことですか a 4チャンティ",
+      "duration": 8.32,
+      "offset": 1779.36,
+      "lang": "en"
+    },
+    {
+      "text": "てそれを言葉思い浮かぶっていう",
+      "duration": 5.91,
+      "offset": 1784.08,
+      "lang": "en"
+    },
+    {
+      "text": "キャイーンゾーンか",
+      "duration": 7.44,
+      "offset": 1787.68,
+      "lang": "en"
+    },
+    {
+      "text": "リーダーっぷりいきましょうかいやいや4杯では続きまして",
+      "duration": 10.94,
+      "offset": 1789.99,
+      "lang": "en"
+    },
+    {
+      "text": "ベトナム人の傘が思い描く日本の有名人は",
+      "duration": 8.28,
+      "offset": 1795.12,
+      "lang": "en"
+    },
+    {
+      "text": "mca",
+      "duration": 6.04,
+      "offset": 1800.93,
+      "lang": "en"
+    },
+    {
+      "text": "グルー誰0 um はい",
+      "duration": 8.1,
+      "offset": 1803.4,
+      "lang": "en"
+    },
+    {
+      "text": "は神主の和解の私はこれはで通っ携帯",
+      "duration": 6.47,
+      "offset": 1806.97,
+      "lang": "en"
+    },
+    {
+      "text": "細い",
+      "duration": 7.44,
+      "offset": 1811.5,
+      "lang": "en"
+    },
+    {
+      "text": "w do この lense のティングジャパン",
+      "duration": 10.1,
+      "offset": 1813.44,
+      "lang": "en"
+    },
+    {
+      "text": "医学において見えます seo 天気ペイバーか p",
+      "duration": 5.79,
+      "offset": 1818.94,
+      "lang": "en"
+    },
+    {
+      "text": "前編",
+      "duration": 8.91,
+      "offset": 1823.54,
+      "lang": "en"
+    },
+    {
+      "text": "永恆別人間シートお菓子じゃなくていいんですか徒だけになってもいいよな",
+      "duration": 12.01,
+      "offset": 1824.73,
+      "lang": "en"
+    },
+    {
+      "text": "あの歌手ところでていくか言うとかじゃなくてもいいゲーム j",
+      "duration": 8.25,
+      "offset": 1832.45,
+      "lang": "en"
+    },
+    {
+      "text": "もいいと選んだ方がええあとかもあるし",
+      "duration": 11.58,
+      "offset": 1836.74,
+      "lang": "en"
+    },
+    {
+      "text": "まあまあかページとかもあるし多分本当電磁がうずいぞアジズホラーは違うそれね全然",
+      "duration": 8.94,
+      "offset": 1840.7,
+      "lang": "en"
+    },
+    {
+      "text": "スーツケ",
+      "duration": 4.12,
+      "offset": 1848.32,
+      "lang": "en"
+    },
+    {
+      "text": "難波も21でしょでも今の聞いたら",
+      "duration": 7.02,
+      "offset": 1849.64,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとマジでプレますねなんかうんほとんな",
+      "duration": 6.53,
+      "offset": 1852.44,
+      "lang": "en"
+    },
+    {
+      "text": "して相愛な",
+      "duration": 8.61,
+      "offset": 1856.66,
+      "lang": "en"
+    },
+    {
+      "text": "決済へラガー際はぜひ足すごい同タイムとおいてやれっつっていろいろ編やるよいいね",
+      "duration": 9.36,
+      "offset": 1858.97,
+      "lang": "en"
+    },
+    {
+      "text": "純情報を流れて情報というか",
+      "duration": 6.29,
+      "offset": 1865.27,
+      "lang": "en"
+    },
+    {
+      "text": "日本でアーティストが",
+      "duration": 10.25,
+      "offset": 1868.33,
+      "lang": "en"
+    },
+    {
+      "text": "2オークで人気の場所ベトナム人気とかそういうのはないあーやっぱ動力にならないん",
+      "duration": 8.97,
+      "offset": 1871.56,
+      "lang": "en"
+    },
+    {
+      "text": "ですねうん俺はもう",
+      "duration": 12.62,
+      "offset": 1878.58,
+      "lang": "en"
+    },
+    {
+      "text": "パティブーブーかにょポインタティ",
+      "duration": 10.67,
+      "offset": 1880.53,
+      "lang": "en"
+    },
+    {
+      "text": "えっじゃあこれでいいですかこれちょっと止まって",
+      "duration": 8.49,
+      "offset": 1891.63,
+      "lang": "en"
+    },
+    {
+      "text": "これもわからなくなってきた置き前でわかるんだ a子れたんだぞも本当に脱ぐの俺が",
+      "duration": 7.35,
+      "offset": 1894.87,
+      "lang": "en"
+    },
+    {
+      "text": "わからなくなっていった",
+      "duration": 5.7,
+      "offset": 1900.12,
+      "lang": "en"
+    },
+    {
+      "text": "誰なんだろうな問題ねで下されるとかこれは絡んだ",
+      "duration": 6.72,
+      "offset": 1902.22,
+      "lang": "en"
+    },
+    {
+      "text": "だせていただいた者がそう思ってるんだよ来いと分からない",
+      "duration": 6.93,
+      "offset": 1905.82,
+      "lang": "en"
+    },
+    {
+      "text": "もう中朝であれ論調のわかんない",
+      "duration": 6.45,
+      "offset": 1908.94,
+      "lang": "en"
+    },
+    {
+      "text": "や漏れこれしからドウモウ",
+      "duration": 8.64,
+      "offset": 1912.75,
+      "lang": "en"
+    },
+    {
+      "text": "いやこれさんがちょっとみたいなにアイテムだしオタク経営を宅地支出額のヒントに僕",
+      "duration": 14.91,
+      "offset": 1915.39,
+      "lang": "en"
+    },
+    {
+      "text": "は掴めましたなるほどああなるほど目よいいじゃなるほど目僕もそれに省から死刑ね",
+      "duration": 11.34,
+      "offset": 1921.39,
+      "lang": "en"
+    },
+    {
+      "text": "死刑 p からえーっ",
+      "duration": 5.08,
+      "offset": 1930.3,
+      "lang": "en"
+    },
+    {
+      "text": "べっですかぁこんっ year",
+      "duration": 6.37,
+      "offset": 1932.73,
+      "lang": "en"
+    },
+    {
+      "text": "だってなるこのでて今思っちゃった今最初に大体ツアー",
+      "duration": 7.57,
+      "offset": 1935.38,
+      "lang": "en"
+    },
+    {
+      "text": "アイドルが絶対書かないその1羽もなぁ",
+      "duration": 7.64,
+      "offset": 1939.1,
+      "lang": "en"
+    },
+    {
+      "text": "た対3くらい硬い感じの方を取っちゃったから",
+      "duration": 9.82,
+      "offset": 1942.95,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあ行きましょうかあったんでねありがとうハイアーチとってうーんはいっ",
+      "duration": 7.27,
+      "offset": 1946.74,
+      "lang": "en"
+    },
+    {
+      "text": "いきます",
+      "duration": 4.9,
+      "offset": 1952.77,
+      "lang": "en"
+    },
+    {
+      "text": "皆さんはいお願いしまーす",
+      "duration": 4.89,
+      "offset": 1954.01,
+      "lang": "en"
+    },
+    {
+      "text": "ええの",
+      "duration": 5.67,
+      "offset": 1957.67,
+      "lang": "en"
+    },
+    {
+      "text": "藤子不二雄フジコン使用カードほどアージェント",
+      "duration": 6.13,
+      "offset": 1958.9,
+      "lang": "en"
+    },
+    {
+      "text": "バナー a day",
+      "duration": 6.72,
+      "offset": 1963.34,
+      "lang": "en"
+    },
+    {
+      "text": "あずるいねぼくキャリイですキャリイ化けそうねあーなるほどっ",
+      "duration": 8.51,
+      "offset": 1965.03,
+      "lang": "en"
+    },
+    {
+      "text": "なんかこの音楽とか好きだったらキャリイかなっていう",
+      "duration": 7.71,
+      "offset": 1970.06,
+      "lang": "en"
+    },
+    {
+      "text": "まあある人かねぇかんざには多分ねジャニーズそんなにしかないですよね",
+      "duration": 8.24,
+      "offset": 1973.54,
+      "lang": "en"
+    },
+    {
+      "text": "ああもうあるんですよ多分",
+      "duration": 4.01,
+      "offset": 1977.77,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれたらどうしようかあっあっにゃあああそれかなぁあれもじゃあね",
+      "duration": 15.59,
+      "offset": 1989.12,
+      "lang": "en"
+    },
+    {
+      "text": "4月入れましょうでわー女性陣お願いします",
+      "duration": 7.19,
+      "offset": 2000.84,
+      "lang": "en"
+    },
+    {
+      "text": "はい生の日",
+      "duration": 6.44,
+      "offset": 2004.71,
+      "lang": "en"
+    },
+    {
+      "text": "そこではようだからねぇただ激しい",
+      "duration": 6.54,
+      "offset": 2008.03,
+      "lang": "en"
+    },
+    {
+      "text": "mature なんて改善に米津玄師",
+      "duration": 6.45,
+      "offset": 2011.15,
+      "lang": "en"
+    },
+    {
+      "text": "美味しいノア西野カナ落ちるー",
+      "duration": 7.64,
+      "offset": 2014.57,
+      "lang": "en"
+    },
+    {
+      "text": "さくらちゃんはそれもうちょっと前に続けて",
+      "duration": 4.61,
+      "offset": 2017.6,
+      "lang": "en"
+    },
+    {
+      "text": "直径あっ ok 圧迫しこっちしかーしへ釣行03",
+      "duration": 22.76,
+      "offset": 2022.54,
+      "lang": "en"
+    },
+    {
+      "text": "トッキュウジャーかっこいい声ロケじゃないですか",
+      "duration": 5.54,
+      "offset": 2042.53,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 4.03,
+      "offset": 2045.3,
+      "lang": "en"
+    },
+    {
+      "text": "yeah",
+      "duration": 5.37,
+      "offset": 2048.07,
+      "lang": "en"
+    },
+    {
+      "text": "やってではー嵐か嵐介はまあ",
+      "duration": 7.8,
+      "offset": 2049.33,
+      "lang": "en"
+    },
+    {
+      "text": "レジャーイマイチ俺は知ってるからなぁ",
+      "duration": 7.98,
+      "offset": 2053.44,
+      "lang": "en"
+    },
+    {
+      "text": "もうれず堅守とか知ってるよトレンドも出ますねー",
+      "duration": 7.07,
+      "offset": 2057.13,
+      "lang": "en"
+    },
+    {
+      "text": "りんごちゃんというの",
+      "duration": 7.5,
+      "offset": 2061.42,
+      "lang": "en"
+    },
+    {
+      "text": "hi me go プリン号梅安米酢 kc 品",
+      "duration": 24.74,
+      "offset": 2064.2,
+      "lang": "en"
+    },
+    {
+      "text": "姉うんあああああっあっー reus うーんぬーんってるッ",
+      "duration": 25.54,
+      "offset": 2068.92,
+      "lang": "en"
+    },
+    {
+      "text": "あーバックは m男クン日バックは米酢計4本",
+      "duration": 10.0,
+      "offset": 2088.94,
+      "lang": "en"
+    },
+    {
+      "text": "xin バックはへピコン",
+      "duration": 7.19,
+      "offset": 2094.46,
+      "lang": "en"
+    },
+    {
+      "text": "バッハんウェーバー web 版",
+      "duration": 6.68,
+      "offset": 2098.94,
+      "lang": "en"
+    },
+    {
+      "text": "応援するの金土生",
+      "duration": 6.69,
+      "offset": 2101.65,
+      "lang": "en"
+    },
+    {
+      "text": "なしてるよねねええええ",
+      "duration": 6.8,
+      "offset": 2105.62,
+      "lang": "en"
+    },
+    {
+      "text": "金子や幌ね関税",
+      "duration": 8.52,
+      "offset": 2108.34,
+      "lang": "en"
+    },
+    {
+      "text": "jins はとんでもの at があれ愛しの神奈川市のかな",
+      "duration": 11.39,
+      "offset": 2112.42,
+      "lang": "en"
+    },
+    {
+      "text": "石いるから m ハニーあっ奪い八西野カナで品",
+      "duration": 10.07,
+      "offset": 2116.86,
+      "lang": "en"
+    },
+    {
+      "text": "ね両草できるか歌いますかって聞いたら",
+      "duration": 9.86,
+      "offset": 2123.81,
+      "lang": "en"
+    },
+    {
+      "text": "歌えるっていう英語英雑魚じゃかえって1泊だけになっていいかならぜひぜひ",
+      "duration": 6.74,
+      "offset": 2126.93,
+      "lang": "en"
+    },
+    {
+      "text": "だーいすきなレベル震えるやったけお願いしますん",
+      "duration": 4.34,
+      "offset": 2135.13,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれごめんね白山黙れ安倍晋三ポカーン",
+      "duration": 12.04,
+      "offset": 2151.33,
+      "lang": "en"
+    },
+    {
+      "text": "羽広ん",
+      "duration": 2.75,
+      "offset": 2160.62,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーこのゲーム前をやったんですけどああうううう一度母一人いあのー",
+      "duration": 13.04,
+      "offset": 2169.56,
+      "lang": "en"
+    },
+    {
+      "text": "here till ああああああ",
+      "duration": 11.77,
+      "offset": 2175.59,
+      "lang": "en"
+    },
+    {
+      "text": "ません白無地怪我じゃねーんだからだ",
+      "duration": 4.76,
+      "offset": 2182.6,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーしれない",
+      "duration": 5.76,
+      "offset": 2203.73,
+      "lang": "en"
+    },
+    {
+      "text": "ですからーゲイナー",
+      "duration": 8.2,
+      "offset": 2206.03,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとじゃあ次どうしよう俺物くなってきたぞいなぁ",
+      "duration": 6.29,
+      "offset": 2209.49,
+      "lang": "en"
+    },
+    {
+      "text": "お得だかな",
+      "duration": 5.09,
+      "offset": 2214.23,
+      "lang": "en"
+    },
+    {
+      "text": "前もやったかもしれないですよあの映画",
+      "duration": 8.47,
+      "offset": 2215.78,
+      "lang": "en"
+    },
+    {
+      "text": "聞いてもいい映画日本映画すればいやこれがの",
+      "duration": 10.93,
+      "offset": 2219.32,
+      "lang": "en"
+    },
+    {
+      "text": "つまらねぇねぇもんですよああいうふうに組んで映画になったやつた無礼を",
+      "duration": 9.33,
+      "offset": 2224.25,
+      "lang": "en"
+    },
+    {
+      "text": "あまりちょっとゲームがですよねあり前じゃなくて",
+      "duration": 4.8,
+      "offset": 2230.25,
+      "lang": "en"
+    },
+    {
+      "text": "alife",
+      "duration": 4.74,
+      "offset": 2233.58,
+      "lang": "en"
+    },
+    {
+      "text": "アニメ映画もありでもありドラムのが理想",
+      "duration": 4.95,
+      "offset": 2235.05,
+      "lang": "en"
+    },
+    {
+      "text": "ドラマ出す",
+      "duration": 6.45,
+      "offset": 2238.32,
+      "lang": "en"
+    },
+    {
+      "text": "ムービーラーメン memo ボイヤーもう梅雨アニメもういいよアンパイヤ向け募金",
+      "duration": 8.43,
+      "offset": 2240.0,
+      "lang": "en"
+    },
+    {
+      "text": "会ハメを速めボーヤ e 2 fe んまうまー",
+      "duration": 6.96,
+      "offset": 2244.77,
+      "lang": "en"
+    },
+    {
+      "text": "ぴょんぴょんのうんちっ放し",
+      "duration": 7.43,
+      "offset": 2248.43,
+      "lang": "en"
+    },
+    {
+      "text": "あっ easteregg",
+      "duration": 4.13,
+      "offset": 2251.73,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー",
+      "duration": 3.44,
+      "offset": 2275.14,
+      "lang": "en"
+    },
+    {
+      "text": "あっ以来だう",
+      "duration": 6.18,
+      "offset": 2276.18,
+      "lang": "en"
+    },
+    {
+      "text": "日本人宇崎ねっとかじゃああーある言われたラッパるっ",
+      "duration": 6.24,
+      "offset": 2278.58,
+      "lang": "en"
+    },
+    {
+      "text": "んねえ",
+      "duration": 7.89,
+      "offset": 2282.36,
+      "lang": "en"
+    },
+    {
+      "text": "えーマジを置いていいね変化何よだれなんでした",
+      "duration": 9.52,
+      "offset": 2284.82,
+      "lang": "en"
+    },
+    {
+      "text": "4試合と規模千と千尋でもじゃあ",
+      "duration": 8.88,
+      "offset": 2290.25,
+      "lang": "en"
+    },
+    {
+      "text": "このヒューマンのもそっちか気がするなぁ",
+      "duration": 10.16,
+      "offset": 2294.34,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとを気に入ってるけどそれが置いてるのどうかわかんないと思うんですよねー",
+      "duration": 7.76,
+      "offset": 2299.13,
+      "lang": "en"
+    },
+    {
+      "text": "うーん",
+      "duration": 2.39,
+      "offset": 2304.5,
+      "lang": "en"
+    },
+    {
+      "text": "here",
+      "duration": 4.22,
+      "offset": 2324.69,
+      "lang": "en"
+    },
+    {
+      "text": "日本を好きな子たちで集まることだと思う",
+      "duration": 4.98,
+      "offset": 2325.73,
+      "lang": "en"
+    },
+    {
+      "text": "母屋のほかイン",
+      "duration": 5.16,
+      "offset": 2328.91,
+      "lang": "en"
+    },
+    {
+      "text": "あの4000にはやっぱ k pop の方があの",
+      "duration": 7.37,
+      "offset": 2330.71,
+      "lang": "en"
+    },
+    {
+      "text": "メインメインの派だろうねええそうなんぼう",
+      "duration": 9.25,
+      "offset": 2334.07,
+      "lang": "en"
+    },
+    {
+      "text": "では男性ていきましょうかはいえーの",
+      "duration": 9.29,
+      "offset": 2338.08,
+      "lang": "en"
+    },
+    {
+      "text": "の名はどんな決めドライぞみんなが飽きるなぁ",
+      "duration": 9.66,
+      "offset": 2343.32,
+      "lang": "en"
+    },
+    {
+      "text": "まあ流行るで言ったらそうか東電とトラックそれともタブーだったろうがトトロにし",
+      "duration": 6.21,
+      "offset": 2347.37,
+      "lang": "en"
+    },
+    {
+      "text": "ちゃった",
+      "duration": 5.85,
+      "offset": 2352.98,
+      "lang": "en"
+    },
+    {
+      "text": "まぁちょっともね絞りして多いですねちょころもうあのを多額だとか過ぎ geno と",
+      "duration": 5.67,
+      "offset": 2353.58,
+      "lang": "en"
+    },
+    {
+      "text": "思う",
+      "duration": 3.11,
+      "offset": 2358.83,
+      "lang": "en"
+    },
+    {
+      "text": "はあああっでは皆さん",
+      "duration": 8.48,
+      "offset": 2359.25,
+      "lang": "en"
+    },
+    {
+      "text": "お願いします女性の皆さん a 興味深いなんだろねーなー",
+      "duration": 9.47,
+      "offset": 2361.94,
+      "lang": "en"
+    },
+    {
+      "text": "いいのはああしかっ hemi の",
+      "duration": 8.3,
+      "offset": 2367.73,
+      "lang": "en"
+    },
+    {
+      "text": "ないというああいうところそれではと巨像1 ae 4-4",
+      "duration": 8.39,
+      "offset": 2371.41,
+      "lang": "en"
+    },
+    {
+      "text": "7ホール",
+      "duration": 3.77,
+      "offset": 2376.03,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.1,
+      "offset": 2388.7,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー言っ夏良いねじっねー",
+      "duration": 12.06,
+      "offset": 2392.1,
+      "lang": "en"
+    },
+    {
+      "text": "朝食ってはなく選挙政所だった今はふーたん君のだは有名",
+      "duration": 8.91,
+      "offset": 2398.3,
+      "lang": "en"
+    },
+    {
+      "text": "有名ですああ",
+      "duration": 3.05,
+      "offset": 2404.16,
+      "lang": "en"
+    },
+    {
+      "text": "ブービー以下アティロンぬファーレ",
+      "duration": 26.08,
+      "offset": 2407.92,
+      "lang": "en"
+    },
+    {
+      "text": "縁があったんですよじゃあねっ irr 03か18歳以下は見れなくてえーっあっ",
+      "duration": 15.12,
+      "offset": 2427.2,
+      "lang": "en"
+    },
+    {
+      "text": "あーっに有名だったからえーっロス上にょダメだぞ",
+      "duration": 11.8,
+      "offset": 2434.0,
+      "lang": "en"
+    },
+    {
+      "text": "ラーメンねやっぱ難しいし hey",
+      "duration": 8.09,
+      "offset": 2442.32,
+      "lang": "en"
+    },
+    {
+      "text": "雨で受けトトロじゃあもう来た僕は者",
+      "duration": 9.41,
+      "offset": 2445.8,
+      "lang": "en"
+    },
+    {
+      "text": "pta と全然部と雨が部典礼制限です年齢制限会を",
+      "duration": 5.97,
+      "offset": 2450.41,
+      "lang": "en"
+    },
+    {
+      "text": "ああ",
+      "duration": 4.64,
+      "offset": 2455.21,
+      "lang": "en"
+    },
+    {
+      "text": "ほトロとハウルはやっぱりジブリは好き",
+      "duration": 5.95,
+      "offset": 2456.38,
+      "lang": "en"
+    },
+    {
+      "text": "いえさ",
+      "duration": 2.48,
+      "offset": 2459.85,
+      "lang": "en"
+    },
+    {
+      "text": "ジブリ",
+      "duration": 6.15,
+      "offset": 2462.78,
+      "lang": "en"
+    },
+    {
+      "text": "宮崎駿は知ってるあきや論やえええっっ",
+      "duration": 9.21,
+      "offset": 2464.43,
+      "lang": "en"
+    },
+    {
+      "text": "ハヤオ宮崎はしている文を見えた喜友名",
+      "duration": 7.14,
+      "offset": 2468.93,
+      "lang": "en"
+    },
+    {
+      "text": "ヒゲモジャの真っ白い紙と",
+      "duration": 5.95,
+      "offset": 2473.64,
+      "lang": "en"
+    },
+    {
+      "text": "メガネのをいうの知ってるらしいですけど",
+      "duration": 6.03,
+      "offset": 2476.07,
+      "lang": "en"
+    },
+    {
+      "text": "以上所",
+      "duration": 2.51,
+      "offset": 2479.59,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 7.04,
+      "offset": 2486.96,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.06,
+      "offset": 2490.94,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 5.28,
+      "offset": 2495.65,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー",
+      "duration": 6.32,
+      "offset": 2499.89,
+      "lang": "en"
+    },
+    {
+      "text": "肌着フーチャーが感じるジブリ映画で一番有名は何ですか",
+      "duration": 8.53,
+      "offset": 2500.93,
+      "lang": "en"
+    },
+    {
+      "text": "その3つの中でそれから",
+      "duration": 7.32,
+      "offset": 2506.21,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとだろうあーちょっとアブと言うねええええ",
+      "duration": 7.15,
+      "offset": 2509.46,
+      "lang": "en"
+    },
+    {
+      "text": "はその hey",
+      "duration": 3.08,
+      "offset": 2513.53,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーあれ可愛い",
+      "duration": 3.56,
+      "offset": 2531.83,
+      "lang": "en"
+    },
+    {
+      "text": "ためになると思う",
+      "duration": 4.45,
+      "offset": 2534.51,
+      "lang": "en"
+    },
+    {
+      "text": "みんな丸ごとに方シャイな方的にねはいえー",
+      "duration": 5.22,
+      "offset": 2535.39,
+      "lang": "en"
+    },
+    {
+      "text": "面白いの",
+      "duration": 4.38,
+      "offset": 2538.96,
+      "lang": "en"
+    },
+    {
+      "text": "くれそんなラケルんだ",
+      "duration": 6.39,
+      "offset": 2540.61,
+      "lang": "en"
+    },
+    {
+      "text": "あるいうとパダムさんがあんまり力発揮してねんじゃない",
+      "duration": 4.64,
+      "offset": 2543.34,
+      "lang": "en"
+    },
+    {
+      "text": "はぁ",
+      "duration": 3.7,
+      "offset": 2547.0,
+      "lang": "en"
+    },
+    {
+      "text": "やめだ",
+      "duration": 2.72,
+      "offset": 2547.98,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー sa ちょっと僕より",
+      "duration": 11.93,
+      "offset": 2562.15,
+      "lang": "en"
+    },
+    {
+      "text": "やっていこうかなああもうそれではいいいよいいよって言ってくれ版でください",
+      "duration": 9.81,
+      "offset": 2569.46,
+      "lang": "en"
+    },
+    {
+      "text": "マイナーなもんだぞ車ベトナム人の方が思い描く",
+      "duration": 9.27,
+      "offset": 2574.08,
+      "lang": "en"
+    },
+    {
+      "text": "日本の言葉といえばには堪えうるわけですよ",
+      "duration": 8.19,
+      "offset": 2579.27,
+      "lang": "en"
+    },
+    {
+      "text": "これ駿台動画ねもやばい伊織村の家です",
+      "duration": 7.38,
+      "offset": 2583.35,
+      "lang": "en"
+    },
+    {
+      "text": "日本語 a",
+      "duration": 6.56,
+      "offset": 2587.46,
+      "lang": "en"
+    },
+    {
+      "text": "あでも意外にこれかも",
+      "duration": 3.29,
+      "offset": 2590.73,
+      "lang": "en"
+    },
+    {
+      "text": "ハーイエブリィ5ゲージ品5 en ドアん",
+      "duration": 8.95,
+      "offset": 2594.16,
+      "lang": "en"
+    },
+    {
+      "text": "ルー分 d",
+      "duration": 7.17,
+      "offset": 2599.77,
+      "lang": "en"
+    },
+    {
+      "text": "国会若い人だからなあ",
+      "duration": 3.83,
+      "offset": 2603.11,
+      "lang": "en"
+    },
+    {
+      "text": "ねバーイ宮田店やピエールいいえええええ",
+      "duration": 6.48,
+      "offset": 2607.63,
+      "lang": "en"
+    },
+    {
+      "text": "oso",
+      "duration": 4.49,
+      "offset": 2612.61,
+      "lang": "en"
+    },
+    {
+      "text": "あーた上にあっ",
+      "duration": 2.99,
+      "offset": 2614.11,
+      "lang": "en"
+    },
+    {
+      "text": "なるんだなぁ",
+      "duration": 3.5,
+      "offset": 2617.58,
+      "lang": "en"
+    },
+    {
+      "text": "ok",
+      "duration": 6.04,
+      "offset": 2619.87,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと書いてみましたもうちょっと攻めちょっと変えます",
+      "duration": 8.43,
+      "offset": 2621.08,
+      "lang": "en"
+    },
+    {
+      "text": "中川がそれを自分で出廷したってことは",
+      "duration": 10.31,
+      "offset": 2625.91,
+      "lang": "en"
+    },
+    {
+      "text": "染めたじゃないと思うんですよ俺だけ操作ってるって言う変なほうに来ると思うよ",
+      "duration": 6.71,
+      "offset": 2629.51,
+      "lang": "en"
+    },
+    {
+      "text": "なっ判断でだんまりですか",
+      "duration": 4.71,
+      "offset": 2637.28,
+      "lang": "en"
+    },
+    {
+      "text": "なんか皆さんだんまりですか",
+      "duration": 8.26,
+      "offset": 2639.74,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあありがとう今日はな奴じゃないと思うんですよね姉あそっちじゃない",
+      "duration": 9.37,
+      "offset": 2641.99,
+      "lang": "en"
+    },
+    {
+      "text": "白男性陣からいやっほ",
+      "duration": 6.48,
+      "offset": 2648.0,
+      "lang": "en"
+    },
+    {
+      "text": "なんです油圧や",
+      "duration": 5.09,
+      "offset": 2651.36,
+      "lang": "en"
+    },
+    {
+      "text": "はーい",
+      "duration": 4.51,
+      "offset": 2654.48,
+      "lang": "en"
+    },
+    {
+      "text": "せーの",
+      "duration": 6.56,
+      "offset": 2656.45,
+      "lang": "en"
+    },
+    {
+      "text": "ああああそうかい a 氏が通るとは何でしょうな",
+      "duration": 8.08,
+      "offset": 2658.99,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっそりゃありがとうでこれはもう下手に",
+      "duration": 8.83,
+      "offset": 2663.01,
+      "lang": "en"
+    },
+    {
+      "text": "もうこそような見えないが出来ましたオッパッピーで何ですか",
+      "duration": 10.29,
+      "offset": 2667.07,
+      "lang": "en"
+    },
+    {
+      "text": "難しいじゃなんかタクシーの運転所がさ日本語のギャグを言ってきてさあやばいは言い",
+      "duration": 9.39,
+      "offset": 2671.84,
+      "lang": "en"
+    },
+    {
+      "text": "ますけどたまにでもその声音後のおじさんですね",
+      "duration": 9.36,
+      "offset": 2677.36,
+      "lang": "en"
+    },
+    {
+      "text": "おっはーはっはっはっほっパックよりタンピコシャロー方がまだ",
+      "duration": 5.83,
+      "offset": 2681.23,
+      "lang": "en"
+    },
+    {
+      "text": "ああああ",
+      "duration": 5.02,
+      "offset": 2686.72,
+      "lang": "en"
+    },
+    {
+      "text": "ええええあおいしいね美味しいありえるかも",
+      "duration": 9.51,
+      "offset": 2687.06,
+      "lang": "en"
+    },
+    {
+      "text": "何か良いそ者のみも石ありある若い子ってなんかねーなーはーい",
+      "duration": 8.61,
+      "offset": 2691.74,
+      "lang": "en"
+    },
+    {
+      "text": "大会スキーねーんだよ今城モスキートが入ってだから",
+      "duration": 6.32,
+      "offset": 2696.57,
+      "lang": "en"
+    },
+    {
+      "text": "あーそっか",
+      "duration": 22.53,
+      "offset": 2700.35,
+      "lang": "en"
+    },
+    {
+      "text": "ああああヌー",
+      "duration": 22.68,
+      "offset": 2702.89,
+      "lang": "en"
+    },
+    {
+      "text": "でお願いしまーすお酒です",
+      "duration": 6.96,
+      "offset": 2722.88,
+      "lang": "en"
+    },
+    {
+      "text": "皆さんお願いしまーすた上映なぁ",
+      "duration": 8.59,
+      "offset": 2725.57,
+      "lang": "en"
+    },
+    {
+      "text": "あー恋だ網代場所",
+      "duration": 8.76,
+      "offset": 2729.84,
+      "lang": "en"
+    },
+    {
+      "text": "薄白反動イエスも無きが通るありがとうある",
+      "duration": 7.61,
+      "offset": 2734.16,
+      "lang": "en"
+    },
+    {
+      "text": "早いもあらシーター",
+      "duration": 3.17,
+      "offset": 2738.6,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれしかーし今日本",
+      "duration": 19.06,
+      "offset": 2749.56,
+      "lang": "en"
+    },
+    {
+      "text": "ウォッチえええねえ4パからかあぁやっぱ",
+      "duration": 19.99,
+      "offset": 2761.13,
+      "lang": "en"
+    },
+    {
+      "text": "直近とかあっきーあーヌー",
+      "duration": 16.21,
+      "offset": 2768.62,
+      "lang": "en"
+    },
+    {
+      "text": "レギュラーお互い顔でネスラケッ",
+      "duration": 8.89,
+      "offset": 2781.12,
+      "lang": "en"
+    },
+    {
+      "text": "焼いてもだったらねキャラとベリーは株以外です",
+      "duration": 6.32,
+      "offset": 2784.83,
+      "lang": "en"
+    },
+    {
+      "text": "う",
+      "duration": 4.96,
+      "offset": 2790.01,
+      "lang": "en"
+    },
+    {
+      "text": "aime すごいですっ",
+      "duration": 6.97,
+      "offset": 2791.15,
+      "lang": "en"
+    },
+    {
+      "text": "はーはっはっは",
+      "duration": 8.0,
+      "offset": 2794.97,
+      "lang": "en"
+    },
+    {
+      "text": "ud 何と言ってある味のほど来",
+      "duration": 4.85,
+      "offset": 2798.12,
+      "lang": "en"
+    },
+    {
+      "text": "patti patti めっとさーん",
+      "duration": 17.53,
+      "offset": 2803.6,
+      "lang": "en"
+    },
+    {
+      "text": "フリーをし私日本語 pro 3みんな日本に香港 ae はみんな網代そっかーん",
+      "duration": 16.55,
+      "offset": 2806.85,
+      "lang": "en"
+    },
+    {
+      "text": "ここ",
+      "duration": 2.27,
+      "offset": 2821.13,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーらじゃーなりジェンダー日本人って言ったらもうちょっとぽっちゃりの子とん",
+      "duration": 8.68,
+      "offset": 2828.93,
+      "lang": "en"
+    },
+    {
+      "text": "だろなぁ今だ空いうかしょっぱいイクッ",
+      "duration": 7.24,
+      "offset": 2834.91,
+      "lang": "en"
+    },
+    {
+      "text": "ハーイパデッリ",
+      "duration": 10.83,
+      "offset": 2837.61,
+      "lang": "en"
+    },
+    {
+      "text": "父ちゃんなんだってプロちゃんもたから誰かありがとうございありがとうございます",
+      "duration": 6.29,
+      "offset": 2842.15,
+      "lang": "en"
+    },
+    {
+      "text": "usa アオザイますまでいいですよありがとうでねえねえファニチャーわぁああ",
+      "duration": 13.26,
+      "offset": 2852.05,
+      "lang": "en"
+    },
+    {
+      "text": "可愛いああかわいいいいた集可愛いかさーああやばい取るなんて可愛いは知っます",
+      "duration": 8.44,
+      "offset": 2858.33,
+      "lang": "en"
+    },
+    {
+      "text": "hame",
+      "duration": 2.1,
+      "offset": 2865.31,
+      "lang": "en"
+    },
+    {
+      "text": "ああああああ",
+      "duration": 5.45,
+      "offset": 2866.77,
+      "lang": "en"
+    },
+    {
+      "text": "ストーリーも質問1から次はいおれたどうぞ日本に行ったら",
+      "duration": 8.68,
+      "offset": 2867.41,
+      "lang": "en"
+    },
+    {
+      "text": "買いたいものアンティあげお土産約損し",
+      "duration": 9.75,
+      "offset": 2872.22,
+      "lang": "en"
+    },
+    {
+      "text": "欲しいも日本で欲しいものって何よっていうか痛い方だね",
+      "duration": 10.97,
+      "offset": 2876.09,
+      "lang": "en"
+    },
+    {
+      "text": "日本に行ったらこれは買いたいハーイパターンやっぱ",
+      "duration": 5.09,
+      "offset": 2881.97,
+      "lang": "en"
+    },
+    {
+      "text": "女の子だもんに女の子だとあまりまあそうなんだよね",
+      "duration": 5.7,
+      "offset": 2887.93,
+      "lang": "en"
+    },
+    {
+      "text": "行ったら書いたようにたら開店",
+      "duration": 4.37,
+      "offset": 2894.19,
+      "lang": "en"
+    },
+    {
+      "text": "俺笑っいっカラー",
+      "duration": 5.27,
+      "offset": 2898.57,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 3.86,
+      "offset": 2901.35,
+      "lang": "en"
+    },
+    {
+      "text": "ban",
+      "duration": 7.62,
+      "offset": 2903.84,
+      "lang": "en"
+    },
+    {
+      "text": "a 動画これやってっかなぁ俺なんか古いのかなぁ",
+      "duration": 11.64,
+      "offset": 2905.21,
+      "lang": "en"
+    },
+    {
+      "text": "これは当たる記述のやっぱり自分でやっぱり質問しましょうか",
+      "duration": 5.39,
+      "offset": 2911.46,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 6.92,
+      "offset": 2917.01,
+      "lang": "en"
+    },
+    {
+      "text": "うんまあね力中国の方とかはねドラッグストは行ったりとか",
+      "duration": 6.96,
+      "offset": 2919.22,
+      "lang": "en"
+    },
+    {
+      "text": "寝バックが会したり",
+      "duration": 6.59,
+      "offset": 2923.93,
+      "lang": "en"
+    },
+    {
+      "text": "食べ物なのかそうじゃないのかっていうのもいいですね",
+      "duration": 9.62,
+      "offset": 2926.18,
+      "lang": "en"
+    },
+    {
+      "text": "お菓子かもしれないのにお菓子系のを当てての子に趣味っていうのがあるからなぁ",
+      "duration": 5.99,
+      "offset": 2930.52,
+      "lang": "en"
+    },
+    {
+      "text": "ね",
+      "duration": 4.43,
+      "offset": 2935.8,
+      "lang": "en"
+    },
+    {
+      "text": "ねぇガーンと負けだ",
+      "duration": 6.93,
+      "offset": 2936.51,
+      "lang": "en"
+    },
+    {
+      "text": "うんっだからね音楽系所そうそうそう",
+      "duration": 6.08,
+      "offset": 2940.23,
+      "lang": "en"
+    },
+    {
+      "text": "cd ところなの",
+      "duration": 2.87,
+      "offset": 2943.44,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーじっ位",
+      "duration": 7.95,
+      "offset": 2954.78,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー男女完全ねし変更だこれ",
+      "duration": 5.78,
+      "offset": 2974.35,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっっ",
+      "duration": 4.53,
+      "offset": 2979.19,
+      "lang": "en"
+    },
+    {
+      "text": "では男性誌に行きましょうか高",
+      "duration": 3.59,
+      "offset": 2980.13,
+      "lang": "en"
+    },
+    {
+      "text": "anoano 小 p 4 p 尺ポルシェ製品",
+      "duration": 19.16,
+      "offset": 2983.86,
+      "lang": "en"
+    },
+    {
+      "text": "そうよぱソニーのみぇそれとリカー因子ああああああヌーラですあーやーれ rono",
+      "duration": 34.58,
+      "offset": 2988.43,
+      "lang": "en"
+    },
+    {
+      "text": "ハーイ姉ちゃんヌーって帰るのは",
+      "duration": 22.86,
+      "offset": 3003.02,
+      "lang": "en"
+    },
+    {
+      "text": "が多いから入っ",
+      "duration": 2.87,
+      "offset": 3023.01,
+      "lang": "en"
+    },
+    {
+      "text": "ブービー以下 ahkah しかしん",
+      "duration": 14.72,
+      "offset": 3031.81,
+      "lang": "en"
+    },
+    {
+      "text": "しっどんなフランクスんですけ",
+      "duration": 8.87,
+      "offset": 3043.35,
+      "lang": "en"
+    },
+    {
+      "text": "いやだーーーーはいお願いしまーすええなぁ",
+      "duration": 5.69,
+      "offset": 3046.53,
+      "lang": "en"
+    },
+    {
+      "text": "こそ命 a サンダー版がカー",
+      "duration": 9.21,
+      "offset": 3052.23,
+      "lang": "en"
+    },
+    {
+      "text": "赤ちゃん前に出してくださいとちゃならん",
+      "duration": 8.22,
+      "offset": 3056.76,
+      "lang": "en"
+    },
+    {
+      "text": "e 15いちご大福",
+      "duration": 6.32,
+      "offset": 3061.44,
+      "lang": "en"
+    },
+    {
+      "text": "ええええええええええ",
+      "duration": 4.23,
+      "offset": 3064.98,
+      "lang": "en"
+    },
+    {
+      "text": "g を剥ぎたわ",
+      "duration": 3.24,
+      "offset": 3067.76,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 6.44,
+      "offset": 3069.21,
+      "lang": "en"
+    },
+    {
+      "text": "ビギ婆あフィギュアねーこりゃあ",
+      "duration": 5.6,
+      "offset": 3071.0,
+      "lang": "en"
+    },
+    {
+      "text": "year",
+      "duration": 6.41,
+      "offset": 3075.65,
+      "lang": "en"
+    },
+    {
+      "text": "あと漫画るーわぁや日のあそこでホラー作家だよねまず趣味ですね",
+      "duration": 12.07,
+      "offset": 3076.6,
+      "lang": "en"
+    },
+    {
+      "text": "いますアイパーコンってくらちゃんいちご大福は好きなんですか",
+      "duration": 9.81,
+      "offset": 3082.06,
+      "lang": "en"
+    },
+    {
+      "text": "ピック15台本",
+      "duration": 3.2,
+      "offset": 3088.67,
+      "lang": "en"
+    },
+    {
+      "text": "ああああああ",
+      "duration": 6.35,
+      "offset": 3092.39,
+      "lang": "en"
+    },
+    {
+      "text": "どこで食べたんですかベトナムに売ってるのを地下に受けトム",
+      "duration": 6.34,
+      "offset": 3094.27,
+      "lang": "en"
+    },
+    {
+      "text": "本物いこ",
+      "duration": 6.29,
+      "offset": 3098.74,
+      "lang": "en"
+    },
+    {
+      "text": "胸ベアを除けばないなぁあの日本で",
+      "duration": 9.15,
+      "offset": 3100.61,
+      "lang": "en"
+    },
+    {
+      "text": "基本恋歌ピアノの青い目ですよねはい",
+      "duration": 6.65,
+      "offset": 3105.03,
+      "lang": "en"
+    },
+    {
+      "text": "お茶おいしいたんだ",
+      "duration": 5.9,
+      "offset": 3109.76,
+      "lang": "en"
+    },
+    {
+      "text": "食べてみたいあー見ない",
+      "duration": 3.98,
+      "offset": 3111.68,
+      "lang": "en"
+    },
+    {
+      "text": "あとええええ",
+      "duration": 5.76,
+      "offset": 3116.6,
+      "lang": "en"
+    },
+    {
+      "text": "トンガ兄ちゃんはフィギュアは何のフィギュアが欲しいんですか",
+      "duration": 7.92,
+      "offset": 3117.92,
+      "lang": "en"
+    },
+    {
+      "text": "8は1 b どうぞあああ",
+      "duration": 5.92,
+      "offset": 3122.36,
+      "lang": "en"
+    },
+    {
+      "text": "どうせいどうぞ",
+      "duration": 5.92,
+      "offset": 3125.84,
+      "lang": "en"
+    },
+    {
+      "text": "アーンのどこ寝ちゃうかー",
+      "duration": 7.59,
+      "offset": 3128.28,
+      "lang": "en"
+    },
+    {
+      "text": "確かに品安いからが日俺はマジで難しい",
+      "duration": 6.83,
+      "offset": 3131.76,
+      "lang": "en"
+    },
+    {
+      "text": "たあああばんだわー",
+      "duration": 5.6,
+      "offset": 3135.87,
+      "lang": "en"
+    },
+    {
+      "text": "せやーまーまガール",
+      "duration": 4.63,
+      "offset": 3138.59,
+      "lang": "en"
+    },
+    {
+      "text": "漫画水",
+      "duration": 7.04,
+      "offset": 3141.47,
+      "lang": "en"
+    },
+    {
+      "text": "あー遠征もは目こうっていう賭け屋 new 0",
+      "duration": 10.15,
+      "offset": 3143.22,
+      "lang": "en"
+    },
+    {
+      "text": "を湿気を組ん a o 敵のくにっ",
+      "duration": 9.27,
+      "offset": 3148.51,
+      "lang": "en"
+    },
+    {
+      "text": "よくあっほなしに知らないよそれ",
+      "duration": 7.2,
+      "offset": 3153.37,
+      "lang": "en"
+    },
+    {
+      "text": "マブナ大勢よく2個",
+      "duration": 7.38,
+      "offset": 3157.78,
+      "lang": "en"
+    },
+    {
+      "text": "でもりんごちゃん星日本で番を張ってもう全部日本語社会てないから読めないんじゃ",
+      "duration": 5.04,
+      "offset": 3160.57,
+      "lang": "en"
+    },
+    {
+      "text": "ない",
+      "duration": 2.93,
+      "offset": 3165.16,
+      "lang": "en"
+    },
+    {
+      "text": "味かねぇ",
+      "duration": 2.48,
+      "offset": 3165.61,
+      "lang": "en"
+    },
+    {
+      "text": "voodoo するそうです",
+      "duration": 3.45,
+      "offset": 3176.68,
+      "lang": "en"
+    },
+    {
+      "text": "ハーレムしかロスねっ",
+      "duration": 10.19,
+      "offset": 3180.94,
+      "lang": "en"
+    },
+    {
+      "text": "sony わぁでお歌これ違う抹茶の効いた葛藤",
+      "duration": 9.25,
+      "offset": 3186.44,
+      "lang": "en"
+    },
+    {
+      "text": "は者のきっとか止めたのはたくさん売ってるので言ってればいいんだ",
+      "duration": 9.78,
+      "offset": 3191.13,
+      "lang": "en"
+    },
+    {
+      "text": "あー勢力カウンターもう今のだもう一つあるからいらないんだね",
+      "duration": 6.73,
+      "offset": 3195.69,
+      "lang": "en"
+    },
+    {
+      "text": "そっかー",
+      "duration": 5.44,
+      "offset": 3200.91,
+      "lang": "en"
+    },
+    {
+      "text": "っていうことをソニーのです4型もあるかベトナムにはねぇ",
+      "duration": 8.01,
+      "offset": 3202.42,
+      "lang": "en"
+    },
+    {
+      "text": "まあやあるじゃねーかあるけど誰か高いけどっていうことだっけ",
+      "duration": 5.41,
+      "offset": 3206.35,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとあああ",
+      "duration": 7.08,
+      "offset": 3210.43,
+      "lang": "en"
+    },
+    {
+      "text": "一ポイント結果と抹茶やすいですよやすいんだそうなんだ値段変わんないんだ",
+      "duration": 9.92,
+      "offset": 3211.76,
+      "lang": "en"
+    },
+    {
+      "text": "株を避けのキットカットとかはありかも",
+      "duration": 6.5,
+      "offset": 3217.51,
+      "lang": "en"
+    },
+    {
+      "text": "に模様",
+      "duration": 2.33,
+      "offset": 3221.68,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 18.73,
+      "offset": 3224.13,
+      "lang": "en"
+    },
+    {
+      "text": "here are noon あるあーロスよね死刑",
+      "duration": 19.71,
+      "offset": 3226.24,
+      "lang": "en"
+    },
+    {
+      "text": "a むしろまず",
+      "duration": 6.9,
+      "offset": 3242.86,
+      "lang": "en"
+    },
+    {
+      "text": "を貸さないけどもいる最後ですかね大王",
+      "duration": 7.14,
+      "offset": 3245.95,
+      "lang": "en"
+    },
+    {
+      "text": "最後 daigo ソロいない最後揃えたいってね",
+      "duration": 5.35,
+      "offset": 3249.76,
+      "lang": "en"
+    },
+    {
+      "text": "どうだなぁ",
+      "duration": 4.56,
+      "offset": 3253.09,
+      "lang": "en"
+    },
+    {
+      "text": "8人が",
+      "duration": 4.48,
+      "offset": 3255.11,
+      "lang": "en"
+    },
+    {
+      "text": "そうやねぇ",
+      "duration": 6.47,
+      "offset": 3257.65,
+      "lang": "en"
+    },
+    {
+      "text": "移動します日本切手へ4企業とがちょっと硬すぎますかね",
+      "duration": 4.94,
+      "offset": 3259.59,
+      "lang": "en"
+    },
+    {
+      "text": "ねぇ",
+      "duration": 3.56,
+      "offset": 3264.12,
+      "lang": "en"
+    },
+    {
+      "text": "だってくださーーーーん車じゃあなんだこれでだそうですね",
+      "duration": 5.49,
+      "offset": 3264.53,
+      "lang": "en"
+    },
+    {
+      "text": "遠そうだと理解でいく",
+      "duration": 4.36,
+      "offset": 3267.68,
+      "lang": "en"
+    },
+    {
+      "text": "それ以外で",
+      "duration": 5.77,
+      "offset": 3270.02,
+      "lang": "en"
+    },
+    {
+      "text": "それ以外できましたから味の素ほんだい",
+      "duration": 8.61,
+      "offset": 3272.04,
+      "lang": "en"
+    },
+    {
+      "text": "アジアへの応援が位の英企業といえば日本の企業",
+      "duration": 10.76,
+      "offset": 3275.79,
+      "lang": "en"
+    },
+    {
+      "text": "会社しまいどうも総務ダイソンだよいいやっぱりコンペ",
+      "duration": 5.9,
+      "offset": 3280.65,
+      "lang": "en"
+    },
+    {
+      "text": "アジルも飛んでいいかいいですねはい自分入念さだ",
+      "duration": 8.46,
+      "offset": 3288.46,
+      "lang": "en"
+    },
+    {
+      "text": "あれいるのか自分の会社に移ってるんだよ",
+      "duration": 7.21,
+      "offset": 3292.96,
+      "lang": "en"
+    },
+    {
+      "text": "日本の演奏ですよね有名な会社よ",
+      "duration": 6.96,
+      "offset": 3296.92,
+      "lang": "en"
+    },
+    {
+      "text": "夢だけじゃねぇ俺を得ない",
+      "duration": 8.2,
+      "offset": 3300.17,
+      "lang": "en"
+    },
+    {
+      "text": "えーちょっとでは a はのみんなでリング等兵ウォン",
+      "duration": 7.33,
+      "offset": 3303.88,
+      "lang": "en"
+    },
+    {
+      "text": "ヘよねっ",
+      "duration": 2.84,
+      "offset": 3308.37,
+      "lang": "en"
+    },
+    {
+      "text": "いやから売るしかない当てにいくなってくるしかねーよもっとみんなねこれ以降",
+      "duration": 7.44,
+      "offset": 3311.5,
+      "lang": "en"
+    },
+    {
+      "text": "これかなぁ",
+      "duration": 9.87,
+      "offset": 3316.72,
+      "lang": "en"
+    },
+    {
+      "text": "これは g でへなんだかもうわからんくなってきた俺じゃいくら若い子って言うねぇ",
+      "duration": 13.05,
+      "offset": 3318.94,
+      "lang": "en"
+    },
+    {
+      "text": "57同年代ぐらい述べての家だったら全部当てる雷をしましたら",
+      "duration": 9.48,
+      "offset": 3326.59,
+      "lang": "en"
+    },
+    {
+      "text": "やってると思うけどいやっほいじゃあ",
+      "duration": 8.12,
+      "offset": 3331.99,
+      "lang": "en"
+    },
+    {
+      "text": "わかんなくなってきちゃったああっ",
+      "duration": 6.1,
+      "offset": 3336.07,
+      "lang": "en"
+    },
+    {
+      "text": "結構ねー",
+      "duration": 6.38,
+      "offset": 3340.11,
+      "lang": "en"
+    },
+    {
+      "text": "流行りとかあんまないからや自分が好きなものが好きっていう子は多いず貸し借りけど",
+      "duration": 5.04,
+      "offset": 3342.17,
+      "lang": "en"
+    },
+    {
+      "text": "もう",
+      "duration": 6.72,
+      "offset": 3346.49,
+      "lang": "en"
+    },
+    {
+      "text": "回日本ほど高ねみんなが好きなだから好きみたいな感覚てないんだよねうんうん",
+      "duration": 14.95,
+      "offset": 3347.21,
+      "lang": "en"
+    },
+    {
+      "text": "ただ今度はもう中川は普通にすぐ配信中にした降りてロス",
+      "duration": 28.94,
+      "offset": 3353.21,
+      "lang": "en"
+    },
+    {
+      "text": "ぶーぶーっ",
+      "duration": 23.86,
+      "offset": 3362.16,
+      "lang": "en"
+    },
+    {
+      "text": "たとえ4 e 8ああバイクのイメージだからさー",
+      "duration": 8.43,
+      "offset": 3382.15,
+      "lang": "en"
+    },
+    {
+      "text": "by her 本夏ままだと思うよね多分",
+      "duration": 8.94,
+      "offset": 3386.02,
+      "lang": "en"
+    },
+    {
+      "text": "都市から先の有名です間瀬木も有名なんですけど男性が好きなイメージ",
+      "duration": 9.93,
+      "offset": 3390.58,
+      "lang": "en"
+    },
+    {
+      "text": "そうかっこいい by 忽然とは男性男性でやっぱ川崎って感じでー",
+      "duration": 8.72,
+      "offset": 3394.96,
+      "lang": "en"
+    },
+    {
+      "text": "コッコンヴァンピ",
+      "duration": 3.17,
+      "offset": 3400.51,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 3.44,
+      "offset": 3407.87,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれねえはーい",
+      "duration": 8.58,
+      "offset": 3414.42,
+      "lang": "en"
+    },
+    {
+      "text": "なあ",
+      "duration": 2.27,
+      "offset": 3420.73,
+      "lang": "en"
+    },
+    {
+      "text": "あ",
+      "duration": 2.0,
+      "offset": 3423.2,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーいいいいいいよ pou dou dou",
+      "duration": 14.99,
+      "offset": 3432.62,
+      "lang": "en"
+    },
+    {
+      "text": "よしそこで使いて言えねーちんいった様子でした来てね",
+      "duration": 8.49,
+      "offset": 3444.25,
+      "lang": "en"
+    },
+    {
+      "text": "あぁそうフィリピン他の人にもスタートもう結構なるんやったら山形がと並ぶくらいは",
+      "duration": 5.94,
+      "offset": 3447.61,
+      "lang": "en"
+    },
+    {
+      "text": "言え",
+      "duration": 2.07,
+      "offset": 3452.74,
+      "lang": "en"
+    },
+    {
+      "text": "日誌",
+      "duration": 4.95,
+      "offset": 3453.55,
+      "lang": "en"
+    },
+    {
+      "text": "日清者においしくなるとかいいよな are you",
+      "duration": 6.87,
+      "offset": 3454.81,
+      "lang": "en"
+    },
+    {
+      "text": "それそこまでねええでしょ",
+      "duration": 10.67,
+      "offset": 3458.5,
+      "lang": "en"
+    },
+    {
+      "text": "カップ焼きそばとカプラーメンテが袋麺ですねプロペ路面で婦国家もっと感といっけー",
+      "duration": 7.49,
+      "offset": 3461.68,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーもう車ああああっ",
+      "duration": 7.03,
+      "offset": 3486.1,
+      "lang": "en"
+    },
+    {
+      "text": "というのもありませなんだ白色ああ",
+      "duration": 4.43,
+      "offset": 3488.7,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれもうホンダのつぎ飯山",
+      "duration": 10.72,
+      "offset": 3493.51,
+      "lang": "en"
+    },
+    {
+      "text": "なろうねあったからおっきなのが止ま a 鉄筋でしょっちゅう夏もう",
+      "duration": 15.58,
+      "offset": 3496.28,
+      "lang": "en"
+    },
+    {
+      "text": "by 空光はパイ風らーへっにじゃあ殺すきって結構そういう感じでもいいっ",
+      "duration": 11.08,
+      "offset": 3504.23,
+      "lang": "en"
+    },
+    {
+      "text": "塩とバイクが好きな人とかいはなもうね",
+      "duration": 6.72,
+      "offset": 3511.86,
+      "lang": "en"
+    },
+    {
+      "text": "お茶自分ジブリ文が好きやだね",
+      "duration": 5.66,
+      "offset": 3515.31,
+      "lang": "en"
+    },
+    {
+      "text": "アニメ",
+      "duration": 2.39,
+      "offset": 3518.58,
+      "lang": "en"
+    },
+    {
+      "text": "ますよなぁジブリ studio ghibli で a",
+      "duration": 6.66,
+      "offset": 3521.07,
+      "lang": "en"
+    },
+    {
+      "text": "れたユニットだかなーと思ったけど全然入らないね",
+      "duration": 6.45,
+      "offset": 3524.55,
+      "lang": "en"
+    },
+    {
+      "text": "ユニークは最近閲覧でできたのがわざわざ",
+      "duration": 7.19,
+      "offset": 3527.73,
+      "lang": "en"
+    },
+    {
+      "text": "まだまだ認知はないということで a",
+      "duration": 9.65,
+      "offset": 3531.0,
+      "lang": "en"
+    },
+    {
+      "text": "んだやるドラムず買ったら1回もう面白かったなぁ",
+      "duration": 10.44,
+      "offset": 3534.92,
+      "lang": "en"
+    },
+    {
+      "text": "乗ろうなんだけどすごい別で一番言ってくれましたからね",
+      "duration": 6.01,
+      "offset": 3540.65,
+      "lang": "en"
+    },
+    {
+      "text": "ございません",
+      "duration": 4.48,
+      "offset": 3545.36,
+      "lang": "en"
+    },
+    {
+      "text": "結核していくかありがとうはいはい2",
+      "duration": 7.51,
+      "offset": 3546.66,
+      "lang": "en"
+    },
+    {
+      "text": "暫定版では後前半でを踏まえてご提案で踏まえて",
+      "duration": 7.99,
+      "offset": 3549.84,
+      "lang": "en"
+    },
+    {
+      "text": "なんて後前たら僕0点です",
+      "duration": 6.13,
+      "offset": 3554.17,
+      "lang": "en"
+    },
+    {
+      "text": "はっはっは",
+      "duration": 6.28,
+      "offset": 3557.83,
+      "lang": "en"
+    },
+    {
+      "text": "ちょうどそれでも超0あーぼん",
+      "duration": 8.01,
+      "offset": 3560.3,
+      "lang": "en"
+    },
+    {
+      "text": "0とも当たった緩和だったんあっはぁ",
+      "duration": 8.08,
+      "offset": 3564.11,
+      "lang": "en"
+    },
+    {
+      "text": "そして優勝者なった連を",
+      "duration": 6.66,
+      "offset": 3568.31,
+      "lang": "en"
+    },
+    {
+      "text": "優勝者は",
+      "duration": 2.78,
+      "offset": 3572.19,
+      "lang": "en"
+    },
+    {
+      "text": "ブーバーれっ",
+      "duration": 6.33,
+      "offset": 3584.82,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーロスよ",
+      "duration": 14.67,
+      "offset": 3600.16,
+      "lang": "en"
+    },
+    {
+      "text": "6本 pointer ポインターポックロスパンってやるぞ",
+      "duration": 8.81,
+      "offset": 3606.02,
+      "lang": "en"
+    },
+    {
+      "text": "[笑い]",
+      "duration": 16.99,
+      "offset": 3615.54,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブーハッピーなその民族食器 arere 夏",
+      "duration": 10.41,
+      "offset": 3622.12,
+      "lang": "en"
+    },
+    {
+      "text": "ブーブー",
+      "duration": 1.88,
+      "offset": 3649.58,
+      "lang": "en"
+    },
+    {
+      "text": "ime",
+      "duration": 4.55,
+      "offset": 3650.62,
+      "lang": "en"
+    },
+    {
+      "text": "だけを開催しちゃうんですよねん",
+      "duration": 3.71,
+      "offset": 3651.46,
+      "lang": "en"
+    },
+    {
+      "text": "面白いいい感じで",
+      "duration": 9.88,
+      "offset": 3655.59,
+      "lang": "en"
+    },
+    {
+      "text": "フロードロシー感じで打ったけど売っでもこれだけ4名のもう出てくれたら逆もやって",
+      "duration": 7.35,
+      "offset": 3658.78,
+      "lang": "en"
+    },
+    {
+      "text": "いいですよね",
+      "duration": 7.32,
+      "offset": 3665.47,
+      "lang": "en"
+    },
+    {
+      "text": "ベトナムいい子でおおぉの僕ら4人がまあくーちゃんたちと一緒に出すっていう",
+      "duration": 9.25,
+      "offset": 3666.13,
+      "lang": "en"
+    },
+    {
+      "text": "ああっロス",
+      "duration": 5.77,
+      "offset": 3672.79,
+      "lang": "en"
+    },
+    {
+      "text": "うちもやってみる相手もやってますか者でもねー",
+      "duration": 6.53,
+      "offset": 3675.38,
+      "lang": "en"
+    },
+    {
+      "text": "じゃあ日本人が重い学",
+      "duration": 7.97,
+      "offset": 3678.56,
+      "lang": "en"
+    },
+    {
+      "text": "の指導書ベッドルームも観光地",
+      "duration": 7.43,
+      "offset": 3681.91,
+      "lang": "en"
+    },
+    {
+      "text": "でしょうか行きたい場所",
+      "duration": 6.26,
+      "offset": 3686.53,
+      "lang": "en"
+    },
+    {
+      "text": "はいあ行きたい場所なぁいいねぇいいよバイ",
+      "duration": 4.18,
+      "offset": 3689.34,
+      "lang": "en"
+    },
+    {
+      "text": "1",
+      "duration": 4.27,
+      "offset": 3692.79,
+      "lang": "en"
+    },
+    {
+      "text": "俳聖芭蕉と僕らがね",
+      "duration": 8.42,
+      "offset": 3693.52,
+      "lang": "en"
+    },
+    {
+      "text": "にゃん mgm 段目う日間 du リークディナー6 e",
+      "duration": 9.65,
+      "offset": 3697.06,
+      "lang": "en"
+    },
+    {
+      "text": "えず安価カーンもんリーダー",
+      "duration": 7.85,
+      "offset": 3701.94,
+      "lang": "en"
+    },
+    {
+      "text": "見上げさーああ場所",
+      "duration": 10.74,
+      "offset": 3706.71,
+      "lang": "en"
+    },
+    {
+      "text": "ran ran アゴに起こっ dao 大手レバー女にゅっ",
+      "duration": 14.19,
+      "offset": 3709.79,
+      "lang": "en"
+    },
+    {
+      "text": "俺はでもここだないったかもしれまんと思い託す俺も一択ですねー",
+      "duration": 6.53,
+      "offset": 3717.45,
+      "lang": "en"
+    },
+    {
+      "text": "bar show",
+      "duration": 3.72,
+      "offset": 3724.48,
+      "lang": "en"
+    },
+    {
+      "text": "えっ",
+      "duration": 2.3,
+      "offset": 3725.9,
+      "lang": "en"
+    },
+    {
+      "text": "逆の祈り花が難しいんだよねー正面となる",
+      "duration": 6.51,
+      "offset": 3728.73,
+      "lang": "en"
+    },
+    {
+      "text": "防衛端から",
+      "duration": 4.52,
+      "offset": 3732.84,
+      "lang": "en"
+    },
+    {
+      "text": "さあどれも",
+      "duration": 5.6,
+      "offset": 3735.24,
+      "lang": "en"
+    },
+    {
+      "text": "秋するんだよ暗算でもわからない",
+      "duration": 7.08,
+      "offset": 3737.36,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと白もそれはもう文字は漢字だけ",
+      "duration": 4.65,
+      "offset": 3740.84,
+      "lang": "en"
+    },
+    {
+      "text": "迷う",
+      "duration": 5.57,
+      "offset": 3744.44,
+      "lang": "en"
+    },
+    {
+      "text": "まいます木8 z 前は絶対行きたいこれはウェイウ",
+      "duration": 7.27,
+      "offset": 3745.49,
+      "lang": "en"
+    },
+    {
+      "text": "すげー迷う",
+      "duration": 2.75,
+      "offset": 3750.01,
+      "lang": "en"
+    },
+    {
+      "text": "うわぁ迷うちょっと3回書き出す",
+      "duration": 5.51,
+      "offset": 3753.09,
+      "lang": "en"
+    },
+    {
+      "text": "はっはっは",
+      "duration": 6.81,
+      "offset": 3757.04,
+      "lang": "en"
+    },
+    {
+      "text": "もうどちら心おっしゃってるじゃねえかあっほんとな無地",
+      "duration": 10.71,
+      "offset": 3758.6,
+      "lang": "en"
+    },
+    {
+      "text": "気持ちも分からないから日本じゃなかっ日",
+      "duration": 8.64,
+      "offset": 3763.85,
+      "lang": "en"
+    },
+    {
+      "text": "室ではまず男性陣から何回かなしまったよ",
+      "duration": 6.81,
+      "offset": 3769.31,
+      "lang": "en"
+    },
+    {
+      "text": "逆に広さか女性か大丈夫だよ女性から場所でしょうか",
+      "duration": 6.69,
+      "offset": 3772.49,
+      "lang": "en"
+    },
+    {
+      "text": "ではと米人お願いしますはい",
+      "duration": 5.87,
+      "offset": 3776.12,
+      "lang": "en"
+    },
+    {
+      "text": "せーなー",
+      "duration": 2.81,
+      "offset": 3779.18,
+      "lang": "en"
+    },
+    {
+      "text": "歯の良いホイヤー落ちみんあるっぽい",
+      "duration": 5.69,
+      "offset": 3782.1,
+      "lang": "en"
+    },
+    {
+      "text": "あのよねああ",
+      "duration": 4.88,
+      "offset": 3786.03,
+      "lang": "en"
+    },
+    {
+      "text": "はい僕には面白の読みや音4",
+      "duration": 7.74,
+      "offset": 3787.79,
+      "lang": "en"
+    },
+    {
+      "text": "うわぁちょっと変わっえっじゃあだって人生のでいきましょ",
+      "duration": 6.62,
+      "offset": 3790.91,
+      "lang": "en"
+    },
+    {
+      "text": "俺の",
+      "duration": 5.06,
+      "offset": 3795.53,
+      "lang": "en"
+    },
+    {
+      "text": "僕版本であんなん",
+      "duration": 6.93,
+      "offset": 3797.53,
+      "lang": "en"
+    },
+    {
+      "text": "ダンディっちゃんとあー今日ピンクの境界ね沿い",
+      "duration": 7.38,
+      "offset": 3800.59,
+      "lang": "en"
+    },
+    {
+      "text": "大谷エピックぱふぇふぇふぇふぇふぇふぇ政治家",
+      "duration": 5.68,
+      "offset": 3804.46,
+      "lang": "en"
+    },
+    {
+      "text": "むつ",
+      "duration": 5.71,
+      "offset": 3807.97,
+      "lang": "en"
+    },
+    {
+      "text": "ウール読みそろそろ行きたい",
+      "duration": 6.81,
+      "offset": 3810.14,
+      "lang": "en"
+    },
+    {
+      "text": "便あの婆だ卵",
+      "duration": 4.38,
+      "offset": 3813.68,
+      "lang": "en"
+    },
+    {
+      "text": "わー",
+      "duration": 4.55,
+      "offset": 3816.95,
+      "lang": "en"
+    },
+    {
+      "text": "一曲ぐアンバー",
+      "duration": 3.44,
+      "offset": 3818.06,
+      "lang": "en"
+    },
+    {
+      "text": "に野党や東端子",
+      "duration": 7.83,
+      "offset": 3821.95,
+      "lang": "en"
+    },
+    {
+      "text": "4寸にあるそれじゃあとたんですっちょっと",
+      "duration": 9.09,
+      "offset": 3825.13,
+      "lang": "en"
+    },
+    {
+      "text": "受験しんだろうから難しいねえんじゃねえ",
+      "duration": 7.89,
+      "offset": 3829.78,
+      "lang": "en"
+    },
+    {
+      "text": "本屋は難波の今や日本あの移籍へ",
+      "duration": 7.55,
+      "offset": 3834.22,
+      "lang": "en"
+    },
+    {
+      "text": "世界遺産です肺がん世界遺産の",
+      "duration": 8.68,
+      "offset": 3837.67,
+      "lang": "en"
+    },
+    {
+      "text": "あの前田ホラー日本橋がある場所ではい",
+      "duration": 6.85,
+      "offset": 3841.77,
+      "lang": "en"
+    },
+    {
+      "text": "愛し鹿島方やはい",
+      "duration": 5.81,
+      "offset": 3846.35,
+      "lang": "en"
+    },
+    {
+      "text": "いい奴かいやーなるほどなぁいややばかっ",
+      "duration": 4.52,
+      "offset": 3848.62,
+      "lang": "en"
+    },
+    {
+      "text": "これ",
+      "duration": 8.51,
+      "offset": 3852.16,
+      "lang": "en"
+    },
+    {
+      "text": "はしながら文化の壁と踊りで小学校を感じるなど計今お外も向こうのその皆さんの虹の",
+      "duration": 9.55,
+      "offset": 3853.14,
+      "lang": "en"
+    },
+    {
+      "text": "23チャンネルで姉とか",
+      "duration": 22.01,
+      "offset": 3860.67,
+      "lang": "en"
+    },
+    {
+      "text": "あーヌー",
+      "duration": 26.17,
+      "offset": 3862.69,
+      "lang": "en"
+    },
+    {
+      "text": "しーあじゃあなきゃあんですねあたルーンは回会いしましょうああったよならー",
+      "duration": 9.24,
+      "offset": 3882.68,
+      "lang": "en"
+    },
+    {
+      "text": "同0視聴ありがとうございましたーーー",
+      "duration": 8.12,
+      "offset": 3888.86,
+      "lang": "en"
+    },
+    {
+      "text": "チャンネル登録もよろしくお願いしまーすチャンネル登録おねがいしまー",
+      "duration": 7.01,
+      "offset": 3891.92,
+      "lang": "en"
+    },
+    {
+      "text": "ありがとうございましたーーー",
+      "duration": 4.85,
+      "offset": 3896.98,
+      "lang": "en"
+    },
+    {
+      "text": "[音楽]",
+      "duration": 2.9,
+      "offset": 3898.93,
+      "lang": "en"
+    }
+  ]
+}

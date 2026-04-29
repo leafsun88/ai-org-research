@@ -1,0 +1,3351 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "BaE5uv5JQuM",
+  "url": "https://www.youtube.com/watch?v=BaE5uv5JQuM",
+  "title": "How I built a $250k/month Lovable agency (My Story)",
+  "channel": "Jacob Klug",
+  "source_queries": [
+    "Lovable Agent interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:18:29",
+  "segments": [
+    {
+      "text": "I make a ton of money every single",
+      "duration": 4.32,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "month building apps with Lovable. I&#39;m",
+      "duration": 4.24,
+      "offset": 2.24,
+      "lang": "en"
+    },
+    {
+      "text": "talking that my agency, Creme Digital,",
+      "duration": 3.6,
+      "offset": 4.4,
+      "lang": "en"
+    },
+    {
+      "text": "does a quarter of a million dollars",
+      "duration": 3.76,
+      "offset": 6.48,
+      "lang": "en"
+    },
+    {
+      "text": "every single month without fail building",
+      "duration": 4.8,
+      "offset": 8.0,
+      "lang": "en"
+    },
+    {
+      "text": "apps with AI for clients all over the",
+      "duration": 3.68,
+      "offset": 10.24,
+      "lang": "en"
+    },
+    {
+      "text": "world, ranging from startups,",
+      "duration": 2.72,
+      "offset": 12.8,
+      "lang": "en"
+    },
+    {
+      "text": "enterprises, you name it, we built it.",
+      "duration": 4.64,
+      "offset": 13.92,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, this video isn&#39;t about me flexing.",
+      "duration": 4.96,
+      "offset": 15.52,
+      "lang": "en"
+    },
+    {
+      "text": "I want to show you the exact steps, the",
+      "duration": 5.04,
+      "offset": 18.56,
+      "lang": "en"
+    },
+    {
+      "text": "road map I took to get here. Because I",
+      "duration": 4.88,
+      "offset": 20.48,
+      "lang": "en"
+    },
+    {
+      "text": "was once a kid in high school. I was",
+      "duration": 3.44,
+      "offset": 23.6,
+      "lang": "en"
+    },
+    {
+      "text": "once somebody that sat in the back of",
+      "duration": 3.6,
+      "offset": 25.36,
+      "lang": "en"
+    },
+    {
+      "text": "their class working on their computer",
+      "duration": 3.52,
+      "offset": 27.04,
+      "lang": "en"
+    },
+    {
+      "text": "trying to make something of themselves",
+      "duration": 3.68,
+      "offset": 28.96,
+      "lang": "en"
+    },
+    {
+      "text": "while the world was telling me to go go",
+      "duration": 4.48,
+      "offset": 30.56,
+      "lang": "en"
+    },
+    {
+      "text": "to university, go take the safe route. I",
+      "duration": 4.24,
+      "offset": 32.64,
+      "lang": "en"
+    },
+    {
+      "text": "knew that I wanted to do more. And so",
+      "duration": 4.48,
+      "offset": 35.04,
+      "lang": "en"
+    },
+    {
+      "text": "this is a story of how I went from being",
+      "duration": 4.72,
+      "offset": 36.88,
+      "lang": "en"
+    },
+    {
+      "text": "a broke high schooler, you know, a",
+      "duration": 3.76,
+      "offset": 39.52,
+      "lang": "en"
+    },
+    {
+      "text": "skinny kid, somebody that didn&#39;t have a",
+      "duration": 3.84,
+      "offset": 41.6,
+      "lang": "en"
+    },
+    {
+      "text": "lot of confidence, somebody that had no",
+      "duration": 4.72,
+      "offset": 43.28,
+      "lang": "en"
+    },
+    {
+      "text": "idea what he wanted to do with his life,",
+      "duration": 4.48,
+      "offset": 45.44,
+      "lang": "en"
+    },
+    {
+      "text": "and now I&#39;m a 22-year-old. I make",
+      "duration": 4.16,
+      "offset": 48.0,
+      "lang": "en"
+    },
+    {
+      "text": "millions of dollars. I have, you know,",
+      "duration": 5.2,
+      "offset": 49.92,
+      "lang": "en"
+    },
+    {
+      "text": "my dream apartment here in an office in",
+      "duration": 6.4,
+      "offset": 52.16,
+      "lang": "en"
+    },
+    {
+      "text": "a, you know, home studio. I sit here and",
+      "duration": 5.12,
+      "offset": 55.12,
+      "lang": "en"
+    },
+    {
+      "text": "my life consists of building apps with",
+      "duration": 3.92,
+      "offset": 58.56,
+      "lang": "en"
+    },
+    {
+      "text": "AI using Lovable. I get to travel the",
+      "duration": 3.92,
+      "offset": 60.24,
+      "lang": "en"
+    },
+    {
+      "text": "world and I get to, you know, make",
+      "duration": 2.8,
+      "offset": 62.48,
+      "lang": "en"
+    },
+    {
+      "text": "really cool products, really cool",
+      "duration": 2.32,
+      "offset": 64.16,
+      "lang": "en"
+    },
+    {
+      "text": "startups, and meet really interesting",
+      "duration": 3.36,
+      "offset": 65.28,
+      "lang": "en"
+    },
+    {
+      "text": "people. So, let me take you back to",
+      "duration": 4.56,
+      "offset": 66.48,
+      "lang": "en"
+    },
+    {
+      "text": "where it all started in the back of my",
+      "duration": 4.56,
+      "offset": 68.64,
+      "lang": "en"
+    },
+    {
+      "text": "high school classroom. You see, from a",
+      "duration": 4.72,
+      "offset": 71.04,
+      "lang": "en"
+    },
+    {
+      "text": "very early age, I knew that I didn&#39;t",
+      "duration": 4.48,
+      "offset": 73.2,
+      "lang": "en"
+    },
+    {
+      "text": "want to go to university. I just knew",
+      "duration": 4.64,
+      "offset": 75.76,
+      "lang": "en"
+    },
+    {
+      "text": "that there was more to life than",
+      "duration": 5.28,
+      "offset": 77.68,
+      "lang": "en"
+    },
+    {
+      "text": "building for somebody else, for sitting",
+      "duration": 4.96,
+      "offset": 80.4,
+      "lang": "en"
+    },
+    {
+      "text": "in a cubicle, for a life that revolved",
+      "duration": 4.72,
+      "offset": 82.96,
+      "lang": "en"
+    },
+    {
+      "text": "around working a set amount of hours. I",
+      "duration": 3.76,
+      "offset": 85.36,
+      "lang": "en"
+    },
+    {
+      "text": "knew that I wanted to see the upside",
+      "duration": 2.8,
+      "offset": 87.68,
+      "lang": "en"
+    },
+    {
+      "text": "that came with entrepreneurship. And I",
+      "duration": 2.72,
+      "offset": 89.12,
+      "lang": "en"
+    },
+    {
+      "text": "knew that university wasn&#39;t the way to",
+      "duration": 3.12,
+      "offset": 90.48,
+      "lang": "en"
+    },
+    {
+      "text": "do that. Now, for some of you watching,",
+      "duration": 3.52,
+      "offset": 91.84,
+      "lang": "en"
+    },
+    {
+      "text": "that may not be the case. For for some",
+      "duration": 3.2,
+      "offset": 93.6,
+      "lang": "en"
+    },
+    {
+      "text": "of you that may be questioning if this",
+      "duration": 4.08,
+      "offset": 95.36,
+      "lang": "en"
+    },
+    {
+      "text": "is the path for you, maybe university",
+      "duration": 4.48,
+      "offset": 96.8,
+      "lang": "en"
+    },
+    {
+      "text": "and college is the right route. But for",
+      "duration": 4.56,
+      "offset": 99.44,
+      "lang": "en"
+    },
+    {
+      "text": "me, I knew that I wanted something more",
+      "duration": 4.64,
+      "offset": 101.28,
+      "lang": "en"
+    },
+    {
+      "text": "and university wasn&#39;t the way to do it.",
+      "duration": 4.0,
+      "offset": 104.0,
+      "lang": "en"
+    },
+    {
+      "text": "And so I started really young uh you",
+      "duration": 4.32,
+      "offset": 105.92,
+      "lang": "en"
+    },
+    {
+      "text": "know when I was 13 I started building",
+      "duration": 4.88,
+      "offset": 108.0,
+      "lang": "en"
+    },
+    {
+      "text": "different apps uh using no code tools",
+      "duration": 5.36,
+      "offset": 110.24,
+      "lang": "en"
+    },
+    {
+      "text": "like bubble um and bubble for me was a",
+      "duration": 4.48,
+      "offset": 112.88,
+      "lang": "en"
+    },
+    {
+      "text": "super pivotal moment. Um for those of",
+      "duration": 3.68,
+      "offset": 115.6,
+      "lang": "en"
+    },
+    {
+      "text": "you who aren&#39;t familiar bubble is a no",
+      "duration": 4.96,
+      "offset": 117.36,
+      "lang": "en"
+    },
+    {
+      "text": "code tool um that really is pretty",
+      "duration": 6.16,
+      "offset": 119.28,
+      "lang": "en"
+    },
+    {
+      "text": "outdated now but at the time was a super",
+      "duration": 5.12,
+      "offset": 122.32,
+      "lang": "en"
+    },
+    {
+      "text": "cool tool that I was able to leverage in",
+      "duration": 4.88,
+      "offset": 125.44,
+      "lang": "en"
+    },
+    {
+      "text": "order to build apps being untenical. And",
+      "duration": 5.04,
+      "offset": 127.44,
+      "lang": "en"
+    },
+    {
+      "text": "so I remember in high school building",
+      "duration": 3.92,
+      "offset": 130.32,
+      "lang": "en"
+    },
+    {
+      "text": "multiple different apps. I built a",
+      "duration": 4.32,
+      "offset": 132.48,
+      "lang": "en"
+    },
+    {
+      "text": "Airbnb for workspaces. So essentially",
+      "duration": 4.64,
+      "offset": 134.24,
+      "lang": "en"
+    },
+    {
+      "text": "being able to connect people that had uh",
+      "duration": 4.32,
+      "offset": 136.8,
+      "lang": "en"
+    },
+    {
+      "text": "workspaces or desks or you know like",
+      "duration": 4.16,
+      "offset": 138.88,
+      "lang": "en"
+    },
+    {
+      "text": "conference rooms available with startups",
+      "duration": 3.28,
+      "offset": 141.12,
+      "lang": "en"
+    },
+    {
+      "text": "or people looking to rent them out by",
+      "duration": 3.92,
+      "offset": 143.04,
+      "lang": "en"
+    },
+    {
+      "text": "the hour. I built a Facebook marketplace",
+      "duration": 4.08,
+      "offset": 144.4,
+      "lang": "en"
+    },
+    {
+      "text": "for my school and for the surrounding",
+      "duration": 3.44,
+      "offset": 146.96,
+      "lang": "en"
+    },
+    {
+      "text": "school so kids could trade or you know",
+      "duration": 4.24,
+      "offset": 148.48,
+      "lang": "en"
+    },
+    {
+      "text": "buy things off people in school to",
+      "duration": 4.96,
+      "offset": 150.4,
+      "lang": "en"
+    },
+    {
+      "text": "create more of a safe ecosystem. Um and",
+      "duration": 4.08,
+      "offset": 152.72,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s so many other things I can name",
+      "duration": 3.6,
+      "offset": 155.36,
+      "lang": "en"
+    },
+    {
+      "text": "that we that I built and it really you",
+      "duration": 4.24,
+      "offset": 156.8,
+      "lang": "en"
+    },
+    {
+      "text": "know inspired this love for building. So",
+      "duration": 4.8,
+      "offset": 158.96,
+      "lang": "en"
+    },
+    {
+      "text": "much so to the fact where when CO came",
+      "duration": 5.44,
+      "offset": 161.04,
+      "lang": "en"
+    },
+    {
+      "text": "around, I had people starting to ask me",
+      "duration": 5.04,
+      "offset": 163.76,
+      "lang": "en"
+    },
+    {
+      "text": "to help them build products. And one of",
+      "duration": 4.48,
+      "offset": 166.48,
+      "lang": "en"
+    },
+    {
+      "text": "those companies was a taekwond do studio",
+      "duration": 4.56,
+      "offset": 168.8,
+      "lang": "en"
+    },
+    {
+      "text": "in Toronto. And you know, when coa",
+      "duration": 4.48,
+      "offset": 170.96,
+      "lang": "en"
+    },
+    {
+      "text": "happened, people were were freaking out.",
+      "duration": 4.4,
+      "offset": 173.36,
+      "lang": "en"
+    },
+    {
+      "text": "They did not know what to do. And so I",
+      "duration": 5.68,
+      "offset": 175.44,
+      "lang": "en"
+    },
+    {
+      "text": "came in here as and being the naive kid",
+      "duration": 5.6,
+      "offset": 177.76,
+      "lang": "en"
+    },
+    {
+      "text": "I I was at the time, I thought, well,",
+      "duration": 3.84,
+      "offset": 181.12,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been able to build apps in the past",
+      "duration": 3.84,
+      "offset": 183.36,
+      "lang": "en"
+    },
+    {
+      "text": "using this tool called Bubble. So maybe",
+      "duration": 4.08,
+      "offset": 184.96,
+      "lang": "en"
+    },
+    {
+      "text": "I can actually help other people do the",
+      "duration": 4.16,
+      "offset": 187.2,
+      "lang": "en"
+    },
+    {
+      "text": "same. And so it was January or February",
+      "duration": 4.24,
+      "offset": 189.04,
+      "lang": "en"
+    },
+    {
+      "text": "2020 when we took on our first client,",
+      "duration": 4.08,
+      "offset": 191.36,
+      "lang": "en"
+    },
+    {
+      "text": "me and my co-founder who I met just",
+      "duration": 3.84,
+      "offset": 193.28,
+      "lang": "en"
+    },
+    {
+      "text": "through the great vine of events and all",
+      "duration": 4.24,
+      "offset": 195.44,
+      "lang": "en"
+    },
+    {
+      "text": "that stuff. Um, we were able to sign our",
+      "duration": 5.04,
+      "offset": 197.12,
+      "lang": "en"
+    },
+    {
+      "text": "first big deal of around $50,000 at the",
+      "duration": 5.44,
+      "offset": 199.68,
+      "lang": "en"
+    },
+    {
+      "text": "time. But before even we got there, we",
+      "duration": 4.96,
+      "offset": 202.16,
+      "lang": "en"
+    },
+    {
+      "text": "were doing small hustles. We were trying",
+      "duration": 3.44,
+      "offset": 205.12,
+      "lang": "en"
+    },
+    {
+      "text": "to just get a name for ourselves,",
+      "duration": 3.12,
+      "offset": 207.12,
+      "lang": "en"
+    },
+    {
+      "text": "whether it was shooting real estate",
+      "duration": 3.68,
+      "offset": 208.56,
+      "lang": "en"
+    },
+    {
+      "text": "videos, whether it was, you know, doing",
+      "duration": 3.52,
+      "offset": 210.24,
+      "lang": "en"
+    },
+    {
+      "text": "social media marketing and Facebook ads",
+      "duration": 3.68,
+      "offset": 212.24,
+      "lang": "en"
+    },
+    {
+      "text": "and all these various hustles. Um, but",
+      "duration": 3.68,
+      "offset": 213.76,
+      "lang": "en"
+    },
+    {
+      "text": "the thing that I learned really early",
+      "duration": 3.68,
+      "offset": 215.92,
+      "lang": "en"
+    },
+    {
+      "text": "and this is probably a really big lesson",
+      "duration": 3.92,
+      "offset": 217.44,
+      "lang": "en"
+    },
+    {
+      "text": "for all you guys that are building right",
+      "duration": 4.08,
+      "offset": 219.6,
+      "lang": "en"
+    },
+    {
+      "text": "now is that the people that do the best",
+      "duration": 4.0,
+      "offset": 221.36,
+      "lang": "en"
+    },
+    {
+      "text": "are the people that are as niches",
+      "duration": 4.72,
+      "offset": 223.68,
+      "lang": "en"
+    },
+    {
+      "text": "specific as possible. Okay, so you see",
+      "duration": 4.88,
+      "offset": 225.36,
+      "lang": "en"
+    },
+    {
+      "text": "we went from bu doing all these various",
+      "duration": 3.76,
+      "offset": 228.4,
+      "lang": "en"
+    },
+    {
+      "text": "business models, right? We tried, you",
+      "duration": 3.76,
+      "offset": 230.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, social media, photography, drop",
+      "duration": 3.12,
+      "offset": 232.16,
+      "lang": "en"
+    },
+    {
+      "text": "shipping, e-commerce, all these",
+      "duration": 3.12,
+      "offset": 234.0,
+      "lang": "en"
+    },
+    {
+      "text": "different things and we would offer it",
+      "duration": 4.24,
+      "offset": 235.28,
+      "lang": "en"
+    },
+    {
+      "text": "all to our clients. But ultimately I",
+      "duration": 4.96,
+      "offset": 237.12,
+      "lang": "en"
+    },
+    {
+      "text": "realized that building products using",
+      "duration": 4.4,
+      "offset": 239.52,
+      "lang": "en"
+    },
+    {
+      "text": "these tools was our competitive",
+      "duration": 3.2,
+      "offset": 242.08,
+      "lang": "en"
+    },
+    {
+      "text": "advantage. it was the thing that we",
+      "duration": 2.8,
+      "offset": 243.92,
+      "lang": "en"
+    },
+    {
+      "text": "could focus on and become really good",
+      "duration": 3.36,
+      "offset": 245.28,
+      "lang": "en"
+    },
+    {
+      "text": "at. And so that&#39;s what we did after we",
+      "duration": 3.76,
+      "offset": 246.72,
+      "lang": "en"
+    },
+    {
+      "text": "found that first client. We realized",
+      "duration": 3.68,
+      "offset": 248.64,
+      "lang": "en"
+    },
+    {
+      "text": "that this is a path that really, you",
+      "duration": 3.84,
+      "offset": 250.48,
+      "lang": "en"
+    },
+    {
+      "text": "know, we could scale and we also just",
+      "duration": 3.44,
+      "offset": 252.32,
+      "lang": "en"
+    },
+    {
+      "text": "enjoyed doing it. I mean, it was a lot",
+      "duration": 3.36,
+      "offset": 254.32,
+      "lang": "en"
+    },
+    {
+      "text": "more fun than having to go to different",
+      "duration": 3.68,
+      "offset": 255.76,
+      "lang": "en"
+    },
+    {
+      "text": "real estate shoots or going to do",
+      "duration": 4.08,
+      "offset": 257.68,
+      "lang": "en"
+    },
+    {
+      "text": "various social media campaigns. I",
+      "duration": 3.92,
+      "offset": 259.44,
+      "lang": "en"
+    },
+    {
+      "text": "actually enjoyed building products and",
+      "duration": 3.6,
+      "offset": 261.76,
+      "lang": "en"
+    },
+    {
+      "text": "so after the first one, I was like,",
+      "duration": 3.44,
+      "offset": 263.36,
+      "lang": "en"
+    },
+    {
+      "text": "well, what if we just kind of pivot the",
+      "duration": 3.68,
+      "offset": 265.36,
+      "lang": "en"
+    },
+    {
+      "text": "entire company to only building products",
+      "duration": 4.16,
+      "offset": 266.8,
+      "lang": "en"
+    },
+    {
+      "text": "with no code tools? And so that&#39;s",
+      "duration": 4.0,
+      "offset": 269.04,
+      "lang": "en"
+    },
+    {
+      "text": "exactly what we did. Uh in 2021, we",
+      "duration": 3.84,
+      "offset": 270.96,
+      "lang": "en"
+    },
+    {
+      "text": "rebranded our company, called it Creme",
+      "duration": 3.76,
+      "offset": 273.04,
+      "lang": "en"
+    },
+    {
+      "text": "Digital instead of Creme Media, and we",
+      "duration": 4.08,
+      "offset": 274.8,
+      "lang": "en"
+    },
+    {
+      "text": "went all in on building products for",
+      "duration": 3.92,
+      "offset": 276.8,
+      "lang": "en"
+    },
+    {
+      "text": "startups and for enterprises. And I",
+      "duration": 4.24,
+      "offset": 278.88,
+      "lang": "en"
+    },
+    {
+      "text": "believe the second we made that switch,",
+      "duration": 5.04,
+      "offset": 280.72,
+      "lang": "en"
+    },
+    {
+      "text": "um things really took a turn because",
+      "duration": 4.4,
+      "offset": 283.12,
+      "lang": "en"
+    },
+    {
+      "text": "what ends up happening is you start",
+      "duration": 3.68,
+      "offset": 285.76,
+      "lang": "en"
+    },
+    {
+      "text": "focusing your efforts and you start",
+      "duration": 4.08,
+      "offset": 287.52,
+      "lang": "en"
+    },
+    {
+      "text": "defining what you&#39;re good at and that",
+      "duration": 3.92,
+      "offset": 289.44,
+      "lang": "en"
+    },
+    {
+      "text": "makes it a lot easier to go after",
+      "duration": 3.6,
+      "offset": 291.6,
+      "lang": "en"
+    },
+    {
+      "text": "customers. And so I remember one of the",
+      "duration": 4.0,
+      "offset": 293.36,
+      "lang": "en"
+    },
+    {
+      "text": "first things we did was just sign up for",
+      "duration": 4.08,
+      "offset": 295.2,
+      "lang": "en"
+    },
+    {
+      "text": "um the partner programs that were",
+      "duration": 4.0,
+      "offset": 297.36,
+      "lang": "en"
+    },
+    {
+      "text": "specific for building software. So we",
+      "duration": 3.6,
+      "offset": 299.28,
+      "lang": "en"
+    },
+    {
+      "text": "signed up for all the tools that had",
+      "duration": 3.04,
+      "offset": 301.36,
+      "lang": "en"
+    },
+    {
+      "text": "their own partner programs that would",
+      "duration": 3.36,
+      "offset": 302.88,
+      "lang": "en"
+    },
+    {
+      "text": "essentially refer clients or refer",
+      "duration": 3.52,
+      "offset": 304.4,
+      "lang": "en"
+    },
+    {
+      "text": "people that needed some expert, you",
+      "duration": 4.88,
+      "offset": 306.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, advice and agency help. And so",
+      "duration": 5.2,
+      "offset": 307.92,
+      "lang": "en"
+    },
+    {
+      "text": "those programs basically got us to our",
+      "duration": 5.28,
+      "offset": 311.12,
+      "lang": "en"
+    },
+    {
+      "text": "first, you know, $100,000, you know, I",
+      "duration": 5.2,
+      "offset": 313.12,
+      "lang": "en"
+    },
+    {
+      "text": "would say I think it probably brought us",
+      "duration": 5.44,
+      "offset": 316.4,
+      "lang": "en"
+    },
+    {
+      "text": "to around $600 $700,000 just in in in a",
+      "duration": 5.84,
+      "offset": 318.32,
+      "lang": "en"
+    },
+    {
+      "text": "year just from those kind of programs.",
+      "duration": 4.4,
+      "offset": 321.84,
+      "lang": "en"
+    },
+    {
+      "text": "Um, we ended up hiring a sales guy which",
+      "duration": 4.16,
+      "offset": 324.16,
+      "lang": "en"
+    },
+    {
+      "text": "really helped us, you know, focus on the",
+      "duration": 3.6,
+      "offset": 326.24,
+      "lang": "en"
+    },
+    {
+      "text": "actual fulfillment side of things while",
+      "duration": 3.12,
+      "offset": 328.32,
+      "lang": "en"
+    },
+    {
+      "text": "we had somebody to kind of actually, you",
+      "duration": 3.44,
+      "offset": 329.84,
+      "lang": "en"
+    },
+    {
+      "text": "know, close the deals because that was a",
+      "duration": 3.28,
+      "offset": 331.44,
+      "lang": "en"
+    },
+    {
+      "text": "really timeconsuming part of the",
+      "duration": 2.72,
+      "offset": 333.28,
+      "lang": "en"
+    },
+    {
+      "text": "process, especially back then when",
+      "duration": 2.8,
+      "offset": 334.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just starting out. You really",
+      "duration": 4.24,
+      "offset": 336.0,
+      "lang": "en"
+    },
+    {
+      "text": "have to prove yourself. So,",
+      "duration": 5.36,
+      "offset": 337.52,
+      "lang": "en"
+    },
+    {
+      "text": "fast forwarding a bit, we we ran we",
+      "duration": 4.64,
+      "offset": 340.24,
+      "lang": "en"
+    },
+    {
+      "text": "built this agency. And one of the things",
+      "duration": 3.76,
+      "offset": 342.88,
+      "lang": "en"
+    },
+    {
+      "text": "that you know another big learning for",
+      "duration": 4.4,
+      "offset": 344.88,
+      "lang": "en"
+    },
+    {
+      "text": "all you guys building right now is that",
+      "duration": 5.2,
+      "offset": 346.64,
+      "lang": "en"
+    },
+    {
+      "text": "building an agency in particular means",
+      "duration": 4.48,
+      "offset": 349.28,
+      "lang": "en"
+    },
+    {
+      "text": "that you need to have your own unique",
+      "duration": 4.72,
+      "offset": 351.84,
+      "lang": "en"
+    },
+    {
+      "text": "angle on the market, right? And so for",
+      "duration": 5.04,
+      "offset": 353.76,
+      "lang": "en"
+    },
+    {
+      "text": "ours, you know, we wanted to focus on",
+      "duration": 3.84,
+      "offset": 356.56,
+      "lang": "en"
+    },
+    {
+      "text": "building apps. We wanted to focus on",
+      "duration": 3.52,
+      "offset": 358.8,
+      "lang": "en"
+    },
+    {
+      "text": "building apps with no code and we wanted",
+      "duration": 4.08,
+      "offset": 360.4,
+      "lang": "en"
+    },
+    {
+      "text": "to focus on building apps with no code",
+      "duration": 4.4,
+      "offset": 362.32,
+      "lang": "en"
+    },
+    {
+      "text": "for startups. But there was one caveat",
+      "duration": 4.72,
+      "offset": 364.48,
+      "lang": "en"
+    },
+    {
+      "text": "to this which is that no code was looked",
+      "duration": 5.44,
+      "offset": 366.72,
+      "lang": "en"
+    },
+    {
+      "text": "at as a very old outdated kind of ugly",
+      "duration": 5.04,
+      "offset": 369.2,
+      "lang": "en"
+    },
+    {
+      "text": "and clunky way of building software. And",
+      "duration": 4.08,
+      "offset": 372.16,
+      "lang": "en"
+    },
+    {
+      "text": "to some extent that was true. You know",
+      "duration": 3.84,
+      "offset": 374.24,
+      "lang": "en"
+    },
+    {
+      "text": "you had a lot of builders using these",
+      "duration": 3.68,
+      "offset": 376.24,
+      "lang": "en"
+    },
+    {
+      "text": "tools and were building really crummy",
+      "duration": 4.08,
+      "offset": 378.08,
+      "lang": "en"
+    },
+    {
+      "text": "products. But ultimately what we",
+      "duration": 4.48,
+      "offset": 379.92,
+      "lang": "en"
+    },
+    {
+      "text": "realized is all these agencies all these",
+      "duration": 4.96,
+      "offset": 382.16,
+      "lang": "en"
+    },
+    {
+      "text": "builders they were all just developers.",
+      "duration": 4.64,
+      "offset": 384.4,
+      "lang": "en"
+    },
+    {
+      "text": "None of them had any design or product",
+      "duration": 3.76,
+      "offset": 387.12,
+      "lang": "en"
+    },
+    {
+      "text": "experience. And so that&#39;s when we were",
+      "duration": 4.08,
+      "offset": 389.04,
+      "lang": "en"
+    },
+    {
+      "text": "like well what if we actually focus on",
+      "duration": 4.0,
+      "offset": 390.88,
+      "lang": "en"
+    },
+    {
+      "text": "that? What if we were able to charge",
+      "duration": 3.68,
+      "offset": 393.12,
+      "lang": "en"
+    },
+    {
+      "text": "more because we&#39;re able to deliver a",
+      "duration": 4.16,
+      "offset": 394.88,
+      "lang": "en"
+    },
+    {
+      "text": "higher quality product, but add in a",
+      "duration": 5.28,
+      "offset": 396.8,
+      "lang": "en"
+    },
+    {
+      "text": "more, you know, worldclass design team,",
+      "duration": 5.76,
+      "offset": 399.04,
+      "lang": "en"
+    },
+    {
+      "text": "a world a more polished end product to",
+      "duration": 4.4,
+      "offset": 402.08,
+      "lang": "en"
+    },
+    {
+      "text": "make the price, you know, more valuable.",
+      "duration": 4.48,
+      "offset": 404.8,
+      "lang": "en"
+    },
+    {
+      "text": "And so that&#39;s exactly what we did. Um,",
+      "duration": 5.28,
+      "offset": 406.48,
+      "lang": "en"
+    },
+    {
+      "text": "and it that paid even more dividends.",
+      "duration": 4.88,
+      "offset": 409.28,
+      "lang": "en"
+    },
+    {
+      "text": "The more we focused in on a niche, the",
+      "duration": 4.0,
+      "offset": 411.76,
+      "lang": "en"
+    },
+    {
+      "text": "more the agency grew because we were",
+      "duration": 4.0,
+      "offset": 414.16,
+      "lang": "en"
+    },
+    {
+      "text": "able to have a unique value prop in the",
+      "duration": 4.16,
+      "offset": 415.76,
+      "lang": "en"
+    },
+    {
+      "text": "market. It was no longer competing",
+      "duration": 2.64,
+      "offset": 418.16,
+      "lang": "en"
+    },
+    {
+      "text": "against a bunch of different",
+      "duration": 2.72,
+      "offset": 419.92,
+      "lang": "en"
+    },
+    {
+      "text": "competitors. it was much easier to",
+      "duration": 3.36,
+      "offset": 420.8,
+      "lang": "en"
+    },
+    {
+      "text": "define where we stood in the market",
+      "duration": 3.2,
+      "offset": 422.64,
+      "lang": "en"
+    },
+    {
+      "text": "compared to our competitors. And",
+      "duration": 3.2,
+      "offset": 424.16,
+      "lang": "en"
+    },
+    {
+      "text": "probably, you know, months after that,",
+      "duration": 4.32,
+      "offset": 425.84,
+      "lang": "en"
+    },
+    {
+      "text": "we had our first $100,000 month, which",
+      "duration": 4.24,
+      "offset": 427.36,
+      "lang": "en"
+    },
+    {
+      "text": "at the time, you have to you have to",
+      "duration": 3.2,
+      "offset": 430.16,
+      "lang": "en"
+    },
+    {
+      "text": "remember, um, and maybe I didn&#39;t make",
+      "duration": 3.36,
+      "offset": 431.6,
+      "lang": "en"
+    },
+    {
+      "text": "this clear, I was in high school this",
+      "duration": 3.52,
+      "offset": 433.36,
+      "lang": "en"
+    },
+    {
+      "text": "entire time. And so, this is probably",
+      "duration": 5.28,
+      "offset": 434.96,
+      "lang": "en"
+    },
+    {
+      "text": "around grade 12. And I remember, you",
+      "duration": 5.36,
+      "offset": 436.88,
+      "lang": "en"
+    },
+    {
+      "text": "know, still having to go to class, but",
+      "duration": 5.12,
+      "offset": 440.24,
+      "lang": "en"
+    },
+    {
+      "text": "seeing $50, $100,000 in Stripe, you",
+      "duration": 5.04,
+      "offset": 442.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, in my in my dashboard as I was",
+      "duration": 3.44,
+      "offset": 445.36,
+      "lang": "en"
+    },
+    {
+      "text": "sitting in business class like being",
+      "duration": 3.44,
+      "offset": 447.28,
+      "lang": "en"
+    },
+    {
+      "text": "lectured around how to run a business by",
+      "duration": 3.84,
+      "offset": 448.8,
+      "lang": "en"
+    },
+    {
+      "text": "a teacher that&#39;s never done it before.",
+      "duration": 3.76,
+      "offset": 450.72,
+      "lang": "en"
+    },
+    {
+      "text": "And so that&#39;s when I really realized I",
+      "duration": 4.48,
+      "offset": 452.64,
+      "lang": "en"
+    },
+    {
+      "text": "was like, what what am I doing here? It",
+      "duration": 4.4,
+      "offset": 454.48,
+      "lang": "en"
+    },
+    {
+      "text": "really reaffirmed this idea that like",
+      "duration": 3.44,
+      "offset": 457.12,
+      "lang": "en"
+    },
+    {
+      "text": "university was not going to be the path",
+      "duration": 3.6,
+      "offset": 458.88,
+      "lang": "en"
+    },
+    {
+      "text": "because I was just going to get more of",
+      "duration": 4.96,
+      "offset": 460.56,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m already seeing right now.",
+      "duration": 6.32,
+      "offset": 462.48,
+      "lang": "en"
+    },
+    {
+      "text": "So ultimately the business continued to",
+      "duration": 5.28,
+      "offset": 465.52,
+      "lang": "en"
+    },
+    {
+      "text": "do well and I convinced my parents and",
+      "duration": 4.24,
+      "offset": 468.8,
+      "lang": "en"
+    },
+    {
+      "text": "myself frankly that it was the right",
+      "duration": 4.8,
+      "offset": 470.8,
+      "lang": "en"
+    },
+    {
+      "text": "decision not to go to university and it",
+      "duration": 4.08,
+      "offset": 473.04,
+      "lang": "en"
+    },
+    {
+      "text": "definitely took some convincing. Okay.",
+      "duration": 3.2,
+      "offset": 475.6,
+      "lang": "en"
+    },
+    {
+      "text": "And and and one of the biggest things",
+      "duration": 3.76,
+      "offset": 477.12,
+      "lang": "en"
+    },
+    {
+      "text": "that I had going for me was that the",
+      "duration": 3.92,
+      "offset": 478.8,
+      "lang": "en"
+    },
+    {
+      "text": "business was working. The business was",
+      "duration": 4.72,
+      "offset": 480.88,
+      "lang": "en"
+    },
+    {
+      "text": "able to show meaningful results based on",
+      "duration": 4.8,
+      "offset": 482.72,
+      "lang": "en"
+    },
+    {
+      "text": "my efforts. And so I think that was a",
+      "duration": 3.28,
+      "offset": 485.6,
+      "lang": "en"
+    },
+    {
+      "text": "promising signal for me. It was a",
+      "duration": 3.2,
+      "offset": 487.52,
+      "lang": "en"
+    },
+    {
+      "text": "promising signal for my parents and",
+      "duration": 3.68,
+      "offset": 488.88,
+      "lang": "en"
+    },
+    {
+      "text": "honestly a promising signal for the",
+      "duration": 3.36,
+      "offset": 490.72,
+      "lang": "en"
+    },
+    {
+      "text": "team, the small team that we had at the",
+      "duration": 4.56,
+      "offset": 492.56,
+      "lang": "en"
+    },
+    {
+      "text": "time to continue to build and so we",
+      "duration": 5.2,
+      "offset": 494.08,
+      "lang": "en"
+    },
+    {
+      "text": "ended up kind of locking in and uh you",
+      "duration": 4.64,
+      "offset": 497.12,
+      "lang": "en"
+    },
+    {
+      "text": "know I decided not to go and I spent the",
+      "duration": 5.12,
+      "offset": 499.28,
+      "lang": "en"
+    },
+    {
+      "text": "rest of you know that first summer",
+      "duration": 4.0,
+      "offset": 501.76,
+      "lang": "en"
+    },
+    {
+      "text": "focused on the business. It was the",
+      "duration": 3.28,
+      "offset": 504.4,
+      "lang": "en"
+    },
+    {
+      "text": "first time where I was fully dedicated",
+      "duration": 3.92,
+      "offset": 505.76,
+      "lang": "en"
+    },
+    {
+      "text": "to building something for for basically",
+      "duration": 4.32,
+      "offset": 507.68,
+      "lang": "en"
+    },
+    {
+      "text": "my entire life. It was a really weird",
+      "duration": 4.0,
+      "offset": 509.68,
+      "lang": "en"
+    },
+    {
+      "text": "feeling because, you know, for all of",
+      "duration": 3.44,
+      "offset": 512.0,
+      "lang": "en"
+    },
+    {
+      "text": "you that that that go from, you know,",
+      "duration": 3.12,
+      "offset": 513.68,
+      "lang": "en"
+    },
+    {
+      "text": "maybe building a side hustle and then",
+      "duration": 4.24,
+      "offset": 515.44,
+      "lang": "en"
+    },
+    {
+      "text": "the side hustle becomes the main hustle,",
+      "duration": 4.56,
+      "offset": 516.8,
+      "lang": "en"
+    },
+    {
+      "text": "it it goes from it just being what you",
+      "duration": 3.52,
+      "offset": 519.68,
+      "lang": "en"
+    },
+    {
+      "text": "do on the weekends to basically your",
+      "duration": 4.24,
+      "offset": 521.36,
+      "lang": "en"
+    },
+    {
+      "text": "entire life. It it it almost feels like",
+      "duration": 4.96,
+      "offset": 523.2,
+      "lang": "en"
+    },
+    {
+      "text": "a simulation. Um I&#39;m I&#39;m not sure how",
+      "duration": 4.48,
+      "offset": 525.6,
+      "lang": "en"
+    },
+    {
+      "text": "how relatable that is for a lot of you,",
+      "duration": 3.84,
+      "offset": 528.16,
+      "lang": "en"
+    },
+    {
+      "text": "but for those of you who&#39;ve been in that",
+      "duration": 4.72,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "situation, you kind of know. So, we end",
+      "duration": 4.56,
+      "offset": 532.0,
+      "lang": "en"
+    },
+    {
+      "text": "up building this agency. It&#39;s doing",
+      "duration": 4.72,
+      "offset": 534.8,
+      "lang": "en"
+    },
+    {
+      "text": "well, but we have one problem which is",
+      "duration": 5.84,
+      "offset": 536.56,
+      "lang": "en"
+    },
+    {
+      "text": "that the no code space, the the space",
+      "duration": 4.96,
+      "offset": 539.52,
+      "lang": "en"
+    },
+    {
+      "text": "that we are playing in, it just wasn&#39;t",
+      "duration": 4.32,
+      "offset": 542.4,
+      "lang": "en"
+    },
+    {
+      "text": "big enough. Even though we are one of",
+      "duration": 4.56,
+      "offset": 544.48,
+      "lang": "en"
+    },
+    {
+      "text": "the top agencies in the space, we just",
+      "duration": 4.56,
+      "offset": 546.72,
+      "lang": "en"
+    },
+    {
+      "text": "were not able to break through, you",
+      "duration": 4.08,
+      "offset": 549.04,
+      "lang": "en"
+    },
+    {
+      "text": "know, past that million mark. We were",
+      "duration": 3.52,
+      "offset": 551.28,
+      "lang": "en"
+    },
+    {
+      "text": "able to hit the million dollar mark, but",
+      "duration": 3.28,
+      "offset": 553.12,
+      "lang": "en"
+    },
+    {
+      "text": "we weren&#39;t really able to hit that $2",
+      "duration": 3.76,
+      "offset": 554.8,
+      "lang": "en"
+    },
+    {
+      "text": "million mark or really even anywhere",
+      "duration": 5.6,
+      "offset": 556.4,
+      "lang": "en"
+    },
+    {
+      "text": "close. And so I was starting to really",
+      "duration": 6.32,
+      "offset": 558.56,
+      "lang": "en"
+    },
+    {
+      "text": "doubt the business. Um uh this is",
+      "duration": 4.48,
+      "offset": 562.0,
+      "lang": "en"
+    },
+    {
+      "text": "probably you know we&#39;re we&#39;re we&#39;re like",
+      "duration": 4.08,
+      "offset": 564.88,
+      "lang": "en"
+    },
+    {
+      "text": "2 3 years 3 4 years into the business at",
+      "duration": 6.96,
+      "offset": 566.48,
+      "lang": "en"
+    },
+    {
+      "text": "this point. This basically is um from",
+      "duration": 9.12,
+      "offset": 568.96,
+      "lang": "en"
+    },
+    {
+      "text": "you know probably 2021 2022 to 2024. So",
+      "duration": 7.36,
+      "offset": 573.44,
+      "lang": "en"
+    },
+    {
+      "text": "basic basically like three-ish years and",
+      "duration": 6.24,
+      "offset": 578.08,
+      "lang": "en"
+    },
+    {
+      "text": "um this was the end of last year and I",
+      "duration": 6.24,
+      "offset": 580.8,
+      "lang": "en"
+    },
+    {
+      "text": "think the team myself included was kind",
+      "duration": 4.32,
+      "offset": 584.32,
+      "lang": "en"
+    },
+    {
+      "text": "of tired. I mean obviously we had grown",
+      "duration": 4.24,
+      "offset": 587.04,
+      "lang": "en"
+    },
+    {
+      "text": "the team a significant amount. We had",
+      "duration": 4.08,
+      "offset": 588.64,
+      "lang": "en"
+    },
+    {
+      "text": "built a really good process. We have",
+      "duration": 3.6,
+      "offset": 591.28,
+      "lang": "en"
+    },
+    {
+      "text": "really good clients. We had enterprise",
+      "duration": 5.92,
+      "offset": 592.72,
+      "lang": "en"
+    },
+    {
+      "text": "clients even. But the reality was that",
+      "duration": 5.28,
+      "offset": 594.88,
+      "lang": "en"
+    },
+    {
+      "text": "for whatever reason, we just could not",
+      "duration": 4.16,
+      "offset": 598.64,
+      "lang": "en"
+    },
+    {
+      "text": "break through. Um, a lot of that is",
+      "duration": 4.24,
+      "offset": 600.16,
+      "lang": "en"
+    },
+    {
+      "text": "probably learnings that, you know, I can",
+      "duration": 5.28,
+      "offset": 602.8,
+      "lang": "en"
+    },
+    {
+      "text": "share um deeper in another video, but a",
+      "duration": 5.04,
+      "offset": 604.4,
+      "lang": "en"
+    },
+    {
+      "text": "lot of that just had to do with the",
+      "duration": 4.08,
+      "offset": 608.08,
+      "lang": "en"
+    },
+    {
+      "text": "market not being one that was growing",
+      "duration": 5.44,
+      "offset": 609.44,
+      "lang": "en"
+    },
+    {
+      "text": "fast and one that was really able to,",
+      "duration": 4.56,
+      "offset": 612.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know, bring on the scale that we",
+      "duration": 4.64,
+      "offset": 614.88,
+      "lang": "en"
+    },
+    {
+      "text": "were looking for. Because ultimately,",
+      "duration": 5.12,
+      "offset": 616.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re only as good as the boat that",
+      "duration": 3.84,
+      "offset": 619.52,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re riding. You&#39;re only as good as,",
+      "duration": 4.16,
+      "offset": 621.84,
+      "lang": "en"
+    },
+    {
+      "text": "you know, the horse that you you pick.",
+      "duration": 5.04,
+      "offset": 623.36,
+      "lang": "en"
+    },
+    {
+      "text": "So, you know, you should make sure that",
+      "duration": 4.8,
+      "offset": 626.0,
+      "lang": "en"
+    },
+    {
+      "text": "the the market you&#39;re going into is one",
+      "duration": 4.56,
+      "offset": 628.4,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s actually growing because even if",
+      "duration": 3.84,
+      "offset": 630.8,
+      "lang": "en"
+    },
+    {
+      "text": "you do nothing, even if all you do is",
+      "duration": 3.28,
+      "offset": 632.96,
+      "lang": "en"
+    },
+    {
+      "text": "just provide a great experience and a",
+      "duration": 3.2,
+      "offset": 634.64,
+      "lang": "en"
+    },
+    {
+      "text": "great service and a great product, you",
+      "duration": 3.36,
+      "offset": 636.24,
+      "lang": "en"
+    },
+    {
+      "text": "will grow. Okay, that&#39;s the bare",
+      "duration": 6.16,
+      "offset": 637.84,
+      "lang": "en"
+    },
+    {
+      "text": "minimum. And so it wasn&#39;t until January",
+      "duration": 7.68,
+      "offset": 639.6,
+      "lang": "en"
+    },
+    {
+      "text": "2025, right? Things were looking pretty",
+      "duration": 5.68,
+      "offset": 644.0,
+      "lang": "en"
+    },
+    {
+      "text": "bleak. Honestly, the agency was starting",
+      "duration": 4.88,
+      "offset": 647.28,
+      "lang": "en"
+    },
+    {
+      "text": "to slow down. For whatever reason, I",
+      "duration": 5.2,
+      "offset": 649.68,
+      "lang": "en"
+    },
+    {
+      "text": "think people were just starting to see",
+      "duration": 5.12,
+      "offset": 652.16,
+      "lang": "en"
+    },
+    {
+      "text": "that these AI tools were coming along",
+      "duration": 4.24,
+      "offset": 654.88,
+      "lang": "en"
+    },
+    {
+      "text": "and and people were starting to not want",
+      "duration": 4.24,
+      "offset": 657.28,
+      "lang": "en"
+    },
+    {
+      "text": "to use no code tools very much anymore.",
+      "duration": 4.16,
+      "offset": 659.12,
+      "lang": "en"
+    },
+    {
+      "text": "Um, on top of that, I think the team was",
+      "duration": 4.16,
+      "offset": 661.52,
+      "lang": "en"
+    },
+    {
+      "text": "just kind of burnt out from stagnation.",
+      "duration": 4.24,
+      "offset": 663.28,
+      "lang": "en"
+    },
+    {
+      "text": "It wasn&#39;t until I stumbled across this",
+      "duration": 5.04,
+      "offset": 665.68,
+      "lang": "en"
+    },
+    {
+      "text": "tool. this tool which obviously is is",
+      "duration": 5.92,
+      "offset": 667.52,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, but at the time it was not the",
+      "duration": 5.68,
+      "offset": 670.72,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable you know now. Um even though",
+      "duration": 5.52,
+      "offset": 673.44,
+      "lang": "en"
+    },
+    {
+      "text": "this wasn&#39;t very long ago, Lovable was a",
+      "duration": 4.64,
+      "offset": 676.4,
+      "lang": "en"
+    },
+    {
+      "text": "shell of the company it was today. Um or",
+      "duration": 4.4,
+      "offset": 678.96,
+      "lang": "en"
+    },
+    {
+      "text": "it is today. Probably at the time doing",
+      "duration": 5.28,
+      "offset": 681.04,
+      "lang": "en"
+    },
+    {
+      "text": "under $10 million a year. Um the design",
+      "duration": 5.04,
+      "offset": 683.36,
+      "lang": "en"
+    },
+    {
+      "text": "looked nothing like it does today. The",
+      "duration": 3.44,
+      "offset": 686.32,
+      "lang": "en"
+    },
+    {
+      "text": "product worked nothing like it does",
+      "duration": 5.52,
+      "offset": 688.4,
+      "lang": "en"
+    },
+    {
+      "text": "today. It was basically an AI prompter",
+      "duration": 6.08,
+      "offset": 689.76,
+      "lang": "en"
+    },
+    {
+      "text": "with a superb base connection. That was",
+      "duration": 5.2,
+      "offset": 693.92,
+      "lang": "en"
+    },
+    {
+      "text": "basically it. Um, and I was playing with",
+      "duration": 5.6,
+      "offset": 695.84,
+      "lang": "en"
+    },
+    {
+      "text": "this tool and I was very impressed",
+      "duration": 3.68,
+      "offset": 699.12,
+      "lang": "en"
+    },
+    {
+      "text": "because there was a lot of different",
+      "duration": 2.96,
+      "offset": 701.44,
+      "lang": "en"
+    },
+    {
+      "text": "note I mean a lot of different AI tools",
+      "duration": 3.92,
+      "offset": 702.8,
+      "lang": "en"
+    },
+    {
+      "text": "in the market that I had I had tried but",
+      "duration": 4.08,
+      "offset": 704.4,
+      "lang": "en"
+    },
+    {
+      "text": "they were all very gimmicky and this was",
+      "duration": 3.28,
+      "offset": 706.72,
+      "lang": "en"
+    },
+    {
+      "text": "the first time where I actually tried a",
+      "duration": 4.08,
+      "offset": 708.48,
+      "lang": "en"
+    },
+    {
+      "text": "tool and it was actually you know coming",
+      "duration": 5.12,
+      "offset": 710.0,
+      "lang": "en"
+    },
+    {
+      "text": "up with an output that was reasonable",
+      "duration": 4.72,
+      "offset": 712.56,
+      "lang": "en"
+    },
+    {
+      "text": "and I remember that first night I um I",
+      "duration": 3.68,
+      "offset": 715.12,
+      "lang": "en"
+    },
+    {
+      "text": "started building a client project that",
+      "duration": 3.6,
+      "offset": 717.28,
+      "lang": "en"
+    },
+    {
+      "text": "we had that usually would take us you",
+      "duration": 4.24,
+      "offset": 718.8,
+      "lang": "en"
+    },
+    {
+      "text": "know months to build.",
+      "duration": 4.48,
+      "offset": 720.88,
+      "lang": "en"
+    },
+    {
+      "text": "Um but I decided let&#39;s let&#39;s see let&#39;s",
+      "duration": 3.52,
+      "offset": 723.04,
+      "lang": "en"
+    },
+    {
+      "text": "give this a shot. let&#39;s see what level",
+      "duration": 2.96,
+      "offset": 725.36,
+      "lang": "en"
+    },
+    {
+      "text": "is capable of. And I would start",
+      "duration": 3.6,
+      "offset": 726.56,
+      "lang": "en"
+    },
+    {
+      "text": "building it and you know at moments",
+      "duration": 2.96,
+      "offset": 728.32,
+      "lang": "en"
+    },
+    {
+      "text": "where I was like okay well this is where",
+      "duration": 2.56,
+      "offset": 730.16,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to get stuck. It would fix",
+      "duration": 2.96,
+      "offset": 731.28,
+      "lang": "en"
+    },
+    {
+      "text": "itself or I was like okay well it&#39;s",
+      "duration": 2.88,
+      "offset": 732.72,
+      "lang": "en"
+    },
+    {
+      "text": "probably not going to be able to do this",
+      "duration": 2.88,
+      "offset": 734.24,
+      "lang": "en"
+    },
+    {
+      "text": "and it didn&#39;t or it&#39;s probably not going",
+      "duration": 2.72,
+      "offset": 735.6,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to connect the back end and",
+      "duration": 3.04,
+      "offset": 737.12,
+      "lang": "en"
+    },
+    {
+      "text": "it didn&#39;t. And I just kept running into",
+      "duration": 3.36,
+      "offset": 738.32,
+      "lang": "en"
+    },
+    {
+      "text": "these obstacles that kept becoming",
+      "duration": 4.88,
+      "offset": 740.16,
+      "lang": "en"
+    },
+    {
+      "text": "overcome. Um now now mind you I didn&#39;t",
+      "duration": 5.6,
+      "offset": 741.68,
+      "lang": "en"
+    },
+    {
+      "text": "complete the entire app. Um if I kept",
+      "duration": 3.68,
+      "offset": 745.04,
+      "lang": "en"
+    },
+    {
+      "text": "going I probably would have ran into",
+      "duration": 3.2,
+      "offset": 747.28,
+      "lang": "en"
+    },
+    {
+      "text": "more milestones. But for everybody that",
+      "duration": 4.16,
+      "offset": 748.72,
+      "lang": "en"
+    },
+    {
+      "text": "knows um vibe coding is kind of",
+      "duration": 4.32,
+      "offset": 750.48,
+      "lang": "en"
+    },
+    {
+      "text": "bittersweet right? you can take the",
+      "duration": 3.92,
+      "offset": 752.88,
+      "lang": "en"
+    },
+    {
+      "text": "product to about 80% of the way there",
+      "duration": 4.64,
+      "offset": 754.8,
+      "lang": "en"
+    },
+    {
+      "text": "and you&#39;re riding this high. But usually",
+      "duration": 4.24,
+      "offset": 756.8,
+      "lang": "en"
+    },
+    {
+      "text": "near the end of the last 20% is where",
+      "duration": 2.72,
+      "offset": 759.44,
+      "lang": "en"
+    },
+    {
+      "text": "things can kind of get a little more",
+      "duration": 3.44,
+      "offset": 761.04,
+      "lang": "en"
+    },
+    {
+      "text": "tricky. Obviously very overcome",
+      "duration": 4.32,
+      "offset": 762.16,
+      "lang": "en"
+    },
+    {
+      "text": "overcomeable but takes a little bit more",
+      "duration": 3.44,
+      "offset": 764.48,
+      "lang": "en"
+    },
+    {
+      "text": "you know debugging and maybe bring",
+      "duration": 3.52,
+      "offset": 766.48,
+      "lang": "en"
+    },
+    {
+      "text": "things in the cursor etc. But at the",
+      "duration": 4.0,
+      "offset": 767.92,
+      "lang": "en"
+    },
+    {
+      "text": "time I was just so impressed and so I",
+      "duration": 5.04,
+      "offset": 770.0,
+      "lang": "en"
+    },
+    {
+      "text": "was like well now I get it. I get where",
+      "duration": 5.28,
+      "offset": 771.92,
+      "lang": "en"
+    },
+    {
+      "text": "this is going to go now. Maybe this is a",
+      "duration": 4.08,
+      "offset": 775.04,
+      "lang": "en"
+    },
+    {
+      "text": "bit early. Maybe, you know, I shouldn&#39;t",
+      "duration": 3.52,
+      "offset": 777.2,
+      "lang": "en"
+    },
+    {
+      "text": "have been building client projects with",
+      "duration": 4.64,
+      "offset": 779.12,
+      "lang": "en"
+    },
+    {
+      "text": "it, but I knew that this is going to be",
+      "duration": 4.8,
+      "offset": 780.72,
+      "lang": "en"
+    },
+    {
+      "text": "the future and I want to get ahead of",
+      "duration": 3.36,
+      "offset": 783.76,
+      "lang": "en"
+    },
+    {
+      "text": "the curve rather than be behind, even if",
+      "duration": 3.76,
+      "offset": 785.52,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re a month or two early because, as",
+      "duration": 4.8,
+      "offset": 787.12,
+      "lang": "en"
+    },
+    {
+      "text": "you now know, this this this space is",
+      "duration": 5.92,
+      "offset": 789.28,
+      "lang": "en"
+    },
+    {
+      "text": "moving incredibly fast. So, I decided",
+      "duration": 5.28,
+      "offset": 791.92,
+      "lang": "en"
+    },
+    {
+      "text": "the next day to call an emergency",
+      "duration": 4.08,
+      "offset": 795.2,
+      "lang": "en"
+    },
+    {
+      "text": "meeting with the team and we decided to",
+      "duration": 4.56,
+      "offset": 797.2,
+      "lang": "en"
+    },
+    {
+      "text": "pivot the entire company. Okay, we never",
+      "duration": 4.48,
+      "offset": 799.28,
+      "lang": "en"
+    },
+    {
+      "text": "built another bubble app again from that",
+      "duration": 4.72,
+      "offset": 801.76,
+      "lang": "en"
+    },
+    {
+      "text": "point. And I got to say this, this was a",
+      "duration": 4.48,
+      "offset": 803.76,
+      "lang": "en"
+    },
+    {
+      "text": "very monumental moment. This was a",
+      "duration": 4.0,
+      "offset": 806.48,
+      "lang": "en"
+    },
+    {
+      "text": "moment that I think my team questioned.",
+      "duration": 4.48,
+      "offset": 808.24,
+      "lang": "en"
+    },
+    {
+      "text": "I questioned and we had a lot of",
+      "duration": 4.08,
+      "offset": 810.48,
+      "lang": "en"
+    },
+    {
+      "text": "headaches. It was not, you know, smooth",
+      "duration": 4.24,
+      "offset": 812.72,
+      "lang": "en"
+    },
+    {
+      "text": "sailing. Lovable was just not really at",
+      "duration": 4.4,
+      "offset": 814.56,
+      "lang": "en"
+    },
+    {
+      "text": "the point at the time to be building",
+      "duration": 4.24,
+      "offset": 816.96,
+      "lang": "en"
+    },
+    {
+      "text": "these client grade products. But",
+      "duration": 4.32,
+      "offset": 818.96,
+      "lang": "en"
+    },
+    {
+      "text": "luckily, we had a development team that",
+      "duration": 4.16,
+      "offset": 821.2,
+      "lang": "en"
+    },
+    {
+      "text": "was already super sophisticated and was",
+      "duration": 3.44,
+      "offset": 823.28,
+      "lang": "en"
+    },
+    {
+      "text": "able to, you know, leverage their",
+      "duration": 3.6,
+      "offset": 825.36,
+      "lang": "en"
+    },
+    {
+      "text": "technical skills to move it to Cursor or",
+      "duration": 4.0,
+      "offset": 826.72,
+      "lang": "en"
+    },
+    {
+      "text": "move it to other tools when we needed to",
+      "duration": 3.92,
+      "offset": 828.96,
+      "lang": "en"
+    },
+    {
+      "text": "while still keeping Lovable as our base.",
+      "duration": 4.4,
+      "offset": 830.72,
+      "lang": "en"
+    },
+    {
+      "text": "Now, Lovable at the time, as I said, was",
+      "duration": 4.32,
+      "offset": 832.88,
+      "lang": "en"
+    },
+    {
+      "text": "not the company it is today. When they",
+      "duration": 3.68,
+      "offset": 835.12,
+      "lang": "en"
+    },
+    {
+      "text": "saw people like us actually trying to",
+      "duration": 4.16,
+      "offset": 837.2,
+      "lang": "en"
+    },
+    {
+      "text": "build an agency on top of Lovable, they",
+      "duration": 4.08,
+      "offset": 838.8,
+      "lang": "en"
+    },
+    {
+      "text": "reached out and they were like, &quot;How can",
+      "duration": 3.2,
+      "offset": 841.36,
+      "lang": "en"
+    },
+    {
+      "text": "we help you?&quot; And so, that&#39;s when we",
+      "duration": 3.36,
+      "offset": 842.88,
+      "lang": "en"
+    },
+    {
+      "text": "kind of started building this agency",
+      "duration": 3.28,
+      "offset": 844.56,
+      "lang": "en"
+    },
+    {
+      "text": "partnership page that we&#39;ll throw up",
+      "duration": 4.4,
+      "offset": 846.24,
+      "lang": "en"
+    },
+    {
+      "text": "here, lovable.dev/partners.",
+      "duration": 5.6,
+      "offset": 847.84,
+      "lang": "en"
+    },
+    {
+      "text": "And basically, that is where we kind of",
+      "duration": 4.64,
+      "offset": 850.64,
+      "lang": "en"
+    },
+    {
+      "text": "got our start. That is when the Lovable",
+      "duration": 4.08,
+      "offset": 853.44,
+      "lang": "en"
+    },
+    {
+      "text": "ecosystem finally started. And it was",
+      "duration": 4.0,
+      "offset": 855.28,
+      "lang": "en"
+    },
+    {
+      "text": "like probably a month after we started",
+      "duration": 3.92,
+      "offset": 857.52,
+      "lang": "en"
+    },
+    {
+      "text": "building we we we kind of had that",
+      "duration": 4.56,
+      "offset": 859.28,
+      "lang": "en"
+    },
+    {
+      "text": "initial partnership with Loveable and we",
+      "duration": 4.24,
+      "offset": 861.44,
+      "lang": "en"
+    },
+    {
+      "text": "slowly worked with them on improving the",
+      "duration": 3.92,
+      "offset": 863.84,
+      "lang": "en"
+    },
+    {
+      "text": "product for themselves but also for our",
+      "duration": 3.52,
+      "offset": 865.68,
+      "lang": "en"
+    },
+    {
+      "text": "customers and we made it apparent to",
+      "duration": 3.04,
+      "offset": 867.76,
+      "lang": "en"
+    },
+    {
+      "text": "like where are the things that we need",
+      "duration": 3.6,
+      "offset": 869.2,
+      "lang": "en"
+    },
+    {
+      "text": "in order to be able to serve clients and",
+      "duration": 4.08,
+      "offset": 870.8,
+      "lang": "en"
+    },
+    {
+      "text": "they were incredibly responsive and in",
+      "duration": 5.12,
+      "offset": 872.8,
+      "lang": "en"
+    },
+    {
+      "text": "incredibly eager to help that process",
+      "duration": 4.88,
+      "offset": 874.88,
+      "lang": "en"
+    },
+    {
+      "text": "and within about you know a month or two",
+      "duration": 4.08,
+      "offset": 877.92,
+      "lang": "en"
+    },
+    {
+      "text": "after that lovable was in you know a",
+      "duration": 3.76,
+      "offset": 879.76,
+      "lang": "en"
+    },
+    {
+      "text": "very different place at this point we&#39;re",
+      "duration": 4.8,
+      "offset": 882.0,
+      "lang": "en"
+    },
+    {
+      "text": "probably coming into March April Okay.",
+      "duration": 4.8,
+      "offset": 883.52,
+      "lang": "en"
+    },
+    {
+      "text": "And Lovable is starting to really",
+      "duration": 2.96,
+      "offset": 886.8,
+      "lang": "en"
+    },
+    {
+      "text": "evolve. Okay. Lovable is starting to",
+      "duration": 4.0,
+      "offset": 888.32,
+      "lang": "en"
+    },
+    {
+      "text": "become a much more fleshed out product.",
+      "duration": 4.48,
+      "offset": 889.76,
+      "lang": "en"
+    },
+    {
+      "text": "You know, it&#39;s growing super fast. And",
+      "duration": 4.08,
+      "offset": 892.32,
+      "lang": "en"
+    },
+    {
+      "text": "now all of a sudden, we are this agency",
+      "duration": 4.0,
+      "offset": 894.24,
+      "lang": "en"
+    },
+    {
+      "text": "that, you know, started when there was",
+      "duration": 3.84,
+      "offset": 896.4,
+      "lang": "en"
+    },
+    {
+      "text": "probably two or three agencies. And now",
+      "duration": 4.24,
+      "offset": 898.24,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re like the top agency in a space",
+      "duration": 3.28,
+      "offset": 900.24,
+      "lang": "en"
+    },
+    {
+      "text": "that is starting to get really",
+      "duration": 2.64,
+      "offset": 902.48,
+      "lang": "en"
+    },
+    {
+      "text": "competitive and really crowded. But",
+      "duration": 3.04,
+      "offset": 903.52,
+      "lang": "en"
+    },
+    {
+      "text": "because we moved early and because we",
+      "duration": 3.28,
+      "offset": 905.12,
+      "lang": "en"
+    },
+    {
+      "text": "built that relationship early, we had",
+      "duration": 3.44,
+      "offset": 906.56,
+      "lang": "en"
+    },
+    {
+      "text": "that first mover&#39;s advantage. Things",
+      "duration": 4.72,
+      "offset": 908.4,
+      "lang": "en"
+    },
+    {
+      "text": "were going well. Um I went I posted",
+      "duration": 4.8,
+      "offset": 910.0,
+      "lang": "en"
+    },
+    {
+      "text": "about this this process on Twitter and",
+      "duration": 4.08,
+      "offset": 913.12,
+      "lang": "en"
+    },
+    {
+      "text": "went viral multiple times and that only",
+      "duration": 4.72,
+      "offset": 914.8,
+      "lang": "en"
+    },
+    {
+      "text": "exploited the growth of both myself the",
+      "duration": 4.56,
+      "offset": 917.2,
+      "lang": "en"
+    },
+    {
+      "text": "agency lovable etc. I think when people",
+      "duration": 3.84,
+      "offset": 919.52,
+      "lang": "en"
+    },
+    {
+      "text": "realize that you can make serious money",
+      "duration": 3.84,
+      "offset": 921.76,
+      "lang": "en"
+    },
+    {
+      "text": "on lovable the perspective of lovable",
+      "duration": 3.6,
+      "offset": 923.36,
+      "lang": "en"
+    },
+    {
+      "text": "changed. It changed from this like",
+      "duration": 2.72,
+      "offset": 925.6,
+      "lang": "en"
+    },
+    {
+      "text": "gimmicky tool that people are building",
+      "duration": 3.36,
+      "offset": 926.96,
+      "lang": "en"
+    },
+    {
+      "text": "apps with for fun and you know maybe",
+      "duration": 4.48,
+      "offset": 928.32,
+      "lang": "en"
+    },
+    {
+      "text": "launching them to like no startups real",
+      "duration": 4.32,
+      "offset": 930.32,
+      "lang": "en"
+    },
+    {
+      "text": "startups that are getting venture funded",
+      "duration": 4.08,
+      "offset": 932.8,
+      "lang": "en"
+    },
+    {
+      "text": "are using lovable to build their MVP",
+      "duration": 3.84,
+      "offset": 934.64,
+      "lang": "en"
+    },
+    {
+      "text": "products and they&#39;re actually looking",
+      "duration": 2.64,
+      "offset": 936.88,
+      "lang": "en"
+    },
+    {
+      "text": "good and they&#39;re usable and they&#39;re",
+      "duration": 2.96,
+      "offset": 938.48,
+      "lang": "en"
+    },
+    {
+      "text": "scalable and all these things. It was a",
+      "duration": 4.0,
+      "offset": 939.52,
+      "lang": "en"
+    },
+    {
+      "text": "complete shift that ended up happening",
+      "duration": 4.16,
+      "offset": 941.44,
+      "lang": "en"
+    },
+    {
+      "text": "over those 2 months thanks to lovable",
+      "duration": 3.52,
+      "offset": 943.52,
+      "lang": "en"
+    },
+    {
+      "text": "improving their product, thanks to",
+      "duration": 3.12,
+      "offset": 945.6,
+      "lang": "en"
+    },
+    {
+      "text": "agencies like ourselves that were",
+      "duration": 3.44,
+      "offset": 947.04,
+      "lang": "en"
+    },
+    {
+      "text": "building and thanks to content creators",
+      "duration": 4.08,
+      "offset": 948.72,
+      "lang": "en"
+    },
+    {
+      "text": "that were making people aware of this of",
+      "duration": 4.16,
+      "offset": 950.48,
+      "lang": "en"
+    },
+    {
+      "text": "this impact. Things were going great.",
+      "duration": 3.2,
+      "offset": 952.8,
+      "lang": "en"
+    },
+    {
+      "text": "Obviously, we are running into our",
+      "duration": 3.76,
+      "offset": 954.64,
+      "lang": "en"
+    },
+    {
+      "text": "obstacles here and there, but things",
+      "duration": 5.12,
+      "offset": 956.0,
+      "lang": "en"
+    },
+    {
+      "text": "really took a turn. Uh, in about I would",
+      "duration": 7.52,
+      "offset": 958.4,
+      "lang": "en"
+    },
+    {
+      "text": "have to say June. Okay, June was the",
+      "duration": 7.28,
+      "offset": 961.12,
+      "lang": "en"
+    },
+    {
+      "text": "first time I had met Anton in New York.",
+      "duration": 5.6,
+      "offset": 965.92,
+      "lang": "en"
+    },
+    {
+      "text": "Anton is the CEO of Loveable and and we",
+      "duration": 4.64,
+      "offset": 968.4,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to kind of start talking about",
+      "duration": 3.12,
+      "offset": 971.52,
+      "lang": "en"
+    },
+    {
+      "text": "what it meant to like deepen our",
+      "duration": 4.0,
+      "offset": 973.04,
+      "lang": "en"
+    },
+    {
+      "text": "partnership. And what we came up with",
+      "duration": 5.12,
+      "offset": 974.64,
+      "lang": "en"
+    },
+    {
+      "text": "was a few things. The first thing is",
+      "duration": 6.0,
+      "offset": 977.04,
+      "lang": "en"
+    },
+    {
+      "text": "that we wanted to give gold agencies, us",
+      "duration": 5.84,
+      "offset": 979.76,
+      "lang": "en"
+    },
+    {
+      "text": "being the first one, even more support.",
+      "duration": 4.8,
+      "offset": 983.04,
+      "lang": "en"
+    },
+    {
+      "text": "So, how can we how can lovable and and",
+      "duration": 3.92,
+      "offset": 985.6,
+      "lang": "en"
+    },
+    {
+      "text": "agencies have an even more direct",
+      "duration": 3.6,
+      "offset": 987.84,
+      "lang": "en"
+    },
+    {
+      "text": "relationship in working with clients,",
+      "duration": 3.12,
+      "offset": 989.52,
+      "lang": "en"
+    },
+    {
+      "text": "especially when it came to enterprise",
+      "duration": 3.12,
+      "offset": 991.44,
+      "lang": "en"
+    },
+    {
+      "text": "clients. So, that was the first thing.",
+      "duration": 3.36,
+      "offset": 992.64,
+      "lang": "en"
+    },
+    {
+      "text": "The other thing was on the content",
+      "duration": 2.96,
+      "offset": 994.56,
+      "lang": "en"
+    },
+    {
+      "text": "strategy side of things. He really",
+      "duration": 3.92,
+      "offset": 996.0,
+      "lang": "en"
+    },
+    {
+      "text": "wanted us as agency owners and as you",
+      "duration": 4.48,
+      "offset": 997.52,
+      "lang": "en"
+    },
+    {
+      "text": "know, builders ourselves to be involved",
+      "duration": 3.92,
+      "offset": 999.92,
+      "lang": "en"
+    },
+    {
+      "text": "in creating content. So we partnered on",
+      "duration": 3.44,
+      "offset": 1002.0,
+      "lang": "en"
+    },
+    {
+      "text": "different webinars and content things",
+      "duration": 3.36,
+      "offset": 1003.84,
+      "lang": "en"
+    },
+    {
+      "text": "that we can able that enabled other",
+      "duration": 5.44,
+      "offset": 1005.44,
+      "lang": "en"
+    },
+    {
+      "text": "users to see how to build on lovable. Um",
+      "duration": 6.16,
+      "offset": 1007.2,
+      "lang": "en"
+    },
+    {
+      "text": "and ultimately this resulted in a trip",
+      "duration": 5.92,
+      "offset": 1010.88,
+      "lang": "en"
+    },
+    {
+      "text": "to Sweden. Um this trip will be forever",
+      "duration": 5.6,
+      "offset": 1013.36,
+      "lang": "en"
+    },
+    {
+      "text": "ingrained in my brain because not only",
+      "duration": 4.08,
+      "offset": 1016.8,
+      "lang": "en"
+    },
+    {
+      "text": "was it just a legendary trip for those",
+      "duration": 4.8,
+      "offset": 1018.96,
+      "lang": "en"
+    },
+    {
+      "text": "of you who have not gone to Sweden, I",
+      "duration": 5.28,
+      "offset": 1020.88,
+      "lang": "en"
+    },
+    {
+      "text": "highly recommend it. It is quite the uh",
+      "duration": 4.48,
+      "offset": 1023.76,
+      "lang": "en"
+    },
+    {
+      "text": "the place. But the best way I can",
+      "duration": 5.04,
+      "offset": 1026.16,
+      "lang": "en"
+    },
+    {
+      "text": "describe it is going to Facebook offices",
+      "duration": 5.12,
+      "offset": 1028.24,
+      "lang": "en"
+    },
+    {
+      "text": "in 200",
+      "duration": 4.32,
+      "offset": 1031.2,
+      "lang": "en"
+    },
+    {
+      "text": "for whenever they launch like the early",
+      "duration": 4.24,
+      "offset": 1033.36,
+      "lang": "en"
+    },
+    {
+      "text": "days of Facebook. That&#39;s the best way I",
+      "duration": 4.72,
+      "offset": 1035.52,
+      "lang": "en"
+    },
+    {
+      "text": "can describe the energy. Imagine having",
+      "duration": 6.24,
+      "offset": 1037.6,
+      "lang": "en"
+    },
+    {
+      "text": "a country, Sweden, right, that has this",
+      "duration": 6.16,
+      "offset": 1040.24,
+      "lang": "en"
+    },
+    {
+      "text": "company, Lovable, and the entire comp",
+      "duration": 5.28,
+      "offset": 1043.84,
+      "lang": "en"
+    },
+    {
+      "text": "the entire country is riding for this",
+      "duration": 5.68,
+      "offset": 1046.4,
+      "lang": "en"
+    },
+    {
+      "text": "this this uh the startup. Lovable is",
+      "duration": 5.84,
+      "offset": 1049.12,
+      "lang": "en"
+    },
+    {
+      "text": "like the thing in Sweden. And we went to",
+      "duration": 5.84,
+      "offset": 1052.08,
+      "lang": "en"
+    },
+    {
+      "text": "go hang with Lovable and their team. And",
+      "duration": 5.12,
+      "offset": 1054.96,
+      "lang": "en"
+    },
+    {
+      "text": "so, not only was, you know, the",
+      "duration": 4.24,
+      "offset": 1057.92,
+      "lang": "en"
+    },
+    {
+      "text": "experience of being in the office with",
+      "duration": 4.8,
+      "offset": 1060.08,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, but even just exploring the",
+      "duration": 5.36,
+      "offset": 1062.16,
+      "lang": "en"
+    },
+    {
+      "text": "city through the lens of Lovable was",
+      "duration": 3.84,
+      "offset": 1064.88,
+      "lang": "en"
+    },
+    {
+      "text": "such an interesting and different",
+      "duration": 3.2,
+      "offset": 1067.52,
+      "lang": "en"
+    },
+    {
+      "text": "experience. People would come up to us",
+      "duration": 3.2,
+      "offset": 1068.72,
+      "lang": "en"
+    },
+    {
+      "text": "and be like, you know, are you with the",
+      "duration": 5.36,
+      "offset": 1070.72,
+      "lang": "en"
+    },
+    {
+      "text": "Lovables team, etc. We even hosted a 150",
+      "duration": 6.4,
+      "offset": 1071.92,
+      "lang": "en"
+    },
+    {
+      "text": "person rooftop event where we brought in",
+      "duration": 3.84,
+      "offset": 1076.08,
+      "lang": "en"
+    },
+    {
+      "text": "some builders from all over Stockholm,",
+      "duration": 4.08,
+      "offset": 1078.32,
+      "lang": "en"
+    },
+    {
+      "text": "Sweden, and we hosted our own panel with",
+      "duration": 4.32,
+      "offset": 1079.92,
+      "lang": "en"
+    },
+    {
+      "text": "Anton and the Loveable team. And it was",
+      "duration": 3.2,
+      "offset": 1082.4,
+      "lang": "en"
+    },
+    {
+      "text": "really successful and a really, you",
+      "duration": 2.72,
+      "offset": 1084.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, amazing thing that we got to be a",
+      "duration": 2.96,
+      "offset": 1085.6,
+      "lang": "en"
+    },
+    {
+      "text": "part of. So many just amazing",
+      "duration": 4.56,
+      "offset": 1086.96,
+      "lang": "en"
+    },
+    {
+      "text": "experiences, but ultimately it came with",
+      "duration": 5.52,
+      "offset": 1088.56,
+      "lang": "en"
+    },
+    {
+      "text": "one big moment, which is that we finally",
+      "duration": 5.6,
+      "offset": 1091.52,
+      "lang": "en"
+    },
+    {
+      "text": "solidified this big gold partnership.",
+      "duration": 4.64,
+      "offset": 1094.08,
+      "lang": "en"
+    },
+    {
+      "text": "This partnership that would that would",
+      "duration": 4.24,
+      "offset": 1097.12,
+      "lang": "en"
+    },
+    {
+      "text": "solidify us as the number one lovable",
+      "duration": 5.28,
+      "offset": 1098.72,
+      "lang": "en"
+    },
+    {
+      "text": "agency as the first and only gold agency",
+      "duration": 5.76,
+      "offset": 1101.36,
+      "lang": "en"
+    },
+    {
+      "text": "at the time and just a really big",
+      "duration": 5.12,
+      "offset": 1104.0,
+      "lang": "en"
+    },
+    {
+      "text": "milestone for us and Lovable as we",
+      "duration": 3.52,
+      "offset": 1107.12,
+      "lang": "en"
+    },
+    {
+      "text": "continue this next chapter. There&#39;s a",
+      "duration": 2.96,
+      "offset": 1109.12,
+      "lang": "en"
+    },
+    {
+      "text": "lot more I can get into. If you guys",
+      "duration": 2.72,
+      "offset": 1110.64,
+      "lang": "en"
+    },
+    {
+      "text": "have questions or you want me to do a",
+      "duration": 2.64,
+      "offset": 1112.08,
+      "lang": "en"
+    },
+    {
+      "text": "part two, I would I would love to do",
+      "duration": 4.24,
+      "offset": 1113.36,
+      "lang": "en"
+    },
+    {
+      "text": "that. But that is the story really of",
+      "duration": 5.92,
+      "offset": 1114.72,
+      "lang": "en"
+    },
+    {
+      "text": "how I went from a 17-year-old um that",
+      "duration": 6.48,
+      "offset": 1117.6,
+      "lang": "en"
+    },
+    {
+      "text": "was broke, insecure, skinny to somebody",
+      "duration": 6.64,
+      "offset": 1120.64,
+      "lang": "en"
+    },
+    {
+      "text": "that, you know, step by step different,",
+      "duration": 5.44,
+      "offset": 1124.08,
+      "lang": "en"
+    },
+    {
+      "text": "you know, this is this is over 6 years",
+      "duration": 4.48,
+      "offset": 1127.28,
+      "lang": "en"
+    },
+    {
+      "text": "now. Okay, I&#39;m the product of a six",
+      "duration": 4.32,
+      "offset": 1129.52,
+      "lang": "en"
+    },
+    {
+      "text": "years of hard work. And I want that to",
+      "duration": 3.76,
+      "offset": 1131.76,
+      "lang": "en"
+    },
+    {
+      "text": "be abundantly clear. This is not",
+      "duration": 3.76,
+      "offset": 1133.84,
+      "lang": "en"
+    },
+    {
+      "text": "something that you can just snap your",
+      "duration": 5.12,
+      "offset": 1135.52,
+      "lang": "en"
+    },
+    {
+      "text": "fingers at, okay? But with the right",
+      "duration": 4.96,
+      "offset": 1137.6,
+      "lang": "en"
+    },
+    {
+      "text": "people in place, with the right steps,",
+      "duration": 3.76,
+      "offset": 1140.64,
+      "lang": "en"
+    },
+    {
+      "text": "with the right execution, with the right",
+      "duration": 5.2,
+      "offset": 1142.56,
+      "lang": "en"
+    },
+    {
+      "text": "hard work, this can easily happen to",
+      "duration": 6.64,
+      "offset": 1144.4,
+      "lang": "en"
+    },
+    {
+      "text": "people that follow these same steps.",
+      "duration": 6.4,
+      "offset": 1147.76,
+      "lang": "en"
+    },
+    {
+      "text": "But with the same hard work, with the",
+      "duration": 4.48,
+      "offset": 1151.04,
+      "lang": "en"
+    },
+    {
+      "text": "same discipline, with the same",
+      "duration": 3.44,
+      "offset": 1154.16,
+      "lang": "en"
+    },
+    {
+      "text": "persistence, this is possible for",
+      "duration": 4.56,
+      "offset": 1155.52,
+      "lang": "en"
+    },
+    {
+      "text": "anybody. And I hope this story is one",
+      "duration": 4.24,
+      "offset": 1157.6,
+      "lang": "en"
+    },
+    {
+      "text": "that can inspire you to go and build",
+      "duration": 4.16,
+      "offset": 1160.08,
+      "lang": "en"
+    },
+    {
+      "text": "your own products or agencies or",
+      "duration": 4.32,
+      "offset": 1161.84,
+      "lang": "en"
+    },
+    {
+      "text": "businesses, um, whether they&#39;re, you",
+      "duration": 4.32,
+      "offset": 1164.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, relying on Levable or not. But I",
+      "duration": 4.56,
+      "offset": 1166.16,
+      "lang": "en"
+    },
+    {
+      "text": "will say that this space is only getting",
+      "duration": 4.24,
+      "offset": 1168.56,
+      "lang": "en"
+    },
+    {
+      "text": "hotter. Lovable is now the fastest",
+      "duration": 3.68,
+      "offset": 1170.72,
+      "lang": "en"
+    },
+    {
+      "text": "growing company in the world, I believe,",
+      "duration": 5.28,
+      "offset": 1172.8,
+      "lang": "en"
+    },
+    {
+      "text": "at $120 million ARR in in 8 months,",
+      "duration": 7.28,
+      "offset": 1174.4,
+      "lang": "en"
+    },
+    {
+      "text": "which is just incredible. So, um, I&#39;m",
+      "duration": 5.52,
+      "offset": 1178.08,
+      "lang": "en"
+    },
+    {
+      "text": "going to be posting and documenting this",
+      "duration": 4.08,
+      "offset": 1181.68,
+      "lang": "en"
+    },
+    {
+      "text": "journey more. I&#39;m testing out different",
+      "duration": 4.0,
+      "offset": 1183.6,
+      "lang": "en"
+    },
+    {
+      "text": "content styles. I&#39;m trying this one out.",
+      "duration": 3.12,
+      "offset": 1185.76,
+      "lang": "en"
+    },
+    {
+      "text": "This has been raw. I didn&#39;t script a",
+      "duration": 3.28,
+      "offset": 1187.6,
+      "lang": "en"
+    },
+    {
+      "text": "single thing. Um, but I hope you enjoyed",
+      "duration": 4.16,
+      "offset": 1188.88,
+      "lang": "en"
+    },
+    {
+      "text": "it. So feel free to like and subscribe",
+      "duration": 4.96,
+      "offset": 1190.88,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;ll see you on the next",
+      "duration": 2.8,
+      "offset": 1193.04,
+      "lang": "en"
+    }
+  ]
+}

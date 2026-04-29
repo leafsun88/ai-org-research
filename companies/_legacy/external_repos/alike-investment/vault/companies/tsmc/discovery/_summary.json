@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 58,
+  "total_size_kb": 1264,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 19,
+    "breakdown": {"c_suite":18,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_xbrl_facts.json","size_kb":987},{"path":"_podcast_episodes.json","size_kb":24},{"path":"financials.md","size_kb":8},{"path":"organization/sources/horng_dar_lin/httpswwwclaycomdossiertsmc_executives.md","size_kb":6},{"path":"_validation.json","size_kb":5},{"path":"_collection_report.md","size_kb":4},{"path":"profile.md","size_kb":3},{"path":"organization/sources/horng_dar_lin/httpstheorgcomorgtsmcorg_chartchris_horng_dar_lin.md","size_kb":2},{"path":"_validation.md","size_kb":2},{"path":"sources/founder/extracted_from_citations.md","size_kb":2}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

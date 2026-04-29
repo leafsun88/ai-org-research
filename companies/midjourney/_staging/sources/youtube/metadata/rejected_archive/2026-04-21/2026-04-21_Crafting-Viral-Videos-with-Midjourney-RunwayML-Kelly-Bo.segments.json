@@ -1,0 +1,2068 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "cIgg3Xi2s_8",
+  "url": "https://www.youtube.com/watch?v=cIgg3Xi2s_8",
+  "title": "Crafting Viral Videos with Midjourney & RunwayML! Kelly Boesch's AI Art Masterclass",
+  "channel": "Jon Leland, AI Creativity Evangelist",
+  "source_queries": [
+    "Midjourney interview",
+    "Midjourney AI interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:05:21",
+  "segments": [
+    {
+      "text": "Kelly beses welcome so welcome and I",
+      "duration": 4.44,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate you being willing to do a a",
+      "duration": 5.36,
+      "offset": 2.52,
+      "lang": "en"
+    },
+    {
+      "text": "demo for us your art is so beautiful and",
+      "duration": 5.08,
+      "offset": 4.6,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to walk us through a couple",
+      "duration": 4.24,
+      "offset": 7.88,
+      "lang": "en"
+    },
+    {
+      "text": "different approaches in mid Journey how",
+      "duration": 4.84,
+      "offset": 9.68,
+      "lang": "en"
+    },
+    {
+      "text": "you create your original images and then",
+      "duration": 4.96,
+      "offset": 12.12,
+      "lang": "en"
+    },
+    {
+      "text": "Runway how you animate them and bring",
+      "duration": 5.64,
+      "offset": 14.52,
+      "lang": "en"
+    },
+    {
+      "text": "motion to the movies that you make so",
+      "duration": 4.32,
+      "offset": 17.08,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s dive",
+      "duration": 6.16,
+      "offset": 20.16,
+      "lang": "en"
+    },
+    {
+      "text": "in okay um I just did a s very simple",
+      "duration": 7.2,
+      "offset": 21.4,
+      "lang": "en"
+    },
+    {
+      "text": "prompt here I&#39;d love to do insects",
+      "duration": 4.72,
+      "offset": 26.32,
+      "lang": "en"
+    },
+    {
+      "text": "insects are amazing um and you don&#39;t",
+      "duration": 6.0,
+      "offset": 28.6,
+      "lang": "en"
+    },
+    {
+      "text": "need to have like a crazy insane prompt",
+      "duration": 6.64,
+      "offset": 31.04,
+      "lang": "en"
+    },
+    {
+      "text": "this one is create a strange never never",
+      "duration": 5.32,
+      "offset": 34.6,
+      "lang": "en"
+    },
+    {
+      "text": "before seen insect with a beautiful",
+      "duration": 5.12,
+      "offset": 37.68,
+      "lang": "en"
+    },
+    {
+      "text": "patterns and colors resembles a flower",
+      "duration": 4.44,
+      "offset": 39.92,
+      "lang": "en"
+    },
+    {
+      "text": "and then I said strange again because I",
+      "duration": 3.24,
+      "offset": 42.8,
+      "lang": "en"
+    },
+    {
+      "text": "wanted it to be a little weird and this",
+      "duration": 6.36,
+      "offset": 44.36,
+      "lang": "en"
+    },
+    {
+      "text": "is what I got um so this is in version 6",
+      "duration": 8.32,
+      "offset": 46.04,
+      "lang": "en"
+    },
+    {
+      "text": "point U mid Journey 6.0 and so this is",
+      "duration": 6.8,
+      "offset": 50.72,
+      "lang": "en"
+    },
+    {
+      "text": "what it gave me based on that prompt and",
+      "duration": 5.64,
+      "offset": 54.36,
+      "lang": "en"
+    },
+    {
+      "text": "then we were talking about how you can",
+      "duration": 4.92,
+      "offset": 57.52,
+      "lang": "en"
+    },
+    {
+      "text": "change that by I I uploaded just some",
+      "duration": 5.28,
+      "offset": 60.0,
+      "lang": "en"
+    },
+    {
+      "text": "random flower pictures I found online",
+      "duration": 5.12,
+      "offset": 62.44,
+      "lang": "en"
+    },
+    {
+      "text": "and you can upload you just drop the",
+      "duration": 4.92,
+      "offset": 65.28,
+      "lang": "en"
+    },
+    {
+      "text": "images in in the message place or hit",
+      "duration": 4.96,
+      "offset": 67.56,
+      "lang": "en"
+    },
+    {
+      "text": "this plus sign and upload them and then",
+      "duration": 5.6,
+      "offset": 70.2,
+      "lang": "en"
+    },
+    {
+      "text": "hit enter and then you can grab the it",
+      "duration": 5.92,
+      "offset": 72.52,
+      "lang": "en"
+    },
+    {
+      "text": "copy the image address and add that to",
+      "duration": 6.4,
+      "offset": 75.8,
+      "lang": "en"
+    },
+    {
+      "text": "your prompt like here you you just paste",
+      "duration": 7.48,
+      "offset": 78.44,
+      "lang": "en"
+    },
+    {
+      "text": "that that image address in and then it",
+      "duration": 6.08,
+      "offset": 82.2,
+      "lang": "en"
+    },
+    {
+      "text": "will completely change your image to",
+      "duration": 4.36,
+      "offset": 85.92,
+      "lang": "en"
+    },
+    {
+      "text": "something more like this is the one with",
+      "duration": 5.28,
+      "offset": 88.28,
+      "lang": "en"
+    },
+    {
+      "text": "that um what is the paradise flower or",
+      "duration": 7.2,
+      "offset": 90.28,
+      "lang": "en"
+    },
+    {
+      "text": "whatever or I tried one with this kind",
+      "duration": 7.56,
+      "offset": 93.56,
+      "lang": "en"
+    },
+    {
+      "text": "of orchy flower which it came out like",
+      "duration": 6.36,
+      "offset": 97.48,
+      "lang": "en"
+    },
+    {
+      "text": "this so it totally changed the insect",
+      "duration": 5.68,
+      "offset": 101.12,
+      "lang": "en"
+    },
+    {
+      "text": "then to kind of match with the flower is",
+      "duration": 7.24,
+      "offset": 103.84,
+      "lang": "en"
+    },
+    {
+      "text": "that this flower made these",
+      "duration": 6.92,
+      "offset": 106.8,
+      "lang": "en"
+    },
+    {
+      "text": "insects wow so the reference imag is a",
+      "duration": 5.36,
+      "offset": 111.08,
+      "lang": "en"
+    },
+    {
+      "text": "really powerful tool that way yes really",
+      "duration": 5.0,
+      "offset": 113.72,
+      "lang": "en"
+    },
+    {
+      "text": "so you can use that with people you can",
+      "duration": 4.64,
+      "offset": 116.44,
+      "lang": "en"
+    },
+    {
+      "text": "use that with cloes you can use that",
+      "duration": 5.12,
+      "offset": 118.72,
+      "lang": "en"
+    },
+    {
+      "text": "with anything you could you grab an",
+      "duration": 5.88,
+      "offset": 121.08,
+      "lang": "en"
+    },
+    {
+      "text": "image um and add it to your prompt and",
+      "duration": 6.36,
+      "offset": 123.84,
+      "lang": "en"
+    },
+    {
+      "text": "it will totally change your prompt is",
+      "duration": 6.08,
+      "offset": 126.96,
+      "lang": "en"
+    },
+    {
+      "text": "and as also will the settings or you can",
+      "duration": 7.16,
+      "offset": 130.2,
+      "lang": "en"
+    },
+    {
+      "text": "try like an older version",
+      "duration": 7.64,
+      "offset": 133.04,
+      "lang": "en"
+    },
+    {
+      "text": "of um Mid Journey like here&#39;s what",
+      "duration": 5.68,
+      "offset": 137.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll get in version 5.1 which I use a",
+      "duration": 5.2,
+      "offset": 140.68,
+      "lang": "en"
+    },
+    {
+      "text": "lot actually I really like 5.1 sorry",
+      "duration": 4.44,
+      "offset": 143.04,
+      "lang": "en"
+    },
+    {
+      "text": "everything&#39;s going a little slow because",
+      "duration": 3.48,
+      "offset": 145.88,
+      "lang": "en"
+    },
+    {
+      "text": "I ran out of my minute so I&#39;m on my",
+      "duration": 4.56,
+      "offset": 147.48,
+      "lang": "en"
+    },
+    {
+      "text": "relaxed minute time on the Journey full",
+      "duration": 4.36,
+      "offset": 149.36,
+      "lang": "en"
+    },
+    {
+      "text": "disclosure I&#39;ll add it a little bit to",
+      "duration": 4.64,
+      "offset": 152.04,
+      "lang": "en"
+    },
+    {
+      "text": "make things go faster yes that would be",
+      "duration": 4.68,
+      "offset": 153.72,
+      "lang": "en"
+    },
+    {
+      "text": "great this is another one I put that",
+      "duration": 4.68,
+      "offset": 156.68,
+      "lang": "en"
+    },
+    {
+      "text": "same picture in based off of that same",
+      "duration": 4.68,
+      "offset": 158.4,
+      "lang": "en"
+    },
+    {
+      "text": "insect",
+      "duration": 4.76,
+      "offset": 161.36,
+      "lang": "en"
+    },
+    {
+      "text": "here you&#39;ve got an insect flower",
+      "duration": 5.56,
+      "offset": 163.08,
+      "lang": "en"
+    },
+    {
+      "text": "there yeah oh no I say no it is actually",
+      "duration": 4.44,
+      "offset": 166.12,
+      "lang": "en"
+    },
+    {
+      "text": "an insect on a flower now this is a",
+      "duration": 4.52,
+      "offset": 168.64,
+      "lang": "en"
+    },
+    {
+      "text": "version 5.1 it&#39;s going to be completely",
+      "duration": 4.4,
+      "offset": 170.56,
+      "lang": "en"
+    },
+    {
+      "text": "different this kind of made butterflies",
+      "duration": 5.68,
+      "offset": 173.16,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know why um every every version",
+      "duration": 6.2,
+      "offset": 174.96,
+      "lang": "en"
+    },
+    {
+      "text": "of u m Journey creates something",
+      "duration": 4.88,
+      "offset": 178.84,
+      "lang": "en"
+    },
+    {
+      "text": "different so if I tried 5.2 I&#39;d probably",
+      "duration": 5.04,
+      "offset": 181.16,
+      "lang": "en"
+    },
+    {
+      "text": "get something completely different but I",
+      "duration": 4.76,
+      "offset": 183.72,
+      "lang": "en"
+    },
+    {
+      "text": "mean you can get just that look how",
+      "duration": 3.88,
+      "offset": 186.2,
+      "lang": "en"
+    },
+    {
+      "text": "simple that was to get something really",
+      "duration": 4.84,
+      "offset": 188.48,
+      "lang": "en"
+    },
+    {
+      "text": "cool like that so then when for people",
+      "duration": 4.92,
+      "offset": 190.08,
+      "lang": "en"
+    },
+    {
+      "text": "that haven&#39;t worked in mid Journey then",
+      "duration": 4.08,
+      "offset": 193.32,
+      "lang": "en"
+    },
+    {
+      "text": "within the four that it&#39;s making once",
+      "duration": 4.8,
+      "offset": 195.0,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve iterated and gotten to a place",
+      "duration": 4.04,
+      "offset": 197.4,
+      "lang": "en"
+    },
+    {
+      "text": "where you&#39;re",
+      "duration": 4.28,
+      "offset": 199.8,
+      "lang": "en"
+    },
+    {
+      "text": "happy there&#39;s four different options you",
+      "duration": 8.4,
+      "offset": 201.44,
+      "lang": "en"
+    },
+    {
+      "text": "can upscale which is um it makes them uh",
+      "duration": 7.84,
+      "offset": 204.08,
+      "lang": "en"
+    },
+    {
+      "text": "better resolution and makes them a",
+      "duration": 5.16,
+      "offset": 209.84,
+      "lang": "en"
+    },
+    {
+      "text": "larger image or you can hit version",
+      "duration": 5.28,
+      "offset": 211.92,
+      "lang": "en"
+    },
+    {
+      "text": "which will take that particular image",
+      "duration": 4.32,
+      "offset": 215.0,
+      "lang": "en"
+    },
+    {
+      "text": "and you can either just get another",
+      "duration": 3.8,
+      "offset": 217.2,
+      "lang": "en"
+    },
+    {
+      "text": "version of it which will slightly make",
+      "duration": 3.76,
+      "offset": 219.32,
+      "lang": "en"
+    },
+    {
+      "text": "it slightly different or you can add",
+      "duration": 5.44,
+      "offset": 221.0,
+      "lang": "en"
+    },
+    {
+      "text": "something in here like um resembles a",
+      "duration": 5.52,
+      "offset": 223.08,
+      "lang": "en"
+    },
+    {
+      "text": "red flower and maybe it&#39;ll add a little",
+      "duration": 3.52,
+      "offset": 226.44,
+      "lang": "en"
+    },
+    {
+      "text": "red to",
+      "duration": 4.36,
+      "offset": 228.6,
+      "lang": "en"
+    },
+    {
+      "text": "it um so here&#39;s what when they&#39;re big",
+      "duration": 4.92,
+      "offset": 229.96,
+      "lang": "en"
+    },
+    {
+      "text": "you can see like the details so much",
+      "duration": 4.0,
+      "offset": 232.96,
+      "lang": "en"
+    },
+    {
+      "text": "better than in the box that&#39;s when you",
+      "duration": 4.16,
+      "offset": 234.88,
+      "lang": "en"
+    },
+    {
+      "text": "hit the upscale and then from there you",
+      "duration": 5.04,
+      "offset": 236.96,
+      "lang": "en"
+    },
+    {
+      "text": "can zoom out two times you can upscale",
+      "duration": 7.44,
+      "offset": 239.04,
+      "lang": "en"
+    },
+    {
+      "text": "it um even more you can subtle makes it",
+      "duration": 6.68,
+      "offset": 242.0,
+      "lang": "en"
+    },
+    {
+      "text": "very almost the same upscale creative",
+      "duration": 5.72,
+      "offset": 246.48,
+      "lang": "en"
+    },
+    {
+      "text": "changes it up a bit um you could vary it",
+      "duration": 6.04,
+      "offset": 248.68,
+      "lang": "en"
+    },
+    {
+      "text": "when you first open an image that you",
+      "duration": 5.24,
+      "offset": 252.2,
+      "lang": "en"
+    },
+    {
+      "text": "upscaled I usually some people take it",
+      "duration": 4.52,
+      "offset": 254.72,
+      "lang": "en"
+    },
+    {
+      "text": "to the web and download it but if you",
+      "duration": 4.4,
+      "offset": 257.44,
+      "lang": "en"
+    },
+    {
+      "text": "just wait for a second then you can see",
+      "duration": 4.28,
+      "offset": 259.24,
+      "lang": "en"
+    },
+    {
+      "text": "it gets",
+      "duration": 4.88,
+      "offset": 261.84,
+      "lang": "en"
+    },
+    {
+      "text": "um the resolution gets a little stronger",
+      "duration": 5.6,
+      "offset": 263.52,
+      "lang": "en"
+    },
+    {
+      "text": "so I usually like I&#39;ll click on it wait",
+      "duration": 4.24,
+      "offset": 266.72,
+      "lang": "en"
+    },
+    {
+      "text": "for a second and and then I right click",
+      "duration": 5.08,
+      "offset": 269.12,
+      "lang": "en"
+    },
+    {
+      "text": "and save the image but some people do do",
+      "duration": 6.4,
+      "offset": 270.96,
+      "lang": "en"
+    },
+    {
+      "text": "um click it to the web okay so then in",
+      "duration": 6.64,
+      "offset": 274.2,
+      "lang": "en"
+    },
+    {
+      "text": "Runway which is uh Runway ml.com",
+      "duration": 7.2,
+      "offset": 277.36,
+      "lang": "en"
+    },
+    {
+      "text": "um then I go to Gen 2 image to video I",
+      "duration": 6.04,
+      "offset": 280.84,
+      "lang": "en"
+    },
+    {
+      "text": "just click this box and then here where",
+      "duration": 5.56,
+      "offset": 284.56,
+      "lang": "en"
+    },
+    {
+      "text": "you just drop your images",
+      "duration": 6.56,
+      "offset": 286.88,
+      "lang": "en"
+    },
+    {
+      "text": "so I&#39;m going to drop in my first image",
+      "duration": 5.64,
+      "offset": 290.12,
+      "lang": "en"
+    },
+    {
+      "text": "here and so you have different options",
+      "duration": 4.92,
+      "offset": 293.44,
+      "lang": "en"
+    },
+    {
+      "text": "here um I usually start out using these",
+      "duration": 4.48,
+      "offset": 295.76,
+      "lang": "en"
+    },
+    {
+      "text": "numbers you have from",
+      "duration": 5.2,
+      "offset": 298.36,
+      "lang": "en"
+    },
+    {
+      "text": "one to 10 one being the slowest",
+      "duration": 5.96,
+      "offset": 300.24,
+      "lang": "en"
+    },
+    {
+      "text": "animation 10 being the most for",
+      "duration": 4.32,
+      "offset": 303.56,
+      "lang": "en"
+    },
+    {
+      "text": "something like this I would probably use",
+      "duration": 4.76,
+      "offset": 306.2,
+      "lang": "en"
+    },
+    {
+      "text": "a two to start and then I usually I&#39;ll",
+      "duration": 6.4,
+      "offset": 307.88,
+      "lang": "en"
+    },
+    {
+      "text": "generate that and see how it comes out",
+      "duration": 5.96,
+      "offset": 310.96,
+      "lang": "en"
+    },
+    {
+      "text": "but you also have this option of um",
+      "duration": 6.2,
+      "offset": 314.28,
+      "lang": "en"
+    },
+    {
+      "text": "doing a camera motion on it um and maybe",
+      "duration": 7.08,
+      "offset": 316.92,
+      "lang": "en"
+    },
+    {
+      "text": "you want to just do like a slow zoom in",
+      "duration": 7.0,
+      "offset": 320.48,
+      "lang": "en"
+    },
+    {
+      "text": "so I might zoom in at like one here like",
+      "duration": 6.4,
+      "offset": 324.0,
+      "lang": "en"
+    },
+    {
+      "text": "um click twice and I get a one I&#39;ll try",
+      "duration": 4.64,
+      "offset": 327.48,
+      "lang": "en"
+    },
+    {
+      "text": "to generate one of those and see how",
+      "duration": 4.48,
+      "offset": 330.4,
+      "lang": "en"
+    },
+    {
+      "text": "that comes or you can also try to do",
+      "duration": 5.2,
+      "offset": 332.12,
+      "lang": "en"
+    },
+    {
+      "text": "this paint thing which I don&#39;t use that",
+      "duration": 6.16,
+      "offset": 334.88,
+      "lang": "en"
+    },
+    {
+      "text": "often because I I find it doesn&#39;t um it",
+      "duration": 5.52,
+      "offset": 337.32,
+      "lang": "en"
+    },
+    {
+      "text": "works for some things like if you want",
+      "duration": 4.48,
+      "offset": 341.04,
+      "lang": "en"
+    },
+    {
+      "text": "eyes to move sometimes or if you want",
+      "duration": 6.0,
+      "offset": 342.84,
+      "lang": "en"
+    },
+    {
+      "text": "some just one specific thing to move",
+      "duration": 5.92,
+      "offset": 345.52,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s see what happens here if I just",
+      "duration": 8.28,
+      "offset": 348.84,
+      "lang": "en"
+    },
+    {
+      "text": "try to paint some of these bits of the",
+      "duration": 5.68,
+      "offset": 351.44,
+      "lang": "en"
+    },
+    {
+      "text": "bug um you could make your brush bigger",
+      "duration": 5.68,
+      "offset": 357.52,
+      "lang": "en"
+    },
+    {
+      "text": "somehow here oh",
+      "duration": 6.08,
+      "offset": 360.8,
+      "lang": "en"
+    },
+    {
+      "text": "here so I&#39;ll do this Le",
+      "duration": 6.32,
+      "offset": 363.2,
+      "lang": "en"
+    },
+    {
+      "text": "this wing and then I&#39;ll try those three",
+      "duration": 5.6,
+      "offset": 366.88,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;ll see what we get I will drop",
+      "duration": 4.88,
+      "offset": 369.52,
+      "lang": "en"
+    },
+    {
+      "text": "another one in just for fun",
+      "duration": 4.6,
+      "offset": 372.48,
+      "lang": "en"
+    },
+    {
+      "text": "and here is the first one did not come",
+      "duration": 5.36,
+      "offset": 374.4,
+      "lang": "en"
+    },
+    {
+      "text": "out very well it kind of blurred it can",
+      "duration": 4.28,
+      "offset": 377.08,
+      "lang": "en"
+    },
+    {
+      "text": "you scroll that down a little bit it&#39;s",
+      "duration": 3.36,
+      "offset": 379.76,
+      "lang": "en"
+    },
+    {
+      "text": "up I think it&#39;s a little cut off at the",
+      "duration": 4.04,
+      "offset": 381.36,
+      "lang": "en"
+    },
+    {
+      "text": "top at least what I&#39;m seeing there you",
+      "duration": 4.88,
+      "offset": 383.12,
+      "lang": "en"
+    },
+    {
+      "text": "go here&#39;s the second one this was just",
+      "duration": 5.16,
+      "offset": 385.4,
+      "lang": "en"
+    },
+    {
+      "text": "the slow Zoom that one&#39;s pretty good",
+      "duration": 6.12,
+      "offset": 388.0,
+      "lang": "en"
+    },
+    {
+      "text": "see just moved it ever so slowly so i&#39;",
+      "duration": 6.76,
+      "offset": 390.56,
+      "lang": "en"
+    },
+    {
+      "text": "probably I like that Zoom feature yeah",
+      "duration": 5.68,
+      "offset": 394.12,
+      "lang": "en"
+    },
+    {
+      "text": "yeah um but sometimes the number one",
+      "duration": 5.2,
+      "offset": 397.32,
+      "lang": "en"
+    },
+    {
+      "text": "comes out like even better um this is",
+      "duration": 4.84,
+      "offset": 399.8,
+      "lang": "en"
+    },
+    {
+      "text": "the one where I painted on it now see",
+      "duration": 3.36,
+      "offset": 402.52,
+      "lang": "en"
+    },
+    {
+      "text": "that came out",
+      "duration": 4.76,
+      "offset": 404.64,
+      "lang": "en"
+    },
+    {
+      "text": "terrible um I will like this one I will",
+      "duration": 5.92,
+      "offset": 405.88,
+      "lang": "en"
+    },
+    {
+      "text": "dislike this one I say like warping or",
+      "duration": 5.6,
+      "offset": 409.4,
+      "lang": "en"
+    },
+    {
+      "text": "morphing on that one um and then this is",
+      "duration": 5.36,
+      "offset": 411.8,
+      "lang": "en"
+    },
+    {
+      "text": "one done with the number two see that",
+      "duration": 3.32,
+      "offset": 415.0,
+      "lang": "en"
+    },
+    {
+      "text": "one came out",
+      "duration": 4.36,
+      "offset": 417.16,
+      "lang": "en"
+    },
+    {
+      "text": "better um",
+      "duration": 3.2,
+      "offset": 418.32,
+      "lang": "en"
+    },
+    {
+      "text": "that looks kind of",
+      "duration": 3.92,
+      "offset": 422.48,
+      "lang": "en"
+    },
+    {
+      "text": "real so say I think it&#39;s worth saying",
+      "duration": 4.2,
+      "offset": 423.84,
+      "lang": "en"
+    },
+    {
+      "text": "something about the trial and error",
+      "duration": 4.36,
+      "offset": 426.4,
+      "lang": "en"
+    },
+    {
+      "text": "nature of how you work with it and how",
+      "duration": 4.16,
+      "offset": 428.04,
+      "lang": "en"
+    },
+    {
+      "text": "kind of how we&#39;re all forced to work",
+      "duration": 2.96,
+      "offset": 430.76,
+      "lang": "en"
+    },
+    {
+      "text": "with it right so you never know what",
+      "duration": 4.36,
+      "offset": 432.2,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to get right um I just know",
+      "duration": 5.4,
+      "offset": 433.72,
+      "lang": "en"
+    },
+    {
+      "text": "now because I&#39;ve been doing this so long",
+      "duration": 5.56,
+      "offset": 436.56,
+      "lang": "en"
+    },
+    {
+      "text": "I can look at an image and I can tell",
+      "duration": 4.72,
+      "offset": 439.12,
+      "lang": "en"
+    },
+    {
+      "text": "how Runway is going to animate it for",
+      "duration": 4.24,
+      "offset": 442.12,
+      "lang": "en"
+    },
+    {
+      "text": "the most part um like this is what I",
+      "duration": 4.44,
+      "offset": 443.84,
+      "lang": "en"
+    },
+    {
+      "text": "expected these two were both done on the",
+      "duration": 5.2,
+      "offset": 446.36,
+      "lang": "en"
+    },
+    {
+      "text": "number two they came out",
+      "duration": 7.16,
+      "offset": 448.28,
+      "lang": "en"
+    },
+    {
+      "text": "great um this first one did not come out",
+      "duration": 6.56,
+      "offset": 451.56,
+      "lang": "en"
+    },
+    {
+      "text": "great but then sometimes I I I will",
+      "duration": 5.24,
+      "offset": 455.44,
+      "lang": "en"
+    },
+    {
+      "text": "instead of reusing it I sometimes just",
+      "duration": 6.32,
+      "offset": 458.12,
+      "lang": "en"
+    },
+    {
+      "text": "re-upload it because it will it will",
+      "duration": 6.4,
+      "offset": 460.68,
+      "lang": "en"
+    },
+    {
+      "text": "start use the same it will animate",
+      "duration": 4.6,
+      "offset": 464.44,
+      "lang": "en"
+    },
+    {
+      "text": "exactly the same if I just reuse it so I",
+      "duration": 4.0,
+      "offset": 467.08,
+      "lang": "en"
+    },
+    {
+      "text": "uploaded it I&#39;m going to try it on a",
+      "duration": 4.52,
+      "offset": 469.04,
+      "lang": "en"
+    },
+    {
+      "text": "number one this time and see what",
+      "duration": 5.08,
+      "offset": 471.08,
+      "lang": "en"
+    },
+    {
+      "text": "happens but yeah it&#39;s trial and error",
+      "duration": 4.32,
+      "offset": 473.56,
+      "lang": "en"
+    },
+    {
+      "text": "and this is where it gets difficult",
+      "duration": 2.76,
+      "offset": 476.16,
+      "lang": "en"
+    },
+    {
+      "text": "because if you have Runway and you&#39;re",
+      "duration": 3.16,
+      "offset": 477.88,
+      "lang": "en"
+    },
+    {
+      "text": "paying for it and you get like three bad",
+      "duration": 4.6,
+      "offset": 478.92,
+      "lang": "en"
+    },
+    {
+      "text": "ones in a row that like lowers your",
+      "duration": 6.56,
+      "offset": 481.04,
+      "lang": "en"
+    },
+    {
+      "text": "usage so I I feel like they need to um",
+      "duration": 6.92,
+      "offset": 483.52,
+      "lang": "en"
+    },
+    {
+      "text": "figure that out like I but no way",
+      "duration": 5.08,
+      "offset": 487.6,
+      "lang": "en"
+    },
+    {
+      "text": "understanding it is is always best and",
+      "duration": 6.48,
+      "offset": 490.44,
+      "lang": "en"
+    },
+    {
+      "text": "like for people and animals and things",
+      "duration": 7.2,
+      "offset": 492.68,
+      "lang": "en"
+    },
+    {
+      "text": "like these bugs and um other things I",
+      "duration": 6.0,
+      "offset": 496.92,
+      "lang": "en"
+    },
+    {
+      "text": "will usually use the number system for",
+      "duration": 6.36,
+      "offset": 499.88,
+      "lang": "en"
+    },
+    {
+      "text": "something like um a Scenic picture",
+      "duration": 7.32,
+      "offset": 502.92,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s like a a room or like those",
+      "duration": 7.56,
+      "offset": 506.24,
+      "lang": "en"
+    },
+    {
+      "text": "um like an exterior or a drone shot or",
+      "duration": 7.24,
+      "offset": 510.24,
+      "lang": "en"
+    },
+    {
+      "text": "something I will use the camera um",
+      "duration": 7.36,
+      "offset": 513.8,
+      "lang": "en"
+    },
+    {
+      "text": "either like a pan Zoom vertical down the",
+      "duration": 5.2,
+      "offset": 517.48,
+      "lang": "en"
+    },
+    {
+      "text": "roll kind of",
+      "duration": 5.16,
+      "offset": 521.16,
+      "lang": "en"
+    },
+    {
+      "text": "turns um tilt tilts the image that way",
+      "duration": 7.4,
+      "offset": 522.68,
+      "lang": "en"
+    },
+    {
+      "text": "which is kind of an unusual thing to do",
+      "duration": 5.56,
+      "offset": 526.32,
+      "lang": "en"
+    },
+    {
+      "text": "um so there&#39;s a lot of different things",
+      "duration": 3.24,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "you can play around with this camera",
+      "duration": 4.24,
+      "offset": 531.88,
+      "lang": "en"
+    },
+    {
+      "text": "thing and are you strictly using runways",
+      "duration": 5.2,
+      "offset": 533.32,
+      "lang": "en"
+    },
+    {
+      "text": "image to video as opposed to I noticed",
+      "duration": 4.2,
+      "offset": 536.12,
+      "lang": "en"
+    },
+    {
+      "text": "when you signed in they have lip syncing",
+      "duration": 4.72,
+      "offset": 538.52,
+      "lang": "en"
+    },
+    {
+      "text": "that lip syncing now and they have other",
+      "duration": 6.2,
+      "offset": 540.32,
+      "lang": "en"
+    },
+    {
+      "text": "you know text video and other lip sync",
+      "duration": 5.24,
+      "offset": 543.24,
+      "lang": "en"
+    },
+    {
+      "text": "how is it see now here&#39;s that same bug",
+      "duration": 5.36,
+      "offset": 546.52,
+      "lang": "en"
+    },
+    {
+      "text": "on number one you can uh let me make it",
+      "duration": 8.0,
+      "offset": 548.48,
+      "lang": "en"
+    },
+    {
+      "text": "big came out great see that&#39;s much more",
+      "duration": 9.12,
+      "offset": 551.88,
+      "lang": "en"
+    },
+    {
+      "text": "realistic yeah um let&#39;s see Runway",
+      "duration": 8.52,
+      "offset": 556.48,
+      "lang": "en"
+    },
+    {
+      "text": "has um yes they have audio I use this a",
+      "duration": 7.24,
+      "offset": 561.0,
+      "lang": "en"
+    },
+    {
+      "text": "lot because you can do um voiceovers um",
+      "duration": 7.0,
+      "offset": 565.0,
+      "lang": "en"
+    },
+    {
+      "text": "you can type in something here like any",
+      "duration": 5.56,
+      "offset": 568.24,
+      "lang": "en"
+    },
+    {
+      "text": "script like",
+      "duration": 5.8,
+      "offset": 572.0,
+      "lang": "en"
+    },
+    {
+      "text": "uh let me just go to chat GPT and get",
+      "duration": 6.2,
+      "offset": 573.8,
+      "lang": "en"
+    },
+    {
+      "text": "something real quick I just said write a",
+      "duration": 4.68,
+      "offset": 577.8,
+      "lang": "en"
+    },
+    {
+      "text": "one minute voiceover script so I have",
+      "duration": 4.44,
+      "offset": 580.0,
+      "lang": "en"
+    },
+    {
+      "text": "this uh script that I just made quickly",
+      "duration": 6.04,
+      "offset": 582.48,
+      "lang": "en"
+    },
+    {
+      "text": "in um in chat GPT and then you come over",
+      "duration": 5.8,
+      "offset": 584.44,
+      "lang": "en"
+    },
+    {
+      "text": "here and you can try to pick a voice I",
+      "duration": 3.04,
+      "offset": 588.52,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t know if you can hear sound hey",
+      "duration": 2.96,
+      "offset": 590.24,
+      "lang": "en"
+    },
+    {
+      "text": "there Maggie here I",
+      "duration": 5.24,
+      "offset": 591.56,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate yeah we hear it",
+      "duration": 6.56,
+      "offset": 593.2,
+      "lang": "en"
+    },
+    {
+      "text": "okay it&#39;s super",
+      "duration": 5.16,
+      "offset": 596.8,
+      "lang": "en"
+    },
+    {
+      "text": "we can&#39;t change the inevitable but we",
+      "duration": 5.16,
+      "offset": 599.76,
+      "lang": "en"
+    },
+    {
+      "text": "can change James here looking forward to",
+      "duration": 5.96,
+      "offset": 601.96,
+      "lang": "en"
+    },
+    {
+      "text": "reading what you write I like this one",
+      "duration": 4.4,
+      "offset": 604.92,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 4.04,
+      "offset": 607.92,
+      "lang": "en"
+    },
+    {
+      "text": "older um yeah Noah sounded pretty",
+      "duration": 4.8,
+      "offset": 609.32,
+      "lang": "en"
+    },
+    {
+      "text": "interesting to me too but yeah go ahead",
+      "duration": 4.4,
+      "offset": 611.96,
+      "lang": "en"
+    },
+    {
+      "text": "Noah we can&#39;t change the inevitable all",
+      "duration": 5.6,
+      "offset": 614.12,
+      "lang": "en"
+    },
+    {
+      "text": "right let&#39;s try respond so this is how",
+      "duration": 5.6,
+      "offset": 616.36,
+      "lang": "en"
+    },
+    {
+      "text": "you create just a straight voice over",
+      "duration": 6.0,
+      "offset": 619.72,
+      "lang": "en"
+    },
+    {
+      "text": "that you can plop into a video or they",
+      "duration": 5.48,
+      "offset": 621.96,
+      "lang": "en"
+    },
+    {
+      "text": "also have this thing where you can pick",
+      "duration": 5.08,
+      "offset": 625.72,
+      "lang": "en"
+    },
+    {
+      "text": "a person you can put up put an image of",
+      "duration": 5.56,
+      "offset": 627.44,
+      "lang": "en"
+    },
+    {
+      "text": "your own in or they offer these images",
+      "duration": 4.48,
+      "offset": 630.8,
+      "lang": "en"
+    },
+    {
+      "text": "that you could try sometimes we yearn",
+      "duration": 5.6,
+      "offset": 633.0,
+      "lang": "en"
+    },
+    {
+      "text": "for a moment of Peace a moment to pause",
+      "duration": 5.28,
+      "offset": 635.28,
+      "lang": "en"
+    },
+    {
+      "text": "to breathe and to connect with the world",
+      "duration": 4.24,
+      "offset": 638.6,
+      "lang": "en"
+    },
+    {
+      "text": "around us oh I guess you can only do so",
+      "duration": 4.72,
+      "offset": 640.56,
+      "lang": "en"
+    },
+    {
+      "text": "far so it gave me a sample script so I",
+      "duration": 5.68,
+      "offset": 642.84,
+      "lang": "en"
+    },
+    {
+      "text": "have his Noah&#39;s voice face Jamal and",
+      "duration": 6.08,
+      "offset": 645.28,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;ll hit generate so you can use",
+      "duration": 4.68,
+      "offset": 648.52,
+      "lang": "en"
+    },
+    {
+      "text": "your own you can create your own mid",
+      "duration": 4.56,
+      "offset": 651.36,
+      "lang": "en"
+    },
+    {
+      "text": "Journey images of people usually they&#39;re",
+      "duration": 5.48,
+      "offset": 653.2,
+      "lang": "en"
+    },
+    {
+      "text": "better if they&#39;re they&#39;re kind of like",
+      "duration": 5.68,
+      "offset": 655.92,
+      "lang": "en"
+    },
+    {
+      "text": "him like looking",
+      "duration": 4.88,
+      "offset": 658.68,
+      "lang": "en"
+    },
+    {
+      "text": "straightforward um and you can also",
+      "duration": 4.0,
+      "offset": 661.6,
+      "lang": "en"
+    },
+    {
+      "text": "apparently use videos too like if you",
+      "duration": 3.64,
+      "offset": 663.56,
+      "lang": "en"
+    },
+    {
+      "text": "have a video of a person that&#39;s kind of",
+      "duration": 4.2,
+      "offset": 665.6,
+      "lang": "en"
+    },
+    {
+      "text": "just standing there moving slightly I",
+      "duration": 4.88,
+      "offset": 667.2,
+      "lang": "en"
+    },
+    {
+      "text": "tried it it wasn&#39;t did mine didn&#39;t come",
+      "duration": 4.28,
+      "offset": 669.8,
+      "lang": "en"
+    },
+    {
+      "text": "out great I saw some people&#39;s came out a",
+      "duration": 3.84,
+      "offset": 672.08,
+      "lang": "en"
+    },
+    {
+      "text": "little better but it does slightly",
+      "duration": 4.44,
+      "offset": 674.08,
+      "lang": "en"
+    },
+    {
+      "text": "animate them but that they look a",
+      "duration": 5.52,
+      "offset": 675.92,
+      "lang": "en"
+    },
+    {
+      "text": "little um a little awkward I can show",
+      "duration": 5.28,
+      "offset": 678.52,
+      "lang": "en"
+    },
+    {
+      "text": "you one on my Tik Tok that I did or my",
+      "duration": 5.12,
+      "offset": 681.44,
+      "lang": "en"
+    },
+    {
+      "text": "Instagram once this is done each one a",
+      "duration": 4.48,
+      "offset": 683.8,
+      "lang": "en"
+    },
+    {
+      "text": "brush stroke upon the canvas of",
+      "duration": 4.04,
+      "offset": 686.56,
+      "lang": "en"
+    },
+    {
+      "text": "existence as we journey through the",
+      "duration": 4.76,
+      "offset": 688.28,
+      "lang": "en"
+    },
+    {
+      "text": "years we gather wisdom like pearls in",
+      "duration": 5.08,
+      "offset": 690.6,
+      "lang": "en"
+    },
+    {
+      "text": "the sea Treasures gleaned from the e and",
+      "duration": 5.24,
+      "offset": 693.04,
+      "lang": "en"
+    },
+    {
+      "text": "flow of experience and never for that",
+      "duration": 4.4,
+      "offset": 695.68,
+      "lang": "en"
+    },
+    {
+      "text": "sounds so chaty",
+      "duration": 5.44,
+      "offset": 698.28,
+      "lang": "en"
+    },
+    {
+      "text": "PT yeah I wrote it in I was just doing a",
+      "duration": 5.36,
+      "offset": 700.08,
+      "lang": "en"
+    },
+    {
+      "text": "test you know I didn&#39;t right and that&#39;s",
+      "duration": 5.6,
+      "offset": 703.72,
+      "lang": "en"
+    },
+    {
+      "text": "an image you created in uh uh mid",
+      "duration": 6.72,
+      "offset": 705.44,
+      "lang": "en"
+    },
+    {
+      "text": "Journey yeah okay my guy is done let me",
+      "duration": 6.08,
+      "offset": 709.32,
+      "lang": "en"
+    },
+    {
+      "text": "switch back over home where love resides",
+      "duration": 4.56,
+      "offset": 712.16,
+      "lang": "en"
+    },
+    {
+      "text": "and memories are",
+      "duration": 4.12,
+      "offset": 715.4,
+      "lang": "en"
+    },
+    {
+      "text": "crafted The Haven of heartbeats the",
+      "duration": 5.8,
+      "offset": 716.72,
+      "lang": "en"
+    },
+    {
+      "text": "realm where family is The Melody of Life",
+      "duration": 5.2,
+      "offset": 719.52,
+      "lang": "en"
+    },
+    {
+      "text": "cherish the moments celebrate the",
+      "duration": 5.0,
+      "offset": 722.52,
+      "lang": "en"
+    },
+    {
+      "text": "milestones and embrace the simple Joys",
+      "duration": 4.28,
+      "offset": 724.72,
+      "lang": "en"
+    },
+    {
+      "text": "the voice quality is great the",
+      "duration": 3.24,
+      "offset": 727.52,
+      "lang": "en"
+    },
+    {
+      "text": "animation&#39;s kind of",
+      "duration": 4.2,
+      "offset": 729.0,
+      "lang": "en"
+    },
+    {
+      "text": "stiff yeah that&#39;s why I don&#39;t really I",
+      "duration": 4.76,
+      "offset": 730.76,
+      "lang": "en"
+    },
+    {
+      "text": "use voice I do the",
+      "duration": 5.92,
+      "offset": 733.2,
+      "lang": "en"
+    },
+    {
+      "text": "voiceovers um over video instead of I",
+      "duration": 5.08,
+      "offset": 735.52,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really try to use these things",
+      "duration": 3.0,
+      "offset": 739.12,
+      "lang": "en"
+    },
+    {
+      "text": "until it gets a little",
+      "duration": 3.92,
+      "offset": 740.6,
+      "lang": "en"
+    },
+    {
+      "text": "better um they have other things like",
+      "duration": 4.68,
+      "offset": 742.12,
+      "lang": "en"
+    },
+    {
+      "text": "video to video this you get these like",
+      "duration": 5.24,
+      "offset": 744.52,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like really",
+      "duration": 5.76,
+      "offset": 746.8,
+      "lang": "en"
+    },
+    {
+      "text": "not great outputs but it&#39;s kind of fun",
+      "duration": 5.4,
+      "offset": 749.76,
+      "lang": "en"
+    },
+    {
+      "text": "to play with sometimes so this process",
+      "duration": 5.6,
+      "offset": 752.56,
+      "lang": "en"
+    },
+    {
+      "text": "of being creative using these tools",
+      "duration": 4.8,
+      "offset": 755.16,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot what I get is there&#39;s a",
+      "duration": 3.72,
+      "offset": 758.16,
+      "lang": "en"
+    },
+    {
+      "text": "lot of trial and error and",
+      "duration": 4.16,
+      "offset": 759.96,
+      "lang": "en"
+    },
+    {
+      "text": "experimentation but you&#39;ve also talked",
+      "duration": 4.48,
+      "offset": 761.88,
+      "lang": "en"
+    },
+    {
+      "text": "about how there&#39;s a creative empowerment",
+      "duration": 5.48,
+      "offset": 764.12,
+      "lang": "en"
+    },
+    {
+      "text": "that some door has opened for you can",
+      "duration": 5.12,
+      "offset": 766.36,
+      "lang": "en"
+    },
+    {
+      "text": "you tell me more about that experience",
+      "duration": 4.96,
+      "offset": 769.6,
+      "lang": "en"
+    },
+    {
+      "text": "and this the the artist part of you that",
+      "duration": 5.16,
+      "offset": 771.48,
+      "lang": "en"
+    },
+    {
+      "text": "has embraced these",
+      "duration": 5.52,
+      "offset": 774.56,
+      "lang": "en"
+    },
+    {
+      "text": "tools yeah I mean I&#39;ve a creative person",
+      "duration": 6.36,
+      "offset": 776.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m a painter I&#39;m always trying to find",
+      "duration": 7.52,
+      "offset": 780.08,
+      "lang": "en"
+    },
+    {
+      "text": "some creative Outlet in my life uh it&#39;s",
+      "duration": 6.6,
+      "offset": 783.0,
+      "lang": "en"
+    },
+    {
+      "text": "something with music or something with",
+      "duration": 5.68,
+      "offset": 787.6,
+      "lang": "en"
+    },
+    {
+      "text": "art um when this when I first started",
+      "duration": 6.0,
+      "offset": 789.6,
+      "lang": "en"
+    },
+    {
+      "text": "seeing people posting AI",
+      "duration": 6.12,
+      "offset": 793.28,
+      "lang": "en"
+    },
+    {
+      "text": "images about over a year ago I was",
+      "duration": 6.0,
+      "offset": 795.6,
+      "lang": "en"
+    },
+    {
+      "text": "obsessed I had to find out how to do",
+      "duration": 4.16,
+      "offset": 799.4,
+      "lang": "en"
+    },
+    {
+      "text": "this and back then the artists that were",
+      "duration": 4.48,
+      "offset": 801.6,
+      "lang": "en"
+    },
+    {
+      "text": "doing it did not want to share their",
+      "duration": 5.0,
+      "offset": 803.56,
+      "lang": "en"
+    },
+    {
+      "text": "secrets how to use it and it was very",
+      "duration": 5.04,
+      "offset": 806.08,
+      "lang": "en"
+    },
+    {
+      "text": "confusing to get M Journey set up learn",
+      "duration": 6.2,
+      "offset": 808.56,
+      "lang": "en"
+    },
+    {
+      "text": "how to use Discord and try to get it all",
+      "duration": 6.32,
+      "offset": 811.12,
+      "lang": "en"
+    },
+    {
+      "text": "set up but once I did and it be it was",
+      "duration": 6.28,
+      "offset": 814.76,
+      "lang": "en"
+    },
+    {
+      "text": "really easy once you get that um get it",
+      "duration": 5.88,
+      "offset": 817.44,
+      "lang": "en"
+    },
+    {
+      "text": "going now it&#39;s way easier it&#39;s you know",
+      "duration": 5.16,
+      "offset": 821.04,
+      "lang": "en"
+    },
+    {
+      "text": "this was like over a year ago um and now",
+      "duration": 5.12,
+      "offset": 823.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot more options you can",
+      "duration": 4.24,
+      "offset": 826.2,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s I mean hundreds of sites where",
+      "duration": 6.16,
+      "offset": 828.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can create AI images um but I am so",
+      "duration": 7.0,
+      "offset": 830.44,
+      "lang": "en"
+    },
+    {
+      "text": "inspired every day to come up with some",
+      "duration": 7.0,
+      "offset": 834.6,
+      "lang": "en"
+    },
+    {
+      "text": "new idea of a video to create or just",
+      "duration": 7.0,
+      "offset": 837.44,
+      "lang": "en"
+    },
+    {
+      "text": "creating images in mid journey is like",
+      "duration": 4.76,
+      "offset": 841.6,
+      "lang": "en"
+    },
+    {
+      "text": "insane like you can see just what I did",
+      "duration": 4.24,
+      "offset": 844.44,
+      "lang": "en"
+    },
+    {
+      "text": "with those bugs in two seconds like",
+      "duration": 4.6,
+      "offset": 846.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re only hindered by your amount of",
+      "duration": 3.96,
+      "offset": 848.68,
+      "lang": "en"
+    },
+    {
+      "text": "creativity if",
+      "duration": 4.48,
+      "offset": 850.96,
+      "lang": "en"
+    },
+    {
+      "text": "you if you have a lot of creativity like",
+      "duration": 4.92,
+      "offset": 852.64,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re you could just keep creating and",
+      "duration": 4.72,
+      "offset": 855.44,
+      "lang": "en"
+    },
+    {
+      "text": "creating and creating it&#39;s like endless",
+      "duration": 4.8,
+      "offset": 857.56,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no end to what you can come up",
+      "duration": 4.56,
+      "offset": 860.16,
+      "lang": "en"
+    },
+    {
+      "text": "with you know but it also probably helps",
+      "duration": 4.08,
+      "offset": 862.36,
+      "lang": "en"
+    },
+    {
+      "text": "people that aren&#39;t creative because then",
+      "duration": 3.84,
+      "offset": 864.72,
+      "lang": "en"
+    },
+    {
+      "text": "they could do things you know like write",
+      "duration": 3.28,
+      "offset": 866.44,
+      "lang": "en"
+    },
+    {
+      "text": "a prompt",
+      "duration": 3.36,
+      "offset": 868.56,
+      "lang": "en"
+    },
+    {
+      "text": "add an image try different things and",
+      "duration": 4.12,
+      "offset": 869.72,
+      "lang": "en"
+    },
+    {
+      "text": "maybe it&#39;ll spur their creativity and",
+      "duration": 3.04,
+      "offset": 871.92,
+      "lang": "en"
+    },
+    {
+      "text": "help",
+      "duration": 4.72,
+      "offset": 873.84,
+      "lang": "en"
+    },
+    {
+      "text": "them create some cool stuff absolutely",
+      "duration": 4.84,
+      "offset": 874.96,
+      "lang": "en"
+    },
+    {
+      "text": "well thank you so much for what you&#39;re",
+      "duration": 3.44,
+      "offset": 878.56,
+      "lang": "en"
+    },
+    {
+      "text": "doing you&#39;re inspiring and thank you for",
+      "duration": 4.56,
+      "offset": 879.8,
+      "lang": "en"
+    },
+    {
+      "text": "not keeping your secret secret but",
+      "duration": 4.2,
+      "offset": 882.0,
+      "lang": "en"
+    },
+    {
+      "text": "actually sharing it and helping",
+      "duration": 3.6,
+      "offset": 884.36,
+      "lang": "en"
+    },
+    {
+      "text": "everybody to move along on the learning",
+      "duration": 4.24,
+      "offset": 886.2,
+      "lang": "en"
+    },
+    {
+      "text": "curve and and become aware of the power",
+      "duration": 4.48,
+      "offset": 887.96,
+      "lang": "en"
+    },
+    {
+      "text": "of what this stuff is I&#39;m I&#39;m in love",
+      "duration": 5.16,
+      "offset": 890.44,
+      "lang": "en"
+    },
+    {
+      "text": "with it too as you know oh I know thank",
+      "duration": 4.76,
+      "offset": 892.44,
+      "lang": "en"
+    },
+    {
+      "text": "you so much Kelly I really appreciate",
+      "duration": 5.4,
+      "offset": 895.6,
+      "lang": "en"
+    },
+    {
+      "text": "you taking the time thank you",
+      "duration": 3.8,
+      "offset": 897.2,
+      "lang": "en"
+    }
+  ]
+}

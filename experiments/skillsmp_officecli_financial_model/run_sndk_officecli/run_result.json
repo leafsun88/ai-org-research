@@ -1,0 +1,12 @@
+{
+  "model_path": "/Users/leafsun/Desktop/AI Org研究/experiments/skillsmp_officecli_financial_model/run_sndk_officecli/sndk_officecli_financial_model.xlsx",
+  "preview_path": "/Users/leafsun/Desktop/AI Org研究/experiments/skillsmp_officecli_financial_model/run_sndk_officecli/preview.html",
+  "text_view_path": "/Users/leafsun/Desktop/AI Org研究/experiments/skillsmp_officecli_financial_model/run_sndk_officecli/text_view.txt",
+  "validation_status": "pass",
+  "validate_returncode": 0,
+  "validate_stdout": "Validation passed: no errors found.\n",
+  "validate_stderr": "",
+  "skill": "officecli-financial-model",
+  "skill_source": "https://github.com/iOfficeAI/AionUi/tree/main/src/process/resources/skills/officecli-financial-model",
+  "stars": 22496
+}

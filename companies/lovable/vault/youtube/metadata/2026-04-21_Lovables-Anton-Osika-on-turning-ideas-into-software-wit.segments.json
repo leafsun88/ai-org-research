@@ -1,0 +1,3096 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "9FGMhz-e97k",
+  "url": "https://www.youtube.com/watch?v=9FGMhz-e97k",
+  "title": "Lovable’s Anton Osika on turning ideas into software without coding | Masters of Scale Summit 2025",
+  "channel": "Pioneers of AI and Masters of Scale",
+  "source_queries": [
+    "Lovable Anton Osika podcast",
+    "Lovable Anton Osika interview",
+    "Anton Osika Lovable podcast",
+    "Anton Osika interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:12:23",
+  "segments": [
+    {
+      "text": "We want to be the platform where the",
+      "duration": 4.64,
+      "offset": 0.0,
+      "lang": "en"
+    },
+    {
+      "text": "first one person unicorn is built and um",
+      "duration": 5.84,
+      "offset": 1.6,
+      "lang": "en"
+    },
+    {
+      "text": "helping you do everything across the",
+      "duration": 4.96,
+      "offset": 4.64,
+      "lang": "en"
+    },
+    {
+      "text": "entire product life cycle. You can build",
+      "duration": 4.08,
+      "offset": 7.44,
+      "lang": "en"
+    },
+    {
+      "text": "businesses to fully operating the",
+      "duration": 5.52,
+      "offset": 9.6,
+      "lang": "en"
+    },
+    {
+      "text": "businesses with everything being as",
+      "duration": 5.68,
+      "offset": 11.52,
+      "lang": "en"
+    },
+    {
+      "text": "reliable as if you had a human software",
+      "duration": 3.6,
+      "offset": 15.12,
+      "lang": "en"
+    },
+    {
+      "text": "engineering team. And that&#39;s what we&#39;re",
+      "duration": 4.96,
+      "offset": 17.2,
+      "lang": "en"
+    },
+    {
+      "text": "seeing now with many of the world&#39;s",
+      "duration": 6.64,
+      "offset": 18.72,
+      "lang": "en"
+    },
+    {
+      "text": "largest like 30% of Fortune 10,000",
+      "duration": 4.8,
+      "offset": 22.16,
+      "lang": "en"
+    },
+    {
+      "text": "companies are using Lovable today as",
+      "duration": 4.6,
+      "offset": 25.36,
+      "lang": "en"
+    },
+    {
+      "text": "well.",
+      "duration": 3.0,
+      "offset": 26.96,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 6.46,
+      "offset": 33.38,
+      "lang": "en"
+    },
+    {
+      "text": "Hey there, Pioneers of AI listeners. We",
+      "duration": 5.44,
+      "offset": 36.64,
+      "lang": "en"
+    },
+    {
+      "text": "are just back from the Masters of Scale",
+      "duration": 5.04,
+      "offset": 39.84,
+      "lang": "en"
+    },
+    {
+      "text": "Summit. It&#39;s 2 days of non-stop learning",
+      "duration": 5.44,
+      "offset": 42.08,
+      "lang": "en"
+    },
+    {
+      "text": "and inspiration with visionary leaders",
+      "duration": 5.44,
+      "offset": 44.88,
+      "lang": "en"
+    },
+    {
+      "text": "live in San Francisco. I had so many",
+      "duration": 5.44,
+      "offset": 47.52,
+      "lang": "en"
+    },
+    {
+      "text": "dynamic conversations on stage and off",
+      "duration": 4.56,
+      "offset": 50.32,
+      "lang": "en"
+    },
+    {
+      "text": "about some of the biggest breakthroughs",
+      "duration": 5.44,
+      "offset": 52.96,
+      "lang": "en"
+    },
+    {
+      "text": "and challenges of our time. Today we&#39;re",
+      "duration": 5.68,
+      "offset": 54.88,
+      "lang": "en"
+    },
+    {
+      "text": "bringing you my live chat with Anton",
+      "duration": 4.88,
+      "offset": 58.4,
+      "lang": "en"
+    },
+    {
+      "text": "Osika. He&#39;s the founder of lovable. It&#39;s",
+      "duration": 5.04,
+      "offset": 60.56,
+      "lang": "en"
+    },
+    {
+      "text": "one of the fastest growing platforms for",
+      "duration": 4.48,
+      "offset": 63.28,
+      "lang": "en"
+    },
+    {
+      "text": "vibe coding. Building software by just",
+      "duration": 4.0,
+      "offset": 65.6,
+      "lang": "en"
+    },
+    {
+      "text": "talking to AI about what you want to",
+      "duration": 5.76,
+      "offset": 67.76,
+      "lang": "en"
+    },
+    {
+      "text": "create. This is truly revolutionary. I",
+      "duration": 5.76,
+      "offset": 69.6,
+      "lang": "en"
+    },
+    {
+      "text": "believe VIP coding will change how the",
+      "duration": 4.4,
+      "offset": 73.52,
+      "lang": "en"
+    },
+    {
+      "text": "next great companies are made and help",
+      "duration": 5.28,
+      "offset": 75.36,
+      "lang": "en"
+    },
+    {
+      "text": "democratize who can create them. Let&#39;s",
+      "duration": 6.16,
+      "offset": 77.92,
+      "lang": "en"
+    },
+    {
+      "text": "jump in. Welcome, Anton.",
+      "duration": 7.28,
+      "offset": 80.64,
+      "lang": "en"
+    },
+    {
+      "text": "All right. So, vibe coding. Vibe coding",
+      "duration": 6.16,
+      "offset": 84.08,
+      "lang": "en"
+    },
+    {
+      "text": "is rewriting the rules of creation. With",
+      "duration": 4.08,
+      "offset": 87.92,
+      "lang": "en"
+    },
+    {
+      "text": "nothing more than a conversation with",
+      "duration": 4.96,
+      "offset": 90.24,
+      "lang": "en"
+    },
+    {
+      "text": "AI, anyone, no coding skills required,",
+      "duration": 5.76,
+      "offset": 92.0,
+      "lang": "en"
+    },
+    {
+      "text": "can now build apps and websites in",
+      "duration": 5.36,
+      "offset": 95.2,
+      "lang": "en"
+    },
+    {
+      "text": "minutes. Leading this charge is Anton",
+      "duration": 5.92,
+      "offset": 97.76,
+      "lang": "en"
+    },
+    {
+      "text": "Oika, founder of Lovable. In less than a",
+      "duration": 5.36,
+      "offset": 100.56,
+      "lang": "en"
+    },
+    {
+      "text": "year, Lovable has exploded to hund00",
+      "duration": 5.04,
+      "offset": 103.68,
+      "lang": "en"
+    },
+    {
+      "text": "million in annual recurring revenue and",
+      "duration": 7.04,
+      "offset": 105.92,
+      "lang": "en"
+    },
+    {
+      "text": "a $1.8 billion valuation. Um, all by",
+      "duration": 6.16,
+      "offset": 108.72,
+      "lang": "en"
+    },
+    {
+      "text": "empowering people who&#39;ve never written a",
+      "duration": 5.04,
+      "offset": 112.96,
+      "lang": "en"
+    },
+    {
+      "text": "line of code to bring their ideas to",
+      "duration": 6.08,
+      "offset": 114.88,
+      "lang": "en"
+    },
+    {
+      "text": "life. It&#39;s wild. So, I want to do this.",
+      "duration": 5.52,
+      "offset": 118.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you&#39;ve heard of VIP coding, please",
+      "duration": 7.36,
+      "offset": 120.96,
+      "lang": "en"
+    },
+    {
+      "text": "stand up. And we&#39;re going to stand up.",
+      "duration": 6.48,
+      "offset": 123.52,
+      "lang": "en"
+    },
+    {
+      "text": "Cool.",
+      "duration": 3.6,
+      "offset": 128.32,
+      "lang": "en"
+    },
+    {
+      "text": "All right.",
+      "duration": 6.0,
+      "offset": 130.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now, stay standing up if you&#39;ve actually",
+      "duration": 7.76,
+      "offset": 131.92,
+      "lang": "en"
+    },
+    {
+      "text": "built something this way.",
+      "duration": 7.04,
+      "offset": 136.0,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. All right. So look around. This is",
+      "duration": 5.12,
+      "offset": 139.68,
+      "lang": "en"
+    },
+    {
+      "text": "this is the frontier we&#39;re stepping",
+      "duration": 5.52,
+      "offset": 143.04,
+      "lang": "en"
+    },
+    {
+      "text": "into. And for anyone still thinking, uh,",
+      "duration": 6.16,
+      "offset": 144.8,
+      "lang": "en"
+    },
+    {
+      "text": "wait, Vibe, what",
+      "duration": 4.56,
+      "offset": 148.56,
+      "lang": "en"
+    },
+    {
+      "text": "Vibe coding is is essentially using an",
+      "duration": 4.56,
+      "offset": 150.96,
+      "lang": "en"
+    },
+    {
+      "text": "AI chatbot to bring your ideas to life.",
+      "duration": 4.4,
+      "offset": 153.12,
+      "lang": "en"
+    },
+    {
+      "text": "It makes you more creative, helps you",
+      "duration": 4.64,
+      "offset": 155.52,
+      "lang": "en"
+    },
+    {
+      "text": "get stuff done faster and smarter. And",
+      "duration": 5.2,
+      "offset": 157.52,
+      "lang": "en"
+    },
+    {
+      "text": "we are going to dig in. So Anton, the",
+      "duration": 5.52,
+      "offset": 160.16,
+      "lang": "en"
+    },
+    {
+      "text": "numbers are just crazy. Um, hund00",
+      "duration": 4.96,
+      "offset": 162.72,
+      "lang": "en"
+    },
+    {
+      "text": "million in annual recurring revenue in",
+      "duration": 4.32,
+      "offset": 165.68,
+      "lang": "en"
+    },
+    {
+      "text": "under a year. investors are literally",
+      "duration": 4.8,
+      "offset": 167.68,
+      "lang": "en"
+    },
+    {
+      "text": "chasing you. My question for you is",
+      "duration": 4.88,
+      "offset": 170.0,
+      "lang": "en"
+    },
+    {
+      "text": "beyond the hype, is vibe coding a",
+      "duration": 4.88,
+      "offset": 172.48,
+      "lang": "en"
+    },
+    {
+      "text": "technological shift or just the next",
+      "duration": 4.0,
+      "offset": 174.88,
+      "lang": "en"
+    },
+    {
+      "text": "fad,",
+      "duration": 5.36,
+      "offset": 177.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; right? So um I mean vi vibe coding is",
+      "duration": 6.48,
+      "offset": 178.88,
+      "lang": "en"
+    },
+    {
+      "text": "the word people use for the new way of",
+      "duration": 4.4,
+      "offset": 182.72,
+      "lang": "en"
+    },
+    {
+      "text": "creating software which is you don&#39;t",
+      "duration": 3.36,
+      "offset": 185.36,
+      "lang": "en"
+    },
+    {
+      "text": "look at the code you explain in plain",
+      "duration": 3.84,
+      "offset": 187.12,
+      "lang": "en"
+    },
+    {
+      "text": "English and then you look at the",
+      "duration": 3.76,
+      "offset": 188.72,
+      "lang": "en"
+    },
+    {
+      "text": "software that is that the AI is building",
+      "duration": 5.2,
+      "offset": 190.96,
+      "lang": "en"
+    },
+    {
+      "text": "for you and you use the software keep",
+      "duration": 6.32,
+      "offset": 192.48,
+      "lang": "en"
+    },
+    {
+      "text": "talking to the AI until you&#39;re happy and",
+      "duration": 5.28,
+      "offset": 196.16,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a very natural shift where humans",
+      "duration": 4.72,
+      "offset": 198.8,
+      "lang": "en"
+    },
+    {
+      "text": "used to look at the zeros and ones that",
+      "duration": 4.88,
+      "offset": 201.44,
+      "lang": "en"
+    },
+    {
+      "text": "the computers are reading we no one is",
+      "duration": 5.44,
+      "offset": 203.52,
+      "lang": "en"
+    },
+    {
+      "text": "doing that anymore and I the same thing",
+      "duration": 5.76,
+      "offset": 206.32,
+      "lang": "en"
+    },
+    {
+      "text": "is going to happen for",
+      "duration": 5.92,
+      "offset": 208.96,
+      "lang": "en"
+    },
+    {
+      "text": "in the next translation that we talk to",
+      "duration": 4.16,
+      "offset": 212.08,
+      "lang": "en"
+    },
+    {
+      "text": "the computer in the same way that we",
+      "duration": 3.2,
+      "offset": 214.88,
+      "lang": "en"
+    },
+    {
+      "text": "talk to other humans. It&#39;s a very very",
+      "duration": 4.16,
+      "offset": 216.24,
+      "lang": "en"
+    },
+    {
+      "text": "natural shift and exactly how the new",
+      "duration": 4.8,
+      "offset": 218.08,
+      "lang": "en"
+    },
+    {
+      "text": "interface looks like is it just a chat",
+      "duration": 5.2,
+      "offset": 220.4,
+      "lang": "en"
+    },
+    {
+      "text": "and a preview of the application you&#39;re",
+      "duration": 4.88,
+      "offset": 222.88,
+      "lang": "en"
+    },
+    {
+      "text": "building uh that&#39;s to be decided. Maybe",
+      "duration": 4.88,
+      "offset": 225.6,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to talk about it or video uh",
+      "duration": 4.16,
+      "offset": 227.76,
+      "lang": "en"
+    },
+    {
+      "text": "and explain like you&#39;re talking to an",
+      "duration": 4.88,
+      "offset": 230.48,
+      "lang": "en"
+    },
+    {
+      "text": "designer in the future. But um this is",
+      "duration": 5.36,
+      "offset": 231.92,
+      "lang": "en"
+    },
+    {
+      "text": "the f like this is obviously the future",
+      "duration": 4.64,
+      "offset": 235.36,
+      "lang": "en"
+    },
+    {
+      "text": "of where you can build you vibe code",
+      "duration": 4.08,
+      "offset": 237.28,
+      "lang": "en"
+    },
+    {
+      "text": "much faster than you write normal",
+      "duration": 4.8,
+      "offset": 240.0,
+      "lang": "en"
+    },
+    {
+      "text": "software. Um and you can take your idea",
+      "duration": 5.36,
+      "offset": 241.36,
+      "lang": "en"
+    },
+    {
+      "text": "to an application in what used to take",
+      "duration": 4.08,
+      "offset": 244.8,
+      "lang": "en"
+    },
+    {
+      "text": "people like six months can be done in a",
+      "duration": 3.68,
+      "offset": 246.72,
+      "lang": "en"
+    },
+    {
+      "text": "few hours these days.",
+      "duration": 4.4,
+      "offset": 248.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You&#39;re really changing the um de facto",
+      "duration": 4.64,
+      "offset": 250.4,
+      "lang": "en"
+    },
+    {
+      "text": "human machine interface in a way which",
+      "duration": 4.24,
+      "offset": 253.28,
+      "lang": "en"
+    },
+    {
+      "text": "is really powerful. So um Adam, my",
+      "duration": 5.52,
+      "offset": 255.04,
+      "lang": "en"
+    },
+    {
+      "text": "16-year-old uh son literally vip codes",
+      "duration": 4.8,
+      "offset": 257.52,
+      "lang": "en"
+    },
+    {
+      "text": "his way into anything. He&#39;s already",
+      "duration": 4.16,
+      "offset": 260.56,
+      "lang": "en"
+    },
+    {
+      "text": "built a social app called Sarend Dip and",
+      "duration": 5.44,
+      "offset": 262.32,
+      "lang": "en"
+    },
+    {
+      "text": "a bunch of websites um using tools like",
+      "duration": 5.12,
+      "offset": 264.72,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. And in preparation for this",
+      "duration": 4.4,
+      "offset": 267.76,
+      "lang": "en"
+    },
+    {
+      "text": "interview, I got creative and I built my",
+      "duration": 4.88,
+      "offset": 269.84,
+      "lang": "en"
+    },
+    {
+      "text": "own lovable app called Hidden Gems cuz I",
+      "duration": 4.4,
+      "offset": 272.16,
+      "lang": "en"
+    },
+    {
+      "text": "love traveling. I don&#39;t know if it&#39;s",
+      "duration": 3.04,
+      "offset": 274.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to be the next billion dollar",
+      "duration": 3.76,
+      "offset": 276.56,
+      "lang": "en"
+    },
+    {
+      "text": "startup, but it was really cool cuz I",
+      "duration": 4.72,
+      "offset": 277.76,
+      "lang": "en"
+    },
+    {
+      "text": "felt like I had my own personal AI",
+      "duration": 5.68,
+      "offset": 280.32,
+      "lang": "en"
+    },
+    {
+      "text": "engineer in a way. And so I",
+      "duration": 5.76,
+      "offset": 282.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You say it&#39;s your technical co-founder",
+      "duration": 3.76,
+      "offset": 286.0,
+      "lang": "en"
+    },
+    {
+      "text": "if if you want to build a business from",
+      "duration": 3.04,
+      "offset": 288.24,
+      "lang": "en"
+    },
+    {
+      "text": "this. Yeah, we&#39;re gonna get to that",
+      "duration": 2.88,
+      "offset": 289.76,
+      "lang": "en"
+    },
+    {
+      "text": "because I think it is changing",
+      "duration": 3.12,
+      "offset": 291.28,
+      "lang": "en"
+    },
+    {
+      "text": "entrepreneurship, but I want to hear",
+      "duration": 3.68,
+      "offset": 292.64,
+      "lang": "en"
+    },
+    {
+      "text": "from you. What are some of your favorite",
+      "duration": 3.44,
+      "offset": 294.4,
+      "lang": "en"
+    },
+    {
+      "text": "companies that have been built on",
+      "duration": 2.48,
+      "offset": 296.32,
+      "lang": "en"
+    },
+    {
+      "text": "lovable?",
+      "duration": 2.16,
+      "offset": 297.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Sure. Um,",
+      "duration": 2.88,
+      "offset": 298.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; and how many like give us a sense of",
+      "duration": 2.16,
+      "offset": 300.0,
+      "lang": "en"
+    },
+    {
+      "text": "scale.",
+      "duration": 3.36,
+      "offset": 301.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So, now more than 100,000 new",
+      "duration": 5.04,
+      "offset": 302.16,
+      "lang": "en"
+    },
+    {
+      "text": "projects are created every single day.",
+      "duration": 3.52,
+      "offset": 305.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s crazy.",
+      "duration": 4.64,
+      "offset": 307.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um, and many of those become very",
+      "duration": 5.6,
+      "offset": 308.56,
+      "lang": "en"
+    },
+    {
+      "text": "serious businesses, very with",
+      "duration": 5.2,
+      "offset": 311.84,
+      "lang": "en"
+    },
+    {
+      "text": "substantial revenue in itself. So we&#39;re",
+      "duration": 5.2,
+      "offset": 314.16,
+      "lang": "en"
+    },
+    {
+      "text": "seeing uh a lot of traffic to lovable",
+      "duration": 4.96,
+      "offset": 317.04,
+      "lang": "en"
+    },
+    {
+      "text": "obviously but we seeing more than 10",
+      "duration": 3.84,
+      "offset": 319.36,
+      "lang": "en"
+    },
+    {
+      "text": "times as much traffic on the",
+      "duration": 3.28,
+      "offset": 322.0,
+      "lang": "en"
+    },
+    {
+      "text": "applications that are being built on on",
+      "duration": 4.8,
+      "offset": 323.2,
+      "lang": "en"
+    },
+    {
+      "text": "top of the platform. Uh and I mean I",
+      "duration": 4.72,
+      "offset": 325.28,
+      "lang": "en"
+    },
+    {
+      "text": "just want to first say so so lovable",
+      "duration": 4.08,
+      "offset": 328.0,
+      "lang": "en"
+    },
+    {
+      "text": "makes it faster to build things but the",
+      "duration": 4.64,
+      "offset": 330.0,
+      "lang": "en"
+    },
+    {
+      "text": "big change is the accessibility like a",
+      "duration": 4.56,
+      "offset": 332.08,
+      "lang": "en"
+    },
+    {
+      "text": "16-year-old being to create the social",
+      "duration": 4.96,
+      "offset": 334.64,
+      "lang": "en"
+    },
+    {
+      "text": "network is just insane right so and less",
+      "duration": 4.88,
+      "offset": 336.64,
+      "lang": "en"
+    },
+    {
+      "text": "than 1% have been able to create",
+      "duration": 3.92,
+      "offset": 339.6,
+      "lang": "en"
+    },
+    {
+      "text": "software in the in the past access to",
+      "duration": 4.64,
+      "offset": 341.52,
+      "lang": "en"
+    },
+    {
+      "text": "the the capital required to put together",
+      "duration": 5.2,
+      "offset": 343.52,
+      "lang": "en"
+    },
+    {
+      "text": "a a full team that used to be required",
+      "duration": 5.6,
+      "offset": 346.16,
+      "lang": "en"
+    },
+    {
+      "text": "well it&#39;s very very very scarce but now",
+      "duration": 7.36,
+      "offset": 348.72,
+      "lang": "en"
+    },
+    {
+      "text": "the 99% are able to build and 99% of the",
+      "duration": 7.28,
+      "offset": 351.76,
+      "lang": "en"
+    },
+    {
+      "text": "good ideas are in in the 99% who 99% who",
+      "duration": 5.36,
+      "offset": 356.08,
+      "lang": "en"
+    },
+    {
+      "text": "were not able to before. So I I think",
+      "duration": 6.0,
+      "offset": 359.04,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s um an a complete transformation in",
+      "duration": 6.08,
+      "offset": 361.44,
+      "lang": "en"
+    },
+    {
+      "text": "how the software economy is going to",
+      "duration": 7.04,
+      "offset": 365.04,
+      "lang": "en"
+    },
+    {
+      "text": "look like and and some examples um",
+      "duration": 5.92,
+      "offset": 367.52,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re coming from all around the world",
+      "duration": 2.8,
+      "offset": 372.08,
+      "lang": "en"
+    },
+    {
+      "text": "which is beautiful. So I there&#39;s this",
+      "duration": 4.88,
+      "offset": 373.44,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a founder Kaio in Brazil who he",
+      "duration": 5.12,
+      "offset": 374.88,
+      "lang": "en"
+    },
+    {
+      "text": "had built a company before educa",
+      "duration": 4.16,
+      "offset": 378.32,
+      "lang": "en"
+    },
+    {
+      "text": "education company Q group um and as a",
+      "duration": 5.52,
+      "offset": 380.0,
+      "lang": "en"
+    },
+    {
+      "text": "part of um his him being a founder there",
+      "duration": 5.44,
+      "offset": 382.48,
+      "lang": "en"
+    },
+    {
+      "text": "he built out a new premium line for his",
+      "duration": 4.8,
+      "offset": 385.52,
+      "lang": "en"
+    },
+    {
+      "text": "for the education company he made $3",
+      "duration": 4.48,
+      "offset": 387.92,
+      "lang": "en"
+    },
+    {
+      "text": "million in 48 hours",
+      "duration": 2.72,
+      "offset": 390.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; amazing",
+      "duration": 2.72,
+      "offset": 392.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; on existing distribution channels but",
+      "duration": 6.4,
+      "offset": 393.04,
+      "lang": "en"
+    },
+    {
+      "text": "but still like uh huge changes. Um,",
+      "duration": 8.48,
+      "offset": 395.12,
+      "lang": "en"
+    },
+    {
+      "text": "Leonard recently built out a full",
+      "duration": 6.48,
+      "offset": 399.44,
+      "lang": "en"
+    },
+    {
+      "text": "product that he sold for a I think a",
+      "duration": 4.24,
+      "offset": 403.6,
+      "lang": "en"
+    },
+    {
+      "text": "six-f figureure deal and now he&#39;s in Y",
+      "duration": 3.52,
+      "offset": 405.92,
+      "lang": "en"
+    },
+    {
+      "text": "Combinator building this into a full",
+      "duration": 5.6,
+      "offset": 407.84,
+      "lang": "en"
+    },
+    {
+      "text": "business and um I mean every day there&#39;s",
+      "duration": 6.24,
+      "offset": 409.44,
+      "lang": "en"
+    },
+    {
+      "text": "thousands of new companies start",
+      "duration": 3.76,
+      "offset": 413.44,
+      "lang": "en"
+    },
+    {
+      "text": "building out their software on lovable.",
+      "duration": 3.44,
+      "offset": 415.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So you really are changing the",
+      "duration": 3.36,
+      "offset": 417.2,
+      "lang": "en"
+    },
+    {
+      "text": "face of entrepreneurship and",
+      "duration": 2.8,
+      "offset": 419.12,
+      "lang": "en"
+    },
+    {
+      "text": "democratizing access to",
+      "duration": 3.92,
+      "offset": 420.56,
+      "lang": "en"
+    },
+    {
+      "text": "entrepreneurship. Um, with VIP coding,",
+      "duration": 4.64,
+      "offset": 421.92,
+      "lang": "en"
+    },
+    {
+      "text": "one person, as you said, can now do what",
+      "duration": 4.16,
+      "offset": 424.48,
+      "lang": "en"
+    },
+    {
+      "text": "an entire team used to do. And it used",
+      "duration": 4.0,
+      "offset": 426.56,
+      "lang": "en"
+    },
+    {
+      "text": "to be that if you were a non-technical",
+      "duration": 3.44,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "founder, you need to have you had to",
+      "duration": 4.56,
+      "offset": 430.56,
+      "lang": "en"
+    },
+    {
+      "text": "find a technical co-founder. Um, how is",
+      "duration": 4.72,
+      "offset": 432.08,
+      "lang": "en"
+    },
+    {
+      "text": "VIP coding changing all of that? And",
+      "duration": 3.28,
+      "offset": 435.12,
+      "lang": "en"
+    },
+    {
+      "text": "actually, do you are you seeing more",
+      "duration": 3.84,
+      "offset": 436.8,
+      "lang": "en"
+    },
+    {
+      "text": "solo founders? And do you think we&#39;re",
+      "duration": 5.52,
+      "offset": 438.4,
+      "lang": "en"
+    },
+    {
+      "text": "going to see a one person unicorn?",
+      "duration": 5.04,
+      "offset": 440.64,
+      "lang": "en"
+    },
+    {
+      "text": "Yes, we we want to be the platform where",
+      "duration": 3.6,
+      "offset": 443.92,
+      "lang": "en"
+    },
+    {
+      "text": "the first one person unicorn is built",
+      "duration": 5.84,
+      "offset": 445.68,
+      "lang": "en"
+    },
+    {
+      "text": "and um helping you do everything across",
+      "duration": 6.8,
+      "offset": 447.52,
+      "lang": "en"
+    },
+    {
+      "text": "the entire product life cycle where it&#39;s",
+      "duration": 5.84,
+      "offset": 451.52,
+      "lang": "en"
+    },
+    {
+      "text": "building the software um publishing it",
+      "duration": 6.16,
+      "offset": 454.32,
+      "lang": "en"
+    },
+    {
+      "text": "and understanding your users, improving",
+      "duration": 4.56,
+      "offset": 457.36,
+      "lang": "en"
+    },
+    {
+      "text": "the product based on understanding your",
+      "duration": 4.56,
+      "offset": 460.48,
+      "lang": "en"
+    },
+    {
+      "text": "users, getting paid, adding payments um",
+      "duration": 5.76,
+      "offset": 461.92,
+      "lang": "en"
+    },
+    {
+      "text": "and be confident when you&#39;re changing",
+      "duration": 4.32,
+      "offset": 465.04,
+      "lang": "en"
+    },
+    {
+      "text": "software that is running in production.",
+      "duration": 3.36,
+      "offset": 467.68,
+      "lang": "en"
+    },
+    {
+      "text": "There there&#39;s a lot of things to be",
+      "duration": 5.04,
+      "offset": 469.36,
+      "lang": "en"
+    },
+    {
+      "text": "built out for uh vibe coding to go from",
+      "duration": 5.36,
+      "offset": 471.04,
+      "lang": "en"
+    },
+    {
+      "text": "like you can build businesses to fully",
+      "duration": 5.2,
+      "offset": 474.4,
+      "lang": "en"
+    },
+    {
+      "text": "operating the businesses with everything",
+      "duration": 6.08,
+      "offset": 476.4,
+      "lang": "en"
+    },
+    {
+      "text": "being as reliable as if you had a human",
+      "duration": 4.4,
+      "offset": 479.6,
+      "lang": "en"
+    },
+    {
+      "text": "software engineering team. And that&#39;s",
+      "duration": 3.84,
+      "offset": 482.48,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re seeing now with many of the",
+      "duration": 6.96,
+      "offset": 484.0,
+      "lang": "en"
+    },
+    {
+      "text": "world&#39;s largest like 30% of Fortune 1000",
+      "duration": 6.16,
+      "offset": 486.32,
+      "lang": "en"
+    },
+    {
+      "text": "companies are using Lovable today as",
+      "duration": 2.08,
+      "offset": 490.96,
+      "lang": "en"
+    },
+    {
+      "text": "well.",
+      "duration": 2.16,
+      "offset": 492.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, that was that was surprising to",
+      "duration": 3.92,
+      "offset": 493.04,
+      "lang": "en"
+    },
+    {
+      "text": "me. It&#39;s not just kind of entrepreneurs",
+      "duration": 3.68,
+      "offset": 494.64,
+      "lang": "en"
+    },
+    {
+      "text": "that are building something from",
+      "duration": 3.76,
+      "offset": 496.96,
+      "lang": "en"
+    },
+    {
+      "text": "scratch. It&#39;s all these big companies as",
+      "duration": 4.0,
+      "offset": 498.32,
+      "lang": "en"
+    },
+    {
+      "text": "well embracing lovable. Give us an",
+      "duration": 2.72,
+      "offset": 500.72,
+      "lang": "en"
+    },
+    {
+      "text": "example.",
+      "duration": 4.64,
+      "offset": 502.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I I was at um Meta&#39;s office here in the",
+      "duration": 7.2,
+      "offset": 503.44,
+      "lang": "en"
+    },
+    {
+      "text": "Bay um yesterday and there there um it&#39;s",
+      "duration": 6.32,
+      "offset": 506.96,
+      "lang": "en"
+    },
+    {
+      "text": "used for many different things",
+      "duration": 4.0,
+      "offset": 510.64,
+      "lang": "en"
+    },
+    {
+      "text": "naturally when you have software",
+      "duration": 2.88,
+      "offset": 513.28,
+      "lang": "en"
+    },
+    {
+      "text": "engineer you want they used to do many",
+      "duration": 4.4,
+      "offset": 514.64,
+      "lang": "en"
+    },
+    {
+      "text": "things in in companies. The finance team",
+      "duration": 5.04,
+      "offset": 516.16,
+      "lang": "en"
+    },
+    {
+      "text": "built tools where they would have hire",
+      "duration": 4.0,
+      "offset": 519.04,
+      "lang": "en"
+    },
+    {
+      "text": "want to hire had an engineer but they&#39;re",
+      "duration": 3.76,
+      "offset": 521.2,
+      "lang": "en"
+    },
+    {
+      "text": "all all super busy and they&#39;re very",
+      "duration": 2.48,
+      "offset": 523.04,
+      "lang": "en"
+    },
+    {
+      "text": "constrained.",
+      "duration": 4.0,
+      "offset": 524.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Backlog. backlogged months out on",
+      "duration": 7.12,
+      "offset": 525.52,
+      "lang": "en"
+    },
+    {
+      "text": "on a tool for headcount planning. Uh and",
+      "duration": 5.52,
+      "offset": 528.96,
+      "lang": "en"
+    },
+    {
+      "text": "product managers and design and",
+      "duration": 4.24,
+      "offset": 532.64,
+      "lang": "en"
+    },
+    {
+      "text": "designers who were previously could only",
+      "duration": 5.2,
+      "offset": 534.48,
+      "lang": "en"
+    },
+    {
+      "text": "create like static wireframes of what",
+      "duration": 4.56,
+      "offset": 536.88,
+      "lang": "en"
+    },
+    {
+      "text": "should be built. They often wrote long",
+      "duration": 3.76,
+      "offset": 539.68,
+      "lang": "en"
+    },
+    {
+      "text": "documents that no one wanted to read.",
+      "duration": 5.28,
+      "offset": 541.44,
+      "lang": "en"
+    },
+    {
+      "text": "They they have this mantra now saying",
+      "duration": 6.0,
+      "offset": 543.44,
+      "lang": "en"
+    },
+    {
+      "text": "demo don&#39;t memo.",
+      "duration": 5.44,
+      "offset": 546.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Cool. I love that. Demo don&#39;t memo. If",
+      "duration": 5.6,
+      "offset": 549.44,
+      "lang": "en"
+    },
+    {
+      "text": "you actually show the real thing even a",
+      "duration": 4.56,
+      "offset": 552.16,
+      "lang": "en"
+    },
+    {
+      "text": "new a new feature of your in your",
+      "duration": 3.68,
+      "offset": 555.04,
+      "lang": "en"
+    },
+    {
+      "text": "product with AI functionality you can",
+      "duration": 3.84,
+      "offset": 556.72,
+      "lang": "en"
+    },
+    {
+      "text": "one in one problem you can build an AI",
+      "duration": 5.12,
+      "offset": 558.72,
+      "lang": "en"
+    },
+    {
+      "text": "product in lovable um then it conveys so",
+      "duration": 6.64,
+      "offset": 560.56,
+      "lang": "en"
+    },
+    {
+      "text": "much more information than a wireframe",
+      "duration": 7.12,
+      "offset": 563.84,
+      "lang": "en"
+    },
+    {
+      "text": "or long document uh and you can much",
+      "duration": 6.16,
+      "offset": 567.2,
+      "lang": "en"
+    },
+    {
+      "text": "rapidly validate what you should",
+      "duration": 4.56,
+      "offset": 570.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually build and where you should sp",
+      "duration": 4.48,
+      "offset": 573.36,
+      "lang": "en"
+    },
+    {
+      "text": "spend that those engineering resources",
+      "duration": 4.08,
+      "offset": 575.52,
+      "lang": "en"
+    },
+    {
+      "text": "that are are doing some of the heavy",
+      "duration": 3.52,
+      "offset": 577.84,
+      "lang": "en"
+    },
+    {
+      "text": "lifting if you&#39;re putting it into an",
+      "duration": 3.12,
+      "offset": 579.6,
+      "lang": "en"
+    },
+    {
+      "text": "exist existing system at Facebook",
+      "duration": 2.8,
+      "offset": 581.36,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s there&#39;s still engineers doing a",
+      "duration": 4.08,
+      "offset": 582.72,
+      "lang": "en"
+    },
+    {
+      "text": "lot of the plumbing so the 60% of the",
+      "duration": 4.88,
+      "offset": 584.16,
+      "lang": "en"
+    },
+    {
+      "text": "work in the product life cycle uh is",
+      "duration": 4.4,
+      "offset": 586.8,
+      "lang": "en"
+    },
+    {
+      "text": "compressed to a large extent in that",
+      "duration": 4.08,
+      "offset": 589.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; so so you&#39;re you&#39;re not just disrupting",
+      "duration": 4.72,
+      "offset": 591.2,
+      "lang": "en"
+    },
+    {
+      "text": "tech you are really shaping entire",
+      "duration": 6.56,
+      "offset": 593.12,
+      "lang": "en"
+    },
+    {
+      "text": "economic structures um and in this world",
+      "duration": 5.92,
+      "offset": 595.92,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m curious who wins and who loses and",
+      "duration": 3.92,
+      "offset": 599.68,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll just give an you know example like",
+      "duration": 3.84,
+      "offset": 601.84,
+      "lang": "en"
+    },
+    {
+      "text": "what industries will be upended by VIP",
+      "duration": 4.0,
+      "offset": 603.6,
+      "lang": "en"
+    },
+    {
+      "text": "coding in the same way that social media",
+      "duration": 4.88,
+      "offset": 605.68,
+      "lang": "en"
+    },
+    {
+      "text": "upended publishing for instance",
+      "duration": 5.6,
+      "offset": 607.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; so consumer customers win. There are",
+      "duration": 4.4,
+      "offset": 610.56,
+      "lang": "en"
+    },
+    {
+      "text": "more choices. They&#39;re higher quality",
+      "duration": 3.28,
+      "offset": 613.2,
+      "lang": "en"
+    },
+    {
+      "text": "products",
+      "duration": 4.64,
+      "offset": 614.96,
+      "lang": "en"
+    },
+    {
+      "text": "and you don&#39;t have to pay as much for",
+      "duration": 7.84,
+      "offset": 616.48,
+      "lang": "en"
+    },
+    {
+      "text": "software. Um I think human creativity",
+      "duration": 6.56,
+      "offset": 619.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh flourishes when more people have",
+      "duration": 3.76,
+      "offset": 624.32,
+      "lang": "en"
+    },
+    {
+      "text": "access to creating and that&#39;s why we&#39;re",
+      "duration": 5.2,
+      "offset": 626.16,
+      "lang": "en"
+    },
+    {
+      "text": "building lovable. But who I do think",
+      "duration": 8.64,
+      "offset": 628.08,
+      "lang": "en"
+    },
+    {
+      "text": "that some SAS companies that um are",
+      "duration": 8.4,
+      "offset": 631.36,
+      "lang": "en"
+    },
+    {
+      "text": "relying on hefty margins today are going",
+      "duration": 4.88,
+      "offset": 636.72,
+      "lang": "en"
+    },
+    {
+      "text": "to naturally see a decline in the",
+      "duration": 5.6,
+      "offset": 639.76,
+      "lang": "en"
+    },
+    {
+      "text": "revenue um when there&#39;s more choice",
+      "duration": 7.12,
+      "offset": 641.6,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s more I mean some single people",
+      "duration": 5.44,
+      "offset": 645.36,
+      "lang": "en"
+    },
+    {
+      "text": "startups with where with where the",
+      "duration": 4.48,
+      "offset": 648.72,
+      "lang": "en"
+    },
+    {
+      "text": "founder has great product taste and they",
+      "duration": 4.32,
+      "offset": 650.8,
+      "lang": "en"
+    },
+    {
+      "text": "can work tightly with AI to create a",
+      "duration": 4.88,
+      "offset": 653.2,
+      "lang": "en"
+    },
+    {
+      "text": "superior product that consumers prefer.",
+      "duration": 6.08,
+      "offset": 655.12,
+      "lang": "en"
+    },
+    {
+      "text": "Um and that is being sold at a lower",
+      "duration": 3.68,
+      "offset": 658.08,
+      "lang": "en"
+    },
+    {
+      "text": "price.",
+      "duration": 2.56,
+      "offset": 661.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. And I know you&#39;re very passionate",
+      "duration": 4.32,
+      "offset": 661.76,
+      "lang": "en"
+    },
+    {
+      "text": "about um lovable not just changing who",
+      "duration": 4.0,
+      "offset": 663.76,
+      "lang": "en"
+    },
+    {
+      "text": "gets to build but where innovation",
+      "duration": 4.48,
+      "offset": 666.08,
+      "lang": "en"
+    },
+    {
+      "text": "happens. Um basically anywhere with an",
+      "duration": 4.64,
+      "offset": 667.76,
+      "lang": "en"
+    },
+    {
+      "text": "internet connection can essentially",
+      "duration": 4.0,
+      "offset": 670.56,
+      "lang": "en"
+    },
+    {
+      "text": "become an innovation hub. Um I&#39;m",
+      "duration": 4.24,
+      "offset": 672.4,
+      "lang": "en"
+    },
+    {
+      "text": "originally from Cairo, so I&#39;m thinking",
+      "duration": 3.76,
+      "offset": 674.56,
+      "lang": "en"
+    },
+    {
+      "text": "back, you know, back in Egypt.",
+      "duration": 3.68,
+      "offset": 676.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Are you already seeing that? And I guess",
+      "duration": 3.92,
+      "offset": 678.32,
+      "lang": "en"
+    },
+    {
+      "text": "what are the second order effects when",
+      "duration": 3.28,
+      "offset": 680.32,
+      "lang": "en"
+    },
+    {
+      "text": "that becomes the case?",
+      "duration": 3.76,
+      "offset": 682.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Um it&#39;s it&#39;s very interesting in",
+      "duration": 6.4,
+      "offset": 683.6,
+      "lang": "en"
+    },
+    {
+      "text": "how our tools is much broader adoption",
+      "duration": 6.24,
+      "offset": 686.0,
+      "lang": "en"
+    },
+    {
+      "text": "compared to other SAS across the globe.",
+      "duration": 6.32,
+      "offset": 690.0,
+      "lang": "en"
+    },
+    {
+      "text": "So South America is enormous, Asia,",
+      "duration": 7.52,
+      "offset": 692.24,
+      "lang": "en"
+    },
+    {
+      "text": "Africa, uh like all countries. I I think",
+      "duration": 4.64,
+      "offset": 696.32,
+      "lang": "en"
+    },
+    {
+      "text": "we looked at a map like we couldn&#39;t see",
+      "duration": 2.8,
+      "offset": 699.76,
+      "lang": "en"
+    },
+    {
+      "text": "anyone from North Korea, but it&#39;s",
+      "duration": 3.2,
+      "offset": 700.96,
+      "lang": "en"
+    },
+    {
+      "text": "because they use VPNs in North Korea",
+      "duration": 3.36,
+      "offset": 702.56,
+      "lang": "en"
+    },
+    {
+      "text": "apparently.",
+      "duration": 5.76,
+      "offset": 704.16,
+      "lang": "en"
+    },
+    {
+      "text": "Um and we&#39;re we&#39;re seeing a lot of",
+      "duration": 6.0,
+      "offset": 705.92,
+      "lang": "en"
+    },
+    {
+      "text": "entrepreneurs building real businesses",
+      "duration": 4.72,
+      "offset": 709.92,
+      "lang": "en"
+    },
+    {
+      "text": "from all of these places. uh where it",
+      "duration": 5.68,
+      "offset": 711.92,
+      "lang": "en"
+    },
+    {
+      "text": "was I mean very hard to find people who",
+      "duration": 5.04,
+      "offset": 714.64,
+      "lang": "en"
+    },
+    {
+      "text": "are really good at creating software",
+      "duration": 5.6,
+      "offset": 717.6,
+      "lang": "en"
+    },
+    {
+      "text": "that wanted to get employed in their",
+      "duration": 5.28,
+      "offset": 719.68,
+      "lang": "en"
+    },
+    {
+      "text": "like in the local currencies to to a",
+      "duration": 5.52,
+      "offset": 723.2,
+      "lang": "en"
+    },
+    {
+      "text": "large extent and now with a superior",
+      "duration": 4.96,
+      "offset": 724.96,
+      "lang": "en"
+    },
+    {
+      "text": "technical co-founder that works",
+      "duration": 4.24,
+      "offset": 728.72,
+      "lang": "en"
+    },
+    {
+      "text": "extremely fast um there this is a",
+      "duration": 5.12,
+      "offset": 729.92,
+      "lang": "en"
+    },
+    {
+      "text": "clearly an example of AI actually",
+      "duration": 3.84,
+      "offset": 732.96,
+      "lang": "en"
+    },
+    {
+      "text": "empowering people which I&#39;m very excited",
+      "duration": 2.08,
+      "offset": 735.04,
+      "lang": "en"
+    },
+    {
+      "text": "about.",
+      "duration": 1.76,
+      "offset": 736.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I love that. All right, I have a",
+      "duration": 2.96,
+      "offset": 737.12,
+      "lang": "en"
+    },
+    {
+      "text": "confession to make.",
+      "duration": 3.76,
+      "offset": 738.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I&#39;ve spent a lot of years learning how",
+      "duration": 4.24,
+      "offset": 740.08,
+      "lang": "en"
+    },
+    {
+      "text": "to code. I did four years of undergrad",
+      "duration": 3.52,
+      "offset": 742.32,
+      "lang": "en"
+    },
+    {
+      "text": "as a computer scientist, two years of a",
+      "duration": 2.96,
+      "offset": 744.32,
+      "lang": "en"
+    },
+    {
+      "text": "master&#39;s degree and then another five",
+      "duration": 3.2,
+      "offset": 745.84,
+      "lang": "en"
+    },
+    {
+      "text": "years of a PhD. So that&#39;s more than a",
+      "duration": 4.16,
+      "offset": 747.28,
+      "lang": "en"
+    },
+    {
+      "text": "decade of my life. So I want you to be",
+      "duration": 5.36,
+      "offset": 749.04,
+      "lang": "en"
+    },
+    {
+      "text": "honest. Will there be will there be a",
+      "duration": 4.64,
+      "offset": 751.44,
+      "lang": "en"
+    },
+    {
+      "text": "need for software engineers and computer",
+      "duration": 3.28,
+      "offset": 754.4,
+      "lang": "en"
+    },
+    {
+      "text": "scientists?",
+      "duration": 3.6,
+      "offset": 756.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um so if you take",
+      "duration": 4.64,
+      "offset": 757.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I know.",
+      "duration": 4.96,
+      "offset": 759.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So so if you take um software",
+      "duration": 4.48,
+      "offset": 762.32,
+      "lang": "en"
+    },
+    {
+      "text": "development right what is happening is",
+      "duration": 3.84,
+      "offset": 764.64,
+      "lang": "en"
+    },
+    {
+      "text": "that everyone is becoming a developer",
+      "duration": 5.68,
+      "offset": 766.8,
+      "lang": "en"
+    },
+    {
+      "text": "software developer. Um, and what that",
+      "duration": 6.8,
+      "offset": 768.48,
+      "lang": "en"
+    },
+    {
+      "text": "means is that if you&#39;re great at",
+      "duration": 5.76,
+      "offset": 772.48,
+      "lang": "en"
+    },
+    {
+      "text": "understanding the technical details, um,",
+      "duration": 4.4,
+      "offset": 775.28,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re also going to be a great great",
+      "duration": 2.96,
+      "offset": 778.24,
+      "lang": "en"
+    },
+    {
+      "text": "software develop developer in the",
+      "duration": 4.88,
+      "offset": 779.68,
+      "lang": "en"
+    },
+    {
+      "text": "future, uh, to really shine.",
+      "duration": 5.28,
+      "offset": 781.2,
+      "lang": "en"
+    },
+    {
+      "text": "I encourage everyone to become more of a",
+      "duration": 4.08,
+      "offset": 784.56,
+      "lang": "en"
+    },
+    {
+      "text": "generalist and learn it all. And that&#39;s",
+      "duration": 4.88,
+      "offset": 786.48,
+      "lang": "en"
+    },
+    {
+      "text": "easier than ever before these days. Um,",
+      "duration": 5.6,
+      "offset": 788.64,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;re seeing the best engineers,",
+      "duration": 4.56,
+      "offset": 791.36,
+      "lang": "en"
+    },
+    {
+      "text": "they are learning more of the product",
+      "duration": 4.88,
+      "offset": 794.24,
+      "lang": "en"
+    },
+    {
+      "text": "manager and the designer skill sets. Um",
+      "duration": 5.84,
+      "offset": 795.92,
+      "lang": "en"
+    },
+    {
+      "text": "but if you if you&#39;re like have a",
+      "duration": 4.8,
+      "offset": 799.12,
+      "lang": "en"
+    },
+    {
+      "text": "technical background then you you&#39;re",
+      "duration": 6.48,
+      "offset": 801.76,
+      "lang": "en"
+    },
+    {
+      "text": "often times uh have a stronger",
+      "duration": 6.8,
+      "offset": 803.92,
+      "lang": "en"
+    },
+    {
+      "text": "ability to translate",
+      "duration": 4.08,
+      "offset": 808.24,
+      "lang": "en"
+    },
+    {
+      "text": "real world problems to technical",
+      "duration": 3.52,
+      "offset": 810.72,
+      "lang": "en"
+    },
+    {
+      "text": "solutions independent of which tools",
+      "duration": 3.52,
+      "offset": 812.32,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re using. So you I&#39;m sure you have",
+      "duration": 3.84,
+      "offset": 814.24,
+      "lang": "en"
+    },
+    {
+      "text": "an edge. You&#39;re a better vibe coder than",
+      "duration": 4.24,
+      "offset": 815.84,
+      "lang": "en"
+    },
+    {
+      "text": "all most people out there because of",
+      "duration": 2.72,
+      "offset": 818.08,
+      "lang": "en"
+    },
+    {
+      "text": "your background.",
+      "duration": 1.68,
+      "offset": 820.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Well, let&#39;s talk about that because",
+      "duration": 2.96,
+      "offset": 820.8,
+      "lang": "en"
+    },
+    {
+      "text": "traditional coding is very structured.",
+      "duration": 4.96,
+      "offset": 821.76,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s rigid. Um it&#39;s logical. But vibe",
+      "duration": 4.32,
+      "offset": 823.76,
+      "lang": "en"
+    },
+    {
+      "text": "coding feels I don&#39;t know a little bit",
+      "duration": 3.36,
+      "offset": 826.72,
+      "lang": "en"
+    },
+    {
+      "text": "more intuitive, fluid, even",
+      "duration": 4.56,
+      "offset": 828.08,
+      "lang": "en"
+    },
+    {
+      "text": "conversational, emotional um for",
+      "duration": 4.56,
+      "offset": 830.08,
+      "lang": "en"
+    },
+    {
+      "text": "everybody here in the audience. What",
+      "duration": 4.24,
+      "offset": 832.64,
+      "lang": "en"
+    },
+    {
+      "text": "makes an exceptional vibe coder?",
+      "duration": 3.68,
+      "offset": 834.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; We all need to be that.",
+      "duration": 4.64,
+      "offset": 836.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; True. So um it still requires like a lot",
+      "duration": 5.44,
+      "offset": 838.32,
+      "lang": "en"
+    },
+    {
+      "text": "of structured analytical critical",
+      "duration": 6.16,
+      "offset": 841.52,
+      "lang": "en"
+    },
+    {
+      "text": "thinking I would say. Um, so if you if",
+      "duration": 5.84,
+      "offset": 843.76,
+      "lang": "en"
+    },
+    {
+      "text": "you take a product manager as an",
+      "duration": 4.0,
+      "offset": 847.68,
+      "lang": "en"
+    },
+    {
+      "text": "example, uh, they&#39;re really really good",
+      "duration": 3.12,
+      "offset": 849.6,
+      "lang": "en"
+    },
+    {
+      "text": "product managers and then they&#39;re",
+      "duration": 2.88,
+      "offset": 851.68,
+      "lang": "en"
+    },
+    {
+      "text": "product managers that just add more",
+      "duration": 3.28,
+      "offset": 852.72,
+      "lang": "en"
+    },
+    {
+      "text": "features into the product until it&#39;s",
+      "duration": 5.6,
+      "offset": 854.56,
+      "lang": "en"
+    },
+    {
+      "text": "bloated and unintuitive to use. And uh,",
+      "duration": 6.32,
+      "offset": 856.0,
+      "lang": "en"
+    },
+    {
+      "text": "the same is true for when you&#39;re vibe",
+      "duration": 4.0,
+      "offset": 860.16,
+      "lang": "en"
+    },
+    {
+      "text": "coding. you you should break down the",
+      "duration": 4.88,
+      "offset": 862.32,
+      "lang": "en"
+    },
+    {
+      "text": "problem of um who who is going to use",
+      "duration": 4.48,
+      "offset": 864.16,
+      "lang": "en"
+    },
+    {
+      "text": "this product. What are the most",
+      "duration": 3.52,
+      "offset": 867.2,
+      "lang": "en"
+    },
+    {
+      "text": "important uh features and what and",
+      "duration": 5.36,
+      "offset": 868.64,
+      "lang": "en"
+    },
+    {
+      "text": "figuring out what&#39;s the right flow for",
+      "duration": 7.52,
+      "offset": 870.72,
+      "lang": "en"
+    },
+    {
+      "text": "them to um get get solve their job to be",
+      "duration": 7.04,
+      "offset": 874.0,
+      "lang": "en"
+    },
+    {
+      "text": "done and and be able to dig into some of",
+      "duration": 4.24,
+      "offset": 878.24,
+      "lang": "en"
+    },
+    {
+      "text": "the more complex features only when they",
+      "duration": 3.52,
+      "offset": 881.04,
+      "lang": "en"
+    },
+    {
+      "text": "need to. Uh that that requires a lot of",
+      "duration": 4.88,
+      "offset": 882.48,
+      "lang": "en"
+    },
+    {
+      "text": "thinking and uh expert building many",
+      "duration": 5.2,
+      "offset": 884.56,
+      "lang": "en"
+    },
+    {
+      "text": "applications is the best way to do so.",
+      "duration": 5.84,
+      "offset": 887.36,
+      "lang": "en"
+    },
+    {
+      "text": "So um I mean vibcon is much easier to",
+      "duration": 6.08,
+      "offset": 889.76,
+      "lang": "en"
+    },
+    {
+      "text": "learn but it still takes a lot a lot of",
+      "duration": 5.44,
+      "offset": 893.2,
+      "lang": "en"
+    },
+    {
+      "text": "patience to um understand like some of",
+      "duration": 3.92,
+      "offset": 895.84,
+      "lang": "en"
+    },
+    {
+      "text": "the technicalities in",
+      "duration": 3.12,
+      "offset": 898.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I think patience is interesting patience",
+      "duration": 4.32,
+      "offset": 899.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; is as as we start collaborating more and",
+      "duration": 4.72,
+      "offset": 901.76,
+      "lang": "en"
+    },
+    {
+      "text": "more with these AIs. I I think patience",
+      "duration": 4.4,
+      "offset": 904.08,
+      "lang": "en"
+    },
+    {
+      "text": "is a is an interesting skill",
+      "duration": 4.08,
+      "offset": 906.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; 100% and I think we aren&#39;t as good as it",
+      "duration": 4.08,
+      "offset": 908.48,
+      "lang": "en"
+    },
+    {
+      "text": "as we used to be as as humans this",
+      "duration": 6.4,
+      "offset": 910.56,
+      "lang": "en"
+    },
+    {
+      "text": "decade. Um like if you what I tell all",
+      "duration": 6.08,
+      "offset": 912.56,
+      "lang": "en"
+    },
+    {
+      "text": "my friends who are like oh but is a",
+      "duration": 2.96,
+      "offset": 916.96,
+      "lang": "en"
+    },
+    {
+      "text": "going to take my job. I just tell them",
+      "duration": 4.4,
+      "offset": 918.64,
+      "lang": "en"
+    },
+    {
+      "text": "like no look sit down for one full day",
+      "duration": 5.76,
+      "offset": 919.92,
+      "lang": "en"
+    },
+    {
+      "text": "or like a few days even better with a",
+      "duration": 4.08,
+      "offset": 923.04,
+      "lang": "en"
+    },
+    {
+      "text": "new AI tool.",
+      "duration": 3.76,
+      "offset": 925.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And if you just do that you&#39;re going to",
+      "duration": 4.96,
+      "offset": 927.12,
+      "lang": "en"
+    },
+    {
+      "text": "be better than almost everyone else and",
+      "duration": 4.72,
+      "offset": 929.44,
+      "lang": "en"
+    },
+    {
+      "text": "probably everyone in your company uh at",
+      "duration": 3.76,
+      "offset": 932.08,
+      "lang": "en"
+    },
+    {
+      "text": "using this new tool. And that&#39;s going to",
+      "duration": 3.12,
+      "offset": 934.16,
+      "lang": "en"
+    },
+    {
+      "text": "give you give you such an edge and such",
+      "duration": 5.36,
+      "offset": 935.84,
+      "lang": "en"
+    },
+    {
+      "text": "a superpower. Uh, and I mean with with",
+      "duration": 6.48,
+      "offset": 937.28,
+      "lang": "en"
+    },
+    {
+      "text": "tools like Lovable, you can just try to",
+      "duration": 4.08,
+      "offset": 941.2,
+      "lang": "en"
+    },
+    {
+      "text": "build something when you get confused,",
+      "duration": 3.6,
+      "offset": 943.76,
+      "lang": "en"
+    },
+    {
+      "text": "which you will get the first times you",
+      "duration": 4.96,
+      "offset": 945.28,
+      "lang": "en"
+    },
+    {
+      "text": "do it, just ask the AI like tell it what",
+      "duration": 4.32,
+      "offset": 947.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re thinking, like why isn&#39;t this",
+      "duration": 3.28,
+      "offset": 950.24,
+      "lang": "en"
+    },
+    {
+      "text": "doing what I&#39;m thinking it should do?",
+      "duration": 3.44,
+      "offset": 951.68,
+      "lang": "en"
+    },
+    {
+      "text": "And you just learn so rapidly. And if",
+      "duration": 3.2,
+      "offset": 953.52,
+      "lang": "en"
+    },
+    {
+      "text": "you have that patience and determination",
+      "duration": 3.84,
+      "offset": 955.12,
+      "lang": "en"
+    },
+    {
+      "text": "to become really good at an AI tool,",
+      "duration": 5.6,
+      "offset": 956.72,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s um is extremely rapid advance in",
+      "duration": 4.16,
+      "offset": 958.96,
+      "lang": "en"
+    },
+    {
+      "text": "your productivity.",
+      "duration": 3.28,
+      "offset": 962.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Amazing. Um, we just heard from Bernne",
+      "duration": 4.72,
+      "offset": 963.12,
+      "lang": "en"
+    },
+    {
+      "text": "Brown. Um, you know, she talked about",
+      "duration": 4.0,
+      "offset": 965.6,
+      "lang": "en"
+    },
+    {
+      "text": "empathy. So, I want to kind of dig into",
+      "duration": 3.92,
+      "offset": 967.84,
+      "lang": "en"
+    },
+    {
+      "text": "that. If AI can write the code, does",
+      "duration": 6.32,
+      "offset": 969.6,
+      "lang": "en"
+    },
+    {
+      "text": "empathy become our superpower as humans?",
+      "duration": 6.96,
+      "offset": 971.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um, yes. I I mean, at some point maybe",
+      "duration": 5.12,
+      "offset": 975.92,
+      "lang": "en"
+    },
+    {
+      "text": "the computers are have more empathy than",
+      "duration": 3.84,
+      "offset": 978.72,
+      "lang": "en"
+    },
+    {
+      "text": "us. But so far,",
+      "duration": 3.68,
+      "offset": 981.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I I spent like 25 years trying to build",
+      "duration": 4.4,
+      "offset": 982.56,
+      "lang": "en"
+    },
+    {
+      "text": "empathy into machines. So, I we&#39;re",
+      "duration": 3.12,
+      "offset": 984.72,
+      "lang": "en"
+    },
+    {
+      "text": "working on it.",
+      "duration": 3.04,
+      "offset": 986.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I think completely true what you&#39;re",
+      "duration": 5.84,
+      "offset": 987.84,
+      "lang": "en"
+    },
+    {
+      "text": "saying. Um the biggest bottlenecks for",
+      "duration": 7.6,
+      "offset": 990.0,
+      "lang": "en"
+    },
+    {
+      "text": "building good software products is some",
+      "duration": 6.72,
+      "offset": 993.68,
+      "lang": "en"
+    },
+    {
+      "text": "kind of product judgment and just",
+      "duration": 6.08,
+      "offset": 997.6,
+      "lang": "en"
+    },
+    {
+      "text": "empathy for what your customers want and",
+      "duration": 5.84,
+      "offset": 1000.4,
+      "lang": "en"
+    },
+    {
+      "text": "translating that user requirements, user",
+      "duration": 4.64,
+      "offset": 1003.68,
+      "lang": "en"
+    },
+    {
+      "text": "needs to machines to do the execution",
+      "duration": 3.04,
+      "offset": 1006.24,
+      "lang": "en"
+    },
+    {
+      "text": "for you.",
+      "duration": 3.44,
+      "offset": 1008.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Incredible. Um looking ahead, say I",
+      "duration": 4.32,
+      "offset": 1009.28,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t know five years from now, um what",
+      "duration": 3.92,
+      "offset": 1011.76,
+      "lang": "en"
+    },
+    {
+      "text": "percent of software do you think will be",
+      "duration": 4.56,
+      "offset": 1013.6,
+      "lang": "en"
+    },
+    {
+      "text": "engineered versus vibed?",
+      "duration": 4.32,
+      "offset": 1015.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Five years.",
+      "duration": 3.92,
+      "offset": 1018.16,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. Is that too long? That&#39;s too long.",
+      "duration": 2.32,
+      "offset": 1020.0,
+      "lang": "en"
+    },
+    {
+      "text": "Okay.",
+      "duration": 3.12,
+      "offset": 1022.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. No, I think five years um in five",
+      "duration": 4.56,
+      "offset": 1022.32,
+      "lang": "en"
+    },
+    {
+      "text": "years all the new software that gets",
+      "duration": 5.76,
+      "offset": 1025.2,
+      "lang": "en"
+    },
+    {
+      "text": "built is going to be uh built explaining",
+      "duration": 6.08,
+      "offset": 1026.88,
+      "lang": "en"
+    },
+    {
+      "text": "in plain English what you want to build.",
+      "duration": 4.56,
+      "offset": 1030.96,
+      "lang": "en"
+    },
+    {
+      "text": "Um and there&#39;s probably going to be a",
+      "duration": 5.36,
+      "offset": 1032.96,
+      "lang": "en"
+    },
+    {
+      "text": "bit of like white boarding together with",
+      "duration": 4.88,
+      "offset": 1035.52,
+      "lang": "en"
+    },
+    {
+      "text": "AI of how you want the software to work",
+      "duration": 3.92,
+      "offset": 1038.32,
+      "lang": "en"
+    },
+    {
+      "text": "as well when it gets gets more detailed,",
+      "duration": 4.4,
+      "offset": 1040.4,
+      "lang": "en"
+    },
+    {
+      "text": "more technical. Um but I don&#39;t I think",
+      "duration": 5.04,
+      "offset": 1042.24,
+      "lang": "en"
+    },
+    {
+      "text": "there will be handwritten code in the",
+      "duration": 4.48,
+      "offset": 1044.8,
+      "lang": "en"
+    },
+    {
+      "text": "same sense that there&#39;s like handmade",
+      "duration": 4.4,
+      "offset": 1047.28,
+      "lang": "en"
+    },
+    {
+      "text": "clothes. This is probably not handmade",
+      "duration": 5.04,
+      "offset": 1049.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh in five years but otherwise no.",
+      "duration": 5.04,
+      "offset": 1051.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Fascinating. Okay. So if then patents",
+      "duration": 5.84,
+      "offset": 1054.32,
+      "lang": "en"
+    },
+    {
+      "text": "capital headcount no longer guarantee an",
+      "duration": 5.92,
+      "offset": 1056.72,
+      "lang": "en"
+    },
+    {
+      "text": "edge. What does and and and I guess in",
+      "duration": 5.68,
+      "offset": 1060.16,
+      "lang": "en"
+    },
+    {
+      "text": "this world where will competitive um",
+      "duration": 5.04,
+      "offset": 1062.64,
+      "lang": "en"
+    },
+    {
+      "text": "advantages come from? Is it like the",
+      "duration": 4.56,
+      "offset": 1065.84,
+      "lang": "en"
+    },
+    {
+      "text": "brand trust community scale?",
+      "duration": 5.68,
+      "offset": 1067.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. I I believe in trust being the",
+      "duration": 4.8,
+      "offset": 1070.4,
+      "lang": "en"
+    },
+    {
+      "text": "most important thing for almost any",
+      "duration": 4.0,
+      "offset": 1073.36,
+      "lang": "en"
+    },
+    {
+      "text": "company to focus on. And the way you",
+      "duration": 4.96,
+      "offset": 1075.2,
+      "lang": "en"
+    },
+    {
+      "text": "build that is by really focusing on your",
+      "duration": 5.28,
+      "offset": 1077.36,
+      "lang": "en"
+    },
+    {
+      "text": "customers and building and rapidly",
+      "duration": 4.16,
+      "offset": 1080.16,
+      "lang": "en"
+    },
+    {
+      "text": "improving a product that they they",
+      "duration": 5.04,
+      "offset": 1082.64,
+      "lang": "en"
+    },
+    {
+      "text": "trust. And that um trust and brand",
+      "duration": 6.08,
+      "offset": 1084.32,
+      "lang": "en"
+    },
+    {
+      "text": "brings people back to you. It creates a",
+      "duration": 4.64,
+      "offset": 1087.68,
+      "lang": "en"
+    },
+    {
+      "text": "a community of people helping each other",
+      "duration": 5.68,
+      "offset": 1090.4,
+      "lang": "en"
+    },
+    {
+      "text": "succeed with your product. And then like",
+      "duration": 6.64,
+      "offset": 1092.32,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to think about modes which",
+      "duration": 5.2,
+      "offset": 1096.08,
+      "lang": "en"
+    },
+    {
+      "text": "is often too like everything is",
+      "duration": 4.0,
+      "offset": 1098.96,
+      "lang": "en"
+    },
+    {
+      "text": "happening so rapidly right now so modes",
+      "duration": 3.52,
+      "offset": 1101.28,
+      "lang": "en"
+    },
+    {
+      "text": "aren&#39;t modes aren&#39;t so important to",
+      "duration": 4.64,
+      "offset": 1102.96,
+      "lang": "en"
+    },
+    {
+      "text": "think about but um there are like other",
+      "duration": 7.84,
+      "offset": 1104.8,
+      "lang": "en"
+    },
+    {
+      "text": "network effects where you build um",
+      "duration": 7.04,
+      "offset": 1107.6,
+      "lang": "en"
+    },
+    {
+      "text": "you you have exit barriers based on that",
+      "duration": 3.84,
+      "offset": 1112.64,
+      "lang": "en"
+    },
+    {
+      "text": "you have the platform where you build",
+      "duration": 4.32,
+      "offset": 1114.64,
+      "lang": "en"
+    },
+    {
+      "text": "out all your existing assets system of",
+      "duration": 4.08,
+      "offset": 1116.48,
+      "lang": "en"
+    },
+    {
+      "text": "records is of course something to think",
+      "duration": 5.2,
+      "offset": 1118.96,
+      "lang": "en"
+    },
+    {
+      "text": "about. Yeah, your tagline uh is build",
+      "duration": 6.08,
+      "offset": 1120.56,
+      "lang": "en"
+    },
+    {
+      "text": "anything and it&#39;s clear that this is",
+      "duration": 5.28,
+      "offset": 1124.16,
+      "lang": "en"
+    },
+    {
+      "text": "already unfolding. Um but I can&#39;t help",
+      "duration": 5.84,
+      "offset": 1126.64,
+      "lang": "en"
+    },
+    {
+      "text": "but wonder what happens to human",
+      "duration": 6.4,
+      "offset": 1129.44,
+      "lang": "en"
+    },
+    {
+      "text": "ambition, collaboration, struggling,",
+      "duration": 5.92,
+      "offset": 1132.48,
+      "lang": "en"
+    },
+    {
+      "text": "like all of these qualities that are so",
+      "duration": 6.08,
+      "offset": 1135.84,
+      "lang": "en"
+    },
+    {
+      "text": "important to personal growth. Um yeah,",
+      "duration": 6.48,
+      "offset": 1138.4,
+      "lang": "en"
+    },
+    {
+      "text": "right. Yeah. Are we are we basically",
+      "duration": 4.96,
+      "offset": 1141.92,
+      "lang": "en"
+    },
+    {
+      "text": "liberate you know are we unlocking human",
+      "duration": 3.76,
+      "offset": 1144.88,
+      "lang": "en"
+    },
+    {
+      "text": "potential or are we accidentally",
+      "duration": 4.08,
+      "offset": 1146.88,
+      "lang": "en"
+    },
+    {
+      "text": "engineering ourselves away from what",
+      "duration": 4.56,
+      "offset": 1148.64,
+      "lang": "en"
+    },
+    {
+      "text": "makes us truly human?",
+      "duration": 5.52,
+      "offset": 1150.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Look so I it&#39;s important to me that as",
+      "duration": 5.36,
+      "offset": 1153.2,
+      "lang": "en"
+    },
+    {
+      "text": "AI becomes more powerful and it gets do",
+      "duration": 5.92,
+      "offset": 1156.48,
+      "lang": "en"
+    },
+    {
+      "text": "us more things. Human creativity is",
+      "duration": 6.8,
+      "offset": 1158.56,
+      "lang": "en"
+    },
+    {
+      "text": "still the driver of what we put out",
+      "duration": 5.36,
+      "offset": 1162.4,
+      "lang": "en"
+    },
+    {
+      "text": "there in the world. Um, and that",
+      "duration": 6.0,
+      "offset": 1165.36,
+      "lang": "en"
+    },
+    {
+      "text": "empowers us to feel self actualized and",
+      "duration": 5.28,
+      "offset": 1167.76,
+      "lang": "en"
+    },
+    {
+      "text": "that that&#39;s a big part of the that&#39;s the",
+      "duration": 4.56,
+      "offset": 1171.36,
+      "lang": "en"
+    },
+    {
+      "text": "mission of why we&#39;re building lovable.",
+      "duration": 4.32,
+      "offset": 1173.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Last question.",
+      "duration": 4.64,
+      "offset": 1175.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um, when we look back, you know, a",
+      "duration": 5.84,
+      "offset": 1177.36,
+      "lang": "en"
+    },
+    {
+      "text": "decade or a century from now, VIP coding",
+      "duration": 5.04,
+      "offset": 1180.56,
+      "lang": "en"
+    },
+    {
+      "text": "may be remembered as the kind of turning",
+      "duration": 6.08,
+      "offset": 1183.2,
+      "lang": "en"
+    },
+    {
+      "text": "point um around creation. So, I&#39;ve heard",
+      "duration": 5.6,
+      "offset": 1185.6,
+      "lang": "en"
+    },
+    {
+      "text": "you say that you wrote something down",
+      "duration": 4.0,
+      "offset": 1189.28,
+      "lang": "en"
+    },
+    {
+      "text": "recently about what you want lovable to",
+      "duration": 4.08,
+      "offset": 1191.2,
+      "lang": "en"
+    },
+    {
+      "text": "mean uh for the future and for future",
+      "duration": 3.52,
+      "offset": 1193.28,
+      "lang": "en"
+    },
+    {
+      "text": "generations.",
+      "duration": 3.52,
+      "offset": 1195.28,
+      "lang": "en"
+    },
+    {
+      "text": "Can you share that with everyone?",
+      "duration": 5.36,
+      "offset": 1196.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I mean, we we we focus on building a",
+      "duration": 5.6,
+      "offset": 1198.8,
+      "lang": "en"
+    },
+    {
+      "text": "very good product, a generational",
+      "duration": 5.04,
+      "offset": 1202.16,
+      "lang": "en"
+    },
+    {
+      "text": "product that I can uh tell my",
+      "duration": 4.24,
+      "offset": 1204.4,
+      "lang": "en"
+    },
+    {
+      "text": "grandchildren of how we built it and",
+      "duration": 3.84,
+      "offset": 1207.2,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re still using it. And that&#39;s what",
+      "duration": 4.88,
+      "offset": 1208.64,
+      "lang": "en"
+    },
+    {
+      "text": "we want to achieve and empower the 99%",
+      "duration": 4.24,
+      "offset": 1211.04,
+      "lang": "en"
+    },
+    {
+      "text": "to be part of this this the creation",
+      "duration": 2.8,
+      "offset": 1213.52,
+      "lang": "en"
+    },
+    {
+      "text": "economy.",
+      "duration": 3.2,
+      "offset": 1215.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I love that. very inspiring. Thank you.",
+      "duration": 4.38,
+      "offset": 1216.32,
+      "lang": "en"
+    },
+    {
+      "text": "Thank you for this awesome conversation.",
+      "duration": 5.37,
+      "offset": 1218.48,
+      "lang": "en"
+    },
+    {
+      "text": "[Applause]",
+      "duration": 3.15,
+      "offset": 1220.7,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 6.8,
+      "offset": 1227.53,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 5.53,
+      "offset": 1237.82,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "_lEj4aNHAzw",
+  "title": "How He Vibe Coded His Way To Y Combinator",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:17:02",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:17:02"
+}

@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 33,
+  "total_size_kb": 156,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":4,"latest":"2025-11-17_Synthetic-Data-Future-of-AI-Aidan-Gomez-Grit.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_podcast_episodes.json","size_kb":12},{"path":"_validation.json","size_kb":4},{"path":"profile.md","size_kb":4},{"path":"_collection_report.md","size_kb":3},{"path":"financials.md","size_kb":2},{"path":"sources/founder/httpscoherecomabout.md","size_kb":2},{"path":"sources/founder/extracted_from_citations.md","size_kb":2},{"path":"_validation.md","size_kb":2},{"path":"sources/founder/httpswwwredpointcomcontent_hubvideoceo_of_cohere_aidan_gomez.md","size_kb":1},{"path":"sources/podcasts/2025-08-14_Coherent-Falls-Deere-Drops-Tapestry-Down-on-Outloo.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

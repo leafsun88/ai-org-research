@@ -1,0 +1,16 @@
+{
+  "video_id": "R0Wqf2eLGD4",
+  "title": "【ゲスト:Niji（ベトナム 人アイドル）】ベトナム人にインタビュー！ベトナム人と合わせましょう！〜勝手にASEAN会議〜#31",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:05:50",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:05:50"
+}

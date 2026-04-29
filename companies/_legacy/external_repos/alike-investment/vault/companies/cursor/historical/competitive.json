@@ -1,0 +1,67 @@
+{
+  "company": "Cursor",
+  "category": "competitive",
+  "generated": "2026-04-03",
+  "entries": [
+    {
+      "id": "cursor_comp_001",
+      "timestamp": "2026-03-01",
+      "company": "Cursor",
+      "content": "Claude Code达$2.5B run rate，直接威胁Cursor核心市场",
+      "detail": "Anthropic的Claude Code——一个终端级AI编程agent——在2026年3月已达$2.5B run rate和300K+企业客户。Fortune称Cursor处于'十字路口'。核心争论：未来是IDE还是terminal agents？GitHub Copilot已集成Claude Code进Agent HQ。'Cursor is dead'论调在2026年2月出现。Cursor作为Anthropic最大客户，面临供应商变竞争对手的结构性困境。Anthropic引入'Priority Tier'定价提高Cursor使用成本。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "Fortune 2026.03"},
+      "dimensions": ["D7"],
+      "tags": ["claude-code", "anthropic-competition", "existential-threat"],
+      "sentiment": "negative",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_comp_002",
+      "timestamp": "2026-03-01",
+      "company": "Cursor",
+      "content": "GitHub Copilot拥有20M+用户和42%市场份额的分发优势",
+      "detail": "GitHub Copilot拥有2000万+用户、470万付费用户、42%市场份额。覆盖Fortune 100的90%。价格更低（$10/月 vs Cursor $20/月）。多IDE支持（VS Code、JetBrains、Neovim）。微软背书+GitHub生态深度集成是Cursor难以复制的分发优势。但在产品体验上，多个对比评测认为Cursor的多文件编辑和Agent模式明显领先。",
+      "source": {"type": "product_comparison", "credibility": "S2", "url": "builder.io, kanerika.com"},
+      "dimensions": ["D7"],
+      "tags": ["github-copilot", "microsoft", "market-share"],
+      "sentiment": "negative",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_comp_003",
+      "timestamp": "2025-08-01",
+      "company": "Cursor",
+      "content": "Cursor的供应商困境：COGS钉死在第三方模型定价上",
+      "detail": "MBI Deep Dives分析Cursor面临的双重困境：(1)用户期望最好的编程性能=依赖前沿模型；(2)模型定价由OpenAI/Anthropic控制，Cursor无法控制两个关键变量（前沿能力和token定价）。如果降级到更便宜模型=用户流失；保持前沿模型+保持定价=变动成本爆炸。Anthropic引入Priority Tier后，Cursor被迫提价和限制用量。Truell的回应是构建自研模型层+自定义编排，用数据飞轮构建竞争壁垒。",
+      "source": {"type": "substack", "credibility": "S2", "url": "https://mbideepdives.substack.com/p/cursors-conundrum"},
+      "dimensions": ["D7"],
+      "tags": ["supplier-risk", "cogs-pressure", "model-dependency"],
+      "sentiment": "negative",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_comp_004",
+      "timestamp": "2026-02-01",
+      "company": "Cursor",
+      "content": "Cursor context重构：token使用减少46.9%",
+      "detail": "Truell在Twitter披露Cursor重构了agent使用context的方式：'Instead of stuffing everything into a prompt, Cursor dynamically discovers context via files, tools, and history, cutting token usage by 46.9% and freeing up more space for the agent to work.' 这是对供应商成本压力的直接技术回应——通过减少token消耗降低COGS，同时提升产品能力。",
+      "source": {"type": "twitter", "credibility": "S3", "url": "Twitter @mntruell 2026.02"},
+      "dimensions": ["D5", "D7"],
+      "tags": ["context-engineering", "cost-optimization", "technical-moat"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_comp_005",
+      "timestamp": "2026-03-09",
+      "company": "Cursor",
+      "content": "Accel投资人Miles Clements公开反驳'Cursor is Dead'论调",
+      "detail": "Accel合伙人Miles Clements在20VC播客中明确表示'Cursor is Dead is Total BS'，并解释为何Cursor自研模型方向正确。讨论了在$27B估值投资Cursor的上行空间。Accel参与了Cursor的Series D领投。这是来自机构投资人的公开背书，但需注意利益冲突——Accel是Cursor的重要股东。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "20VC 2026-03-09"},
+      "dimensions": ["D7"],
+      "tags": ["investor-sentiment", "accel", "market-narrative"],
+      "sentiment": "positive",
+      "significance": "low"
+    }
+  ]
+}

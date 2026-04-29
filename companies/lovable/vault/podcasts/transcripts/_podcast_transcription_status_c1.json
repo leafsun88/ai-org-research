@@ -1,0 +1,706 @@
+{
+  "ticker": "LOVABLE",
+  "generated_at": "2026-04-21T15:25:16",
+  "retry_rounds": 3,
+  "min_duration_min": 10,
+  "total_records": 17,
+  "success_records": 17,
+  "skipped_records": 0,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "Why 2026 Is the Year of the AI Builder with Lovable CEO Anton Osika",
+      "date": "2025-12-28",
+      "podcast": "The AI Daily Brief: Artificial Intelligence News and Analysis",
+      "audio_url": "https://anchor.fm/s/f7cac464/podcast/play/113194200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-28%2F415101659-44100-2-272c22e1a9a51.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-28_Why-2026-Is-the-Year-of-the-AI-Builder-with-Lovable-CEO-Anto.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "He Built Lovable, the $6B AI Company Letting Anyone Create Software | Anton Osika",
+      "date": "2026-02-18",
+      "podcast": "The AI Download",
+      "audio_url": "https://media.transistor.fm/041d7af3/c08e9d5c.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2026-02-18_He-Built-Lovable-the-6B-AI-Company-Letting-Anyone-Create-Sof.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Vibe coding with Lovable's CEO Anton Osika",
+      "date": "2025-09-11",
+      "podcast": "The Times Tech Podcast",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68c2fe6f6078db92015bbe4f/media.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-09-11_Vibe-coding-with-Lovables-CEO-Anton-Osika.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Building Lovable With Anton Osika: The Power Of Simplicity,  AI As A Technical Co-Founder, And Why 'Vibe Coding' Needs A New Name",
+      "date": "2026-03-10",
+      "podcast": "Building One with Tomer Cohen",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/LI8998760739.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2026-03-10_Building-Lovable-With-Anton-Osika-The-Power-Of-Simplicity--A.md"
+    },
+    {
+      "status": "success",
+      "title": "Vibe coding and the one-person start-up, with Lovable's Anton Osika",
+      "date": "2025-10-15",
+      "podcast": "Pioneers of AI",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/47119dde-c9ee-90b2-9eb9-0882f63f3490/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav",
+      "source_audio_url": "https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.md",
+      "chars": 20314,
+      "task_id": "d4ffbeb3-fe5c-46d8-8ab3-a0a667965d48",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "groq:https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "dashscope:https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "dashscope:https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/b6acbebe-16a2-9551-ba84-c9a5ce43e87f/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/2c7e0859-7cb6-9202-8cb2-2e0ee610b777/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/47119dde-c9ee-90b2-9eb9-0882f63f3490/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "groq",
+          "url": "https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Transcription polling timeout after 900s"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/b6acbebe-16a2-9551-ba84-c9a5ce43e87f/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+          "source_url": "https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/2c7e0859-7cb6-9202-8cb2-2e0ee610b777/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+          "source_url": "https://prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/pscrb.fm/rss/p/rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/47119dde-c9ee-90b2-9eb9-0882f63f3490/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav",
+          "source_url": "https://rss.art19.com/episodes/c63166b5-2178-4719-ab91-d7789f248cd7.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-10-15_Vibe-coding-and-the-one-person-start-up-with-Lovables-Anton.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "20VC: Lovable CEO Anton Osika on $120M in ARR in 7 Months | The Honest Truth About Defensibility and Unit Economics for AI Startups | The State of Foundation Models: Long Grok, Short OpenAI, Why | Replit vs Lovable vs Bolt: What Happens",
+      "date": "2025-08-18",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://content.libsyn.com/p/4/9/6/4964a4ad64504870/Anton_Osika__Lovable_2.mp3?c_id=192004685&cs_id=192004685&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759159&Signature=MLrNyphDyCFmHNUJHZnAtZ1WJmM~BjseONXiqj4zqCZiaAT1qAWql1cCVC8QmMnyIxcpiYTjpXfarG2HnQZKjp7fFr7xgbaUTQZKeuFWSwMHRGjTM3nrEA8yKQ3ThEh5Pb9zhUHXbu3faig9QUGtI2MHtp2jdv~j9Pk1bFG~8DeSzVJLyfNZg0fnMdVGjH6LEDRhQFrxs8yZSTyr-3hfXmsS2gPiEQ-Xe63p0hXPViNAh-tM~isAPseec5tRVF-xnpCxpYkqICcpgZUkEZTKubV-1XxwYgdE4elpj4WqhUJrqaOCRrvqyaqU3gkmFghBtxL2SXIlswI2heXSGO1Urg__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Anton_Osika__Lovable_2.mp3?dest-id=240976",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-08-18_20VC-Lovable-CEO-Anton-Osika-on-120M-in-ARR-in-7-Months--The.md",
+      "chars": 73586,
+      "task_id": "344c9dc6-d463-43d3-9104-842209c7584f",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://content.libsyn.com/p/4/9/6/4964a4ad64504870/Anton_Osika__Lovable_2.mp3?c_id=192004685&cs_id=192004685&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759159&Signature=MLrNyphDyCFmHNUJHZnAtZ1WJmM~BjseONXiqj4zqCZiaAT1qAWql1cCVC8QmMnyIxcpiYTjpXfarG2HnQZKjp7fFr7xgbaUTQZKeuFWSwMHRGjTM3nrEA8yKQ3ThEh5Pb9zhUHXbu3faig9QUGtI2MHtp2jdv~j9Pk1bFG~8DeSzVJLyfNZg0fnMdVGjH6LEDRhQFrxs8yZSTyr-3hfXmsS2gPiEQ-Xe63p0hXPViNAh-tM~isAPseec5tRVF-xnpCxpYkqICcpgZUkEZTKubV-1XxwYgdE4elpj4WqhUJrqaOCRrvqyaqU3gkmFghBtxL2SXIlswI2heXSGO1Urg__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "groq:https://traffic.libsyn.com/secure/thetwentyminutevc/Anton_Osika__Lovable_2.mp3?dest-id=240976",
+        "dashscope:https://content.libsyn.com/p/4/9/6/4964a4ad64504870/Anton_Osika__Lovable_2.mp3?c_id=192004685&cs_id=192004685&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759159&Signature=MLrNyphDyCFmHNUJHZnAtZ1WJmM~BjseONXiqj4zqCZiaAT1qAWql1cCVC8QmMnyIxcpiYTjpXfarG2HnQZKjp7fFr7xgbaUTQZKeuFWSwMHRGjTM3nrEA8yKQ3ThEh5Pb9zhUHXbu3faig9QUGtI2MHtp2jdv~j9Pk1bFG~8DeSzVJLyfNZg0fnMdVGjH6LEDRhQFrxs8yZSTyr-3hfXmsS2gPiEQ-Xe63p0hXPViNAh-tM~isAPseec5tRVF-xnpCxpYkqICcpgZUkEZTKubV-1XxwYgdE4elpj4WqhUJrqaOCRrvqyaqU3gkmFghBtxL2SXIlswI2heXSGO1Urg__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://content.libsyn.com/p/4/9/6/4964a4ad64504870/Anton_Osika__Lovable_2.mp3?c_id=192004685&cs_id=192004685&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759159&Signature=MLrNyphDyCFmHNUJHZnAtZ1WJmM~BjseONXiqj4zqCZiaAT1qAWql1cCVC8QmMnyIxcpiYTjpXfarG2HnQZKjp7fFr7xgbaUTQZKeuFWSwMHRGjTM3nrEA8yKQ3ThEh5Pb9zhUHXbu3faig9QUGtI2MHtp2jdv~j9Pk1bFG~8DeSzVJLyfNZg0fnMdVGjH6LEDRhQFrxs8yZSTyr-3hfXmsS2gPiEQ-Xe63p0hXPViNAh-tM~isAPseec5tRVF-xnpCxpYkqICcpgZUkEZTKubV-1XxwYgdE4elpj4WqhUJrqaOCRrvqyaqU3gkmFghBtxL2SXIlswI2heXSGO1Urg__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 66048516"
+        },
+        {
+          "provider": "groq",
+          "url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Anton_Osika__Lovable_2.mp3?dest-id=240976",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://content.libsyn.com/p/4/9/6/4964a4ad64504870/Anton_Osika__Lovable_2.mp3?c_id=192004685&cs_id=192004685&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759159&Signature=MLrNyphDyCFmHNUJHZnAtZ1WJmM~BjseONXiqj4zqCZiaAT1qAWql1cCVC8QmMnyIxcpiYTjpXfarG2HnQZKjp7fFr7xgbaUTQZKeuFWSwMHRGjTM3nrEA8yKQ3ThEh5Pb9zhUHXbu3faig9QUGtI2MHtp2jdv~j9Pk1bFG~8DeSzVJLyfNZg0fnMdVGjH6LEDRhQFrxs8yZSTyr-3hfXmsS2gPiEQ-Xe63p0hXPViNAh-tM~isAPseec5tRVF-xnpCxpYkqICcpgZUkEZTKubV-1XxwYgdE4elpj4WqhUJrqaOCRrvqyaqU3gkmFghBtxL2SXIlswI2heXSGO1Urg__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Scaling AI Rocketships: ElevenLabs’ Mati Staniszewski & Lovable’s Anton Osika",
+      "date": "2025-12-11",
+      "podcast": "Long Strange Trip: CEO to CEO with Brian Halligan",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3",
+      "source_audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-11_Scaling-AI-Rocketships-ElevenLabs-Mati-Staniszewski--Lovable.md",
+      "chars": 55403,
+      "task_id": "cd740cbb-d445-4ee8-b902-738eb2600933",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://dcs-spotify.megaphone.fm/CPUAI8185757374.mp3?key=f8ad1863497e0f3a8b8fad2f8a6054df&request_event_id=196fd24f-35da-4b4d-a755-123c8ca12e07&session_id=c2bb0d86-85f7-41ad-ad38-354ccca8d131&timetoken=1776760936_90672F51DDF73850656C5B106ADF0CA1",
+        "groq:https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3",
+        "dashscope:https://dcs-spotify.megaphone.fm/CPUAI8185757374.mp3?key=f8ad1863497e0f3a8b8fad2f8a6054df&request_event_id=196fd24f-35da-4b4d-a755-123c8ca12e07&session_id=c2bb0d86-85f7-41ad-ad38-354ccca8d131&timetoken=1776760936_90672F51DDF73850656C5B106ADF0CA1",
+        "dashscope:https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://dcs-spotify.megaphone.fm/CPUAI8185757374.mp3?key=f8ad1863497e0f3a8b8fad2f8a6054df&request_event_id=196fd24f-35da-4b4d-a755-123c8ca12e07&session_id=c2bb0d86-85f7-41ad-ad38-354ccca8d131&timetoken=1776760936_90672F51DDF73850656C5B106ADF0CA1",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 137480612"
+        },
+        {
+          "provider": "groq",
+          "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://dcs-spotify.megaphone.fm/CPUAI8185757374.mp3?key=f8ad1863497e0f3a8b8fad2f8a6054df&request_event_id=196fd24f-35da-4b4d-a755-123c8ca12e07&session_id=c2bb0d86-85f7-41ad-ad38-354ccca8d131&timetoken=1776760936_90672F51DDF73850656C5B106ADF0CA1",
+          "success": false,
+          "error": "Transcription polling timeout after 900s"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CPUAI8185757374.mp3",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Meta’s “creepy” new Ray Bans, Beehiiv teams with Discord, AND a visit from Lovable CEO Anton Osika! | E2181",
+      "date": "2025-09-19",
+      "podcast": "This Week in Startups",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/98bcd2b7-cd9a-9e79-a9a3-b5c4bfd7ee57/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav",
+      "source_audio_url": "https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.md",
+      "chars": 75546,
+      "task_id": "50cc34f9-4a35-422d-ba93-f9a045710b20",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+        "groq:https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+        "dashscope:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+        "dashscope:https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/1ec8944e-6068-9d02-a927-b241f793184d/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/03d1304d-c775-9cf3-989f-fdea04852f4f/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/98bcd2b7-cd9a-9e79-a9a3-b5c4bfd7ee57/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 71939969"
+        },
+        {
+          "provider": "groq",
+          "url": "https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_403_FORBIDDEN"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/1ec8944e-6068-9d02-a927-b241f793184d/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/03d1304d-c775-9cf3-989f-fdea04852f4f/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+          "source_url": "https://anchor.fm/s/7c624c84/podcast/play/108556017/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-19%2F407811882-44100-2-32d950e16fcb1.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/98bcd2b7-cd9a-9e79-a9a3-b5c4bfd7ee57/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-19/407811882-44100-2-32d950e16fcb1.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-19_Metas-creepy-new-Ray-Bans-Beehiiv-teams-with-Discord-AND-a-v.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "20VC: Base44's Maor Shlomo on How Vibe Coding Will Kill SaaS and Salesforce | Why it is BS that Vibe Coding Platforms Do Not Have Defensibility and Bad Margins | Why He Worries About Google, Not Replit and Lovable | Why Long Anthropic, Not OpenAI?",
+      "date": "2025-11-24",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://content.libsyn.com/p/5/1/c/51c9c465a84bb2e3/Maor_Shlomo__Base44.mp3?c_id=195719650&cs_id=195719650&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776760787&Signature=GbSnTuvapjTGrhKsVmI3kcJfr4FKOGJq3QuwwFoeALpjaDWiGEZ1YD-EYgvMBHzRjXo-KK-FBhx0GyFPRhEtrR7bI5PnF7IB6jFkrkbb3t7vx8kwRfSQIp7aqSGqbI0cE0Q7B4lhS73H8eQA6~7g-8p4HOit2Gxnx5k0udelwnG7PIERiafBebwkqCopfNIh0Lflm5YGJlYW6L51BMYw7bIob3VC7hP~ottcw4a-XGvz4sM7V5r9lDPkGAnqxTVXYb7M35b4TJizC0cLQZjtEc8TF0QxkmHT0fAbqWkzGHv675HHfYlIAYK8yO-eP5Tm3hjg4NhtJoW6T5meKElQdQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Maor_Shlomo__Base44.mp3?dest-id=240976",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-11-24_20VC-Base44s-Maor-Shlomo-on-How-Vibe-Coding-Will-Kill-SaaS-a.md",
+      "chars": 73855,
+      "task_id": "c9558063-f0c1-4486-96c5-0f56995a4f7b",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://content.libsyn.com/p/5/1/c/51c9c465a84bb2e3/Maor_Shlomo__Base44.mp3?c_id=195719650&cs_id=195719650&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776760787&Signature=GbSnTuvapjTGrhKsVmI3kcJfr4FKOGJq3QuwwFoeALpjaDWiGEZ1YD-EYgvMBHzRjXo-KK-FBhx0GyFPRhEtrR7bI5PnF7IB6jFkrkbb3t7vx8kwRfSQIp7aqSGqbI0cE0Q7B4lhS73H8eQA6~7g-8p4HOit2Gxnx5k0udelwnG7PIERiafBebwkqCopfNIh0Lflm5YGJlYW6L51BMYw7bIob3VC7hP~ottcw4a-XGvz4sM7V5r9lDPkGAnqxTVXYb7M35b4TJizC0cLQZjtEc8TF0QxkmHT0fAbqWkzGHv675HHfYlIAYK8yO-eP5Tm3hjg4NhtJoW6T5meKElQdQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "groq:https://traffic.libsyn.com/secure/thetwentyminutevc/Maor_Shlomo__Base44.mp3?dest-id=240976",
+        "dashscope:https://content.libsyn.com/p/5/1/c/51c9c465a84bb2e3/Maor_Shlomo__Base44.mp3?c_id=195719650&cs_id=195719650&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776760787&Signature=GbSnTuvapjTGrhKsVmI3kcJfr4FKOGJq3QuwwFoeALpjaDWiGEZ1YD-EYgvMBHzRjXo-KK-FBhx0GyFPRhEtrR7bI5PnF7IB6jFkrkbb3t7vx8kwRfSQIp7aqSGqbI0cE0Q7B4lhS73H8eQA6~7g-8p4HOit2Gxnx5k0udelwnG7PIERiafBebwkqCopfNIh0Lflm5YGJlYW6L51BMYw7bIob3VC7hP~ottcw4a-XGvz4sM7V5r9lDPkGAnqxTVXYb7M35b4TJizC0cLQZjtEc8TF0QxkmHT0fAbqWkzGHv675HHfYlIAYK8yO-eP5Tm3hjg4NhtJoW6T5meKElQdQ__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://content.libsyn.com/p/5/1/c/51c9c465a84bb2e3/Maor_Shlomo__Base44.mp3?c_id=195719650&cs_id=195719650&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776760787&Signature=GbSnTuvapjTGrhKsVmI3kcJfr4FKOGJq3QuwwFoeALpjaDWiGEZ1YD-EYgvMBHzRjXo-KK-FBhx0GyFPRhEtrR7bI5PnF7IB6jFkrkbb3t7vx8kwRfSQIp7aqSGqbI0cE0Q7B4lhS73H8eQA6~7g-8p4HOit2Gxnx5k0udelwnG7PIERiafBebwkqCopfNIh0Lflm5YGJlYW6L51BMYw7bIob3VC7hP~ottcw4a-XGvz4sM7V5r9lDPkGAnqxTVXYb7M35b4TJizC0cLQZjtEc8TF0QxkmHT0fAbqWkzGHv675HHfYlIAYK8yO-eP5Tm3hjg4NhtJoW6T5meKElQdQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 68834628"
+        },
+        {
+          "provider": "groq",
+          "url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Maor_Shlomo__Base44.mp3?dest-id=240976",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://content.libsyn.com/p/5/1/c/51c9c465a84bb2e3/Maor_Shlomo__Base44.mp3?c_id=195719650&cs_id=195719650&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776760787&Signature=GbSnTuvapjTGrhKsVmI3kcJfr4FKOGJq3QuwwFoeALpjaDWiGEZ1YD-EYgvMBHzRjXo-KK-FBhx0GyFPRhEtrR7bI5PnF7IB6jFkrkbb3t7vx8kwRfSQIp7aqSGqbI0cE0Q7B4lhS73H8eQA6~7g-8p4HOit2Gxnx5k0udelwnG7PIERiafBebwkqCopfNIh0Lflm5YGJlYW6L51BMYw7bIob3VC7hP~ottcw4a-XGvz4sM7V5r9lDPkGAnqxTVXYb7M35b4TJizC0cLQZjtEc8TF0QxkmHT0fAbqWkzGHv675HHfYlIAYK8yO-eP5Tm3hjg4NhtJoW6T5meKElQdQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "20VC: Lovable on Hitting $17.5M in ARR in 3 Months | Adding $2.1M ARR Every Week | Hitting 85% Day 30 Retention: Better than ChatGPT | The Story of Europe's Fastest Scaling Company with Anton Osika",
+      "date": "2025-03-05",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://content.libsyn.com/p/a/0/7/a07eff0429fae27d/20VC-_Anton_Osika__Lovable.mp3?c_id=185323045&cs_id=185323045&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759231&Signature=HsBSCHiM~pUeqJFa2A9ImN1-9z99LcSQhUsBLI~xFbz-ztiwletFRURu1kLnCEh5Y90FVWpFC-vD6OuBJclkfaK3RIJULcw4oqpYZjEjmELDZJYMq0-wtTWpqfItg5oo8w8nw4bfToWlGYolsEnkWeI9CFPqbpEAUGWy9EUO3P3RfI3t3JLcBEaj-gzh~gZHl23W4WuoOxVvsx4JvOc3jP2Hrle2QhH9VDJeMpSuKTP3JrlXNmRvojiMsj-vtK1ki01UO3zJMqTZXXEWOSBMmc0lDYWoNwJsglEfzcgEoex8oP1AKgNXpBNRqVAvHwspLT61lXryPaR~gsH2c05wLQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/20VC-_Anton_Osika__Lovable.mp3?dest-id=240976",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-03-05_20VC-Lovable-on-Hitting-175M-in-ARR-in-3-Months--Adding-21M.md",
+      "chars": 49962,
+      "task_id": "696798c5-7791-4b2c-9179-3a92dd70e7da",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://content.libsyn.com/p/a/0/7/a07eff0429fae27d/20VC-_Anton_Osika__Lovable.mp3?c_id=185323045&cs_id=185323045&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759231&Signature=HsBSCHiM~pUeqJFa2A9ImN1-9z99LcSQhUsBLI~xFbz-ztiwletFRURu1kLnCEh5Y90FVWpFC-vD6OuBJclkfaK3RIJULcw4oqpYZjEjmELDZJYMq0-wtTWpqfItg5oo8w8nw4bfToWlGYolsEnkWeI9CFPqbpEAUGWy9EUO3P3RfI3t3JLcBEaj-gzh~gZHl23W4WuoOxVvsx4JvOc3jP2Hrle2QhH9VDJeMpSuKTP3JrlXNmRvojiMsj-vtK1ki01UO3zJMqTZXXEWOSBMmc0lDYWoNwJsglEfzcgEoex8oP1AKgNXpBNRqVAvHwspLT61lXryPaR~gsH2c05wLQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "groq:https://traffic.libsyn.com/secure/thetwentyminutevc/20VC-_Anton_Osika__Lovable.mp3?dest-id=240976",
+        "dashscope:https://content.libsyn.com/p/a/0/7/a07eff0429fae27d/20VC-_Anton_Osika__Lovable.mp3?c_id=185323045&cs_id=185323045&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759231&Signature=HsBSCHiM~pUeqJFa2A9ImN1-9z99LcSQhUsBLI~xFbz-ztiwletFRURu1kLnCEh5Y90FVWpFC-vD6OuBJclkfaK3RIJULcw4oqpYZjEjmELDZJYMq0-wtTWpqfItg5oo8w8nw4bfToWlGYolsEnkWeI9CFPqbpEAUGWy9EUO3P3RfI3t3JLcBEaj-gzh~gZHl23W4WuoOxVvsx4JvOc3jP2Hrle2QhH9VDJeMpSuKTP3JrlXNmRvojiMsj-vtK1ki01UO3zJMqTZXXEWOSBMmc0lDYWoNwJsglEfzcgEoex8oP1AKgNXpBNRqVAvHwspLT61lXryPaR~gsH2c05wLQ__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://content.libsyn.com/p/a/0/7/a07eff0429fae27d/20VC-_Anton_Osika__Lovable.mp3?c_id=185323045&cs_id=185323045&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759231&Signature=HsBSCHiM~pUeqJFa2A9ImN1-9z99LcSQhUsBLI~xFbz-ztiwletFRURu1kLnCEh5Y90FVWpFC-vD6OuBJclkfaK3RIJULcw4oqpYZjEjmELDZJYMq0-wtTWpqfItg5oo8w8nw4bfToWlGYolsEnkWeI9CFPqbpEAUGWy9EUO3P3RfI3t3JLcBEaj-gzh~gZHl23W4WuoOxVvsx4JvOc3jP2Hrle2QhH9VDJeMpSuKTP3JrlXNmRvojiMsj-vtK1ki01UO3zJMqTZXXEWOSBMmc0lDYWoNwJsglEfzcgEoex8oP1AKgNXpBNRqVAvHwspLT61lXryPaR~gsH2c05wLQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 48703207"
+        },
+        {
+          "provider": "groq",
+          "url": "https://traffic.libsyn.com/secure/thetwentyminutevc/20VC-_Anton_Osika__Lovable.mp3?dest-id=240976",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://content.libsyn.com/p/a/0/7/a07eff0429fae27d/20VC-_Anton_Osika__Lovable.mp3?c_id=185323045&cs_id=185323045&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776759231&Signature=HsBSCHiM~pUeqJFa2A9ImN1-9z99LcSQhUsBLI~xFbz-ztiwletFRURu1kLnCEh5Y90FVWpFC-vD6OuBJclkfaK3RIJULcw4oqpYZjEjmELDZJYMq0-wtTWpqfItg5oo8w8nw4bfToWlGYolsEnkWeI9CFPqbpEAUGWy9EUO3P3RfI3t3JLcBEaj-gzh~gZHl23W4WuoOxVvsx4JvOc3jP2Hrle2QhH9VDJeMpSuKTP3JrlXNmRvojiMsj-vtK1ki01UO3zJMqTZXXEWOSBMmc0lDYWoNwJsglEfzcgEoex8oP1AKgNXpBNRqVAvHwspLT61lXryPaR~gsH2c05wLQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Lovable Head of Growth on The New AI-Native Growth Playbook | Elena Verna | E279",
+      "date": "2025-11-26",
+      "podcast": "The Product Podcast",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/61947412-bd37-9d92-b403-80a9f6464729/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav",
+      "source_audio_url": "https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.md",
+      "chars": 43757,
+      "task_id": "19d071d6-366a-4e41-8bdc-8c13d2a326eb",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+        "groq:https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+        "dashscope:https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+        "dashscope:https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/2f2dd638-bebd-9792-9774-a874cb615c10/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/67b80227-0f78-96cb-a631-5dd269038045/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/61947412-bd37-9d92-b403-80a9f6464729/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 403"
+        },
+        {
+          "provider": "groq",
+          "url": "https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 403"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/2f2dd638-bebd-9792-9774-a874cb615c10/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+          "source_url": "https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/67b80227-0f78-96cb-a631-5dd269038045/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+          "source_url": "https://www.buzzsprout.com/90361/episodes/18257210-lovable-head-of-growth-on-the-new-ai-native-growth-playbook-elena-verna-e279.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/61947412-bd37-9d92-b403-80a9f6464729/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav",
+          "source_url": "https://audio.buzzsprout.com/v80yrks8vbg9hxuv5a75mdz2hqbf?response-content-disposition=inline",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-11-26_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Playbook.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "Bonus: Anton Osika on how Lovable’s creating a world of builders",
+      "date": "2025-07-17",
+      "podcast": "Spotlight On",
+      "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-16/404029324-44100-2-58c2c6e04cf06.mp3",
+      "source_audio_url": "https://anchor.fm/s/f1861978/podcast/play/105588718/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-16%2F404029324-44100-2-58c2c6e04cf06.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-07-17_Bonus-Anton-Osika-on-how-Lovables-creating-a-world-of-builde.md",
+      "chars": 24154,
+      "task_id": "",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-16/404029324-44100-2-58c2c6e04cf06.mp3"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-6-16/404029324-44100-2-58c2c6e04cf06.mp3",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "groq",
+      "transcription_engine": "groq_whisper-large-v3-turbo"
+    },
+    {
+      "status": "success",
+      "title": "Conversation with Anton Osika, Lovable",
+      "date": "2025-05-21",
+      "podcast": "Inside AI",
+      "audio_url": "https://feedsmedia.async.com/e10c9506-cf88-40d7-bf92-63db798d5ff0/Conversation%20with%20Anton%20Osika.mp3",
+      "source_audio_url": "https://feeds.podcastle.ai/e10c9506-cf88-40d7-bf92-63db798d5ff0/Conversation%20with%20Anton%20Osika.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-05-21_Conversation-with-Anton-Osika-Lovable.md",
+      "chars": 20737,
+      "task_id": "",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://feedsmedia.async.com/e10c9506-cf88-40d7-bf92-63db798d5ff0/Conversation%20with%20Anton%20Osika.mp3"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://feedsmedia.async.com/e10c9506-cf88-40d7-bf92-63db798d5ff0/Conversation%20with%20Anton%20Osika.mp3",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "groq",
+      "transcription_engine": "groq_whisper-large-v3-turbo"
+    },
+    {
+      "status": "success",
+      "title": "Lovable’s Anton Osika on churn, calculating ARR and his newfound celebrity status",
+      "date": "2025-09-03",
+      "podcast": "Startup Europe — The Sifted Podcast",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ae699281-e7ee-90f9-8f90-aa7df0189b04/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav",
+      "source_audio_url": "https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.md",
+      "chars": 17644,
+      "task_id": "7367c134-a811-4960-b46c-c5b6e521ecf3",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+        "groq:https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+        "dashscope:https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+        "dashscope:https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/02f3f06c-27c1-964d-96e6-bf3b2bd29881/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/d1cfca82-909b-92cb-8d13-3b7c01c2b090/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ae699281-e7ee-90f9-8f90-aa7df0189b04/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 403"
+        },
+        {
+          "provider": "groq",
+          "url": "https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 403"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/02f3f06c-27c1-964d-96e6-bf3b2bd29881/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+          "source_url": "https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/d1cfca82-909b-92cb-8d13-3b7c01c2b090/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+          "source_url": "https://www.buzzsprout.com/1877446/episodes/17780853-lovable-s-anton-osika-on-churn-calculating-arr-and-his-newfound-celebrity-status.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ae699281-e7ee-90f9-8f90-aa7df0189b04/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav",
+          "source_url": "https://audio.buzzsprout.com/6axfwo34f6av6yfwux5xzawlkx74?response-content-disposition=inline",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_Lovables-Anton-Osika-on-churn-calculating-ARR-and-his-newfou.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "Episode 31: Bolt.new vs Lovable vs V0: Which AI App Builder Is Best for Your Project?",
+      "date": "2025-09-28",
+      "podcast": "Tech Break by Friday",
+      "audio_url": "https://substackcdn.com/video_upload/post/171932983/ad325bdc-261f-4667-a5fb-edec79aa2d71/transcoded.mp3?post_id=171932983&relation=podcast&Expires=1776842203&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=lufaP4fLLZILnTSZgFcdFQFJM235NP152jWDbvCa8FMzXtHBbfEsItCJK-VeoOkrSpRH7fQ5visVoaS6FgrA1aEsw6NWilX8AHX5ds0R6zvJCeB3QLXIXPMTkHIfFysDpflzhH0f0rQqYzYZY7C7H8KbdpHk0Lgru3QxXSvMPN3ovteeqz9jWZ9z7Nbq-RoFnbNUpkh76a3gBZD3~kP4kltOyCF~yGd7E7ksAfMHUAvEcRJM8FVsG4NY1SuczFjL6xUiXVoJIxqFd8K8oi0xJC9Ubm9-Ut3DfnYE6UehXS-tXRcsTCmhLzaz7u~0FA4Z2Lpha2n1jRinnGUsz-b6eQ__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/171932983/99d73b04f5f5338f7ada92054d5b4800.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-09-28_Episode-31-Boltnew-vs-Lovable-vs-V0-Which-AI-App-Builder-Is.md",
+      "chars": 10115,
+      "task_id": "",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://substackcdn.com/video_upload/post/171932983/ad325bdc-261f-4667-a5fb-edec79aa2d71/transcoded.mp3?post_id=171932983&relation=podcast&Expires=1776842203&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=lufaP4fLLZILnTSZgFcdFQFJM235NP152jWDbvCa8FMzXtHBbfEsItCJK-VeoOkrSpRH7fQ5visVoaS6FgrA1aEsw6NWilX8AHX5ds0R6zvJCeB3QLXIXPMTkHIfFysDpflzhH0f0rQqYzYZY7C7H8KbdpHk0Lgru3QxXSvMPN3ovteeqz9jWZ9z7Nbq-RoFnbNUpkh76a3gBZD3~kP4kltOyCF~yGd7E7ksAfMHUAvEcRJM8FVsG4NY1SuczFjL6xUiXVoJIxqFd8K8oi0xJC9Ubm9-Ut3DfnYE6UehXS-tXRcsTCmhLzaz7u~0FA4Z2Lpha2n1jRinnGUsz-b6eQ__"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://substackcdn.com/video_upload/post/171932983/ad325bdc-261f-4667-a5fb-edec79aa2d71/transcoded.mp3?post_id=171932983&relation=podcast&Expires=1776842203&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=lufaP4fLLZILnTSZgFcdFQFJM235NP152jWDbvCa8FMzXtHBbfEsItCJK-VeoOkrSpRH7fQ5visVoaS6FgrA1aEsw6NWilX8AHX5ds0R6zvJCeB3QLXIXPMTkHIfFysDpflzhH0f0rQqYzYZY7C7H8KbdpHk0Lgru3QxXSvMPN3ovteeqz9jWZ9z7Nbq-RoFnbNUpkh76a3gBZD3~kP4kltOyCF~yGd7E7ksAfMHUAvEcRJM8FVsG4NY1SuczFjL6xUiXVoJIxqFd8K8oi0xJC9Ubm9-Ut3DfnYE6UehXS-tXRcsTCmhLzaz7u~0FA4Z2Lpha2n1jRinnGUsz-b6eQ__",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "groq",
+      "transcription_engine": "groq_whisper-large-v3-turbo"
+    },
+    {
+      "status": "success",
+      "title": "VIBE CODING REVIEW: Lovable",
+      "date": "2025-05-20",
+      "podcast": "Prompt and Circumstance",
+      "audio_url": "https://audio.transistor.fm/m/shows/64003/ba4208e924e7242b52d935c451bccaf8.mp3",
+      "source_audio_url": "https://media.transistor.fm/f11026f1/a18c550c.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-05-20_VIBE-CODING-REVIEW-Lovable.md",
+      "chars": 29646,
+      "task_id": "5c24c140-5695-48b4-bda8-c9b7259edb43",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://audio.transistor.fm/m/shows/64003/ba4208e924e7242b52d935c451bccaf8.mp3",
+        "groq:https://media.transistor.fm/f11026f1/a18c550c.mp3",
+        "dashscope:https://audio.transistor.fm/m/shows/64003/ba4208e924e7242b52d935c451bccaf8.mp3"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://audio.transistor.fm/m/shows/64003/ba4208e924e7242b52d935c451bccaf8.mp3",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 36604099"
+        },
+        {
+          "provider": "groq",
+          "url": "https://media.transistor.fm/f11026f1/a18c550c.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://audio.transistor.fm/m/shows/64003/ba4208e924e7242b52d935c451bccaf8.mp3",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "#487 - VO - Anton Osika - Lovable - Internet, Business, and AI: Nothing Will Ever Be the Same Again",
+      "date": "2025-08-17",
+      "podcast": "Génération Do It Yourself",
+      "audio_url": "https://files.audiomeans.fr/YWRzdjI/a5f4b5fa-e726-4cd4-a780-670432ea9a63/babbeacf-c7f5-47fc-87a8-92b0cedee182.mp3?pid=b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9&sid=61073cfc-3c1e-4b4a-a35b-05e500137c24&e=a5f4b5fa-e726-4cd4-a780-670432ea9a63&o1=16002&o2=92925124&li=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&uakey=PcNCvtcnHj&bot=1&pfid=&ps=&cs=&o3=93880&ap=1577219-3271625%2C24823274-26337122%2C90893010-92201222&std=a&aid=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&at=a%2Ca%2Ca&astd=a4%2Ca4%2Ca4&ac=RVVSOjAsRVVSOjkwLEVVUjo5MA%3D%3D&rt=1776756159315&crid=%2C%2C&epts=1755094725&dg=93d8c97b5ab4bfa286d4a743d5b2d708726c40d2ab8569f2222960a86177b589bbd16e7984bcb4ff31f4acabfd955a97652b147c75fb3bdf9832f7a723b65edd&xamzn=Root%3D1-69e725c2-35ed9afe324d456b57be3126&xapsi=&cbua=0&pai=&orng=&ims=&Expires=1776842562&Key-Pair-Id=APKAI4ZX6Q3KJ6I76RQA&Signature=AR6zK-mlhy4zN1mN6uCpFiuBwiapakLBD-QZ7s9HHljeqP0v2IvH~mQA8Hh1GWR-Zne~MqWInwnwoHH4aznhsyJNLp4~oPvmHIcoa~YchroY4V7yYmDFeBQZ3yiw6isDe3imMvePZozzrWYo6LFnPVvM8lP-cqvhxGTfuWkuxNDXGqxio22xhm81zxBhcgI-AswQzmjWiIofK39ZFAaBJgI8U75r8Yn2nwN4S-zFeqXCCxU5E-RkMN9lUyfhv3e9HGiXCUY53aS1WqA5y2~rgNhhgUAi~-JKB~F4NShjXo80THNfUDEJ8Lq8k6hUW48n3dS77rlR4u1dtcUhbczPeg__",
+      "source_audio_url": "https://audio.audiomeans.fr/file/PcNCvtcnHj/a5f4b5fa-e726-4cd4-a780-670432ea9a63.mp3?_=1755094725",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-08-17_487---VO---Anton-Osika---Lovable---Internet-Business-and-AI.md",
+      "chars": 83213,
+      "task_id": "f71c63a9-ae22-4a30-8d22-410d8dbad3a3",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://files.audiomeans.fr/YWRzdjI/a5f4b5fa-e726-4cd4-a780-670432ea9a63/babbeacf-c7f5-47fc-87a8-92b0cedee182.mp3?pid=b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9&sid=61073cfc-3c1e-4b4a-a35b-05e500137c24&e=a5f4b5fa-e726-4cd4-a780-670432ea9a63&o1=16002&o2=92925124&li=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&uakey=PcNCvtcnHj&bot=1&pfid=&ps=&cs=&o3=93880&ap=1577219-3271625%2C24823274-26337122%2C90893010-92201222&std=a&aid=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&at=a%2Ca%2Ca&astd=a4%2Ca4%2Ca4&ac=RVVSOjAsRVVSOjkwLEVVUjo5MA%3D%3D&rt=1776756159315&crid=%2C%2C&epts=1755094725&dg=93d8c97b5ab4bfa286d4a743d5b2d708726c40d2ab8569f2222960a86177b589bbd16e7984bcb4ff31f4acabfd955a97652b147c75fb3bdf9832f7a723b65edd&xamzn=Root%3D1-69e725c2-35ed9afe324d456b57be3126&xapsi=&cbua=0&pai=&orng=&ims=&Expires=1776842562&Key-Pair-Id=APKAI4ZX6Q3KJ6I76RQA&Signature=AR6zK-mlhy4zN1mN6uCpFiuBwiapakLBD-QZ7s9HHljeqP0v2IvH~mQA8Hh1GWR-Zne~MqWInwnwoHH4aznhsyJNLp4~oPvmHIcoa~YchroY4V7yYmDFeBQZ3yiw6isDe3imMvePZozzrWYo6LFnPVvM8lP-cqvhxGTfuWkuxNDXGqxio22xhm81zxBhcgI-AswQzmjWiIofK39ZFAaBJgI8U75r8Yn2nwN4S-zFeqXCCxU5E-RkMN9lUyfhv3e9HGiXCUY53aS1WqA5y2~rgNhhgUAi~-JKB~F4NShjXo80THNfUDEJ8Lq8k6hUW48n3dS77rlR4u1dtcUhbczPeg__",
+        "groq:https://audio.audiomeans.fr/file/PcNCvtcnHj/a5f4b5fa-e726-4cd4-a780-670432ea9a63.mp3?_=1755094725",
+        "dashscope:https://files.audiomeans.fr/YWRzdjI/a5f4b5fa-e726-4cd4-a780-670432ea9a63/babbeacf-c7f5-47fc-87a8-92b0cedee182.mp3?pid=b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9&sid=61073cfc-3c1e-4b4a-a35b-05e500137c24&e=a5f4b5fa-e726-4cd4-a780-670432ea9a63&o1=16002&o2=92925124&li=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&uakey=PcNCvtcnHj&bot=1&pfid=&ps=&cs=&o3=93880&ap=1577219-3271625%2C24823274-26337122%2C90893010-92201222&std=a&aid=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&at=a%2Ca%2Ca&astd=a4%2Ca4%2Ca4&ac=RVVSOjAsRVVSOjkwLEVVUjo5MA%3D%3D&rt=1776756159315&crid=%2C%2C&epts=1755094725&dg=93d8c97b5ab4bfa286d4a743d5b2d708726c40d2ab8569f2222960a86177b589bbd16e7984bcb4ff31f4acabfd955a97652b147c75fb3bdf9832f7a723b65edd&xamzn=Root%3D1-69e725c2-35ed9afe324d456b57be3126&xapsi=&cbua=0&pai=&orng=&ims=&Expires=1776842562&Key-Pair-Id=APKAI4ZX6Q3KJ6I76RQA&Signature=AR6zK-mlhy4zN1mN6uCpFiuBwiapakLBD-QZ7s9HHljeqP0v2IvH~mQA8Hh1GWR-Zne~MqWInwnwoHH4aznhsyJNLp4~oPvmHIcoa~YchroY4V7yYmDFeBQZ3yiw6isDe3imMvePZozzrWYo6LFnPVvM8lP-cqvhxGTfuWkuxNDXGqxio22xhm81zxBhcgI-AswQzmjWiIofK39ZFAaBJgI8U75r8Yn2nwN4S-zFeqXCCxU5E-RkMN9lUyfhv3e9HGiXCUY53aS1WqA5y2~rgNhhgUAi~-JKB~F4NShjXo80THNfUDEJ8Lq8k6hUW48n3dS77rlR4u1dtcUhbczPeg__"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://files.audiomeans.fr/YWRzdjI/a5f4b5fa-e726-4cd4-a780-670432ea9a63/babbeacf-c7f5-47fc-87a8-92b0cedee182.mp3?pid=b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9&sid=61073cfc-3c1e-4b4a-a35b-05e500137c24&e=a5f4b5fa-e726-4cd4-a780-670432ea9a63&o1=16002&o2=92925124&li=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&uakey=PcNCvtcnHj&bot=1&pfid=&ps=&cs=&o3=93880&ap=1577219-3271625%2C24823274-26337122%2C90893010-92201222&std=a&aid=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&at=a%2Ca%2Ca&astd=a4%2Ca4%2Ca4&ac=RVVSOjAsRVVSOjkwLEVVUjo5MA%3D%3D&rt=1776756159315&crid=%2C%2C&epts=1755094725&dg=93d8c97b5ab4bfa286d4a743d5b2d708726c40d2ab8569f2222960a86177b589bbd16e7984bcb4ff31f4acabfd955a97652b147c75fb3bdf9832f7a723b65edd&xamzn=Root%3D1-69e725c2-35ed9afe324d456b57be3126&xapsi=&cbua=0&pai=&orng=&ims=&Expires=1776842562&Key-Pair-Id=APKAI4ZX6Q3KJ6I76RQA&Signature=AR6zK-mlhy4zN1mN6uCpFiuBwiapakLBD-QZ7s9HHljeqP0v2IvH~mQA8Hh1GWR-Zne~MqWInwnwoHH4aznhsyJNLp4~oPvmHIcoa~YchroY4V7yYmDFeBQZ3yiw6isDe3imMvePZozzrWYo6LFnPVvM8lP-cqvhxGTfuWkuxNDXGqxio22xhm81zxBhcgI-AswQzmjWiIofK39ZFAaBJgI8U75r8Yn2nwN4S-zFeqXCCxU5E-RkMN9lUyfhv3e9HGiXCUY53aS1WqA5y2~rgNhhgUAi~-JKB~F4NShjXo80THNfUDEJ8Lq8k6hUW48n3dS77rlR4u1dtcUhbczPeg__",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 92925124"
+        },
+        {
+          "provider": "groq",
+          "url": "https://audio.audiomeans.fr/file/PcNCvtcnHj/a5f4b5fa-e726-4cd4-a780-670432ea9a63.mp3?_=1755094725",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://files.audiomeans.fr/YWRzdjI/a5f4b5fa-e726-4cd4-a780-670432ea9a63/babbeacf-c7f5-47fc-87a8-92b0cedee182.mp3?pid=b4a5ee3a-9230-4f9f-988d-2ae156a2d5a9&sid=61073cfc-3c1e-4b4a-a35b-05e500137c24&e=a5f4b5fa-e726-4cd4-a780-670432ea9a63&o1=16002&o2=92925124&li=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&uakey=PcNCvtcnHj&bot=1&pfid=&ps=&cs=&o3=93880&ap=1577219-3271625%2C24823274-26337122%2C90893010-92201222&std=a&aid=e4fe1def-1a72-4c9e-911f-b140d500ede4%2Caf4962e9-4719-463c-b478-c3af4399a8b9%2C22e9c668-3955-4da9-8fbd-8f408730fd48&at=a%2Ca%2Ca&astd=a4%2Ca4%2Ca4&ac=RVVSOjAsRVVSOjkwLEVVUjo5MA%3D%3D&rt=1776756159315&crid=%2C%2C&epts=1755094725&dg=93d8c97b5ab4bfa286d4a743d5b2d708726c40d2ab8569f2222960a86177b589bbd16e7984bcb4ff31f4acabfd955a97652b147c75fb3bdf9832f7a723b65edd&xamzn=Root%3D1-69e725c2-35ed9afe324d456b57be3126&xapsi=&cbua=0&pai=&orng=&ims=&Expires=1776842562&Key-Pair-Id=APKAI4ZX6Q3KJ6I76RQA&Signature=AR6zK-mlhy4zN1mN6uCpFiuBwiapakLBD-QZ7s9HHljeqP0v2IvH~mQA8Hh1GWR-Zne~MqWInwnwoHH4aznhsyJNLp4~oPvmHIcoa~YchroY4V7yYmDFeBQZ3yiw6isDe3imMvePZozzrWYo6LFnPVvM8lP-cqvhxGTfuWkuxNDXGqxio22xhm81zxBhcgI-AswQzmjWiIofK39ZFAaBJgI8U75r8Yn2nwN4S-zFeqXCCxU5E-RkMN9lUyfhv3e9HGiXCUY53aS1WqA5y2~rgNhhgUAi~-JKB~F4NShjXo80THNfUDEJ8Lq8k6hUW48n3dS77rlR4u1dtcUhbczPeg__",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    }
+  ]
+}

@@ -1,0 +1,4005 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "Y2JIl2WGKqY",
+  "url": "https://www.youtube.com/watch?v=Y2JIl2WGKqY",
+  "title": "Midjourney!  Let's play with the AI image generation tool!",
+  "channel": "Scott Detweiler",
+  "source_queries": [
+    "Midjourney Discord interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:24",
+  "segments": [
+    {
+      "text": "hey everybody it&#39;s scott weller here uh",
+      "duration": 4.48,
+      "offset": 168.08,
+      "lang": "en"
+    },
+    {
+      "text": "with kind of an oddball thursday live",
+      "duration": 5.84,
+      "offset": 169.92,
+      "lang": "en"
+    },
+    {
+      "text": "stream uh i have uh found this tool uh",
+      "duration": 5.6,
+      "offset": 172.56,
+      "lang": "en"
+    },
+    {
+      "text": "and it is freaking amazing and i thought",
+      "duration": 4.56,
+      "offset": 175.76,
+      "lang": "en"
+    },
+    {
+      "text": "it was worth time to kind of discuss it",
+      "duration": 3.76,
+      "offset": 178.16,
+      "lang": "en"
+    },
+    {
+      "text": "uh because it&#39;s something that i think",
+      "duration": 4.88,
+      "offset": 180.32,
+      "lang": "en"
+    },
+    {
+      "text": "is going to change a lot of the way we",
+      "duration": 4.56,
+      "offset": 181.92,
+      "lang": "en"
+    },
+    {
+      "text": "look at art",
+      "duration": 3.36,
+      "offset": 185.2,
+      "lang": "en"
+    },
+    {
+      "text": "so we&#39;re talking about mid journey today",
+      "duration": 5.12,
+      "offset": 186.48,
+      "lang": "en"
+    },
+    {
+      "text": "so this is a new application now this",
+      "duration": 4.64,
+      "offset": 188.56,
+      "lang": "en"
+    },
+    {
+      "text": "application runs",
+      "duration": 3.12,
+      "offset": 191.6,
+      "lang": "en"
+    },
+    {
+      "text": "from what i can tell",
+      "duration": 3.44,
+      "offset": 193.2,
+      "lang": "en"
+    },
+    {
+      "text": "in the background behind a discord",
+      "duration": 3.12,
+      "offset": 194.72,
+      "lang": "en"
+    },
+    {
+      "text": "server at least the discord server is",
+      "duration": 3.12,
+      "offset": 196.64,
+      "lang": "en"
+    },
+    {
+      "text": "the front end so what that means is that",
+      "duration": 3.28,
+      "offset": 197.84,
+      "lang": "en"
+    },
+    {
+      "text": "you have to be a discord user if you&#39;re",
+      "duration": 3.6,
+      "offset": 199.76,
+      "lang": "en"
+    },
+    {
+      "text": "not a discord user it&#39;s free get on it",
+      "duration": 4.64,
+      "offset": 201.12,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s great we use it a lot for",
+      "duration": 3.92,
+      "offset": 203.36,
+      "lang": "en"
+    },
+    {
+      "text": "print competitions because we can sit",
+      "duration": 3.6,
+      "offset": 205.76,
+      "lang": "en"
+    },
+    {
+      "text": "and and talk about trash with the j",
+      "duration": 3.36,
+      "offset": 207.28,
+      "lang": "en"
+    },
+    {
+      "text": "about the judges without the judges",
+      "duration": 2.24,
+      "offset": 209.36,
+      "lang": "en"
+    },
+    {
+      "text": "knowing it",
+      "duration": 2.48,
+      "offset": 210.64,
+      "lang": "en"
+    },
+    {
+      "text": "and use it when we&#39;re playing games",
+      "duration": 4.0,
+      "offset": 211.6,
+      "lang": "en"
+    },
+    {
+      "text": "anyway so this what this application",
+      "duration": 6.16,
+      "offset": 213.12,
+      "lang": "en"
+    },
+    {
+      "text": "does is really wild you can enter text",
+      "duration": 6.32,
+      "offset": 215.6,
+      "lang": "en"
+    },
+    {
+      "text": "and it will generate an image based on",
+      "duration": 5.28,
+      "offset": 219.28,
+      "lang": "en"
+    },
+    {
+      "text": "text now what you don&#39;t say oftentimes",
+      "duration": 5.12,
+      "offset": 221.92,
+      "lang": "en"
+    },
+    {
+      "text": "is just as important as what you do say",
+      "duration": 5.2,
+      "offset": 224.56,
+      "lang": "en"
+    },
+    {
+      "text": "so if you are looking for a general idea",
+      "duration": 4.24,
+      "offset": 227.04,
+      "lang": "en"
+    },
+    {
+      "text": "you may get some surprises so here&#39;s",
+      "duration": 3.12,
+      "offset": 229.76,
+      "lang": "en"
+    },
+    {
+      "text": "some cthulhu-based ones that i kind of",
+      "duration": 2.72,
+      "offset": 231.28,
+      "lang": "en"
+    },
+    {
+      "text": "put in here",
+      "duration": 3.68,
+      "offset": 232.88,
+      "lang": "en"
+    },
+    {
+      "text": "so a beautiful rendition uh of cthulhu",
+      "duration": 4.08,
+      "offset": 234.0,
+      "lang": "en"
+    },
+    {
+      "text": "with insanely detailed intricate golden",
+      "duration": 3.44,
+      "offset": 236.56,
+      "lang": "en"
+    },
+    {
+      "text": "ratio blah blah you see what i typed in",
+      "duration": 3.44,
+      "offset": 238.08,
+      "lang": "en"
+    },
+    {
+      "text": "and it gave me all these different",
+      "duration": 3.52,
+      "offset": 240.0,
+      "lang": "en"
+    },
+    {
+      "text": "variations and then",
+      "duration": 4.16,
+      "offset": 241.52,
+      "lang": "en"
+    },
+    {
+      "text": "one of my favorite older",
+      "duration": 4.4,
+      "offset": 243.52,
+      "lang": "en"
+    },
+    {
+      "text": "books is called the king in yellow it&#39;s",
+      "duration": 4.16,
+      "offset": 245.68,
+      "lang": "en"
+    },
+    {
+      "text": "from like the 1800s and i typed it and",
+      "duration": 3.28,
+      "offset": 247.92,
+      "lang": "en"
+    },
+    {
+      "text": "it gave me these four variations so the",
+      "duration": 2.64,
+      "offset": 249.84,
+      "lang": "en"
+    },
+    {
+      "text": "way that it works is it gives you four",
+      "duration": 2.96,
+      "offset": 251.2,
+      "lang": "en"
+    },
+    {
+      "text": "variations and i&#39;m going to show you",
+      "duration": 2.8,
+      "offset": 252.48,
+      "lang": "en"
+    },
+    {
+      "text": "this so we&#39;re going to play with this",
+      "duration": 2.0,
+      "offset": 254.16,
+      "lang": "en"
+    },
+    {
+      "text": "today",
+      "duration": 2.56,
+      "offset": 255.28,
+      "lang": "en"
+    },
+    {
+      "text": "so as we&#39;re talking about it i want you",
+      "duration": 3.84,
+      "offset": 256.16,
+      "lang": "en"
+    },
+    {
+      "text": "to dream up uh some ideas because we&#39;re",
+      "duration": 3.2,
+      "offset": 257.84,
+      "lang": "en"
+    },
+    {
+      "text": "going to type them in here and we&#39;re",
+      "duration": 2.4,
+      "offset": 260.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to look at the we&#39;re going to look",
+      "duration": 3.04,
+      "offset": 261.04,
+      "lang": "en"
+    },
+    {
+      "text": "at the results live i thought that would",
+      "duration": 3.68,
+      "offset": 262.4,
+      "lang": "en"
+    },
+    {
+      "text": "be kind of a fun thing to do",
+      "duration": 2.8,
+      "offset": 264.08,
+      "lang": "en"
+    },
+    {
+      "text": "so",
+      "duration": 2.64,
+      "offset": 266.08,
+      "lang": "en"
+    },
+    {
+      "text": "i you type in a description like here i",
+      "duration": 3.2,
+      "offset": 266.88,
+      "lang": "en"
+    },
+    {
+      "text": "did the king in yellow a dark horror and",
+      "duration": 3.2,
+      "offset": 268.72,
+      "lang": "en"
+    },
+    {
+      "text": "it gave me these four and you could do",
+      "duration": 3.84,
+      "offset": 270.08,
+      "lang": "en"
+    },
+    {
+      "text": "is you can take one of those and then",
+      "duration": 3.84,
+      "offset": 271.92,
+      "lang": "en"
+    },
+    {
+      "text": "kind of go from there and it will create",
+      "duration": 4.48,
+      "offset": 273.92,
+      "lang": "en"
+    },
+    {
+      "text": "variations based on that one and so on",
+      "duration": 4.4,
+      "offset": 275.76,
+      "lang": "en"
+    },
+    {
+      "text": "and so on until you&#39;re happy with it",
+      "duration": 4.08,
+      "offset": 278.4,
+      "lang": "en"
+    },
+    {
+      "text": "then you ask it to upsize that one to",
+      "duration": 4.08,
+      "offset": 280.16,
+      "lang": "en"
+    },
+    {
+      "text": "add more detail and add more detail",
+      "duration": 3.36,
+      "offset": 282.48,
+      "lang": "en"
+    },
+    {
+      "text": "until you&#39;re happy and you can download",
+      "duration": 4.0,
+      "offset": 284.24,
+      "lang": "en"
+    },
+    {
+      "text": "hd version of it uh so here&#39;s the king",
+      "duration": 3.68,
+      "offset": 285.84,
+      "lang": "en"
+    },
+    {
+      "text": "and yellow one that i decided i really",
+      "duration": 2.24,
+      "offset": 288.24,
+      "lang": "en"
+    },
+    {
+      "text": "liked",
+      "duration": 3.04,
+      "offset": 289.52,
+      "lang": "en"
+    },
+    {
+      "text": "and you can see this it&#39;s a pretty good",
+      "duration": 4.48,
+      "offset": 290.48,
+      "lang": "en"
+    },
+    {
+      "text": "amount of detail it&#39;s not huge it&#39;s 1500",
+      "duration": 4.48,
+      "offset": 292.56,
+      "lang": "en"
+    },
+    {
+      "text": "pixels square but still that&#39;s that&#39;s",
+      "duration": 4.72,
+      "offset": 294.96,
+      "lang": "en"
+    },
+    {
+      "text": "pretty damn good look at this it&#39;s just",
+      "duration": 4.56,
+      "offset": 297.04,
+      "lang": "en"
+    },
+    {
+      "text": "freakishly amazing that it generated",
+      "duration": 3.44,
+      "offset": 299.68,
+      "lang": "en"
+    },
+    {
+      "text": "this from text",
+      "duration": 3.52,
+      "offset": 301.6,
+      "lang": "en"
+    },
+    {
+      "text": "some of these two i like this one",
+      "duration": 4.32,
+      "offset": 303.12,
+      "lang": "en"
+    },
+    {
+      "text": "this one is",
+      "duration": 4.24,
+      "offset": 305.12,
+      "lang": "en"
+    },
+    {
+      "text": "1200",
+      "duration": 3.84,
+      "offset": 307.44,
+      "lang": "en"
+    },
+    {
+      "text": "this is not the final one actually was",
+      "duration": 3.28,
+      "offset": 309.36,
+      "lang": "en"
+    },
+    {
+      "text": "it this one",
+      "duration": 3.12,
+      "offset": 311.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh yeah 1500",
+      "duration": 3.52,
+      "offset": 312.64,
+      "lang": "en"
+    },
+    {
+      "text": "so again you can see the variations",
+      "duration": 4.64,
+      "offset": 314.4,
+      "lang": "en"
+    },
+    {
+      "text": "behind these i would not have thought of",
+      "duration": 4.96,
+      "offset": 316.16,
+      "lang": "en"
+    },
+    {
+      "text": "this picture so what do we use this for",
+      "duration": 4.08,
+      "offset": 319.04,
+      "lang": "en"
+    },
+    {
+      "text": "what what goal am i trying to accomplish",
+      "duration": 4.32,
+      "offset": 321.12,
+      "lang": "en"
+    },
+    {
+      "text": "here i&#39;m using this as more like",
+      "duration": 4.32,
+      "offset": 323.12,
+      "lang": "en"
+    },
+    {
+      "text": "ideation coming up with ideas or",
+      "duration": 4.64,
+      "offset": 325.44,
+      "lang": "en"
+    },
+    {
+      "text": "concepts uh not as finished pieces of",
+      "duration": 4.4,
+      "offset": 327.44,
+      "lang": "en"
+    },
+    {
+      "text": "art i see people now throwing these up",
+      "duration": 2.56,
+      "offset": 330.08,
+      "lang": "en"
+    },
+    {
+      "text": "on",
+      "duration": 2.8,
+      "offset": 331.84,
+      "lang": "en"
+    },
+    {
+      "text": "on different block chains going hey look",
+      "duration": 3.92,
+      "offset": 332.64,
+      "lang": "en"
+    },
+    {
+      "text": "you know by my nft of this crazy thing i",
+      "duration": 3.28,
+      "offset": 334.64,
+      "lang": "en"
+    },
+    {
+      "text": "made all right that&#39;s great and",
+      "duration": 2.72,
+      "offset": 336.56,
+      "lang": "en"
+    },
+    {
+      "text": "everything but you didn&#39;t really make",
+      "duration": 3.68,
+      "offset": 337.92,
+      "lang": "en"
+    },
+    {
+      "text": "anything so i feel kind of",
+      "duration": 4.48,
+      "offset": 339.28,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like that&#39;s like rude but anyway",
+      "duration": 3.76,
+      "offset": 341.6,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s take a look at the tool so",
+      "duration": 2.88,
+      "offset": 343.76,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to jump right in here this",
+      "duration": 3.44,
+      "offset": 345.36,
+      "lang": "en"
+    },
+    {
+      "text": "and it just runs inside of discord",
+      "duration": 3.92,
+      "offset": 346.64,
+      "lang": "en"
+    },
+    {
+      "text": "and i&#39;m usually in",
+      "duration": 3.12,
+      "offset": 348.8,
+      "lang": "en"
+    },
+    {
+      "text": "uh i just pick one of these channels",
+      "duration": 3.68,
+      "offset": 350.56,
+      "lang": "en"
+    },
+    {
+      "text": "here at random",
+      "duration": 4.32,
+      "offset": 351.92,
+      "lang": "en"
+    },
+    {
+      "text": "and you can see what people are typing",
+      "duration": 4.08,
+      "offset": 354.24,
+      "lang": "en"
+    },
+    {
+      "text": "in so here&#39;s another person working this",
+      "duration": 4.96,
+      "offset": 356.24,
+      "lang": "en"
+    },
+    {
+      "text": "cthulu angle",
+      "duration": 2.88,
+      "offset": 358.32,
+      "lang": "en"
+    },
+    {
+      "text": "and you could jump on board one of these",
+      "duration": 4.08,
+      "offset": 361.28,
+      "lang": "en"
+    },
+    {
+      "text": "and click on it underneath each one",
+      "duration": 3.2,
+      "offset": 363.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll see that there&#39;s there&#39;s four",
+      "duration": 3.2,
+      "offset": 365.36,
+      "lang": "en"
+    },
+    {
+      "text": "images and it&#39;ll have variations so",
+      "duration": 4.16,
+      "offset": 366.56,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll say this is one two three and four",
+      "duration": 3.92,
+      "offset": 368.56,
+      "lang": "en"
+    },
+    {
+      "text": "and you can ask for variations on any",
+      "duration": 3.6,
+      "offset": 370.72,
+      "lang": "en"
+    },
+    {
+      "text": "specific one of those or you can ask for",
+      "duration": 3.6,
+      "offset": 372.48,
+      "lang": "en"
+    },
+    {
+      "text": "upsizing on one of those which is when i",
+      "duration": 3.52,
+      "offset": 374.32,
+      "lang": "en"
+    },
+    {
+      "text": "will add more detail",
+      "duration": 5.12,
+      "offset": 376.08,
+      "lang": "en"
+    },
+    {
+      "text": "some of these are just outrageous",
+      "duration": 4.56,
+      "offset": 377.84,
+      "lang": "en"
+    },
+    {
+      "text": "and you&#39;ll see that it&#39;s building them",
+      "duration": 3.12,
+      "offset": 381.2,
+      "lang": "en"
+    },
+    {
+      "text": "over time so pig shouting at crying",
+      "duration": 4.08,
+      "offset": 382.4,
+      "lang": "en"
+    },
+    {
+      "text": "child very simple",
+      "duration": 4.72,
+      "offset": 384.32,
+      "lang": "en"
+    },
+    {
+      "text": "very basic kind of idea",
+      "duration": 4.8,
+      "offset": 386.48,
+      "lang": "en"
+    },
+    {
+      "text": "but i think where this can go is just",
+      "duration": 4.4,
+      "offset": 389.04,
+      "lang": "en"
+    },
+    {
+      "text": "freakishly amazing you see the variation",
+      "duration": 5.6,
+      "offset": 391.28,
+      "lang": "en"
+    },
+    {
+      "text": "in the art is is it&#39;s just insane i love",
+      "duration": 5.44,
+      "offset": 393.44,
+      "lang": "en"
+    },
+    {
+      "text": "so many of these so",
+      "duration": 3.52,
+      "offset": 396.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s even taking on even more of a",
+      "duration": 2.96,
+      "offset": 398.88,
+      "lang": "en"
+    },
+    {
+      "text": "life now it&#39;s getting really disturbing",
+      "duration": 2.72,
+      "offset": 400.4,
+      "lang": "en"
+    },
+    {
+      "text": "so i thought we&#39;d make some of these",
+      "duration": 3.52,
+      "offset": 401.84,
+      "lang": "en"
+    },
+    {
+      "text": "together and see what we could come up",
+      "duration": 3.76,
+      "offset": 403.12,
+      "lang": "en"
+    },
+    {
+      "text": "with because i think this is just",
+      "duration": 4.8,
+      "offset": 405.36,
+      "lang": "en"
+    },
+    {
+      "text": "amazing one of these oh look at that",
+      "duration": 6.08,
+      "offset": 406.88,
+      "lang": "en"
+    },
+    {
+      "text": "raw human meat fantastic nightmare wow",
+      "duration": 6.16,
+      "offset": 410.16,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s not good",
+      "duration": 3.36,
+      "offset": 412.96,
+      "lang": "en"
+    },
+    {
+      "text": "uh so these are all out of context what",
+      "duration": 5.52,
+      "offset": 416.88,
+      "lang": "en"
+    },
+    {
+      "text": "the hell is that",
+      "duration": 5.44,
+      "offset": 419.44,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s just not right god i love that",
+      "duration": 4.16,
+      "offset": 422.4,
+      "lang": "en"
+    },
+    {
+      "text": "one",
+      "duration": 2.72,
+      "offset": 424.88,
+      "lang": "en"
+    },
+    {
+      "text": "anyway",
+      "duration": 2.4,
+      "offset": 426.56,
+      "lang": "en"
+    },
+    {
+      "text": "so i thought we&#39;d make some of these but",
+      "duration": 3.76,
+      "offset": 427.6,
+      "lang": "en"
+    },
+    {
+      "text": "why i&#39;m so excited about this is because",
+      "duration": 4.8,
+      "offset": 428.96,
+      "lang": "en"
+    },
+    {
+      "text": "if you think about this this fun stat",
+      "duration": 3.76,
+      "offset": 431.36,
+      "lang": "en"
+    },
+    {
+      "text": "that i throw around when i speak at",
+      "duration": 3.68,
+      "offset": 433.76,
+      "lang": "en"
+    },
+    {
+      "text": "different conventions is the total of",
+      "duration": 5.04,
+      "offset": 435.12,
+      "lang": "en"
+    },
+    {
+      "text": "all human knowledge doubles every 11",
+      "duration": 5.68,
+      "offset": 437.44,
+      "lang": "en"
+    },
+    {
+      "text": "years so you think 11 years ago what did",
+      "duration": 4.64,
+      "offset": 440.16,
+      "lang": "en"
+    },
+    {
+      "text": "your phone look like how good was your",
+      "duration": 3.52,
+      "offset": 443.12,
+      "lang": "en"
+    },
+    {
+      "text": "computer how good were the software you",
+      "duration": 4.08,
+      "offset": 444.8,
+      "lang": "en"
+    },
+    {
+      "text": "were using um you know the phone is the",
+      "duration": 3.6,
+      "offset": 446.64,
+      "lang": "en"
+    },
+    {
+      "text": "one that most people recognize like an",
+      "duration": 3.44,
+      "offset": 448.88,
+      "lang": "en"
+    },
+    {
+      "text": "11 year old phone this kind of sucks if",
+      "duration": 3.28,
+      "offset": 450.24,
+      "lang": "en"
+    },
+    {
+      "text": "you had 11 year old phone now you&#39;d be",
+      "duration": 4.08,
+      "offset": 452.32,
+      "lang": "en"
+    },
+    {
+      "text": "like oh man but think like vr goggles",
+      "duration": 4.48,
+      "offset": 453.52,
+      "lang": "en"
+    },
+    {
+      "text": "everything medicine",
+      "duration": 4.4,
+      "offset": 456.4,
+      "lang": "en"
+    },
+    {
+      "text": "you name it 11 years ago it was at least",
+      "duration": 4.96,
+      "offset": 458.0,
+      "lang": "en"
+    },
+    {
+      "text": "half of what it is today",
+      "duration": 4.48,
+      "offset": 460.8,
+      "lang": "en"
+    },
+    {
+      "text": "so everything doubles every 11 years",
+      "duration": 3.84,
+      "offset": 462.96,
+      "lang": "en"
+    },
+    {
+      "text": "what is this going to look like in 11",
+      "duration": 3.12,
+      "offset": 465.28,
+      "lang": "en"
+    },
+    {
+      "text": "years i mean it&#39;s already you can do",
+      "duration": 4.0,
+      "offset": 466.8,
+      "lang": "en"
+    },
+    {
+      "text": "photorealistic rendering with it you can",
+      "duration": 3.6,
+      "offset": 468.4,
+      "lang": "en"
+    },
+    {
+      "text": "use different keywords like",
+      "duration": 3.28,
+      "offset": 470.8,
+      "lang": "en"
+    },
+    {
+      "text": "photorealistic here we&#39;ll change it you",
+      "duration": 3.76,
+      "offset": 472.0,
+      "lang": "en"
+    },
+    {
+      "text": "can make it watercolor or you could make",
+      "duration": 4.72,
+      "offset": 474.08,
+      "lang": "en"
+    },
+    {
+      "text": "it whatever you would like now uh i am",
+      "duration": 6.0,
+      "offset": 475.76,
+      "lang": "en"
+    },
+    {
+      "text": "paying for this because i love it and uh",
+      "duration": 4.8,
+      "offset": 478.8,
+      "lang": "en"
+    },
+    {
+      "text": "things that i believe in are things that",
+      "duration": 3.44,
+      "offset": 481.76,
+      "lang": "en"
+    },
+    {
+      "text": "i obviously want to put my money toward",
+      "duration": 2.8,
+      "offset": 483.6,
+      "lang": "en"
+    },
+    {
+      "text": "so i thought we&#39;d make some of these",
+      "duration": 4.8,
+      "offset": 485.2,
+      "lang": "en"
+    },
+    {
+      "text": "together today um i&#39;m a big fan of some",
+      "duration": 5.68,
+      "offset": 486.4,
+      "lang": "en"
+    },
+    {
+      "text": "of these these killer things these whole",
+      "duration": 4.56,
+      "offset": 490.0,
+      "lang": "en"
+    },
+    {
+      "text": "dark horror kind of hp love crafty and",
+      "duration": 4.72,
+      "offset": 492.08,
+      "lang": "en"
+    },
+    {
+      "text": "stuff i really enjoy that and it&#39;s one",
+      "duration": 3.84,
+      "offset": 494.56,
+      "lang": "en"
+    },
+    {
+      "text": "of the things that kind of got me into",
+      "duration": 2.88,
+      "offset": 496.8,
+      "lang": "en"
+    },
+    {
+      "text": "photography and art to begin with",
+      "duration": 3.2,
+      "offset": 498.4,
+      "lang": "en"
+    },
+    {
+      "text": "although a lot of my client stuff my",
+      "duration": 4.48,
+      "offset": 499.68,
+      "lang": "en"
+    },
+    {
+      "text": "body paint hasn&#39;t really gone that way",
+      "duration": 4.56,
+      "offset": 501.6,
+      "lang": "en"
+    },
+    {
+      "text": "it it over time is something i just",
+      "duration": 3.92,
+      "offset": 504.16,
+      "lang": "en"
+    },
+    {
+      "text": "really love so the way you use this is",
+      "duration": 3.92,
+      "offset": 506.16,
+      "lang": "en"
+    },
+    {
+      "text": "you just type in imagine",
+      "duration": 3.92,
+      "offset": 508.08,
+      "lang": "en"
+    },
+    {
+      "text": "and you give it a prompt uh so we could",
+      "duration": 4.16,
+      "offset": 510.08,
+      "lang": "en"
+    },
+    {
+      "text": "do uh i&#39;m just gonna make this up as we",
+      "duration": 4.4,
+      "offset": 512.0,
+      "lang": "en"
+    },
+    {
+      "text": "go",
+      "duration": 2.16,
+      "offset": 514.24,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s do",
+      "duration": 3.28,
+      "offset": 517.12,
+      "lang": "en"
+    },
+    {
+      "text": "brutalism geiger",
+      "duration": 4.8,
+      "offset": 518.16,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s that hr geiger",
+      "duration": 5.12,
+      "offset": 520.4,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic",
+      "duration": 2.56,
+      "offset": 522.96,
+      "lang": "en"
+    },
+    {
+      "text": "what else do we want in there",
+      "duration": 5.56,
+      "offset": 527.2,
+      "lang": "en"
+    },
+    {
+      "text": "photo real estate",
+      "duration": 3.48,
+      "offset": 529.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh let&#39;s use let&#39;s use comments between",
+      "duration": 4.08,
+      "offset": 534.64,
+      "lang": "en"
+    },
+    {
+      "text": "these things",
+      "duration": 3.76,
+      "offset": 537.2,
+      "lang": "en"
+    },
+    {
+      "text": "adjusting i&#39;m not really sure how the",
+      "duration": 3.84,
+      "offset": 538.72,
+      "lang": "en"
+    },
+    {
+      "text": "how this works i&#39;ve obviously only been",
+      "duration": 3.6,
+      "offset": 540.96,
+      "lang": "en"
+    },
+    {
+      "text": "playing with so the short time this came",
+      "duration": 4.32,
+      "offset": 542.56,
+      "lang": "en"
+    },
+    {
+      "text": "this by the way is invite only and uh",
+      "duration": 5.92,
+      "offset": 544.56,
+      "lang": "en"
+    },
+    {
+      "text": "one of my uh channel patrons here",
+      "duration": 5.6,
+      "offset": 546.88,
+      "lang": "en"
+    },
+    {
+      "text": "carrie jean invited me which i really",
+      "duration": 3.92,
+      "offset": 550.48,
+      "lang": "en"
+    },
+    {
+      "text": "appreciated so i i greatly appreciate",
+      "duration": 5.12,
+      "offset": 552.48,
+      "lang": "en"
+    },
+    {
+      "text": "that um i will be giving out invites to",
+      "duration": 5.52,
+      "offset": 554.4,
+      "lang": "en"
+    },
+    {
+      "text": "um the people who are my my",
+      "duration": 4.56,
+      "offset": 557.6,
+      "lang": "en"
+    },
+    {
+      "text": "professionals and i have a new god",
+      "duration": 5.2,
+      "offset": 559.92,
+      "lang": "en"
+    },
+    {
+      "text": "member on the channel galia sanders is",
+      "duration": 4.88,
+      "offset": 562.16,
+      "lang": "en"
+    },
+    {
+      "text": "our new channel god",
+      "duration": 4.0,
+      "offset": 565.12,
+      "lang": "en"
+    },
+    {
+      "text": "which i can&#39;t even tell you like how",
+      "duration": 4.08,
+      "offset": 567.04,
+      "lang": "en"
+    },
+    {
+      "text": "freakishly amazing that is so here&#39;s the",
+      "duration": 3.36,
+      "offset": 569.12,
+      "lang": "en"
+    },
+    {
+      "text": "list of people we got going on right now",
+      "duration": 3.12,
+      "offset": 571.12,
+      "lang": "en"
+    },
+    {
+      "text": "but james",
+      "duration": 3.92,
+      "offset": 572.48,
+      "lang": "en"
+    },
+    {
+      "text": "james dillon glamour hosiery and galia",
+      "duration": 3.52,
+      "offset": 574.24,
+      "lang": "en"
+    },
+    {
+      "text": "sanders are",
+      "duration": 2.56,
+      "offset": 576.4,
+      "lang": "en"
+    },
+    {
+      "text": "right now",
+      "duration": 1.92,
+      "offset": 577.76,
+      "lang": "en"
+    },
+    {
+      "text": "just",
+      "duration": 2.64,
+      "offset": 578.96,
+      "lang": "en"
+    },
+    {
+      "text": "helping me out a ton uh i don&#39;t know if",
+      "duration": 3.28,
+      "offset": 579.68,
+      "lang": "en"
+    },
+    {
+      "text": "you know this already if you&#39;re watching",
+      "duration": 4.16,
+      "offset": 581.6,
+      "lang": "en"
+    },
+    {
+      "text": "me on social media but my car got stolen",
+      "duration": 5.36,
+      "offset": 582.96,
+      "lang": "en"
+    },
+    {
+      "text": "and uh it&#39;s our only car because we my",
+      "duration": 4.32,
+      "offset": 585.76,
+      "lang": "en"
+    },
+    {
+      "text": "wife had worked from home and and i only",
+      "duration": 3.36,
+      "offset": 588.32,
+      "lang": "en"
+    },
+    {
+      "text": "go to the studio when i shoot",
+      "duration": 3.84,
+      "offset": 590.08,
+      "lang": "en"
+    },
+    {
+      "text": "so it&#39;s been kind of a hell so i really",
+      "duration": 3.6,
+      "offset": 591.68,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate the support for the channels",
+      "duration": 2.48,
+      "offset": 593.92,
+      "lang": "en"
+    },
+    {
+      "text": "right now more than anything else we",
+      "duration": 2.48,
+      "offset": 595.28,
+      "lang": "en"
+    },
+    {
+      "text": "still don&#39;t have our car it was stolen",
+      "duration": 3.68,
+      "offset": 596.4,
+      "lang": "en"
+    },
+    {
+      "text": "on the 14th um so yeah we&#39;re still",
+      "duration": 4.0,
+      "offset": 597.76,
+      "lang": "en"
+    },
+    {
+      "text": "waiting on that we don&#39;t know where it",
+      "duration": 4.16,
+      "offset": 600.08,
+      "lang": "en"
+    },
+    {
+      "text": "is right now but we&#39;ll find it anyway",
+      "duration": 3.68,
+      "offset": 601.76,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s go find out what this looks like",
+      "duration": 3.36,
+      "offset": 604.24,
+      "lang": "en"
+    },
+    {
+      "text": "so you just type this in and it will",
+      "duration": 4.48,
+      "offset": 605.44,
+      "lang": "en"
+    },
+    {
+      "text": "start and then we just have to wait a",
+      "duration": 4.4,
+      "offset": 607.6,
+      "lang": "en"
+    },
+    {
+      "text": "few seconds it&#39;s going to pop up four",
+      "duration": 4.64,
+      "offset": 609.92,
+      "lang": "en"
+    },
+    {
+      "text": "variations of which we can ignore them",
+      "duration": 4.24,
+      "offset": 612.0,
+      "lang": "en"
+    },
+    {
+      "text": "if we hate them and we can move on from",
+      "duration": 4.24,
+      "offset": 614.56,
+      "lang": "en"
+    },
+    {
+      "text": "there if you have ideas uh feel free to",
+      "duration": 5.12,
+      "offset": 616.24,
+      "lang": "en"
+    },
+    {
+      "text": "type them into the chat uh it&#39;s open for",
+      "duration": 3.6,
+      "offset": 618.8,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 3.04,
+      "offset": 621.36,
+      "lang": "en"
+    },
+    {
+      "text": "everybody i believe uh so anyone can",
+      "duration": 3.2,
+      "offset": 622.4,
+      "lang": "en"
+    },
+    {
+      "text": "type into the chat if you have some",
+      "duration": 2.96,
+      "offset": 624.4,
+      "lang": "en"
+    },
+    {
+      "text": "ideas here i&#39;m just gonna type",
+      "duration": 4.4,
+      "offset": 625.6,
+      "lang": "en"
+    },
+    {
+      "text": "in this and see what we get and uh roll",
+      "duration": 4.96,
+      "offset": 627.36,
+      "lang": "en"
+    },
+    {
+      "text": "with it or try something different again",
+      "duration": 4.56,
+      "offset": 630.0,
+      "lang": "en"
+    },
+    {
+      "text": "i need to know what you want",
+      "duration": 3.12,
+      "offset": 632.32,
+      "lang": "en"
+    },
+    {
+      "text": "so",
+      "duration": 2.4,
+      "offset": 634.56,
+      "lang": "en"
+    },
+    {
+      "text": "get it in there",
+      "duration": 2.72,
+      "offset": 635.44,
+      "lang": "en"
+    },
+    {
+      "text": "so i&#39;m just going to kind of type some",
+      "duration": 3.28,
+      "offset": 636.96,
+      "lang": "en"
+    },
+    {
+      "text": "of these and see what we get",
+      "duration": 4.88,
+      "offset": 638.16,
+      "lang": "en"
+    },
+    {
+      "text": "and i just think this is so cool that it",
+      "duration": 5.76,
+      "offset": 640.24,
+      "lang": "en"
+    },
+    {
+      "text": "is able to take this and come up with",
+      "duration": 4.0,
+      "offset": 643.04,
+      "lang": "en"
+    },
+    {
+      "text": "something",
+      "duration": 2.32,
+      "offset": 646.0,
+      "lang": "en"
+    },
+    {
+      "text": "just",
+      "duration": 3.68,
+      "offset": 647.04,
+      "lang": "en"
+    },
+    {
+      "text": "off the top of its head",
+      "duration": 4.16,
+      "offset": 648.32,
+      "lang": "en"
+    },
+    {
+      "text": "i think all these are really i love",
+      "duration": 3.28,
+      "offset": 650.72,
+      "lang": "en"
+    },
+    {
+      "text": "these and these",
+      "duration": 2.96,
+      "offset": 652.48,
+      "lang": "en"
+    },
+    {
+      "text": "i think all of them are interesting in",
+      "duration": 2.88,
+      "offset": 654.0,
+      "lang": "en"
+    },
+    {
+      "text": "one way or another so let&#39;s take and",
+      "duration": 3.44,
+      "offset": 655.44,
+      "lang": "en"
+    },
+    {
+      "text": "drill down into one of them",
+      "duration": 4.4,
+      "offset": 656.88,
+      "lang": "en"
+    },
+    {
+      "text": "and kind of see where it goes so let&#39;s",
+      "duration": 4.96,
+      "offset": 658.88,
+      "lang": "en"
+    },
+    {
+      "text": "take a look here so this is the rough",
+      "duration": 5.36,
+      "offset": 661.28,
+      "lang": "en"
+    },
+    {
+      "text": "um the rough version is what we&#39;ve got",
+      "duration": 5.12,
+      "offset": 663.84,
+      "lang": "en"
+    },
+    {
+      "text": "uh the brutalism actually added that",
+      "duration": 5.12,
+      "offset": 666.64,
+      "lang": "en"
+    },
+    {
+      "text": "really nice it feels like i love",
+      "duration": 6.8,
+      "offset": 668.96,
+      "lang": "en"
+    },
+    {
+      "text": "love this one so let&#39;s take um",
+      "duration": 6.22,
+      "offset": 671.76,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s oops where&#39;d my discord go",
+      "duration": 4.56,
+      "offset": 675.76,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 5.3,
+      "offset": 677.98,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s take the fourth version here and",
+      "duration": 5.44,
+      "offset": 680.32,
+      "lang": "en"
+    },
+    {
+      "text": "upscale that",
+      "duration": 3.68,
+      "offset": 683.28,
+      "lang": "en"
+    },
+    {
+      "text": "i just want to see what it looks like",
+      "duration": 2.8,
+      "offset": 685.76,
+      "lang": "en"
+    },
+    {
+      "text": "upscale because it&#39;s going to add that",
+      "duration": 3.52,
+      "offset": 686.96,
+      "lang": "en"
+    },
+    {
+      "text": "additional level of detail",
+      "duration": 3.28,
+      "offset": 688.56,
+      "lang": "en"
+    },
+    {
+      "text": "i think this is really interesting the",
+      "duration": 2.8,
+      "offset": 690.48,
+      "lang": "en"
+    },
+    {
+      "text": "other thing about this is that obviously",
+      "duration": 3.76,
+      "offset": 691.84,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s being generated by computer so",
+      "duration": 4.32,
+      "offset": 693.28,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no copyright so you know you",
+      "duration": 4.08,
+      "offset": 695.6,
+      "lang": "en"
+    },
+    {
+      "text": "could use these for whatever",
+      "duration": 3.76,
+      "offset": 697.6,
+      "lang": "en"
+    },
+    {
+      "text": "obviously if you&#39;re using it for",
+      "duration": 3.92,
+      "offset": 699.68,
+      "lang": "en"
+    },
+    {
+      "text": "commercial reasons there are some rules",
+      "duration": 4.96,
+      "offset": 701.36,
+      "lang": "en"
+    },
+    {
+      "text": "and regulations according to mid journey",
+      "duration": 5.28,
+      "offset": 703.6,
+      "lang": "en"
+    },
+    {
+      "text": "as to how you you have to limit that",
+      "duration": 3.68,
+      "offset": 706.32,
+      "lang": "en"
+    },
+    {
+      "text": "especially when it comes to selling",
+      "duration": 2.88,
+      "offset": 708.88,
+      "lang": "en"
+    },
+    {
+      "text": "something on a blockchain but",
+      "duration": 4.4,
+      "offset": 710.0,
+      "lang": "en"
+    },
+    {
+      "text": "again i i love it as art i&#39;d print it",
+      "duration": 5.2,
+      "offset": 711.76,
+      "lang": "en"
+    },
+    {
+      "text": "maybe but my goal i think is to start",
+      "duration": 3.6,
+      "offset": 714.4,
+      "lang": "en"
+    },
+    {
+      "text": "with one of these as a point of",
+      "duration": 3.36,
+      "offset": 716.96,
+      "lang": "en"
+    },
+    {
+      "text": "departure and say this is a really great",
+      "duration": 4.64,
+      "offset": 718.0,
+      "lang": "en"
+    },
+    {
+      "text": "idea where do i want to go with it and",
+      "duration": 3.92,
+      "offset": 720.32,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s kind of uh that&#39;s kind of where",
+      "duration": 3.6,
+      "offset": 722.64,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m excited about it",
+      "duration": 3.44,
+      "offset": 724.24,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m just letting that one explore as",
+      "duration": 3.12,
+      "offset": 726.24,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re doing that one let&#39;s take and",
+      "duration": 4.48,
+      "offset": 727.68,
+      "lang": "en"
+    },
+    {
+      "text": "explore variations on this third one",
+      "duration": 4.8,
+      "offset": 729.36,
+      "lang": "en"
+    },
+    {
+      "text": "here someone hit v3 for variations on",
+      "duration": 3.76,
+      "offset": 732.16,
+      "lang": "en"
+    },
+    {
+      "text": "the third theme here",
+      "duration": 3.12,
+      "offset": 734.16,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s going to be working on that",
+      "duration": 3.36,
+      "offset": 735.92,
+      "lang": "en"
+    },
+    {
+      "text": "behind the scenes as well",
+      "duration": 4.16,
+      "offset": 737.28,
+      "lang": "en"
+    },
+    {
+      "text": "now there are there are free versions of",
+      "duration": 4.08,
+      "offset": 739.28,
+      "lang": "en"
+    },
+    {
+      "text": "this which work fine and i was using",
+      "duration": 4.4,
+      "offset": 741.44,
+      "lang": "en"
+    },
+    {
+      "text": "that for a while but i really wanted to",
+      "duration": 4.56,
+      "offset": 743.36,
+      "lang": "en"
+    },
+    {
+      "text": "be able to do private so i can actually",
+      "duration": 3.52,
+      "offset": 745.84,
+      "lang": "en"
+    },
+    {
+      "text": "see what i&#39;m working on instead of you",
+      "duration": 3.76,
+      "offset": 747.92,
+      "lang": "en"
+    },
+    {
+      "text": "saw how fast that thing is scrolling by",
+      "duration": 3.68,
+      "offset": 749.36,
+      "lang": "en"
+    },
+    {
+      "text": "on the other screen",
+      "duration": 2.72,
+      "offset": 751.68,
+      "lang": "en"
+    },
+    {
+      "text": "i really wanted to do something a little",
+      "duration": 3.68,
+      "offset": 753.04,
+      "lang": "en"
+    },
+    {
+      "text": "bit more where i was in control",
+      "duration": 4.08,
+      "offset": 754.4,
+      "lang": "en"
+    },
+    {
+      "text": "so that&#39;s where i am now",
+      "duration": 6.88,
+      "offset": 756.72,
+      "lang": "en"
+    },
+    {
+      "text": "with that anyway uh two seconds here um",
+      "duration": 5.12,
+      "offset": 758.48,
+      "lang": "en"
+    },
+    {
+      "text": "okay so here are the variations on that",
+      "duration": 3.44,
+      "offset": 765.2,
+      "lang": "en"
+    },
+    {
+      "text": "one",
+      "duration": 2.56,
+      "offset": 767.76,
+      "lang": "en"
+    },
+    {
+      "text": "uh and you can see we got some really",
+      "duration": 4.32,
+      "offset": 768.64,
+      "lang": "en"
+    },
+    {
+      "text": "interesting stuff coming out oh man just",
+      "duration": 5.2,
+      "offset": 770.32,
+      "lang": "en"
+    },
+    {
+      "text": "love how creative these things are i",
+      "duration": 4.0,
+      "offset": 772.96,
+      "lang": "en"
+    },
+    {
+      "text": "think this one&#39;s interesting i wish",
+      "duration": 3.44,
+      "offset": 775.52,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a little bit more headroom here",
+      "duration": 3.68,
+      "offset": 776.96,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s just go with variations on",
+      "duration": 3.6,
+      "offset": 778.96,
+      "lang": "en"
+    },
+    {
+      "text": "number two here",
+      "duration": 3.36,
+      "offset": 780.64,
+      "lang": "en"
+    },
+    {
+      "text": "and then let&#39;s take a look at this one",
+      "duration": 5.2,
+      "offset": 782.56,
+      "lang": "en"
+    },
+    {
+      "text": "so this is the uh upscale version of",
+      "duration": 5.28,
+      "offset": 784.0,
+      "lang": "en"
+    },
+    {
+      "text": "that other one it&#39;s interesting how it",
+      "duration": 3.04,
+      "offset": 787.76,
+      "lang": "en"
+    },
+    {
+      "text": "even like faked it kind of a signature",
+      "duration": 3.28,
+      "offset": 789.28,
+      "lang": "en"
+    },
+    {
+      "text": "in the bottom i really wonder how this",
+      "duration": 3.6,
+      "offset": 790.8,
+      "lang": "en"
+    },
+    {
+      "text": "thing is working i think is it grabbing",
+      "duration": 3.68,
+      "offset": 792.56,
+      "lang": "en"
+    },
+    {
+      "text": "other artwork or pieces of different",
+      "duration": 2.96,
+      "offset": 794.4,
+      "lang": "en"
+    },
+    {
+      "text": "artworks",
+      "duration": 3.52,
+      "offset": 796.24,
+      "lang": "en"
+    },
+    {
+      "text": "and so on um i&#39;m gonna do variations on",
+      "duration": 4.08,
+      "offset": 797.36,
+      "lang": "en"
+    },
+    {
+      "text": "this fourth one now because i&#39;m not",
+      "duration": 4.32,
+      "offset": 799.76,
+      "lang": "en"
+    },
+    {
+      "text": "really happy with this",
+      "duration": 5.04,
+      "offset": 801.44,
+      "lang": "en"
+    },
+    {
+      "text": "but i think it had some promise",
+      "duration": 3.92,
+      "offset": 804.08,
+      "lang": "en"
+    },
+    {
+      "text": "and here are some variations on this",
+      "duration": 4.0,
+      "offset": 806.48,
+      "lang": "en"
+    },
+    {
+      "text": "almost done",
+      "duration": 2.48,
+      "offset": 808.0,
+      "lang": "en"
+    },
+    {
+      "text": "wow look at this just",
+      "duration": 6.08,
+      "offset": 811.28,
+      "lang": "en"
+    },
+    {
+      "text": "freakishly cool love this one",
+      "duration": 5.36,
+      "offset": 813.68,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s do an upscale version of the",
+      "duration": 3.84,
+      "offset": 817.36,
+      "lang": "en"
+    },
+    {
+      "text": "first one and see how that looks anyway",
+      "duration": 4.08,
+      "offset": 819.04,
+      "lang": "en"
+    },
+    {
+      "text": "if you got ideas type them in the in the",
+      "duration": 3.6,
+      "offset": 821.2,
+      "lang": "en"
+    },
+    {
+      "text": "chat here",
+      "duration": 4.08,
+      "offset": 823.12,
+      "lang": "en"
+    },
+    {
+      "text": "this is uh this is our time to play",
+      "duration": 5.36,
+      "offset": 824.8,
+      "lang": "en"
+    },
+    {
+      "text": "but i will be getting invites uh over to",
+      "duration": 4.16,
+      "offset": 827.2,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 2.56,
+      "offset": 830.16,
+      "lang": "en"
+    },
+    {
+      "text": "if you guys want them as to say if you",
+      "duration": 2.8,
+      "offset": 831.36,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t want them then obviously don&#39;t",
+      "duration": 3.44,
+      "offset": 832.72,
+      "lang": "en"
+    },
+    {
+      "text": "worry about it uh but uh the channel",
+      "duration": 3.12,
+      "offset": 834.16,
+      "lang": "en"
+    },
+    {
+      "text": "professionals on the channel guides",
+      "duration": 2.56,
+      "offset": 836.16,
+      "lang": "en"
+    },
+    {
+      "text": "really appreciate you guys i don&#39;t have",
+      "duration": 2.8,
+      "offset": 837.28,
+      "lang": "en"
+    },
+    {
+      "text": "enough for",
+      "duration": 4.88,
+      "offset": 838.72,
+      "lang": "en"
+    },
+    {
+      "text": "uh the channel patrons unfortunately um",
+      "duration": 5.76,
+      "offset": 840.08,
+      "lang": "en"
+    },
+    {
+      "text": "as as time passes and maybe i get more",
+      "duration": 3.68,
+      "offset": 843.6,
+      "lang": "en"
+    },
+    {
+      "text": "invites or they change that then i&#39;ll be",
+      "duration": 3.36,
+      "offset": 845.84,
+      "lang": "en"
+    },
+    {
+      "text": "able to give them out to all of you um",
+      "duration": 4.32,
+      "offset": 847.28,
+      "lang": "en"
+    },
+    {
+      "text": "but i i want to be fair about it so it&#39;s",
+      "duration": 4.56,
+      "offset": 849.2,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s tough to do uh when i got",
+      "duration": 4.0,
+      "offset": 851.6,
+      "lang": "en"
+    },
+    {
+      "text": "so many people are helping me out look",
+      "duration": 3.36,
+      "offset": 853.76,
+      "lang": "en"
+    },
+    {
+      "text": "at that thing that&#39;s just freakishly",
+      "duration": 4.0,
+      "offset": 855.6,
+      "lang": "en"
+    },
+    {
+      "text": "cool it&#39;s not even done yet 63 how are",
+      "duration": 3.92,
+      "offset": 857.12,
+      "lang": "en"
+    },
+    {
+      "text": "we doing here",
+      "duration": 3.28,
+      "offset": 859.6,
+      "lang": "en"
+    },
+    {
+      "text": "um yeah this one looked like it had",
+      "duration": 3.2,
+      "offset": 861.04,
+      "lang": "en"
+    },
+    {
+      "text": "promise but",
+      "duration": 3.12,
+      "offset": 862.88,
+      "lang": "en"
+    },
+    {
+      "text": "just dead thing in the front",
+      "duration": 2.88,
+      "offset": 864.24,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 3.76,
+      "offset": 866.0,
+      "lang": "en"
+    },
+    {
+      "text": "we can also change the style so for",
+      "duration": 5.68,
+      "offset": 867.12,
+      "lang": "en"
+    },
+    {
+      "text": "example let&#39;s do that again",
+      "duration": 5.12,
+      "offset": 869.76,
+      "lang": "en"
+    },
+    {
+      "text": "but let&#39;s use",
+      "duration": 3.76,
+      "offset": 872.8,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s just change the style so from",
+      "duration": 3.12,
+      "offset": 874.88,
+      "lang": "en"
+    },
+    {
+      "text": "photoreal",
+      "duration": 2.88,
+      "offset": 876.56,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s change it to",
+      "duration": 3.76,
+      "offset": 878.0,
+      "lang": "en"
+    },
+    {
+      "text": "oops",
+      "duration": 2.32,
+      "offset": 879.44,
+      "lang": "en"
+    },
+    {
+      "text": "oil on canvas",
+      "duration": 5.76,
+      "offset": 882.56,
+      "lang": "en"
+    },
+    {
+      "text": "and um",
+      "duration": 3.92,
+      "offset": 885.84,
+      "lang": "en"
+    },
+    {
+      "text": "see how that",
+      "duration": 2.4,
+      "offset": 888.32,
+      "lang": "en"
+    },
+    {
+      "text": "does it",
+      "duration": 2.48,
+      "offset": 889.76,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s not do brutalism though let&#39;s take",
+      "duration": 3.04,
+      "offset": 890.72,
+      "lang": "en"
+    },
+    {
+      "text": "that one out too because that&#39;s big",
+      "duration": 2.64,
+      "offset": 892.24,
+      "lang": "en"
+    },
+    {
+      "text": "concrete if you&#39;re not familiar with",
+      "duration": 2.48,
+      "offset": 893.76,
+      "lang": "en"
+    },
+    {
+      "text": "brutalism that&#39;s",
+      "duration": 4.0,
+      "offset": 894.88,
+      "lang": "en"
+    },
+    {
+      "text": "big concrete kind of thing let&#39;s do wide",
+      "duration": 4.08,
+      "offset": 896.24,
+      "lang": "en"
+    },
+    {
+      "text": "angle",
+      "duration": 4.08,
+      "offset": 898.88,
+      "lang": "en"
+    },
+    {
+      "text": "instead of cinematic there just a few",
+      "duration": 4.64,
+      "offset": 900.32,
+      "lang": "en"
+    },
+    {
+      "text": "things different and see what kind of",
+      "duration": 5.68,
+      "offset": 902.96,
+      "lang": "en"
+    },
+    {
+      "text": "fantastic result we get from this thing",
+      "duration": 3.68,
+      "offset": 904.96,
+      "lang": "en"
+    },
+    {
+      "text": "hopefully wait for it here this one is",
+      "duration": 6.08,
+      "offset": 909.04,
+      "lang": "en"
+    },
+    {
+      "text": "looking decent wow look at that",
+      "duration": 6.0,
+      "offset": 911.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s just so wild that we created that",
+      "duration": 4.56,
+      "offset": 915.12,
+      "lang": "en"
+    },
+    {
+      "text": "with just text",
+      "duration": 4.4,
+      "offset": 917.36,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m really really into this this is",
+      "duration": 3.76,
+      "offset": 919.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to be a waste of my day i could",
+      "duration": 3.52,
+      "offset": 921.76,
+      "lang": "en"
+    },
+    {
+      "text": "tell that right now and i close my",
+      "duration": 5.2,
+      "offset": 923.44,
+      "lang": "en"
+    },
+    {
+      "text": "discord what do i do with my discord",
+      "duration": 3.36,
+      "offset": 925.28,
+      "lang": "en"
+    },
+    {
+      "text": "i keep doing it",
+      "duration": 3.12,
+      "offset": 928.88,
+      "lang": "en"
+    },
+    {
+      "text": "go for that x up there and i don&#39;t need",
+      "duration": 4.88,
+      "offset": 930.64,
+      "lang": "en"
+    },
+    {
+      "text": "to this is thinking oh here we go",
+      "duration": 3.52,
+      "offset": 932.0,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s letting it do its thing here you",
+      "duration": 3.04,
+      "offset": 937.28,
+      "lang": "en"
+    },
+    {
+      "text": "guys have any ideas throw them in the",
+      "duration": 2.48,
+      "offset": 938.88,
+      "lang": "en"
+    },
+    {
+      "text": "chat",
+      "duration": 2.56,
+      "offset": 940.32,
+      "lang": "en"
+    },
+    {
+      "text": "otherwise i&#39;m just going to keep doing",
+      "duration": 4.24,
+      "offset": 941.36,
+      "lang": "en"
+    },
+    {
+      "text": "what i&#39;m doing here",
+      "duration": 2.72,
+      "offset": 942.88,
+      "lang": "en"
+    },
+    {
+      "text": "and see what kind of hilarity ensues",
+      "duration": 4.4,
+      "offset": 946.0,
+      "lang": "en"
+    },
+    {
+      "text": "i might take the geiger off of here that",
+      "duration": 3.52,
+      "offset": 950.56,
+      "lang": "en"
+    },
+    {
+      "text": "might be",
+      "duration": 2.48,
+      "offset": 952.88,
+      "lang": "en"
+    },
+    {
+      "text": "another",
+      "duration": 3.76,
+      "offset": 954.08,
+      "lang": "en"
+    },
+    {
+      "text": "fun way to do this so",
+      "duration": 4.8,
+      "offset": 955.36,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s do",
+      "duration": 4.64,
+      "offset": 957.84,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic",
+      "duration": 5.36,
+      "offset": 960.16,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ll keep it cinematic",
+      "duration": 3.04,
+      "offset": 962.48,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s do oil on canvas",
+      "duration": 4.4,
+      "offset": 966.4,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 2.32,
+      "offset": 969.68,
+      "lang": "en"
+    },
+    {
+      "text": "who&#39;s the",
+      "duration": 2.16,
+      "offset": 970.8,
+      "lang": "en"
+    },
+    {
+      "text": "and this is where you got to play the",
+      "duration": 2.56,
+      "offset": 972.0,
+      "lang": "en"
+    },
+    {
+      "text": "whole painter thing like",
+      "duration": 2.96,
+      "offset": 972.96,
+      "lang": "en"
+    },
+    {
+      "text": "who are your who are your favorite",
+      "duration": 4.72,
+      "offset": 974.56,
+      "lang": "en"
+    },
+    {
+      "text": "painters of all time um and i&#39;m gonna",
+      "duration": 5.6,
+      "offset": 975.92,
+      "lang": "en"
+    },
+    {
+      "text": "need",
+      "duration": 2.24,
+      "offset": 979.28,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m to to bring these up here",
+      "duration": 3.52,
+      "offset": 981.68,
+      "lang": "en"
+    },
+    {
+      "text": "who did i can never remember the name of",
+      "duration": 5.36,
+      "offset": 986.96,
+      "lang": "en"
+    },
+    {
+      "text": "it fragonard that&#39;s right",
+      "duration": 3.52,
+      "offset": 988.8,
+      "lang": "en"
+    },
+    {
+      "text": "bregenard did a lot of really cool",
+      "duration": 4.32,
+      "offset": 993.36,
+      "lang": "en"
+    },
+    {
+      "text": "renaissance paintings that i really",
+      "duration": 4.56,
+      "offset": 995.84,
+      "lang": "en"
+    },
+    {
+      "text": "enjoy uh i thought that that would be",
+      "duration": 5.12,
+      "offset": 997.68,
+      "lang": "en"
+    },
+    {
+      "text": "a fun one to kind of throw out there uh",
+      "duration": 4.56,
+      "offset": 1000.4,
+      "lang": "en"
+    },
+    {
+      "text": "a rococo let&#39;s put that one in there too",
+      "duration": 6.76,
+      "offset": 1002.8,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re gonna do a famous rococo",
+      "duration": 4.6,
+      "offset": 1004.96,
+      "lang": "en"
+    },
+    {
+      "text": "cthulhu",
+      "duration": 4.16,
+      "offset": 1010.88,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic in oil",
+      "duration": 4.24,
+      "offset": 1012.8,
+      "lang": "en"
+    },
+    {
+      "text": "yeah",
+      "duration": 3.68,
+      "offset": 1015.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what we&#39;re buying today all right",
+      "duration": 2.96,
+      "offset": 1017.04,
+      "lang": "en"
+    },
+    {
+      "text": "how&#39;d these turn out",
+      "duration": 3.6,
+      "offset": 1018.72,
+      "lang": "en"
+    },
+    {
+      "text": "oh okay interesting this one is really",
+      "duration": 4.88,
+      "offset": 1020.0,
+      "lang": "en"
+    },
+    {
+      "text": "interesting isn&#39;t it that&#39;s more of what",
+      "duration": 4.24,
+      "offset": 1022.32,
+      "lang": "en"
+    },
+    {
+      "text": "i would expect",
+      "duration": 4.16,
+      "offset": 1024.88,
+      "lang": "en"
+    },
+    {
+      "text": "kind of a cthulhu type of image to look",
+      "duration": 4.16,
+      "offset": 1026.56,
+      "lang": "en"
+    },
+    {
+      "text": "like actually that&#39;s pretty deep so",
+      "duration": 3.04,
+      "offset": 1029.04,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s see if that looks upscale that",
+      "duration": 2.4,
+      "offset": 1030.72,
+      "lang": "en"
+    },
+    {
+      "text": "thing",
+      "duration": 2.96,
+      "offset": 1032.08,
+      "lang": "en"
+    },
+    {
+      "text": "and here are come our",
+      "duration": 5.16,
+      "offset": 1033.12,
+      "lang": "en"
+    },
+    {
+      "text": "other ones",
+      "duration": 3.24,
+      "offset": 1035.04,
+      "lang": "en"
+    },
+    {
+      "text": "i think this is just so much fun i mean",
+      "duration": 5.28,
+      "offset": 1039.92,
+      "lang": "en"
+    },
+    {
+      "text": "so many great ideas for art to come out",
+      "duration": 4.24,
+      "offset": 1042.32,
+      "lang": "en"
+    },
+    {
+      "text": "of this thing",
+      "duration": 3.28,
+      "offset": 1045.2,
+      "lang": "en"
+    },
+    {
+      "text": "uh obviously i would use this as a",
+      "duration": 3.6,
+      "offset": 1046.56,
+      "lang": "en"
+    },
+    {
+      "text": "pointy departure you know kind of photo",
+      "duration": 3.6,
+      "offset": 1048.48,
+      "lang": "en"
+    },
+    {
+      "text": "bashing which is where you take other",
+      "duration": 3.52,
+      "offset": 1050.16,
+      "lang": "en"
+    },
+    {
+      "text": "pictures and smash them together and",
+      "duration": 2.8,
+      "offset": 1052.08,
+      "lang": "en"
+    },
+    {
+      "text": "come up with your own piece of art",
+      "duration": 3.04,
+      "offset": 1053.68,
+      "lang": "en"
+    },
+    {
+      "text": "instead of it letting be it be something",
+      "duration": 3.44,
+      "offset": 1054.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s 100 computer generated that&#39;s",
+      "duration": 3.84,
+      "offset": 1056.72,
+      "lang": "en"
+    },
+    {
+      "text": "obviously not your art that&#39;s the art of",
+      "duration": 3.52,
+      "offset": 1058.32,
+      "lang": "en"
+    },
+    {
+      "text": "this computer",
+      "duration": 2.72,
+      "offset": 1060.56,
+      "lang": "en"
+    },
+    {
+      "text": "but you can still love it you can still",
+      "duration": 2.48,
+      "offset": 1061.84,
+      "lang": "en"
+    },
+    {
+      "text": "enjoy it",
+      "duration": 3.6,
+      "offset": 1063.28,
+      "lang": "en"
+    },
+    {
+      "text": "but in my mind it&#39;s something else look",
+      "duration": 5.36,
+      "offset": 1064.32,
+      "lang": "en"
+    },
+    {
+      "text": "at that it looks so much like",
+      "duration": 6.4,
+      "offset": 1066.88,
+      "lang": "en"
+    },
+    {
+      "text": "a fragile type of rococo painting that",
+      "duration": 6.88,
+      "offset": 1069.68,
+      "lang": "en"
+    },
+    {
+      "text": "is so good",
+      "duration": 6.08,
+      "offset": 1073.28,
+      "lang": "en"
+    },
+    {
+      "text": "holy crap",
+      "duration": 2.8,
+      "offset": 1076.56,
+      "lang": "en"
+    },
+    {
+      "text": "that is impressive",
+      "duration": 5.68,
+      "offset": 1079.52,
+      "lang": "en"
+    },
+    {
+      "text": "i am blown away i&#39;m i&#39;m so blown away by",
+      "duration": 3.92,
+      "offset": 1082.4,
+      "lang": "en"
+    },
+    {
+      "text": "this",
+      "duration": 2.16,
+      "offset": 1085.2,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 3.36,
+      "offset": 1086.32,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s do the top one",
+      "duration": 4.72,
+      "offset": 1087.36,
+      "lang": "en"
+    },
+    {
+      "text": "this one",
+      "duration": 2.4,
+      "offset": 1089.68,
+      "lang": "en"
+    },
+    {
+      "text": "this is just blowing my mind anyway i",
+      "duration": 4.96,
+      "offset": 1092.56,
+      "lang": "en"
+    },
+    {
+      "text": "thought i&#39;d share this today because",
+      "duration": 4.88,
+      "offset": 1094.96,
+      "lang": "en"
+    },
+    {
+      "text": "again i just walked into it and i mean",
+      "duration": 4.64,
+      "offset": 1097.52,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ve been aware of it but i thought like",
+      "duration": 3.28,
+      "offset": 1099.84,
+      "lang": "en"
+    },
+    {
+      "text": "you know it&#39;s one of those things i&#39;m",
+      "duration": 2.32,
+      "offset": 1102.16,
+      "lang": "en"
+    },
+    {
+      "text": "never going to get a chance to use or",
+      "duration": 2.32,
+      "offset": 1103.12,
+      "lang": "en"
+    },
+    {
+      "text": "play with",
+      "duration": 3.12,
+      "offset": 1104.48,
+      "lang": "en"
+    },
+    {
+      "text": "and then carrie jean was kind enough to",
+      "duration": 4.0,
+      "offset": 1105.44,
+      "lang": "en"
+    },
+    {
+      "text": "to get me an invite for it which i",
+      "duration": 3.68,
+      "offset": 1107.6,
+      "lang": "en"
+    },
+    {
+      "text": "deeply appreciate so i&#39;m actually paying",
+      "duration": 3.28,
+      "offset": 1109.44,
+      "lang": "en"
+    },
+    {
+      "text": "for it now as well because i&#39;m just",
+      "duration": 3.6,
+      "offset": 1111.28,
+      "lang": "en"
+    },
+    {
+      "text": "blown away by how good this is like",
+      "duration": 4.96,
+      "offset": 1112.72,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s pretty freaking sweet",
+      "duration": 5.36,
+      "offset": 1114.88,
+      "lang": "en"
+    },
+    {
+      "text": "i think that&#39;s impressive",
+      "duration": 4.08,
+      "offset": 1117.68,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s not even the maximum resolution",
+      "duration": 3.44,
+      "offset": 1120.24,
+      "lang": "en"
+    },
+    {
+      "text": "yet by the way that&#39;s our our warmer",
+      "duration": 4.24,
+      "offset": 1121.76,
+      "lang": "en"
+    },
+    {
+      "text": "resolution we can upscale it to the max",
+      "duration": 3.68,
+      "offset": 1123.68,
+      "lang": "en"
+    },
+    {
+      "text": "we really like it which i don&#39;t know",
+      "duration": 3.44,
+      "offset": 1126.0,
+      "lang": "en"
+    },
+    {
+      "text": "that they do uh i&#39;m more excited for",
+      "duration": 3.6,
+      "offset": 1127.36,
+      "lang": "en"
+    },
+    {
+      "text": "whatever this thing is going to turn out",
+      "duration": 2.48,
+      "offset": 1129.44,
+      "lang": "en"
+    },
+    {
+      "text": "to be",
+      "duration": 3.04,
+      "offset": 1130.96,
+      "lang": "en"
+    },
+    {
+      "text": "anyway i just want to kind of do a quick",
+      "duration": 4.48,
+      "offset": 1131.92,
+      "lang": "en"
+    },
+    {
+      "text": "live stream on this today uh i haven&#39;t",
+      "duration": 3.68,
+      "offset": 1134.0,
+      "lang": "en"
+    },
+    {
+      "text": "had again i couldn&#39;t do a live stream",
+      "duration": 3.2,
+      "offset": 1136.4,
+      "lang": "en"
+    },
+    {
+      "text": "because my car was stolen we&#39;re still",
+      "duration": 4.08,
+      "offset": 1137.68,
+      "lang": "en"
+    },
+    {
+      "text": "dealing with that um and still can&#39;t",
+      "duration": 3.52,
+      "offset": 1139.6,
+      "lang": "en"
+    },
+    {
+      "text": "find the car",
+      "duration": 3.52,
+      "offset": 1141.76,
+      "lang": "en"
+    },
+    {
+      "text": "so again i really appreciate you guys uh",
+      "duration": 3.2,
+      "offset": 1143.12,
+      "lang": "en"
+    },
+    {
+      "text": "putting money toward the channel it",
+      "duration": 2.72,
+      "offset": 1145.28,
+      "lang": "en"
+    },
+    {
+      "text": "means a lot to me and obviously since",
+      "duration": 2.64,
+      "offset": 1146.32,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m home",
+      "duration": 2.96,
+      "offset": 1148.0,
+      "lang": "en"
+    },
+    {
+      "text": "might as well be making some videos",
+      "duration": 4.16,
+      "offset": 1148.96,
+      "lang": "en"
+    },
+    {
+      "text": "so i&#39;ve actually ordered a laser cutter",
+      "duration": 3.52,
+      "offset": 1150.96,
+      "lang": "en"
+    },
+    {
+      "text": "as well a couple weeks ago and it should",
+      "duration": 3.76,
+      "offset": 1153.12,
+      "lang": "en"
+    },
+    {
+      "text": "be arriving soon i know that&#39;s another",
+      "duration": 4.72,
+      "offset": 1154.48,
+      "lang": "en"
+    },
+    {
+      "text": "thing to throw into the channel mix here",
+      "duration": 3.84,
+      "offset": 1156.88,
+      "lang": "en"
+    },
+    {
+      "text": "but there&#39;s some stuff i want to do with",
+      "duration": 3.6,
+      "offset": 1159.2,
+      "lang": "en"
+    },
+    {
+      "text": "it that kind of applies to photography",
+      "duration": 3.76,
+      "offset": 1160.72,
+      "lang": "en"
+    },
+    {
+      "text": "and some costumes i want to make",
+      "duration": 2.72,
+      "offset": 1162.8,
+      "lang": "en"
+    },
+    {
+      "text": "so i don&#39;t know if you guys think that&#39;s",
+      "duration": 2.24,
+      "offset": 1164.48,
+      "lang": "en"
+    },
+    {
+      "text": "interesting or not but let me know if",
+      "duration": 2.88,
+      "offset": 1165.52,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s something you&#39;d like to see",
+      "duration": 3.12,
+      "offset": 1166.72,
+      "lang": "en"
+    },
+    {
+      "text": "in the channel i have no idea what the",
+      "duration": 6.4,
+      "offset": 1168.4,
+      "lang": "en"
+    },
+    {
+      "text": "hell that is but uh it&#39;s wrong i love it",
+      "duration": 4.96,
+      "offset": 1169.84,
+      "lang": "en"
+    },
+    {
+      "text": "but maybe we&#39;ll do some variations on",
+      "duration": 4.48,
+      "offset": 1174.88,
+      "lang": "en"
+    },
+    {
+      "text": "this and see what kind of",
+      "duration": 5.52,
+      "offset": 1176.88,
+      "lang": "en"
+    },
+    {
+      "text": "creatures it can create oh here we go a",
+      "duration": 4.48,
+      "offset": 1179.36,
+      "lang": "en"
+    },
+    {
+      "text": "portrait photographer saves the world",
+      "duration": 4.08,
+      "offset": 1182.4,
+      "lang": "en"
+    },
+    {
+      "text": "from a photorealistic armageddon okay",
+      "duration": 8.04,
+      "offset": 1183.84,
+      "lang": "en"
+    },
+    {
+      "text": "and let&#39;s throw that in there i love it",
+      "duration": 5.4,
+      "offset": 1186.48,
+      "lang": "en"
+    },
+    {
+      "text": "uh and you want to do this probably",
+      "duration": 4.24,
+      "offset": 1194.16,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic",
+      "duration": 3.92,
+      "offset": 1195.92,
+      "lang": "en"
+    },
+    {
+      "text": "so it&#39;s wide angle otherwise it might",
+      "duration": 4.32,
+      "offset": 1198.4,
+      "lang": "en"
+    },
+    {
+      "text": "just be a portrait",
+      "duration": 2.88,
+      "offset": 1199.84,
+      "lang": "en"
+    },
+    {
+      "text": "and",
+      "duration": 3.36,
+      "offset": 1203.04,
+      "lang": "en"
+    },
+    {
+      "text": "i think we need to remove the word",
+      "duration": 3.04,
+      "offset": 1204.72,
+      "lang": "en"
+    },
+    {
+      "text": "portrait from here that&#39;s one of these",
+      "duration": 3.28,
+      "offset": 1206.4,
+      "lang": "en"
+    },
+    {
+      "text": "things about this that i&#39;m discovering",
+      "duration": 2.96,
+      "offset": 1207.76,
+      "lang": "en"
+    },
+    {
+      "text": "is that",
+      "duration": 2.08,
+      "offset": 1209.68,
+      "lang": "en"
+    },
+    {
+      "text": "different",
+      "duration": 3.36,
+      "offset": 1210.72,
+      "lang": "en"
+    },
+    {
+      "text": "words in order can be interpreted",
+      "duration": 4.88,
+      "offset": 1211.76,
+      "lang": "en"
+    },
+    {
+      "text": "incorrectly or in different ways",
+      "duration": 4.8,
+      "offset": 1214.08,
+      "lang": "en"
+    },
+    {
+      "text": "um so it&#39;s just kind of a messing with",
+      "duration": 4.0,
+      "offset": 1216.64,
+      "lang": "en"
+    },
+    {
+      "text": "it",
+      "duration": 5.6,
+      "offset": 1218.88,
+      "lang": "en"
+    },
+    {
+      "text": "i really like a lot of these are so good",
+      "duration": 5.36,
+      "offset": 1220.64,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a different pieces of each one",
+      "duration": 3.36,
+      "offset": 1224.48,
+      "lang": "en"
+    },
+    {
+      "text": "of these that i really enjoy i wish",
+      "duration": 3.76,
+      "offset": 1226.0,
+      "lang": "en"
+    },
+    {
+      "text": "there were more like suckers on the on",
+      "duration": 3.28,
+      "offset": 1227.84,
+      "lang": "en"
+    },
+    {
+      "text": "the cthulhu though like i need to throw",
+      "duration": 2.8,
+      "offset": 1229.76,
+      "lang": "en"
+    },
+    {
+      "text": "the word octopus in there i think and",
+      "duration": 4.32,
+      "offset": 1231.12,
+      "lang": "en"
+    },
+    {
+      "text": "see what happens to it",
+      "duration": 5.92,
+      "offset": 1232.56,
+      "lang": "en"
+    },
+    {
+      "text": "maybe that&#39;s a um",
+      "duration": 3.04,
+      "offset": 1235.44,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s do that i&#39;ll throw octopus in",
+      "duration": 4.6,
+      "offset": 1239.76,
+      "lang": "en"
+    },
+    {
+      "text": "there",
+      "duration": 3.0,
+      "offset": 1241.36,
+      "lang": "en"
+    },
+    {
+      "text": "tentacles i don&#39;t know how to spell by",
+      "duration": 3.12,
+      "offset": 1250.16,
+      "lang": "en"
+    },
+    {
+      "text": "the way if you ever notice that",
+      "duration": 3.04,
+      "offset": 1251.52,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t have time where the spell were",
+      "duration": 3.2,
+      "offset": 1253.28,
+      "lang": "en"
+    },
+    {
+      "text": "tentacles or not i don&#39;t know is it",
+      "duration": 4.32,
+      "offset": 1254.56,
+      "lang": "en"
+    },
+    {
+      "text": "tentacles i don&#39;t know",
+      "duration": 4.08,
+      "offset": 1256.48,
+      "lang": "en"
+    },
+    {
+      "text": "let me get rid of it i don&#39;t know how to",
+      "duration": 3.04,
+      "offset": 1258.88,
+      "lang": "en"
+    },
+    {
+      "text": "spell the part of my brain is broken by",
+      "duration": 3.68,
+      "offset": 1260.56,
+      "lang": "en"
+    },
+    {
+      "text": "the way that and doing directions uh i",
+      "duration": 3.68,
+      "offset": 1261.92,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t do either one of those two things",
+      "duration": 2.8,
+      "offset": 1264.24,
+      "lang": "en"
+    },
+    {
+      "text": "i get lost",
+      "duration": 3.12,
+      "offset": 1265.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh driving anywhere my wife thinks",
+      "duration": 4.0,
+      "offset": 1267.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s really funny i figure the area",
+      "duration": 3.68,
+      "offset": 1268.72,
+      "lang": "en"
+    },
+    {
+      "text": "under curve in my head and get lost",
+      "duration": 2.88,
+      "offset": 1271.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to the grocery store but that&#39;s uh",
+      "duration": 3.12,
+      "offset": 1272.4,
+      "lang": "en"
+    },
+    {
+      "text": "i guess your brain can&#39;t work everywhere",
+      "duration": 3.76,
+      "offset": 1273.92,
+      "lang": "en"
+    },
+    {
+      "text": "there you go",
+      "duration": 5.04,
+      "offset": 1275.52,
+      "lang": "en"
+    },
+    {
+      "text": "there you go fenn there is your",
+      "duration": 4.56,
+      "offset": 1277.68,
+      "lang": "en"
+    },
+    {
+      "text": "uh",
+      "duration": 5.84,
+      "offset": 1280.56,
+      "lang": "en"
+    },
+    {
+      "text": "can i get that bigger i can",
+      "duration": 4.16,
+      "offset": 1282.24,
+      "lang": "en"
+    },
+    {
+      "text": "photographer",
+      "duration": 2.48,
+      "offset": 1287.76,
+      "lang": "en"
+    },
+    {
+      "text": "was a",
+      "duration": 2.32,
+      "offset": 1289.12,
+      "lang": "en"
+    },
+    {
+      "text": "photographer saves the world from",
+      "duration": 4.48,
+      "offset": 1290.24,
+      "lang": "en"
+    },
+    {
+      "text": "photorealistic armageddon",
+      "duration": 3.28,
+      "offset": 1291.44,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s pretty good i really like this",
+      "duration": 3.52,
+      "offset": 1295.2,
+      "lang": "en"
+    },
+    {
+      "text": "one down here",
+      "duration": 3.92,
+      "offset": 1296.64,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s upscale number four here and",
+      "duration": 5.48,
+      "offset": 1298.72,
+      "lang": "en"
+    },
+    {
+      "text": "see what that looks like",
+      "duration": 3.64,
+      "offset": 1300.56,
+      "lang": "en"
+    },
+    {
+      "text": "that was a good idea yeah the thing is i",
+      "duration": 3.44,
+      "offset": 1305.04,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t think you can go wrong with this",
+      "duration": 2.72,
+      "offset": 1306.96,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 2.96,
+      "offset": 1308.48,
+      "lang": "en"
+    },
+    {
+      "text": "oops interaction failed i&#39;ve been",
+      "duration": 3.68,
+      "offset": 1309.68,
+      "lang": "en"
+    },
+    {
+      "text": "getting that a bit lately i think it&#39;s",
+      "duration": 3.12,
+      "offset": 1311.44,
+      "lang": "en"
+    },
+    {
+      "text": "just maybe there&#39;s too many people on",
+      "duration": 2.8,
+      "offset": 1313.36,
+      "lang": "en"
+    },
+    {
+      "text": "here that i think there&#39;s about 22 000",
+      "duration": 4.0,
+      "offset": 1314.56,
+      "lang": "en"
+    },
+    {
+      "text": "people beta testing this right now or so",
+      "duration": 4.4,
+      "offset": 1316.16,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 4.56,
+      "offset": 1318.56,
+      "lang": "en"
+    },
+    {
+      "text": "so basically just kind of come up with",
+      "duration": 4.48,
+      "offset": 1320.56,
+      "lang": "en"
+    },
+    {
+      "text": "anything and i think again what you",
+      "duration": 3.68,
+      "offset": 1323.12,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t say is just as important as what",
+      "duration": 3.12,
+      "offset": 1325.04,
+      "lang": "en"
+    },
+    {
+      "text": "you do say",
+      "duration": 3.04,
+      "offset": 1326.8,
+      "lang": "en"
+    },
+    {
+      "text": "yeah so let&#39;s see what this uh what this",
+      "duration": 4.32,
+      "offset": 1328.16,
+      "lang": "en"
+    },
+    {
+      "text": "upscale here looks like",
+      "duration": 4.96,
+      "offset": 1329.84,
+      "lang": "en"
+    },
+    {
+      "text": "yeah looks like it was just a bit busy",
+      "duration": 3.84,
+      "offset": 1332.48,
+      "lang": "en"
+    },
+    {
+      "text": "that was a good idea though i&#39;m glad you",
+      "duration": 3.52,
+      "offset": 1334.8,
+      "lang": "en"
+    },
+    {
+      "text": "interacted the only person who asked for",
+      "duration": 4.08,
+      "offset": 1336.32,
+      "lang": "en"
+    },
+    {
+      "text": "something today is very quiet i feel",
+      "duration": 3.92,
+      "offset": 1338.32,
+      "lang": "en"
+    },
+    {
+      "text": "like i&#39;m chatting with myself",
+      "duration": 6.2,
+      "offset": 1340.4,
+      "lang": "en"
+    },
+    {
+      "text": "all right well these look like um",
+      "duration": 4.36,
+      "offset": 1342.24,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re all good",
+      "duration": 4.56,
+      "offset": 1347.28,
+      "lang": "en"
+    },
+    {
+      "text": "yeah i think i still like this one the",
+      "duration": 4.08,
+      "offset": 1350.08,
+      "lang": "en"
+    },
+    {
+      "text": "best",
+      "duration": 2.32,
+      "offset": 1351.84,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s upscale three",
+      "duration": 4.2,
+      "offset": 1355.12,
+      "lang": "en"
+    },
+    {
+      "text": "49 percent done",
+      "duration": 4.96,
+      "offset": 1360.0,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s a pretty good one",
+      "duration": 4.96,
+      "offset": 1362.72,
+      "lang": "en"
+    },
+    {
+      "text": "yeah so you can apply it mid journey at",
+      "duration": 4.92,
+      "offset": 1364.96,
+      "lang": "en"
+    },
+    {
+      "text": "mid journey as",
+      "duration": 3.6,
+      "offset": 1367.68,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney.app.midjourney.com i don&#39;t",
+      "duration": 3.4,
+      "offset": 1369.88,
+      "lang": "en"
+    },
+    {
+      "text": "even know i think it&#39;s midjourney.app",
+      "duration": 3.76,
+      "offset": 1371.28,
+      "lang": "en"
+    },
+    {
+      "text": "actually",
+      "duration": 3.44,
+      "offset": 1373.28,
+      "lang": "en"
+    },
+    {
+      "text": "and",
+      "duration": 4.32,
+      "offset": 1375.04,
+      "lang": "en"
+    },
+    {
+      "text": "then you can apply to",
+      "duration": 5.68,
+      "offset": 1376.72,
+      "lang": "en"
+    },
+    {
+      "text": "be one of the beta testers",
+      "duration": 5.28,
+      "offset": 1379.36,
+      "lang": "en"
+    },
+    {
+      "text": "but i am the thing about this that makes",
+      "duration": 4.24,
+      "offset": 1382.4,
+      "lang": "en"
+    },
+    {
+      "text": "me so excited is not i mean this tool is",
+      "duration": 4.96,
+      "offset": 1384.64,
+      "lang": "en"
+    },
+    {
+      "text": "so great but imagine this tool in a year",
+      "duration": 6.08,
+      "offset": 1386.64,
+      "lang": "en"
+    },
+    {
+      "text": "like or 11 years you know",
+      "duration": 6.32,
+      "offset": 1389.6,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m prepared to be blown away by this",
+      "duration": 5.44,
+      "offset": 1392.72,
+      "lang": "en"
+    },
+    {
+      "text": "so so good",
+      "duration": 5.68,
+      "offset": 1395.92,
+      "lang": "en"
+    },
+    {
+      "text": "but anyway uh just a brief brief stop",
+      "duration": 6.16,
+      "offset": 1398.16,
+      "lang": "en"
+    },
+    {
+      "text": "today i&#39;m going to be uploading some uh",
+      "duration": 4.72,
+      "offset": 1401.6,
+      "lang": "en"
+    },
+    {
+      "text": "some more 3d stuff as well i&#39;ve gotten a",
+      "duration": 3.52,
+      "offset": 1404.32,
+      "lang": "en"
+    },
+    {
+      "text": "couple more commissions since then and i",
+      "duration": 2.32,
+      "offset": 1406.32,
+      "lang": "en"
+    },
+    {
+      "text": "think",
+      "duration": 2.08,
+      "offset": 1407.84,
+      "lang": "en"
+    },
+    {
+      "text": "since that&#39;s helping me grow as a",
+      "duration": 2.8,
+      "offset": 1408.64,
+      "lang": "en"
+    },
+    {
+      "text": "photographer i thought that&#39;s kind of",
+      "duration": 2.64,
+      "offset": 1409.92,
+      "lang": "en"
+    },
+    {
+      "text": "what i do for the channel to keep it",
+      "duration": 2.0,
+      "offset": 1411.44,
+      "lang": "en"
+    },
+    {
+      "text": "unique",
+      "duration": 2.32,
+      "offset": 1412.56,
+      "lang": "en"
+    },
+    {
+      "text": "otherwise you know if you want lens",
+      "duration": 2.56,
+      "offset": 1413.44,
+      "lang": "en"
+    },
+    {
+      "text": "reviews and stuff there&#39;s a lot of",
+      "duration": 3.12,
+      "offset": 1414.88,
+      "lang": "en"
+    },
+    {
+      "text": "channels for that although i do have",
+      "duration": 3.44,
+      "offset": 1416.0,
+      "lang": "en"
+    },
+    {
+      "text": "a couple lenses i do want to review",
+      "duration": 4.4,
+      "offset": 1418.0,
+      "lang": "en"
+    },
+    {
+      "text": "because i do find that important and i&#39;m",
+      "duration": 4.56,
+      "offset": 1419.44,
+      "lang": "en"
+    },
+    {
+      "text": "not a person who just has a whole lot of",
+      "duration": 2.56,
+      "offset": 1422.4,
+      "lang": "en"
+    },
+    {
+      "text": "toys",
+      "duration": 2.8,
+      "offset": 1424.0,
+      "lang": "en"
+    },
+    {
+      "text": "the toys i do have i use",
+      "duration": 4.16,
+      "offset": 1424.96,
+      "lang": "en"
+    },
+    {
+      "text": "a lot and i use them",
+      "duration": 5.6,
+      "offset": 1426.8,
+      "lang": "en"
+    },
+    {
+      "text": "very well like i use them sparingly and",
+      "duration": 5.52,
+      "offset": 1429.12,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t have uh like 10 000 different",
+      "duration": 3.84,
+      "offset": 1432.4,
+      "lang": "en"
+    },
+    {
+      "text": "lenses i have like three",
+      "duration": 2.88,
+      "offset": 1434.64,
+      "lang": "en"
+    },
+    {
+      "text": "and that&#39;s all i really need i don&#39;t",
+      "duration": 3.84,
+      "offset": 1436.24,
+      "lang": "en"
+    },
+    {
+      "text": "really want anymore um i don&#39;t have any",
+      "duration": 3.44,
+      "offset": 1437.52,
+      "lang": "en"
+    },
+    {
+      "text": "use for them so i thought i&#39;d maybe",
+      "duration": 2.16,
+      "offset": 1440.08,
+      "lang": "en"
+    },
+    {
+      "text": "discuss that kind of thing because a lot",
+      "duration": 2.32,
+      "offset": 1440.96,
+      "lang": "en"
+    },
+    {
+      "text": "of people spend a lot of money in",
+      "duration": 2.16,
+      "offset": 1442.24,
+      "lang": "en"
+    },
+    {
+      "text": "photography",
+      "duration": 2.64,
+      "offset": 1443.28,
+      "lang": "en"
+    },
+    {
+      "text": "and there&#39;s places where i spend my",
+      "duration": 2.88,
+      "offset": 1444.4,
+      "lang": "en"
+    },
+    {
+      "text": "money in places where i think spending",
+      "duration": 3.6,
+      "offset": 1445.92,
+      "lang": "en"
+    },
+    {
+      "text": "my money is not useful for me",
+      "duration": 4.24,
+      "offset": 1447.28,
+      "lang": "en"
+    },
+    {
+      "text": "so things like that",
+      "duration": 5.28,
+      "offset": 1449.52,
+      "lang": "en"
+    },
+    {
+      "text": "this is fantastic fan there you go",
+      "duration": 5.28,
+      "offset": 1451.52,
+      "lang": "en"
+    },
+    {
+      "text": "that turned out pretty decent let&#39;s",
+      "duration": 3.84,
+      "offset": 1454.8,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s up scale that to the max and see",
+      "duration": 3.68,
+      "offset": 1456.8,
+      "lang": "en"
+    },
+    {
+      "text": "what that looks like",
+      "duration": 3.44,
+      "offset": 1458.64,
+      "lang": "en"
+    },
+    {
+      "text": "and at the same time let&#39;s go check out",
+      "duration": 4.24,
+      "offset": 1460.48,
+      "lang": "en"
+    },
+    {
+      "text": "our rococo version of cthulhu",
+      "duration": 6.48,
+      "offset": 1462.08,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s pretty pretty awesome",
+      "duration": 3.84,
+      "offset": 1464.72,
+      "lang": "en"
+    },
+    {
+      "text": "i kind of want to upscale that one too",
+      "duration": 5.52,
+      "offset": 1468.64,
+      "lang": "en"
+    },
+    {
+      "text": "but do i like one of these better",
+      "duration": 4.56,
+      "offset": 1470.8,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 2.64,
+      "offset": 1474.16,
+      "lang": "en"
+    },
+    {
+      "text": "i kind of like this one up here too",
+      "duration": 3.6,
+      "offset": 1475.36,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s up scale that one as well",
+      "duration": 4.0,
+      "offset": 1476.8,
+      "lang": "en"
+    },
+    {
+      "text": "i just think this tool is so damn fun",
+      "duration": 3.36,
+      "offset": 1478.96,
+      "lang": "en"
+    },
+    {
+      "text": "like i&#39;m getting absolutely nothing done",
+      "duration": 3.28,
+      "offset": 1480.8,
+      "lang": "en"
+    },
+    {
+      "text": "today this is what i was doing but i",
+      "duration": 2.64,
+      "offset": 1482.32,
+      "lang": "en"
+    },
+    {
+      "text": "thought you know what i&#39;ll do a live",
+      "duration": 3.04,
+      "offset": 1484.08,
+      "lang": "en"
+    },
+    {
+      "text": "stream on it because then at least in",
+      "duration": 4.72,
+      "offset": 1484.96,
+      "lang": "en"
+    },
+    {
+      "text": "that way i&#39;m doing something right",
+      "duration": 5.36,
+      "offset": 1487.12,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m entertaining as i&#39;m",
+      "duration": 4.56,
+      "offset": 1489.68,
+      "lang": "en"
+    },
+    {
+      "text": "doing this so i&#39;m gonna go make a",
+      "duration": 3.28,
+      "offset": 1492.48,
+      "lang": "en"
+    },
+    {
+      "text": "sandwich sit",
+      "duration": 3.36,
+      "offset": 1494.24,
+      "lang": "en"
+    },
+    {
+      "text": "and do this for a little bit longer and",
+      "duration": 3.52,
+      "offset": 1495.76,
+      "lang": "en"
+    },
+    {
+      "text": "then i have to retouch boudoir pictures",
+      "duration": 2.96,
+      "offset": 1497.6,
+      "lang": "en"
+    },
+    {
+      "text": "actually so",
+      "duration": 3.52,
+      "offset": 1499.28,
+      "lang": "en"
+    },
+    {
+      "text": "got a lot of that to do there hasn&#39;t",
+      "duration": 3.6,
+      "offset": 1500.56,
+      "lang": "en"
+    },
+    {
+      "text": "been a lot of clients recently that have",
+      "duration": 4.0,
+      "offset": 1502.8,
+      "lang": "en"
+    },
+    {
+      "text": "allowed me to show my pictures um",
+      "duration": 4.72,
+      "offset": 1504.16,
+      "lang": "en"
+    },
+    {
+      "text": "but i have a couple that are allowing it",
+      "duration": 3.6,
+      "offset": 1506.8,
+      "lang": "en"
+    },
+    {
+      "text": "to be seen privately so we&#39;ll probably",
+      "duration": 2.96,
+      "offset": 1508.88,
+      "lang": "en"
+    },
+    {
+      "text": "do his youtubes",
+      "duration": 2.88,
+      "offset": 1510.4,
+      "lang": "en"
+    },
+    {
+      "text": "just for channel numbers where i&#39;m",
+      "duration": 2.8,
+      "offset": 1511.84,
+      "lang": "en"
+    },
+    {
+      "text": "retouching some of those boudoir",
+      "duration": 2.72,
+      "offset": 1513.28,
+      "lang": "en"
+    },
+    {
+      "text": "pictures because they don&#39;t want them",
+      "duration": 2.32,
+      "offset": 1514.64,
+      "lang": "en"
+    },
+    {
+      "text": "out in the public but they don&#39;t mind if",
+      "duration": 2.16,
+      "offset": 1516.0,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re part of the youtube channel i",
+      "duration": 3.28,
+      "offset": 1516.96,
+      "lang": "en"
+    },
+    {
+      "text": "ask as long as they&#39;re private",
+      "duration": 4.72,
+      "offset": 1518.16,
+      "lang": "en"
+    },
+    {
+      "text": "anyway uh yeah if you like this and you",
+      "duration": 4.32,
+      "offset": 1520.24,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate it please click the like",
+      "duration": 2.48,
+      "offset": 1522.88,
+      "lang": "en"
+    },
+    {
+      "text": "button",
+      "duration": 2.88,
+      "offset": 1524.56,
+      "lang": "en"
+    },
+    {
+      "text": "so people can find it but otherwise i",
+      "duration": 3.2,
+      "offset": 1525.36,
+      "lang": "en"
+    },
+    {
+      "text": "look forward to seeing what you guys",
+      "duration": 2.24,
+      "offset": 1527.44,
+      "lang": "en"
+    },
+    {
+      "text": "create with this tool once i kind of",
+      "duration": 2.48,
+      "offset": 1528.56,
+      "lang": "en"
+    },
+    {
+      "text": "open it up a bit more and let more",
+      "duration": 3.52,
+      "offset": 1529.68,
+      "lang": "en"
+    },
+    {
+      "text": "people in i&#39;d love to see what you guys",
+      "duration": 4.0,
+      "offset": 1531.04,
+      "lang": "en"
+    },
+    {
+      "text": "are creating everybody take care stay",
+      "duration": 5.64,
+      "offset": 1533.2,
+      "lang": "en"
+    },
+    {
+      "text": "safe and i&#39;ll catch you next time",
+      "duration": 3.8,
+      "offset": 1535.04,
+      "lang": "en"
+    }
+  ]
+}

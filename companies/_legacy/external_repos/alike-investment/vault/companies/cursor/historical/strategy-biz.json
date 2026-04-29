@@ -1,0 +1,79 @@
+{
+  "company": "Cursor",
+  "category": "strategy-biz",
+  "generated": "2026-04-03",
+  "entries": [
+    {
+      "id": "cursor_biz_001",
+      "timestamp": "2025-01-01",
+      "company": "Cursor",
+      "content": "史上最快SaaS增长：20个月从$0到$100M ARR，零营销支出",
+      "detail": "Cursor在2025年1月达到$100M ARR，从发布到此仅约20个月，创造SaaS历史记录。整个过程零营销支出，纯靠产品自传播和开发者口碑。Aman Sanger在Twitter上强调'we still haven't spent a dollar on marketing'。产品初版搭载GPT-4获得关注，但随后用量暴跌，团队在低谷期因自己也是产品用户而坚持原路线。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "Fortune, Lenny's Podcast"},
+      "dimensions": ["D7"],
+      "tags": ["revenue-growth", "plg", "zero-marketing"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_biz_002",
+      "timestamp": "2026-02-01",
+      "company": "Cursor",
+      "content": "ARR突破$2B，13个月从$100M到$2B",
+      "detail": "2026年2月Cursor ARR突破$2B，收入约每2-3个月翻倍。关键里程碑：$100M(2025.01) → $300M(2025.04) → $500M(2025.05) → $1B(2025.10) → $1.2B(2025.12) → $2B(2026.02)。企业客户占比上升至约60%，Fortune 500中67%使用Cursor，每日生成1.5亿行企业代码。平台拥有100万+日活用户。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/"},
+      "dimensions": ["D7"],
+      "tags": ["revenue-milestone", "enterprise-adoption", "hypergrowth"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_biz_003",
+      "timestamp": "2026-03-01",
+      "company": "Cursor",
+      "content": "Composer 2模型争议：未披露使用Kimi K2.5基座模型",
+      "detail": "Cursor发布自研Composer 2模型时未在博客中披露使用了Moonshot AI的Kimi K2.5作为基座模型，被社区发现后引发争议。Aman Sanger快速认错：'It was a miss to not mention the Kimi base in our blog from the start. We'll fix that for the next model.' 团队解释选择Kimi K2.5是因为在perplexity指标评估中它是最强基座，之后进行continued pre-training和4x规模RL。该事件暴露自研模型能力边界——仍需依赖第三方基座。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"},
+      "dimensions": ["D7", "D1"],
+      "tags": ["model-controversy", "transparency", "self-research-limits"],
+      "sentiment": "negative",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_biz_004",
+      "timestamp": "2025-11-01",
+      "company": "Cursor",
+      "content": "估值19个月从$400M到$29.3B，增长73倍",
+      "detail": "融资历史：Pre-seed $400K(2022.04) → Seed $8M(2023.10, OpenAI Startup Fund) → Series A $60M@$400M(2024, a16z) → Series B $105M@$2.6B(2024.12, Thrive) → Series C $900M@$9.9B(2025.06, Thrive+a16z) → Series D $2.3B@$29.3B(2025.11, Accel+Coatue, Google/Nvidia战略参投)。2026年3月传闻新一轮~$50B估值。总融资约$3.5B。",
+      "source": {"type": "media_report", "credibility": "S4", "url": "CNBC, TechCrunch"},
+      "dimensions": ["D7"],
+      "tags": ["valuation", "funding-history", "capital-efficiency"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_biz_005",
+      "timestamp": "2025-12-01",
+      "company": "Cursor",
+      "content": "多产品战略：从单一IDE向AI编程套件扩张",
+      "detail": "Truell在a16z播客中明确表示'there's a big multi product opportunity in our space where there's a whole AI coding bundle to be built, and we want to be the AI coding provider'。已通过收购扩展产品线：Supermaven(AI自动补全,2024.11)、Graphite(代码审查,2025.12, 此前融资$52M)、Koala(企业工具)、Growth by Design(招聘策略)。推出BugBot(PR审查,$40/月)。核心仍是IDE编辑器，但逐步向代码审查、团队协作延伸。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "a16z podcast 2026-01-13"},
+      "dimensions": ["D7"],
+      "tags": ["multi-product", "m-and-a", "product-strategy"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_biz_006",
+      "timestamp": "2026-03-01",
+      "company": "Cursor",
+      "content": "First Proof数学突破暗示技术泛化潜力",
+      "detail": "Truell在Twitter宣布Cursor发现了First Proof数学挑战Problem Six的新解法，结果优于官方人类解法。Truell表示'this suggests that our technique for scaling agent coordination might generalise beyond coding'。这暗示Cursor的agent编排技术可能超越编程领域，向更广泛的知识工作自动化发展。是CEO对公司长期定位的重要信号——不仅是代码编辑器，而是通用知识工作自动化平台。",
+      "source": {"type": "twitter", "credibility": "S3", "url": "Twitter @mntruell 2026.03"},
+      "dimensions": ["D1", "D7"],
+      "tags": ["math-breakthrough", "technology-generalization", "agent-coordination"],
+      "sentiment": "positive",
+      "significance": "medium"
+    }
+  ]
+}

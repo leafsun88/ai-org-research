@@ -1,0 +1,60 @@
+{
+  "research_key": "CURSOR",
+  "company": "Anysphere",
+  "channel": "enterprise_partnerships",
+  "generated_at": "2026-04-20T17:56:13",
+  "total_records": 7,
+  "success_records": 7,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://cursor.com/enterprise",
+      "title": "enterprise",
+      "chars": 18914,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_enterprise.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/enterprise",
+      "title": "enterprise",
+      "chars": 7748,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_enterprise.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/nvidia",
+      "title": "nvidia",
+      "chars": 11896,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_nvidia.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/amplitude",
+      "title": "amplitude",
+      "chars": 19388,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_amplitude.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/money-forward",
+      "title": "money-forward",
+      "chars": 13354,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_money-forward.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/planetscale",
+      "title": "planetscale",
+      "chars": 10996,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_planetscale.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/graphite",
+      "title": "graphite",
+      "chars": 2622,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/enterprise_partnerships/unknown_graphite.md"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "market": "US",
+  "status": "ok",
+  "principle": "Before scraping data or source text, first discover existing skills, official APIs, public extraction guides, and source-specific caveats; record why each chosen source is used.",
+  "local_skills": [
+    {
+      "name": "\"openai-docs\"",
+      "description": "\"Use when the user asks how to build with OpenAI products or APIs and needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; prioritize OpenAI docs MCP tools, use bundled references only as helper context, and restrict any fallback browsing to official OpenAI domains.\"",
+      "path": "/Users/leafsun/.codex/skills/.system/openai-docs/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/.system/openai-docs/SKILL.md"
+    },
+    {
+      "name": "ai-org-analysis-add",
+      "description": "Use when working in the AI Org research project and an existing company report needs new essence or source-note evidence added without rebuilding the report.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-analysis-add/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-analysis-add/SKILL.md"
+    },
+    {
+      "name": "ai-org-analysis",
+      "description": "Use when working in the AI Org research project and turning company essence files into detailed analysis markdown, fact packs, complex reports, one-page reports, or organization/investment analysis.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-analysis/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-analysis/SKILL.md"
+    },
+    {
+      "name": "ai-org-collect",
+      "description": "Use when working in the AI Org research project and starting or repairing company data collection, especially podcasts, financials, Substack, YouTube, transcripts, or vault sync.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-collect/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-collect/SKILL.md"
+    },
+    {
+      "name": "ai-org-essence",
+      "description": "Use when working in the AI Org research project and converting transcripts, podcast notes, YouTube transcripts, Substack articles, or reports into source-level essence files.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-essence/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-essence/SKILL.md"
+    },
+    {
+      "name": "ai-org-financial-modeling",
+      "description": "Launcher for the AI Org public-company financial modeling workflow. Use for DCF/comps workbook generation from collected statements, market data, valuation, peers, and capital signals.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-financial-modeling/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-financial-modeling/SKILL.md"
+    },
+    {
+      "name": "ai-org-public-company-collect",
+      "description": "Launcher for the AI Org public-company collection workflow. Use for listed-company filings, earnings calls, market data, books, investor views, and semi-public research folders.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-public-company-collect/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-public-company-collect/SKILL.md"
+    },
+    {
+      "name": "xlsx",
+      "description": "Use when working with Excel-compatible spreadsheet files, including .xlsx, .xls, .csv, and .tsv files; creating, editing, analyzing, formatting, charting, validating formulas, or exporting workbooks.",
+      "path": "/Users/leafsun/.codex/skills/xlsx/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/xlsx/SKILL.md"
+    },
+    {
+      "name": "analysis-add",
+      "description": "Use when working in the AI Org research project and an existing company report must absorb new source-note evidence without rebuilding the report or changing its established framework.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/analysis-add/SKILL.md",
+      "relative_path": "学习/skills/analysis-add/SKILL.md"
+    },
+    {
+      "name": "analysis",
+      "description": "Use when turning company essence files into detailed analysis markdown under companies/{slug}/analysis, especially long complex reports, fact packs, evidence maps, and organization/investment analysis.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/analysis/SKILL.md",
+      "relative_path": "学习/skills/analysis/SKILL.md"
+    },
+    {
+      "name": "collect",
+      "description": "Use when starting or repairing a company research collection pipeline for AI org / investment work, especially when the task needs podcasts, financials, Substack, YouTube, transcripts, or vault sync.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/collect/SKILL.md",
+      "relative_path": "学习/skills/collect/SKILL.md"
+    },
+    {
+      "name": "essence",
+      "description": "Use when converting company transcripts, podcast notes, YouTube transcripts, Substack articles, reports, jobs pages, or other source material into source-level notes for AI org or investment research.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/essence/SKILL.md",
+      "relative_path": "学习/skills/essence/SKILL.md"
+    },
+    {
+      "name": "financial-modeling",
+      "description": "Build a source-mapped public-company DCF and comps workbook from collected statements, market data, valuation, peers, and capital signals.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/SKILL.md",
+      "relative_path": "学习/skills/financial-modeling/SKILL.md"
+    },
+    {
+      "name": "public-company-collect",
+      "description": "Collect public-company filings, statements, market data, capital-market signals, earnings calls, books, and semi-public research scaffolding for A-share, US, and Hong Kong listed companies.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/public-company-collect/SKILL.md",
+      "relative_path": "学习/skills/public-company-collect/SKILL.md"
+    }
+  ],
+  "external_skill_directories": [
+    {
+      "name": "SkillsMP marketplace",
+      "url": "https://skillsmp.com/zh",
+      "use": "Large third-party SKILL.md marketplace with REST search and optional MCP server; inspect source and license before installing."
+    },
+    {
+      "name": "OpenAI skills catalog",
+      "url": "https://github.com/openai/skills",
+      "use": "First external place to check for Codex-compatible skills and examples."
+    },
+    {
+      "name": "The Skills Directory",
+      "url": "https://theskills.directory/codex-skills",
+      "use": "Searchable third-party directory for Codex SKILL.md examples."
+    },
+    {
+      "name": "skills.sh",
+      "url": "https://skills.sh/",
+      "use": "Third-party agent-skill index; use only after license/source review."
+    }
+  ],
+  "market_guides": [
+    {
+      "name": "SEC EDGAR APIs",
+      "url": "https://www.sec.gov/search-filings/edgar-application-programming-interfaces",
+      "use": "Canonical submissions and XBRL companyfacts source for US filings and facts."
+    },
+    {
+      "name": "SEC daily companyfacts bulk archive",
+      "url": "https://www.sec.gov/Archives/edgar/daily-index/xbrl/companyfacts.zip",
+      "use": "Bulk fallback when many issuers are collected."
+    }
+  ],
+  "data_category_guides": [
+    {
+      "category": "market_data_and_peer_multiples",
+      "sources": [
+        {
+          "name": "Yahoo chart JSON",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/{ticker}",
+          "use": "Unauthenticated price history and last-price fallback."
+        },
+        {
+          "name": "StockAnalysis statistics pages",
+          "url": "https://stockanalysis.com/stocks/{ticker}/statistics/",
+          "use": "Public fallback for market cap, share count, and peer multiples; treat as medium confidence."
+        }
+      ]
+    },
+    {
+      "category": "semi_public_and_investor_views",
+      "sources": [
+        {
+          "name": "local collect skill",
+          "url": "local:ai-org-collect",
+          "use": "Reuse query-map channels for podcasts, YouTube, Substack, official, jobs, social, and longform."
+        }
+      ]
+    },
+    {
+      "category": "institutional_holders",
+      "sources": [
+        {
+          "name": "Nasdaq institutional holdings API",
+          "url": "https://api.nasdaq.com/api/company/{ticker}/institutional-holdings",
+          "use": "Free public holder table; retry and curl/http1 fallback because TLS/API availability can be unstable."
+        },
+        {
+          "name": "Holdings Channel by-stock 13F aggregate",
+          "url": "https://www.holdingschannel.com/bystock/?symbol={ticker}",
+          "use": "Free 13F aggregate fallback when Nasdaq API fails."
+        },
+        {
+          "name": "Paid holder APIs",
+          "url": "user_required:paid_api_key",
+          "use": "Ask the user for a paid API only after official/free/fallback sources fail or coverage is insufficient."
+        }
+      ]
+    }
+  ],
+  "required_next_step": "Use official or well-documented sources first; if a source lacks documentation or reproducible extraction rules, write an extraction gap instead of inventing data.",
+  "updated_at": "2026-04-26T09:39:55"
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "8wLXHrZVOys",
+  "title": "Lovable Head of Growth on The New AI-Native Growth Playbook",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:18:08",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:18:08"
+}

@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 7,
+  "total_size_kb": 28,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"_collection_report.md","size_kb":1},{"path":"organization/governance_summary.md","size_kb":0},{"path":"sources/founder_voice.md","size_kb":0},{"path":"organization/overview/org_structure.md","size_kb":0},{"path":"organization/_org_scan_report.md","size_kb":0},{"path":"organization/_org_brief.md","size_kb":0},{"path":"organization/_org_scan_request.md","size_kb":0}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

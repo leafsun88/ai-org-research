@@ -1,0 +1,13 @@
+{
+  "status": "none_found",
+  "items": [],
+  "gaps": [
+    {
+      "reason": "no_high_confidence_company_books_found"
+    }
+  ],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "books",
+  "updated_at": "2026-04-25T23:13:43"
+}

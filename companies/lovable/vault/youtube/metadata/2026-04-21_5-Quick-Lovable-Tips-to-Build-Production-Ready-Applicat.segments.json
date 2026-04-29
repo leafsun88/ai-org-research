@@ -1,0 +1,2493 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "34Lnl3tYYvs",
+  "url": "https://www.youtube.com/watch?v=34Lnl3tYYvs",
+  "title": "5 Quick Lovable Tips to Build Production-Ready Applications",
+  "channel": "Blumbuilds | AI Automations",
+  "source_queries": [
+    "Lovable prototype to production"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:17:28",
+  "segments": [
+    {
+      "text": "Yeah. So, in this video we are going to",
+      "duration": 5.68,
+      "offset": 4.4,
+      "lang": "en"
+    },
+    {
+      "text": "talk about how to build with lovable",
+      "duration": 5.52,
+      "offset": 6.88,
+      "lang": "en"
+    },
+    {
+      "text": "production ready apps. Apps that you can",
+      "duration": 4.48,
+      "offset": 10.08,
+      "lang": "en"
+    },
+    {
+      "text": "take to market, apps that work, apps",
+      "duration": 5.04,
+      "offset": 12.4,
+      "lang": "en"
+    },
+    {
+      "text": "that you can sell as a VIP corridor or a",
+      "duration": 6.8,
+      "offset": 14.56,
+      "lang": "en"
+    },
+    {
+      "text": "builder or even an AI automation expert.",
+      "duration": 6.88,
+      "offset": 17.44,
+      "lang": "en"
+    },
+    {
+      "text": "Uh I&#39;ve built more than 10 apps and I&#39;ve",
+      "duration": 4.96,
+      "offset": 21.36,
+      "lang": "en"
+    },
+    {
+      "text": "even scaled some. I&#39;ve sold some and",
+      "duration": 5.2,
+      "offset": 24.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve built uh apps for clients and made",
+      "duration": 5.44,
+      "offset": 26.32,
+      "lang": "en"
+    },
+    {
+      "text": "thousands of dollars. So, this is a",
+      "duration": 4.48,
+      "offset": 29.52,
+      "lang": "en"
+    },
+    {
+      "text": "skill that in the 21st century or at",
+      "duration": 5.12,
+      "offset": 31.76,
+      "lang": "en"
+    },
+    {
+      "text": "least in current day and age is very",
+      "duration": 4.64,
+      "offset": 34.0,
+      "lang": "en"
+    },
+    {
+      "text": "useful because you have unlimited",
+      "duration": 3.36,
+      "offset": 36.88,
+      "lang": "en"
+    },
+    {
+      "text": "opportunities to build whatever you",
+      "duration": 4.56,
+      "offset": 38.64,
+      "lang": "en"
+    },
+    {
+      "text": "want. However, building costs money.",
+      "duration": 4.48,
+      "offset": 40.24,
+      "lang": "en"
+    },
+    {
+      "text": "There are tips and tricks that you can",
+      "duration": 3.6,
+      "offset": 43.2,
+      "lang": "en"
+    },
+    {
+      "text": "use. There are things that you can know",
+      "duration": 4.96,
+      "offset": 44.72,
+      "lang": "en"
+    },
+    {
+      "text": "to build your apps crazy good from the",
+      "duration": 5.92,
+      "offset": 46.8,
+      "lang": "en"
+    },
+    {
+      "text": "start. And honestly, instead of having",
+      "duration": 5.52,
+      "offset": 49.68,
+      "lang": "en"
+    },
+    {
+      "text": "to, you know, uh, rip your hair from",
+      "duration": 4.24,
+      "offset": 52.72,
+      "lang": "en"
+    },
+    {
+      "text": "frustration when the AI is doing",
+      "duration": 4.0,
+      "offset": 55.2,
+      "lang": "en"
+    },
+    {
+      "text": "mistakes over and over again, you have",
+      "duration": 4.72,
+      "offset": 56.96,
+      "lang": "en"
+    },
+    {
+      "text": "to ensure that that doesn&#39;t happen from",
+      "duration": 4.0,
+      "offset": 59.2,
+      "lang": "en"
+    },
+    {
+      "text": "the beginning. So, in this video, we&#39;re",
+      "duration": 2.96,
+      "offset": 61.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to talk about how to build",
+      "duration": 4.32,
+      "offset": 63.2,
+      "lang": "en"
+    },
+    {
+      "text": "production ready AI apps, lovable apps",
+      "duration": 5.6,
+      "offset": 64.64,
+      "lang": "en"
+    },
+    {
+      "text": "mainly, uh, and the things you need to",
+      "duration": 5.04,
+      "offset": 67.52,
+      "lang": "en"
+    },
+    {
+      "text": "know to do that. So, let&#39;s jump straight",
+      "duration": 4.64,
+      "offset": 70.24,
+      "lang": "en"
+    },
+    {
+      "text": "into it. We have the first document",
+      "duration": 4.72,
+      "offset": 72.56,
+      "lang": "en"
+    },
+    {
+      "text": "here. That is the first tips that I want",
+      "duration": 4.88,
+      "offset": 74.88,
+      "lang": "en"
+    },
+    {
+      "text": "to go through for you. And the first",
+      "duration": 6.0,
+      "offset": 77.28,
+      "lang": "en"
+    },
+    {
+      "text": "thing that we want to mention is",
+      "duration": 5.6,
+      "offset": 79.76,
+      "lang": "en"
+    },
+    {
+      "text": "the prompt. The first prompt, it&#39;s the",
+      "duration": 4.32,
+      "offset": 83.28,
+      "lang": "en"
+    },
+    {
+      "text": "most important thing that you have and",
+      "duration": 5.6,
+      "offset": 85.36,
+      "lang": "en"
+    },
+    {
+      "text": "and that you can sort of um deal with in",
+      "duration": 6.48,
+      "offset": 87.6,
+      "lang": "en"
+    },
+    {
+      "text": "your lovable uh journey. The first",
+      "duration": 6.16,
+      "offset": 90.96,
+      "lang": "en"
+    },
+    {
+      "text": "prompt is crucial because it is the one",
+      "duration": 5.44,
+      "offset": 94.08,
+      "lang": "en"
+    },
+    {
+      "text": "which will set the stage for the entire",
+      "duration": 6.72,
+      "offset": 97.12,
+      "lang": "en"
+    },
+    {
+      "text": "app as you go along and as you build. It",
+      "duration": 6.88,
+      "offset": 99.52,
+      "lang": "en"
+    },
+    {
+      "text": "should in reality outlong your long-term",
+      "duration": 5.36,
+      "offset": 103.84,
+      "lang": "en"
+    },
+    {
+      "text": "plan. Why? Because it is better that the",
+      "duration": 5.28,
+      "offset": 106.4,
+      "lang": "en"
+    },
+    {
+      "text": "AI will understand where you want to",
+      "duration": 4.72,
+      "offset": 109.2,
+      "lang": "en"
+    },
+    {
+      "text": "take this app so that he can build it",
+      "duration": 6.0,
+      "offset": 111.68,
+      "lang": "en"
+    },
+    {
+      "text": "good from the start and this sort of why",
+      "duration": 6.24,
+      "offset": 113.92,
+      "lang": "en"
+    },
+    {
+      "text": "information will ensure that edge cases,",
+      "duration": 4.8,
+      "offset": 117.68,
+      "lang": "en"
+    },
+    {
+      "text": "data flows and even user journeys will",
+      "duration": 4.64,
+      "offset": 120.16,
+      "lang": "en"
+    },
+    {
+      "text": "be established from the beginning. Very",
+      "duration": 5.2,
+      "offset": 122.48,
+      "lang": "en"
+    },
+    {
+      "text": "important. Think of it as like writing",
+      "duration": 5.44,
+      "offset": 124.8,
+      "lang": "en"
+    },
+    {
+      "text": "specifications. Uh what&#39;s the purpose,",
+      "duration": 4.72,
+      "offset": 127.68,
+      "lang": "en"
+    },
+    {
+      "text": "who uses it, what is the success",
+      "duration": 5.6,
+      "offset": 130.24,
+      "lang": "en"
+    },
+    {
+      "text": "criteria and beyond. So this is uh what",
+      "duration": 5.6,
+      "offset": 132.4,
+      "lang": "en"
+    },
+    {
+      "text": "you need to keep in mind. Uh I&#39;ve",
+      "duration": 4.96,
+      "offset": 135.84,
+      "lang": "en"
+    },
+    {
+      "text": "structured for you a four sort of uh",
+      "duration": 5.28,
+      "offset": 138.0,
+      "lang": "en"
+    },
+    {
+      "text": "framework for why you need to do in your",
+      "duration": 4.56,
+      "offset": 140.8,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. You need to tell him what you",
+      "duration": 4.4,
+      "offset": 143.28,
+      "lang": "en"
+    },
+    {
+      "text": "want. This can be literally through one",
+      "duration": 4.56,
+      "offset": 145.36,
+      "lang": "en"
+    },
+    {
+      "text": "sentence or five sentences. Keep it",
+      "duration": 4.0,
+      "offset": 147.68,
+      "lang": "en"
+    },
+    {
+      "text": "clean. No need to go into too much",
+      "duration": 4.72,
+      "offset": 149.92,
+      "lang": "en"
+    },
+    {
+      "text": "detail. Lovable is usually smarter than",
+      "duration": 4.88,
+      "offset": 151.68,
+      "lang": "en"
+    },
+    {
+      "text": "you when it comes to building. So just",
+      "duration": 5.04,
+      "offset": 154.64,
+      "lang": "en"
+    },
+    {
+      "text": "tell him what you want in plain terms.",
+      "duration": 5.36,
+      "offset": 156.56,
+      "lang": "en"
+    },
+    {
+      "text": "Give him the context why you want it.",
+      "duration": 4.8,
+      "offset": 159.68,
+      "lang": "en"
+    },
+    {
+      "text": "Context really helps because lovable can",
+      "duration": 4.48,
+      "offset": 161.92,
+      "lang": "en"
+    },
+    {
+      "text": "actually suggest things and do things",
+      "duration": 4.24,
+      "offset": 164.48,
+      "lang": "en"
+    },
+    {
+      "text": "and improve things once he understands",
+      "duration": 4.4,
+      "offset": 166.4,
+      "lang": "en"
+    },
+    {
+      "text": "what it actually is that you want and",
+      "duration": 4.24,
+      "offset": 168.72,
+      "lang": "en"
+    },
+    {
+      "text": "also the long-term context. That&#39;s the",
+      "duration": 4.16,
+      "offset": 170.8,
+      "lang": "en"
+    },
+    {
+      "text": "what you want the app to be in the final",
+      "duration": 4.96,
+      "offset": 172.96,
+      "lang": "en"
+    },
+    {
+      "text": "stage. And then minor UI ideas because",
+      "duration": 4.48,
+      "offset": 174.96,
+      "lang": "en"
+    },
+    {
+      "text": "you want to be guiding it as to what",
+      "duration": 3.2,
+      "offset": 177.92,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re having in your head, what&#39;s in",
+      "duration": 4.64,
+      "offset": 179.44,
+      "lang": "en"
+    },
+    {
+      "text": "your mind. And so this is the the thing",
+      "duration": 5.04,
+      "offset": 181.12,
+      "lang": "en"
+    },
+    {
+      "text": "you need to do in the beginning. Um and",
+      "duration": 4.24,
+      "offset": 184.08,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s how I structure my prompts. And",
+      "duration": 4.24,
+      "offset": 186.16,
+      "lang": "en"
+    },
+    {
+      "text": "here is an example of a prompt that is",
+      "duration": 5.52,
+      "offset": 188.32,
+      "lang": "en"
+    },
+    {
+      "text": "following that. on uh criteria or",
+      "duration": 5.68,
+      "offset": 190.4,
+      "lang": "en"
+    },
+    {
+      "text": "structure. Let&#39;s go through it. One,",
+      "duration": 4.08,
+      "offset": 193.84,
+      "lang": "en"
+    },
+    {
+      "text": "what I want, I want you to build the",
+      "duration": 3.68,
+      "offset": 196.08,
+      "lang": "en"
+    },
+    {
+      "text": "first version of a clean, simple web app",
+      "duration": 4.32,
+      "offset": 197.92,
+      "lang": "en"
+    },
+    {
+      "text": "that helps user users craft perfect",
+      "duration": 4.88,
+      "offset": 199.76,
+      "lang": "en"
+    },
+    {
+      "text": "prompts for AI tools. The app should",
+      "duration": 4.0,
+      "offset": 202.24,
+      "lang": "en"
+    },
+    {
+      "text": "guide users step by step. Let them",
+      "duration": 3.52,
+      "offset": 204.64,
+      "lang": "en"
+    },
+    {
+      "text": "select the goal, add context, refine",
+      "duration": 4.08,
+      "offset": 206.24,
+      "lang": "en"
+    },
+    {
+      "text": "details, and generate a polished final",
+      "duration": 3.76,
+      "offset": 208.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt they can copy or save. Keep it",
+      "duration": 2.96,
+      "offset": 210.32,
+      "lang": "en"
+    },
+    {
+      "text": "lightweight, clear, and production",
+      "duration": 4.08,
+      "offset": 211.92,
+      "lang": "en"
+    },
+    {
+      "text": "ready. Clean, good few sentences totally",
+      "duration": 4.56,
+      "offset": 213.28,
+      "lang": "en"
+    },
+    {
+      "text": "makes the AI understand what you want.",
+      "duration": 4.32,
+      "offset": 216.0,
+      "lang": "en"
+    },
+    {
+      "text": "No conflicting sentences there. Next",
+      "duration": 4.96,
+      "offset": 217.84,
+      "lang": "en"
+    },
+    {
+      "text": "context. The app exists because most",
+      "duration": 3.92,
+      "offset": 220.32,
+      "lang": "en"
+    },
+    {
+      "text": "people write chaotic prompts that",
+      "duration": 4.4,
+      "offset": 222.8,
+      "lang": "en"
+    },
+    {
+      "text": "confuse AI. Confusion. Very important.",
+      "duration": 5.12,
+      "offset": 224.24,
+      "lang": "en"
+    },
+    {
+      "text": "This tool fixes that by structuring the",
+      "duration": 4.64,
+      "offset": 227.2,
+      "lang": "en"
+    },
+    {
+      "text": "users&#39;s thinking, goal, context,",
+      "duration": 5.04,
+      "offset": 229.36,
+      "lang": "en"
+    },
+    {
+      "text": "constraints, examples, final prompt. The",
+      "duration": 4.32,
+      "offset": 231.84,
+      "lang": "en"
+    },
+    {
+      "text": "app should feel like a friendly co-pilot",
+      "duration": 3.52,
+      "offset": 234.4,
+      "lang": "en"
+    },
+    {
+      "text": "that shapes their messy ideas into a",
+      "duration": 3.84,
+      "offset": 236.16,
+      "lang": "en"
+    },
+    {
+      "text": "clear, powerful prompt. This is just an",
+      "duration": 3.76,
+      "offset": 237.92,
+      "lang": "en"
+    },
+    {
+      "text": "example of an app. Honestly, this could",
+      "duration": 3.6,
+      "offset": 240.0,
+      "lang": "en"
+    },
+    {
+      "text": "even work. You can take this idea and it",
+      "duration": 3.84,
+      "offset": 241.68,
+      "lang": "en"
+    },
+    {
+      "text": "might actually be very good. Next,",
+      "duration": 4.0,
+      "offset": 243.6,
+      "lang": "en"
+    },
+    {
+      "text": "long-term direction. Even though this is",
+      "duration": 4.8,
+      "offset": 245.52,
+      "lang": "en"
+    },
+    {
+      "text": "a V1, assume we&#39;ll later add projects",
+      "duration": 6.32,
+      "offset": 247.6,
+      "lang": "en"
+    },
+    {
+      "text": "folders. Oops, project folders, prompt",
+      "duration": 6.32,
+      "offset": 250.32,
+      "lang": "en"
+    },
+    {
+      "text": "history, templates, persona, libraries,",
+      "duration": 4.8,
+      "offset": 253.92,
+      "lang": "en"
+    },
+    {
+      "text": "team collaboration, blah blah blah. So,",
+      "duration": 4.16,
+      "offset": 256.64,
+      "lang": "en"
+    },
+    {
+      "text": "design the underlying structure so it&#39;s",
+      "duration": 4.16,
+      "offset": 258.72,
+      "lang": "en"
+    },
+    {
+      "text": "easy to expand, right? And now we&#39;re",
+      "duration": 4.0,
+      "offset": 260.8,
+      "lang": "en"
+    },
+    {
+      "text": "giving it the context in the future. Now",
+      "duration": 4.24,
+      "offset": 262.88,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s going to make the app so that later",
+      "duration": 4.24,
+      "offset": 264.8,
+      "lang": "en"
+    },
+    {
+      "text": "it won&#39;t bug, later it won&#39;t mess up.",
+      "duration": 4.4,
+      "offset": 267.12,
+      "lang": "en"
+    },
+    {
+      "text": "Later the data will stay consistent. And",
+      "duration": 5.04,
+      "offset": 269.04,
+      "lang": "en"
+    },
+    {
+      "text": "data integrity is all about super like",
+      "duration": 4.0,
+      "offset": 271.52,
+      "lang": "en"
+    },
+    {
+      "text": "super important with lovable apps",
+      "duration": 3.28,
+      "offset": 274.08,
+      "lang": "en"
+    },
+    {
+      "text": "because once you change things you",
+      "duration": 4.0,
+      "offset": 275.52,
+      "lang": "en"
+    },
+    {
+      "text": "actually can change data and components",
+      "duration": 4.24,
+      "offset": 277.36,
+      "lang": "en"
+    },
+    {
+      "text": "which users are currently relying on",
+      "duration": 4.16,
+      "offset": 279.52,
+      "lang": "en"
+    },
+    {
+      "text": "right when you change during the",
+      "duration": 5.76,
+      "offset": 281.6,
+      "lang": "en"
+    },
+    {
+      "text": "development. Last but not least minor UI",
+      "duration": 6.16,
+      "offset": 283.68,
+      "lang": "en"
+    },
+    {
+      "text": "ideas. I want a minimal and modern UI.",
+      "duration": 4.32,
+      "offset": 287.36,
+      "lang": "en"
+    },
+    {
+      "text": "Think notion linear reversal. You can",
+      "duration": 3.6,
+      "offset": 289.84,
+      "lang": "en"
+    },
+    {
+      "text": "give it examples. This is very very",
+      "duration": 4.56,
+      "offset": 291.68,
+      "lang": "en"
+    },
+    {
+      "text": "good. A sidebar for template categories.",
+      "duration": 5.04,
+      "offset": 293.44,
+      "lang": "en"
+    },
+    {
+      "text": "A main panel for the prompt builder. and",
+      "duration": 4.8,
+      "offset": 296.24,
+      "lang": "en"
+    },
+    {
+      "text": "a clean preview area showing the final",
+      "duration": 4.8,
+      "offset": 298.48,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Keep colors soft and neutral.",
+      "duration": 4.08,
+      "offset": 301.04,
+      "lang": "en"
+    },
+    {
+      "text": "Prioritize clarity spacing blah blah",
+      "duration": 4.0,
+      "offset": 303.28,
+      "lang": "en"
+    },
+    {
+      "text": "blah blah blah. This is a banger prompt.",
+      "duration": 3.92,
+      "offset": 305.12,
+      "lang": "en"
+    },
+    {
+      "text": "Uh it would create such a good product",
+      "duration": 3.6,
+      "offset": 307.28,
+      "lang": "en"
+    },
+    {
+      "text": "from the beginning. I already know how",
+      "duration": 3.92,
+      "offset": 309.04,
+      "lang": "en"
+    },
+    {
+      "text": "that will work. But this is an example",
+      "duration": 4.64,
+      "offset": 310.88,
+      "lang": "en"
+    },
+    {
+      "text": "for you to take your app ideas with the",
+      "duration": 5.12,
+      "offset": 312.96,
+      "lang": "en"
+    },
+    {
+      "text": "right framework in mind. Moving on to",
+      "duration": 6.8,
+      "offset": 315.52,
+      "lang": "en"
+    },
+    {
+      "text": "the next step here in our uh miniourse.",
+      "duration": 6.32,
+      "offset": 318.08,
+      "lang": "en"
+    },
+    {
+      "text": "By the way, you have a full course in",
+      "duration": 4.08,
+      "offset": 322.32,
+      "lang": "en"
+    },
+    {
+      "text": "the school community where we are",
+      "duration": 5.2,
+      "offset": 324.4,
+      "lang": "en"
+    },
+    {
+      "text": "teaching you how much greater detail uh",
+      "duration": 5.52,
+      "offset": 326.4,
+      "lang": "en"
+    },
+    {
+      "text": "to build lovable apps. Uh current school",
+      "duration": 4.88,
+      "offset": 329.6,
+      "lang": "en"
+    },
+    {
+      "text": "membership costs $9 and we are aiming to",
+      "duration": 6.24,
+      "offset": 331.92,
+      "lang": "en"
+    },
+    {
+      "text": "increase that gradually until $199. So",
+      "duration": 5.92,
+      "offset": 334.48,
+      "lang": "en"
+    },
+    {
+      "text": "now it&#39;s the cheapest you can get it.",
+      "duration": 4.32,
+      "offset": 338.16,
+      "lang": "en"
+    },
+    {
+      "text": "But let&#39;s continue. You need to",
+      "duration": 4.88,
+      "offset": 340.4,
+      "lang": "en"
+    },
+    {
+      "text": "structure the prompts in an order and",
+      "duration": 5.12,
+      "offset": 342.48,
+      "lang": "en"
+    },
+    {
+      "text": "not confused AI. We touched a bit on",
+      "duration": 4.48,
+      "offset": 345.28,
+      "lang": "en"
+    },
+    {
+      "text": "that and now let&#39;s even dive deeper into",
+      "duration": 4.4,
+      "offset": 347.6,
+      "lang": "en"
+    },
+    {
+      "text": "it. um when you are doing different",
+      "duration": 3.44,
+      "offset": 349.76,
+      "lang": "en"
+    },
+    {
+      "text": "things, different prompts, you have",
+      "duration": 2.88,
+      "offset": 352.0,
+      "lang": "en"
+    },
+    {
+      "text": "different things in mind, you need to",
+      "duration": 4.32,
+      "offset": 353.2,
+      "lang": "en"
+    },
+    {
+      "text": "you know ensure you explain it good",
+      "duration": 4.96,
+      "offset": 354.88,
+      "lang": "en"
+    },
+    {
+      "text": "because I have also burned a lot of",
+      "duration": 4.48,
+      "offset": 357.52,
+      "lang": "en"
+    },
+    {
+      "text": "credits in trying to fix things which",
+      "duration": 4.4,
+      "offset": 359.84,
+      "lang": "en"
+    },
+    {
+      "text": "the AI did which was a mistake on me not",
+      "duration": 3.84,
+      "offset": 362.0,
+      "lang": "en"
+    },
+    {
+      "text": "explaining clearly what I want or him",
+      "duration": 3.92,
+      "offset": 364.24,
+      "lang": "en"
+    },
+    {
+      "text": "just not understanding.",
+      "duration": 4.96,
+      "offset": 365.84,
+      "lang": "en"
+    },
+    {
+      "text": "So for example uh let&#39;s see here there",
+      "duration": 5.68,
+      "offset": 368.16,
+      "lang": "en"
+    },
+    {
+      "text": "are uh things to do for the good prompt",
+      "duration": 5.17,
+      "offset": 370.8,
+      "lang": "en"
+    },
+    {
+      "text": "structure",
+      "duration": 4.15,
+      "offset": 373.84,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat]",
+      "duration": 2.02,
+      "offset": 375.97,
+      "lang": "en"
+    },
+    {
+      "text": "a good promp prompt structure avoids",
+      "duration": 4.88,
+      "offset": 378.08,
+      "lang": "en"
+    },
+    {
+      "text": "overwhelming the model and reduces",
+      "duration": 4.48,
+      "offset": 381.2,
+      "lang": "en"
+    },
+    {
+      "text": "hallucinations by be by you know",
+      "duration": 4.88,
+      "offset": 382.96,
+      "lang": "en"
+    },
+    {
+      "text": "removing inconsistent behavior. You",
+      "duration": 4.4,
+      "offset": 385.68,
+      "lang": "en"
+    },
+    {
+      "text": "shouldn&#39;t have a lot of things that you",
+      "duration": 4.24,
+      "offset": 387.84,
+      "lang": "en"
+    },
+    {
+      "text": "say. You shouldn&#39;t have a prompt which",
+      "duration": 3.92,
+      "offset": 390.08,
+      "lang": "en"
+    },
+    {
+      "text": "asks you to do four things at the same",
+      "duration": 4.85,
+      "offset": 392.08,
+      "lang": "en"
+    },
+    {
+      "text": "time. You need to have one thing",
+      "duration": 4.48,
+      "offset": 394.0,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat] mainly. If it&#39;s a small",
+      "duration": 2.98,
+      "offset": 396.93,
+      "lang": "en"
+    },
+    {
+      "text": "thing, several things can be done.",
+      "duration": 4.0,
+      "offset": 398.48,
+      "lang": "en"
+    },
+    {
+      "text": "Here&#39;s an example of a messy prompt. Uh",
+      "duration": 5.04,
+      "offset": 399.92,
+      "lang": "en"
+    },
+    {
+      "text": "add a history thing so users can see",
+      "duration": 4.72,
+      "offset": 402.48,
+      "lang": "en"
+    },
+    {
+      "text": "their old prompts. Make it look nice and",
+      "duration": 3.84,
+      "offset": 404.96,
+      "lang": "en"
+    },
+    {
+      "text": "put it somewhere on the page. It should",
+      "duration": 3.6,
+      "offset": 407.2,
+      "lang": "en"
+    },
+    {
+      "text": "autosave. And I want it to be easy to",
+      "duration": 4.4,
+      "offset": 408.8,
+      "lang": "en"
+    },
+    {
+      "text": "use. Just build it however you think.",
+      "duration": 5.28,
+      "offset": 410.8,
+      "lang": "en"
+    },
+    {
+      "text": "This is like a a very like prompt that",
+      "duration": 4.8,
+      "offset": 413.2,
+      "lang": "en"
+    },
+    {
+      "text": "is very gener generic. you you&#39;re",
+      "duration": 4.24,
+      "offset": 416.08,
+      "lang": "en"
+    },
+    {
+      "text": "telling the AI to do without giving it a",
+      "duration": 4.48,
+      "offset": 418.0,
+      "lang": "en"
+    },
+    {
+      "text": "lot of sort of context and he can end up",
+      "duration": 4.64,
+      "offset": 420.32,
+      "lang": "en"
+    },
+    {
+      "text": "not understanding you. He can end up",
+      "duration": 4.0,
+      "offset": 422.48,
+      "lang": "en"
+    },
+    {
+      "text": "putting it in the footer. You know,",
+      "duration": 3.44,
+      "offset": 424.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not telling him exactly what you",
+      "duration": 3.36,
+      "offset": 426.48,
+      "lang": "en"
+    },
+    {
+      "text": "need and you&#39;re not giving him the",
+      "duration": 3.92,
+      "offset": 428.4,
+      "lang": "en"
+    },
+    {
+      "text": "context. So, this is this is actually",
+      "duration": 4.24,
+      "offset": 429.84,
+      "lang": "en"
+    },
+    {
+      "text": "very important because as you&#39;re going",
+      "duration": 3.28,
+      "offset": 432.32,
+      "lang": "en"
+    },
+    {
+      "text": "to be sending maybe thousands of",
+      "duration": 3.92,
+      "offset": 434.08,
+      "lang": "en"
+    },
+    {
+      "text": "messages at some point, you are losing",
+      "duration": 4.64,
+      "offset": 435.6,
+      "lang": "en"
+    },
+    {
+      "text": "out on money. Here&#39;s a structured prompt",
+      "duration": 4.8,
+      "offset": 438.0,
+      "lang": "en"
+    },
+    {
+      "text": "for you. Add a simple prompt history",
+      "duration": 5.92,
+      "offset": 440.24,
+      "lang": "en"
+    },
+    {
+      "text": "feature to the app somewhere on the and",
+      "duration": 5.68,
+      "offset": 442.8,
+      "lang": "en"
+    },
+    {
+      "text": "then you give it a location. Create a",
+      "duration": 4.56,
+      "offset": 446.16,
+      "lang": "en"
+    },
+    {
+      "text": "small data structure for it to store",
+      "duration": 5.6,
+      "offset": 448.48,
+      "lang": "en"
+    },
+    {
+      "text": "each generated prompt ID content",
+      "duration": 5.92,
+      "offset": 450.72,
+      "lang": "en"
+    },
+    {
+      "text": "timestamp. Now you tell it you have some",
+      "duration": 4.64,
+      "offset": 454.08,
+      "lang": "en"
+    },
+    {
+      "text": "technical background knowledge. You tell",
+      "duration": 4.64,
+      "offset": 456.64,
+      "lang": "en"
+    },
+    {
+      "text": "it how technically it&#39;s going to work.",
+      "duration": 4.32,
+      "offset": 458.72,
+      "lang": "en"
+    },
+    {
+      "text": "For example, as a technical person, you",
+      "duration": 3.6,
+      "offset": 461.28,
+      "lang": "en"
+    },
+    {
+      "text": "might already know that the time stamp",
+      "duration": 3.68,
+      "offset": 463.04,
+      "lang": "en"
+    },
+    {
+      "text": "will ensure that now you can show the",
+      "duration": 3.76,
+      "offset": 464.88,
+      "lang": "en"
+    },
+    {
+      "text": "prompts in the right order. While the AI",
+      "duration": 3.6,
+      "offset": 466.72,
+      "lang": "en"
+    },
+    {
+      "text": "might not not necessarily think about",
+      "duration": 4.24,
+      "offset": 468.64,
+      "lang": "en"
+    },
+    {
+      "text": "that from the get-go. Whenever the user",
+      "duration": 4.8,
+      "offset": 470.32,
+      "lang": "en"
+    },
+    {
+      "text": "user generates a final prompt, store it",
+      "duration": 4.64,
+      "offset": 472.88,
+      "lang": "en"
+    },
+    {
+      "text": "in the history list. History list. Now",
+      "duration": 3.84,
+      "offset": 475.12,
+      "lang": "en"
+    },
+    {
+      "text": "you tell it that there is a history list",
+      "duration": 3.04,
+      "offset": 477.52,
+      "lang": "en"
+    },
+    {
+      "text": "here. We didn&#39;t even tell it that,",
+      "duration": 4.64,
+      "offset": 478.96,
+      "lang": "en"
+    },
+    {
+      "text": "right? Except like a history thing. Add",
+      "duration": 4.96,
+      "offset": 480.56,
+      "lang": "en"
+    },
+    {
+      "text": "a sidebar that loads and displays the",
+      "duration": 4.72,
+      "offset": 483.6,
+      "lang": "en"
+    },
+    {
+      "text": "history items. Most recent at the top,",
+      "duration": 6.0,
+      "offset": 485.52,
+      "lang": "en"
+    },
+    {
+      "text": "most recent by the time stamp. Uh each",
+      "duration": 5.68,
+      "offset": 488.32,
+      "lang": "en"
+    },
+    {
+      "text": "item should have a should show a short",
+      "duration": 4.16,
+      "offset": 491.52,
+      "lang": "en"
+    },
+    {
+      "text": "preview and the time stamp. When the",
+      "duration": 3.52,
+      "offset": 494.0,
+      "lang": "en"
+    },
+    {
+      "text": "click user clicks an item, show the full",
+      "duration": 4.16,
+      "offset": 495.68,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Keep the UI minimal. Make sure",
+      "duration": 5.2,
+      "offset": 497.52,
+      "lang": "en"
+    },
+    {
+      "text": "the logic is modular so we can add XY Z",
+      "duration": 4.48,
+      "offset": 499.84,
+      "lang": "en"
+    },
+    {
+      "text": "later. This is a good prompt. It could",
+      "duration": 3.04,
+      "offset": 502.72,
+      "lang": "en"
+    },
+    {
+      "text": "even be more detailed, but this is",
+      "duration": 3.2,
+      "offset": 504.32,
+      "lang": "en"
+    },
+    {
+      "text": "something that will work. This will",
+      "duration": 3.6,
+      "offset": 505.76,
+      "lang": "en"
+    },
+    {
+      "text": "reduce the errors that you are facing",
+      "duration": 4.32,
+      "offset": 507.52,
+      "lang": "en"
+    },
+    {
+      "text": "when you are using Lovable and other AI",
+      "duration": 5.76,
+      "offset": 509.36,
+      "lang": "en"
+    },
+    {
+      "text": "vibe coding tools. 10 of 10 tips here.",
+      "duration": 6.96,
+      "offset": 511.84,
+      "lang": "en"
+    },
+    {
+      "text": "Right? So, let&#39;s go to the next one. UI.",
+      "duration": 6.56,
+      "offset": 515.12,
+      "lang": "en"
+    },
+    {
+      "text": "With UI, the most important thing is",
+      "duration": 6.56,
+      "offset": 518.8,
+      "lang": "en"
+    },
+    {
+      "text": "show don&#39;t tell. You can describe",
+      "duration": 7.2,
+      "offset": 521.68,
+      "lang": "en"
+    },
+    {
+      "text": "however you want the uh app to be and it",
+      "duration": 7.52,
+      "offset": 525.36,
+      "lang": "en"
+    },
+    {
+      "text": "might work but showing the AI with",
+      "duration": 6.8,
+      "offset": 528.88,
+      "lang": "en"
+    },
+    {
+      "text": "images in addition to telling it is",
+      "duration": 5.04,
+      "offset": 532.88,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s going to make your app 10 times",
+      "duration": 5.52,
+      "offset": 535.68,
+      "lang": "en"
+    },
+    {
+      "text": "better because actually AI is the AI is",
+      "duration": 4.88,
+      "offset": 537.92,
+      "lang": "en"
+    },
+    {
+      "text": "trained on working with different",
+      "duration": 4.16,
+      "offset": 541.2,
+      "lang": "en"
+    },
+    {
+      "text": "frameworks and UI elements but when you",
+      "duration": 4.32,
+      "offset": 542.8,
+      "lang": "en"
+    },
+    {
+      "text": "show it what you want he has the",
+      "duration": 4.32,
+      "offset": 545.36,
+      "lang": "en"
+    },
+    {
+      "text": "capability to see beyond his strict",
+      "duration": 5.68,
+      "offset": 547.12,
+      "lang": "en"
+    },
+    {
+      "text": "limited vision and that&#39;s exactly why we",
+      "duration": 4.96,
+      "offset": 549.68,
+      "lang": "en"
+    },
+    {
+      "text": "are doing that for all our apps, showing",
+      "duration": 4.64,
+      "offset": 552.8,
+      "lang": "en"
+    },
+    {
+      "text": "it um you know images, screenshots of",
+      "duration": 5.76,
+      "offset": 554.64,
+      "lang": "en"
+    },
+    {
+      "text": "UIs that we like. And so in this",
+      "duration": 4.56,
+      "offset": 557.44,
+      "lang": "en"
+    },
+    {
+      "text": "example, what you will be doing is that",
+      "duration": 4.0,
+      "offset": 560.4,
+      "lang": "en"
+    },
+    {
+      "text": "you will be going to Pinterest, which is",
+      "duration": 5.52,
+      "offset": 562.0,
+      "lang": "en"
+    },
+    {
+      "text": "the best place to find UI work, UI",
+      "duration": 5.36,
+      "offset": 564.4,
+      "lang": "en"
+    },
+    {
+      "text": "design, and you will be taking a few",
+      "duration": 4.24,
+      "offset": 567.52,
+      "lang": "en"
+    },
+    {
+      "text": "screenshots and showing this. And you",
+      "duration": 3.76,
+      "offset": 569.76,
+      "lang": "en"
+    },
+    {
+      "text": "can do that in the beginning. You can do",
+      "duration": 3.76,
+      "offset": 571.76,
+      "lang": "en"
+    },
+    {
+      "text": "that in the first prompt as well. Show",
+      "duration": 4.64,
+      "offset": 573.52,
+      "lang": "en"
+    },
+    {
+      "text": "what you want. you know this is a simple",
+      "duration": 5.44,
+      "offset": 575.52,
+      "lang": "en"
+    },
+    {
+      "text": "uh sort of a module very I mean simple",
+      "duration": 4.56,
+      "offset": 578.16,
+      "lang": "en"
+    },
+    {
+      "text": "not necessarily a lot to teach you here",
+      "duration": 4.0,
+      "offset": 580.96,
+      "lang": "en"
+    },
+    {
+      "text": "not a lot to say but a principle that&#39;s",
+      "duration": 4.32,
+      "offset": 582.72,
+      "lang": "en"
+    },
+    {
+      "text": "super important show what you want as",
+      "duration": 4.64,
+      "offset": 584.96,
+      "lang": "en"
+    },
+    {
+      "text": "opposed to just tell it so that&#39;s that",
+      "duration": 6.24,
+      "offset": 587.04,
+      "lang": "en"
+    },
+    {
+      "text": "and let&#39;s go to the second last one here",
+      "duration": 6.72,
+      "offset": 589.6,
+      "lang": "en"
+    },
+    {
+      "text": "edge functions uh lovable apps are great",
+      "duration": 5.44,
+      "offset": 593.28,
+      "lang": "en"
+    },
+    {
+      "text": "but they are really nothing without edge",
+      "duration": 4.24,
+      "offset": 596.32,
+      "lang": "en"
+    },
+    {
+      "text": "functions because edge functions is what",
+      "duration": 4.64,
+      "offset": 598.72,
+      "lang": "en"
+    },
+    {
+      "text": "enables the you know real adaptive",
+      "duration": 5.04,
+      "offset": 600.56,
+      "lang": "en"
+    },
+    {
+      "text": "programmability where you can now add",
+      "duration": 3.04,
+      "offset": 603.36,
+      "lang": "en"
+    },
+    {
+      "text": "features",
+      "duration": 3.6,
+      "offset": 605.6,
+      "lang": "en"
+    },
+    {
+      "text": "functions, logics, u you know,",
+      "duration": 5.36,
+      "offset": 606.4,
+      "lang": "en"
+    },
+    {
+      "text": "algorithms and all of those things which",
+      "duration": 5.44,
+      "offset": 609.2,
+      "lang": "en"
+    },
+    {
+      "text": "actually requires processing processing",
+      "duration": 5.52,
+      "offset": 611.76,
+      "lang": "en"
+    },
+    {
+      "text": "data. For example, you made yourself an",
+      "duration": 4.88,
+      "offset": 614.64,
+      "lang": "en"
+    },
+    {
+      "text": "app. Let&#39;s take our prompt app as an",
+      "duration": 5.12,
+      "offset": 617.28,
+      "lang": "en"
+    },
+    {
+      "text": "example. We made a prompt app. Now,",
+      "duration": 5.84,
+      "offset": 619.52,
+      "lang": "en"
+    },
+    {
+      "text": "every time the actual generation happens",
+      "duration": 5.6,
+      "offset": 622.4,
+      "lang": "en"
+    },
+    {
+      "text": "based on information we put in the UI,",
+      "duration": 4.8,
+      "offset": 625.36,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s going to be an edge function in",
+      "duration": 3.76,
+      "offset": 628.0,
+      "lang": "en"
+    },
+    {
+      "text": "the background that will generate a",
+      "duration": 3.92,
+      "offset": 630.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Now depending on whether or not",
+      "duration": 5.12,
+      "offset": 631.76,
+      "lang": "en"
+    },
+    {
+      "text": "it would be using lovable directly um or",
+      "duration": 4.88,
+      "offset": 634.08,
+      "lang": "en"
+    },
+    {
+      "text": "or some something like that there might",
+      "duration": 3.76,
+      "offset": 636.88,
+      "lang": "en"
+    },
+    {
+      "text": "not necessarily be needing an edge",
+      "duration": 4.08,
+      "offset": 638.96,
+      "lang": "en"
+    },
+    {
+      "text": "function because it&#39;s a direct API call.",
+      "duration": 4.4,
+      "offset": 640.64,
+      "lang": "en"
+    },
+    {
+      "text": "But even understanding these technical",
+      "duration": 4.48,
+      "offset": 643.04,
+      "lang": "en"
+    },
+    {
+      "text": "differences are super important for you",
+      "duration": 4.72,
+      "offset": 645.04,
+      "lang": "en"
+    },
+    {
+      "text": "because you are leading the development",
+      "duration": 5.04,
+      "offset": 647.52,
+      "lang": "en"
+    },
+    {
+      "text": "of an app. You are not letting lovable",
+      "duration": 5.44,
+      "offset": 649.76,
+      "lang": "en"
+    },
+    {
+      "text": "do the whole thing. No, you should to",
+      "duration": 6.16,
+      "offset": 652.56,
+      "lang": "en"
+    },
+    {
+      "text": "make the best app. You have a uh you",
+      "duration": 5.68,
+      "offset": 655.2,
+      "lang": "en"
+    },
+    {
+      "text": "know 100 man team developer team",
+      "duration": 4.32,
+      "offset": 658.72,
+      "lang": "en"
+    },
+    {
+      "text": "basically lovable and you leading it and",
+      "duration": 4.0,
+      "offset": 660.88,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re telling it what to do, right? So",
+      "duration": 3.52,
+      "offset": 663.04,
+      "lang": "en"
+    },
+    {
+      "text": "you need to understand these things to",
+      "duration": 4.24,
+      "offset": 664.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually build the best products and the",
+      "duration": 4.32,
+      "offset": 666.56,
+      "lang": "en"
+    },
+    {
+      "text": "edge functions is what usually enables",
+      "duration": 3.6,
+      "offset": 669.12,
+      "lang": "en"
+    },
+    {
+      "text": "you to do a lot of logic. For example,",
+      "duration": 3.6,
+      "offset": 670.88,
+      "lang": "en"
+    },
+    {
+      "text": "with the edge function with our prompt",
+      "duration": 4.48,
+      "offset": 672.72,
+      "lang": "en"
+    },
+    {
+      "text": "app, uh you could say, hey, I want to",
+      "duration": 5.68,
+      "offset": 674.48,
+      "lang": "en"
+    },
+    {
+      "text": "have 10 LLMs to be creating a prompt",
+      "duration": 4.64,
+      "offset": 677.2,
+      "lang": "en"
+    },
+    {
+      "text": "automatically. Then I want to summarize",
+      "duration": 3.84,
+      "offset": 680.16,
+      "lang": "en"
+    },
+    {
+      "text": "these prompts to make a master prompt.",
+      "duration": 3.68,
+      "offset": 681.84,
+      "lang": "en"
+    },
+    {
+      "text": "That is what an edge function would",
+      "duration": 3.84,
+      "offset": 684.0,
+      "lang": "en"
+    },
+    {
+      "text": "handle. Edge function handle these sort",
+      "duration": 4.48,
+      "offset": 685.52,
+      "lang": "en"
+    },
+    {
+      "text": "of complex logics that you can do to",
+      "duration": 4.32,
+      "offset": 687.84,
+      "lang": "en"
+    },
+    {
+      "text": "your apps so that you know you can take",
+      "duration": 3.92,
+      "offset": 690.0,
+      "lang": "en"
+    },
+    {
+      "text": "them from being just like a piece of",
+      "duration": 4.64,
+      "offset": 692.16,
+      "lang": "en"
+    },
+    {
+      "text": "text and design to actually be full",
+      "duration": 5.04,
+      "offset": 693.92,
+      "lang": "en"
+    },
+    {
+      "text": "components. So learn your edge functions",
+      "duration": 3.76,
+      "offset": 696.8,
+      "lang": "en"
+    },
+    {
+      "text": "in our school community. We teach you",
+      "duration": 3.68,
+      "offset": 698.96,
+      "lang": "en"
+    },
+    {
+      "text": "everything about that. Uh you will learn",
+      "duration": 3.84,
+      "offset": 700.56,
+      "lang": "en"
+    },
+    {
+      "text": "how to you know use them, what they are,",
+      "duration": 3.44,
+      "offset": 702.64,
+      "lang": "en"
+    },
+    {
+      "text": "how to build with them and superbase and",
+      "duration": 5.04,
+      "offset": 704.4,
+      "lang": "en"
+    },
+    {
+      "text": "beyond. Last but not least, number five",
+      "duration": 6.8,
+      "offset": 706.08,
+      "lang": "en"
+    },
+    {
+      "text": "here. You can&#39;t create production ready",
+      "duration": 6.24,
+      "offset": 709.44,
+      "lang": "en"
+    },
+    {
+      "text": "apps from the beginning. Don&#39;t treat",
+      "duration": 5.68,
+      "offset": 712.88,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable as simply like a demo. Oh, I&#39;m",
+      "duration": 4.72,
+      "offset": 715.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to just build some like five user",
+      "duration": 4.64,
+      "offset": 718.56,
+      "lang": "en"
+    },
+    {
+      "text": "app. No, you should absolutely be",
+      "duration": 4.32,
+      "offset": 720.4,
+      "lang": "en"
+    },
+    {
+      "text": "careful with lovable apps. It&#39;s not",
+      "duration": 3.28,
+      "offset": 723.2,
+      "lang": "en"
+    },
+    {
+      "text": "something that I would probably rely on",
+      "duration": 4.88,
+      "offset": 724.72,
+      "lang": "en"
+    },
+    {
+      "text": "for 1 million users. However, lovable",
+      "duration": 5.84,
+      "offset": 726.48,
+      "lang": "en"
+    },
+    {
+      "text": "apps are definitely good enough to be",
+      "duration": 4.32,
+      "offset": 729.6,
+      "lang": "en"
+    },
+    {
+      "text": "taking you to that stage where you can",
+      "duration": 4.56,
+      "offset": 732.32,
+      "lang": "en"
+    },
+    {
+      "text": "get 100 or 1,000 or even more users. And",
+      "duration": 6.32,
+      "offset": 733.92,
+      "lang": "en"
+    },
+    {
+      "text": "once you have 1,000 users, ideally paid",
+      "duration": 5.28,
+      "offset": 736.88,
+      "lang": "en"
+    },
+    {
+      "text": "once you have some revenue, you will",
+      "duration": 4.32,
+      "offset": 740.24,
+      "lang": "en"
+    },
+    {
+      "text": "start investing into the next steps for",
+      "duration": 4.88,
+      "offset": 742.16,
+      "lang": "en"
+    },
+    {
+      "text": "your lovable app, which is audits, uh,",
+      "duration": 4.96,
+      "offset": 744.56,
+      "lang": "en"
+    },
+    {
+      "text": "security components, making sure things",
+      "duration": 5.28,
+      "offset": 747.04,
+      "lang": "en"
+    },
+    {
+      "text": "are persisting, data storage and beyond.",
+      "duration": 3.92,
+      "offset": 749.52,
+      "lang": "en"
+    },
+    {
+      "text": "Because, you know, you want to be",
+      "duration": 2.96,
+      "offset": 752.32,
+      "lang": "en"
+    },
+    {
+      "text": "keeping this data, you want this data to",
+      "duration": 4.96,
+      "offset": 753.44,
+      "lang": "en"
+    },
+    {
+      "text": "be secure, to not crash. you want maybe",
+      "duration": 4.96,
+      "offset": 755.28,
+      "lang": "en"
+    },
+    {
+      "text": "different versions of your app so that",
+      "duration": 3.36,
+      "offset": 758.4,
+      "lang": "en"
+    },
+    {
+      "text": "you know if something happens you have",
+      "duration": 3.52,
+      "offset": 760.24,
+      "lang": "en"
+    },
+    {
+      "text": "other versions that you can bring back",
+      "duration": 5.92,
+      "offset": 761.76,
+      "lang": "en"
+    },
+    {
+      "text": "and beyond. So uh if you treat this as",
+      "duration": 6.16,
+      "offset": 763.76,
+      "lang": "en"
+    },
+    {
+      "text": "something like a a real production ready",
+      "duration": 4.8,
+      "offset": 767.68,
+      "lang": "en"
+    },
+    {
+      "text": "app from the beginning you can actually",
+      "duration": 3.84,
+      "offset": 769.92,
+      "lang": "en"
+    },
+    {
+      "text": "there are a few things you need to keep",
+      "duration": 4.0,
+      "offset": 772.48,
+      "lang": "en"
+    },
+    {
+      "text": "in mind uh and you need to uh add",
+      "duration": 4.4,
+      "offset": 773.76,
+      "lang": "en"
+    },
+    {
+      "text": "authentication from the beginning",
+      "duration": 3.44,
+      "offset": 776.48,
+      "lang": "en"
+    },
+    {
+      "text": "because once you build the app with all",
+      "duration": 4.0,
+      "offset": 778.16,
+      "lang": "en"
+    },
+    {
+      "text": "of the million features and then you add",
+      "duration": 4.32,
+      "offset": 779.92,
+      "lang": "en"
+    },
+    {
+      "text": "authentication later you are really",
+      "duration": 4.64,
+      "offset": 782.16,
+      "lang": "en"
+    },
+    {
+      "text": "making it complex for the AI. If you add",
+      "duration": 4.4,
+      "offset": 784.24,
+      "lang": "en"
+    },
+    {
+      "text": "authentication in the beginning, now all",
+      "duration": 4.0,
+      "offset": 786.8,
+      "lang": "en"
+    },
+    {
+      "text": "of the components it adds will be based",
+      "duration": 3.84,
+      "offset": 788.64,
+      "lang": "en"
+    },
+    {
+      "text": "on authentication. And then even more,",
+      "duration": 5.2,
+      "offset": 790.8,
+      "lang": "en"
+    },
+    {
+      "text": "if you add stripe, you add stripe, then",
+      "duration": 5.76,
+      "offset": 792.48,
+      "lang": "en"
+    },
+    {
+      "text": "you can now have components that you add",
+      "duration": 4.64,
+      "offset": 796.0,
+      "lang": "en"
+    },
+    {
+      "text": "based on different subscription",
+      "duration": 4.64,
+      "offset": 798.24,
+      "lang": "en"
+    },
+    {
+      "text": "uh subscription sort of tiers and",
+      "duration": 4.08,
+      "offset": 800.64,
+      "lang": "en"
+    },
+    {
+      "text": "levels. And now from the beginning, you",
+      "duration": 4.08,
+      "offset": 802.88,
+      "lang": "en"
+    },
+    {
+      "text": "are programming your app to be built the",
+      "duration": 6.48,
+      "offset": 804.72,
+      "lang": "en"
+    },
+    {
+      "text": "right way. So add that early on and test",
+      "duration": 6.48,
+      "offset": 806.96,
+      "lang": "en"
+    },
+    {
+      "text": "it. Test it. Test it as much as you can.",
+      "duration": 4.48,
+      "offset": 811.2,
+      "lang": "en"
+    },
+    {
+      "text": "100 times, 1,000 times because there is",
+      "duration": 4.0,
+      "offset": 813.44,
+      "lang": "en"
+    },
+    {
+      "text": "always going to be something that you",
+      "duration": 3.76,
+      "offset": 815.68,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t see with lovable with your app.",
+      "duration": 3.6,
+      "offset": 817.44,
+      "lang": "en"
+    },
+    {
+      "text": "You have to test it so much that you,",
+      "duration": 3.36,
+      "offset": 819.44,
+      "lang": "en"
+    },
+    {
+      "text": "you know, you are 100% sure that this",
+      "duration": 4.08,
+      "offset": 821.04,
+      "lang": "en"
+    },
+    {
+      "text": "works. Don&#39;t stop after it worked once,",
+      "duration": 3.68,
+      "offset": 822.8,
+      "lang": "en"
+    },
+    {
+      "text": "you know, try in a different browser,",
+      "duration": 3.28,
+      "offset": 825.12,
+      "lang": "en"
+    },
+    {
+      "text": "try in a different location. Every",
+      "duration": 3.68,
+      "offset": 826.48,
+      "lang": "en"
+    },
+    {
+      "text": "different factor will matter because",
+      "duration": 3.68,
+      "offset": 828.4,
+      "lang": "en"
+    },
+    {
+      "text": "once you actually are going live, you",
+      "duration": 4.56,
+      "offset": 830.16,
+      "lang": "en"
+    },
+    {
+      "text": "know, your whole uh launch will rely on",
+      "duration": 4.72,
+      "offset": 832.08,
+      "lang": "en"
+    },
+    {
+      "text": "this. uh you know different scenario",
+      "duration": 4.32,
+      "offset": 834.72,
+      "lang": "en"
+    },
+    {
+      "text": "testings super important. This is",
+      "duration": 3.52,
+      "offset": 836.8,
+      "lang": "en"
+    },
+    {
+      "text": "something you can do on your own but on",
+      "duration": 3.12,
+      "offset": 839.04,
+      "lang": "en"
+    },
+    {
+      "text": "in reality you would need a little team",
+      "duration": 4.0,
+      "offset": 840.32,
+      "lang": "en"
+    },
+    {
+      "text": "behind to actually help you because the",
+      "duration": 4.0,
+      "offset": 842.16,
+      "lang": "en"
+    },
+    {
+      "text": "person focusing on development is not",
+      "duration": 4.16,
+      "offset": 844.32,
+      "lang": "en"
+    },
+    {
+      "text": "actually the one who can person focus on",
+      "duration": 4.16,
+      "offset": 846.16,
+      "lang": "en"
+    },
+    {
+      "text": "all the testing as well. And this is",
+      "duration": 3.52,
+      "offset": 848.48,
+      "lang": "en"
+    },
+    {
+      "text": "something that is a very big tip. Have",
+      "duration": 3.28,
+      "offset": 850.32,
+      "lang": "en"
+    },
+    {
+      "text": "some people around you to actually be",
+      "duration": 3.52,
+      "offset": 852.0,
+      "lang": "en"
+    },
+    {
+      "text": "testing in our school community. I would",
+      "duration": 3.92,
+      "offset": 853.6,
+      "lang": "en"
+    },
+    {
+      "text": "be I would love to have this as a place",
+      "duration": 3.68,
+      "offset": 855.52,
+      "lang": "en"
+    },
+    {
+      "text": "where people can test each other&#39;s apps.",
+      "duration": 3.68,
+      "offset": 857.52,
+      "lang": "en"
+    },
+    {
+      "text": "That would be so amazing. So join let&#39;s",
+      "duration": 4.4,
+      "offset": 859.2,
+      "lang": "en"
+    },
+    {
+      "text": "build the best community there. Um yeah",
+      "duration": 4.32,
+      "offset": 861.2,
+      "lang": "en"
+    },
+    {
+      "text": "and then you know scale step by step.",
+      "duration": 3.76,
+      "offset": 863.6,
+      "lang": "en"
+    },
+    {
+      "text": "Start with one user, five users, 20",
+      "duration": 3.76,
+      "offset": 865.52,
+      "lang": "en"
+    },
+    {
+      "text": "users, then see what happens. How is the",
+      "duration": 4.16,
+      "offset": 867.36,
+      "lang": "en"
+    },
+    {
+      "text": "app reacting? 100 users, what happening",
+      "duration": 4.64,
+      "offset": 869.28,
+      "lang": "en"
+    },
+    {
+      "text": "now? Did my API key go low? How often",
+      "duration": 4.48,
+      "offset": 871.52,
+      "lang": "en"
+    },
+    {
+      "text": "does it go low? The credits, all of",
+      "duration": 3.44,
+      "offset": 873.92,
+      "lang": "en"
+    },
+    {
+      "text": "these things you need to keep in mind so",
+      "duration": 3.76,
+      "offset": 876.0,
+      "lang": "en"
+    },
+    {
+      "text": "that you can grow correctly. And if you",
+      "duration": 4.24,
+      "offset": 877.36,
+      "lang": "en"
+    },
+    {
+      "text": "follow these steps and you have a good",
+      "duration": 3.6,
+      "offset": 879.76,
+      "lang": "en"
+    },
+    {
+      "text": "idea and you have a problem that you",
+      "duration": 3.76,
+      "offset": 881.6,
+      "lang": "en"
+    },
+    {
+      "text": "solve and a solution, boom, you are",
+      "duration": 4.32,
+      "offset": 883.36,
+      "lang": "en"
+    },
+    {
+      "text": "going to make a SAS that might actually,",
+      "duration": 3.52,
+      "offset": 885.36,
+      "lang": "en"
+    },
+    {
+      "text": "you know, take you to financial",
+      "duration": 4.0,
+      "offset": 887.68,
+      "lang": "en"
+    },
+    {
+      "text": "independence. And last but not least",
+      "duration": 4.56,
+      "offset": 888.88,
+      "lang": "en"
+    },
+    {
+      "text": "again once you have done all of these",
+      "duration": 3.36,
+      "offset": 891.68,
+      "lang": "en"
+    },
+    {
+      "text": "things your app is live you have 100",
+      "duration": 4.48,
+      "offset": 893.44,
+      "lang": "en"
+    },
+    {
+      "text": "users or 1,000 users don&#39;t stop there",
+      "duration": 5.28,
+      "offset": 895.04,
+      "lang": "en"
+    },
+    {
+      "text": "now you will try to audit your app and",
+      "duration": 4.32,
+      "offset": 897.92,
+      "lang": "en"
+    },
+    {
+      "text": "you need to build it in the way where",
+      "duration": 3.6,
+      "offset": 900.32,
+      "lang": "en"
+    },
+    {
+      "text": "you can still use lovable but you can",
+      "duration": 3.36,
+      "offset": 902.24,
+      "lang": "en"
+    },
+    {
+      "text": "have a developer come in and work",
+      "duration": 4.4,
+      "offset": 903.92,
+      "lang": "en"
+    },
+    {
+      "text": "together with lovable and start you know",
+      "duration": 4.96,
+      "offset": 905.6,
+      "lang": "en"
+    },
+    {
+      "text": "securing things and doing even more",
+      "duration": 4.56,
+      "offset": 908.32,
+      "lang": "en"
+    },
+    {
+      "text": "things with you and then you take it to",
+      "duration": 5.52,
+      "offset": 910.56,
+      "lang": "en"
+    },
+    {
+      "text": "the super super production grade level",
+      "duration": 6.08,
+      "offset": 912.88,
+      "lang": "en"
+    },
+    {
+      "text": "and this is enterprise level sort of use",
+      "duration": 5.44,
+      "offset": 916.08,
+      "lang": "en"
+    },
+    {
+      "text": "case of lovable. This is not like some",
+      "duration": 4.4,
+      "offset": 918.96,
+      "lang": "en"
+    },
+    {
+      "text": "something like uh you know just a vibe",
+      "duration": 4.32,
+      "offset": 921.52,
+      "lang": "en"
+    },
+    {
+      "text": "coder who&#39;s just like vibe coding and is",
+      "duration": 4.8,
+      "offset": 923.36,
+      "lang": "en"
+    },
+    {
+      "text": "chilling. This is strategic. This is",
+      "duration": 3.84,
+      "offset": 925.84,
+      "lang": "en"
+    },
+    {
+      "text": "smart. This is intelligent. This is how",
+      "duration": 4.4,
+      "offset": 928.16,
+      "lang": "en"
+    },
+    {
+      "text": "you can build apps for your company, for",
+      "duration": 5.76,
+      "offset": 929.68,
+      "lang": "en"
+    },
+    {
+      "text": "others and for your own entrepreneurial",
+      "duration": 4.96,
+      "offset": 932.56,
+      "lang": "en"
+    },
+    {
+      "text": "journey. I hope you really like this",
+      "duration": 5.2,
+      "offset": 935.44,
+      "lang": "en"
+    },
+    {
+      "text": "video. Uh I have many videos on YouTube",
+      "duration": 5.2,
+      "offset": 937.52,
+      "lang": "en"
+    },
+    {
+      "text": "on different topics. If you like this",
+      "duration": 3.92,
+      "offset": 940.64,
+      "lang": "en"
+    },
+    {
+      "text": "topic specifically around lovable and",
+      "duration": 3.52,
+      "offset": 942.72,
+      "lang": "en"
+    },
+    {
+      "text": "building web apps, let me know in the",
+      "duration": 3.84,
+      "offset": 944.56,
+      "lang": "en"
+    },
+    {
+      "text": "comments below. Again, we have much more",
+      "duration": 3.84,
+      "offset": 946.24,
+      "lang": "en"
+    },
+    {
+      "text": "content in school. Would love to see you",
+      "duration": 3.68,
+      "offset": 948.4,
+      "lang": "en"
+    },
+    {
+      "text": "there. But if not, YouTube is the place",
+      "duration": 6.8,
+      "offset": 950.08,
+      "lang": "en"
+    },
+    {
+      "text": "to be. I will see you in the next video.",
+      "duration": 4.8,
+      "offset": 952.08,
+      "lang": "en"
+    }
+  ]
+}

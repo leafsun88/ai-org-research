@@ -1,0 +1,2093 @@
+{
+  "ticker": "ANTHROPIC",
+  "generated_at": "2026-04-17T21:19:45",
+  "retry_rounds": 3,
+  "min_duration_min": 0,
+  "total_records": 179,
+  "success_records": 40,
+  "failure_records": 139,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "Who Gets to Decide What AI Can and Can't Do? | Anthropic’s Jared Kaplan (Ep. 5)",
+      "date": "2024-12-10",
+      "podcast": "Life with Machines",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/FTTLI1026268672.mp3?updated=1736194356",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-12-10_Who-Gets-to-Decide-What-AI-Can-and-Cant-Do--Anthropics-Jared.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "EP3-28 | 【AI News】Anthropic CEO Dario Amodei on \"AI Safety\"",
+      "date": "2026-03-09",
+      "podcast": "Startup Island TAIWAN Podcast",
+      "audio_url": "https://m.cdn.firstory.me/track/cl8jubp5t01v601sl4vys57dj/cmmbmkjvp2ydi01y95vws84y9/https%3A%2F%2Fd3mww1g1pfq2pt.cloudfront.net%2FRecord%2Fcl8jubp5t01v601sl4vys57dj%2Fcmmbmkjvp2ydj01y91gpbayeh.mp3?v=1772603880452",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-03-09_EP3-28--AI-NewsAnthropic-CEO-Dario-Amodei-on-AI-Safety.md"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "“Anthropic Responsible Scaling Policy v3: A Matter of Trust” by Zvi",
+      "date": "2026-04-01",
+      "podcast": "LessWrong posts by zvi",
+      "audio_url": "https://dl.type3.audio/episode/6fb122c9-b53d-4407-9bfd-8ca60cf7f138.mp3?request_source=rss&client_id=lesswrong&feed_id=lesswrong_ai_narrations%20lesswrong__30_karma&type=ai_narration&author=Zvi&title=%22Anthropic%20Responsible%20Scaling%20Policy%20v3%3A%20A%20Matter%20of%20Trust%22%20by%20Zvi&source_url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FAkzauoTt2Lwn2yAvj%2Fanthropic-responsible-scaling-policy-v3-a-matter-of-trust&created_at=2026-04-01T18%3A13%3A26.596982%2B00%3A00&duration=2807",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Model Context Protocol (MCP) Explained for Product Managers in 2026",
+      "date": "2025-04-01",
+      "podcast": "The Growth Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/160287126/09daf92360bc915d11fea7f905a667c6.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Claude Code's Creator Reveals \"Claude Cowork\"'s Setup",
+      "date": "2026-01-23",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01KFNJX7C1Y4MZ216YKPJT2AV5.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Episode 408 – Model Context Protocol (MCP) Part 2: Getting the Most Out of MCP Servers",
+      "date": "2025-08-14",
+      "podcast": "Microsoft Cloud IT Pro Podcast",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/msclouditpropodcast/content.blubrry.com/msclouditpropodcast/E408.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "MCP Server Architecture Model Context Protocol — How AI apps connect to the world",
+      "date": "2026-03-31",
+      "podcast": "The Business Compass LLC Podcasts",
+      "audio_url": "https://mcdn.podbean.com/mf/web/zhyeu7jtuvqg5pcv/2dd06ea3-f1dd-4bf4-b348-b93a2dfdb181_1_a2bjb.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Twilio: Demystifying Model Context Protocol (MCP) And Real-World AI Deployment",
+      "date": "2026-04-14",
+      "podcast": "Tech Talks Daily",
+      "audio_url": "https://traffic.libsyn.com/secure/techblogwriter/Tech_Talks_Daily_-_Invisible_Tech3.mp3?dest-id=289572",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Claude Code, Cowork and Codex #6: Claude Code Auto Mode and Full Cowork Computer Use",
+      "date": "2026-03-25",
+      "podcast": "Don't Worry About the Vase Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/192115142/ff097b93efe544e3e235f383d4102118.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Episode 170: Claude Code + Tmux, Websockets, and Other Korea LHE Takeaways",
+      "date": "2026-04-16",
+      "podcast": "Critical Thinking - Bug Bounty Podcast",
+      "audio_url": "https://audio-delivery.cohostpodcasting.com/audio/8d5e4388-13f4-45c8-b82f-aff313a5ac76/episodes/b7ce07f0-1596-4801-949b-9c2c952716c9/episode.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Episode 407 – Model Context Protocol (MCP) Part 1: The USB Port of AI Communications",
+      "date": "2025-07-31",
+      "podcast": "Microsoft Cloud IT Pro Podcast",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/media.blubrry.com/msclouditpropodcast/content.blubrry.com/msclouditpropodcast/E407.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Model Context Protocol (MCP): Making AI Agents Talk to Your Data",
+      "date": "2025-05-13",
+      "podcast": "Higher Intelligence",
+      "audio_url": "https://afp-232483-injected.calisto.simplecastaudio.com/9e1df961-05bd-43c4-97c5-74c3f315a7ba/episodes/98d597d6-8f33-441b-b7ed-a578d3302c47/audio/128/default.mp3?aid=rss_feed&awCollectionId=9e1df961-05bd-43c4-97c5-74c3f315a7ba&awEpisodeId=98d597d6-8f33-441b-b7ed-a578d3302c47&feed=34l7JQin",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Model Context Protocol and Agent 2 Agent 🤖🕵️",
+      "date": "2026-01-11",
+      "podcast": "The AI Security Podcast",
+      "audio_url": "https://anchor.fm/s/10b223e84/podcast/play/113242673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-29%2F415162919-44100-2-3c85ee51badc4.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Claude Code, Codex and Agentic Coding #7: Auto Mode",
+      "date": "2026-04-15",
+      "podcast": "Don't Worry About the Vase Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/194306088/aa5cb40613dcd37aa75c298daa075e1c.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "I Ranked Every Vibe Coding App (Cursor vs Claude Code vs Lovable)",
+      "date": "2025-11-03",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01K95FD0AAE6Q8JSQMPS3GW18X.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Model Context Protocol (MCP), clearly explained",
+      "date": "2025-03-14",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/pyf0jbmlp2l7gc76oiusv8jo.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Zac Hatfield-Dodds | Anthropic’s Responsible Scaling Policy",
+      "date": "2025-04-04",
+      "podcast": "Foresight Institute Radio",
+      "audio_url": "https://sphinx.acast.com/p/open/s/6527e4f1d40c9700125f42de/e/67eed46ada5ebf87644df2e6/media.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "OpenClaude DESTROYS Claude Code?",
+      "date": "2026-04-15",
+      "podcast": "AI News Today | Julian Goldie Podcast",
+      "audio_url": "https://anchor.fm/s/10b0edd94/podcast/play/118520149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-15%2F422153462-44100-2-d44dcad14295e.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "SANS Stormcast Friday, April 3rd, 2026: Vite Exploits; OpenSSH 10.3; Claude Code Vuln",
+      "date": "2026-04-03",
+      "podcast": "SANS Internet Stormcenter Daily Cyber Security Podcast (Stormcast)",
+      "audio_url": "https://traffic.libsyn.com/securitypodcast/9878.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic’s Daniela Amodei on AI Human Skills, NY Bans AI News Without Edits, Apple’s M5 Chip Launch, US Air Force Smart Glasses Ban Explodes Debate",
+      "date": "2026-02-10",
+      "podcast": "Digimasters Shorts",
+      "audio_url": "https://op3.dev/e/www.buzzsprout.com/2292087/episodes/18647785-anthropic-s-daniela-amodei-on-ai-human-skills-ny-bans-ai-news-without-edits-apple-s-m5-chip-launch-us-air-force-smart-glasses-ban-explodes-debate.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic’s CPO on what comes next | Mike Krieger (co-founder of Instagram)",
+      "date": "2025-06-05",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://api.substack.com/feed/podcast/164696831/51c24209654500a385d217637f6386ed.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Anthropic CPO Mike Krieger: Where Will Value Be Created in a World of AI | Have Foundation Models Commoditized | When Do Model Providers Become Application Providers | What Anthropic Learned from Deepseek",
+      "date": "2025-03-03",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/20VC-_Mike_Krieger__Anthropic.mp3?dest-id=240976",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Speedrun",
+      "date": "2025-10-16",
+      "podcast": "The Last Invention",
+      "audio_url": "https://mgln.ai/e/1610/traffic.megaphone.fm/ROCKWELLCREATIVESTUDIOLLC3984307487.mp3?updated=1771556497",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "On Dwarkesh Patel's 2026 Podcast With Dario Amodei",
+      "date": "2026-02-16",
+      "podcast": "Don't Worry About the Vase Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/188179544/a9bd9942a6a538d16174ea7a787017f0.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "“On Dwarkesh Patel’s 2026 Podcast With Dario Amodei” by Zvi",
+      "date": "2026-02-16",
+      "podcast": "LessWrong posts by zvi",
+      "audio_url": "https://dl.type3.audio/episode/666c9fbf-5ea3-4296-9312-f6885b149431.mp3?request_source=rss&client_id=lesswrong&feed_id=lesswrong_ai_narrations%20lesswrong__30_karma&type=ai_narration&author=Zvi&title=%22On%20Dwarkesh%20Patel%E2%80%99s%202026%20Podcast%20With%20Dario%20Amodei%22%20by%20Zvi&source_url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FjWCy6owAmqLv5BB8q%2Fon-dwarkesh-patel-s-2026-podcast-with-dario-amodei&created_at=2026-02-16T14%3A33%3A19.813845%2B00%3A00&duration=1762",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "What Dario Amodei got wrong in “We are near the end of the exponential!",
+      "date": "2026-02-18",
+      "podcast": "Startup Hakk",
+      "audio_url": "https://anchor.fm/s/3773e790/podcast/play/115672082/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-18%2F418326299-44100-2-87939e8cd8d95.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Is TikTok’s Algo Changing?",
+      "date": "2026-01-27",
+      "podcast": "Tech Brew Ride Home",
+      "audio_url": "https://tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI1438520212.mp3?updated=1769534606",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The Connected AI podcast: Anthropic's head of Europe speaks on trust, safety and the AI race",
+      "date": "2026-04-08",
+      "podcast": "The Connected AI Podcast",
+      "audio_url": "https://traffic.libsyn.com/secure/41bbdb8d-55ae-4883-9d81-93d4444db7ee/BP_CONNECTED_AI_PODCAST_EP6_FOR_PUBLICATION_-14LUFS.mp3?dest-id=4779872",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Head of Growth (Anthropic): “Claude is growing itself at this point” | Amol Avasare",
+      "date": "2026-04-05",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://api.substack.com/feed/podcast/192660974/b8f2d64f00864328ab4d430039ff6b58.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "OpenAI vs. Anthropic's Direct Faceoff + Future of Agents — With Aaron Levie",
+      "date": "2026-04-08",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP6131393798.mp3?updated=1775659805",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic doesn't trust the Pentagon, and neither should you",
+      "date": "2026-03-12",
+      "podcast": "Decoder with Nilay Patel",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP8736665038.mp3?updated=1773265819",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ben Thompson: Anthropic, the Pentagon, and the Limits of Private Power",
+      "date": "2026-03-05",
+      "podcast": "The a16z Show",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b5969866-c81b-4bc0-b162-d8939d43852b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b5969866-c81b-4bc0-b162-d8939d43852b&feed=JGE3yC0V",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic Abandons Safety Promise, JPMorgan Replacing Workers, & The Top Skills for 2026",
+      "date": "2026-02-25",
+      "podcast": "Future Ready Leadership With Jacob Morgan",
+      "audio_url": "https://traffic.libsyn.com/secure/futureofworkpodcast/future-ready-dimon-anthropic-linkedin-skills-feb25-2026.mp3?dest-id=209072",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic and the Governance of Frontier AI Wealth and Safety",
+      "date": "2026-04-14",
+      "podcast": "Decoded: The Cybersecurity Podcast",
+      "audio_url": "https://anchor.fm/s/fb9c2ec0/podcast/play/118436088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F422041620-44100-2-f474c9d3b8b75.m4a",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Deutsche Bank Warns on AI, AI System CHARTwatch Saves Lives, Australia Opens AI Medical Center, Cybercriminals Exploit Malicious AI, and more...",
+      "date": "2024-09-16",
+      "podcast": "AI News Daily",
+      "audio_url": "https://media.transistor.fm/568a2c85/739e98e9.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Is Something Big Happening?, AI Safety Apocalypse, Anthropic Raises $30 Billion",
+      "date": "2026-02-13",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP1075367237.mp3?updated=1771016870",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Are We In An AI Bubble? In Defense of Sam Altman & AI in The Enterprise | EP99.24",
+      "date": "2025-11-07",
+      "podcast": "This Day in AI Podcast",
+      "audio_url": "https://media.transistor.fm/e12e1ab1/500e63a9.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "[FULL RUNDOWN] The Week of the Great Realignment: OpenAI’s $110B Round, the Anthropic Ban, and the Bezos Disruption Fund",
+      "date": "2026-03-01",
+      "podcast": "AI Unraveled: Latest AI News, ChatGPT, Gemini, Claude, DeepSeek, Gen AI, LLMs, Agents, Ethics, Bias",
+      "audio_url": "https://content.rss.com/episodes/204871/2590781/djamgatech/2026_03_01_15_28_45_30dc4db5-0091-4348-9f57-27cf35690d7a.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "OpenAI & Google Struggle on Model Training, Suno's New AI Music Model & More AI News",
+      "date": "2024-11-14",
+      "podcast": "AI For Humans: Making Artificial Intelligence Fun & Practical",
+      "audio_url": "https://traffic.libsyn.com/secure/eb8db28e-503a-471d-a9c6-2b39a3434c0d/AIForHumans84OpenAIStallingSunov4.mp3?dest-id=3976203",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "You Are Being Told Contradictory Things About AI: 8 examples",
+      "date": "2025-12-05",
+      "podcast": "AI Explained Official Podcast",
+      "audio_url": "https://www.buzzsprout.com/2418777/episodes/18305817-you-are-being-told-contradictory-things-about-ai-8-examples.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic and OpenAI Battle for Enterprise AI",
+      "date": "2026-02-24",
+      "podcast": "The AI Podcast",
+      "audio_url": "https://content.rss.com/episodes/365108/2575750/ai-podcast-news/2026_02_24_19_21_18_11560652-8326-48b0-905a-8783d18b8453.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic's $1.5B Settlement, AI Safety Bill, and Fundraising Insights",
+      "date": "2025-09-08",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://media.podcastai.com/episodes/ti8a1RbHWoG.mp3?u=1757358901",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Claude for Life Sciences, AI Standards, and Nuclear Safety Collaboration",
+      "date": "2025-10-20",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://media.podcastai.com/episodes/eU7Bh3f4KD1.mp3?u=1760980503",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "AI Safety Advances, Claude's Defenses, and Alma's Nutrition App",
+      "date": "2025-02-05",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://media.podcastai.com/episodes/YadPaPJ83pF.mp3?u=1754073626",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Claude Opus 4: Ethics, Safety, and Preventing AI Misuse",
+      "date": "2025-08-18",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://media.podcastai.com/episodes/aQ5fazCciea.mp3?u=1755546300",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic's Data Safety, Claude 3.5 Haiku Features, and Industry Comparisons",
+      "date": "2024-12-09",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://media.podcastai.com/episodes/1ohgS5bDgys.mp3?u=1754073626",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#97 - \"Inga bakdörrar – bara sidoingångar\"",
+      "date": "2026-02-07",
+      "podcast": "Generativet",
+      "audio_url": "https://anchor.fm/s/d7cf21a0/podcast/play/115181328/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-7%2Faa351d66-3095-c2be-51a3-a22ad9e3fcfe.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "“AI #145: You’ve Got Soul” by Zvi",
+      "date": "2025-12-04",
+      "podcast": "LessWrong posts by zvi",
+      "audio_url": "https://dl.type3.audio/episode/d2bdc774-016c-4490-946b-49536d022688.mp3?request_source=rss&client_id=lesswrong&feed_id=lesswrong_ai_narrations%20lesswrong__30_karma&type=ai_narration&author=Zvi&title=%22AI%20%23145%3A%20You%E2%80%99ve%20Got%20Soul%22%20by%20Zvi&source_url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FbCkijKnuEpjnZtX84%2Fai-145-you-ve-got-soul&created_at=2025-12-04T15%3A02%3A03.74439%2B00%3A00&duration=6849",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#118 - Anthropic vs OpenAI, AutoGPT, RL at Scale, AI Safety, Memeworthy AI Videos",
+      "date": "2023-04-14",
+      "podcast": "Last Week in AI",
+      "audio_url": "https://rss.art19.com/episodes/19f8bd71-1d51-4e21-b9b2-0fd4698167a3.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic Head of Pretraining on Scaling Laws, Compute, and the Future of AI",
+      "date": "2025-10-01",
+      "podcast": "Y Combinator Startup Podcast",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/109071221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-1%2F408478370-44100-2-aa0846187719c.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "AI Round Up: Ari Morcos from Datalogy AI and Rob Toews from Radical VC on AI Talent Wars, xAI’s $200B Valuation, & Google’s Comeback",
+      "date": "2025-09-24",
+      "podcast": "Unsupervised Learning with Jacob Effron",
+      "audio_url": "https://cdn.simplecast.com/audio/2c08ad29-5b79-42c0-a40a-6c1af4327f2f/episodes/c68baa40-5782-49a8-83dc-5206f0aac88a/audio/8d5e1f74-b277-4dbc-8b13-86a97d07f658/default_tc.mp3?aid=rss_feed&feed=dOSE_bdP",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Scaling Laws: Rapid Response to the Implications of Claude's New Constitution",
+      "date": "2026-01-23",
+      "podcast": "The Lawfare Podcast",
+      "audio_url": "https://sphinx.acast.com/p/open/s/60518a52f69aa815d2dba41c/e/6972971c4b6b88f0019e12b3/media.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象",
+      "date": "2026-01-13",
+      "podcast": "硬地骇客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272a73de3c8/media.xyzcdn.net/npVGFwL64kTCSQZvN1MNcjvCcr8k.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropics Responsible AI Scaling Policy",
+      "date": "2023-12-18",
+      "podcast": "Emerging Cyber Risk",
+      "audio_url": "https://www.buzzsprout.com/2243996/episodes/14165743-anthropics-responsible-ai-scaling-policy.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic CTO on AI Safety in the Age of Exponential Growth | Rahul Patil",
+      "date": "2026-04-09",
+      "podcast": "Minus One",
+      "audio_url": "https://anchor.fm/s/f91eac68/podcast/play/118179688/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-9%2F421705777-44100-2-e433cc785a7db.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 744: Leaks show insights on OpenAI and Anthropic’s next models, Claude Computer Use goes viral and more",
+      "date": "2026-03-30",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/18929902-ep-744-leaks-show-insights-on-openai-and-anthropic-s-next-models-claude-computer-use-goes-viral-and-more.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The AI Safety Showdown: Max Tegmark on government, Anthropic, and what’s next",
+      "date": "2026-03-04",
+      "podcast": "StrictlyVC Download",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/TCML2456319733.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "EP 435: How 50X cheaper & faster AI transcription is changing enterprise work",
+      "date": "2025-01-08",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/16404762-ep-435-how-50x-cheaper-faster-ai-transcription-is-changing-enterprise-work.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 746: Review of Anthropic Claude’s Viral New Computer use: Fun Party Trick or Real Agentic Workforce?",
+      "date": "2026-04-01",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/18942692-ep-746-review-of-anthropic-claude-s-viral-new-computer-use-fun-party-trick-or-real-agentic-workforce.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "OpenAI and Anthropic are making their play for healthcare, and we're not surprised",
+      "date": "2026-01-16",
+      "podcast": "Equity",
+      "audio_url": "https://traffic.megaphone.fm/TCML1892826380.mp3?updated=1768584494",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Why Enterprise AI Has a Leadership Problem",
+      "date": "2026-04-10",
+      "podcast": "The AI Daily Brief: Artificial Intelligence News and Analysis",
+      "audio_url": "https://anchor.fm/s/f7cac464/podcast/play/118265627/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-10%2F421816997-44100-2-064aef9ae0d62.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Weekly AI Recap - Cursor AI Agents, Anthropic Cowork, ChatGPT Ads, Grok Deepfakes - #111",
+      "date": "2026-01-17",
+      "podcast": "The AI Cookbook: AI Tools | Enterprise AI | Leadership",
+      "audio_url": "https://api.riverside.fm/hosting-analytics/media/e5d118135f0ee3173ff9d9feb3ed4e0fbb232cfb23d77b051a06012abf10f48c/eyJlcGlzb2RlSWQiOiJjNjcwMjNlOC04OTE0LTRiMTAtOGU4YS04M2I1ODQ5MGY0OTciLCJwb2RjYXN0SWQiOiJmMGE5MzQ1MS1iZTk0LTRkNGItOTVhNC02ZDRkZWE5MGJmYTciLCJhY2NvdW50SWQiOiI2OGYxNGJlYTI4YzZiNjdhMjI2YzBiODkiLCJwYXRoIjoibWVkaWEvY2xpcHMvNjk2YWQwMGE2MmY3ZGIxODc5NTI5NDNmL2FpLWRyYW1hLWNvbXBvc2VyLTIwMjYtMS0xN19fMC01NS01NC5tcDMifQ==.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Why Microsoft Could Outpace Anthropic and OpenAI In Enterprise AI",
+      "date": "2026-04-13",
+      "podcast": "The Josh Bersin Company",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/episodes.castos.com/5ec15cd7392977-60728870/2419745/c1e-2q6duqqr54cnj1jk-1p2ddx3mc0v8-qppanq.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Meta Manus Desktop App, Anthropic Enterprise Lead, OpenAI AWS Deal",
+      "date": "2026-03-18",
+      "podcast": "The AI Podcast",
+      "audio_url": "https://content.rss.com/episodes/365108/2638722/ai-podcast-news/2026_03_18_11_15_22_b37ca2dd-2a7e-4219-8ac4-b47b6221b8d0.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "AISN #69: Department of War, Anthropic, and National Security",
+      "date": "2026-03-13",
+      "podcast": "AI Safety Newsletter",
+      "audio_url": "https://dl.type3.audio/episode/432ce383-2207-4f64-84ba-cdf4b81b750c.mp3?request_source=rss&client_id=center_for_ai_safety&feed_id=newsletter__safe_ai&type=ai_narration&author=Alice%2520Blair%252C%2520Laura%2520Hiscott%252C%2520Dan%2520Hendrycks%252C%2520Center%2520for%2520AI%2520Safety&title=AISN%20%2369%3A%20Department%20of%20War%2C%20Anthropic%2C%20and%20National%20Security&source_url=https%3A%2F%2Fnewsletter.safe.ai%2Fp%2Fai-safety-newsletter-69-department&created_at=2026-03-13T14%3A24%3A37.342925%2B00%3A00&duration=708",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Denmark Dumps Microsoft, Anthropic Drops Safety, and Are You Talking to a Bot?",
+      "date": "2026-03-07",
+      "podcast": "HN Daily",
+      "audio_url": "https://mcdn.podbean.com/mf/web/sz8yc5lpi7jzvwpx/ep_feb25.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Lenovo Legion Go Fold, Anthropic rejects US govt, Meta AI Safety SNAFU + more!",
+      "date": "2026-02-28",
+      "podcast": "TechLinked",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/LMG3830106963.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Gemini 2.5产品矩阵深度分析：Google如何与OpenAI、Anthropic竞争 | AI刷新键 EP06",
+      "date": "2025-06-18",
+      "podcast": "AI DAILY REFRESHED",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6847a70c94f79a9cc36761cd/685257f52a38b4d979407c28/media.xyzcdn.net/6847a70c94f79a9cc36761cd/lsQp-0FggMP5hHv9-1gWlkNntqZU.m4a",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "MadTech Daily: OpenAI's $122bn Funding Round; Anthropic to Sign Australia AI Safety Deal; Musk to Face Class Action Over Twitter Stake Disclosure Delay",
+      "date": "2026-04-02",
+      "podcast": "The MadTech Podcast",
+      "audio_url": "https://audioboom.com/posts/8881670.mp3?modified=1775083035&sid=4976875&source=rss",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#409 - “KILL Chain!” - Navy SEAL Drone Expert on $4.5 Quadrillion Op, Anthropic & Pentagon | Brandon Tseng",
+      "date": "2026-04-15",
+      "podcast": "Julian Dorey Podcast",
+      "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9220394164.mp3?updated=1776260208",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic's Generational Run, OpenAI Panics, AI Moats, Meta Loses Lawsuits",
+      "date": "2026-03-27",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E266_Ch.mp3?dest-id=1928300",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Did Anthropic Just Kill Software?",
+      "date": "2026-02-09",
+      "podcast": "Prof G Markets",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9119585677.mp3?updated=1770532207",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Anthropic's $10BN Round | Klarna's IPO Broken Down | Inside a16z's 72 Deal Seed Investment Machine | Martin Casado: Is Consensus Investing the Only Game | Why Satya is Chatting S*** on SaaS Apps Disappearing featuring Marc Benioff",
+      "date": "2025-08-28",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_Ep.20.mp3?dest-id=240976",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Pope's Pushback, Orban's Concession, and Bessent's Anthropic Warning",
+      "date": "2026-04-14",
+      "podcast": "Pivot",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3213647965.mp3?updated=1776129133",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Cannot in Good Conscience – Wenn DEI an seine Grenze kommt",
+      "date": "2026-03-11",
+      "podcast": "The Dude & The Blonde",
+      "audio_url": "https://anchor.fm/s/104a76160/podcast/play/116782948/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F8a76e1b0-ee0f-ae00-199e-41e97dfc9800.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic’s Mythos Dilemma, Violence Against AI, Tokenmaxxing at Meta",
+      "date": "2026-04-10",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP8933066130.mp3?updated=1775855961",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The Pentagon's AI Plan + Behind the Anthropic Fight — With Under Secretary of War Emil Michael",
+      "date": "2026-04-15",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP7230758441.mp3?updated=1776279931",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 756: Claude's Desktop Updates: How-To Guide that Turns Claude into A Proactive Personal Agent",
+      "date": "2026-04-15",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19018669-ep-756-claude-s-desktop-updates-how-to-guide-that-turns-claude-into-a-proactive-personal-agent.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#57 - Mistral Code, Claude Gov, Eleven Labs, Model Router, Prompt to catch up after time off etc",
+      "date": "2025-06-09",
+      "podcast": "The AI Files",
+      "audio_url": "https://mcdn.podbean.com/mf/web/hhiupez86mhn2e2p/_Audio_Ep_57_-_Published669ex.m4a",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The FAIK Files | Consciousness, Scams, & Death Threats",
+      "date": "2024-11-29",
+      "podcast": "8th Layer Insights",
+      "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/CYBW3622407849.mp3?updated=1740073067",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Forward Deployed, Episode 1: The Bitter Lesson",
+      "date": "2025-11-03",
+      "podcast": "Forward Deployed",
+      "audio_url": "https://api.substack.com/feed/podcast/177811633/b196d21e2c6f38f8524c4affde7701b1.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 754: Anthropic’s ‘scary’ new model, Microsoft Copilot’s ‘Code Red,’ OpenAI’s Superinteligence New Deal and more",
+      "date": "2026-04-13",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/19005066-ep-754-anthropic-s-scary-new-model-microsoft-copilot-s-code-red-openai-s-superinteligence-new-deal-and-more.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "How AI safety took a backseat to military money",
+      "date": "2025-09-25",
+      "podcast": "Decoder with Nilay Patel",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9468300181.mp3?updated=1758738418",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 753: Anthropic Goes Full OpenClaw, Meta Muse Spark Drops, Google Gets Notebooks and More . 7 New AI Features You can’t afford To Miss",
+      "date": "2026-04-10",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/18992964-ep-753-anthropic-goes-full-openclaw-meta-muse-spark-drops-google-gets-notebooks-and-more-7-new-ai-features-you-can-t-afford-to-miss.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ep 752: Why Anthropic’s New Mythos Model is Terrifying and How it May Change How Business Gets Done",
+      "date": "2026-04-09",
+      "podcast": "Everyday AI Podcast – An AI and ChatGPT Podcast",
+      "audio_url": "https://pscrb.fm/rss/p/www.buzzsprout.com/2175779/episodes/18987159-ep-752-why-anthropic-s-new-mythos-model-is-terrifying-and-how-it-may-change-how-business-gets-done.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic’s New Model Too Dangerous for the Public? & Trump Agrees to 2-Week Ceasefire",
+      "date": "2026-04-08",
+      "podcast": "Morning Brew Daily",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI7924950241.mp3?updated=1775646154",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic Throws Jabs at OpenAI's Ad Plan & Super Bowl-Olympics Preview",
+      "date": "2026-02-06",
+      "podcast": "Morning Brew Daily",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI4375884670.mp3?updated=1770379420",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic vs. the Pentagon",
+      "date": "2026-02-27",
+      "podcast": "What Next | Daily News and Analysis",
+      "audio_url": "https://sphinx.acast.com/p/open/s/69612d9223ce58f14619a8f6/a/whatnext-podcasts/e/69a0c82b240faaa9b5c969a5/media.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic Just Revealed a New Marketing Channel",
+      "date": "2026-04-16",
+      "podcast": "Marketing School - Digital Marketing and Online Marketing Tips",
+      "audio_url": "https://traffic.megaphone.fm/ESHO7648325262.mp3?updated=1776334627",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "What everyone is missing about Anthropic vs the Pentagon. And: The Meta leaks are worse than you think.",
+      "date": "2026-04-03",
+      "podcast": "80,000 Hours Podcast",
+      "audio_url": "https://media.transistor.fm/b6163ca1/3cc88748.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The New King Of All Media",
+      "date": "2026-03-11",
+      "podcast": "Tech Brew Ride Home",
+      "audio_url": "https://tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI7822760339.mp3?updated=1773248936",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Anthropic's IPO: Industry Expectation",
+      "date": "2026-04-15",
+      "podcast": "The AI Podcast",
+      "audio_url": "https://content.rss.com/episodes/365108/2737621/ai-podcast-news/2026_04_15_11_20_55_95fba398-ee41-40c7-8fe5-b39d81d5f8da.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "How powerful is Anthropic's Mythos?",
+      "date": "2026-04-15",
+      "podcast": "The Current",
+      "audio_url": "https://mgln.ai/e/12/cbc.mc.tritondigital.com/CBC_CURRENT_P/media/current/current-LG5a4y2m-20260415.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Warum Anthropic das bessere OpenAI sein könnte",
+      "date": "2024-10-18",
+      "podcast": "Handelsblatt KI-Briefing - Das News-Update zu Künstlicher Intelligenz",
+      "audio_url": "https://audio.podigee-cdn.net/1595938-m-e906e596109a611cdd47c27d6106bd39.mp3?source=feed",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "OpenAI股票滞销 Anthropic趁机上位？",
+      "date": "2026-04-02",
+      "podcast": "涨乐早点听",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62eb5e896ed362de16d50495/69ce3a2ce2c8be315534f776/media.xyzcdn.net/62eb5e896ed362de16d50495/ljCuh-sAD-1MQ-Q5QuSoAkrOGwOM.m4a",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "This Dum Week 2026-03-08",
+      "date": "2026-03-09",
+      "podcast": "This Dum Week",
+      "audio_url": "https://mcdn.podbean.com/mf/web/ighpk8v64hfr88xy/this-dum-week-20260308_mixdown.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#43: The Battle for Open-Source AI: Building a Future People Can Trust — Peter Wang",
+      "date": "2026-02-26",
+      "podcast": "Love Conquers Fear",
+      "audio_url": "https://anchor.fm/s/109a93c74/podcast/play/115611774/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418249980-44100-2-9609586fdccc4.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "So You're Thinking of Breaking Up with ChatGPT: A Practical Guide to the Alternatives",
+      "date": "2026-03-04",
+      "podcast": "Early Adoptr",
+      "audio_url": "https://sphinx.acast.com/p/open/s/68a595f43b6c865497e10d7f/e/69a720f5edee504921be55b0/media.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "SN1542: Fortress Communities, Sustainable Medicine & Cultural Pluralism ⚠️",
+      "date": "2025-12-05",
+      "podcast": "Factions Of Freedom",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/68891460/sn1542_fortress_communities_sustainable_medicine_cultural_pluralism.mp3",
+      "error": "max_episodes_limit_80",
+      "stage": "selection"
+    },
+    {
+      "status": "failed",
+      "title": "Dario Amodei_ Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
+      "date": "2024-11-12",
+      "podcast": "Inbound Marketing & Sales",
+      "audio_url": "https://feeds.soundcloud.com/stream/1956297075-marketing-agency-london-dario-amodei-anthropic-ceo-on.mp3",
+      "attempt_round": 3,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://feeds.soundcloud.com/stream/1956297075-marketing-agency-london-dario-amodei-anthropic-ceo-on.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/18969c51-dcb2-98be-a37b-556b9781df8b/2024-11-12_Dario-Amodei_-Anthropic-CEO-on-Claude-AGI--the-Future-of-AI.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "First Block: Interview with Daniela Amodei, Co-founder of Anthropic",
+      "date": "2023-12-19",
+      "podcast": "Notion Podcast",
+      "audio_url": "https://anchor.fm/s/586e6d8/podcast/play/80025972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-14%2F359953466-44100-2-49c15e948b76f.m4a",
+      "attempt_round": 3,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/586e6d8/podcast/play/80025972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-14%2F359953466-44100-2-49c15e948b76f.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/b8fd26c6-17ed-9c7b-9988-61363d2cd93e/2023-12-19_First-Block-Interview-with-Daniela-Amodei-Co-founder-of-Anth.m4a"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic Unveils Responsible Scaling Policy to Mitigate Advanced AI Risks and Ensure Safety",
+      "date": "2024-09-22",
+      "podcast": "Innovation Era",
+      "audio_url": "https://anchor.fm/s/fb2c2198/podcast/play/92053559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F386839667-44100-2-09014a9e42f8a.m4a",
+      "attempt_round": 3,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/fb2c2198/podcast/play/92053559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-22%2F386839667-44100-2-09014a9e42f8a.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/3f0cfa95-d9ec-9347-a44c-660281a46153/2024-09-22_Anthropic-Unveils-Responsible-Scaling-Policy-to-Mitigate-Adv.m4a"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "#452 – Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity",
+      "date": "2024-11-11",
+      "podcast": "Lex Fridman Podcast",
+      "audio_url": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3",
+      "attempt_round": 3,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dario_amodei.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/cbb1cdc3-d761-907a-a37d-9fc464b633f2/2024-11-11_452--Dario-Amodei-Anthropic-CEO-on-Claude-AGI--the-Future-of.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "#197 – Nick Joseph on whether Anthropic's AI safety policy is up to the task",
+      "date": "2024-08-22",
+      "podcast": "80,000 Hours Podcast",
+      "audio_url": "https://audio.transistor.fm/m/shows/41402/3c443609ccc14ef27379d634c76fb663.mp3",
+      "source_audio_url": "https://media.transistor.fm/fc9c29ef/974d24f9.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-08-22_197--Nick-Joseph-on-whether-Anthropics-AI-safety-policy-is-u.md",
+      "chars": 179106,
+      "task_id": "e6e60ed8-42fc-4aa5-887b-c2c64870ca03",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/41402/3c443609ccc14ef27379d634c76fb663.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic CEO Says Human-Level AI Is 2-3 Years Away, How Hackers Are Trying to Make AI Go Rogue, and Fake AI-Generated Books on Amazon",
+      "date": "2023-08-15",
+      "podcast": "The Artificial Intelligence Show",
+      "audio_url": "https://dcs-spotify.megaphone.fm/FPMN1186198495.mp3?key=3f1a840f93b771cdf166747b08b146bf&request_event_id=111a5b64-b2c3-49f2-b1cb-d5ca337442c9&session_id=6a1cb467-2a52-4df8-9418-94d7e05ac733&timetoken=1776413744_9E26F5B0E9B4A0A0621EF566F722179C",
+      "source_audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/FPMN1186198495.mp3?updated=1692061230",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2023-08-15_Anthropic-CEO-Says-Human-Level-AI-Is-2-3-Years-Away-How-Hack.md",
+      "chars": 55905,
+      "task_id": "acdd93a6-3723-4861-b341-7f36c0ade7c0",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/FPMN1186198495.mp3?key=3f1a840f93b771cdf166747b08b146bf&request_event_id=111a5b64-b2c3-49f2-b1cb-d5ca337442c9&session_id=6a1cb467-2a52-4df8-9418-94d7e05ac733&timetoken=1776413744_9E26F5B0E9B4A0A0621EF566F722179C"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Googlers React To Lex Fridman & Dario Amodei CEO of Anthropic Interview: Future of Claude, Leaving OpenAI, and more!",
+      "date": "2024-11-13",
+      "podcast": "SVIC Podcast",
+      "audio_url": "https://anchor.fm/s/f1ac6c04/podcast/play/94382048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-13%2F389768290-44100-2-9829ca0d9b5e9.mp3",
+      "attempt_round": 3,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/f1ac6c04/podcast/play/94382048/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-13%2F389768290-44100-2-9829ca0d9b5e9.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/edc154fc-5804-9411-8dfd-210d69a8bddf/2024-11-13_Googlers-React-To-Lex-Fridman--Dario-Amodei-CEO-of-Anthropic.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "#198: Microsoft AI CEO Predicts Job Automation in 18 Months, AI Productivity Evidence, Dario Amodei Interview & Seedance 2.0",
+      "date": "2026-02-24",
+      "podcast": "The Artificial Intelligence Show",
+      "audio_url": "https://dcs-spotify.megaphone.fm/FPMN2691197403.mp3?key=91aef1e1cee0a33f172dd9439855feaa&request_event_id=d81b3419-e370-4233-8588-b2fea9ee903a&session_id=f1114ce9-6098-4c8a-bbd2-14e1d61b9dd5&timetoken=1776414922_14E6237F466B79511F901E68C955EB0F",
+      "source_audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/FPMN2691197403.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-02-24_198-Microsoft-AI-CEO-Predicts-Job-Automation-in-18-Months-AI.md",
+      "chars": 97042,
+      "task_id": "84d874c8-7828-49af-a0de-1738a8020a4a",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/FPMN2691197403.mp3?key=91aef1e1cee0a33f172dd9439855feaa&request_event_id=d81b3419-e370-4233-8588-b2fea9ee903a&session_id=f1114ce9-6098-4c8a-bbd2-14e1d61b9dd5&timetoken=1776414922_14E6237F466B79511F901E68C955EB0F"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "20VC: Anthropic Unveils Mythos | SpaceX's Financials Leaked: Is it Worth $2TRN | Meta Debuts Muse Spark: Are They Back in the AI Race | Jason's Critique of Dario Amodei & How OpenAI Could Win the Enterprise Game",
+      "date": "2026-04-16",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://content.libsyn.com/p/9/c/4/9c40a1a6cb2ca34d/The_Trio_EP.52.mp3?c_id=200850300&cs_id=200850300&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776414702&Signature=EdH6xGMq7xWU-VZBSAxEjNQ3RAVbZITRHc21FwL7Wy7lEQcxpXCxbx4pZRn-ixLKZs-N3x93fqjYWp7cN-r3ntr6LIfoH60pkJcvYzGEJMAhNgdDzlt9ESlomCKMsu63jbH7Li5ACPPMzlQ76d1SpOIQJaJSoefzUAPJnS~rQeQfqwnwYqPHEvUkEaOlJcpm6qUGrJQiDqwkTrlj3JI0vXB13Ju3axscAemig2QqgVjizDTGn24wtAebR60WKekkWv0~aXEIiMEXV7CNDG1RwjuYtRLBfXtu4wq98S2wcKcPnmW3YF0~7I1XOoeSY1pWMu48MXUh-KlT2sWaxZoxNQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_EP.52.mp3?dest-id=240976",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-16_20VC-Anthropic-Unveils-Mythos--SpaceXs-Financials-Leaked-Is.md",
+      "chars": 99797,
+      "task_id": "4c416f4e-aa8b-4621-9fb2-3e7b89897fc6",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://content.libsyn.com/p/9/c/4/9c40a1a6cb2ca34d/The_Trio_EP.52.mp3?c_id=200850300&cs_id=200850300&destination_id=240976&response-content-type=audio%2Fmpeg&Expires=1776414702&Signature=EdH6xGMq7xWU-VZBSAxEjNQ3RAVbZITRHc21FwL7Wy7lEQcxpXCxbx4pZRn-ixLKZs-N3x93fqjYWp7cN-r3ntr6LIfoH60pkJcvYzGEJMAhNgdDzlt9ESlomCKMsu63jbH7Li5ACPPMzlQ76d1SpOIQJaJSoefzUAPJnS~rQeQfqwnwYqPHEvUkEaOlJcpm6qUGrJQiDqwkTrlj3JI0vXB13Ju3axscAemig2QqgVjizDTGn24wtAebR60WKekkWv0~aXEIiMEXV7CNDG1RwjuYtRLBfXtu4wq98S2wcKcPnmW3YF0~7I1XOoeSY1pWMu48MXUh-KlT2sWaxZoxNQ__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Has AI Hit a Wall?, What Is An AI Agent?, Dario Amodei Interview, OpenAI’s New Agent, Greg Brockman Returns & Microsoft Copilot’s Woes",
+      "date": "2024-11-19",
+      "podcast": "The Artificial Intelligence Show",
+      "audio_url": "https://dcs-cached.megaphone.fm/FPMN6964182288.mp3?key=78c1a10e03b8e34c8626011ef894aaec&request_event_id=8945aee9-d38e-46ec-a82c-9a1aa88b9665&session_id=b9994cef-f52c-4e25-ae4e-28f483db476b&timetoken=1776415455_8D3F56BE91525869B3C2DF46CAECB799",
+      "source_audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/FPMN6964182288.mp3?updated=1731970938",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-11-19_Has-AI-Hit-a-Wall-What-Is-An-AI-Agent-Dario-Amodei-Interview.md",
+      "chars": 77053,
+      "task_id": "d08f4712-ce11-43d6-8990-9d3ee8fa14ab",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/FPMN6964182288.mp3?key=78c1a10e03b8e34c8626011ef894aaec&request_event_id=8945aee9-d38e-46ec-a82c-9a1aa88b9665&session_id=b9994cef-f52c-4e25-ae4e-28f483db476b&timetoken=1776415455_8D3F56BE91525869B3C2DF46CAECB799"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Dario Amodei CEO of Anthropic: Claude, New models, AI safety and Economic impact",
+      "date": "2024-06-26",
+      "podcast": "In Good Company with Nicolai Tangen",
+      "audio_url": "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/667aac123834c21e8f205d7a/media.mp3",
+      "attempt_round": 3,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope-file-mgr.oss-cn-beijing.aliyuncs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2417)')))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://sphinx.acast.com/p/open/s/622618c7057f3400120d15db/e/667aac123834c21e8f205d7a/media.mp3"
+      ]
+    },
+    {
+      "status": "running",
+      "title": "Anthropic CEO Dario Amodei: AI's Potential, OpenAI Rivalry, GenAI Business, Doomerism",
+      "date": "2025-07-30",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP8551013654.mp3?updated=1753883119",
+      "attempt_round": 3,
+      "stage": "dashscope_transcription",
+      "started_at": "2026-04-17T21:19:45"
+    },
+    {
+      "status": "success",
+      "title": "AI Scaling, Alignment, and the Path to Superintelligence — With Dwarkesh Patel",
+      "date": "2024-05-15",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://dcs.megaphone.fm/LI8849352471.mp3?key=deedd355fdbd5a1c9ef20ac0a2f5a45b&request_event_id=2390f56f-2b74-42be-9e0a-5a8043c04d78&session_id=fca2d071-9258-4f57-8abb-6305dc52eec8&timetoken=1776415867_EA2E40283F49E38742B051715502CAAF",
+      "source_audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/LI8849352471.mp3?updated=1715746928",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-05-15_AI-Scaling-Alignment-and-the-Path-to-Superintelligence--With.md",
+      "chars": 70607,
+      "task_id": "292d22c2-93b0-4ece-9b81-87c5d99a6d58",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs.megaphone.fm/LI8849352471.mp3?key=deedd355fdbd5a1c9ef20ac0a2f5a45b&request_event_id=2390f56f-2b74-42be-9e0a-5a8043c04d78&session_id=fca2d071-9258-4f57-8abb-6305dc52eec8&timetoken=1776415867_EA2E40283F49E38742B051715502CAAF"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic's Dario Amodei on AI Competition",
+      "date": "2025-02-05",
+      "podcast": "ChinaTalk",
+      "audio_url": "https://dcs-cached.megaphone.fm/CHTAL9450006233.mp3?key=f64ceb9da8c632cf2aa62e85fcda6cb8&request_event_id=2129b1d2-837b-4a6c-b184-325eaf950b24&session_id=befc8484-1693-4f44-ac77-fd22e0a9d303&timetoken=1776415947_12D9EBFF0C220565CC78F69152490DCC",
+      "source_audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/CHTAL9450006233.mp3?updated=1738787025",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-02-05_Anthropics-Dario-Amodei-on-AI-Competition.md",
+      "chars": 40880,
+      "task_id": "ffefa2db-538b-411f-8575-5b58b52bb97e",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/CHTAL9450006233.mp3?key=f64ceb9da8c632cf2aa62e85fcda6cb8&request_event_id=2129b1d2-837b-4a6c-b184-325eaf950b24&session_id=befc8484-1693-4f44-ac77-fd22e0a9d303&timetoken=1776415947_12D9EBFF0C220565CC78F69152490DCC"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "A Conversation with Daniela Amodei, Co-Founder and President of Anthropic",
+      "date": "2026-02-19",
+      "podcast": "It's Not Magic, a Sixth Street podcast",
+      "audio_url": "https://sphinx.acast.com/p/open/s/625593bdd6c0d4001617d312/e/69965d067012ce53766dc252/media.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://stitcher2.acast.com/livestitches/67f8ff86ab710e60c691501e1bc824e9.mp3?aid=69965d067012ce53766dc252&chid=625593bdd6c0d4001617d312&ci=hR0wxsyL3qcIBEKWHydfJGjgmdc_RK8zQBgf6LSpG0rQNUnrmycxww%3D%3D&pf=rss&src=af195e54521001c1cd903ee359c28184%2F128-2.mp3&sv=sphinx%401.277.1&uid=3677dde76841c5f12ff958aba4fe9e17&Expires=1776434850&Key-Pair-Id=K38CTQXUSD0VVB&Signature=g~jSKVGpRMMC71skaSV6k-dLBzl4T48i7Nfjrxhe~7QtfhtzDvwAgOSrE2cpXlWJfgPuHDN-kgM70-Li-o3hI9MODOW5wV8TvuoO52SACwlZuImpJv9JqsfZ9hI50YkG2e5z~nebe1O0y5lCK9MUrHab7Iwf46-EvE~etz6c6PIHySd7YlSLRbYqku7vXU3d96~mW39~Gk4WV1MHt8fJjpfdqSXCF-dvUERjEwvxPIVQtj~fKILaOuwc~RR60Teg6RUje61Zr3wYzr5gyMSCFLyakGvkrLMShLmT2Yob36jyqGmUAHpw6BKKYteizD~N3IBQrVzLXBiEBq~PF0VCJw__",
+        "https://sphinx.acast.com/p/open/s/625593bdd6c0d4001617d312/e/69965d067012ce53766dc252/media.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/b3646197-1cc8-9957-aa65-c233189142a4/2026-02-19_A-Conversation-with-Daniela-Amodei-Co-Founder-and-President.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/e84621b1-3366-9c5b-8576-c690a55d4233/2026-02-19_A-Conversation-with-Daniela-Amodei-Co-Founder-and-President.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "One-on-one with Anthropic cofounder Jack Clark",
+      "date": "2024-05-02",
+      "podcast": "POLITICO Tech",
+      "audio_url": "https://dcs-spotify.megaphone.fm/ASD2659669853.mp3?key=e32d34e3f2e3c50102f7104ed9524e42&request_event_id=39d038db-392c-44a0-847c-593eb7daedd1&session_id=3e8b7a7d-13d5-4f2c-af62-d85419d09adf&timetoken=1776416091_A1F485F8CA49517668C9F489B7C1CAD2",
+      "source_audio_url": "https://traffic.megaphone.fm/ASD2659669853.mp3?updated=1724765920",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-05-02_One-on-one-with-Anthropic-cofounder-Jack-Clark.md",
+      "chars": 19812,
+      "task_id": "b708f0fc-21f5-441d-af52-57a2de86dcea",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/ASD2659669853.mp3?key=e32d34e3f2e3c50102f7104ed9524e42&request_event_id=39d038db-392c-44a0-847c-593eb7daedd1&session_id=3e8b7a7d-13d5-4f2c-af62-d85419d09adf&timetoken=1776416091_A1F485F8CA49517668C9F489B7C1CAD2"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic CEO Dario Amodei Interview Review",
+      "date": "2025-02-14",
+      "podcast": "AI for Career Success",
+      "audio_url": "https://anchor.fm/s/fc3f6dc4/podcast/play/98416447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-12%2Fb1b713bd-dd50-b315-89cb-c0cc457778cc.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-1-12/b1b713bd-dd50-b315-89cb-c0cc457778cc.mp3",
+        "https://anchor.fm/s/fc3f6dc4/podcast/play/98416447/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-1-12%2Fb1b713bd-dd50-b315-89cb-c0cc457778cc.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/db678850-2c78-9be7-955f-835dcfad68bf/2025-02-14_Anthropic-CEO-Dario-Amodei-Interview-Review.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/b5e5978c-f07a-9c11-9f6a-57c625c4e8ce/2025-02-14_Anthropic-CEO-Dario-Amodei-Interview-Review.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Interview with Anthropic CEO Dario Amodei (Aug. 2025)",
+      "date": "2025-12-01",
+      "podcast": "AI for Career Success",
+      "audio_url": "https://anchor.fm/s/fc3f6dc4/podcast/play/111938566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2Fe871dd8d-be4a-61a7-095c-d0d08c937ee0.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-1/e871dd8d-be4a-61a7-095c-d0d08c937ee0.mp3",
+        "https://anchor.fm/s/fc3f6dc4/podcast/play/111938566/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-1%2Fe871dd8d-be4a-61a7-095c-d0d08c937ee0.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/53efc8f8-a235-9ee8-a52d-4474b057591c/2025-12-01_Interview-with-Anthropic-CEO-Dario-Amodei-Aug-2025.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/af4df975-5ed7-9f2f-a531-b1076f80f289/2025-12-01_Interview-with-Anthropic-CEO-Dario-Amodei-Aug-2025.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Summary of Lex Fridman \"Dario Amodei: Anthropic CEO on Claude, AGI, the Future of AI, and Humanity” #146",
+      "date": "2025-04-16",
+      "podcast": "Perfect Summary",
+      "audio_url": "https://anchor.fm/s/102c20954/podcast/play/101200249/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-12%2Fd8e4c8df-e281-e937-5993-1b68e0278596.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-12/d8e4c8df-e281-e937-5993-1b68e0278596.mp3",
+        "https://anchor.fm/s/102c20954/podcast/play/101200249/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-12%2Fd8e4c8df-e281-e937-5993-1b68e0278596.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/06014d3a-6d76-9533-9c99-cdfef902a44d/2025-04-16_Summary-of-Lex-Fridman-Dario-Amodei-Anthropic-CEO-on-Claude.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/4371dc16-c937-940f-8df2-18b194b68158/2025-04-16_Summary-of-Lex-Fridman-Dario-Amodei-Anthropic-CEO-on-Claude.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic's Responsible Scaling Policy, with Nick Joseph, from the 80,000 Hours Podcast",
+      "date": "2024-09-25",
+      "podcast": "\"The Cognitive Revolution\" | AI Builders, Researchers, and Live Player Analysis",
+      "audio_url": "https://dcs-cached.megaphone.fm/RINTP4590007047.mp3?key=bede0c3aac804a851fec824ea464ed37&request_event_id=28466bcb-7c28-4110-b8bf-08b353f5529f&session_id=9c1d24af-d98e-4545-bbae-3be0c22abe9b&timetoken=1776416660_332539BDB70D99AAA6D611F8758CE48A",
+      "source_audio_url": "https://pdst.fm/e/mgln.ai/e/1113/pscrb.fm/rss/p/traffic.megaphone.fm/RINTP4590007047.mp3?updated=1727378247",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-09-25_Anthropics-Responsible-Scaling-Policy-with-Nick-Joseph-from.md",
+      "chars": 183836,
+      "task_id": "c9ae0c3f-bda9-43b9-a1b0-b7360926fd6f",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/RINTP4590007047.mp3?key=bede0c3aac804a851fec824ea464ed37&request_event_id=28466bcb-7c28-4110-b8bf-08b353f5529f&session_id=9c1d24af-d98e-4545-bbae-3be0c22abe9b&timetoken=1776416660_332539BDB70D99AAA6D611F8758CE48A"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Dario Amodei (Anthropic CEO) — The hidden pattern behind every AI breakthrough",
+      "date": "2023-08-08",
+      "podcast": "Dwarkesh Podcast",
+      "audio_url": "https://substackcdn.com/video_upload/post/135814349/bc5f6d43-e84b-4377-96b3-a0e5e972972b/transcoded.mp3?post_id=135814349&relation=podcast&Expires=1776495983&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CSFwLWAEogojcQNepsED1lCK4a4kEFNjK2miSdC4AKH1XOrW52F7QOowKMThNMW7nYv2q8vXN96~4HU-aSClQOWouC3WsSs10DehvhYqJ~vPjscQ0FA2rq6Z-s6Ll9WX8tI1Fw1Lcd8sD846eVsJW4h0PINJLc44ykWEcm6Ml-faLE6bRxjBLp2PAKNjhbFwtbI8nAgUzxzSStozjDzchkhjtzhaiB9jAhV8fZ8kCywh-Bttse6VKZPwYnYx0xeRjHabRW3dDjz3Bu0nmvu2kULCtJhZ3YZQnJ~bcL0yrECotfsYVtQLJ1hKH6bcaxU9kRdOgKBrouowesOAEG-zgg__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/135814349/b2eb329d905cd62c66e0a8a3367a745a.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2023-08-08_Dario-Amodei-Anthropic-CEO--The-hidden-pattern-behind-every.md",
+      "chars": 129799,
+      "task_id": "f44b0df8-058b-4632-8ccd-b1bcdd19aeae",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/135814349/bc5f6d43-e84b-4377-96b3-a0e5e972972b/transcoded.mp3?post_id=135814349&relation=podcast&Expires=1776495983&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=CSFwLWAEogojcQNepsED1lCK4a4kEFNjK2miSdC4AKH1XOrW52F7QOowKMThNMW7nYv2q8vXN96~4HU-aSClQOWouC3WsSs10DehvhYqJ~vPjscQ0FA2rq6Z-s6Ll9WX8tI1Fw1Lcd8sD846eVsJW4h0PINJLc44ykWEcm6Ml-faLE6bRxjBLp2PAKNjhbFwtbI8nAgUzxzSStozjDzchkhjtzhaiB9jAhV8fZ8kCywh-Bttse6VKZPwYnYx0xeRjHabRW3dDjz3Bu0nmvu2kULCtJhZ3YZQnJ~bcL0yrECotfsYVtQLJ1hKH6bcaxU9kRdOgKBrouowesOAEG-zgg__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Jack Clark",
+      "date": "2025-06-04",
+      "podcast": "Tetragrammaton with Rick Rubin",
+      "audio_url": "https://dcs-spotify.megaphone.fm/NTOMT7756480454.mp3?key=cc2e20d1a8bc19cb23ed339c76b89aa2&request_event_id=2febfb49-40cc-46b0-b6e2-7e670caf0d95&session_id=63a78f5c-5e85-4d1e-a1dd-f26fbe9e9d50&timetoken=1776416900_16AC725F8358EA81607A206D2BB89423",
+      "source_audio_url": "https://traffic.megaphone.fm/NTOMT7756480454.mp3?updated=1748987914",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-06-04_Jack-Clark.md",
+      "chars": 105640,
+      "task_id": "d45cf019-ce3b-41f7-93e2-b0f64a24f97f",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/NTOMT7756480454.mp3?key=cc2e20d1a8bc19cb23ed339c76b89aa2&request_event_id=2febfb49-40cc-46b0-b6e2-7e670caf0d95&session_id=63a78f5c-5e85-4d1e-a1dd-f26fbe9e9d50&timetoken=1776416900_16AC725F8358EA81607A206D2BB89423"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "EP 82: Dario Amodei’s (CEO, Anthropic) AI Predictions Through 2030",
+      "date": "2023-10-06",
+      "podcast": "The Logan Bartlett Show",
+      "audio_url": "https://episode.flightcast.com/bajxrnw0vdjglm039u9s8dj8.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/bajxrnw0vdjglm039u9s8dj8.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/ca5100ab-0c1a-90c5-8ef0-ce15218109cc/2023-10-06_EP-82-Dario-Amodeis-CEO-Anthropic-AI-Predictions-Through-203.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "#177 President & Co-Founder Anthropic, Daniela Amodei: AI Hurricane",
+      "date": "2024-02-12",
+      "podcast": "Grit",
+      "audio_url": "https://audio.transistor.fm/m/shows/9770/470086062334a57c2877b60e64cc5ea3.mp3",
+      "source_audio_url": "https://media.transistor.fm/15fd28c3/02482978.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-02-12_177-President--Co-Founder-Anthropic-Daniela-Amodei-AI-Hurric.md",
+      "chars": 99233,
+      "task_id": "141d63ef-bc13-474b-8eaa-3186c44fb111",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/9770/470086062334a57c2877b60e64cc5ea3.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic CEO Dario Amodei on designing AGI-pilled products, model economics, and 19th-century vitalism",
+      "date": "2025-08-06",
+      "podcast": "Cheeky Pint",
+      "audio_url": "https://audio.transistor.fm/m/shows/64902/bfcff8f69a0de12993a1b5032280e280.mp3",
+      "source_audio_url": "https://media.transistor.fm/6ed35a17/782455bf.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-08-06_Anthropic-CEO-Dario-Amodei-on-designing-AGI-pilled-products.md",
+      "chars": 66049,
+      "task_id": "3aff58ca-74de-4080-9238-13c061772b19",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/64902/bfcff8f69a0de12993a1b5032280e280.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Daniela Amodei (Anthropic) - ‘Helpful, Honest, Harmless’ AI",
+      "date": "2024-02-23",
+      "podcast": "Entrepreneurial Thought Leaders (ETL)",
+      "audio_url": "https://rss.art19.com/episodes/32a6e14c-3347-44a1-bef5-d2b888b4a268.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "source_audio_url": "https://rss.art19.com/episodes/32a6e14c-3347-44a1-bef5-d2b888b4a268.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2024-02-23_Daniela-Amodei-Anthropic---Helpful-Honest-Harmless-AI.md",
+      "chars": 53087,
+      "task_id": "3a71599f-af1a-4a70-a523-3599576b8dd1",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://rss.art19.com/episodes/32a6e14c-3347-44a1-bef5-d2b888b4a268.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "‘Helpful, Honest, Harmless’ AI [Entire Talk]",
+      "date": "2024-02-23",
+      "podcast": "Entrepreneurial Thought Leaders Video Series",
+      "audio_url": "https://player.vimeo.com/progressive_redirect/playback/915797652/rendition/1080p/file.mp4?loc=external&oauth2_token_id=1345999742&signature=ef0d1d6b643a8d1270b1f1080c39e530b2b6ab0fba4bff383a3673855319662b",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10345b140>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://download-video-ak.vimeocdn.com/v3-1/playback/6a8204ce-fea0-487e-8afe-150257cab104/0e51269b-3b192c94?__token__=st=1776423357~exp=1776436045~acl=%2Fv3-1%2Fplayback%2F6a8204ce-fea0-487e-8afe-150257cab104%2F0e51269b-3b192c94%2A~hmac=6d7635c298bd4a531cb44118dc6d6f6d0b2faa0a8864bb17b394032ea6bbed97&r=dXMtY2VudHJhbDE%3D",
+        "https://player.vimeo.com/progressive_redirect/playback/915797652/rendition/1080p/file.mp4?loc=external&oauth2_token_id=1345999742&signature=ef0d1d6b643a8d1270b1f1080c39e530b2b6ab0fba4bff383a3673855319662b"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Are we ready for human-level AI by 2030? Anthropic's co-founder answers",
+      "date": "2025-04-01",
+      "podcast": "Azeem Azhar's Exponential View",
+      "audio_url": "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/88ce407a-e370-4af1-8fb1-8c9ac612a451/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_a8aeab5d2c582224d9cb8bc29f8bb219_50026432.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=88ce407a-e370-4af1-8fb1-8c9ac612a451&feed=e_GRxR9a&hash_redirect=1&x-total-bytes=50026432&x-ais-classified=streaming&listeningSessionID=0CD_382_106__a201418b625b2bc825a7f218177ae38159da8a4c",
+      "source_audio_url": "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/88ce407a-e370-4af1-8fb1-8c9ac612a451/audio/128/default.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=88ce407a-e370-4af1-8fb1-8c9ac612a451&feed=e_GRxR9a",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-04-01_Are-we-ready-for-human-level-AI-by-2030-Anthropics-co-founde.md",
+      "chars": 51818,
+      "task_id": "2690806c-c61c-4c56-9d5e-3aa0f43c67d9",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/88ce407a-e370-4af1-8fb1-8c9ac612a451/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_a8aeab5d2c582224d9cb8bc29f8bb219_50026432.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=88ce407a-e370-4af1-8fb1-8c9ac612a451&feed=e_GRxR9a&hash_redirect=1&x-total-bytes=50026432&x-ais-classified=streaming&listeningSessionID=0CD_382_106__a201418b625b2bc825a7f218177ae38159da8a4c"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Closing Bell Overtime: Anthropic Co-Founder Talks Claude 2; Earnings Season Kicks Off With Financials 7/14/23",
+      "date": "2023-07-14",
+      "podcast": "Closing Bell",
+      "audio_url": "https://cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/5a1c44d8-149f-48fb-9195-257daf67dc79/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_a5f9e4563f8ffc482733e6f86f031849_47091302.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=5a1c44d8-149f-48fb-9195-257daf67dc79&feed=Nh1wIaXT&hash_redirect=1&x-total-bytes=47091302&x-ais-classified=streaming&listeningSessionID=0CD_382_106__f4c429982c4704ead157039308cf2850a0cca478",
+      "source_audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/5a1c44d8-149f-48fb-9195-257daf67dc79/audio/128/default.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=5a1c44d8-149f-48fb-9195-257daf67dc79&feed=Nh1wIaXT",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2023-07-14_Closing-Bell-Overtime-Anthropic-Co-Founder-Talks-Claude-2-Ea.md",
+      "chars": 47847,
+      "task_id": "bf682923-bba4-4686-8e87-d60f30af8fea",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://cnbc.simplecastaudio.com/d13412e5-373f-49ef-b0d3-745a4f74427f/episodes/5a1c44d8-149f-48fb-9195-257daf67dc79/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_a5f9e4563f8ffc482733e6f86f031849_47091302.mp3?aid=rss_feed&awCollectionId=d13412e5-373f-49ef-b0d3-745a4f74427f&awEpisodeId=5a1c44d8-149f-48fb-9195-257daf67dc79&feed=Nh1wIaXT&hash_redirect=1&x-total-bytes=47091302&x-ais-classified=streaming&listeningSessionID=0CD_382_106__f4c429982c4704ead157039308cf2850a0cca478"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic’s Claude: The New Enterprise OS Bypassing Your CRM",
+      "date": "2026-04-01",
+      "podcast": "Salesforce Agentforce - AI CRM Podcast",
+      "audio_url": "https://anchor.fm/s/102b633a4/podcast/play/116963483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-15%2Fa2c213d4-7eb5-fb78-931f-d6b615dc0f1d.m4a",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x103497740>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/102b633a4/podcast/play/116963483/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-15%2Fa2c213d4-7eb5-fb78-931f-d6b615dc0f1d.m4a"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Building the Anthropic Team: Daniela Amodei on Hiring 10x AI Engineers | Frameworks for Growth",
+      "date": "2025-06-16",
+      "podcast": "Frameworks for Growth",
+      "audio_url": "https://anchor.fm/s/103988588/podcast/play/104221945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-16%2F402278147-44100-2-d6da610f79363.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1034605f0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/103988588/podcast/play/104221945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-16%2F402278147-44100-2-d6da610f79363.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "AI PULSE - Unpacking the Anthropic CEO Jack Clark Views on AI’s Future",
+      "date": "2025-05-15",
+      "podcast": "Innovation Pulse: Daily News - AI, Startups, Cleantech, Auto + Learning Extras",
+      "audio_url": "https://mcdn.podbean.com/mf/web/cscvp3eug24t2znl/1146-AI_News_Spotify-the_main_AI_topic-1747314383724.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1033c9ac0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://mcdn.podbean.com/mf/web/cscvp3eug24t2znl/1146-AI_News_Spotify-the_main_AI_topic-1747314383724.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Davos 2026: Anthropic CEO Dario Amodei 1/22/26",
+      "date": "2026-01-22",
+      "podcast": "Squawk Pod",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/00f7ebc9-d7ef-46bd-82f7-1bce56339ce0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=00f7ebc9-d7ef-46bd-82f7-1bce56339ce0&feed=VHAcgaw_",
+      "source_audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/00f7ebc9-d7ef-46bd-82f7-1bce56339ce0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=00f7ebc9-d7ef-46bd-82f7-1bce56339ce0&feed=VHAcgaw_",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-01-22_Davos-2026-Anthropic-CEO-Dario-Amodei-12226.md",
+      "chars": 14033,
+      "task_id": "8d54e778-3b2d-409d-80e9-b686d933b97d",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/00f7ebc9-d7ef-46bd-82f7-1bce56339ce0/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_d7edb595898460acb7a5d4cb13882f0e_15018073.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=00f7ebc9-d7ef-46bd-82f7-1bce56339ce0&feed=VHAcgaw_&hash_redirect=1&x-total-bytes=15018073&x-ais-classified=streaming&listeningSessionID=0CD_382_106__29de331bf0dd4b1d85db08c8c4fc50eb71d28869",
+        "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/00f7ebc9-d7ef-46bd-82f7-1bce56339ce0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=00f7ebc9-d7ef-46bd-82f7-1bce56339ce0&feed=VHAcgaw_"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "T6.E039. INSIDE X EMERGENC.IA \"Estamos cerca del fin\" | Dario Amodei (Episodio 1/2)",
+      "date": "2026-02-15",
+      "podcast": "xHUB.AI",
+      "audio_url": "https://www.buzzsprout.com/1806055/episodes/18687930-t6-e039-inside-x-emergenc-ia-estamos-cerca-del-fin-dario-amodei-episodio-1-2.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10347eae0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://www.buzzsprout.com/1806055/episodes/18687930-t6-e039-inside-x-emergenc-ia-estamos-cerca-del-fin-dario-amodei-episodio-1-2.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic's Co-Founder on AI Agents, General Intelligence, and Sentience — With Jack Clark",
+      "date": "2024-04-10",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/LI5741008274.mp3?updated=1712722363",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x103462480>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/LI5741008274.mp3?updated=1712722363"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Apple’s Legacy and Future After 50 Years, Mac Pro is Dead, Claude Code Leak",
+      "date": "2026-04-02",
+      "podcast": "Primary Technology",
+      "audio_url": "https://audio.transistor.fm/m/shows/48255/f1f320ef1f594d0a72934d210ddb7bfe.mp3",
+      "source_audio_url": "https://mgln.ai/e/802/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/media.transistor.fm/afd30b98/550e49bb.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-02_Apples-Legacy-and-Future-After-50-Years-Mac-Pro-is-Dead-Clau.md",
+      "chars": 87265,
+      "task_id": "788d0c2a-cb9a-4e76-94b5-fc62b4aa08ec",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/48255/f1f320ef1f594d0a72934d210ddb7bfe.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic Responsible Scaling Policy v3: Dive Into The Details",
+      "date": "2026-04-03",
+      "podcast": "Don't Worry About the Vase Podcast",
+      "audio_url": "https://substackcdn.com/video_upload/post/193084793/ee7c46ab-b8bc-4425-8fcc-64dcb885e989/transcoded.mp3?post_id=193084793&relation=podcast&Expires=1776500346&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=UVVjNVhwFoSLlOuvSDbk~YJYRBELi5uQMTEbM~R0wlhMcq2pRjR2uJ183EdyYmcFbeU8fAeeRICJCitxyv05OdlwwH0m3kJ-gwbuINR-~WYVIcjiwcYXGsb7pQzUoKu405JRQxTFTQWhQDP9NKrTgsLnHdWUpQW8lGITocJeTi8~oyvibDE6DEjiRjassS2tJvUKK1K-NOlbRh-VFxcwcZuD~GFfNOQtYs7KqIIpv~9WiXc6h6bhywAgtHFs5dckulpTYos5d9MPSkQl4xJ0ldxu8h6FueAg5wynjYhMjSbjSvACqIfxh-HN49MzHZtedbRnkSdKWUWTdPUs51Exkw__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/193084793/f40942d2bb197de106573a386b7af35a.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-03_Anthropic-Responsible-Scaling-Policy-v3-Dive-Into-The-Detail.md",
+      "chars": 64142,
+      "task_id": "53226f23-a7f6-49cd-a0f2-111487557c35",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/193084793/ee7c46ab-b8bc-4425-8fcc-64dcb885e989/transcoded.mp3?post_id=193084793&relation=podcast&Expires=1776500346&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=UVVjNVhwFoSLlOuvSDbk~YJYRBELi5uQMTEbM~R0wlhMcq2pRjR2uJ183EdyYmcFbeU8fAeeRICJCitxyv05OdlwwH0m3kJ-gwbuINR-~WYVIcjiwcYXGsb7pQzUoKu405JRQxTFTQWhQDP9NKrTgsLnHdWUpQW8lGITocJeTi8~oyvibDE6DEjiRjassS2tJvUKK1K-NOlbRh-VFxcwcZuD~GFfNOQtYs7KqIIpv~9WiXc6h6bhywAgtHFs5dckulpTYos5d9MPSkQl4xJ0ldxu8h6FueAg5wynjYhMjSbjSvACqIfxh-HN49MzHZtedbRnkSdKWUWTdPUs51Exkw__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Jack Clark on AI's Uneven Impact",
+      "date": "2025-05-07",
+      "podcast": "Conversations with Tyler",
+      "audio_url": "https://content.libsyn.com/p/f/5/6/f56c66a7616c0f1b/CWT-251-JackClark-Audio-Finalwav.mp3?c_id=187981475&cs_id=187981475&destination_id=850607&response-content-type=audio%2Fmpeg&Expires=1776419013&Signature=NKaZINQCE16Y2QUHBwQBw5uFnRQUGUTIyddMt7kMOaoGpBG8Cd4q6iaGx4xzaNQvF-AgaQB7d1DrvU~CDSlItA0jRu8mZiL3oxKsaABYAMl3P9-6VsCTjkWSjCBwewJGayqkh0nhBCgQDKvSxXDdMaotTrAbcDmp09HjhqrhhhsVzTa1xLlEm3G34N8N8fAo2yfyYpabw0OSpTrSjd1jyvMsQMF2mKWrueq39B9mFIlzG~DNlaPX7UoO6LXIprzIO40xwWawpjIEDGCmlyKLntJYp9SIkX-Z4Q4O-7kT5Ev6G3Vm1i7RSgqh8UrScZtBWJPmaH9sWYJ6vKypYGbHiQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-251-JackClark-Audio-Finalwav.mp3?dest-id=850607",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-05-07_Jack-Clark-on-AIs-Uneven-Impact.md",
+      "chars": 62615,
+      "task_id": "a8022d8e-1104-41ea-878b-66910b127056",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://content.libsyn.com/p/f/5/6/f56c66a7616c0f1b/CWT-251-JackClark-Audio-Finalwav.mp3?c_id=187981475&cs_id=187981475&destination_id=850607&response-content-type=audio%2Fmpeg&Expires=1776419013&Signature=NKaZINQCE16Y2QUHBwQBw5uFnRQUGUTIyddMt7kMOaoGpBG8Cd4q6iaGx4xzaNQvF-AgaQB7d1DrvU~CDSlItA0jRu8mZiL3oxKsaABYAMl3P9-6VsCTjkWSjCBwewJGayqkh0nhBCgQDKvSxXDdMaotTrAbcDmp09HjhqrhhhsVzTa1xLlEm3G34N8N8fAo2yfyYpabw0OSpTrSjd1jyvMsQMF2mKWrueq39B9mFIlzG~DNlaPX7UoO6LXIprzIO40xwWawpjIEDGCmlyKLntJYp9SIkX-Z4Q4O-7kT5Ev6G3Vm1i7RSgqh8UrScZtBWJPmaH9sWYJ6vKypYGbHiQ__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Claude Code marketing masterclass [from idea to making $$]",
+      "date": "2026-03-02",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01KJQPGN3S8CAEQC37WCGV78HK.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1033cacf0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/01KJQPGN3S8CAEQC37WCGV78HK.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Claude Code: Rebuilding 5 Websites Without Writing Code | EP 126",
+      "date": "2026-03-09",
+      "podcast": "AI Agents Podcast",
+      "audio_url": "https://anchor.fm/s/fe2628e4/podcast/play/116628949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F419621769-44100-2-041577003fe7e.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x103459fd0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/fe2628e4/podcast/play/116628949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F419621769-44100-2-041577003fe7e.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Mass AI-Driven Unemployment, NVIDIA Surges, CEOs' AI Avatars Unleashed",
+      "date": "2025-05-30",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://dcs.megaphone.fm/LI2366326820.mp3?key=3f1ab76d4d2049120fece911167ae6a4&request_event_id=125a5b37-b900-4b59-af7a-8d30ffec8dd9&session_id=c58b6208-539e-4def-bf34-37ab2de60701&timetoken=1776421456_232FD32228B51E60DFBD8F2D32699074",
+      "source_audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/LI2366326820.mp3?updated=1748639877",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-05-30_Mass-AI-Driven-Unemployment-NVIDIA-Surges-CEOs-AI-Avatars-Un.md",
+      "chars": 49605,
+      "task_id": "f504bb03-0d82-44a9-9f0f-8dd3a0d6e920",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs.megaphone.fm/LI2366326820.mp3?key=3f1ab76d4d2049120fece911167ae6a4&request_event_id=125a5b37-b900-4b59-af7a-8d30ffec8dd9&session_id=c58b6208-539e-4def-bf34-37ab2de60701&timetoken=1776421456_232FD32228B51E60DFBD8F2D32699074"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "We're All Addicted To Claude Code",
+      "date": "2026-02-06",
+      "podcast": "Y Combinator Startup Podcast",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/115107206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-6%2F417572051-44100-2-af95efd4007.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10347d9a0>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/8c1524bc/podcast/play/115107206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-6%2F417572051-44100-2-af95efd4007.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "How I use AI Marketing and Claude Code to make $$",
+      "date": "2026-02-11",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01KH6Z8G5ZZR3REDCS6TD55XQW.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x1033cb110>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/01KH6Z8G5ZZR3REDCS6TD55XQW.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+      "date": "2025-07-29",
+      "podcast": "Y Combinator Startup Podcast",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/106163038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-29%2F404759266-44100-2-8cfeeec837bd9.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x10347fc80>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/8c1524bc/podcast/play/106163038/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-29%2F404759266-44100-2-8cfeeec837bd9.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Interview with Dario Amodei from Anthropic: Inside the $100B \"Big Blob of Compute\" & The 2030 AGI Certainty",
+      "date": "2026-02-15",
+      "podcast": "Neural intel Pod",
+      "audio_url": "https://anchor.fm/s/feb5beb4/podcast/play/115550531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-15%2F81e0fe5d-a64a-d8df-863c-f5fd8cabd4f0.m4a",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x103496960>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/feb5beb4/podcast/play/115550531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-15%2F81e0fe5d-a64a-d8df-863c-f5fd8cabd4f0.m4a"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Inside Anthropic's AI Ambitions with Jared Kaplan",
+      "date": "2025-06-06",
+      "podcast": "Equity",
+      "audio_url": "https://traffic.megaphone.fm/TCML5713144657.mp3?updated=1749766417",
+      "source_audio_url": "https://traffic.megaphone.fm/TCML5713144657.mp3?updated=1749766417",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-06-06_Inside-Anthropics-AI-Ambitions-with-Jared-Kaplan.md",
+      "chars": 26632,
+      "task_id": "c235f501-1d71-486d-b9f5-d75d30067f57",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/TCML5713144657.mp3?key=721876c8dec6937b2b341e261bc6cac3&request_event_id=7384a1c3-0a9c-479f-a140-78e37df46c26&session_id=a32fd3c1-f146-4e62-a74d-621fd3030170&timetoken=1776421868_3CC60F8EF5E85EA010347B681B7A55EF",
+        "https://traffic.megaphone.fm/TCML5713144657.mp3?updated=1749766417"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Senator Mike Rounds,  Anthropic Co-Founder Jack Clark, and Ravi Mhatre of Lightspeed | AI and the American Fabric: Rebuilding Society and Code Up",
+      "date": "2025-05-03",
+      "podcast": "The Hill & Valley Forum Podcast",
+      "audio_url": "https://dcs-spotify.megaphone.fm/RINTP4036041065.mp3?key=fa98cdac133bf1b2affb16138abc0097&request_event_id=2697c656-e892-4e27-9b54-efd681ab77b9&session_id=6e6cbe4e-289b-475a-a7c7-b2151b9dc647&timetoken=1776423491_AC009C6DC2396C49FE633285FDC89C58",
+      "source_audio_url": "https://traffic.megaphone.fm/RINTP4036041065.mp3?updated=1746915535",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-05-03_Senator-Mike-Rounds--Anthropic-Co-Founder-Jack-Clark-and-Rav.md",
+      "chars": 25266,
+      "task_id": "bf4fae6b-5207-43d4-a63a-55f649212ae2",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/RINTP4036041065.mp3?key=fa98cdac133bf1b2affb16138abc0097&request_event_id=2697c656-e892-4e27-9b54-efd681ab77b9&session_id=6e6cbe4e-289b-475a-a7c7-b2151b9dc647&timetoken=1776423491_AC009C6DC2396C49FE633285FDC89C58"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "EP 399 : AI's Dark Side: Anthropic CEO Dario Amodei & Microsoft's Maia 200",
+      "date": "2026-01-28",
+      "podcast": "AI Brief",
+      "audio_url": "https://anchor.fm/s/ff46c8c8/podcast/play/114644068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-27%2F416953045-44100-2-eedf894aaffbe.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/ff46c8c8/podcast/play/114644068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-27%2F416953045-44100-2-eedf894aaffbe.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Connecting the Dots - 5-19-2025",
+      "date": "2025-05-19",
+      "podcast": "Connecting the Dots",
+      "audio_url": "https://rsscom.pdn.tritondigital.com/v1/variant/c713a2fa-31da-5679-bd4c-7fcdf6a45ff0.mp3?session_id=24037ee7-0b69-5c3f-bc77-2dab07139414&cc=YYYYYYYYYY&ct=DOWNLOAD&episode_id=2035697&show_id=319395&user_id=571620&organization_id=rsscom&tenant=RSSCOM&timestamp=1776416440&metadata=pid%3D319395%2Ceid%3D2035697%2Cuid%3D571620%2Cdr%3D794%2Caid%3D3828611%2Cbr%3D128000%2Cts%3D44&ppi=1dc1bfaa-99b3-5cfe-b970-5c968790c5ac&epi=42d5e704-1f87-5c05-a4a2-a9b35cff4bb4&emt=audio&media_type=dynamic&fallback_url=https%3A%2F%2Frsscom.pdn.tritondigital.com%2Fsnarful-connecting-the-dots%2F2025_05_19_13_54_40_3a1f8174-cc42-407d-99e2-0976a076f88c.mp3%3Fsession_id%3D24037ee7-0b69-5c3f-bc77-2dab07139414%26cc%3DYYYYYYYYYY%26ct%3DDOWNLOAD%26episode_id%3D2035697%26show_id%3D319395%26user_id%3D571620%26organization_id%3Drsscom%26tenant%3DRSSCOM%26timestamp%3D1776416440%26metadata%3Dpid%253D319395%252Ceid%253D2035697%252Cuid%253D571620%252Cdr%253D794%252Caid%253D3828611%252Cbr%253D128000%252Cts%253D44%26ppi%3D1dc1bfaa-99b3-5cfe-b970-5c968790c5ac%26epi%3D42d5e704-1f87-5c05-a4a2-a9b35cff4bb4%26emt%3Daudio%26media_type%3Dstatic%26edt%3Dmp3%26Expires%3D1776502840%26Key-Pair-Id%3DK1J2BR3INU6RYD%26Signature%3DEU1sIDCCkyviy40zPwhoIu~JDDdMomdgyPA4SGQ1kCtgOt-9bmhm9VQHZXygsGt0M02WdlwyM8jEumIhs6tBLMWwNf8y9iTqQ91UR~lJEkzgdSSkUaAizzw-JuW8wmXS5ft~pZSzth5wBeyKl3xQzKI1Swu5VZJAxQwGuJCkIXLwFWZUBwb3~LFUpFeK7gHeFQh5qOcjyeY4QJAcZy-jk1c3dj-KwB7WnvI9~Lq9qFzKNRzHWTRCRfRODWZrkxNb-tzdX9wc0D09loDIHp3XyTXLbB4R9GMbMzG33uJoX1XhCzHP7bwGJyHZcepaHMTlh05-HRMPXzRbmVZmZBG2Pg__&edt=mp3&Expires=1776502842&Key-Pair-Id=K1J2BR3INU6RYD&Signature=Tgna3wvAPuAVKIlKOnncM-Aoc8fFA-u76TmVhwx9UYdrczZ0~l8sdDNsafUPwSvxV3nf-b3oQKJKTY50dUQPOP8i1CBeugq6pqz4OZtlvwz8P7K-peNIZXgS4lMQXilCPnynT5ceWk5eMcKKL3-Hln8pwnBDy1N1KkZVL4LaXi-H~bl0fghDtSRABM6-3XCkINYgZOiP6DITBaIUDufSQzyoi80bvVUESkDl2cjHoGDpGF8SODcOcn6bWQbWlXNzjasbsajTDJ0U9aQo0noloXtQMDEaOsQzOecppPUtbkUTH8EXV7vj6BzMjvbA6lTwe0XJFIECKe3bUkahLtGOkA__",
+      "source_audio_url": "https://content.rss.com/episodes/319395/2035697/snarful-connecting-the-dots/2025_05_19_13_54_40_3a1f8174-cc42-407d-99e2-0976a076f88c.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-05-19_Connecting-the-Dots---5-19-2025.md",
+      "chars": 15810,
+      "task_id": "9efcd05b-4a09-4d6f-b0dd-ca178f656c0e",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://rsscom.pdn.tritondigital.com/v1/variant/c713a2fa-31da-5679-bd4c-7fcdf6a45ff0.mp3?session_id=24037ee7-0b69-5c3f-bc77-2dab07139414&cc=YYYYYYYYYY&ct=DOWNLOAD&episode_id=2035697&show_id=319395&user_id=571620&organization_id=rsscom&tenant=RSSCOM&timestamp=1776416440&metadata=pid%3D319395%2Ceid%3D2035697%2Cuid%3D571620%2Cdr%3D794%2Caid%3D3828611%2Cbr%3D128000%2Cts%3D44&ppi=1dc1bfaa-99b3-5cfe-b970-5c968790c5ac&epi=42d5e704-1f87-5c05-a4a2-a9b35cff4bb4&emt=audio&media_type=dynamic&fallback_url=https%3A%2F%2Frsscom.pdn.tritondigital.com%2Fsnarful-connecting-the-dots%2F2025_05_19_13_54_40_3a1f8174-cc42-407d-99e2-0976a076f88c.mp3%3Fsession_id%3D24037ee7-0b69-5c3f-bc77-2dab07139414%26cc%3DYYYYYYYYYY%26ct%3DDOWNLOAD%26episode_id%3D2035697%26show_id%3D319395%26user_id%3D571620%26organization_id%3Drsscom%26tenant%3DRSSCOM%26timestamp%3D1776416440%26metadata%3Dpid%253D319395%252Ceid%253D2035697%252Cuid%253D571620%252Cdr%253D794%252Caid%253D3828611%252Cbr%253D128000%252Cts%253D44%26ppi%3D1dc1bfaa-99b3-5cfe-b970-5c968790c5ac%26epi%3D42d5e704-1f87-5c05-a4a2-a9b35cff4bb4%26emt%3Daudio%26media_type%3Dstatic%26edt%3Dmp3%26Expires%3D1776502840%26Key-Pair-Id%3DK1J2BR3INU6RYD%26Signature%3DEU1sIDCCkyviy40zPwhoIu~JDDdMomdgyPA4SGQ1kCtgOt-9bmhm9VQHZXygsGt0M02WdlwyM8jEumIhs6tBLMWwNf8y9iTqQ91UR~lJEkzgdSSkUaAizzw-JuW8wmXS5ft~pZSzth5wBeyKl3xQzKI1Swu5VZJAxQwGuJCkIXLwFWZUBwb3~LFUpFeK7gHeFQh5qOcjyeY4QJAcZy-jk1c3dj-KwB7WnvI9~Lq9qFzKNRzHWTRCRfRODWZrkxNb-tzdX9wc0D09loDIHp3XyTXLbB4R9GMbMzG33uJoX1XhCzHP7bwGJyHZcepaHMTlh05-HRMPXzRbmVZmZBG2Pg__&edt=mp3&Expires=1776502842&Key-Pair-Id=K1J2BR3INU6RYD&Signature=Tgna3wvAPuAVKIlKOnncM-Aoc8fFA-u76TmVhwx9UYdrczZ0~l8sdDNsafUPwSvxV3nf-b3oQKJKTY50dUQPOP8i1CBeugq6pqz4OZtlvwz8P7K-peNIZXgS4lMQXilCPnynT5ceWk5eMcKKL3-Hln8pwnBDy1N1KkZVL4LaXi-H~bl0fghDtSRABM6-3XCkINYgZOiP6DITBaIUDufSQzyoi80bvVUESkDl2cjHoGDpGF8SODcOcn6bWQbWlXNzjasbsajTDJ0U9aQo0noloXtQMDEaOsQzOecppPUtbkUTH8EXV7vj6BzMjvbA6lTwe0XJFIECKe3bUkahLtGOkA__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic CEO Dario Amodei & Accenture CEO Julie Sweet Talk New AI Deal",
+      "date": "2025-12-09",
+      "podcast": "Bloomberg Talks",
+      "audio_url": "https://iheartmedia.mc.tritondigital.com/OMNY_BLOOMBERGTALKS_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/69380124-4c8c-4089-a3e4-b3ae015a416c/audio/direct/t1765314178/Anthropic_CEO_Dario_Amodei_Accenture_CEO_Julie_Sweet_Talk_New_AI_Deal.mp3?t=1765314178&starship-rollup=v0_444444444444&starship-episode-id=9d96c5af-899d-40ec-9a11-09d2429b8c44&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63&utm_source=Podcast",
+      "source_audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/69380124-4c8c-4089-a3e4-b3ae015a416c/audio.mp3?utm_source=Podcast&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-12-09_Anthropic-CEO-Dario-Amodei--Accenture-CEO-Julie-Sweet-Talk-N.md",
+      "chars": 11225,
+      "task_id": "e93210ad-98c2-42ed-8b25-257cef5f2c2b",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://iheartmedia.mc.tritondigital.com/OMNY_BLOOMBERGTALKS_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/15e00369-eef2-4085-a194-b00d01137fde/69380124-4c8c-4089-a3e4-b3ae015a416c/audio/direct/t1765314178/Anthropic_CEO_Dario_Amodei_Accenture_CEO_Julie_Sweet_Talk_New_AI_Deal.mp3?t=1765314178&starship-rollup=v0_444444444444&starship-episode-id=9d96c5af-899d-40ec-9a11-09d2429b8c44&in_playlist=8f25e357-09d8-46db-a150-b00d0113ef63&utm_source=Podcast"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Dario Amodei — \"We are near the end of the exponential\"",
+      "date": "2026-02-13",
+      "podcast": "Dwarkesh Podcast",
+      "audio_url": "https://substackcdn.com/video_upload/post/187852154/427e0ff3-9b6b-48c9-80ac-5005a3028a57/transcoded.mp3?post_id=187852154&relation=podcast&Expires=1776502976&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=hseEFwPh5cVbMmI7kUoM6u50cFBvY~IAuG7L0AKYK59A8d90s9wsXTWVOEVrTqujdzlciyyxSn54gIxkQJEiRYavLeN4YC9-00gcm7sHUCfVgkLPl5BpZR0lbJ4K5lckVgUzDeYKsQWvkezEFuyzis6pyznyQLy0m1R3E1uk6FBZZMb8aA4pSVOz5ZCIC33TGCMmBA5TvuDjY-3ccDnfShFFYTtiS8iwomue9YXanxtFFGkXy47V-9GdKFSYRRw~-ww~NnysvykwF1qzMAd~BODK9EoMP5uNGxWKvpnqcKjIM7e06VkvOKEpJ1Q67tu36WYq-SxdaHM0YUtCps6jsQ__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/187852154/cecdbe38125e2786cbfebe31dd083d4f.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-02-13_Dario-Amodei--We-are-near-the-end-of-the-exponential.md",
+      "chars": 146078,
+      "task_id": "18db4ba3-df80-45c7-a96b-e59f54b9188e",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/187852154/427e0ff3-9b6b-48c9-80ac-5005a3028a57/transcoded.mp3?post_id=187852154&relation=podcast&Expires=1776502976&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=hseEFwPh5cVbMmI7kUoM6u50cFBvY~IAuG7L0AKYK59A8d90s9wsXTWVOEVrTqujdzlciyyxSn54gIxkQJEiRYavLeN4YC9-00gcm7sHUCfVgkLPl5BpZR0lbJ4K5lckVgUzDeYKsQWvkezEFuyzis6pyznyQLy0m1R3E1uk6FBZZMb8aA4pSVOz5ZCIC33TGCMmBA5TvuDjY-3ccDnfShFFYTtiS8iwomue9YXanxtFFGkXy47V-9GdKFSYRRw~-ww~NnysvykwF1qzMAd~BODK9EoMP5uNGxWKvpnqcKjIM7e06VkvOKEpJ1Q67tu36WYq-SxdaHM0YUtCps6jsQ__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Daniela and Dario Amodei on Anthropic",
+      "date": "2022-03-04",
+      "podcast": "Future of Life Institute Podcast",
+      "audio_url": "https://audio.transistor.fm/m/shows/68428/8d3b10ea597d372aec1c0ceb77882e53.mp3",
+      "source_audio_url": "https://media.transistor.fm/f4f5adff/37dc1cd6.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2022-03-04_Daniela-and-Dario-Amodei-on-Anthropic.md",
+      "chars": 132095,
+      "task_id": "b5a3ff20-049f-46a1-a3af-e247058b7f67",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/68428/8d3b10ea597d372aec1c0ceb77882e53.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+      "date": "2026-02-19",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://substackcdn.com/video_upload/post/188147394/4ab83d98-f735-4ba2-9395-e36ffc1560f7/transcoded.mp3?post_id=188147394&relation=podcast_preview&Expires=1776503310&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=ORBGwQf7tWaBzKC4useq-H~yAMqiuynFkWjsK-wqQOIbplbBLN~KqDqc9VVVeTxYw-jzId69cDgF608vEE~7tjLqn3unb3FFS9sVOKcmZZbdbw61V9kIpvK97-RAoyIv2IgBChI9ZJkVzo4xxrbIeNAO9HJcRfUqfWmsCEdQFH44r7D6vQy7FvJ34iDNneNM1TUU-qPdox6QKJA6iOMMqeFuRAHjMuco-eIWxhGv5Q0UmIiaP14n92xfHEczTRsWzulW~BcuIDfIEk1WmaySWV1HZtFc7O7OY~WQMsGUUicWM9l1S6Xsy33G1EP4H4XkDHq7XGuffnRXr~BosQ4hzg__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/188147394/4c0ec1642faad3be82879b1b9c53bae8.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-02-19_Head-of-Claude-Code-What-happens-after-coding-is-solved--Bor.md",
+      "chars": 101419,
+      "task_id": "b1aef898-3f75-482c-923d-fd1ac3cbd88d",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/188147394/4ab83d98-f735-4ba2-9395-e36ffc1560f7/transcoded.mp3?post_id=188147394&relation=podcast_preview&Expires=1776503310&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=ORBGwQf7tWaBzKC4useq-H~yAMqiuynFkWjsK-wqQOIbplbBLN~KqDqc9VVVeTxYw-jzId69cDgF608vEE~7tjLqn3unb3FFS9sVOKcmZZbdbw61V9kIpvK97-RAoyIv2IgBChI9ZJkVzo4xxrbIeNAO9HJcRfUqfWmsCEdQFH44r7D6vQy7FvJ34iDNneNM1TUU-qPdox6QKJA6iOMMqeFuRAHjMuco-eIWxhGv5Q0UmIiaP14n92xfHEczTRsWzulW~BcuIDfIEk1WmaySWV1HZtFc7O7OY~WQMsGUUicWM9l1S6Xsy33G1EP4H4XkDHq7XGuffnRXr~BosQ4hzg__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Why Anthropic Thinks AI Should Have Its Own Computer — Felix Rieseberg of Claude Cowork & Claude Code Desktop",
+      "date": "2026-03-17",
+      "podcast": "Latent Space: The AI Engineer Podcast",
+      "audio_url": "https://substackcdn.com/video_upload/post/191097767/ec442b0a-bce1-438e-9940-0c654aaede15/transcoded.mp3?post_id=191097767&relation=podcast&Expires=1776503490&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=johxTwrdmZy2iKQi-hc8RM7j9FDjJ4YdQT681epuACX2wqEl9Qf1Z0M9CrlbJ20Ndi6fU4D31WJlyU1~IGfo4eNUAMzYVpM9mHMPKp1-XEUJslDbevNb37n76--0ycTwSTNPtw2TrCphu1FvcTtKkpg5WLrORdeK-r9vjbqC3hJabNKM8xrwUNv4vR8cdIH~DTyT5XhejwG-O7S~U11HPC4da~1asG9lM0u6TFVUxixa~4GFVeKBDPm8DaQgFw22b0lo~Buh3Nr--HgWkxVyQnYxxnwlZ7wMe~Za9I8tgUziibvYNb2TKNXMjhT6QBD7TBrpf6bXxMM0K~tSEwnYsA__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/191097767/72a8d1a77282f7fee0214a7442ccfd40.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-03-17_Why-Anthropic-Thinks-AI-Should-Have-Its-Own-Computer--Felix.md",
+      "chars": 97958,
+      "task_id": "035ccb07-90e2-485e-9278-b8978b4d09f3",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/191097767/ec442b0a-bce1-438e-9940-0c654aaede15/transcoded.mp3?post_id=191097767&relation=podcast&Expires=1776503490&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=johxTwrdmZy2iKQi-hc8RM7j9FDjJ4YdQT681epuACX2wqEl9Qf1Z0M9CrlbJ20Ndi6fU4D31WJlyU1~IGfo4eNUAMzYVpM9mHMPKp1-XEUJslDbevNb37n76--0ycTwSTNPtw2TrCphu1FvcTtKkpg5WLrORdeK-r9vjbqC3hJabNKM8xrwUNv4vR8cdIH~DTyT5XhejwG-O7S~U11HPC4da~1asG9lM0u6TFVUxixa~4GFVeKBDPm8DaQgFw22b0lo~Buh3Nr--HgWkxVyQnYxxnwlZ7wMe~Za9I8tgUziibvYNb2TKNXMjhT6QBD7TBrpf6bXxMM0K~tSEwnYsA__"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "How Claude Code Claude Codes",
+      "date": "2026-02-24",
+      "podcast": "The Vergecast",
+      "audio_url": "https://dcs-cached.megaphone.fm/VMP4401403059.mp3?key=75e7f4d481849e4611eba433a1f623c1&request_event_id=a233d24d-aca3-403e-9a30-fb1974dd860f&session_id=77f0f003-5f83-48de-98b5-86c0cc695860&timetoken=1776424375_E1C19476D1E90A5E65830DD7CC69C189",
+      "source_audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4401403059.mp3?updated=1771876082",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-02-24_How-Claude-Code-Claude-Codes.md",
+      "chars": 88893,
+      "task_id": "2853d8d0-6d25-489d-a949-b347e5ae02ac",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/VMP4401403059.mp3?key=75e7f4d481849e4611eba433a1f623c1&request_event_id=a233d24d-aca3-403e-9a30-fb1974dd860f&session_id=77f0f003-5f83-48de-98b5-86c0cc695860&timetoken=1776424375_E1C19476D1E90A5E65830DD7CC69C189"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Your Claude Code Tokens Are Disappearing",
+      "date": "2026-04-03",
+      "podcast": "Authority Hacker Podcast – AI & Automation for Small biz & Marketers",
+      "audio_url": "https://www.buzzsprout.com/1885879/episodes/18957501-your-claude-code-tokens-are-disappearing.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://www.buzzsprout.com/1885879/episodes/18957501-your-claude-code-tokens-are-disappearing.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic’s Head of Economics on AI adoption data, Claude Code, the burden of knowledge & the next generation of experts",
+      "date": "2026-01-21",
+      "podcast": "Azeem Azhar's Exponential View",
+      "audio_url": "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_0e973094cefbaf2758294394a25982d5_52649607.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34&feed=e_GRxR9a&hash_redirect=1&x-total-bytes=52649607&x-ais-classified=streaming&listeningSessionID=0CD_382_106__7edd5f41fa92a3caf8deb0e227aa4f88d7f66681",
+      "source_audio_url": "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34/audio/128/default.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34&feed=e_GRxR9a",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-01-21_Anthropics-Head-of-Economics-on-AI-adoption-data-Claude-Code.md",
+      "chars": 50374,
+      "task_id": "6dad6d6b-af65-40cd-be63-750ba757ae69",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://afp-444457-injected.calisto.simplecastaudio.com/ea6da43b-cf32-4bb2-a71f-d5ad709d858f/episodes/93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_0e973094cefbaf2758294394a25982d5_52649607.mp3?aid=rss_feed&awCollectionId=ea6da43b-cf32-4bb2-a71f-d5ad709d858f&awEpisodeId=93a4eabd-1e3a-4fae-8f3b-1e6df75cdf34&feed=e_GRxR9a&hash_redirect=1&x-total-bytes=52649607&x-ais-classified=streaming&listeningSessionID=0CD_382_106__7edd5f41fa92a3caf8deb0e227aa4f88d7f66681"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "“Anthropic Responsible Scaling Policy v3: Dive Into The Details” by Zvi",
+      "date": "2026-04-04",
+      "podcast": "LessWrong (30+ Karma)",
+      "audio_url": "https://type3audiouseast.blob.core.windows.net/ai-narration-audio/acf678b5f62b42f8a25876cbcc1541d7/462ed734-c138-4c3e-bb30-2a887c1526e5/0001.mp3?sv=2025-07-05&st=2026-04-17T09%3A17%3A35Z&se=2026-04-18T09%3A18%3A35Z&sr=b&sp=r&sig=zUVLCASOCTcqb4KQ3TXeOoP93XRCbER9ERmrnCzPdbA%3D&rscd=inline%3B%20filename%3D%22462ed734-c138-4c3e-bb30-2a887c1526e5.mp3%22",
+      "source_audio_url": "https://dl.type3.audio/episode/462ed734-c138-4c3e-bb30-2a887c1526e5.mp3?request_source=rss&client_id=lesswrong&feed_id=lesswrong_ai_narrations%20lesswrong__30_karma&type=ai_narration&author=Zvi&title=%22Anthropic%20Responsible%20Scaling%20Policy%20v3%3A%20Dive%20Into%20The%20Details%22%20by%20Zvi&source_url=https%3A%2F%2Fwww.lesswrong.com%2Fposts%2FRtQxa5MoKk9bwEEEd%2Fanthropic-responsible-scaling-policy-v3-dive-into-the&created_at=2026-04-03T13%3A48%3A56.332679%2B00%3A00&duration=3063",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-04_Anthropic-Responsible-Scaling-Policy-v3-Dive-Into-The-Detail.md",
+      "chars": 48901,
+      "task_id": "deeb812d-4178-4c73-9243-aaf78463e8df",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://type3audiouseast.blob.core.windows.net/ai-narration-audio/acf678b5f62b42f8a25876cbcc1541d7/462ed734-c138-4c3e-bb30-2a887c1526e5/0001.mp3?sv=2025-07-05&st=2026-04-17T09%3A17%3A35Z&se=2026-04-18T09%3A18%3A35Z&sr=b&sp=r&sig=zUVLCASOCTcqb4KQ3TXeOoP93XRCbER9ERmrnCzPdbA%3D&rscd=inline%3B%20filename%3D%22462ed734-c138-4c3e-bb30-2a887c1526e5.mp3%22"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Anthropic and the Model Context Protocol with David Soria Parra",
+      "date": "2025-05-13",
+      "podcast": "Podcast Archives - Software Engineering Daily",
+      "audio_url": "https://traffic.megaphone.fm/SED5891115682.mp3",
+      "source_audio_url": "https://traffic.megaphone.fm/SED5891115682.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-05-13_Anthropic-and-the-Model-Context-Protocol-with-David-Soria-Pa.md",
+      "chars": 51776,
+      "task_id": "140cc00e-4d65-4a27-b790-f2b45be70dd4",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/SED5891115682.mp3?key=f330d488afb6ce68e88f92bc22501e50&request_event_id=010003fa-a7a2-436b-962c-2bfa12b8689d&session_id=6f056c47-c66e-4af3-b5fa-c8262916a053&timetoken=1776424780_710B81377160C2AAE0F2E417D81797EB",
+        "https://traffic.megaphone.fm/SED5891115682.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Deep Dive Anthropic: Claude, Clawd & Code - der ChatGPT-Moment für den OpenAI-Herausforderer",
+      "date": "2026-01-27",
+      "podcast": "Trending Topics Tech Talk",
+      "audio_url": "https://anchor.fm/s/8bd763c/podcast/play/114574409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F26107c39-d43b-5ddb-5740-b4081ed4517a.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/8bd763c/podcast/play/114574409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2F26107c39-d43b-5ddb-5740-b4081ed4517a.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Model Context Protocol (MCP) and Agent-to-Agent (A2A): The Future of Enterprise AI",
+      "date": "2025-07-09",
+      "podcast": "AI Proving Ground Podcast: Exploring Artificial Intelligence & Enterprise AI with World Wide Technology",
+      "audio_url": "https://www.buzzsprout.com/2417704/episodes/17470575-model-context-protocol-mcp-and-agent-to-agent-a2a-the-future-of-enterprise-ai.mp3",
+      "attempt_round": 2,
+      "error": "Local OSS fallback failed: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=paraformer-v2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://www.buzzsprout.com/2417704/episodes/17470575-model-context-protocol-mcp-and-agent-to-agent-a2a-the-future-of-enterprise-ai.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Two Years Till We're Cooked: The Death of White Collar Work and Other Human Things",
+      "date": "2026-02-15",
+      "podcast": "Keen On America",
+      "audio_url": "https://audio.transistor.fm/m/shows/72528/3848a5dca9f0fc479acde5209a4ff047.mp3",
+      "source_audio_url": "https://op3.dev/e/media.transistor.fm/64e47eac/6270e2fc.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-02-15_Two-Years-Till-Were-Cooked-The-Death-of-White-Collar-Work-an.md",
+      "chars": 33546,
+      "task_id": "3b9ce651-350e-4763-ae5f-8e1312ea9531",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/72528/3848a5dca9f0fc479acde5209a4ff047.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Googlers React To Lex Fridman & Dario Amodei Interview Part 2: Why Large Companies Fail",
+      "date": "2024-11-14",
+      "podcast": "SVIC Podcast",
+      "audio_url": "https://anchor.fm/s/f1ac6c04/podcast/play/94408719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2F389800283-44100-2-5d4985840fbff.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/f1ac6c04/podcast/play/94408719/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-10-14%2F389800283-44100-2-5d4985840fbff.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/1e068234-3773-94c6-9fa4-52a0f1d17606/2024-11-14_Googlers-React-To-Lex-Fridman--Dario-Amodei-Interview-Part-2.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Claude Code Source Code Just Got Leaked! We break it down (You won't believe some of this!)",
+      "date": "2026-04-03",
+      "podcast": "The Programming Podcast",
+      "audio_url": "https://dcs-cached.megaphone.fm/APO6845663815.mp3?key=e43187add39a126d1be45d706733b8c9&request_event_id=ee388a26-1b30-458e-88f8-a20e41656337&session_id=2fcb6c9c-2328-444f-8a92-7c8090139e8b&timetoken=1776426486_2EE7D647AC2C168E6E6E000A6D07AA69",
+      "source_audio_url": "https://traffic.megaphone.fm/APO6845663815.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-03_Claude-Code-Source-Code-Just-Got-Leaked-We-break-it-down-You.md",
+      "chars": 37466,
+      "task_id": "b8efbabd-a624-4b66-95b5-223e5194afa7",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/APO6845663815.mp3?key=e43187add39a126d1be45d706733b8c9&request_event_id=ee388a26-1b30-458e-88f8-a20e41656337&session_id=2fcb6c9c-2328-444f-8a92-7c8090139e8b&timetoken=1776426486_2EE7D647AC2C168E6E6E000A6D07AA69"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Exploring the Risks of Model Context Protocol (MCP)",
+      "date": "2026-04-14",
+      "podcast": "Exploring Information Security - Exploring Information Security",
+      "audio_url": "https://static1.squarespace.com/static/52ebedcae4b0ad4aad060b4a/t/69d64a40724c2d76c1d25ded/1775651431747/EIS-EP264-MCP-CaseyBleeker.mp3",
+      "source_audio_url": "https://static1.squarespace.com/static/52ebedcae4b0ad4aad060b4a/t/69d64a40724c2d76c1d25ded/1775651431747/EIS-EP264-MCP-CaseyBleeker.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-04-14_Exploring-the-Risks-of-Model-Context-Protocol-MCP.md",
+      "chars": 31478,
+      "task_id": "53c27471-095c-4e85-b753-83e10111a4f8",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://static1.squarespace.com/static/52ebedcae4b0ad4aad060b4a/t/69d64a40724c2d76c1d25ded/1775651431747/EIS-EP264-MCP-CaseyBleeker.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "My Claude Code marketing stack (It just works)",
+      "date": "2026-04-13",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01KP3VVVFKXBK66M4E7XRKPV4W.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/01KP3VVVFKXBK66M4E7XRKPV4W.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/922d84cb-f054-9120-b4cd-5577ca02d2cc/2026-04-13_My-Claude-Code-marketing-stack-It-just-works.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "First Steps with Model Context Protocol (MCP). Healthcare use-cases",
+      "date": "2025-08-05",
+      "podcast": "The Healthcare AI Podcast",
+      "audio_url": "https://anchor.fm/s/10754b584/podcast/play/106478543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-5%2F405163438-44100-2-f196a01a8cc49.m4a",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/10754b584/podcast/play/106478543/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-5%2F405163438-44100-2-f196a01a8cc49.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/c70dd97a-59e4-9785-820a-251921f7a879/2025-08-05_First-Steps-with-Model-Context-Protocol-MCP-Healthcare-use-c.m4a"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Model Context Protocol (MCP) Explained:  The Economics of Scaling Enterprise AI Without Exploding Costs",
+      "date": "2026-01-30",
+      "podcast": "The Macro AI Podcast",
+      "audio_url": "https://www.buzzsprout.com/2454256/episodes/18610645-model-context-protocol-mcp-explained-the-economics-of-scaling-enterprise-ai-without-exploding-costs.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://www.buzzsprout.com/2454256/episodes/18610645-model-context-protocol-mcp-explained-the-economics-of-scaling-enterprise-ai-without-exploding-costs.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/3febf689-9f49-94eb-a5ea-9738d2a26638/2026-01-30_Model-Context-Protocol-MCP-Explained--The-Economics-of-Scali.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Model Context Protocol (MCP)",
+      "date": "2025-04-09",
+      "podcast": "Large Language Model (LLM) Talk",
+      "audio_url": "https://anchor.fm/s/ffe783a8/podcast/play/101045400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-9%2F398084932-44100-2-3fdf86dcad5db.m4a",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/ffe783a8/podcast/play/101045400/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-9%2F398084932-44100-2-3fdf86dcad5db.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/670a2548-dea5-957b-827b-d133610ca3da/2025-04-09_Model-Context-Protocol-MCP.m4a"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Claude AI's New Features, Ethical AI, and Dario Amodei on AI Economics",
+      "date": "2025-01-30",
+      "podcast": "The Anthropic AI Daily Brief",
+      "audio_url": "https://data-1.podcastai.com/shows/6KBha9KI2a95IejKjkdjud/episodes/9K5031GXQyA/audio-bb5150a5.mp3",
+      "source_audio_url": "https://media.podcastai.com/episodes/9K5031GXQyA.mp3?u=1754073626",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2025-01-30_Claude-AIs-New-Features-Ethical-AI-and-Dario-Amodei-on-AI-Ec.md",
+      "chars": 10525,
+      "task_id": "b68e1a62-c889-4a7b-9b62-fdd6bfb9c2f7",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://data-1.podcastai.com/shows/6KBha9KI2a95IejKjkdjud/episodes/9K5031GXQyA/audio-bb5150a5.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Protecting Your Brand Against Counterfeiters & Amazon's Temu Competitor",
+      "date": "2024-11-14",
+      "podcast": "Billion Dollar Sellers",
+      "audio_url": "https://mcdn.podbean.com/mf/web/zd2r8ffy934g7s8j/BDSN_Episode_286kndn.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://mcdn.podbean.com/mf/web/zd2r8ffy934g7s8j/BDSN_Episode_286kndn.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/8aed0f6c-6419-9111-9e35-237509ada163/2024-11-14_Protecting-Your-Brand-Against-Counterfeiters--Amazons-Temu-C.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic: How the Race to Build AI Broke the Alliance (Ep. 110)",
+      "date": "2026-02-01",
+      "podcast": "Bored and Ambitious",
+      "audio_url": "https://anchor.fm/s/10ddc644c/podcast/play/114844206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2F4c22fd9d-1afb-6cd5-69e2-14d3fb643ed0.m4a",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://anchor.fm/s/10ddc644c/podcast/play/114844206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2F4c22fd9d-1afb-6cd5-69e2-14d3fb643ed0.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/1fac81e9-4296-9eb4-b47e-82e87e62004b/2026-02-01_Anthropic-How-the-Race-to-Build-AI-Broke-the-Alliance-Ep-110.m4a"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Q&A: Is Liron too DISMISSIVE of AI Harms? + New Studio, Demis Would #PauseAI, AI Water Use Debate",
+      "date": "2026-01-27",
+      "podcast": "Doom Debates!",
+      "audio_url": "https://substackcdn.com/video_upload/post/185946381/06e75607-76c1-4ba6-9770-5d7cbb1187f2/transcoded.mp3?post_id=185946381&relation=podcast&Expires=1776507347&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=kAGKlOKPSg1UayfrkO2bt~Y6k65gxGm4do4hgmkaabildpRm8uSFb6FJ~78YRf0Dmng9Bvs~kc1wojkJZOpafOcNqjE9pNMuMjadXLgEcoS4CCbghr5TmkGz4387YAXpaGOdlOvEQG64Q2Ify97wzyNvvxb3MUsH1xJrMJiis~S0fSxM0lSAt6Dvmx3UKcONZLf1aDqp~reWv2NlGcVfJHAuy-T0EwHeC1SqVbmWCe2lTCHfZtOWUpmcxaIpSuJQsEt8lDNV0jtQ69W5KQABS4RjQ4euWHmiz5A6UZ7ichjRtxObsr2ah1iIfo44b5xut9jZAj38zcS~lCZxTPXGuQ__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/185946381/c1a550c5911e4c49e6c9182ff97459b1.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/podcasts_transcripts/2026-01-27_QA-Is-Liron-too-DISMISSIVE-of-AI-Harms--New-Studio-Demis-Wou.md",
+      "chars": 138915,
+      "task_id": "8df09194-4ca7-4682-92e2-bdd909b60946",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://substackcdn.com/video_upload/post/185946381/06e75607-76c1-4ba6-9770-5d7cbb1187f2/transcoded.mp3?post_id=185946381&relation=podcast&Expires=1776507347&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=kAGKlOKPSg1UayfrkO2bt~Y6k65gxGm4do4hgmkaabildpRm8uSFb6FJ~78YRf0Dmng9Bvs~kc1wojkJZOpafOcNqjE9pNMuMjadXLgEcoS4CCbghr5TmkGz4387YAXpaGOdlOvEQG64Q2Ify97wzyNvvxb3MUsH1xJrMJiis~S0fSxM0lSAt6Dvmx3UKcONZLf1aDqp~reWv2NlGcVfJHAuy-T0EwHeC1SqVbmWCe2lTCHfZtOWUpmcxaIpSuJQsEt8lDNV0jtQ69W5KQABS4RjQ4euWHmiz5A6UZ7ichjRtxObsr2ah1iIfo44b5xut9jZAj38zcS~lCZxTPXGuQ__"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "The Creators of Model Context Protocol",
+      "date": "2025-04-03",
+      "podcast": "Latent Space: The AI Engineer Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/160464452/e8c5634adb3ba8458e54738e718e88d5.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://api.substack.com/feed/podcast/160464452/e8c5634adb3ba8458e54738e718e88d5.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/a9e5dd3a-00ab-999a-9931-67e9e88a6b6e/2025-04-03_The-Creators-of-Model-Context-Protocol.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "How I Use Obsidian + Claude Code to Run My Life",
+      "date": "2026-02-23",
+      "podcast": "The Startup Ideas Podcast",
+      "audio_url": "https://episode.flightcast.com/01KJ5Y98SC1DH4R9AGXHMVRWWX.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/01KJ5Y98SC1DH4R9AGXHMVRWWX.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/8b74ec40-a1b3-90da-963d-c1c04ffcc1cb/2026-02-23_How-I-Use-Obsidian--Claude-Code-to-Run-My-Life.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Amey Desai on the Model Context Protocol",
+      "date": "2025-10-08",
+      "podcast": "Software Engineering Radio - the podcast for professional software developers",
+      "audio_url": "https://traffic.libsyn.com/secure/seradio/689-amey-desai-model-context-protocol.mp3?dest-id=23379",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://content.libsyn.com/p/b/4/c/b4c23968aa6ec6be/689-amey-desai-model-context-protocol.mp3?c_id=193990140&cs_id=193990140&destination_id=23379&response-content-type=audio%2Fmpeg&Expires=1776434048&Signature=U58dqO3JdlD7MAO8DWKoVtCZDhlEvzO9KW~14~YLgGbD4bpjiImYuvoUYYkmZvy4X6EoumAh6kLavrAgoXGR0p9zhQ6x8HJYx~-KkV5ueqQenMfYOto1SE2UnwrASn4OGAZJTwwb5HdnOVp3oCsoSh8tfCQ1UP2JOdYAY73YRjgQmmrIAyqRkiV6KxhGNIroz95F7Or1M-z78sWUXW~NzUJSNTJ6yS0PvRUdm2SiKqVNCGaACWILmA8UB9y3Uu~yt5QfC69Rr6kRpyxYz5VAeBp3uuxk940KVeedk~MXfxQVE4icQToJCH3tzs-2xtTgevtyiy1NaQCS6EG4neHSbQ__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "https://traffic.libsyn.com/secure/seradio/689-amey-desai-model-context-protocol.mp3?dest-id=23379",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/1416a0ea-dee6-98d5-bd5f-7c0ed88005e8/2025-10-08_Amey-Desai-on-the-Model-Context-Protocol.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/84d55b9f-4980-9453-a57b-d35924fca0b5/2025-10-08_Amey-Desai-on-the-Model-Context-Protocol.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Claude Code’s Shining Moment, ChatGPT for Healthcare, End Of Busywork?",
+      "date": "2026-01-09",
+      "podcast": "Big Technology Podcast",
+      "audio_url": "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP5231778675.mp3?updated=1767987164",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://dcs-cached.megaphone.fm/AMPP5231778675.mp3?key=874717cd28544ab4e9e330b437430b22&request_event_id=862854b1-471b-496f-ab23-d903daefacf6&session_id=5f6ec65b-9220-4b73-8907-780d92f45d96&timetoken=1776436666_CF1FB52368F4F610F9B20F9BBDA9204A",
+        "https://pdst.fm/e/tracking.swap.fm/track/t7yC0rGPUqahTF4et8YD/pscrb.fm/rss/p/traffic.megaphone.fm/AMPP5231778675.mp3?updated=1767987164",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/2032cbef-e0af-9060-9769-927edfbf2749/2026-01-09_Claude-Codes-Shining-Moment-ChatGPT-for-Healthcare-End-Of-Bu.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/7ea7e965-37f1-9a94-8607-69f40a7ff196/2026-01-09_Claude-Codes-Shining-Moment-ChatGPT-for-Healthcare-End-Of-Bu.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Ep. 69 - With Brian Julius (Learning About Model Context Protocol - MCP)",
+      "date": "2025-08-15",
+      "podcast": "Data Ideas Podcast",
+      "audio_url": "https://traffic.libsyn.com/secure/f4ba4664-b5a2-4437-949d-aa5d6ba8a69f/Series_1_-_Episode_69.mp3?dest-id=3610668",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://content.libsyn.com/p/f/8/d/f8dabae992d472a8/Series_1_-_Episode_69.mp3?c_id=191983520&cs_id=191983520&destination_id=3610668&response-content-type=audio%2Fmpeg&Expires=1776434070&Signature=L6FcCRXXE2WI0u7OAqo2qBZdui4MXgbLJMHDPVFg4kwlC0wf6hAKejlYnAVt5yrbeDqPSQTPuObg5-3FR-5dTZ80xOCEf5kXdX1cG8c0RhVaZS5N6XduRY~9Uvnlwt~pc0VliydjhtfxpmHIxiBbnyANSTLT3w05m-fsD4TEpOtZK14jmszKNTdOtlj0ckVDKpFPChJGJMP2qEPSOHf6Vhe4SzZP3IQGb2fm8iwOSGfq9Yyq1eYJtBFfL8hyopYEg-4Rxm6T7wzlL4TvV21VinaTn-7C-TCd09nH87q4o1EYQ7hz4nGle2ooqVi-Zg7qFD8iVUqlnNYbTHOXN9-qxw__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "https://traffic.libsyn.com/secure/f4ba4664-b5a2-4437-949d-aa5d6ba8a69f/Series_1_-_Episode_69.mp3?dest-id=3610668",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/c8ee9567-3019-91ea-95ad-3f944561914a/2025-08-15_Ep-69---With-Brian-Julius-Learning-About-Model-Context-Proto.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/68dfa0c3-224d-9112-ba46-a34d66bebcd2/2025-08-15_Ep-69---With-Brian-Julius-Learning-About-Model-Context-Proto.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Anthropic Responsible Scaling Policy v3: A Matter of Trust",
+      "date": "2026-04-01",
+      "podcast": "Don't Worry About the Vase Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/192878808/64508a36f277b8589d5fb8c7d7d75d46.mp3",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://api.substack.com/feed/podcast/192878808/64508a36f277b8589d5fb8c7d7d75d46.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/f6c380f4-ba14-9424-8414-68f151e9ede5/2026-04-01_Anthropic-Responsible-Scaling-Policy-v3-A-Matter-of-Trust.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Episode 107: Model Context Protocol in der Praxis",
+      "date": "2025-10-06",
+      "podcast": "Podcast SoftwareArchitekTOUR (iX/heise Developer)",
+      "audio_url": "https://audio.podigee-cdn.net/2144679-m-dfbf101bb64243fa0025a62c97dd76ce.mp3?source=feed",
+      "attempt_round": 2,
+      "error": "Submit failed: Access denied, please make sure your account is in good standing. For details, see: https://help.aliyun.com/zh/model-studio/error-code#overdue-payment",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://audio.podigee-cdn.net/2144679-m-dfbf101bb64243fa0025a62c97dd76ce.mp3?source=feed",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-17/4d6cb35c-9842-9f43-8697-027c7279dbb5/2025-10-06_Episode-107-Model-Context-Protocol-in-der-Praxis.mp3"
+      ]
+    }
+  ]
+}

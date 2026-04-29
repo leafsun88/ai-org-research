@@ -1,0 +1,16 @@
+{
+  "video_id": "cIgg3Xi2s_8",
+  "title": "Crafting Viral Videos with Midjourney & RunwayML! Kelly Boesch's AI Art Masterclass",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:05:21",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:05:21"
+}

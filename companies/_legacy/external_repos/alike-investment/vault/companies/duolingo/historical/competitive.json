@@ -1,0 +1,69 @@
+{
+  "entries": [
+    {
+      "id": "evt_20260301_052",
+      "timestamp": "2026-03-01",
+      "company": "Duolingo",
+      "content": "语言学习市场绝对领导者：占应用收入约67%，Babbel $270M遥远第二",
+      "detail": "语言学习App 2024年总收入$1.11B(+9.9% YoY)，Duolingo $748M占约67%。Babbel $270M为遥远的第二。Rosetta Stone从90年代CD时代的领导者已被超越。30+语言 vs Babbel~14语言 vs RS 25+语言。免费+游戏化 vs 语法导向$9/月 vs 沉浸式$12-20/月。",
+      "source": { "type": "research-report", "name": "Business of Apps", "url": "https://www.businessofapps.com/data/language-learning-app-market/", "date": "2026-03-01", "author": "" },
+      "credibility": "S5",
+      "dimensions": ["Fit"],
+      "tags": ["市场份额", "竞争格局", "绝对领导"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "evt_20260301_053",
+      "timestamp": "2026-03-01",
+      "company": "Duolingo",
+      "content": "护城河定性：行为锁定+数据飞轮+品牌资产，窄到中等经济护城河",
+      "detail": "护城河核心是行为而非学术：习惯养成、情感品牌亲和、UX打磨、全球App Store分发创造心理转换成本。1.16亿+ MAU每日完成5亿+练习构成世界最大语言学习数据集，数据优势随时间复合。Duo猫头鹰成为流行文化图标（TikTok 1670万粉丝）。但低转换成本限制了防御性，核心概念难以专利化。",
+      "source": { "type": "research-report", "name": "Substack (Sergey) / Nasdaq / Medium", "url": "https://www.nasdaq.com/articles/ai-and-data-driving-duols-scalable-growth-and-competitive-advantage", "date": "2026-03-01", "author": "" },
+      "credibility": "S2",
+      "dimensions": ["Fit"],
+      "tags": ["护城河", "行为锁定", "数据飞轮", "品牌"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "evt_20260301_054",
+      "timestamp": "2026-03-01",
+      "company": "Duolingo",
+      "content": "AI内容扩张的质量风险：用户报告GPT-4管道产出的幻觉、奇怪措辞和缺失区域语境",
+      "detail": "Duolingo用GPT-4管道替代翻译和文化专家后，体量一夜间扩展，但质量投诉也随之而来。用户报告幻觉、奇怪措辞和缺失区域语境。每次Video Call、Roleplay和辅导互动都触发昂贵的LLM API调用——收入上升但利润率下降。GenAI成本导致毛利率从73.0%降至71.1%。",
+      "source": { "type": "research-report", "name": "AI Adopters Club / Lorenzo's 2 Cents", "url": "https://aiadopters.club/p/duolingo-cut-the-humans-and-crossed", "date": "2026-03-01", "author": "" },
+      "credibility": "S2",
+      "dimensions": ["Fit"],
+      "tags": ["AI质量风险", "幻觉", "利润率压力"],
+      "sentiment": "negative",
+      "significance": "high"
+    },
+    {
+      "id": "evt_20260301_055",
+      "timestamp": "2026-03-01",
+      "company": "Duolingo",
+      "content": "定位重构：从教育公司到消费软件复合增长企业，竞争对手是休闲手游而非传统教育",
+      "detail": "应被视为消费软件复合增长企业而非传统教育公司，护城河是行为性而非学术性的。'在消费教育软件中，产品不是内容，产品是习惯。'BofA和Truist等投行将其定位为与休闲手游竞争的娱乐导向平台，扩展到$6万亿全球教育支出的邻接领域。73%毛利率+AI驱动内容创建使平台高效扩展。",
+      "source": { "type": "research-report", "name": "Alpha Talon / Substack / Monexa", "url": "https://alphatalon.substack.com/p/duolingo-inc-duol-the-misunderstood", "date": "2026-03-01", "author": "" },
+      "credibility": "S2",
+      "dimensions": ["Fit"],
+      "tags": ["定位重构", "消费软件", "行为护城河", "娱乐平台"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "evt_20260402_065",
+      "timestamp": "2026-04-02",
+      "company": "Duolingo",
+      "content": "分析师集体降级但估值已至极端水平：17位分析师从Buy转Hold，隐含上行仅+9.9%",
+      "detail": "2026年2月27日Q4财报后，大规模分析师降级潮：JP Morgan(Overweight→Neutral, $95), Citigroup(Buy→Neutral, $101), Scotiabank(Outperform→Perform, $100), Morgan Stanley(Overweight→Equal-Weight, $100), Evercore(Outperform→In-Line, $114)。仅Needham维持Buy($145)。DA Davidson维持Neutral但目标价从$170砍至$85。Argus从Buy降至Hold。隐含上行空间从+88%压缩至仅+9.9%。",
+      "source": { "type": "other", "name": "Yahoo Finance / 各投行报告", "url": "", "date": "2026-04-02", "author": "" },
+      "credibility": "S5",
+      "dimensions": ["Fit"],
+      "tags": ["分析师降级", "共识恶化", "情绪极端"],
+      "sentiment": "negative",
+      "significance": "high"
+    }
+  ]
+}

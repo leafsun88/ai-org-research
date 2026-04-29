@@ -1,0 +1,10 @@
+{
+  "name": "PayPal",
+  "ticker": "PYPL",
+  "exchange": "NASDAQ",
+  "market_cap": "$70B",
+  "sector": "支付",
+  "category": "Shopify类",
+  "note": "商家支付网关+BNPL",
+  "created": "2026-04-06"
+}

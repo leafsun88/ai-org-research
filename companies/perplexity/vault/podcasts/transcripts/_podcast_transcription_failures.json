@@ -1,0 +1,56 @@
+[
+  {
+    "status": "failed",
+    "title": "LIMITLESS: Aravind Srinivas: Perplexity CEO’s All-In Gamble to Take Down Google",
+    "date": "2025-08-19",
+    "podcast": "Bankless",
+    "audio_url": "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3",
+    "attempt_round": 2,
+    "error": "Subtask failed: FILE_403_FORBIDDEN",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "From PhD to CEO: Aravind Srinivas on Reinventing Search with Perplexity AI",
+    "date": "2025-10-21",
+    "podcast": "Dean’s Speaker Series",
+    "audio_url": "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3",
+    "attempt_round": 2,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://s396.podbean.com/pb/8f0aed88024d440ed4b540e4164ed40b/69e00931/data1/fs122/19541922/uploads/DSS_aravind.mp3?pbss=dc95e1b3-1afa-5452-9fd0-5e6d324924b9",
+      "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "Perplexity CEO on Chrome, AI and challenging the tech giants",
+    "date": "2025-08-22",
+    "podcast": "The Times Tech Podcast",
+    "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3",
+    "attempt_round": 2,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "Aravind Srinivas Has All The Answers",
+    "date": "2025-06-18",
+    "podcast": "Stanford GSB: View From The Top",
+    "audio_url": "https://tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/op3.dev/e/rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+    "attempt_round": 1,
+    "error": "Transcription polling timeout after 240s",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "https://tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/op3.dev/e/rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f"
+    ]
+  }
+]

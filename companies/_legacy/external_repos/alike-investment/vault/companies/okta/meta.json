@@ -1,0 +1,10 @@
+{
+  "name": "Okta",
+  "name_en": "Okta",
+  "tickers": ["OKTA"],
+  "sector": "Identity/IAM/Security",
+  "tags": ["identity", "IAM", "zero-trust", "SSO", "cloud-security", "AI-agents"],
+  "dimensions": ["discovery", "leadership", "org", "notes"],
+  "created": "2026-04-07",
+  "updated": "2026-04-07"
+}

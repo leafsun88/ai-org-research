@@ -1,0 +1,31 @@
+{
+  "team_name": "AI投研组",
+  "created": "2026-03-24",
+  "members": [
+    {
+      "id": "wang",
+      "name": "王冠杰",
+      "role": "lead",
+      "focus": ["组织穿透", "AdTech"],
+      "email": ""
+    }
+  ],
+  "onboarding": {
+    "steps": [
+      "git clone 仓库",
+      "bash scripts/setup.sh",
+      "在 .team/config.json 的 members 数组添加自己",
+      "在 .team/assignments.json 认领公司"
+    ]
+  },
+  "settings": {
+    "review_required": true,
+    "min_reviewers": 1,
+    "auto_assign_reviewer": true,
+    "branch_prefix": "draft/",
+    "vault_rules": {
+      "new_company": "先在_index.json注册 → 再/collect采集 → 最后PR合并",
+      "conflict_avoidance": "每人主要负责自己assignments中的公司，修改他人公司需PR审阅"
+    }
+  }
+}

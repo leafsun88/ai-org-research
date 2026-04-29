@@ -1,0 +1,15 @@
+{
+  "name": "Duolingo, Inc.",
+  "ticker": "DUOL",
+  "sector": "EdTech / Consumer Software",
+  "founded": "2011",
+  "hq": "Pittsburgh, PA, USA",
+  "ceo": "Luis von Ahn",
+  "employees": 900,
+  "market_cap": "~$4.5B",
+  "description": "全球最大语言学习平台，正从语言向通识教育平台转型，AI-first战略驱动内容产出10x提升",
+  "business_essence": "用游戏化+AI让学习成瘾，构建行为护城河，通过Freemium漏斗规模化变现",
+  "old_friends_mapping": {
+    "Netflix": "习惯养成×算法驱动×Freemium/订阅转化，从单品类向多品类扩张，内容生产AI化"
+  }
+}

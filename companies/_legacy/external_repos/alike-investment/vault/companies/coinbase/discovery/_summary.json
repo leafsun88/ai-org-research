@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-07",
+  "file_count": 38,
+  "total_size_kb": 492,
+  "last_updated": "1970-01-01",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":23,"latest":"2026-04-07_Where-Will-Coinbase-Stock-Be-In-5-Years.md"},"podcasts_transcripts":{"count":2,"latest":"coinbase_crushes_earnings_expectations.md"},"substack_analysis":{"count":1,"latest":"_url_index.json"},"social":{"count":1,"latest":"substack_analysis_2026-04-07.md"},"news_investigations":{"count":2,"latest":"extracted_from_citations.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 0,
+    "breakdown": {}
+  },
+  "key_files": {
+    "org_scan_report": false,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

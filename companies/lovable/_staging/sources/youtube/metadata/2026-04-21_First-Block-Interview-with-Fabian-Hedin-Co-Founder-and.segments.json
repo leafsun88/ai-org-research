@@ -1,0 +1,3490 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "D_kj_PvcpVw",
+  "url": "https://www.youtube.com/watch?v=D_kj_PvcpVw",
+  "title": "First Block: Interview with Fabian Hedin, Co-Founder and CTO of Lovable",
+  "channel": "Notion",
+  "source_queries": [
+    "Lovable interview",
+    "Lovable.dev interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:16:58",
+  "segments": [
+    {
+      "text": "It&#39;s actually a great time to create",
+      "duration": 4.56,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "startups and you know that&#39;s core of",
+      "duration": 5.28,
+      "offset": 2.24,
+      "lang": "en"
+    },
+    {
+      "text": "like our business idea as well that hey",
+      "duration": 4.16,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t actually need to know all of",
+      "duration": 3.2,
+      "offset": 7.52,
+      "lang": "en"
+    },
+    {
+      "text": "these like technical skills that could",
+      "duration": 4.08,
+      "offset": 8.88,
+      "lang": "en"
+    },
+    {
+      "text": "take you years to uh to acquire and",
+      "duration": 4.96,
+      "offset": 10.72,
+      "lang": "en"
+    },
+    {
+      "text": "learn but you could just kind of have",
+      "duration": 5.36,
+      "offset": 12.96,
+      "lang": "en"
+    },
+    {
+      "text": "this idea or or have this kind of",
+      "duration": 5.44,
+      "offset": 15.68,
+      "lang": "en"
+    },
+    {
+      "text": "unrelated skill set to software and and",
+      "duration": 5.52,
+      "offset": 18.32,
+      "lang": "en"
+    },
+    {
+      "text": "even do like a software startup.",
+      "duration": 5.36,
+      "offset": 21.12,
+      "lang": "en"
+    },
+    {
+      "text": "Welcome to First Block, a Notion series",
+      "duration": 4.56,
+      "offset": 23.84,
+      "lang": "en"
+    },
+    {
+      "text": "where founders from the world&#39;s leading",
+      "duration": 4.48,
+      "offset": 26.48,
+      "lang": "en"
+    },
+    {
+      "text": "companies tell us what it was like to",
+      "duration": 4.64,
+      "offset": 28.4,
+      "lang": "en"
+    },
+    {
+      "text": "navigate the many firsts of their",
+      "duration": 4.08,
+      "offset": 30.96,
+      "lang": "en"
+    },
+    {
+      "text": "journey and what they learned from that",
+      "duration": 4.32,
+      "offset": 33.04,
+      "lang": "en"
+    },
+    {
+      "text": "experience. Our guest today is Fabian",
+      "duration": 6.32,
+      "offset": 35.04,
+      "lang": "en"
+    },
+    {
+      "text": "Hadin, co-founder and CTO of Lovable.",
+      "duration": 6.48,
+      "offset": 37.36,
+      "lang": "en"
+    },
+    {
+      "text": "Welcome everyone to First Glock, where",
+      "duration": 6.4,
+      "offset": 41.36,
+      "lang": "en"
+    },
+    {
+      "text": "we explore and dig into breakout",
+      "duration": 6.16,
+      "offset": 43.84,
+      "lang": "en"
+    },
+    {
+      "text": "startups. And we have a doozy today. I",
+      "duration": 5.68,
+      "offset": 47.76,
+      "lang": "en"
+    },
+    {
+      "text": "might say we have a lovable doozy. Uh my",
+      "duration": 5.6,
+      "offset": 50.0,
+      "lang": "en"
+    },
+    {
+      "text": "name is Fuzzik Kad Shahi. I support the",
+      "duration": 6.16,
+      "offset": 53.44,
+      "lang": "en"
+    },
+    {
+      "text": "engineering team at Notion as their CTO",
+      "duration": 6.72,
+      "offset": 55.6,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m really excited to be hosting and",
+      "duration": 4.8,
+      "offset": 59.6,
+      "lang": "en"
+    },
+    {
+      "text": "talking with Fabian Hadin. Did I say",
+      "duration": 2.72,
+      "offset": 62.32,
+      "lang": "en"
+    },
+    {
+      "text": "that right?",
+      "duration": 1.36,
+      "offset": 64.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s right.",
+      "duration": 2.4,
+      "offset": 65.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Excellent. I won&#39;t make you say my last",
+      "duration": 5.44,
+      "offset": 65.76,
+      "lang": "en"
+    },
+    {
+      "text": "name. It&#39;ll take forever. Um I I first",
+      "duration": 5.44,
+      "offset": 67.44,
+      "lang": "en"
+    },
+    {
+      "text": "of all I want to welcome you and also",
+      "duration": 4.16,
+      "offset": 71.2,
+      "lang": "en"
+    },
+    {
+      "text": "congratulate you on going from 1 million",
+      "duration": 5.52,
+      "offset": 72.88,
+      "lang": "en"
+    },
+    {
+      "text": "to 100 million in like eight months. Uh,",
+      "duration": 5.84,
+      "offset": 75.36,
+      "lang": "en"
+    },
+    {
+      "text": "I had a similar experience about 20",
+      "duration": 5.36,
+      "offset": 78.4,
+      "lang": "en"
+    },
+    {
+      "text": "years ago where I went from one to 100,",
+      "duration": 7.68,
+      "offset": 81.2,
+      "lang": "en"
+    },
+    {
+      "text": "but it was 1,000 in revenue to 100,000",
+      "duration": 7.68,
+      "offset": 83.76,
+      "lang": "en"
+    },
+    {
+      "text": "revenue and I was thrilled. So, I can&#39;t",
+      "duration": 5.04,
+      "offset": 88.88,
+      "lang": "en"
+    },
+    {
+      "text": "imagine how, you know, it&#39;s just",
+      "duration": 5.04,
+      "offset": 91.44,
+      "lang": "en"
+    },
+    {
+      "text": "mindboggling going from 1 million to",
+      "duration": 4.32,
+      "offset": 93.92,
+      "lang": "en"
+    },
+    {
+      "text": "100. [music] So, congratulations on",
+      "duration": 4.76,
+      "offset": 96.48,
+      "lang": "en"
+    },
+    {
+      "text": "that.",
+      "duration": 3.0,
+      "offset": 98.24,
+      "lang": "en"
+    },
+    {
+      "text": "I was wondering if you could take a step",
+      "duration": 5.36,
+      "offset": 103.2,
+      "lang": "en"
+    },
+    {
+      "text": "back and before the hundred million,",
+      "duration": 5.12,
+      "offset": 105.2,
+      "lang": "en"
+    },
+    {
+      "text": "before the million, before you became",
+      "duration": 5.84,
+      "offset": 108.56,
+      "lang": "en"
+    },
+    {
+      "text": "lovable, um you I know that you coded",
+      "duration": 6.08,
+      "offset": 110.32,
+      "lang": "en"
+    },
+    {
+      "text": "when you were in uh high school. I think",
+      "duration": 3.68,
+      "offset": 114.4,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s when you started, you had",
+      "duration": 4.4,
+      "offset": 116.4,
+      "lang": "en"
+    },
+    {
+      "text": "multiple startups before that. Was it a",
+      "duration": 4.88,
+      "offset": 118.08,
+      "lang": "en"
+    },
+    {
+      "text": "straight path and sort of like success",
+      "duration": 5.04,
+      "offset": 120.8,
+      "lang": "en"
+    },
+    {
+      "text": "after success or was it like, you know,",
+      "duration": 4.4,
+      "offset": 122.96,
+      "lang": "en"
+    },
+    {
+      "text": "what what was the journey like? What",
+      "duration": 3.2,
+      "offset": 125.84,
+      "lang": "en"
+    },
+    {
+      "text": "were the events to leading up to meeting",
+      "duration": 3.44,
+      "offset": 127.36,
+      "lang": "en"
+    },
+    {
+      "text": "with Anton and starting lovable?",
+      "duration": 3.44,
+      "offset": 129.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I started coding a bit before high",
+      "duration": 4.64,
+      "offset": 130.8,
+      "lang": "en"
+    },
+    {
+      "text": "school I guess. Um it was Minecraft",
+      "duration": 5.2,
+      "offset": 132.48,
+      "lang": "en"
+    },
+    {
+      "text": "pulling me into it in in the beginning.",
+      "duration": 4.0,
+      "offset": 135.44,
+      "lang": "en"
+    },
+    {
+      "text": "Uh so I was running this server and you",
+      "duration": 2.96,
+      "offset": 137.68,
+      "lang": "en"
+    },
+    {
+      "text": "know you want to model it, you want to",
+      "duration": 3.04,
+      "offset": 139.44,
+      "lang": "en"
+    },
+    {
+      "text": "change the experience and then you have",
+      "duration": 3.44,
+      "offset": 140.64,
+      "lang": "en"
+    },
+    {
+      "text": "to create a website for it and you have",
+      "duration": 3.76,
+      "offset": 142.48,
+      "lang": "en"
+    },
+    {
+      "text": "to figure out what is HTML, CSS and",
+      "duration": 4.72,
+      "offset": 144.08,
+      "lang": "en"
+    },
+    {
+      "text": "JavaScript and uh you get into",
+      "duration": 5.52,
+      "offset": 146.24,
+      "lang": "en"
+    },
+    {
+      "text": "programming that way at least for me. Um",
+      "duration": 5.04,
+      "offset": 148.8,
+      "lang": "en"
+    },
+    {
+      "text": "and after that in high school I started",
+      "duration": 5.36,
+      "offset": 151.76,
+      "lang": "en"
+    },
+    {
+      "text": "building um more kind of games uh on my",
+      "duration": 6.0,
+      "offset": 153.84,
+      "lang": "en"
+    },
+    {
+      "text": "own and that quite quickly turned into",
+      "duration": 4.48,
+      "offset": 157.12,
+      "lang": "en"
+    },
+    {
+      "text": "you know someone hearing like oh this",
+      "duration": 4.4,
+      "offset": 159.84,
+      "lang": "en"
+    },
+    {
+      "text": "guy programs um I have this thing I want",
+      "duration": 4.72,
+      "offset": 161.6,
+      "lang": "en"
+    },
+    {
+      "text": "to build let me let me ask him. So I I",
+      "duration": 4.24,
+      "offset": 164.24,
+      "lang": "en"
+    },
+    {
+      "text": "started building actual like business",
+      "duration": 4.4,
+      "offset": 166.32,
+      "lang": "en"
+    },
+    {
+      "text": "applications quite quite early in in",
+      "duration": 4.72,
+      "offset": 168.48,
+      "lang": "en"
+    },
+    {
+      "text": "high school and uh that was more my",
+      "duration": 4.48,
+      "offset": 170.72,
+      "lang": "en"
+    },
+    {
+      "text": "introduction to starting to build uh",
+      "duration": 5.2,
+      "offset": 173.2,
+      "lang": "en"
+    },
+    {
+      "text": "like SAS products. Um, so I did that a",
+      "duration": 5.52,
+      "offset": 175.2,
+      "lang": "en"
+    },
+    {
+      "text": "few times and then after a while I was",
+      "duration": 5.04,
+      "offset": 178.4,
+      "lang": "en"
+    },
+    {
+      "text": "like this is a bit boring doing this for",
+      "duration": 4.24,
+      "offset": 180.72,
+      "lang": "en"
+    },
+    {
+      "text": "like other people and their ideas and",
+      "duration": 4.16,
+      "offset": 183.44,
+      "lang": "en"
+    },
+    {
+      "text": "and so on and I wanted to do something",
+      "duration": 6.0,
+      "offset": 184.96,
+      "lang": "en"
+    },
+    {
+      "text": "uh that um I would be like a longerterm",
+      "duration": 6.96,
+      "offset": 187.6,
+      "lang": "en"
+    },
+    {
+      "text": "stakeholder in and really do something",
+      "duration": 8.08,
+      "offset": 190.96,
+      "lang": "en"
+    },
+    {
+      "text": "myself. So I teamed up with um one of my",
+      "duration": 7.52,
+      "offset": 194.56,
+      "lang": "en"
+    },
+    {
+      "text": "my friends and and classmates and we um",
+      "duration": 5.76,
+      "offset": 199.04,
+      "lang": "en"
+    },
+    {
+      "text": "right after high school on the summer we",
+      "duration": 5.6,
+      "offset": 202.08,
+      "lang": "en"
+    },
+    {
+      "text": "uh started this kind of SAS real estate",
+      "duration": 7.52,
+      "offset": 204.8,
+      "lang": "en"
+    },
+    {
+      "text": "startup and uh um yeah so that&#39;s the I I",
+      "duration": 6.64,
+      "offset": 207.68,
+      "lang": "en"
+    },
+    {
+      "text": "guess my my first startup uh other than",
+      "duration": 4.8,
+      "offset": 212.32,
+      "lang": "en"
+    },
+    {
+      "text": "the Minecraft server. Um after high",
+      "duration": 5.68,
+      "offset": 214.32,
+      "lang": "en"
+    },
+    {
+      "text": "school I went to um I moved to Stockholm",
+      "duration": 5.68,
+      "offset": 217.12,
+      "lang": "en"
+    },
+    {
+      "text": "the the biggest city the capital of of",
+      "duration": 5.52,
+      "offset": 220.0,
+      "lang": "en"
+    },
+    {
+      "text": "Sweden and I went to the Royal Institute",
+      "duration": 6.32,
+      "offset": 222.8,
+      "lang": "en"
+    },
+    {
+      "text": "of Technology um and there I started",
+      "duration": 7.2,
+      "offset": 225.52,
+      "lang": "en"
+    },
+    {
+      "text": "meeting more like-minded people and um",
+      "duration": 5.28,
+      "offset": 229.12,
+      "lang": "en"
+    },
+    {
+      "text": "one of those people actually introduced",
+      "duration": 4.56,
+      "offset": 232.72,
+      "lang": "en"
+    },
+    {
+      "text": "me to to Anton",
+      "duration": 6.66,
+      "offset": 234.4,
+      "lang": "en"
+    },
+    {
+      "text": "and um I had recently exited my my real",
+      "duration": 5.04,
+      "offset": 237.28,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat] estate startup at that",
+      "duration": 3.66,
+      "offset": 241.06,
+      "lang": "en"
+    },
+    {
+      "text": "point and uh it wasn&#39;t like this super",
+      "duration": 5.12,
+      "offset": 242.32,
+      "lang": "en"
+    },
+    {
+      "text": "big exit But it was enough for me to not",
+      "duration": 4.88,
+      "offset": 244.72,
+      "lang": "en"
+    },
+    {
+      "text": "be super worried about like, oh, I gotta",
+      "duration": 6.16,
+      "offset": 247.44,
+      "lang": "en"
+    },
+    {
+      "text": "find a new job or whatever. And so I",
+      "duration": 5.6,
+      "offset": 249.6,
+      "lang": "en"
+    },
+    {
+      "text": "wasn&#39;t really looking for anything, but",
+      "duration": 3.28,
+      "offset": 253.6,
+      "lang": "en"
+    },
+    {
+      "text": "you know, it&#39;s always nice talking with",
+      "duration": 4.24,
+      "offset": 255.2,
+      "lang": "en"
+    },
+    {
+      "text": "with people in the space. So I met with",
+      "duration": 7.44,
+      "offset": 256.88,
+      "lang": "en"
+    },
+    {
+      "text": "Anon and his then co-founder and um I",
+      "duration": 7.68,
+      "offset": 259.44,
+      "lang": "en"
+    },
+    {
+      "text": "ended up joining their startup which was",
+      "duration": 4.88,
+      "offset": 264.32,
+      "lang": "en"
+    },
+    {
+      "text": "uh this YC startup called the Pix that",
+      "duration": 4.56,
+      "offset": 267.12,
+      "lang": "en"
+    },
+    {
+      "text": "was based out in Stockholm. Uh so Anton",
+      "duration": 4.96,
+      "offset": 269.2,
+      "lang": "en"
+    },
+    {
+      "text": "was my my boss. He was the CTO of that",
+      "duration": 4.64,
+      "offset": 271.68,
+      "lang": "en"
+    },
+    {
+      "text": "startup. uh and I was there for 10",
+      "duration": 4.08,
+      "offset": 274.16,
+      "lang": "en"
+    },
+    {
+      "text": "months and I&#39;m proud to say that&#39;s my",
+      "duration": 7.04,
+      "offset": 276.32,
+      "lang": "en"
+    },
+    {
+      "text": "longest employment uh to date. Um and um",
+      "duration": 7.68,
+      "offset": 278.24,
+      "lang": "en"
+    },
+    {
+      "text": "after 10 months I I choose to quit um",
+      "duration": 4.48,
+      "offset": 283.36,
+      "lang": "en"
+    },
+    {
+      "text": "because I I wanted to do my own thing",
+      "duration": 4.88,
+      "offset": 285.92,
+      "lang": "en"
+    },
+    {
+      "text": "again. But then one day um Anton called",
+      "duration": 5.28,
+      "offset": 287.84,
+      "lang": "en"
+    },
+    {
+      "text": "me up. I think it was a Saturday morning",
+      "duration": 4.8,
+      "offset": 290.8,
+      "lang": "en"
+    },
+    {
+      "text": "and he was calling me waking me up and",
+      "duration": 4.48,
+      "offset": 293.12,
+      "lang": "en"
+    },
+    {
+      "text": "like oh hey do you want to go take a",
+      "duration": 3.92,
+      "offset": 295.6,
+      "lang": "en"
+    },
+    {
+      "text": "walk together? And I was like no not",
+      "duration": 3.6,
+      "offset": 297.6,
+      "lang": "en"
+    },
+    {
+      "text": "really. [laughter]",
+      "duration": 4.8,
+      "offset": 299.52,
+      "lang": "en"
+    },
+    {
+      "text": "Um but uh he&#39;s like oh I&#39;m outside like",
+      "duration": 4.88,
+      "offset": 301.2,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s let&#39;s go for a walk and he asked",
+      "duration": 4.0,
+      "offset": 304.32,
+      "lang": "en"
+    },
+    {
+      "text": "me do you know what GP engineer is so",
+      "duration": 5.76,
+      "offset": 306.08,
+      "lang": "en"
+    },
+    {
+      "text": "this was the summer of 2023 uh and Anton",
+      "duration": 5.92,
+      "offset": 308.32,
+      "lang": "en"
+    },
+    {
+      "text": "as a side project had created this kind",
+      "duration": 5.44,
+      "offset": 311.84,
+      "lang": "en"
+    },
+    {
+      "text": "of CLI for creating software I didn&#39;t",
+      "duration": 4.64,
+      "offset": 314.24,
+      "lang": "en"
+    },
+    {
+      "text": "know what it was [laughter] I was like",
+      "duration": 4.4,
+      "offset": 317.28,
+      "lang": "en"
+    },
+    {
+      "text": "should I was a few days old at that",
+      "duration": 5.44,
+      "offset": 318.88,
+      "lang": "en"
+    },
+    {
+      "text": "point so um I don&#39;t feel too bad for not",
+      "duration": 5.6,
+      "offset": 321.68,
+      "lang": "en"
+    },
+    {
+      "text": "knowing it but we got to talking about",
+      "duration": 5.84,
+      "offset": 324.32,
+      "lang": "en"
+    },
+    {
+      "text": "um um kind of um you know what what this",
+      "duration": 5.76,
+      "offset": 327.28,
+      "lang": "en"
+    },
+    {
+      "text": "thing could uh could become and um you",
+      "duration": 5.52,
+      "offset": 330.16,
+      "lang": "en"
+    },
+    {
+      "text": "know can we build a company around this",
+      "duration": 5.68,
+      "offset": 333.04,
+      "lang": "en"
+    },
+    {
+      "text": "essentially and uh um you know it was",
+      "duration": 5.28,
+      "offset": 335.68,
+      "lang": "en"
+    },
+    {
+      "text": "very clear to me and this is something",
+      "duration": 3.76,
+      "offset": 338.72,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been thinking about for a while as",
+      "duration": 3.68,
+      "offset": 340.96,
+      "lang": "en"
+    },
+    {
+      "text": "well of like oh hey what what can you do",
+      "duration": 6.08,
+      "offset": 342.48,
+      "lang": "en"
+    },
+    {
+      "text": "with AI so this was like D34",
+      "duration": 7.28,
+      "offset": 344.64,
+      "lang": "en"
+    },
+    {
+      "text": "territory and uh it was very clear that",
+      "duration": 5.12,
+      "offset": 348.56,
+      "lang": "en"
+    },
+    {
+      "text": "like okay there&#39;s something that&#39;s going",
+      "duration": 2.72,
+      "offset": 351.92,
+      "lang": "en"
+    },
+    {
+      "text": "to happen here",
+      "duration": 2.48,
+      "offset": 353.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; was it just the two of you at the time",
+      "duration": 2.0,
+      "offset": 354.64,
+      "lang": "en"
+    },
+    {
+      "text": "or",
+      "duration": 3.96,
+      "offset": 356.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; yeah No.",
+      "duration": 3.48,
+      "offset": 356.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Transitioning from that to where you are",
+      "duration": 4.32,
+      "offset": 361.68,
+      "lang": "en"
+    },
+    {
+      "text": "now, at what point did you know that it",
+      "duration": 4.16,
+      "offset": 363.52,
+      "lang": "en"
+    },
+    {
+      "text": "it seems like you knew pretty early on",
+      "duration": 3.44,
+      "offset": 366.0,
+      "lang": "en"
+    },
+    {
+      "text": "that this is more than a project, but at",
+      "duration": 3.28,
+      "offset": 367.68,
+      "lang": "en"
+    },
+    {
+      "text": "what point were you like, &quot;Okay, this is",
+      "duration": 3.28,
+      "offset": 369.44,
+      "lang": "en"
+    },
+    {
+      "text": "for real.&quot;",
+      "duration": 4.48,
+      "offset": 370.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um, so it was always real to me in my my",
+      "duration": 5.6,
+      "offset": 372.72,
+      "lang": "en"
+    },
+    {
+      "text": "head, right? I I think I knew from the",
+      "duration": 6.08,
+      "offset": 375.44,
+      "lang": "en"
+    },
+    {
+      "text": "beginning that um like this thing can",
+      "duration": 5.92,
+      "offset": 378.32,
+      "lang": "en"
+    },
+    {
+      "text": "really become something or it is going",
+      "duration": 5.28,
+      "offset": 381.52,
+      "lang": "en"
+    },
+    {
+      "text": "to become a big thing. And um for a",
+      "duration": 4.96,
+      "offset": 384.24,
+      "lang": "en"
+    },
+    {
+      "text": "while for us it was a lot about kind of",
+      "duration": 5.36,
+      "offset": 386.8,
+      "lang": "en"
+    },
+    {
+      "text": "finding um um finding the way to to",
+      "duration": 4.8,
+      "offset": 389.2,
+      "lang": "en"
+    },
+    {
+      "text": "approach it. So I think a lot of people",
+      "duration": 4.88,
+      "offset": 392.16,
+      "lang": "en"
+    },
+    {
+      "text": "back then uh for example cursor they you",
+      "duration": 5.92,
+      "offset": 394.0,
+      "lang": "en"
+    },
+    {
+      "text": "know you apply it to a GitHub copilot as",
+      "duration": 4.64,
+      "offset": 397.04,
+      "lang": "en"
+    },
+    {
+      "text": "well right you apply to improved",
+      "duration": 3.6,
+      "offset": 399.92,
+      "lang": "en"
+    },
+    {
+      "text": "developers which is like this very",
+      "duration": 5.44,
+      "offset": 401.68,
+      "lang": "en"
+    },
+    {
+      "text": "iterative very logical thing to do um",
+      "duration": 6.08,
+      "offset": 403.52,
+      "lang": "en"
+    },
+    {
+      "text": "and I was never really that interested",
+      "duration": 5.36,
+      "offset": 407.12,
+      "lang": "en"
+    },
+    {
+      "text": "in in in doing that and I more wanted to",
+      "duration": 6.64,
+      "offset": 409.6,
+      "lang": "en"
+    },
+    {
+      "text": "um you know enable people to go 0 to one",
+      "duration": 6.48,
+      "offset": 412.48,
+      "lang": "en"
+    },
+    {
+      "text": "as fully nontechnical and I would say",
+      "duration": 5.36,
+      "offset": 416.24,
+      "lang": "en"
+    },
+    {
+      "text": "that that&#39;s the harder problem",
+      "duration": 5.6,
+      "offset": 418.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; and we were a bit early on that. Um so I",
+      "duration": 4.48,
+      "offset": 421.6,
+      "lang": "en"
+    },
+    {
+      "text": "think we we had some doubt like they&#39;re",
+      "duration": 4.32,
+      "offset": 424.56,
+      "lang": "en"
+    },
+    {
+      "text": "in the early days um of will this",
+      "duration": 4.8,
+      "offset": 426.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually work? Is the foundational",
+      "duration": 4.08,
+      "offset": 428.88,
+      "lang": "en"
+    },
+    {
+      "text": "models good enough for this use case?",
+      "duration": 4.24,
+      "offset": 430.88,
+      "lang": "en"
+    },
+    {
+      "text": "And they weren&#39;t really uh but you could",
+      "duration": 5.6,
+      "offset": 432.96,
+      "lang": "en"
+    },
+    {
+      "text": "do basic prototypes. Um and then I think",
+      "duration": 6.32,
+      "offset": 435.12,
+      "lang": "en"
+    },
+    {
+      "text": "in in November now just about over eight",
+      "duration": 6.32,
+      "offset": 438.56,
+      "lang": "en"
+    },
+    {
+      "text": "months ago, right, is when we",
+      "duration": 6.08,
+      "offset": 441.44,
+      "lang": "en"
+    },
+    {
+      "text": "launched Lovable and that&#39;s when things",
+      "duration": 4.56,
+      "offset": 444.88,
+      "lang": "en"
+    },
+    {
+      "text": "really started to to take off. So then",
+      "duration": 4.88,
+      "offset": 447.52,
+      "lang": "en"
+    },
+    {
+      "text": "it became real not just in my head.",
+      "duration": 4.8,
+      "offset": 449.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Was that when you actually changed the",
+      "duration": 4.8,
+      "offset": 452.4,
+      "lang": "en"
+    },
+    {
+      "text": "name to lovable from GPT engineering",
+      "duration": 4.24,
+      "offset": 454.24,
+      "lang": "en"
+    },
+    {
+      "text": "engineer which",
+      "duration": 3.52,
+      "offset": 457.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; uh is quite catchy I must say but",
+      "duration": 4.32,
+      "offset": 458.48,
+      "lang": "en"
+    },
+    {
+      "text": "lovable sounds about how did you how did",
+      "duration": 4.16,
+      "offset": 460.72,
+      "lang": "en"
+    },
+    {
+      "text": "you end up on lovable as the name",
+      "duration": 3.68,
+      "offset": 462.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; actually changing the name was a big",
+      "duration": 3.52,
+      "offset": 464.88,
+      "lang": "en"
+    },
+    {
+      "text": "internal debate I could imagine.",
+      "duration": 4.88,
+      "offset": 466.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah and I was actually a proponent for",
+      "duration": 5.76,
+      "offset": 468.4,
+      "lang": "en"
+    },
+    {
+      "text": "keeping Duty engineer for a long time. I",
+      "duration": 4.4,
+      "offset": 471.36,
+      "lang": "en"
+    },
+    {
+      "text": "liked it and you kind of get attached to",
+      "duration": 4.32,
+      "offset": 474.16,
+      "lang": "en"
+    },
+    {
+      "text": "names but the company name was actually",
+      "duration": 4.0,
+      "offset": 475.76,
+      "lang": "en"
+    },
+    {
+      "text": "lovable since it&#39;s",
+      "duration": 3.76,
+      "offset": 478.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Oh, I see. So company name was Lovable.",
+      "duration": 4.16,
+      "offset": 479.76,
+      "lang": "en"
+    },
+    {
+      "text": "So it just took on the name.",
+      "duration": 4.48,
+      "offset": 482.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So we we had this idea of like um",
+      "duration": 5.44,
+      "offset": 483.92,
+      "lang": "en"
+    },
+    {
+      "text": "first off I think level is just like a a",
+      "duration": 5.28,
+      "offset": 486.72,
+      "lang": "en"
+    },
+    {
+      "text": "nice name but it it also like comes with",
+      "duration": 6.64,
+      "offset": 489.36,
+      "lang": "en"
+    },
+    {
+      "text": "this idea of that um you know before in",
+      "duration": 5.76,
+      "offset": 492.0,
+      "lang": "en"
+    },
+    {
+      "text": "in kind of how you&#39;re building software",
+      "duration": 4.8,
+      "offset": 496.0,
+      "lang": "en"
+    },
+    {
+      "text": "you you do some designs maybe low",
+      "duration": 6.08,
+      "offset": 497.76,
+      "lang": "en"
+    },
+    {
+      "text": "fidelity then higher fidelity and uh you",
+      "duration": 6.96,
+      "offset": 500.8,
+      "lang": "en"
+    },
+    {
+      "text": "build this MVP minimum viable product um",
+      "duration": 5.84,
+      "offset": 503.84,
+      "lang": "en"
+    },
+    {
+      "text": "and uh then you you know you build you",
+      "duration": 3.12,
+      "offset": 507.76,
+      "lang": "en"
+    },
+    {
+      "text": "throw that away and you build the real",
+      "duration": 2.8,
+      "offset": 509.68,
+      "lang": "en"
+    },
+    {
+      "text": "thing and we were thinking like all",
+      "duration": 3.52,
+      "offset": 510.88,
+      "lang": "en"
+    },
+    {
+      "text": "right you apply AI to is now you can",
+      "duration": 3.84,
+      "offset": 512.48,
+      "lang": "en"
+    },
+    {
+      "text": "just build the real thing and we can",
+      "duration": 4.08,
+      "offset": 514.4,
+      "lang": "en"
+    },
+    {
+      "text": "call that the minimum lovable product.",
+      "duration": 2.64,
+      "offset": 516.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 4.12,
+      "offset": 518.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And therefore lovable.",
+      "duration": 3.64,
+      "offset": 518.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Anything you in the early days you feel",
+      "duration": 4.0,
+      "offset": 524.64,
+      "lang": "en"
+    },
+    {
+      "text": "like you should have done different like",
+      "duration": 4.08,
+      "offset": 526.8,
+      "lang": "en"
+    },
+    {
+      "text": "any learnings for founders who are",
+      "duration": 4.24,
+      "offset": 528.64,
+      "lang": "en"
+    },
+    {
+      "text": "listening uh that you think you could",
+      "duration": 3.52,
+      "offset": 530.88,
+      "lang": "en"
+    },
+    {
+      "text": "have done differently that would have",
+      "duration": 2.48,
+      "offset": 532.88,
+      "lang": "en"
+    },
+    {
+      "text": "set you up better.",
+      "duration": 2.72,
+      "offset": 534.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; One thing would actually be launching",
+      "duration": 5.92,
+      "offset": 535.36,
+      "lang": "en"
+    },
+    {
+      "text": "earlier. Um, so we were very early in",
+      "duration": 5.84,
+      "offset": 537.12,
+      "lang": "en"
+    },
+    {
+      "text": "the space and I think maybe you know",
+      "duration": 3.36,
+      "offset": 541.28,
+      "lang": "en"
+    },
+    {
+      "text": "maybe the first I I at least didn&#39;t know",
+      "duration": 4.08,
+      "offset": 542.96,
+      "lang": "en"
+    },
+    {
+      "text": "of any other people kind of building",
+      "duration": 4.24,
+      "offset": 544.64,
+      "lang": "en"
+    },
+    {
+      "text": "this type of chat and and preview",
+      "duration": 5.92,
+      "offset": 547.04,
+      "lang": "en"
+    },
+    {
+      "text": "interface uh um before before we did it.",
+      "duration": 7.12,
+      "offset": 548.88,
+      "lang": "en"
+    },
+    {
+      "text": "Um but we weren&#39;t the first to go like",
+      "duration": 7.12,
+      "offset": 552.96,
+      "lang": "en"
+    },
+    {
+      "text": "and do a general launch of it. And um I",
+      "duration": 6.64,
+      "offset": 556.0,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s that was a mistake in in",
+      "duration": 4.24,
+      "offset": 560.08,
+      "lang": "en"
+    },
+    {
+      "text": "hindsight. We were basically behind a",
+      "duration": 3.68,
+      "offset": 562.64,
+      "lang": "en"
+    },
+    {
+      "text": "wait list for for too long. I do",
+      "duration": 4.56,
+      "offset": 564.32,
+      "lang": "en"
+    },
+    {
+      "text": "remember Ivan and Simon uh founders of",
+      "duration": 5.52,
+      "offset": 566.32,
+      "lang": "en"
+    },
+    {
+      "text": "Notion uh basically a year ago saying to",
+      "duration": 4.56,
+      "offset": 568.88,
+      "lang": "en"
+    },
+    {
+      "text": "me, &quot;You got to check out Lovable and",
+      "duration": 2.96,
+      "offset": 571.84,
+      "lang": "en"
+    },
+    {
+      "text": "like going on there and checking it",
+      "duration": 3.84,
+      "offset": 573.44,
+      "lang": "en"
+    },
+    {
+      "text": "out.&quot; So like whatever you did actually",
+      "duration": 4.48,
+      "offset": 574.8,
+      "lang": "en"
+    },
+    {
+      "text": "worked and people took notice for sure.",
+      "duration": 5.0,
+      "offset": 577.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 3.0,
+      "offset": 579.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Uh I&#39;m curious as you started scaling",
+      "duration": 6.16,
+      "offset": 583.52,
+      "lang": "en"
+    },
+    {
+      "text": "and obviously you know from 1 million to",
+      "duration": 5.84,
+      "offset": 586.56,
+      "lang": "en"
+    },
+    {
+      "text": "100 million it takes a different type of",
+      "duration": 4.16,
+      "offset": 589.68,
+      "lang": "en"
+    },
+    {
+      "text": "leadership. You mentioned how you&#39;re",
+      "duration": 3.2,
+      "offset": 592.4,
+      "lang": "en"
+    },
+    {
+      "text": "here for a long time. Y",
+      "duration": 4.0,
+      "offset": 593.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; uh all of a sudden you have to hire",
+      "duration": 4.72,
+      "offset": 595.6,
+      "lang": "en"
+    },
+    {
+      "text": "chiefs of this, chiefs of that. Like how",
+      "duration": 4.96,
+      "offset": 597.84,
+      "lang": "en"
+    },
+    {
+      "text": "do you actually stay hands-on? Uh you",
+      "duration": 3.92,
+      "offset": 600.32,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned you wake up 4 in the morning",
+      "duration": 3.04,
+      "offset": 602.8,
+      "lang": "en"
+    },
+    {
+      "text": "while you&#39;re out here. Tell me more",
+      "duration": 4.24,
+      "offset": 604.24,
+      "lang": "en"
+    },
+    {
+      "text": "about how you run the business and how",
+      "duration": 5.36,
+      "offset": 605.84,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re able to like uh on a day-to-day",
+      "duration": 4.32,
+      "offset": 608.48,
+      "lang": "en"
+    },
+    {
+      "text": "basis. How are you able to run the",
+      "duration": 3.6,
+      "offset": 611.2,
+      "lang": "en"
+    },
+    {
+      "text": "business? How do you not become a",
+      "duration": 3.84,
+      "offset": 612.8,
+      "lang": "en"
+    },
+    {
+      "text": "meeting CTO, if you will?",
+      "duration": 4.4,
+      "offset": 614.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Um first of I try to say no to all",
+      "duration": 3.68,
+      "offset": 616.64,
+      "lang": "en"
+    },
+    {
+      "text": "meetings and then people have to",
+      "duration": 2.4,
+      "offset": 619.2,
+      "lang": "en"
+    },
+    {
+      "text": "convince me to actually join the",
+      "duration": 3.6,
+      "offset": 620.32,
+      "lang": "en"
+    },
+    {
+      "text": "meeting. So that&#39;s that&#39;s a great way.",
+      "duration": 3.92,
+      "offset": 621.6,
+      "lang": "en"
+    },
+    {
+      "text": "Let me take a note for them. I don&#39;t do",
+      "duration": 2.48,
+      "offset": 623.92,
+      "lang": "en"
+    },
+    {
+      "text": "that here.",
+      "duration": 2.48,
+      "offset": 625.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And also when you actually do meeting,",
+      "duration": 4.08,
+      "offset": 626.4,
+      "lang": "en"
+    },
+    {
+      "text": "try to keep them very short. I&#39;ve heard",
+      "duration": 5.52,
+      "offset": 628.0,
+      "lang": "en"
+    },
+    {
+      "text": "Ivan is a big backer of that.",
+      "duration": 5.52,
+      "offset": 630.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Ivan, I can&#39;t sit down for with him for",
+      "duration": 4.64,
+      "offset": 633.52,
+      "lang": "en"
+    },
+    {
+      "text": "dinner more than half an hour. He he he",
+      "duration": 4.24,
+      "offset": 636.0,
+      "lang": "en"
+    },
+    {
+      "text": "wants to eat. I love [laughter]",
+      "duration": 4.8,
+      "offset": 638.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; um Yeah. So I mean for me I I love",
+      "duration": 4.96,
+      "offset": 640.24,
+      "lang": "en"
+    },
+    {
+      "text": "building product and you know I think",
+      "duration": 5.6,
+      "offset": 642.96,
+      "lang": "en"
+    },
+    {
+      "text": "even this might be a thing for I think a",
+      "duration": 5.44,
+      "offset": 645.2,
+      "lang": "en"
+    },
+    {
+      "text": "lot of kind of technical founders that",
+      "duration": 4.0,
+      "offset": 648.56,
+      "lang": "en"
+    },
+    {
+      "text": "you start very close to the product and",
+      "duration": 4.32,
+      "offset": 650.64,
+      "lang": "en"
+    },
+    {
+      "text": "the engineering and then you have to um",
+      "duration": 5.52,
+      "offset": 652.56,
+      "lang": "en"
+    },
+    {
+      "text": "kind of step back a bit at least from um",
+      "duration": 6.96,
+      "offset": 654.96,
+      "lang": "en"
+    },
+    {
+      "text": "the very um like ground level things um",
+      "duration": 5.68,
+      "offset": 658.08,
+      "lang": "en"
+    },
+    {
+      "text": "and that has definitely been a bit of a",
+      "duration": 4.24,
+      "offset": 661.92,
+      "lang": "en"
+    },
+    {
+      "text": "transition but I&#39;m I&#39;m still very much",
+      "duration": 5.52,
+      "offset": 663.76,
+      "lang": "en"
+    },
+    {
+      "text": "involved with the day-to-day on uh you",
+      "duration": 5.2,
+      "offset": 666.16,
+      "lang": "en"
+    },
+    {
+      "text": "know both high and low",
+      "duration": 4.48,
+      "offset": 669.28,
+      "lang": "en"
+    },
+    {
+      "text": "But it&#39;s you got to choose a bit more",
+      "duration": 4.0,
+      "offset": 671.36,
+      "lang": "en"
+    },
+    {
+      "text": "where where to spend the time.",
+      "duration": 3.28,
+      "offset": 673.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And I&#39;m curious, how do you divide your",
+      "duration": 4.64,
+      "offset": 675.36,
+      "lang": "en"
+    },
+    {
+      "text": "time between you and Anton? He you",
+      "duration": 4.56,
+      "offset": 677.04,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned how he was a CTO of his",
+      "duration": 2.52,
+      "offset": 680.0,
+      "lang": "en"
+    },
+    {
+      "text": "company as well. Obviously,",
+      "duration": 2.32,
+      "offset": 681.6,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat] he&#39;s very technical.",
+      "duration": 1.72,
+      "offset": 682.52,
+      "lang": "en"
+    },
+    {
+      "text": "Yeah.",
+      "duration": 3.36,
+      "offset": 683.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And like how do you decide uh who does",
+      "duration": 5.76,
+      "offset": 684.24,
+      "lang": "en"
+    },
+    {
+      "text": "what and like not step on each other&#39;s?",
+      "duration": 4.88,
+      "offset": 687.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um so we we kind of just looked at the",
+      "duration": 3.68,
+      "offset": 690.0,
+      "lang": "en"
+    },
+    {
+      "text": "workshart and said like all right, hey,",
+      "duration": 2.72,
+      "offset": 692.16,
+      "lang": "en"
+    },
+    {
+      "text": "all right, I&#39;ll take kind of",
+      "duration": 2.8,
+      "offset": 693.68,
+      "lang": "en"
+    },
+    {
+      "text": "engineering, product, and design and",
+      "duration": 4.64,
+      "offset": 694.88,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll take the rest. Um, and I had",
+      "duration": 4.88,
+      "offset": 696.48,
+      "lang": "en"
+    },
+    {
+      "text": "someone ask me when I told them this",
+      "duration": 4.16,
+      "offset": 699.52,
+      "lang": "en"
+    },
+    {
+      "text": "like, &quot;Oh, so you&#39;re the technical one.&quot;",
+      "duration": 4.0,
+      "offset": 701.36,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m like, &quot;No, we&#39;re we&#39;re both kind of",
+      "duration": 3.92,
+      "offset": 703.68,
+      "lang": "en"
+    },
+    {
+      "text": "technical and I think we we kind of",
+      "duration": 5.04,
+      "offset": 705.36,
+      "lang": "en"
+    },
+    {
+      "text": "overlap a bit and look on on both sides",
+      "duration": 4.64,
+      "offset": 707.6,
+      "lang": "en"
+    },
+    {
+      "text": "as well.&quot; Uh, so the split isn&#39;t isn&#39;t",
+      "duration": 3.68,
+      "offset": 710.4,
+      "lang": "en"
+    },
+    {
+      "text": "that clear, but that&#39;s the the general",
+      "duration": 3.44,
+      "offset": 712.24,
+      "lang": "en"
+    },
+    {
+      "text": "uh direction of us.",
+      "duration": 4.48,
+      "offset": 714.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Very cool. And it it would you say your",
+      "duration": 5.28,
+      "offset": 715.68,
+      "lang": "en"
+    },
+    {
+      "text": "uh basically your engineering or is flat",
+      "duration": 4.88,
+      "offset": 718.56,
+      "lang": "en"
+    },
+    {
+      "text": "or like how do you how do you manage the",
+      "duration": 3.92,
+      "offset": 720.96,
+      "lang": "en"
+    },
+    {
+      "text": "team? Like do you have a lot of",
+      "duration": 4.8,
+      "offset": 723.44,
+      "lang": "en"
+    },
+    {
+      "text": "managers? had I mean 70 people or so",
+      "duration": 4.48,
+      "offset": 724.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; in the company.",
+      "duration": 4.24,
+      "offset": 728.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Yeah. Exactly. So um yeah, I mean",
+      "duration": 5.6,
+      "offset": 729.36,
+      "lang": "en"
+    },
+    {
+      "text": "the the base idea in how I want to build",
+      "duration": 4.88,
+      "offset": 732.48,
+      "lang": "en"
+    },
+    {
+      "text": "a company and especially engineering as",
+      "duration": 4.72,
+      "offset": 734.96,
+      "lang": "en"
+    },
+    {
+      "text": "well is to keep it keep it very flat and",
+      "duration": 5.68,
+      "offset": 737.36,
+      "lang": "en"
+    },
+    {
+      "text": "uh just have this uh kind of ideas",
+      "duration": 5.28,
+      "offset": 739.68,
+      "lang": "en"
+    },
+    {
+      "text": "floating around and let the best idea",
+      "duration": 5.04,
+      "offset": 743.04,
+      "lang": "en"
+    },
+    {
+      "text": "win and and do that thing",
+      "duration": 5.76,
+      "offset": 744.96,
+      "lang": "en"
+    },
+    {
+      "text": "and I think that&#39;s something",
+      "duration": 4.56,
+      "offset": 748.08,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re you know at the size so we&#39;re",
+      "duration": 5.12,
+      "offset": 750.72,
+      "lang": "en"
+    },
+    {
+      "text": "around like 40 engineers and I think",
+      "duration": 7.68,
+      "offset": 752.64,
+      "lang": "en"
+    },
+    {
+      "text": "that still works really well for us,",
+      "duration": 4.48,
+      "offset": 755.84,
+      "lang": "en"
+    },
+    {
+      "text": "And then I&#39;m curious as you&#39;re scaling",
+      "duration": 5.68,
+      "offset": 762.96,
+      "lang": "en"
+    },
+    {
+      "text": "uh you know what are the um you know",
+      "duration": 4.72,
+      "offset": 765.76,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re reinventing basically how people",
+      "duration": 3.44,
+      "offset": 768.64,
+      "lang": "en"
+    },
+    {
+      "text": "develop software",
+      "duration": 4.08,
+      "offset": 770.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; uh through natural language. Um what are",
+      "duration": 4.72,
+      "offset": 772.08,
+      "lang": "en"
+    },
+    {
+      "text": "the processes that like traditional",
+      "duration": 5.44,
+      "offset": 774.56,
+      "lang": "en"
+    },
+    {
+      "text": "companies use like OKRs and like roadmap",
+      "duration": 5.04,
+      "offset": 776.8,
+      "lang": "en"
+    },
+    {
+      "text": "and things that you&#39;re like we don&#39;t",
+      "duration": 3.12,
+      "offset": 780.0,
+      "lang": "en"
+    },
+    {
+      "text": "need that. What are the things that",
+      "duration": 4.88,
+      "offset": 781.84,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve actually adopted? M um well I do",
+      "duration": 8.48,
+      "offset": 783.12,
+      "lang": "en"
+    },
+    {
+      "text": "think you kind of use a lot of the um",
+      "duration": 6.64,
+      "offset": 786.72,
+      "lang": "en"
+    },
+    {
+      "text": "things that have been defined before you",
+      "duration": 5.12,
+      "offset": 791.6,
+      "lang": "en"
+    },
+    {
+      "text": "but I think this whole new technology",
+      "duration": 6.48,
+      "offset": 793.36,
+      "lang": "en"
+    },
+    {
+      "text": "with with foundational models uh it it",
+      "duration": 6.4,
+      "offset": 796.72,
+      "lang": "en"
+    },
+    {
+      "text": "changes the rules um and I feel like",
+      "duration": 4.72,
+      "offset": 799.84,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re definitely part of like figuring",
+      "duration": 4.64,
+      "offset": 803.12,
+      "lang": "en"
+    },
+    {
+      "text": "out okay what what are the new rules and",
+      "duration": 6.0,
+      "offset": 804.56,
+      "lang": "en"
+    },
+    {
+      "text": "uh it&#39;s often about um you know just",
+      "duration": 4.72,
+      "offset": 807.76,
+      "lang": "en"
+    },
+    {
+      "text": "these base ideas of oh hey maybe you",
+      "duration": 4.96,
+      "offset": 810.56,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t need to be this many people or um",
+      "duration": 6.4,
+      "offset": 812.48,
+      "lang": "en"
+    },
+    {
+      "text": "maybe you know writing a product uh",
+      "duration": 5.6,
+      "offset": 815.52,
+      "lang": "en"
+    },
+    {
+      "text": "requirement document you don&#39;t have to",
+      "duration": 4.08,
+      "offset": 818.88,
+      "lang": "en"
+    },
+    {
+      "text": "do that because actually just uh",
+      "duration": 4.32,
+      "offset": 821.12,
+      "lang": "en"
+    },
+    {
+      "text": "building the prototype uh you can do",
+      "duration": 4.24,
+      "offset": 822.96,
+      "lang": "en"
+    },
+    {
+      "text": "that very cheaply and very quickly.",
+      "duration": 3.36,
+      "offset": 825.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. One of the things that I love is",
+      "duration": 3.36,
+      "offset": 827.2,
+      "lang": "en"
+    },
+    {
+      "text": "that I work on a product that I use",
+      "duration": 4.48,
+      "offset": 828.8,
+      "lang": "en"
+    },
+    {
+      "text": "every day and all day and I get to like",
+      "duration": 5.6,
+      "offset": 830.56,
+      "lang": "en"
+    },
+    {
+      "text": "basically uh dog food it and try it out",
+      "duration": 5.2,
+      "offset": 833.28,
+      "lang": "en"
+    },
+    {
+      "text": "before our customers do. How do you do",
+      "duration": 5.68,
+      "offset": 836.16,
+      "lang": "en"
+    },
+    {
+      "text": "that at uh lovable? Do you ask the team",
+      "duration": 5.28,
+      "offset": 838.48,
+      "lang": "en"
+    },
+    {
+      "text": "to actually create their own apps? Like",
+      "duration": 3.68,
+      "offset": 841.84,
+      "lang": "en"
+    },
+    {
+      "text": "tell me more about like is there a dog",
+      "duration": 4.24,
+      "offset": 843.76,
+      "lang": "en"
+    },
+    {
+      "text": "food process? Uh do you are you",
+      "duration": 5.12,
+      "offset": 845.52,
+      "lang": "en"
+    },
+    {
+      "text": "constantly building new apps on lovable?",
+      "duration": 4.32,
+      "offset": 848.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yes. Yes, very much so. And it&#39;s almost",
+      "duration": 3.28,
+      "offset": 850.64,
+      "lang": "en"
+    },
+    {
+      "text": "a problem because it&#39;s a it&#39;s a bit",
+      "duration": 3.36,
+      "offset": 852.32,
+      "lang": "en"
+    },
+    {
+      "text": "addicting when you when you get started.",
+      "duration": 5.2,
+      "offset": 853.92,
+      "lang": "en"
+    },
+    {
+      "text": "I um I think right before the flight",
+      "duration": 6.0,
+      "offset": 855.68,
+      "lang": "en"
+    },
+    {
+      "text": "over here to San Francisco, I um I",
+      "duration": 4.24,
+      "offset": 859.12,
+      "lang": "en"
+    },
+    {
+      "text": "stayed up a bit too late one night",
+      "duration": 3.6,
+      "offset": 861.68,
+      "lang": "en"
+    },
+    {
+      "text": "because I was like building this office",
+      "duration": 6.88,
+      "offset": 863.36,
+      "lang": "en"
+    },
+    {
+      "text": "CRM in in Lovable. And uh so that&#39;s a a",
+      "duration": 6.96,
+      "offset": 865.28,
+      "lang": "en"
+    },
+    {
+      "text": "a really big thing for us to be kind of",
+      "duration": 4.08,
+      "offset": 870.24,
+      "lang": "en"
+    },
+    {
+      "text": "the first customer of of our product.",
+      "duration": 4.08,
+      "offset": 872.24,
+      "lang": "en"
+    },
+    {
+      "text": "And a lot that we use it for is kind of",
+      "duration": 4.08,
+      "offset": 874.32,
+      "lang": "en"
+    },
+    {
+      "text": "these internal tooling. So we don&#39;t have",
+      "duration": 5.28,
+      "offset": 876.32,
+      "lang": "en"
+    },
+    {
+      "text": "any traditional kind of ERP uh type",
+      "duration": 4.96,
+      "offset": 878.4,
+      "lang": "en"
+    },
+    {
+      "text": "software. We just we build it with",
+      "duration": 2.48,
+      "offset": 881.6,
+      "lang": "en"
+    },
+    {
+      "text": "lovable.",
+      "duration": 3.52,
+      "offset": 883.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s very cool. And what uh as you&#39;re",
+      "duration": 5.04,
+      "offset": 884.08,
+      "lang": "en"
+    },
+    {
+      "text": "you know I&#39;m sure you uh you&#39;re you see",
+      "duration": 3.76,
+      "offset": 886.88,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of products that are built on",
+      "duration": 2.4,
+      "offset": 889.12,
+      "lang": "en"
+    },
+    {
+      "text": "lovable.",
+      "duration": 2.96,
+      "offset": 890.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Uh what are some that you feel like oh",
+      "duration": 3.84,
+      "offset": 891.52,
+      "lang": "en"
+    },
+    {
+      "text": "my god I cannot believe someone built",
+      "duration": 4.24,
+      "offset": 893.6,
+      "lang": "en"
+    },
+    {
+      "text": "that unlovable? M",
+      "duration": 4.16,
+      "offset": 895.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; any that any of your favorites or",
+      "duration": 2.88,
+      "offset": 897.84,
+      "lang": "en"
+    },
+    {
+      "text": "complex ones?",
+      "duration": 3.44,
+      "offset": 899.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I mean a lot of the interesting",
+      "duration": 4.08,
+      "offset": 900.72,
+      "lang": "en"
+    },
+    {
+      "text": "ones are actually quite simple like the",
+      "duration": 3.68,
+      "offset": 902.96,
+      "lang": "en"
+    },
+    {
+      "text": "ones that go viral. So there was one",
+      "duration": 4.4,
+      "offset": 904.8,
+      "lang": "en"
+    },
+    {
+      "text": "that like takes some picture and does",
+      "duration": 4.96,
+      "offset": 906.64,
+      "lang": "en"
+    },
+    {
+      "text": "video editing on it locally in your",
+      "duration": 4.24,
+      "offset": 909.2,
+      "lang": "en"
+    },
+    {
+      "text": "browser and that went like absolutely",
+      "duration": 5.28,
+      "offset": 911.6,
+      "lang": "en"
+    },
+    {
+      "text": "viral. Um, and I was uh at one of our",
+      "duration": 5.04,
+      "offset": 913.44,
+      "lang": "en"
+    },
+    {
+      "text": "colleagues like birthday party the other",
+      "duration": 3.28,
+      "offset": 916.88,
+      "lang": "en"
+    },
+    {
+      "text": "day and then a guy comes up to me and he",
+      "duration": 4.4,
+      "offset": 918.48,
+      "lang": "en"
+    },
+    {
+      "text": "starts talking about this um very like",
+      "duration": 4.88,
+      "offset": 920.16,
+      "lang": "en"
+    },
+    {
+      "text": "intricate like SAS that he&#39;s building",
+      "duration": 3.68,
+      "offset": 922.88,
+      "lang": "en"
+    },
+    {
+      "text": "and I thought it was just building it",
+      "duration": 3.44,
+      "offset": 925.04,
+      "lang": "en"
+    },
+    {
+      "text": "for like the company he was working at.",
+      "duration": 5.76,
+      "offset": 926.56,
+      "lang": "en"
+    },
+    {
+      "text": "It was uh um around like figuring out",
+      "duration": 5.6,
+      "offset": 928.48,
+      "lang": "en"
+    },
+    {
+      "text": "based on how much square footage like",
+      "duration": 3.68,
+      "offset": 932.32,
+      "lang": "en"
+    },
+    {
+      "text": "how much floor tiling and everything you",
+      "duration": 4.32,
+      "offset": 934.08,
+      "lang": "en"
+    },
+    {
+      "text": "need like a construction business. But",
+      "duration": 3.92,
+      "offset": 936.0,
+      "lang": "en"
+    },
+    {
+      "text": "no, he was actually like doing this as a",
+      "duration": 3.2,
+      "offset": 938.4,
+      "lang": "en"
+    },
+    {
+      "text": "side project, like taking the things he",
+      "duration": 4.32,
+      "offset": 939.92,
+      "lang": "en"
+    },
+    {
+      "text": "was learning and like selling these",
+      "duration": 5.52,
+      "offset": 941.6,
+      "lang": "en"
+    },
+    {
+      "text": "misses and and making, you know, quite",
+      "duration": 5.12,
+      "offset": 944.24,
+      "lang": "en"
+    },
+    {
+      "text": "decent money on it. So I think that&#39;s a",
+      "duration": 3.52,
+      "offset": 947.12,
+      "lang": "en"
+    },
+    {
+      "text": "really cool thing that&#39;s that&#39;s",
+      "duration": 2.88,
+      "offset": 949.36,
+      "lang": "en"
+    },
+    {
+      "text": "happening with a lot of people,",
+      "duration": 3.28,
+      "offset": 950.64,
+      "lang": "en"
+    },
+    {
+      "text": "especially with some industry knowledge",
+      "duration": 4.08,
+      "offset": 952.24,
+      "lang": "en"
+    },
+    {
+      "text": "kind of just applying that now and all",
+      "duration": 3.6,
+      "offset": 953.92,
+      "lang": "en"
+    },
+    {
+      "text": "of a sudden they can just do it",
+      "duration": 1.68,
+      "offset": 956.32,
+      "lang": "en"
+    },
+    {
+      "text": "themselves.",
+      "duration": 3.6,
+      "offset": 957.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Very cool. Do you see a world uh maybe a",
+      "duration": 4.64,
+      "offset": 958.0,
+      "lang": "en"
+    },
+    {
+      "text": "year or two years down the line where",
+      "duration": 3.28,
+      "offset": 961.12,
+      "lang": "en"
+    },
+    {
+      "text": "someone will build Lovable off of",
+      "duration": 3.92,
+      "offset": 962.64,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable? I know that sounds weird, like",
+      "duration": 4.08,
+      "offset": 964.4,
+      "lang": "en"
+    },
+    {
+      "text": "you have little lovable children.",
+      "duration": 3.68,
+      "offset": 966.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I mean I do that every now and",
+      "duration": 3.2,
+      "offset": 968.48,
+      "lang": "en"
+    },
+    {
+      "text": "then. [laughter]",
+      "duration": 3.92,
+      "offset": 970.24,
+      "lang": "en"
+    },
+    {
+      "text": "I do that definitely. And yeah, I would",
+      "duration": 5.44,
+      "offset": 971.68,
+      "lang": "en"
+    },
+    {
+      "text": "say it&#39;s just a matter of time before um",
+      "duration": 4.48,
+      "offset": 974.16,
+      "lang": "en"
+    },
+    {
+      "text": "like a lot of the things we&#39;re building",
+      "duration": 3.2,
+      "offset": 977.12,
+      "lang": "en"
+    },
+    {
+      "text": "now become trivial to build.",
+      "duration": 2.24,
+      "offset": 978.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. No,",
+      "duration": 3.28,
+      "offset": 980.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; very cool. And uh I I one of the quotes",
+      "duration": 5.52,
+      "offset": 980.88,
+      "lang": "en"
+    },
+    {
+      "text": "that I uh read about and it&#39;s uh you",
+      "duration": 4.64,
+      "offset": 983.6,
+      "lang": "en"
+    },
+    {
+      "text": "said you hit your head against the wall",
+      "duration": 3.2,
+      "offset": 986.4,
+      "lang": "en"
+    },
+    {
+      "text": "until it worked.",
+      "duration": 2.88,
+      "offset": 988.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Can you tell us more about that? Like",
+      "duration": 3.44,
+      "offset": 989.6,
+      "lang": "en"
+    },
+    {
+      "text": "what what were you working on and what",
+      "duration": 4.0,
+      "offset": 991.12,
+      "lang": "en"
+    },
+    {
+      "text": "exactly were you referring to? So that",
+      "duration": 6.24,
+      "offset": 993.04,
+      "lang": "en"
+    },
+    {
+      "text": "was really about um the beginning of um",
+      "duration": 6.48,
+      "offset": 995.12,
+      "lang": "en"
+    },
+    {
+      "text": "we were choosing and debating me and",
+      "duration": 4.4,
+      "offset": 999.28,
+      "lang": "en"
+    },
+    {
+      "text": "Anton a lot on like okay what&#39;s our",
+      "duration": 4.96,
+      "offset": 1001.6,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s our customer and uh what&#39;s our",
+      "duration": 6.16,
+      "offset": 1003.68,
+      "lang": "en"
+    },
+    {
+      "text": "product and u I would say on the on the",
+      "duration": 5.76,
+      "offset": 1006.56,
+      "lang": "en"
+    },
+    {
+      "text": "product side of things we were very much",
+      "duration": 3.92,
+      "offset": 1009.84,
+      "lang": "en"
+    },
+    {
+      "text": "thinking about hey should we do",
+      "duration": 3.2,
+      "offset": 1012.32,
+      "lang": "en"
+    },
+    {
+      "text": "something like in one vertical maybe",
+      "duration": 4.08,
+      "offset": 1013.76,
+      "lang": "en"
+    },
+    {
+      "text": "only build landing pages or only build",
+      "duration": 4.8,
+      "offset": 1015.52,
+      "lang": "en"
+    },
+    {
+      "text": "landing pages for restaurants or these",
+      "duration": 5.76,
+      "offset": 1017.84,
+      "lang": "en"
+    },
+    {
+      "text": "type of ideas right or we do uh what we",
+      "duration": 5.04,
+      "offset": 1020.32,
+      "lang": "en"
+    },
+    {
+      "text": "ended up doing which is uh just build",
+      "duration": 4.96,
+      "offset": 1023.6,
+      "lang": "en"
+    },
+    {
+      "text": "something very broad and uh I&#39;m I&#39;m very",
+      "duration": 5.04,
+      "offset": 1025.36,
+      "lang": "en"
+    },
+    {
+      "text": "happy we did the ladder of building",
+      "duration": 5.4,
+      "offset": 1028.56,
+      "lang": "en"
+    },
+    {
+      "text": "something broad",
+      "duration": 3.56,
+      "offset": 1030.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; uh as your like uh level uh is doing",
+      "duration": 6.64,
+      "offset": 1035.52,
+      "lang": "en"
+    },
+    {
+      "text": "more of like using natural language to",
+      "duration": 4.72,
+      "offset": 1039.52,
+      "lang": "en"
+    },
+    {
+      "text": "produce all these like softwares I&#39;m",
+      "duration": 3.92,
+      "offset": 1042.16,
+      "lang": "en"
+    },
+    {
+      "text": "curious what does production ready mean",
+      "duration": 5.76,
+      "offset": 1044.24,
+      "lang": "en"
+    },
+    {
+      "text": "to you? Yeah. So I think especially",
+      "duration": 6.08,
+      "offset": 1046.08,
+      "lang": "en"
+    },
+    {
+      "text": "early on and this is actively changing",
+      "duration": 5.04,
+      "offset": 1050.0,
+      "lang": "en"
+    },
+    {
+      "text": "but AI is really good at creating new",
+      "duration": 5.52,
+      "offset": 1052.16,
+      "lang": "en"
+    },
+    {
+      "text": "things. Um and the thing with software",
+      "duration": 6.24,
+      "offset": 1055.04,
+      "lang": "en"
+    },
+    {
+      "text": "is that um the the more complex and the",
+      "duration": 6.24,
+      "offset": 1057.68,
+      "lang": "en"
+    },
+    {
+      "text": "larger the code base becomes the harder",
+      "duration": 5.12,
+      "offset": 1061.28,
+      "lang": "en"
+    },
+    {
+      "text": "is to to change and like the complexity",
+      "duration": 6.4,
+      "offset": 1063.92,
+      "lang": "en"
+    },
+    {
+      "text": "of uh of adding or even just maintaining",
+      "duration": 6.32,
+      "offset": 1066.4,
+      "lang": "en"
+    },
+    {
+      "text": "it increases. So it&#39;s a very like",
+      "duration": 5.76,
+      "offset": 1070.32,
+      "lang": "en"
+    },
+    {
+      "text": "central thing that we&#39;re um um focused",
+      "duration": 5.28,
+      "offset": 1072.72,
+      "lang": "en"
+    },
+    {
+      "text": "on on just this like okay once you&#39;ve",
+      "duration": 4.08,
+      "offset": 1076.08,
+      "lang": "en"
+    },
+    {
+      "text": "created it um how can you keep on adding",
+      "duration": 5.68,
+      "offset": 1078.0,
+      "lang": "en"
+    },
+    {
+      "text": "to it and keep on improving it uh and um",
+      "duration": 6.72,
+      "offset": 1080.16,
+      "lang": "en"
+    },
+    {
+      "text": "taking it to production is you know the",
+      "duration": 4.8,
+      "offset": 1083.68,
+      "lang": "en"
+    },
+    {
+      "text": "first version is quite easy but then",
+      "duration": 3.6,
+      "offset": 1086.88,
+      "lang": "en"
+    },
+    {
+      "text": "like you have a database and you need to",
+      "duration": 4.08,
+      "offset": 1088.48,
+      "lang": "en"
+    },
+    {
+      "text": "do migrations on top of that and I think",
+      "duration": 3.36,
+      "offset": 1090.48,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s a factor of kind of where",
+      "duration": 4.16,
+      "offset": 1092.56,
+      "lang": "en"
+    },
+    {
+      "text": "foundational models are today but um I",
+      "duration": 4.24,
+      "offset": 1093.84,
+      "lang": "en"
+    },
+    {
+      "text": "think a lot of people are kind of",
+      "duration": 3.2,
+      "offset": 1096.72,
+      "lang": "en"
+    },
+    {
+      "text": "underestimating even what it what it can",
+      "duration": 3.68,
+      "offset": 1098.08,
+      "lang": "en"
+    },
+    {
+      "text": "do today especially if you&#39;ve coding for",
+      "duration": 3.2,
+      "offset": 1099.92,
+      "lang": "en"
+    },
+    {
+      "text": "a long time and you&#39;re like, &quot;Oh, no. I",
+      "duration": 2.72,
+      "offset": 1101.76,
+      "lang": "en"
+    },
+    {
+      "text": "have to do this myself.&quot; Like, do you",
+      "duration": 4.56,
+      "offset": 1103.12,
+      "lang": "en"
+    },
+    {
+      "text": "really like try try doing it first by",
+      "duration": 4.32,
+      "offset": 1104.48,
+      "lang": "en"
+    },
+    {
+      "text": "taking a step back?",
+      "duration": 3.44,
+      "offset": 1107.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And do you see a world where I know uh",
+      "duration": 4.0,
+      "offset": 1108.8,
+      "lang": "en"
+    },
+    {
+      "text": "you mentioned earlier how you&#39;re really",
+      "duration": 4.56,
+      "offset": 1111.12,
+      "lang": "en"
+    },
+    {
+      "text": "targeting the 99% who don&#39;t code as",
+      "duration": 3.44,
+      "offset": 1112.8,
+      "lang": "en"
+    },
+    {
+      "text": "much,",
+      "duration": 2.88,
+      "offset": 1115.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; but do you see yourself like moving",
+      "duration": 4.24,
+      "offset": 1116.24,
+      "lang": "en"
+    },
+    {
+      "text": "either those people who don&#39;t know how",
+      "duration": 4.16,
+      "offset": 1118.56,
+      "lang": "en"
+    },
+    {
+      "text": "to code, they become better coders, like",
+      "duration": 4.8,
+      "offset": 1120.48,
+      "lang": "en"
+    },
+    {
+      "text": "pick up stuff, or do you gravitate more",
+      "duration": 6.16,
+      "offset": 1122.72,
+      "lang": "en"
+    },
+    {
+      "text": "towards like people who can code? So the",
+      "duration": 5.28,
+      "offset": 1125.28,
+      "lang": "en"
+    },
+    {
+      "text": "the idea with lovable is really to",
+      "duration": 4.72,
+      "offset": 1128.88,
+      "lang": "en"
+    },
+    {
+      "text": "abstract these technical choices so that",
+      "duration": 4.96,
+      "offset": 1130.56,
+      "lang": "en"
+    },
+    {
+      "text": "you maybe like the example I gave before",
+      "duration": 4.8,
+      "offset": 1133.6,
+      "lang": "en"
+    },
+    {
+      "text": "of someone working in construction like",
+      "duration": 4.24,
+      "offset": 1135.52,
+      "lang": "en"
+    },
+    {
+      "text": "they should be thinking about",
+      "duration": 3.28,
+      "offset": 1138.4,
+      "lang": "en"
+    },
+    {
+      "text": "construction and choosing a choosing a",
+      "duration": 4.4,
+      "offset": 1139.76,
+      "lang": "en"
+    },
+    {
+      "text": "database and like choosing underlying",
+      "duration": 4.88,
+      "offset": 1141.68,
+      "lang": "en"
+    },
+    {
+      "text": "tech stack is something I think lovable",
+      "duration": 5.76,
+      "offset": 1144.16,
+      "lang": "en"
+    },
+    {
+      "text": "should handle for you. uh and um also",
+      "duration": 5.12,
+      "offset": 1146.56,
+      "lang": "en"
+    },
+    {
+      "text": "something that we&#39;re actively kind of",
+      "duration": 4.08,
+      "offset": 1149.92,
+      "lang": "en"
+    },
+    {
+      "text": "making sure that we encode uh in into",
+      "duration": 5.28,
+      "offset": 1151.68,
+      "lang": "en"
+    },
+    {
+      "text": "the AI um to make sure that it actually",
+      "duration": 6.08,
+      "offset": 1154.0,
+      "lang": "en"
+    },
+    {
+      "text": "does uh good technical choices from the",
+      "duration": 3.6,
+      "offset": 1156.96,
+      "lang": "en"
+    },
+    {
+      "text": "start.",
+      "duration": 2.8,
+      "offset": 1160.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So eventually people don&#39;t have to worry",
+      "duration": 5.6,
+      "offset": 1160.56,
+      "lang": "en"
+    },
+    {
+      "text": "about the signing up for superbase or",
+      "duration": 4.48,
+      "offset": 1162.88,
+      "lang": "en"
+    },
+    {
+      "text": "something like that. You&#39;re going to",
+      "duration": 2.72,
+      "offset": 1166.16,
+      "lang": "en"
+    },
+    {
+      "text": "take care of that for them.",
+      "duration": 3.12,
+      "offset": 1167.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Exactly. Exactly. Do you know our road",
+      "duration": 2.64,
+      "offset": 1168.88,
+      "lang": "en"
+    },
+    {
+      "text": "map? Like have you",
+      "duration": 3.04,
+      "offset": 1170.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I watch your videos.",
+      "duration": 3.36,
+      "offset": 1171.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yes. Yeah. [laughter]",
+      "duration": 3.6,
+      "offset": 1173.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Or you have very good intuition.",
+      "duration": 4.08,
+      "offset": 1174.88,
+      "lang": "en"
+    },
+    {
+      "text": "Yeah. That&#39;s very cool. I I actually",
+      "duration": 5.08,
+      "offset": 1177.12,
+      "lang": "en"
+    },
+    {
+      "text": "love that.",
+      "duration": 3.24,
+      "offset": 1178.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Give us a preview of like how you&#39;re",
+      "duration": 4.32,
+      "offset": 1183.44,
+      "lang": "en"
+    },
+    {
+      "text": "working with the you mentioned how you",
+      "duration": 4.56,
+      "offset": 1185.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh were working with the notion team on",
+      "duration": 5.52,
+      "offset": 1187.76,
+      "lang": "en"
+    },
+    {
+      "text": "like with MCP server. Uh what should",
+      "duration": 6.24,
+      "offset": 1190.16,
+      "lang": "en"
+    },
+    {
+      "text": "builders expect uh to come? So I think",
+      "duration": 5.2,
+      "offset": 1193.28,
+      "lang": "en"
+    },
+    {
+      "text": "lovable plus notion is a very",
+      "duration": 4.8,
+      "offset": 1196.4,
+      "lang": "en"
+    },
+    {
+      "text": "interesting combo because notion is the",
+      "duration": 4.32,
+      "offset": 1198.48,
+      "lang": "en"
+    },
+    {
+      "text": "place where a lot of people spend a lot",
+      "duration": 3.44,
+      "offset": 1201.2,
+      "lang": "en"
+    },
+    {
+      "text": "of their time and kind of dumping",
+      "duration": 3.84,
+      "offset": 1202.8,
+      "lang": "en"
+    },
+    {
+      "text": "context and then lovable is this place",
+      "duration": 4.4,
+      "offset": 1204.64,
+      "lang": "en"
+    },
+    {
+      "text": "where you can create",
+      "duration": 5.84,
+      "offset": 1206.64,
+      "lang": "en"
+    },
+    {
+      "text": "software and create apps and a lot of",
+      "duration": 5.44,
+      "offset": 1209.04,
+      "lang": "en"
+    },
+    {
+      "text": "the time the limiting factor to do that",
+      "duration": 4.72,
+      "offset": 1212.48,
+      "lang": "en"
+    },
+    {
+      "text": "is the context and that&#39;s true for a lot",
+      "duration": 5.84,
+      "offset": 1214.48,
+      "lang": "en"
+    },
+    {
+      "text": "of different AI tooling. So, notion and",
+      "duration": 5.36,
+      "offset": 1217.2,
+      "lang": "en"
+    },
+    {
+      "text": "lovablely is a very match made made in",
+      "duration": 3.84,
+      "offset": 1220.32,
+      "lang": "en"
+    },
+    {
+      "text": "heaven in that sense that you can",
+      "duration": 4.24,
+      "offset": 1222.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually just leverage all of this",
+      "duration": 4.8,
+      "offset": 1224.16,
+      "lang": "en"
+    },
+    {
+      "text": "context to start creating stuff.",
+      "duration": 4.24,
+      "offset": 1226.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Very cool. Well, I look forward to uh",
+      "duration": 4.16,
+      "offset": 1228.96,
+      "lang": "en"
+    },
+    {
+      "text": "the partnership and uh see what the",
+      "duration": 5.56,
+      "offset": 1231.04,
+      "lang": "en"
+    },
+    {
+      "text": "teams do together.",
+      "duration": 3.48,
+      "offset": 1233.12,
+      "lang": "en"
+    },
+    {
+      "text": "Has it become harder to like uh than 5",
+      "duration": 5.36,
+      "offset": 1238.16,
+      "lang": "en"
+    },
+    {
+      "text": "years ago, 10 years ago to build a",
+      "duration": 5.92,
+      "offset": 1241.12,
+      "lang": "en"
+    },
+    {
+      "text": "startup? Uh is it harder, easier? I do",
+      "duration": 5.68,
+      "offset": 1243.52,
+      "lang": "en"
+    },
+    {
+      "text": "think it&#39;s actually a great time to",
+      "duration": 4.64,
+      "offset": 1247.04,
+      "lang": "en"
+    },
+    {
+      "text": "create startups and you know that&#39;s core",
+      "duration": 5.2,
+      "offset": 1249.2,
+      "lang": "en"
+    },
+    {
+      "text": "of like our business idea as well that",
+      "duration": 4.24,
+      "offset": 1251.68,
+      "lang": "en"
+    },
+    {
+      "text": "hey you don&#39;t actually need to know all",
+      "duration": 3.28,
+      "offset": 1254.4,
+      "lang": "en"
+    },
+    {
+      "text": "of these like technical skills that",
+      "duration": 4.16,
+      "offset": 1255.92,
+      "lang": "en"
+    },
+    {
+      "text": "could take you years to to acquire and",
+      "duration": 5.12,
+      "offset": 1257.68,
+      "lang": "en"
+    },
+    {
+      "text": "learn but you could just kind of have",
+      "duration": 5.36,
+      "offset": 1260.08,
+      "lang": "en"
+    },
+    {
+      "text": "this idea or or have this kind of",
+      "duration": 5.52,
+      "offset": 1262.8,
+      "lang": "en"
+    },
+    {
+      "text": "unrelated skill set to software and and",
+      "duration": 5.2,
+      "offset": 1265.44,
+      "lang": "en"
+    },
+    {
+      "text": "even do like a software startup and then",
+      "duration": 5.12,
+      "offset": 1268.32,
+      "lang": "en"
+    },
+    {
+      "text": "I think us is also like an example of",
+      "duration": 4.72,
+      "offset": 1270.64,
+      "lang": "en"
+    },
+    {
+      "text": "hey you can actually kind of leverage",
+      "duration": 4.08,
+      "offset": 1273.44,
+      "lang": "en"
+    },
+    {
+      "text": "the the power of the the foundational",
+      "duration": 3.68,
+      "offset": 1275.36,
+      "lang": "en"
+    },
+    {
+      "text": "models and and do something that creates",
+      "duration": 4.92,
+      "offset": 1277.52,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of value.",
+      "duration": 3.4,
+      "offset": 1279.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; All right, we&#39;ll close where we always",
+      "duration": 5.52,
+      "offset": 1283.92,
+      "lang": "en"
+    },
+    {
+      "text": "do uh with Trust Block uh with advice.",
+      "duration": 5.28,
+      "offset": 1285.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, and I&#39;m going to ask you two",
+      "duration": 2.64,
+      "offset": 1289.44,
+      "lang": "en"
+    },
+    {
+      "text": "questions.",
+      "duration": 2.72,
+      "offset": 1291.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Imagine you&#39;re speaking directly to the",
+      "duration": 3.84,
+      "offset": 1292.08,
+      "lang": "en"
+    },
+    {
+      "text": "next generation of founders. What&#39;s one",
+      "duration": 4.16,
+      "offset": 1293.76,
+      "lang": "en"
+    },
+    {
+      "text": "building block of advice you&#39;d leave",
+      "duration": 4.56,
+      "offset": 1295.92,
+      "lang": "en"
+    },
+    {
+      "text": "behind for early stage founders? One",
+      "duration": 6.0,
+      "offset": 1297.92,
+      "lang": "en"
+    },
+    {
+      "text": "thing that I think we did incorrectly at",
+      "duration": 6.56,
+      "offset": 1300.48,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable at part of our journey at least",
+      "duration": 5.52,
+      "offset": 1303.92,
+      "lang": "en"
+    },
+    {
+      "text": "is to try to build a bit too much for",
+      "duration": 4.16,
+      "offset": 1307.04,
+      "lang": "en"
+    },
+    {
+      "text": "the future. So we were building this",
+      "duration": 3.76,
+      "offset": 1309.44,
+      "lang": "en"
+    },
+    {
+      "text": "very complex agent before agents really",
+      "duration": 4.4,
+      "offset": 1311.2,
+      "lang": "en"
+    },
+    {
+      "text": "worked and uh we were like oh it&#39;s going",
+      "duration": 6.24,
+      "offset": 1313.2,
+      "lang": "en"
+    },
+    {
+      "text": "to work with GP5 don&#39;t worry. Um and",
+      "duration": 5.84,
+      "offset": 1315.6,
+      "lang": "en"
+    },
+    {
+      "text": "that was a big mistake. uh and in",
+      "duration": 5.84,
+      "offset": 1319.44,
+      "lang": "en"
+    },
+    {
+      "text": "hindsight I think really just looking at",
+      "duration": 6.32,
+      "offset": 1321.44,
+      "lang": "en"
+    },
+    {
+      "text": "like okay hey this is the value that we",
+      "duration": 4.48,
+      "offset": 1325.28,
+      "lang": "en"
+    },
+    {
+      "text": "can create today with uh with",
+      "duration": 4.24,
+      "offset": 1327.76,
+      "lang": "en"
+    },
+    {
+      "text": "foundational models there&#39;s um there&#39;s a",
+      "duration": 4.72,
+      "offset": 1329.76,
+      "lang": "en"
+    },
+    {
+      "text": "lot on the table still uh in in a lot of",
+      "duration": 4.88,
+      "offset": 1332.0,
+      "lang": "en"
+    },
+    {
+      "text": "different verticals um so I would really",
+      "duration": 4.88,
+      "offset": 1334.48,
+      "lang": "en"
+    },
+    {
+      "text": "say to to a founder today like hey just",
+      "duration": 4.32,
+      "offset": 1336.88,
+      "lang": "en"
+    },
+    {
+      "text": "figure out what you can do with these",
+      "duration": 3.76,
+      "offset": 1339.36,
+      "lang": "en"
+    },
+    {
+      "text": "models and what use cases you can serve",
+      "duration": 3.84,
+      "offset": 1341.2,
+      "lang": "en"
+    },
+    {
+      "text": "today don&#39;t think too much about the",
+      "duration": 4.24,
+      "offset": 1343.12,
+      "lang": "en"
+    },
+    {
+      "text": "future like we have a steam engine here",
+      "duration": 4.4,
+      "offset": 1345.04,
+      "lang": "en"
+    },
+    {
+      "text": "ready to go just apply it",
+      "duration": 4.08,
+      "offset": 1347.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I I love that There&#39;s a lot of emphasis",
+      "duration": 5.28,
+      "offset": 1349.44,
+      "lang": "en"
+    },
+    {
+      "text": "in uh this in all the talk that you&#39;ve",
+      "duration": 5.6,
+      "offset": 1351.44,
+      "lang": "en"
+    },
+    {
+      "text": "done about speed and like moving as fast",
+      "duration": 4.88,
+      "offset": 1354.72,
+      "lang": "en"
+    },
+    {
+      "text": "as possible and also meeting with uh",
+      "duration": 4.4,
+      "offset": 1357.04,
+      "lang": "en"
+    },
+    {
+      "text": "satisfying use cases. I love that.",
+      "duration": 2.16,
+      "offset": 1359.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 2.16,
+      "offset": 1361.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um the second question and my last",
+      "duration": 3.68,
+      "offset": 1361.76,
+      "lang": "en"
+    },
+    {
+      "text": "question, if you had to rebuild Lovable",
+      "duration": 4.16,
+      "offset": 1363.6,
+      "lang": "en"
+    },
+    {
+      "text": "from scratch today, what&#39;s the first",
+      "duration": 4.08,
+      "offset": 1365.44,
+      "lang": "en"
+    },
+    {
+      "text": "block you&#39;d start with?",
+      "duration": 3.92,
+      "offset": 1367.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Oh, well that&#39;s easy. I would just use",
+      "duration": 3.12,
+      "offset": 1369.52,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable.",
+      "duration": 5.24,
+      "offset": 1371.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, [laughter] great.",
+      "duration": 4.28,
+      "offset": 1372.64,
+      "lang": "en"
+    }
+  ]
+}

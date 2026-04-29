@@ -1,0 +1,16 @@
+{
+  "video_id": "alWW3tW36F0",
+  "title": "Take Your Lovable Prototypes to Production with Avery - You Don't Need to Hire Engineers!",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:17:31",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:17:31"
+}

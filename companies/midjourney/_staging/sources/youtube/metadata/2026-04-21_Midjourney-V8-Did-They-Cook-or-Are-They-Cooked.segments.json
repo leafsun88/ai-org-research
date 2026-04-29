@@ -1,0 +1,2865 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "9Cd4ml0Nrs4",
+  "url": "https://www.youtube.com/watch?v=9Cd4ml0Nrs4",
+  "title": "Midjourney V8: Did They Cook, or Are They Cooked?",
+  "channel": "Theoretically Media",
+  "source_queries": [
+    "Midjourney V8.1 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:17",
+  "segments": [
+    {
+      "text": "Well, MidJourney version 8 has arrived",
+      "duration": 4.32,
+      "offset": 0.4,
+      "lang": "en"
+    },
+    {
+      "text": "and well, I mean, there have been some",
+      "duration": 3.36,
+      "offset": 3.12,
+      "lang": "en"
+    },
+    {
+      "text": "mixed reactions. Honestly, it wouldn&#39;t",
+      "duration": 3.6,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "be a MidJourney version update if there",
+      "duration": 3.92,
+      "offset": 6.48,
+      "lang": "en"
+    },
+    {
+      "text": "weren&#39;t. So, today we&#39;re going to dive",
+      "duration": 4.24,
+      "offset": 8.32,
+      "lang": "en"
+    },
+    {
+      "text": "into the new model and well, burn all my",
+      "duration": 4.0,
+      "offset": 10.4,
+      "lang": "en"
+    },
+    {
+      "text": "fast hours to give it a fair shake to",
+      "duration": 3.92,
+      "offset": 12.56,
+      "lang": "en"
+    },
+    {
+      "text": "see what it can do, what it can&#39;t do,",
+      "duration": 4.72,
+      "offset": 14.4,
+      "lang": "en"
+    },
+    {
+      "text": "and of course, answer the question, did",
+      "duration": 5.2,
+      "offset": 16.48,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney cook, or are they cooked?",
+      "duration": 5.52,
+      "offset": 19.12,
+      "lang": "en"
+    },
+    {
+      "text": "Well, let&#39;s go dash dash and find out.",
+      "duration": 5.52,
+      "offset": 21.68,
+      "lang": "en"
+    },
+    {
+      "text": "So, it has been a minute since the last",
+      "duration": 4.16,
+      "offset": 24.64,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney version update. Actually,",
+      "duration": 5.2,
+      "offset": 27.2,
+      "lang": "en"
+    },
+    {
+      "text": "version 7 dropped in April of 2025. And",
+      "duration": 5.6,
+      "offset": 28.8,
+      "lang": "en"
+    },
+    {
+      "text": "I mean, to be honest, reactions to that",
+      "duration": 4.24,
+      "offset": 32.4,
+      "lang": "en"
+    },
+    {
+      "text": "update were shaky as well. To be honest,",
+      "duration": 4.0,
+      "offset": 34.4,
+      "lang": "en"
+    },
+    {
+      "text": "this has always kind of been par for the",
+      "duration": 3.2,
+      "offset": 36.64,
+      "lang": "en"
+    },
+    {
+      "text": "course. Well, since my beloved",
+      "duration": 3.36,
+      "offset": 38.4,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney version 4, you know, they",
+      "duration": 3.92,
+      "offset": 39.84,
+      "lang": "en"
+    },
+    {
+      "text": "release an update, it&#39;s janky and rough",
+      "duration": 4.24,
+      "offset": 41.76,
+      "lang": "en"
+    },
+    {
+      "text": "around the edges, it gets refined, rinse",
+      "duration": 4.8,
+      "offset": 43.76,
+      "lang": "en"
+    },
+    {
+      "text": "and repeat. And version 8 is no",
+      "duration": 4.56,
+      "offset": 46.0,
+      "lang": "en"
+    },
+    {
+      "text": "different. Actually, one important thing",
+      "duration": 4.56,
+      "offset": 48.56,
+      "lang": "en"
+    },
+    {
+      "text": "here is that this is an alpha, which,",
+      "duration": 4.56,
+      "offset": 50.56,
+      "lang": "en"
+    },
+    {
+      "text": "you know, to be honest, makes it even",
+      "duration": 4.4,
+      "offset": 53.12,
+      "lang": "en"
+    },
+    {
+      "text": "more rough around the edges. So, with",
+      "duration": 3.92,
+      "offset": 55.12,
+      "lang": "en"
+    },
+    {
+      "text": "that said, let&#39;s take a look at the",
+      "duration": 4.4,
+      "offset": 57.52,
+      "lang": "en"
+    },
+    {
+      "text": "well, the what of version 8 alpha in",
+      "duration": 5.12,
+      "offset": 59.04,
+      "lang": "en"
+    },
+    {
+      "text": "terms of our version number update bingo",
+      "duration": 3.76,
+      "offset": 61.92,
+      "lang": "en"
+    },
+    {
+      "text": "card. I mean, it&#39;s it&#39;s all the typical",
+      "duration": 3.12,
+      "offset": 64.16,
+      "lang": "en"
+    },
+    {
+      "text": "stuff. It&#39;s faster. It has better",
+      "duration": 3.44,
+      "offset": 65.68,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetics and better prompt",
+      "duration": 3.68,
+      "offset": 67.28,
+      "lang": "en"
+    },
+    {
+      "text": "understanding. Uh, what&#39;s crazy is that",
+      "duration": 3.68,
+      "offset": 69.12,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney actually wrote that. Yeah,",
+      "duration": 3.76,
+      "offset": 70.96,
+      "lang": "en"
+    },
+    {
+      "text": "the text. Uh, I mean, there&#39;s a little",
+      "duration": 3.52,
+      "offset": 72.8,
+      "lang": "en"
+    },
+    {
+      "text": "bit to go over on that point, but, you",
+      "duration": 3.12,
+      "offset": 74.72,
+      "lang": "en"
+    },
+    {
+      "text": "know, we&#39;ll get to that. But, first,",
+      "duration": 3.68,
+      "offset": 76.32,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s take a look at V8 in action.",
+      "duration": 5.12,
+      "offset": 77.84,
+      "lang": "en"
+    },
+    {
+      "text": "Kicking off with my most basic test. Uh,",
+      "duration": 5.04,
+      "offset": 80.0,
+      "lang": "en"
+    },
+    {
+      "text": "toast, because you really can&#39;t screw up",
+      "duration": 3.76,
+      "offset": 82.96,
+      "lang": "en"
+    },
+    {
+      "text": "toast. Well, I mean, you can if if you",
+      "duration": 4.16,
+      "offset": 85.04,
+      "lang": "en"
+    },
+    {
+      "text": "burn it. So, no cherry-picking. This is",
+      "duration": 5.28,
+      "offset": 86.72,
+      "lang": "en"
+    },
+    {
+      "text": "toast in V8. Um, you know, varying",
+      "duration": 4.24,
+      "offset": 89.2,
+      "lang": "en"
+    },
+    {
+      "text": "degrees of success here. I would say",
+      "duration": 4.48,
+      "offset": 92.0,
+      "lang": "en"
+    },
+    {
+      "text": "that probably our egg sunny side up with",
+      "duration": 6.24,
+      "offset": 93.44,
+      "lang": "en"
+    },
+    {
+      "text": "our kind of like weird uh fancy bacon on",
+      "duration": 5.6,
+      "offset": 96.48,
+      "lang": "en"
+    },
+    {
+      "text": "top of it is probably the closest to",
+      "duration": 3.92,
+      "offset": 99.68,
+      "lang": "en"
+    },
+    {
+      "text": "what I asked for. We did get French",
+      "duration": 4.08,
+      "offset": 102.08,
+      "lang": "en"
+    },
+    {
+      "text": "toast. So, uh, well played version 8.",
+      "duration": 4.96,
+      "offset": 103.6,
+      "lang": "en"
+    },
+    {
+      "text": "Well played. Uh, and then we got some",
+      "duration": 4.08,
+      "offset": 106.16,
+      "lang": "en"
+    },
+    {
+      "text": "raw toast, I guess, up here. Or like,",
+      "duration": 4.32,
+      "offset": 108.56,
+      "lang": "en"
+    },
+    {
+      "text": "yeah, uncooked toast. Bread. We got",
+      "duration": 5.28,
+      "offset": 110.24,
+      "lang": "en"
+    },
+    {
+      "text": "bread. Now, to note, our toast test was",
+      "duration": 4.64,
+      "offset": 112.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually run at just the default",
+      "duration": 4.48,
+      "offset": 115.52,
+      "lang": "en"
+    },
+    {
+      "text": "settings. And Midjourney has indicated",
+      "duration": 4.24,
+      "offset": 117.52,
+      "lang": "en"
+    },
+    {
+      "text": "that uh they&#39;re still working on the",
+      "duration": 4.24,
+      "offset": 120.0,
+      "lang": "en"
+    },
+    {
+      "text": "default aesthetics for version 8, and",
+      "duration": 5.04,
+      "offset": 121.76,
+      "lang": "en"
+    },
+    {
+      "text": "they encourage us to use personalization",
+      "duration": 4.8,
+      "offset": 124.24,
+      "lang": "en"
+    },
+    {
+      "text": "and even crank up the style to 1,000,",
+      "duration": 4.08,
+      "offset": 126.8,
+      "lang": "en"
+    },
+    {
+      "text": "which is news to my ears because I love",
+      "duration": 4.4,
+      "offset": 129.04,
+      "lang": "en"
+    },
+    {
+      "text": "cranking knobs. So, cranking it up to",
+      "duration": 5.04,
+      "offset": 130.88,
+      "lang": "en"
+    },
+    {
+      "text": "a,000, we get some pretty stylized",
+      "duration": 4.48,
+      "offset": 133.44,
+      "lang": "en"
+    },
+    {
+      "text": "toast. Version 8 definitely wants to let",
+      "duration": 3.76,
+      "offset": 135.92,
+      "lang": "en"
+    },
+    {
+      "text": "us know that it knows its way around the",
+      "duration": 3.6,
+      "offset": 137.92,
+      "lang": "en"
+    },
+    {
+      "text": "kitchen. Um, is my guy back here",
+      "duration": 3.84,
+      "offset": 139.68,
+      "lang": "en"
+    },
+    {
+      "text": "drinking a beer with his uh was that",
+      "duration": 3.92,
+      "offset": 141.52,
+      "lang": "en"
+    },
+    {
+      "text": "like honey barbecue toast? I mean, I",
+      "duration": 3.92,
+      "offset": 143.52,
+      "lang": "en"
+    },
+    {
+      "text": "guess. Moving on to one of our",
+      "duration": 4.08,
+      "offset": 145.44,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney chestnuts, the man in the",
+      "duration": 3.76,
+      "offset": 147.44,
+      "lang": "en"
+    },
+    {
+      "text": "blue business suit walking down the busy",
+      "duration": 4.16,
+      "offset": 149.52,
+      "lang": "en"
+    },
+    {
+      "text": "city street. This is, I think, where you",
+      "duration": 4.64,
+      "offset": 151.2,
+      "lang": "en"
+    },
+    {
+      "text": "start seeing like the alpheness of",
+      "duration": 4.8,
+      "offset": 153.68,
+      "lang": "en"
+    },
+    {
+      "text": "version 8 coming into play. To note, I",
+      "duration": 5.52,
+      "offset": 155.84,
+      "lang": "en"
+    },
+    {
+      "text": "did run this specifically at a styliz of",
+      "duration": 5.6,
+      "offset": 158.48,
+      "lang": "en"
+    },
+    {
+      "text": "100. So, um, yeah, it&#39;s not very",
+      "duration": 4.16,
+      "offset": 161.36,
+      "lang": "en"
+    },
+    {
+      "text": "stylized, but I thought it would be a",
+      "duration": 3.6,
+      "offset": 164.08,
+      "lang": "en"
+    },
+    {
+      "text": "good idea to kind of check in and see",
+      "duration": 3.2,
+      "offset": 165.52,
+      "lang": "en"
+    },
+    {
+      "text": "the difference. So, we&#39;re going to take",
+      "duration": 2.88,
+      "offset": 167.68,
+      "lang": "en"
+    },
+    {
+      "text": "this up a notch. uh in a minute. You&#39;ll",
+      "duration": 3.04,
+      "offset": 168.72,
+      "lang": "en"
+    },
+    {
+      "text": "note that there is a lot of like",
+      "duration": 3.44,
+      "offset": 170.56,
+      "lang": "en"
+    },
+    {
+      "text": "smoothing in the skin textures there.",
+      "duration": 3.68,
+      "offset": 171.76,
+      "lang": "en"
+    },
+    {
+      "text": "Again, I&#39;m not going to ding it too hard",
+      "duration": 3.36,
+      "offset": 174.0,
+      "lang": "en"
+    },
+    {
+      "text": "because we&#39;re at the, you know, low end",
+      "duration": 4.0,
+      "offset": 175.44,
+      "lang": "en"
+    },
+    {
+      "text": "of the stylization setting. Uh but, you",
+      "duration": 3.44,
+      "offset": 177.36,
+      "lang": "en"
+    },
+    {
+      "text": "know, my guy&#39;s shirt here definitely",
+      "duration": 2.88,
+      "offset": 179.44,
+      "lang": "en"
+    },
+    {
+      "text": "looks like it&#39;s like off the rack five",
+      "duration": 4.24,
+      "offset": 180.8,
+      "lang": "en"
+    },
+    {
+      "text": "below. Moving up the ladder to a stylize",
+      "duration": 5.28,
+      "offset": 182.32,
+      "lang": "en"
+    },
+    {
+      "text": "of 500. And to note, there is an HD mode",
+      "duration": 4.88,
+      "offset": 185.04,
+      "lang": "en"
+    },
+    {
+      "text": "that will kick this up to 2K. Uh and",
+      "duration": 4.32,
+      "offset": 187.6,
+      "lang": "en"
+    },
+    {
+      "text": "then there&#39;s another like quality mode",
+      "duration": 3.84,
+      "offset": 189.92,
+      "lang": "en"
+    },
+    {
+      "text": "as well. I&#39;m just running this in like",
+      "duration": 4.96,
+      "offset": 191.92,
+      "lang": "en"
+    },
+    {
+      "text": "the standard mode. So, uh, at a styliz",
+      "duration": 5.76,
+      "offset": 193.76,
+      "lang": "en"
+    },
+    {
+      "text": "of 500, I mean, I think things improve.",
+      "duration": 5.28,
+      "offset": 196.88,
+      "lang": "en"
+    },
+    {
+      "text": "Skin texture a little bit better. Suit,",
+      "duration": 4.16,
+      "offset": 199.52,
+      "lang": "en"
+    },
+    {
+      "text": "um, I don&#39;t know, J C Penney at this",
+      "duration": 3.6,
+      "offset": 202.16,
+      "lang": "en"
+    },
+    {
+      "text": "point. Uh, and then overall composition",
+      "duration": 3.6,
+      "offset": 203.68,
+      "lang": "en"
+    },
+    {
+      "text": "of the image, I think, you know, it",
+      "duration": 3.68,
+      "offset": 205.76,
+      "lang": "en"
+    },
+    {
+      "text": "looks pretty decent. Um, so now taking",
+      "duration": 3.52,
+      "offset": 207.28,
+      "lang": "en"
+    },
+    {
+      "text": "their advice and cranking it all the way",
+      "duration": 4.0,
+      "offset": 209.44,
+      "lang": "en"
+    },
+    {
+      "text": "up to a,000. And now at a,000, we&#39;re",
+      "duration": 5.04,
+      "offset": 210.8,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re basically in classic midjourney",
+      "duration": 4.48,
+      "offset": 213.44,
+      "lang": "en"
+    },
+    {
+      "text": "territory. Um, you know, our handsome",
+      "duration": 4.48,
+      "offset": 215.84,
+      "lang": "en"
+    },
+    {
+      "text": "guy staring directly at the sun. Uh,",
+      "duration": 5.36,
+      "offset": 217.92,
+      "lang": "en"
+    },
+    {
+      "text": "very stylish suit here. uh hair actually",
+      "duration": 4.64,
+      "offset": 220.32,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s got a little bit of a like a like a",
+      "duration": 3.28,
+      "offset": 223.28,
+      "lang": "en"
+    },
+    {
+      "text": "wisp coming up here. I mean to me if",
+      "duration": 2.96,
+      "offset": 224.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re this guy you&#39;re doing that",
+      "duration": 3.76,
+      "offset": 226.56,
+      "lang": "en"
+    },
+    {
+      "text": "intentionally but you know overall",
+      "duration": 4.72,
+      "offset": 227.92,
+      "lang": "en"
+    },
+    {
+      "text": "pretty standard you know midjourney",
+      "duration": 5.04,
+      "offset": 230.32,
+      "lang": "en"
+    },
+    {
+      "text": "image in my opinion and just for fun",
+      "duration": 5.76,
+      "offset": 232.64,
+      "lang": "en"
+    },
+    {
+      "text": "here he is again stylized 1000 he is now",
+      "duration": 7.68,
+      "offset": 235.36,
+      "lang": "en"
+    },
+    {
+      "text": "in the HD mode so 2K with a-q or quality",
+      "duration": 6.08,
+      "offset": 238.4,
+      "lang": "en"
+    },
+    {
+      "text": "of four which is another command that",
+      "duration": 3.44,
+      "offset": 243.04,
+      "lang": "en"
+    },
+    {
+      "text": "you can run. I don&#39;t really recommend",
+      "duration": 4.16,
+      "offset": 244.48,
+      "lang": "en"
+    },
+    {
+      "text": "doing this cuz it a it takes a very long",
+      "duration": 5.44,
+      "offset": 246.48,
+      "lang": "en"
+    },
+    {
+      "text": "time and if you do run it in HD with",
+      "duration": 5.68,
+      "offset": 248.64,
+      "lang": "en"
+    },
+    {
+      "text": "that Q4 uh it essentially ends up",
+      "duration": 4.88,
+      "offset": 251.92,
+      "lang": "en"
+    },
+    {
+      "text": "running you 16 times the amount of a",
+      "duration": 5.04,
+      "offset": 254.32,
+      "lang": "en"
+    },
+    {
+      "text": "normal generation. So for now at least",
+      "duration": 4.24,
+      "offset": 256.8,
+      "lang": "en"
+    },
+    {
+      "text": "um so yeah I mean this is this is what",
+      "duration": 3.84,
+      "offset": 259.36,
+      "lang": "en"
+    },
+    {
+      "text": "you get. Uh don&#39;t again don&#39;t highly",
+      "duration": 3.76,
+      "offset": 261.04,
+      "lang": "en"
+    },
+    {
+      "text": "recommend it. So, two things that I have",
+      "duration": 4.08,
+      "offset": 263.2,
+      "lang": "en"
+    },
+    {
+      "text": "definitely noticed about version 8 alpha",
+      "duration": 5.52,
+      "offset": 264.8,
+      "lang": "en"
+    },
+    {
+      "text": "at least like sort of vanilla is um well",
+      "duration": 5.36,
+      "offset": 267.28,
+      "lang": "en"
+    },
+    {
+      "text": "a a lot of like head cut off shots and",
+      "duration": 4.4,
+      "offset": 270.32,
+      "lang": "en"
+    },
+    {
+      "text": "sort of like waist and well like butt",
+      "duration": 4.96,
+      "offset": 272.64,
+      "lang": "en"
+    },
+    {
+      "text": "shots for some reason and two like you",
+      "duration": 4.72,
+      "offset": 274.72,
+      "lang": "en"
+    },
+    {
+      "text": "know again as they have mentioned like",
+      "duration": 3.2,
+      "offset": 277.6,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re still tuning up the aesthetic.",
+      "duration": 4.48,
+      "offset": 279.44,
+      "lang": "en"
+    },
+    {
+      "text": "So even at 1,00 to me this just kind of",
+      "duration": 7.04,
+      "offset": 280.8,
+      "lang": "en"
+    },
+    {
+      "text": "looks like you know vanilla V7. So, um,",
+      "duration": 6.32,
+      "offset": 283.92,
+      "lang": "en"
+    },
+    {
+      "text": "definitely the trick to that is, as they",
+      "duration": 4.96,
+      "offset": 287.84,
+      "lang": "en"
+    },
+    {
+      "text": "suggested, to use profiles, mood boards,",
+      "duration": 4.64,
+      "offset": 290.24,
+      "lang": "en"
+    },
+    {
+      "text": "and styles, and even your own uploads.",
+      "duration": 3.04,
+      "offset": 292.8,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re going to take a look at all of",
+      "duration": 2.72,
+      "offset": 294.88,
+      "lang": "en"
+    },
+    {
+      "text": "that in just one second, but just, you",
+      "duration": 5.12,
+      "offset": 295.84,
+      "lang": "en"
+    },
+    {
+      "text": "know, using my global, you know, V7, V8",
+      "duration": 4.96,
+      "offset": 297.6,
+      "lang": "en"
+    },
+    {
+      "text": "profile, which I didn&#39;t do anything with",
+      "duration": 3.36,
+      "offset": 300.96,
+      "lang": "en"
+    },
+    {
+      "text": "it, just it just automatically ported",
+      "duration": 4.24,
+      "offset": 302.56,
+      "lang": "en"
+    },
+    {
+      "text": "over to V8. I&#39;m just going to run this",
+      "duration": 4.96,
+      "offset": 304.32,
+      "lang": "en"
+    },
+    {
+      "text": "uh once again, stylize of 10,00. And",
+      "duration": 4.4,
+      "offset": 306.8,
+      "lang": "en"
+    },
+    {
+      "text": "once again, no cherry-picking. You can",
+      "duration": 4.16,
+      "offset": 309.28,
+      "lang": "en"
+    },
+    {
+      "text": "see that we definitely have a lot more",
+      "duration": 4.64,
+      "offset": 311.2,
+      "lang": "en"
+    },
+    {
+      "text": "style to our image. Granted, it might",
+      "duration": 4.32,
+      "offset": 313.44,
+      "lang": "en"
+    },
+    {
+      "text": "not be the style that you like actually.",
+      "duration": 3.12,
+      "offset": 315.84,
+      "lang": "en"
+    },
+    {
+      "text": "And to be honest, it&#39;s actually a little",
+      "duration": 3.36,
+      "offset": 317.76,
+      "lang": "en"
+    },
+    {
+      "text": "too dark for me in all honesty. Uh I",
+      "duration": 4.24,
+      "offset": 318.96,
+      "lang": "en"
+    },
+    {
+      "text": "need to tune that style up, but you",
+      "duration": 4.16,
+      "offset": 321.12,
+      "lang": "en"
+    },
+    {
+      "text": "know, it it definitely has a different",
+      "duration": 4.32,
+      "offset": 323.2,
+      "lang": "en"
+    },
+    {
+      "text": "look to it. Now, one thing that I did",
+      "duration": 3.52,
+      "offset": 325.28,
+      "lang": "en"
+    },
+    {
+      "text": "want to note is that when you are",
+      "duration": 4.0,
+      "offset": 327.52,
+      "lang": "en"
+    },
+    {
+      "text": "running your personalization codes in uh",
+      "duration": 5.84,
+      "offset": 328.8,
+      "lang": "en"
+    },
+    {
+      "text": "V8, the skin tones do tend to look a lot",
+      "duration": 5.2,
+      "offset": 331.52,
+      "lang": "en"
+    },
+    {
+      "text": "better. So, uh yeah, definitely, you",
+      "duration": 4.16,
+      "offset": 334.64,
+      "lang": "en"
+    },
+    {
+      "text": "know, use those personalization codes.",
+      "duration": 3.76,
+      "offset": 336.72,
+      "lang": "en"
+    },
+    {
+      "text": "Now, here is where we&#39;re going to go on",
+      "duration": 3.84,
+      "offset": 338.8,
+      "lang": "en"
+    },
+    {
+      "text": "a bit of a roller coaster. It starts",
+      "duration": 4.16,
+      "offset": 340.48,
+      "lang": "en"
+    },
+    {
+      "text": "bad, uh, gets good, takes some very",
+      "duration": 4.0,
+      "offset": 342.64,
+      "lang": "en"
+    },
+    {
+      "text": "weird turns, and then ultimately, I",
+      "duration": 4.08,
+      "offset": 344.64,
+      "lang": "en"
+    },
+    {
+      "text": "think, is, you know, V8 kind of teaching",
+      "duration": 4.88,
+      "offset": 346.64,
+      "lang": "en"
+    },
+    {
+      "text": "me a little something about itself. So,",
+      "duration": 5.12,
+      "offset": 348.72,
+      "lang": "en"
+    },
+    {
+      "text": "so this is a forup of a prompt that",
+      "duration": 3.76,
+      "offset": 351.52,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve run many times in the past on",
+      "duration": 3.2,
+      "offset": 353.84,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney. This is our cyberpunk woman",
+      "duration": 4.16,
+      "offset": 355.28,
+      "lang": "en"
+    },
+    {
+      "text": "with long white hair walking down a",
+      "duration": 5.76,
+      "offset": 357.04,
+      "lang": "en"
+    },
+    {
+      "text": "cyberpunk city alley in the winter. Um,",
+      "duration": 5.68,
+      "offset": 359.44,
+      "lang": "en"
+    },
+    {
+      "text": "you know, it&#39;s not bad. I actually like",
+      "duration": 3.92,
+      "offset": 362.8,
+      "lang": "en"
+    },
+    {
+      "text": "the environments in each of these. It&#39;s",
+      "duration": 3.36,
+      "offset": 365.12,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit, you know, old school",
+      "duration": 4.72,
+      "offset": 366.72,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney, you know, uh, character back",
+      "duration": 5.28,
+      "offset": 368.48,
+      "lang": "en"
+    },
+    {
+      "text": "to camera kind of thing. Uh, I did",
+      "duration": 4.0,
+      "offset": 371.44,
+      "lang": "en"
+    },
+    {
+      "text": "think, at least at first that, you know,",
+      "duration": 4.0,
+      "offset": 373.76,
+      "lang": "en"
+    },
+    {
+      "text": "we got a headless wonk over here. Uh,",
+      "duration": 3.68,
+      "offset": 375.44,
+      "lang": "en"
+    },
+    {
+      "text": "but as it turns out, if you really kind",
+      "duration": 2.96,
+      "offset": 377.76,
+      "lang": "en"
+    },
+    {
+      "text": "of zoom in there, that&#39;s just her long",
+      "duration": 2.96,
+      "offset": 379.12,
+      "lang": "en"
+    },
+    {
+      "text": "white hair blending against the",
+      "duration": 2.96,
+      "offset": 380.72,
+      "lang": "en"
+    },
+    {
+      "text": "background. Um, you know, overall kind",
+      "duration": 4.24,
+      "offset": 382.08,
+      "lang": "en"
+    },
+    {
+      "text": "of a concept arty sort of look to it.",
+      "duration": 4.24,
+      "offset": 383.68,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s like, okay, but, you know, that&#39;s",
+      "duration": 3.52,
+      "offset": 386.32,
+      "lang": "en"
+    },
+    {
+      "text": "not exactly what I was looking for. So,",
+      "duration": 4.0,
+      "offset": 387.92,
+      "lang": "en"
+    },
+    {
+      "text": "adjusting the prompt for more of a",
+      "duration": 3.92,
+      "offset": 389.84,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic look. Uh, and then actually",
+      "duration": 3.52,
+      "offset": 391.92,
+      "lang": "en"
+    },
+    {
+      "text": "reme remembering to put like three",
+      "duration": 3.2,
+      "offset": 393.76,
+      "lang": "en"
+    },
+    {
+      "text": "shadowy figures that are walking behind",
+      "duration": 3.92,
+      "offset": 395.44,
+      "lang": "en"
+    },
+    {
+      "text": "her, which kind of forces your subject",
+      "duration": 3.76,
+      "offset": 396.96,
+      "lang": "en"
+    },
+    {
+      "text": "character to be, you know, looking",
+      "duration": 3.52,
+      "offset": 399.36,
+      "lang": "en"
+    },
+    {
+      "text": "forward. Um, yeah, we ended up with",
+      "duration": 4.0,
+      "offset": 400.72,
+      "lang": "en"
+    },
+    {
+      "text": "these four results, which I did I did",
+      "duration": 3.44,
+      "offset": 402.88,
+      "lang": "en"
+    },
+    {
+      "text": "like this one. I mean, obviously I had",
+      "duration": 3.44,
+      "offset": 404.72,
+      "lang": "en"
+    },
+    {
+      "text": "to put a heart there. Uh, but I wasn&#39;t",
+      "duration": 5.28,
+      "offset": 406.32,
+      "lang": "en"
+    },
+    {
+      "text": "still like overly in love with this. So,",
+      "duration": 6.0,
+      "offset": 408.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know, the next step was to run my",
+      "duration": 4.96,
+      "offset": 411.6,
+      "lang": "en"
+    },
+    {
+      "text": "personalization code on the prompt. And",
+      "duration": 4.32,
+      "offset": 414.16,
+      "lang": "en"
+    },
+    {
+      "text": "I mean, once again, we got what we asked",
+      "duration": 3.6,
+      "offset": 416.56,
+      "lang": "en"
+    },
+    {
+      "text": "for more or less. And again,",
+      "duration": 3.6,
+      "offset": 418.48,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetically, I mean, it&#39;s in line with",
+      "duration": 3.28,
+      "offset": 420.16,
+      "lang": "en"
+    },
+    {
+      "text": "the stuff that I like considering that",
+      "duration": 3.6,
+      "offset": 422.08,
+      "lang": "en"
+    },
+    {
+      "text": "it is my personalization code. It&#39;s just",
+      "duration": 4.4,
+      "offset": 423.44,
+      "lang": "en"
+    },
+    {
+      "text": "that when you go full screen and punch",
+      "duration": 3.68,
+      "offset": 425.68,
+      "lang": "en"
+    },
+    {
+      "text": "in on an image, there&#39;s just something",
+      "duration": 3.6,
+      "offset": 427.84,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s just kind of bland about it. I",
+      "duration": 4.08,
+      "offset": 429.36,
+      "lang": "en"
+    },
+    {
+      "text": "mean, again, to me, there have been a",
+      "duration": 4.16,
+      "offset": 431.44,
+      "lang": "en"
+    },
+    {
+      "text": "lot of reports on V8 wonk. And don&#39;t get",
+      "duration": 4.32,
+      "offset": 433.44,
+      "lang": "en"
+    },
+    {
+      "text": "me wrong, I have run across it. Um,",
+      "duration": 4.32,
+      "offset": 435.6,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll take a look at that later on. But,",
+      "duration": 3.44,
+      "offset": 437.76,
+      "lang": "en"
+    },
+    {
+      "text": "uh, you know, overall, like, there&#39;s",
+      "duration": 2.96,
+      "offset": 439.92,
+      "lang": "en"
+    },
+    {
+      "text": "nothing necessarily like wonky about",
+      "duration": 3.36,
+      "offset": 441.2,
+      "lang": "en"
+    },
+    {
+      "text": "this image. It just kind of looks a",
+      "duration": 3.76,
+      "offset": 442.88,
+      "lang": "en"
+    },
+    {
+      "text": "little bland. So my next step was to",
+      "duration": 3.68,
+      "offset": 444.56,
+      "lang": "en"
+    },
+    {
+      "text": "provide it with some style references",
+      "duration": 3.28,
+      "offset": 446.64,
+      "lang": "en"
+    },
+    {
+      "text": "just to see what would end up happening.",
+      "duration": 3.92,
+      "offset": 448.24,
+      "lang": "en"
+    },
+    {
+      "text": "So uh I ended up using this image which",
+      "duration": 4.88,
+      "offset": 449.92,
+      "lang": "en"
+    },
+    {
+      "text": "I believe was version six. Version six",
+      "duration": 4.8,
+      "offset": 452.16,
+      "lang": "en"
+    },
+    {
+      "text": "or early version 7. I&#39;m not sure which.",
+      "duration": 4.24,
+      "offset": 454.8,
+      "lang": "en"
+    },
+    {
+      "text": "And this image which to be honest I",
+      "duration": 3.76,
+      "offset": 456.96,
+      "lang": "en"
+    },
+    {
+      "text": "think this is a runway image. It was",
+      "duration": 2.72,
+      "offset": 459.04,
+      "lang": "en"
+    },
+    {
+      "text": "just like kind of sitting in my",
+      "duration": 2.96,
+      "offset": 460.72,
+      "lang": "en"
+    },
+    {
+      "text": "downloads folder so I threw it in. When",
+      "duration": 4.16,
+      "offset": 461.76,
+      "lang": "en"
+    },
+    {
+      "text": "you run two image reference styles at",
+      "duration": 4.32,
+      "offset": 463.68,
+      "lang": "en"
+    },
+    {
+      "text": "the same time uh it really kind of",
+      "duration": 4.8,
+      "offset": 465.92,
+      "lang": "en"
+    },
+    {
+      "text": "breaks V8. Like the guy&#39;s face back here",
+      "duration": 4.56,
+      "offset": 468.0,
+      "lang": "en"
+    },
+    {
+      "text": "is garbled. There&#39;s like this weird like",
+      "duration": 3.6,
+      "offset": 470.72,
+      "lang": "en"
+    },
+    {
+      "text": "like kind of grainy texture over",
+      "duration": 3.6,
+      "offset": 472.56,
+      "lang": "en"
+    },
+    {
+      "text": "everything. So, yeah, highly recommend",
+      "duration": 3.84,
+      "offset": 474.32,
+      "lang": "en"
+    },
+    {
+      "text": "you do not do this. But, you know, I",
+      "duration": 4.24,
+      "offset": 476.16,
+      "lang": "en"
+    },
+    {
+      "text": "kept playing around uh with stylization",
+      "duration": 4.8,
+      "offset": 478.16,
+      "lang": "en"
+    },
+    {
+      "text": "codes, uh turning stylization up and",
+      "duration": 5.2,
+      "offset": 480.4,
+      "lang": "en"
+    },
+    {
+      "text": "down, different reference images, and",
+      "duration": 4.56,
+      "offset": 482.96,
+      "lang": "en"
+    },
+    {
+      "text": "you know, I mean, like there&#39;s stuff in",
+      "duration": 3.28,
+      "offset": 485.6,
+      "lang": "en"
+    },
+    {
+      "text": "here that I liked. It&#39;s just like",
+      "duration": 4.56,
+      "offset": 487.52,
+      "lang": "en"
+    },
+    {
+      "text": "nothing was fully grabbing me, like as I",
+      "duration": 5.28,
+      "offset": 488.88,
+      "lang": "en"
+    },
+    {
+      "text": "hoped it was going to. Um, and then",
+      "duration": 3.28,
+      "offset": 492.08,
+      "lang": "en"
+    },
+    {
+      "text": "every once in a while, I would run",
+      "duration": 3.12,
+      "offset": 494.16,
+      "lang": "en"
+    },
+    {
+      "text": "across a generation that I thought",
+      "duration": 3.6,
+      "offset": 495.36,
+      "lang": "en"
+    },
+    {
+      "text": "looked pretty good. Like, for example,",
+      "duration": 3.6,
+      "offset": 497.28,
+      "lang": "en"
+    },
+    {
+      "text": "on quick glance, this one, but then when",
+      "duration": 3.76,
+      "offset": 498.96,
+      "lang": "en"
+    },
+    {
+      "text": "you punch in, um, you know, just kind of",
+      "duration": 4.4,
+      "offset": 500.88,
+      "lang": "en"
+    },
+    {
+      "text": "a like a sad face. And as my experiment",
+      "duration": 4.0,
+      "offset": 502.72,
+      "lang": "en"
+    },
+    {
+      "text": "started to drift into well what I like",
+      "duration": 4.24,
+      "offset": 505.28,
+      "lang": "en"
+    },
+    {
+      "text": "to call like version five faces, uh this",
+      "duration": 4.64,
+      "offset": 506.72,
+      "lang": "en"
+    },
+    {
+      "text": "is where things ended up taking a turn",
+      "duration": 4.16,
+      "offset": 509.52,
+      "lang": "en"
+    },
+    {
+      "text": "for the weird because this is when I",
+      "duration": 4.16,
+      "offset": 511.36,
+      "lang": "en"
+    },
+    {
+      "text": "started playing around with style",
+      "duration": 3.44,
+      "offset": 513.68,
+      "lang": "en"
+    },
+    {
+      "text": "creator. So if you hit this button",
+      "duration": 3.28,
+      "offset": 515.52,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;ll take you over to the style",
+      "duration": 4.96,
+      "offset": 517.12,
+      "lang": "en"
+    },
+    {
+      "text": "creator like module. Um and you know",
+      "duration": 5.6,
+      "offset": 518.8,
+      "lang": "en"
+    },
+    {
+      "text": "essentially your prompt is loaded in. So",
+      "duration": 4.24,
+      "offset": 522.08,
+      "lang": "en"
+    },
+    {
+      "text": "all you&#39;re really doing is finding",
+      "duration": 4.32,
+      "offset": 524.4,
+      "lang": "en"
+    },
+    {
+      "text": "images that you sort of want to play",
+      "duration": 4.08,
+      "offset": 526.32,
+      "lang": "en"
+    },
+    {
+      "text": "around with in terms of an aesthetic.",
+      "duration": 3.92,
+      "offset": 528.72,
+      "lang": "en"
+    },
+    {
+      "text": "So, um, so if I click like, uh, I don&#39;t",
+      "duration": 4.8,
+      "offset": 530.4,
+      "lang": "en"
+    },
+    {
+      "text": "know, this vom green vomy kind of one,",
+      "duration": 4.4,
+      "offset": 532.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh, you&#39;ll see it&#39;s loaded up in here.",
+      "duration": 4.08,
+      "offset": 535.2,
+      "lang": "en"
+    },
+    {
+      "text": "As you scroll down, um, you can pick",
+      "duration": 3.92,
+      "offset": 537.04,
+      "lang": "en"
+    },
+    {
+      "text": "more. So, let&#39;s pick another one here.",
+      "duration": 3.52,
+      "offset": 539.28,
+      "lang": "en"
+    },
+    {
+      "text": "And then as after you pass a certain",
+      "duration": 3.92,
+      "offset": 540.96,
+      "lang": "en"
+    },
+    {
+      "text": "threshold, it&#39;ll just start generating.",
+      "duration": 3.76,
+      "offset": 542.8,
+      "lang": "en"
+    },
+    {
+      "text": "And while I&#39;ll say again, things got",
+      "duration": 3.92,
+      "offset": 544.88,
+      "lang": "en"
+    },
+    {
+      "text": "weird. Um, you know, the results were",
+      "duration": 4.24,
+      "offset": 546.56,
+      "lang": "en"
+    },
+    {
+      "text": "pretty interesting immediately that this",
+      "duration": 5.84,
+      "offset": 548.8,
+      "lang": "en"
+    },
+    {
+      "text": "has a very like late8s like manga meets",
+      "duration": 6.16,
+      "offset": 550.8,
+      "lang": "en"
+    },
+    {
+      "text": "like uh European comics kind of like",
+      "duration": 4.4,
+      "offset": 554.64,
+      "lang": "en"
+    },
+    {
+      "text": "vibe to it. some more kind of typical",
+      "duration": 4.16,
+      "offset": 556.96,
+      "lang": "en"
+    },
+    {
+      "text": "modern comic kind of looks. Uh, again,",
+      "duration": 3.44,
+      "offset": 559.04,
+      "lang": "en"
+    },
+    {
+      "text": "not something I would have necessarily",
+      "duration": 3.12,
+      "offset": 561.12,
+      "lang": "en"
+    },
+    {
+      "text": "prompted for. Ended up in a weird like",
+      "duration": 4.56,
+      "offset": 562.48,
+      "lang": "en"
+    },
+    {
+      "text": "editorial fashion kind of area with our",
+      "duration": 5.12,
+      "offset": 564.24,
+      "lang": "en"
+    },
+    {
+      "text": "uh, mysterious figures now in red robes.",
+      "duration": 3.68,
+      "offset": 567.04,
+      "lang": "en"
+    },
+    {
+      "text": "I actually thought this one was kind of",
+      "duration": 3.28,
+      "offset": 569.36,
+      "lang": "en"
+    },
+    {
+      "text": "pretty interesting into kind of a weird",
+      "duration": 4.0,
+      "offset": 570.72,
+      "lang": "en"
+    },
+    {
+      "text": "like tech streetear kind of vibe and",
+      "duration": 4.0,
+      "offset": 572.64,
+      "lang": "en"
+    },
+    {
+      "text": "then ultimately this kind of like",
+      "duration": 3.68,
+      "offset": 574.72,
+      "lang": "en"
+    },
+    {
+      "text": "vectorized look that I thought looked",
+      "duration": 3.52,
+      "offset": 576.64,
+      "lang": "en"
+    },
+    {
+      "text": "pretty interesting and this one which",
+      "duration": 3.04,
+      "offset": 578.4,
+      "lang": "en"
+    },
+    {
+      "text": "kind of made the decision to put kind of",
+      "duration": 3.2,
+      "offset": 580.16,
+      "lang": "en"
+    },
+    {
+      "text": "like Terminator glowing eyes in her. Uh,",
+      "duration": 3.28,
+      "offset": 581.44,
+      "lang": "en"
+    },
+    {
+      "text": "and I like this one enough that I turned",
+      "duration": 3.76,
+      "offset": 583.36,
+      "lang": "en"
+    },
+    {
+      "text": "it into a video. So look at baseline",
+      "duration": 5.52,
+      "offset": 584.72,
+      "lang": "en"
+    },
+    {
+      "text": "version 8 has some work to tune up on as",
+      "duration": 5.6,
+      "offset": 587.12,
+      "lang": "en"
+    },
+    {
+      "text": "has been you know widely noted that",
+      "duration": 5.68,
+      "offset": 590.24,
+      "lang": "en"
+    },
+    {
+      "text": "again it is an alpha this is common v7",
+      "duration": 5.68,
+      "offset": 592.72,
+      "lang": "en"
+    },
+    {
+      "text": "was a mess at launch but you know you",
+      "duration": 4.08,
+      "offset": 595.92,
+      "lang": "en"
+    },
+    {
+      "text": "can get some good stuff out of it",
+      "duration": 3.36,
+      "offset": 598.4,
+      "lang": "en"
+    },
+    {
+      "text": "currently and with the workflow that",
+      "duration": 3.92,
+      "offset": 600.0,
+      "lang": "en"
+    },
+    {
+      "text": "they seem to be nudging towards uh I",
+      "duration": 4.16,
+      "offset": 601.76,
+      "lang": "en"
+    },
+    {
+      "text": "think this shows actually the the sort",
+      "duration": 3.92,
+      "offset": 603.92,
+      "lang": "en"
+    },
+    {
+      "text": "of course that midjourney is charting",
+      "duration": 4.48,
+      "offset": 605.92,
+      "lang": "en"
+    },
+    {
+      "text": "itself on and that is as a stylistic",
+      "duration": 4.24,
+      "offset": 607.84,
+      "lang": "en"
+    },
+    {
+      "text": "exploration tool. We&#39;ll talk more about",
+      "duration": 3.28,
+      "offset": 610.4,
+      "lang": "en"
+    },
+    {
+      "text": "that in just a minute but first let&#39;s",
+      "duration": 3.68,
+      "offset": 612.08,
+      "lang": "en"
+    },
+    {
+      "text": "bring flamethrower girl home. So, our",
+      "duration": 4.32,
+      "offset": 613.68,
+      "lang": "en"
+    },
+    {
+      "text": "original girl was created back in June",
+      "duration": 5.52,
+      "offset": 615.76,
+      "lang": "en"
+    },
+    {
+      "text": "19th of 2025 on MidJourney V7. So, hey,",
+      "duration": 5.04,
+      "offset": 618.0,
+      "lang": "en"
+    },
+    {
+      "text": "she has a birthday now. And I did",
+      "duration": 3.76,
+      "offset": 621.28,
+      "lang": "en"
+    },
+    {
+      "text": "promise you guys some wonk. So, taking",
+      "duration": 4.16,
+      "offset": 623.04,
+      "lang": "en"
+    },
+    {
+      "text": "her original prompt and rerunning it in",
+      "duration": 4.16,
+      "offset": 625.04,
+      "lang": "en"
+    },
+    {
+      "text": "V8. I mean, yeah, we end we ended up",
+      "duration": 3.36,
+      "offset": 627.2,
+      "lang": "en"
+    },
+    {
+      "text": "with some we ended up with some wonk",
+      "duration": 3.36,
+      "offset": 629.2,
+      "lang": "en"
+    },
+    {
+      "text": "here for sure. Um, I mean, anything",
+      "duration": 4.24,
+      "offset": 630.56,
+      "lang": "en"
+    },
+    {
+      "text": "between wonk and just like just some",
+      "duration": 4.24,
+      "offset": 632.56,
+      "lang": "en"
+    },
+    {
+      "text": "pretty bizarre images. Prompting is",
+      "duration": 4.0,
+      "offset": 634.8,
+      "lang": "en"
+    },
+    {
+      "text": "definitely a different beast in V8. So,",
+      "duration": 3.52,
+      "offset": 636.8,
+      "lang": "en"
+    },
+    {
+      "text": "what I ended up doing was running a",
+      "duration": 4.32,
+      "offset": 638.8,
+      "lang": "en"
+    },
+    {
+      "text": "describe on that original image and this",
+      "duration": 4.4,
+      "offset": 640.32,
+      "lang": "en"
+    },
+    {
+      "text": "was the output that we ended up getting.",
+      "duration": 3.04,
+      "offset": 643.12,
+      "lang": "en"
+    },
+    {
+      "text": "So, this is like the the version 8",
+      "duration": 3.04,
+      "offset": 644.72,
+      "lang": "en"
+    },
+    {
+      "text": "version of her. Don&#39;t worry, like the",
+      "duration": 3.04,
+      "offset": 646.16,
+      "lang": "en"
+    },
+    {
+      "text": "original girl is not going anywhere, but",
+      "duration": 2.88,
+      "offset": 647.76,
+      "lang": "en"
+    },
+    {
+      "text": "this is just essentially what she looks",
+      "duration": 3.44,
+      "offset": 649.2,
+      "lang": "en"
+    },
+    {
+      "text": "like in version 8. Now, here&#39;s where",
+      "duration": 4.0,
+      "offset": 650.64,
+      "lang": "en"
+    },
+    {
+      "text": "things get interesting is that by taking",
+      "duration": 4.8,
+      "offset": 652.64,
+      "lang": "en"
+    },
+    {
+      "text": "the version 8 version of her and uh",
+      "duration": 4.08,
+      "offset": 654.64,
+      "lang": "en"
+    },
+    {
+      "text": "again, just kind of playing around with",
+      "duration": 4.72,
+      "offset": 657.44,
+      "lang": "en"
+    },
+    {
+      "text": "the style creator here. Um I was doing",
+      "duration": 6.0,
+      "offset": 658.72,
+      "lang": "en"
+    },
+    {
+      "text": "some kind of random ones. Um and you",
+      "duration": 3.68,
+      "offset": 662.16,
+      "lang": "en"
+    },
+    {
+      "text": "know, as you can see, they sort of",
+      "duration": 2.72,
+      "offset": 664.72,
+      "lang": "en"
+    },
+    {
+      "text": "populate around here. One thing I do",
+      "duration": 3.68,
+      "offset": 665.84,
+      "lang": "en"
+    },
+    {
+      "text": "want to note, by the way, is is don&#39;t",
+      "duration": 6.64,
+      "offset": 667.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can do multiple um styles in one",
+      "duration": 7.2,
+      "offset": 669.52,
+      "lang": "en"
+    },
+    {
+      "text": "shot. Don&#39;t go too overboard. They are",
+      "duration": 5.52,
+      "offset": 674.08,
+      "lang": "en"
+    },
+    {
+      "text": "still like style ref codes. So, um if",
+      "duration": 4.64,
+      "offset": 676.72,
+      "lang": "en"
+    },
+    {
+      "text": "you know you you pump five of them into",
+      "duration": 3.52,
+      "offset": 679.6,
+      "lang": "en"
+    },
+    {
+      "text": "one output, it&#39;s it&#39;s going to get",
+      "duration": 3.6,
+      "offset": 681.36,
+      "lang": "en"
+    },
+    {
+      "text": "pretty sloppy. As I was playing around",
+      "duration": 3.28,
+      "offset": 683.12,
+      "lang": "en"
+    },
+    {
+      "text": "with these kind of more animated and",
+      "duration": 3.12,
+      "offset": 684.96,
+      "lang": "en"
+    },
+    {
+      "text": "whimsical looks, well, it kind of ended",
+      "duration": 3.68,
+      "offset": 686.4,
+      "lang": "en"
+    },
+    {
+      "text": "up turning back into her. But like, you",
+      "duration": 3.76,
+      "offset": 688.08,
+      "lang": "en"
+    },
+    {
+      "text": "know, Flamethrower Girl, the animated",
+      "duration": 3.44,
+      "offset": 690.08,
+      "lang": "en"
+    },
+    {
+      "text": "series. At one point, she ended up",
+      "duration": 3.36,
+      "offset": 691.84,
+      "lang": "en"
+    },
+    {
+      "text": "becoming like a flat like Duchamp",
+      "duration": 4.08,
+      "offset": 693.52,
+      "lang": "en"
+    },
+    {
+      "text": "inspired flat painting. Another image",
+      "duration": 3.92,
+      "offset": 695.2,
+      "lang": "en"
+    },
+    {
+      "text": "that looks like it was lifted out of",
+      "duration": 3.36,
+      "offset": 697.6,
+      "lang": "en"
+    },
+    {
+      "text": "like a horror comic book. And another",
+      "duration": 3.52,
+      "offset": 699.12,
+      "lang": "en"
+    },
+    {
+      "text": "one that I thought looked pretty cool",
+      "duration": 4.32,
+      "offset": 700.96,
+      "lang": "en"
+    },
+    {
+      "text": "stylistically, but did lack her as a",
+      "duration": 4.72,
+      "offset": 702.64,
+      "lang": "en"
+    },
+    {
+      "text": "subject. But, I mean, that&#39;s what we",
+      "duration": 3.92,
+      "offset": 705.28,
+      "lang": "en"
+    },
+    {
+      "text": "have not a banana for. I mean, just take",
+      "duration": 3.76,
+      "offset": 707.36,
+      "lang": "en"
+    },
+    {
+      "text": "her base model and plug her into that.",
+      "duration": 3.2,
+      "offset": 709.2,
+      "lang": "en"
+    },
+    {
+      "text": "And the prompt here was very simple.",
+      "duration": 2.96,
+      "offset": 711.12,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s just like replace the character",
+      "duration": 3.84,
+      "offset": 712.4,
+      "lang": "en"
+    },
+    {
+      "text": "with the attached character reference.",
+      "duration": 4.16,
+      "offset": 714.08,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, I will say that having run this a",
+      "duration": 4.0,
+      "offset": 716.24,
+      "lang": "en"
+    },
+    {
+      "text": "few times. Nano Banana Pro seems to be",
+      "duration": 3.92,
+      "offset": 718.24,
+      "lang": "en"
+    },
+    {
+      "text": "the way to go. Two takes far too many",
+      "duration": 3.6,
+      "offset": 720.24,
+      "lang": "en"
+    },
+    {
+      "text": "liberties. Here was another one that",
+      "duration": 3.68,
+      "offset": 722.16,
+      "lang": "en"
+    },
+    {
+      "text": "ended up kind of like GTA influenced.",
+      "duration": 4.32,
+      "offset": 723.84,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, the top image was the midjourney",
+      "duration": 4.24,
+      "offset": 725.84,
+      "lang": "en"
+    },
+    {
+      "text": "output and then the bottom image was a",
+      "duration": 4.8,
+      "offset": 728.16,
+      "lang": "en"
+    },
+    {
+      "text": "Nano Banana Pro redo with her. Now, a",
+      "duration": 4.16,
+      "offset": 730.08,
+      "lang": "en"
+    },
+    {
+      "text": "couple of things to go over with the",
+      "duration": 2.96,
+      "offset": 732.96,
+      "lang": "en"
+    },
+    {
+      "text": "alpha. For one, I mean, it&#39;s it&#39;s kind",
+      "duration": 3.76,
+      "offset": 734.24,
+      "lang": "en"
+    },
+    {
+      "text": "of costly. There is no relax mode. It&#39;s",
+      "duration": 4.16,
+      "offset": 735.92,
+      "lang": "en"
+    },
+    {
+      "text": "only running fast mode, and it&#39;s a it&#39;s",
+      "duration": 4.4,
+      "offset": 738.0,
+      "lang": "en"
+    },
+    {
+      "text": "a credit burner. as mentioned that HD",
+      "duration": 4.8,
+      "offset": 740.08,
+      "lang": "en"
+    },
+    {
+      "text": "mode and quality 4 plus style references",
+      "duration": 4.88,
+      "offset": 742.4,
+      "lang": "en"
+    },
+    {
+      "text": "and mood boards. Um, I mean that can all",
+      "duration": 4.72,
+      "offset": 744.88,
+      "lang": "en"
+    },
+    {
+      "text": "currently run you like four times slower",
+      "duration": 4.96,
+      "offset": 747.28,
+      "lang": "en"
+    },
+    {
+      "text": "and actually four times as much. That of",
+      "duration": 4.88,
+      "offset": 749.6,
+      "lang": "en"
+    },
+    {
+      "text": "course is expected to change fairly soon",
+      "duration": 4.8,
+      "offset": 752.24,
+      "lang": "en"
+    },
+    {
+      "text": "likely before it comes out of alpha so",
+      "duration": 4.72,
+      "offset": 754.48,
+      "lang": "en"
+    },
+    {
+      "text": "before it hits midjourney.com. Uh to",
+      "duration": 4.0,
+      "offset": 757.04,
+      "lang": "en"
+    },
+    {
+      "text": "note V8 was actually completely",
+      "duration": 3.68,
+      "offset": 759.2,
+      "lang": "en"
+    },
+    {
+      "text": "rewritten. They switched from using",
+      "duration": 4.0,
+      "offset": 761.04,
+      "lang": "en"
+    },
+    {
+      "text": "Google&#39;s TPUs, the tensor processing",
+      "duration": 4.88,
+      "offset": 762.88,
+      "lang": "en"
+    },
+    {
+      "text": "units, uh to GPUs with a sidetor code",
+      "duration": 5.36,
+      "offset": 765.04,
+      "lang": "en"
+    },
+    {
+      "text": "base, which is uh going to optimize",
+      "duration": 4.56,
+      "offset": 767.76,
+      "lang": "en"
+    },
+    {
+      "text": "things, make it easier to work on. Uh",
+      "duration": 3.2,
+      "offset": 770.4,
+      "lang": "en"
+    },
+    {
+      "text": "and then ultimately actually kind of",
+      "duration": 2.88,
+      "offset": 772.32,
+      "lang": "en"
+    },
+    {
+      "text": "even ties back to what we were talking",
+      "duration": 4.24,
+      "offset": 773.6,
+      "lang": "en"
+    },
+    {
+      "text": "about in the last video on Nvidia like",
+      "duration": 5.92,
+      "offset": 775.2,
+      "lang": "en"
+    },
+    {
+      "text": "now um they could run midjourney off of",
+      "duration": 5.68,
+      "offset": 777.84,
+      "lang": "en"
+    },
+    {
+      "text": "Vera Rubin. So that of course means you",
+      "duration": 4.64,
+      "offset": 781.12,
+      "lang": "en"
+    },
+    {
+      "text": "know even faster and cheaper inference",
+      "duration": 4.32,
+      "offset": 783.52,
+      "lang": "en"
+    },
+    {
+      "text": "you know down the road. Um, that&#39;s I",
+      "duration": 3.76,
+      "offset": 785.76,
+      "lang": "en"
+    },
+    {
+      "text": "think that that would be probably more a",
+      "duration": 4.48,
+      "offset": 787.84,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney V9 thing. As for additional",
+      "duration": 4.56,
+      "offset": 789.52,
+      "lang": "en"
+    },
+    {
+      "text": "features, I&#39;m sure that they are all",
+      "duration": 3.76,
+      "offset": 792.32,
+      "lang": "en"
+    },
+    {
+      "text": "coming. This is, you know, typical for a",
+      "duration": 3.76,
+      "offset": 794.08,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney release is, you know, they",
+      "duration": 3.84,
+      "offset": 796.08,
+      "lang": "en"
+    },
+    {
+      "text": "release the model and then slowly um,",
+      "duration": 3.6,
+      "offset": 797.84,
+      "lang": "en"
+    },
+    {
+      "text": "you know, things like the editor and",
+      "duration": 3.52,
+      "offset": 799.92,
+      "lang": "en"
+    },
+    {
+      "text": "other things are filtering in. I mean,",
+      "duration": 4.32,
+      "offset": 801.44,
+      "lang": "en"
+    },
+    {
+      "text": "that said, look, control in midjourney",
+      "duration": 4.08,
+      "offset": 803.44,
+      "lang": "en"
+    },
+    {
+      "text": "has always been, I mean, politely put,",
+      "duration": 3.6,
+      "offset": 805.76,
+      "lang": "en"
+    },
+    {
+      "text": "finicky. And that&#39;s okay because again,",
+      "duration": 3.76,
+      "offset": 807.52,
+      "lang": "en"
+    },
+    {
+      "text": "we can always take these outputs and pop",
+      "duration": 4.24,
+      "offset": 809.36,
+      "lang": "en"
+    },
+    {
+      "text": "them into Nano Banana. And to that, I",
+      "duration": 4.16,
+      "offset": 811.28,
+      "lang": "en"
+    },
+    {
+      "text": "mean, I kind of think that that&#39;s where",
+      "duration": 4.4,
+      "offset": 813.6,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney is really headed. Uh, CEO",
+      "duration": 4.16,
+      "offset": 815.44,
+      "lang": "en"
+    },
+    {
+      "text": "David Holtz has talked about, and I&#39;m",
+      "duration": 3.6,
+      "offset": 818.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not directly quoting here, but sort",
+      "duration": 4.4,
+      "offset": 819.6,
+      "lang": "en"
+    },
+    {
+      "text": "of like the vibe of a postprompting",
+      "duration": 4.4,
+      "offset": 821.6,
+      "lang": "en"
+    },
+    {
+      "text": "world. And you can kind of see the",
+      "duration": 3.52,
+      "offset": 824.0,
+      "lang": "en"
+    },
+    {
+      "text": "thinking here between, you know,",
+      "duration": 3.92,
+      "offset": 826.0,
+      "lang": "en"
+    },
+    {
+      "text": "personalization codes, uh, mood boards,",
+      "duration": 4.8,
+      "offset": 827.52,
+      "lang": "en"
+    },
+    {
+      "text": "and, uh, the stylization parts",
+      "duration": 4.4,
+      "offset": 829.92,
+      "lang": "en"
+    },
+    {
+      "text": "especially, uh, is that, you know, it&#39;s",
+      "duration": 4.32,
+      "offset": 832.32,
+      "lang": "en"
+    },
+    {
+      "text": "definitely much more visual. So, you",
+      "duration": 3.6,
+      "offset": 834.32,
+      "lang": "en"
+    },
+    {
+      "text": "know, I think a good framing for",
+      "duration": 3.92,
+      "offset": 836.64,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney might be less about your",
+      "duration": 4.96,
+      "offset": 837.92,
+      "lang": "en"
+    },
+    {
+      "text": "one-stop platform for generating all of",
+      "duration": 4.32,
+      "offset": 840.56,
+      "lang": "en"
+    },
+    {
+      "text": "your image and doing all of your things",
+      "duration": 4.24,
+      "offset": 842.88,
+      "lang": "en"
+    },
+    {
+      "text": "to it and more about discovering the",
+      "duration": 4.8,
+      "offset": 844.88,
+      "lang": "en"
+    },
+    {
+      "text": "looks, styles, and tone and characters",
+      "duration": 4.56,
+      "offset": 847.12,
+      "lang": "en"
+    },
+    {
+      "text": "that you want to explore. And, you know,",
+      "duration": 3.92,
+      "offset": 849.68,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s not a bad direction to go in",
+      "duration": 3.6,
+      "offset": 851.68,
+      "lang": "en"
+    },
+    {
+      "text": "essentially becoming like the style",
+      "duration": 4.24,
+      "offset": 853.6,
+      "lang": "en"
+    },
+    {
+      "text": "definer or lookbook for projects. I",
+      "duration": 4.72,
+      "offset": 855.28,
+      "lang": "en"
+    },
+    {
+      "text": "mean, for me, and I mean, everyone works",
+      "duration": 4.16,
+      "offset": 857.84,
+      "lang": "en"
+    },
+    {
+      "text": "differently, but that&#39;s always been the",
+      "duration": 3.68,
+      "offset": 860.0,
+      "lang": "en"
+    },
+    {
+      "text": "sauce of midjourney to me is that",
+      "duration": 3.2,
+      "offset": 862.0,
+      "lang": "en"
+    },
+    {
+      "text": "anytime that you generate an image, it",
+      "duration": 3.44,
+      "offset": 863.68,
+      "lang": "en"
+    },
+    {
+      "text": "just kind of feels like there&#39;s a story",
+      "duration": 3.84,
+      "offset": 865.2,
+      "lang": "en"
+    },
+    {
+      "text": "behind that image. Sometimes it&#39;s a",
+      "duration": 3.76,
+      "offset": 867.12,
+      "lang": "en"
+    },
+    {
+      "text": "janky story, you know, but more often",
+      "duration": 3.68,
+      "offset": 869.04,
+      "lang": "en"
+    },
+    {
+      "text": "than not, there&#39;s just kind of something",
+      "duration": 3.44,
+      "offset": 870.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s there that makes you want to peek",
+      "duration": 3.76,
+      "offset": 872.72,
+      "lang": "en"
+    },
+    {
+      "text": "around the corner. And yes, again, while",
+      "duration": 3.76,
+      "offset": 874.32,
+      "lang": "en"
+    },
+    {
+      "text": "things like editing features are going",
+      "duration": 3.84,
+      "offset": 876.48,
+      "lang": "en"
+    },
+    {
+      "text": "to arrive at some point in this version,",
+      "duration": 4.08,
+      "offset": 878.08,
+      "lang": "en"
+    },
+    {
+      "text": "and I will give them a very fair look",
+      "duration": 3.84,
+      "offset": 880.32,
+      "lang": "en"
+    },
+    {
+      "text": "when they do, I mean, but it is going to",
+      "duration": 4.4,
+      "offset": 882.16,
+      "lang": "en"
+    },
+    {
+      "text": "be tough to beat Nano Banana. But I also",
+      "duration": 4.24,
+      "offset": 884.16,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t necessarily think that that&#39;s a",
+      "duration": 4.16,
+      "offset": 886.56,
+      "lang": "en"
+    },
+    {
+      "text": "fair comparison. Uh you know Nano Banana",
+      "duration": 4.64,
+      "offset": 888.4,
+      "lang": "en"
+    },
+    {
+      "text": "and others like it are auto reggressive",
+      "duration": 3.84,
+      "offset": 890.72,
+      "lang": "en"
+    },
+    {
+      "text": "models or you know thinking models",
+      "duration": 4.08,
+      "offset": 893.04,
+      "lang": "en"
+    },
+    {
+      "text": "whereas Midjourney is a diffusion model.",
+      "duration": 4.72,
+      "offset": 894.56,
+      "lang": "en"
+    },
+    {
+      "text": "Neither is right or wrong. The same way",
+      "duration": 4.08,
+      "offset": 897.12,
+      "lang": "en"
+    },
+    {
+      "text": "a pencil isn&#39;t any more right than a",
+      "duration": 3.92,
+      "offset": 899.28,
+      "lang": "en"
+    },
+    {
+      "text": "pen. So at the end of the day is",
+      "duration": 4.08,
+      "offset": 901.2,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney version 8 the greatest image",
+      "duration": 3.84,
+      "offset": 903.2,
+      "lang": "en"
+    },
+    {
+      "text": "model on the planet. No it&#39;s not. In",
+      "duration": 3.44,
+      "offset": 905.28,
+      "lang": "en"
+    },
+    {
+      "text": "fact it&#39;s actually kind of a mess. But",
+      "duration": 3.44,
+      "offset": 907.04,
+      "lang": "en"
+    },
+    {
+      "text": "also that&#39;s why you have to go to a",
+      "duration": 3.68,
+      "offset": 908.72,
+      "lang": "en"
+    },
+    {
+      "text": "different URL to use it. In fact, in",
+      "duration": 4.32,
+      "offset": 910.48,
+      "lang": "en"
+    },
+    {
+      "text": "terms of the overall output of V8, like",
+      "duration": 4.48,
+      "offset": 912.4,
+      "lang": "en"
+    },
+    {
+      "text": "even the like the really good ones, um",
+      "duration": 3.84,
+      "offset": 914.8,
+      "lang": "en"
+    },
+    {
+      "text": "the difference between version seven and",
+      "duration": 4.64,
+      "offset": 916.88,
+      "lang": "en"
+    },
+    {
+      "text": "version 8 are kind of minute to my eyes,",
+      "duration": 5.76,
+      "offset": 918.64,
+      "lang": "en"
+    },
+    {
+      "text": "at least so far. Um this isn&#39;t like the",
+      "duration": 4.72,
+      "offset": 921.52,
+      "lang": "en"
+    },
+    {
+      "text": "giant leap that we saw from like say",
+      "duration": 5.12,
+      "offset": 924.4,
+      "lang": "en"
+    },
+    {
+      "text": "version 3 to 4 or even four to five. But",
+      "duration": 5.52,
+      "offset": 926.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s okay because remember, I mean V8",
+      "duration": 4.0,
+      "offset": 929.52,
+      "lang": "en"
+    },
+    {
+      "text": "is not just a new model. It&#39;s a whole",
+      "duration": 4.4,
+      "offset": 931.76,
+      "lang": "en"
+    },
+    {
+      "text": "new code base. So in some ways it is",
+      "duration": 4.32,
+      "offset": 933.52,
+      "lang": "en"
+    },
+    {
+      "text": "starting over. I wouldn&#39;t say from",
+      "duration": 5.2,
+      "offset": 936.16,
+      "lang": "en"
+    },
+    {
+      "text": "scratch, but I expect to see more of a",
+      "duration": 5.44,
+      "offset": 937.84,
+      "lang": "en"
+    },
+    {
+      "text": "difference coming as time goes on.",
+      "duration": 3.36,
+      "offset": 941.36,
+      "lang": "en"
+    },
+    {
+      "text": "Honestly, I think the interesting part",
+      "duration": 2.96,
+      "offset": 943.28,
+      "lang": "en"
+    },
+    {
+      "text": "is going to be like the new interface",
+      "duration": 3.84,
+      "offset": 944.72,
+      "lang": "en"
+    },
+    {
+      "text": "and how the model is going to optimize",
+      "duration": 3.84,
+      "offset": 946.24,
+      "lang": "en"
+    },
+    {
+      "text": "for like style references and",
+      "duration": 3.76,
+      "offset": 948.56,
+      "lang": "en"
+    },
+    {
+      "text": "personalization. So, did they cook or",
+      "duration": 4.24,
+      "offset": 950.08,
+      "lang": "en"
+    },
+    {
+      "text": "are they cooked? I mean, in all honesty,",
+      "duration": 3.92,
+      "offset": 952.32,
+      "lang": "en"
+    },
+    {
+      "text": "version 8 is still in the oven really.",
+      "duration": 4.48,
+      "offset": 954.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, we&#39;ll see. But as far as like is",
+      "duration": 4.64,
+      "offset": 956.24,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney cooked, I mean, no, they&#39;re",
+      "duration": 3.52,
+      "offset": 958.8,
+      "lang": "en"
+    },
+    {
+      "text": "not going anywhere. I know there&#39;s",
+      "duration": 3.28,
+      "offset": 960.88,
+      "lang": "en"
+    },
+    {
+      "text": "always this sentiment amongst some",
+      "duration": 3.44,
+      "offset": 962.32,
+      "lang": "en"
+    },
+    {
+      "text": "people that feel like I mean MidJourney",
+      "duration": 3.44,
+      "offset": 964.16,
+      "lang": "en"
+    },
+    {
+      "text": "is a ghost town. Nobody uses it anymore.",
+      "duration": 3.6,
+      "offset": 965.76,
+      "lang": "en"
+    },
+    {
+      "text": "But I mean, as of last year, they were",
+      "duration": 4.64,
+      "offset": 967.6,
+      "lang": "en"
+    },
+    {
+      "text": "still sitting at 21 million users, and",
+      "duration": 4.72,
+      "offset": 969.36,
+      "lang": "en"
+    },
+    {
+      "text": "that is a lot of users for a company",
+      "duration": 3.92,
+      "offset": 972.24,
+      "lang": "en"
+    },
+    {
+      "text": "that doesn&#39;t owe anyone any outside",
+      "duration": 3.84,
+      "offset": 974.08,
+      "lang": "en"
+    },
+    {
+      "text": "funding. So yeah, I mean, they&#39;re just",
+      "duration": 3.44,
+      "offset": 976.16,
+      "lang": "en"
+    },
+    {
+      "text": "going to keep plugging away. And well, I",
+      "duration": 2.88,
+      "offset": 977.92,
+      "lang": "en"
+    },
+    {
+      "text": "mean, I&#39;ll be here making silly",
+      "duration": 3.28,
+      "offset": 979.6,
+      "lang": "en"
+    },
+    {
+      "text": "thumbnails about the new versions. Well,",
+      "duration": 3.6,
+      "offset": 980.8,
+      "lang": "en"
+    },
+    {
+      "text": "at least until we get to version 10.",
+      "duration": 3.2,
+      "offset": 982.88,
+      "lang": "en"
+    },
+    {
+      "text": "Man, what am I going to do then? I guess",
+      "duration": 3.52,
+      "offset": 984.4,
+      "lang": "en"
+    },
+    {
+      "text": "we got two years to find out. Until",
+      "duration": 3.52,
+      "offset": 986.08,
+      "lang": "en"
+    },
+    {
+      "text": "then, I thank you for watching. My name",
+      "duration": 4.0,
+      "offset": 987.92,
+      "lang": "en"
+    },
+    {
+      "text": "is Tim.",
+      "duration": 2.32,
+      "offset": 989.6,
+      "lang": "en"
+    }
+  ]
+}

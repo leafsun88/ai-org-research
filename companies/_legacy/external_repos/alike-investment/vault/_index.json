@@ -1,0 +1,2995 @@
+{
+  "version": "2.0",
+  "updated": "2026-04-09",
+  "ticker_map": {
+    "COIN": "coinbase",
+    "DUOL": "duolingo",
+    "9992.HK": "pop-mart",
+    "POP": "pop-mart",
+    "COHERE": "cohere",
+    "CURSOR": "cursor",
+    "GOOGL": "alphabet",
+    "MSFT": "microsoft",
+    "AMZN": "amazon",
+    "0700.HK": "tencent",
+    "NFLX": "netflix",
+    "BABA": "alibaba",
+    "CRM": "salesforce",
+    "PLTR": "palantir",
+    "ADBE": "adobe",
+    "PDD": "pdd-holdings",
+    "APP": "applovin",
+    "3690.HK": "meituan",
+    "MELI": "mercadolibre",
+    "SPOT": "spotify",
+    "SNOW": "snowflake",
+    "SE": "sea-limited",
+    "1024.HK": "kuaishou",
+    "JD": "jd-com",
+    "TTWO": "take-two",
+    "BIDU": "baidu",
+    "NTES": "netease",
+    "TCOM": "trip-com",
+    "WBD": "warner-bros-discovery",
+    "RBLX": "roblox",
+    "HUBS": "hubspot",
+    "TTD": "trade-desk",
+    "SNAP": "snap",
+    "RDDT": "reddit",
+    "GRAB": "grab",
+    "PINS": "pinterest",
+    "TME": "tencent-music",
+    "ROKU": "roku",
+    "KVYO": "klaviyo",
+    "CART": "instacart",
+    "PARA": "paramount",
+    "BILI": "bilibili",
+    "U": "unity",
+    "MTCH": "match-group",
+    "BZ": "kanzhun",
+    "ORCL": "oracle",
+    "SAP": "sap",
+    "NOW": "servicenow",
+    "INTU": "intuit",
+    "BKNG": "booking",
+    "PYPL": "paypal",
+    "FI": "fiserv",
+    "ABNB": "airbnb",
+    "WDAY": "workday",
+    "NET": "cloudflare",
+    "DDOG": "datadog",
+    "VEEV": "veeva",
+    "SQ": "block-square",
+    "CPNG": "coupang",
+    "CSGP": "costar",
+    "IOT": "samsara",
+    "GWRE": "guidewire",
+    "TYL": "tyler-tech",
+    "MDB": "mongodb",
+    "TOST": "toast",
+    "OKTA": "okta",
+    "PCOR": "procore",
+    "AFRM": "affirm",
+    "ESTC": "elastic",
+    "TWLO": "twilio",
+    "XPO": "xpo",
+    "TTAN": "servicetitan",
+    "GLBE": "global-e",
+    "MNDY": "monday",
+    "FOUR": "shift4",
+    "APPF": "appfolio",
+    "GPN": "global-payments",
+    "DSGX": "descartes",
+    "ETSY": "etsy",
+    "BILL": "bill",
+    "WEX": "wex",
+    "WIX": "wix",
+    "GXO": "gxo",
+    "TSM": "tsmc",
+    "AVGO": "broadcom",
+    "META": "meta",
+    "ASML": "asml",
+    "CSCO": "cisco",
+    "TXN": "texas-instruments",
+    "AMD": "amd",
+    "QCOM": "qualcomm",
+    "ARM": "arm",
+    "AMAT": "applied-materials",
+    "KLAC": "kla",
+    "ANET": "arista",
+    "MU": "micron",
+    "ABB": "abb",
+    "INTC": "intel",
+    "ADI": "analog-devices",
+    "LRCX": "lam-research",
+    "CDNS": "cadence",
+    "SNPS": "synopsys",
+    "MRVL": "marvell",
+    "NXPI": "nxp",
+    "0981.HK": "smic",
+    "CRWV": "coreweave",
+    "CRWD": "crowdstrike",
+    "FLIPKART": "flipkart",
+    "ZOMATO.NS": "zomato",
+    "STRIPE": "stripe",
+    "NU": "nubank",
+    "CANVA": "canva",
+    "BYTEDANCE": "bytedance",
+    "XYZ": "block-square",
+    "VERCEL": "vercel",
+    "RIPPLING": "rippling"
+  },
+  "discovery_config": {
+    "output_root": "vault/companies/{slug}/discovery/",
+    "scripts_path": "scripts/discovery/",
+    "s_weights": {
+      "S5": 1.0,
+      "S4": 1.0,
+      "S3": 1.0,
+      "S2": 0.6,
+      "S1": 0.3
+    },
+    "e_weights": {
+      "E4": 1.0,
+      "E3": 0.75,
+      "E2": 0.5,
+      "E1": 0.25
+    }
+  },
+  "SHEIN": "shein",
+  "ticker_map_note": "非上市公司用大写名称作为TICKER（如CURSOR），与上市公司统一管理",
+  "companies": {
+    "duolingo": {
+      "name": "Duolingo",
+      "name_en": "Duolingo",
+      "tickers": [
+        "DUOL"
+      ],
+      "sector": "EdTech/Consumer Software",
+      "tags": [
+        "edtech",
+        "AI",
+        "gamification",
+        "subscription",
+        "language-learning"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 164,
+      "dimensions_covered": [
+        "discovery",
+        "historical",
+        "scoring",
+        "artifacts",
+        "daily"
+      ],
+      "alike_score": 83,
+      "fit_score": 5,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 3.5,
+        "d3": 4.0,
+        "d4": 3.5,
+        "d5": 4.5,
+        "d6": 4.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "Netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "signal_tag": "PROPOSAL",
+      "has_investment_memo": true,
+      "memo_level": "L4"
+    },
+    "pop-mart": {
+      "name": "泡泡玛特",
+      "name_en": "Pop Mart",
+      "tickers": [
+        "9992.HK"
+      ],
+      "sector": "潮玩/IP运营+全球零售",
+      "tags": [
+        "IP",
+        "consumer",
+        "retail",
+        "globalization",
+        "blind-box",
+        "toys",
+        "art-toys"
+      ],
+      "updated": "2026-03-27",
+      "research_count": 182,
+      "dimensions_covered": [
+        "fundamental",
+        "org",
+        "exec-voice",
+        "intel",
+        "red-team",
+        "employee",
+        "leadership",
+        "notes",
+        "transcripts"
+      ],
+      "alike_score": 62,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.0,
+        "d6": 3.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "pdd",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true
+    },
+    "cohere": {
+      "name": "Cohere",
+      "name_en": "Cohere",
+      "tickers": [
+        "PRIVATE"
+      ],
+      "sector": "Enterprise AI",
+      "tags": [
+        "ai",
+        "enterprise",
+        "llm",
+        "private"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 1,
+      "dimensions_covered": [
+        "scoring"
+      ],
+      "alike_score": 68,
+      "fit_score": 4.0,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 4.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "Anthropic",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "cursor": {
+      "name": "Cursor (Anysphere)",
+      "name_en": "Cursor",
+      "tickers": [
+        "CURSOR"
+      ],
+      "sector": "AI/Developer Tools",
+      "tags": [
+        "AI",
+        "coding",
+        "IDE",
+        "developer-tools",
+        "private"
+      ],
+      "exchange": "private",
+      "updated": "2026-04-09",
+      "research_count": 96,
+      "dimensions_covered": [
+        "discovery",
+        "scoring"
+      ],
+      "alike_score": 80,
+      "fit_score": 3.5,
+      "most_resonant_old_friend": "Anthropic",
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "PROPOSAL"
+    },
+    "alphabet": {
+      "name": "Alphabet (Google/YouTube)",
+      "name_en": "Alphabet",
+      "tickers": [
+        "GOOGL"
+      ],
+      "sector": "大型科技平台",
+      "tags": [
+        "advertising",
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "microsoft": {
+      "name": "Microsoft",
+      "name_en": "Microsoft",
+      "tickers": [
+        "MSFT"
+      ],
+      "sector": "大型科技平台",
+      "tags": [
+        "advertising",
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "amazon": {
+      "name": "Amazon",
+      "name_en": "Amazon",
+      "tickers": [
+        "AMZN"
+      ],
+      "sector": "电商/云/广告",
+      "tags": [
+        "advertising",
+        "semiconductor",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 68,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 4.5,
+        "d4": 3.5,
+        "d5": 3.5,
+        "d6": 3.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "tencent": {
+      "name": "Tencent (腾讯)",
+      "name_en": "Tencent",
+      "tickers": [
+        "0700.HK"
+      ],
+      "sector": "大型科技平台",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "netflix": {
+      "name": "Netflix",
+      "name_en": "Netflix",
+      "tickers": [
+        "NFLX"
+      ],
+      "sector": "流媒体",
+      "tags": [
+        "advertising",
+        "streaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "is_old_friend": true,
+      "calibration_role": "anchor"
+    },
+    "alibaba": {
+      "name": "Alibaba (阿里巴巴)",
+      "name_en": "Alibaba",
+      "tickers": [
+        "BABA"
+      ],
+      "sector": "电商/云",
+      "tags": [
+        "advertising",
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "salesforce": {
+      "name": "Salesforce",
+      "name_en": "Salesforce",
+      "tickers": [
+        "CRM"
+      ],
+      "sector": "CRM/SaaS",
+      "tags": [
+        "advertising",
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 68.5
+    },
+    "palantir": {
+      "name": "Palantir Technologies",
+      "name_en": "Palantir Technologies",
+      "tickers": [
+        "PLTR"
+      ],
+      "sector": "AI平台",
+      "tags": [
+        "advertising",
+        "semiconductor",
+        "AI"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 4,
+      "dimensions_covered": [
+        "org",
+        "scoring"
+      ],
+      "alike_score": 78,
+      "fit_score": 4.0,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 4.0,
+        "d5": 3.5,
+        "d6": 3.5,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "anthropic",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "WATCH"
+    },
+    "adobe": {
+      "name": "Adobe",
+      "name_en": "Adobe",
+      "tickers": [
+        "ADBE"
+      ],
+      "sector": "创意/营销云",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 74.5
+    },
+    "pdd-holdings": {
+      "name": "PDD Holdings (拼多多)",
+      "name_en": "PDD Holdings",
+      "tickers": [
+        "PDD"
+      ],
+      "sector": "电商/社交电商",
+      "tags": [
+        "advertising",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "is_old_friend": true,
+      "calibration_role": "anchor",
+      "alike_score": 79.5
+    },
+    "applovin": {
+      "name": "AppLovin",
+      "name_en": "AppLovin",
+      "tickers": [
+        "APP"
+      ],
+      "sector": "AdTech",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "is_old_friend": true,
+      "calibration_role": "anchor"
+    },
+    "meituan": {
+      "name": "Meituan (美团)",
+      "name_en": "Meituan",
+      "tickers": [
+        "3690.HK"
+      ],
+      "sector": "本地生活",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 74
+    },
+    "mercadolibre": {
+      "name": "MercadoLibre",
+      "name_en": "MercadoLibre",
+      "tickers": [
+        "MELI"
+      ],
+      "sector": "电商/FinTech",
+      "tags": [
+        "advertising",
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 2,
+      "dimensions_covered": [
+        "scoring"
+      ],
+      "alike_score": 68.5,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "biz_inflection_verdict": "MEDIUM-HIGH"
+    },
+    "spotify": {
+      "name": "Spotify",
+      "name_en": "Spotify",
+      "tickers": [
+        "SPOT"
+      ],
+      "sector": "流媒体/音频",
+      "tags": [
+        "advertising",
+        "streaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 69,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.5,
+        "d3": 2.0,
+        "d4": 3.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "snowflake": {
+      "name": "Snowflake",
+      "name_en": "Snowflake",
+      "tickers": [
+        "SNOW"
+      ],
+      "sector": "数据云",
+      "tags": [
+        "advertising",
+        "saas",
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 73
+    },
+    "sea-limited": {
+      "name": "Sea Limited",
+      "name_en": "Sea Limited",
+      "tickers": [
+        "SE"
+      ],
+      "sector": "超级平台",
+      "tags": [
+        "advertising",
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 77,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "pdd",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "kuaishou": {
+      "name": "Kuaishou (快手)",
+      "name_en": "Kuaishou",
+      "tickers": [
+        "1024.HK"
+      ],
+      "sector": "短视频",
+      "tags": [
+        "advertising",
+        "AI",
+        "live-commerce",
+        "short-video"
+      ],
+      "updated": "2026-04-07",
+      "research_count": 35,
+      "dimensions_covered": [
+        "discovery",
+        "leadership",
+        "org"
+      ],
+      "alike_score": 63
+    },
+    "jd-com": {
+      "name": "JD.com (京东)",
+      "name_en": "JD.com",
+      "tickers": [
+        "JD"
+      ],
+      "sector": "电商",
+      "tags": [
+        "advertising",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "take-two": {
+      "name": "Take-Two Interactive",
+      "name_en": "Take-Two Interactive",
+      "tickers": [
+        "TTWO"
+      ],
+      "sector": "游戏",
+      "tags": [
+        "advertising",
+        "gaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 64
+    },
+    "baidu": {
+      "name": "Baidu (百度)",
+      "name_en": "Baidu",
+      "tickers": [
+        "BIDU"
+      ],
+      "sector": "搜索/AI",
+      "tags": [
+        "advertising",
+        "AI"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "netease": {
+      "name": "NetEase (网易)",
+      "name_en": "NetEase",
+      "tickers": [
+        "NTES"
+      ],
+      "sector": "游戏/内容",
+      "tags": [
+        "advertising",
+        "gaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 70,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "trip-com": {
+      "name": "Trip.com",
+      "name_en": "Trip.com",
+      "tickers": [
+        "TCOM"
+      ],
+      "sector": "旅游",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 69.5
+    },
+    "warner-bros-discovery": {
+      "name": "Warner Bros. Discovery",
+      "name_en": "Warner Bros. Discovery",
+      "tickers": [
+        "WBD"
+      ],
+      "sector": "流媒体/内容",
+      "tags": [
+        "advertising",
+        "streaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "roblox": {
+      "name": "Roblox",
+      "name_en": "Roblox",
+      "tickers": [
+        "RBLX"
+      ],
+      "sector": "游戏/元宇宙",
+      "tags": [
+        "advertising",
+        "gaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 54,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "hubspot": {
+      "name": "HubSpot",
+      "name_en": "HubSpot",
+      "tickers": [
+        "HUBS"
+      ],
+      "sector": "CRM/营销SaaS",
+      "tags": [
+        "advertising",
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 63.5,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "trade-desk": {
+      "name": "The Trade Desk",
+      "name_en": "The Trade Desk",
+      "tickers": [
+        "TTD"
+      ],
+      "sector": "AdTech/DSP",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 74.5,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "applovin",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "snap": {
+      "name": "Snap",
+      "name_en": "Snap",
+      "tickers": [
+        "SNAP"
+      ],
+      "sector": "社交媒体",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 56
+    },
+    "reddit": {
+      "name": "Reddit",
+      "name_en": "Reddit",
+      "tickers": [
+        "RDDT"
+      ],
+      "sector": "社交/社区",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 72.5
+    },
+    "grab": {
+      "name": "Grab Holdings",
+      "name_en": "Grab Holdings",
+      "tickers": [
+        "GRAB"
+      ],
+      "sector": "超级App",
+      "tags": [
+        "advertising",
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 53.5,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.0,
+        "d5": 2.0,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "pinterest": {
+      "name": "Pinterest",
+      "name_en": "Pinterest",
+      "tickers": [
+        "PINS"
+      ],
+      "sector": "社交/发现",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 65.5
+    },
+    "tencent-music": {
+      "name": "Tencent Music (腾讯音乐)",
+      "name_en": "Tencent Music",
+      "tickers": [
+        "TME"
+      ],
+      "sector": "音乐/社交",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 63
+    },
+    "roku": {
+      "name": "Roku",
+      "name_en": "Roku",
+      "tickers": [
+        "ROKU"
+      ],
+      "sector": "CTV",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 70
+    },
+    "klaviyo": {
+      "name": "Klaviyo",
+      "name_en": "Klaviyo",
+      "tickers": [
+        "KVYO"
+      ],
+      "sector": "电商营销",
+      "tags": [
+        "advertising",
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 62,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "instacart": {
+      "name": "Maplebear (Instacart)",
+      "name_en": "Maplebear",
+      "tickers": [
+        "CART"
+      ],
+      "sector": "零售媒体",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 65
+    },
+    "paramount": {
+      "name": "Paramount Global",
+      "name_en": "Paramount Global",
+      "tickers": [
+        "PARA"
+      ],
+      "sector": "流媒体/内容",
+      "tags": [
+        "advertising",
+        "streaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "bilibili": {
+      "name": "Bilibili",
+      "name_en": "Bilibili",
+      "tickers": [
+        "BILI"
+      ],
+      "sector": "社交/视频",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 64
+    },
+    "unity": {
+      "name": "Unity Software",
+      "name_en": "Unity Software",
+      "tickers": [
+        "U"
+      ],
+      "sector": "游戏引擎/AdTech",
+      "tags": [
+        "advertising",
+        "gaming"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 55,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "match-group": {
+      "name": "Match Group",
+      "name_en": "Match Group",
+      "tickers": [
+        "MTCH"
+      ],
+      "sector": "约会",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 48
+    },
+    "kanzhun": {
+      "name": "Kanzhun (Boss直聘)",
+      "name_en": "Kanzhun",
+      "tickers": [
+        "BZ"
+      ],
+      "sector": "招聘",
+      "tags": [
+        "advertising"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 77
+    },
+    "oracle": {
+      "name": "Oracle",
+      "name_en": "Oracle",
+      "tickers": [
+        "ORCL"
+      ],
+      "sector": "ERP/云",
+      "tags": [
+        "saas",
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "sap": {
+      "name": "SAP SE",
+      "name_en": "SAP SE",
+      "tickers": [
+        "SAP"
+      ],
+      "sector": "ERP",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "servicenow": {
+      "name": "ServiceNow",
+      "name_en": "ServiceNow",
+      "tickers": [
+        "NOW"
+      ],
+      "sector": "企业工作流",
+      "tags": [
+        "saas",
+        "semiconductor"
+      ],
+      "updated": "2026-04-07",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 66
+    },
+    "intuit": {
+      "name": "Intuit",
+      "name_en": "Intuit",
+      "tickers": [
+        "INTU"
+      ],
+      "sector": "金融SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "booking": {
+      "name": "Booking Holdings",
+      "name_en": "Booking Holdings",
+      "tickers": [
+        "BKNG"
+      ],
+      "sector": "旅游平台",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 67,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.5,
+        "d3": null,
+        "d3_note": "⛔ — 信息不足，拒绝打分",
+        "d4": 3.0,
+        "d5": 3.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "paypal": {
+      "name": "PayPal",
+      "name_en": "PayPal",
+      "tickers": [
+        "PYPL"
+      ],
+      "sector": "支付",
+      "tags": [
+        "saas",
+        "payments"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 54
+    },
+    "fiserv": {
+      "name": "Fiserv",
+      "name_en": "Fiserv",
+      "tickers": [
+        "FI"
+      ],
+      "sector": "支付",
+      "tags": [
+        "saas",
+        "payments"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "airbnb": {
+      "name": "Airbnb",
+      "name_en": "Airbnb",
+      "tickers": [
+        "ABNB"
+      ],
+      "sector": "住宿平台",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 74,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.5,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "workday": {
+      "name": "Workday",
+      "name_en": "Workday",
+      "tickers": [
+        "WDAY"
+      ],
+      "sector": "HR/财务SaaS",
+      "tags": [
+        "saas",
+        "enterprise-software",
+        "hcm"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 1,
+      "dimensions_covered": [
+        "scoring"
+      ],
+      "alike_score": 49,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "cloudflare": {
+      "name": "Cloudflare",
+      "name_en": "Cloudflare",
+      "tickers": [
+        "NET"
+      ],
+      "sector": "CDN/边缘云",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-07",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 63.7,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "datadog": {
+      "name": "Datadog",
+      "name_en": "Datadog",
+      "tickers": [
+        "DDOG"
+      ],
+      "sector": "可观测性",
+      "tags": [
+        "saas",
+        "observability",
+        "ai-infra"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 4,
+      "dimensions_covered": [
+        "org",
+        "leadership",
+        "scoring"
+      ],
+      "alike_score": 74,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 4.0,
+        "d5": 3.0,
+        "d6": 4.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "PROPOSAL",
+      "investment_rating": "观望偏积极",
+      "pipeline_level": "L4"
+    },
+    "veeva": {
+      "name": "Veeva Systems",
+      "name_en": "Veeva Systems",
+      "tickers": [
+        "VEEV"
+      ],
+      "sector": "生命科学SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 75,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 4.0,
+        "d3": 3.5,
+        "d4": 3.5,
+        "d5": 3.5,
+        "d6": 3.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "investment_rating": "买入",
+      "pipeline_level": "L4",
+      "signal_tag": "AUTO-APPLY",
+      "vault_slug": "veeva-systems"
+    },
+    "block-square": {
+      "name": "Block (Square)",
+      "name_en": "Block",
+      "tickers": [
+        "XYZ"
+      ],
+      "sector": "支付/SaaS",
+      "tags": [
+        "saas",
+        "payments",
+        "fintech",
+        "bitcoin"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 2,
+      "dimensions_covered": [
+        "org",
+        "scoring"
+      ],
+      "alike_score": 61,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.5,
+        "d5": 3.5,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "applovin",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true
+    },
+    "coupang": {
+      "name": "Coupang",
+      "name_en": "Coupang",
+      "tickers": [
+        "CPNG"
+      ],
+      "sector": "电商",
+      "tags": [
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "costar": {
+      "name": "CoStar Group",
+      "name_en": "CoStar Group",
+      "tickers": [
+        "CSGP"
+      ],
+      "sector": "商业地产数据",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "samsara": {
+      "name": "Samsara",
+      "name_en": "Samsara",
+      "tickers": [
+        "IOT"
+      ],
+      "sector": "工业IoT",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "guidewire": {
+      "name": "Guidewire Software",
+      "name_en": "Guidewire Software",
+      "tickers": [
+        "GWRE"
+      ],
+      "sector": "保险SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "tyler-tech": {
+      "name": "Tyler Technologies",
+      "name_en": "Tyler Technologies",
+      "tickers": [
+        "TYL"
+      ],
+      "sector": "政府SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "mongodb": {
+      "name": "MongoDB",
+      "name_en": "MongoDB",
+      "tickers": [
+        "MDB"
+      ],
+      "sector": "数据库",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-07",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 57,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 3.0,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "toast": {
+      "name": "Toast",
+      "name_en": "Toast",
+      "tickers": [
+        "TOST"
+      ],
+      "sector": "餐饮SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 57,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 3.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "okta": {
+      "name": "Okta",
+      "name_en": "Okta",
+      "tickers": [
+        "OKTA"
+      ],
+      "sector": "身份认证",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 62.0,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "procore": {
+      "name": "Procore Technologies",
+      "name_en": "Procore Technologies",
+      "tickers": [
+        "PCOR"
+      ],
+      "sector": "建筑SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "affirm": {
+      "name": "Affirm",
+      "name_en": "Affirm",
+      "tickers": [
+        "AFRM"
+      ],
+      "sector": "BNPL",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 1,
+      "dimensions_covered": [
+        "org"
+      ],
+      "alike_score": 70
+    },
+    "elastic": {
+      "name": "Elastic NV",
+      "name_en": "Elastic NV",
+      "tickers": [
+        "ESTC"
+      ],
+      "sector": "搜索/数据",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 61,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 3.0,
+        "d3": 3.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "twilio": {
+      "name": "Twilio",
+      "name_en": "Twilio",
+      "tickers": [
+        "TWLO"
+      ],
+      "sector": "CPaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 54,
+      "fit_score": 2,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "xpo": {
+      "name": "XPO",
+      "name_en": "XPO",
+      "tickers": [
+        "XPO"
+      ],
+      "sector": "物流",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "servicetitan": {
+      "name": "ServiceTitan",
+      "name_en": "ServiceTitan",
+      "tickers": [
+        "TTAN"
+      ],
+      "sector": "垂直SaaS",
+      "tags": [
+        "saas",
+        "vertical-saas",
+        "trades"
+      ],
+      "alike_score": 62,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "updated": "2026-04-08",
+      "research_count": 1,
+      "dimensions_covered": [
+        "scoring"
+      ]
+    },
+    "global-e": {
+      "name": "Global-e Online",
+      "name_en": "Global-e Online",
+      "tickers": [
+        "GLBE"
+      ],
+      "sector": "跨境电商",
+      "tags": [
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "monday": {
+      "name": "monday.com",
+      "name_en": "monday.com",
+      "tickers": [
+        "MNDY"
+      ],
+      "sector": "工作管理SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "shift4": {
+      "name": "Shift4 Payments",
+      "name_en": "Shift4 Payments",
+      "tickers": [
+        "FOUR"
+      ],
+      "sector": "垂直支付",
+      "tags": [
+        "saas",
+        "payments"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "appfolio": {
+      "name": "AppFolio",
+      "name_en": "AppFolio",
+      "tickers": [
+        "APPF"
+      ],
+      "sector": "地产SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 53,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "Meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "global-payments": {
+      "name": "Global Payments",
+      "name_en": "Global Payments",
+      "tickers": [
+        "GPN"
+      ],
+      "sector": "支付",
+      "tags": [
+        "saas",
+        "payments"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "descartes": {
+      "name": "Descartes Systems",
+      "name_en": "Descartes Systems",
+      "tickers": [
+        "DSGX"
+      ],
+      "sector": "物流SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "etsy": {
+      "name": "Etsy",
+      "name_en": "Etsy",
+      "tickers": [
+        "ETSY"
+      ],
+      "sector": "手工电商",
+      "tags": [
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 60
+    },
+    "bill": {
+      "name": "BILL Holdings",
+      "name_en": "BILL Holdings",
+      "tickers": [
+        "BILL"
+      ],
+      "sector": "金融SaaS",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "wex": {
+      "name": "WEX Inc.",
+      "name_en": "WEX Inc.",
+      "tickers": [
+        "WEX"
+      ],
+      "sector": "B2B支付",
+      "tags": [
+        "saas",
+        "payments"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "wix": {
+      "name": "Wix.com",
+      "name_en": "Wix.com",
+      "tickers": [
+        "WIX"
+      ],
+      "sector": "建站/电商SaaS",
+      "tags": [
+        "saas",
+        "ecommerce"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 63,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "gxo": {
+      "name": "GXO Logistics",
+      "name_en": "GXO Logistics",
+      "tickers": [
+        "GXO"
+      ],
+      "sector": "3PL",
+      "tags": [
+        "saas"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "tsmc": {
+      "name": "TSMC (台积电)",
+      "name_en": "TSMC",
+      "tickers": [
+        "TSM"
+      ],
+      "sector": "晶圆代工",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "broadcom": {
+      "name": "Broadcom",
+      "name_en": "Broadcom",
+      "tickers": [
+        "AVGO"
+      ],
+      "sector": "半导体/定制ASIC",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "signal_tag": "PROPOSAL",
+      "alike_score": 74.0,
+      "fit_score": 4.0,
+      "most_resonant_old_friend": "nvidia",
+      "has_alike_memo": true
+    },
+    "meta": {
+      "name": "Meta Platforms",
+      "name_en": "Meta Platforms",
+      "tickers": [
+        "META"
+      ],
+      "sector": "大型科技平台",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "is_old_friend": true,
+      "calibration_role": "anchor"
+    },
+    "asml": {
+      "name": "ASML Holding",
+      "name_en": "ASML Holding",
+      "tickers": [
+        "ASML"
+      ],
+      "sector": "光刻机",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "cisco": {
+      "name": "Cisco Systems",
+      "name_en": "Cisco Systems",
+      "tickers": [
+        "CSCO"
+      ],
+      "sector": "网络设备",
+      "tags": [
+        "semiconductor",
+        "equipment"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "texas-instruments": {
+      "name": "Texas Instruments",
+      "name_en": "Texas Instruments",
+      "tickers": [
+        "TXN"
+      ],
+      "sector": "模拟IC",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "amd": {
+      "name": "Advanced Micro Devices",
+      "name_en": "Advanced Micro Devices",
+      "tickers": [
+        "AMD"
+      ],
+      "sector": "AI芯片",
+      "tags": [
+        "semiconductor",
+        "AI",
+        "chips"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 76,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 3.5,
+        "d3": 3.5,
+        "d4": 3.5,
+        "d5": 4.0,
+        "d6": 4.0,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "PROPOSAL"
+    },
+    "qualcomm": {
+      "name": "Qualcomm",
+      "name_en": "Qualcomm",
+      "tickers": [
+        "QCOM"
+      ],
+      "sector": "半导体",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "arm": {
+      "name": "Arm Holdings",
+      "name_en": "Arm Holdings",
+      "tickers": [
+        "ARM"
+      ],
+      "sector": "芯片IP",
+      "tags": [
+        "semiconductor",
+        "chips"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": [],
+      "alike_score": 59
+    },
+    "applied-materials": {
+      "name": "Applied Materials",
+      "name_en": "Applied Materials",
+      "tickers": [
+        "AMAT"
+      ],
+      "sector": "半导体设备",
+      "tags": [
+        "semiconductor",
+        "equipment"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "kla": {
+      "name": "KLA Corporation",
+      "name_en": "KLA Corporation",
+      "tickers": [
+        "KLAC"
+      ],
+      "sector": "过程控制",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "arista": {
+      "name": "Arista Networks",
+      "name_en": "Arista Networks",
+      "tickers": [
+        "ANET"
+      ],
+      "sector": "网络设备",
+      "tags": [
+        "semiconductor",
+        "equipment"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "micron": {
+      "name": "Micron Technology",
+      "name_en": "Micron Technology",
+      "tickers": [
+        "MU"
+      ],
+      "sector": "存储",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "abb": {
+      "name": "ABB Ltd",
+      "name_en": "ABB Ltd",
+      "tickers": [
+        "ABB"
+      ],
+      "sector": "工业自动化",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "intel": {
+      "name": "Intel",
+      "name_en": "Intel",
+      "tickers": [
+        "INTC"
+      ],
+      "sector": "半导体",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "analog-devices": {
+      "name": "Analog Devices",
+      "name_en": "Analog Devices",
+      "tickers": [
+        "ADI"
+      ],
+      "sector": "模拟IC",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "lam-research": {
+      "name": "Lam Research",
+      "name_en": "Lam Research",
+      "tickers": [
+        "LRCX"
+      ],
+      "sector": "刻蚀设备",
+      "tags": [
+        "semiconductor",
+        "equipment"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "cadence": {
+      "name": "Cadence Design Systems",
+      "name_en": "Cadence Design Systems",
+      "tickers": [
+        "CDNS"
+      ],
+      "sector": "EDA",
+      "tags": [
+        "semiconductor",
+        "eda"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "synopsys": {
+      "name": "Synopsys",
+      "name_en": "Synopsys",
+      "tickers": [
+        "SNPS"
+      ],
+      "sector": "EDA",
+      "tags": [
+        "semiconductor",
+        "eda"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "marvell": {
+      "name": "Marvell Technology",
+      "name_en": "Marvell Technology",
+      "tickers": [
+        "MRVL"
+      ],
+      "sector": "半导体",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "nxp": {
+      "name": "NXP Semiconductors",
+      "name_en": "NXP Semiconductors",
+      "tickers": [
+        "NXPI"
+      ],
+      "sector": "汽车芯片",
+      "tags": [
+        "semiconductor",
+        "chips"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "smic": {
+      "name": "SMIC (中芯国际)",
+      "name_en": "SMIC",
+      "tickers": [
+        "0981.HK"
+      ],
+      "sector": "晶圆代工",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "coreweave": {
+      "name": "CoreWeave",
+      "name_en": "CoreWeave",
+      "tickers": [
+        "CRWV"
+      ],
+      "sector": "GPU云",
+      "tags": [
+        "semiconductor"
+      ],
+      "updated": "2026-04-06",
+      "research_count": 0,
+      "dimensions_covered": []
+    },
+    "asana": {
+      "name": "Asana",
+      "alike_score": 56,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "atlassian": {
+      "name": "Atlassian",
+      "alike_score": 66,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 4.0,
+        "d5": 3.5,
+        "d6": 3.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "axon": {
+      "name": "Axon",
+      "alike_score": 74,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 3.5,
+        "d4": 3.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "PROPOSAL"
+    },
+    "canva": {
+      "name": "Canva",
+      "name_en": "Canva",
+      "tickers": [
+        "CANVA"
+      ],
+      "sector": "Design Software / Creative Tools",
+      "tags": [
+        "design",
+        "AI",
+        "SaaS",
+        "enterprise",
+        "private",
+        "IPO-candidate"
+      ],
+      "is_private": true,
+      "alike_score": 66,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_discovery": true,
+      "discovery_date": "2026-04-07",
+      "discovery_files": 28,
+      "updated": "2026-04-08"
+    },
+    "carvana": {
+      "name": "Carvana",
+      "alike_score": 59,
+      "fit_score": 2.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 3.5,
+        "d6": 2.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "coinbase": {
+      "name": "Coinbase",
+      "alike_score": 64,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 2.0,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_biz_inflection": true,
+      "has_org_inflection": true
+    },
+    "confluent": {
+      "name": "Confluent",
+      "alike_score": 61,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "criteo": {
+      "name": "Criteo",
+      "alike_score": 46,
+      "fit_score": 2,
+      "d_scores": {
+        "d1": 2.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.0,
+        "d5": 2.0,
+        "d6": 2.5,
+        "d7": 2.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "crowdstrike": {
+      "name": "CrowdStrike",
+      "name_en": "CrowdStrike",
+      "tickers": [
+        "CRWD"
+      ],
+      "sector": "Cybersecurity/Enterprise Software",
+      "tags": [
+        "cybersecurity",
+        "AI",
+        "cloud-native",
+        "endpoint-protection",
+        "SaaS",
+        "platform-consolidation"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 43,
+      "dimensions_covered": [
+        "discovery",
+        "scoring"
+      ],
+      "alike_score": 66,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 3.0,
+        "d4": 3.5,
+        "d5": 4.0,
+        "d6": 3.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "Meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "org_inflection_phase": "危机后稳态运营，组织创新有限",
+      "has_biz_inflection": true,
+      "biz_inflection_conviction": "MEDIUM",
+      "has_investment_memo": true,
+      "investment_memo_decision": "观望",
+      "org_rating": "B+",
+      "signal_tag": "WATCH"
+    },
+    "digitalocean": {
+      "name": "Digitalocean",
+      "alike_score": 53,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "doordash": {
+      "name": "Doordash",
+      "alike_score": 69,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 4.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "dynatrace": {
+      "name": "Dynatrace",
+      "alike_score": 61,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 3.0,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "figma": {
+      "name": "Figma",
+      "alike_score": 64,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 2.5,
+        "d6": 3.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "fortinet": {
+      "name": "Fortinet",
+      "alike_score": 65,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.5,
+        "d6": 2.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "gitlab": {
+      "name": "Gitlab",
+      "alike_score": 57,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 3.0,
+        "d4": 4.5,
+        "d5": 3.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "hims": {
+      "name": "Hims",
+      "alike_score": 56,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "lemonade": {
+      "name": "Lemonade",
+      "alike_score": 65,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": null,
+        "d4": null,
+        "d5": 4.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "applovin",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "magnite": {
+      "name": "Magnite",
+      "alike_score": 49,
+      "fit_score": 2.5,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.5,
+        "d3": 2.0,
+        "d4": 2.5,
+        "d5": 2.0,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "mobvista": {
+      "name": "汇量科技",
+      "alike_score": 55,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.5,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "applovin",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "nubank": {
+      "name": "Nubank",
+      "alike_score": 72,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 3.5,
+        "d5": 3.5,
+        "d6": 3.5,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "pdd",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true
+    },
+    "plaid": {
+      "name": "Plaid",
+      "alike_score": 56,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.0,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "pubmatic": {
+      "name": "Pubmatic",
+      "alike_score": 48,
+      "fit_score": 2,
+      "d_scores": {
+        "d1": 2,
+        "d2": 2,
+        "d3": 2,
+        "d4": 2,
+        "d5": 2,
+        "d6": 2,
+        "d7": 3
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "robinhood": {
+      "name": "Robinhood",
+      "alike_score": 61,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 2.5,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "roper": {
+      "name": "Roper",
+      "alike_score": 56,
+      "fit_score": 3.5,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 3.0,
+        "d4": 2.5,
+        "d5": 3.0,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "sentinelone": {
+      "name": "Sentinelone",
+      "alike_score": 62,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 3.5,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 3.0,
+        "d5": 3.0,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "sprinklr": {
+      "name": "Sprinklr",
+      "alike_score": 43.5,
+      "fit_score": 2,
+      "d_scores": {
+        "d1": 2.5,
+        "d2": 2.0,
+        "d3": 2.0,
+        "d4": 2.0,
+        "d5": 2.0,
+        "d6": 2.5,
+        "d7": 2.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "stripe": {
+      "name": "Stripe",
+      "name_en": "Stripe",
+      "tickers": [
+        "STRIPE"
+      ],
+      "sector": "Fintech/Payments",
+      "tags": [
+        "payments",
+        "fintech",
+        "private",
+        "AI",
+        "stablecoins",
+        "infrastructure"
+      ],
+      "updated": "2026-04-09",
+      "research_count": 45,
+      "dimensions_covered": [
+        "discovery",
+        "scoring",
+        "leadership",
+        "org"
+      ],
+      "has_biz_inflection": true,
+      "biz_inflection_conviction": "HIGH",
+      "is_private": true,
+      "ceo": "Patrick Collison",
+      "president": "John Collison",
+      "valuation": "$159B (Feb 2026)",
+      "tpv": "$1.9T (2025)",
+      "fit_score": 4.5,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 4.0,
+        "d3": 3.5,
+        "d4": 4.0,
+        "d5": 3.5,
+        "d6": 4.0,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "Shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "org_inflection_conviction": "MEDIUM",
+      "has_investment_memo": true,
+      "investment_memo_date": "2026-04-09",
+      "investment_decision": "CONDITIONAL_BUY",
+      "org_penetration_rating": "A",
+      "signal_tag": "PROPOSAL",
+      "alike_score": 79.0
+    },
+    "taboola": {
+      "name": "Taboola",
+      "alike_score": 54,
+      "fit_score": 2.5,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 2.5,
+        "d7": 3.0
+      },
+      "most_resonant_old_friend": "meta",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "tesla": {
+      "name": "Tesla",
+      "alike_score": 56,
+      "fit_score": 2,
+      "d_scores": {
+        "d1": 3.0,
+        "d2": 2.5,
+        "d3": 2.5,
+        "d4": 2.0,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 3.5
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "transdigm": {
+      "name": "TransDigm Group",
+      "alike_score": 81,
+      "fit_score": 4.5,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 4.0,
+        "d3": 4.5,
+        "d4": 3.5,
+        "d5": 4.0,
+        "d6": 3.0,
+        "d7": 5.0
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true,
+      "signal_tag": "AUTO-APPLY"
+    },
+    "zscaler": {
+      "name": "Zscaler",
+      "alike_score": 64,
+      "fit_score": 3,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.0,
+        "d3": 2.5,
+        "d4": 2.5,
+        "d5": 2.5,
+        "d6": 3.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "nvidia",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "bytedance": {
+      "name": "字节跳动",
+      "name_en": "ByteDance",
+      "tickers": [
+        "BYTEDANCE"
+      ],
+      "sector": "Social Media/AI/E-commerce",
+      "tags": [
+        "social-media",
+        "AI",
+        "short-video",
+        "advertising",
+        "e-commerce",
+        "private",
+        "china-tech",
+        "TikTok",
+        "Doubao"
+      ],
+      "updated": "2026-04-10",
+      "research_count": 42,
+      "dimensions_covered": [
+        "discovery",
+        "scoring"
+      ],
+      "is_private": true,
+      "ceo": "Liang Rubo (梁汝波)",
+      "founder": "Zhang Yiming (张一鸣)",
+      "valuation": "$550B (Feb 2026)",
+      "alike_score": 75.5,
+      "fit_score": 4,
+      "d_scores": {
+        "d1": 4.0,
+        "d2": 3.5,
+        "d3": 3.0,
+        "d4": 4.0,
+        "d5": 4.0,
+        "d6": 3.5,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "netflix",
+      "scoring_version": "2.0",
+      "has_alike_memo": true,
+      "has_org_inflection": true,
+      "has_biz_inflection": true,
+      "has_investment_memo": true
+    },
+    "vercel": {
+      "name": "Vercel",
+      "name_en": "Vercel",
+      "tickers": [
+        "VERCEL"
+      ],
+      "sector": "Developer Tools / Frontend Cloud",
+      "tags": [
+        "devtools",
+        "cloud",
+        "ai",
+        "open-source",
+        "nextjs",
+        "private"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 1,
+      "dimensions_covered": [
+        "scoring"
+      ],
+      "alike_score": 76,
+      "fit_score": 4.0,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 3.5,
+        "d3": 3.5,
+        "d4": 4.0,
+        "d5": 4.0,
+        "d6": 4.0,
+        "d7": 4.0
+      },
+      "most_resonant_old_friend": "Shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    },
+    "rippling": {
+      "name": "Rippling",
+      "name_en": "Rippling",
+      "tickers": [
+        "PRIVATE"
+      ],
+      "sector": "HR/IT/Finance SaaS Platform",
+      "tags": [
+        "saas",
+        "hr-tech",
+        "compound-startup",
+        "private",
+        "workforce-management"
+      ],
+      "updated": "2026-04-08",
+      "research_count": 1,
+      "dimensions_covered": [
+        "scoring"
+      ],
+      "alike_score": 78,
+      "fit_score": 4.0,
+      "d_scores": {
+        "d1": 4.5,
+        "d2": 4.0,
+        "d3": 3.5,
+        "d4": 3.5,
+        "d5": 3.0,
+        "d6": 4.0,
+        "d7": 4.5
+      },
+      "most_resonant_old_friend": "Shopify",
+      "scoring_version": "2.0",
+      "has_alike_memo": true
+    }
+  },
+  "stats": {}
+}

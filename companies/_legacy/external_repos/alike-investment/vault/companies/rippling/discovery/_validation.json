@@ -1,0 +1,155 @@
+{
+  "ticker": "RIPPLING",
+  "company_name": "Rippling",
+  "generated_at": "2026-04-09 00:00:00",
+  "status": "PASS_WITH_WARNINGS",
+  "elapsed_seconds": null,
+  "run_started_at": "2026-04-09",
+  "market_expectations": {
+    "sec_expected": false,
+    "china_relevant": "",
+    "is_private": true
+  },
+  "counts": {
+    "total_files": 18,
+    "new_files_this_run": 12,
+    "earnings_files": 0,
+    "youtube_files": 4,
+    "podcast_files": 6,
+    "xiaoyuzhou_files": 0
+  },
+  "org_readiness": {
+    "founder_voice_ready": true,
+    "org_report_ready": true,
+    "org_structure_ready": true,
+    "high_quality_org_ready": false
+  },
+  "checks": [
+    {
+      "name": "profile_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "profile.md present with funding history, milestones, competitors",
+      "remediation": null
+    },
+    {
+      "name": "financials_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "financials.md present with ARR, valuation, business model",
+      "remediation": null
+    },
+    {
+      "name": "xbrl_output",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A for private company — no XBRL data expected",
+      "remediation": null
+    },
+    {
+      "name": "sec_filings_count",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A for private company — no SEC filings expected",
+      "remediation": null
+    },
+    {
+      "name": "youtube_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "youtube source files: 4 (manual WebSearch summaries)",
+      "remediation": null
+    },
+    {
+      "name": "podcast_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "podcast source files: 6 (manual WebSearch summaries)",
+      "remediation": null
+    },
+    {
+      "name": "xiaoyuzhou_applicability",
+      "level": "info",
+      "passed": true,
+      "detail": "非中国相关公司，小宇宙为 0 不视为问题。",
+      "remediation": null
+    },
+    {
+      "name": "report_freshness",
+      "level": "warn",
+      "passed": true,
+      "detail": "_collection_report.md updated 2026-04-09",
+      "remediation": null
+    },
+    {
+      "name": "new_files_this_run",
+      "level": "warn",
+      "passed": true,
+      "detail": "files added this run: 12 (profile, financials, 4 youtube, 6 podcasts)",
+      "remediation": null
+    },
+    {
+      "name": "org_foundation_present",
+      "level": "warn",
+      "passed": true,
+      "detail": "org workspace scaffolded (auto-collect)",
+      "remediation": null
+    },
+    {
+      "name": "founder_voice_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "founder_voice scaffold + 10 podcast/youtube source files with CEO voice",
+      "remediation": "运行 /founder 做深度 CEO 认知分析。"
+    },
+    {
+      "name": "org_scan_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "org_scan_report=ready (scaffold), org_structure=ready (scaffold)",
+      "remediation": "运行 /private-search 和 /org-scan 补齐私有公司组织穿透。"
+    },
+    {
+      "name": "org_dataset_minimum",
+      "level": "warn",
+      "passed": true,
+      "detail": "minimum org dataset for D1-D7 (based on CEO voice from podcasts/youtube)",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_high_quality",
+      "level": "warn",
+      "passed": false,
+      "detail": "high-quality org dataset not yet available (private company, need deeper research)",
+      "remediation": "运行 /private-search 做非上市公司组织深挖。"
+    },
+    {
+      "name": "governance_summary_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "governance_summary ready (scaffold)",
+      "remediation": null
+    },
+    {
+      "name": "proxy_filing_present",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A for private company — no proxy filings expected",
+      "remediation": null
+    }
+  ],
+  "new_files_preview": [
+    "profile.md",
+    "financials.md",
+    "sources/youtube/2022_Stratechery-Ben-Thompson-Interview-Parker-Conrad.md",
+    "sources/youtube/2024-08_Parker-Conrad-Founder-Mode-Go-All-The-Way-To-The-Ground.md",
+    "sources/youtube/2025-01_Garry-Tan-Interview-Parker-Conrad-Compound-Startup.md",
+    "sources/youtube/2025-11_Parker-Conrad-Unconventional-Playbook-Revenge-to-Execution.md",
+    "sources/podcasts/2024_20VC-Parker-Conrad-Compound-Startup-Benefits.md",
+    "sources/podcasts/2024_Logan-Bartlett-Show-Parker-Conrad-Zenefits-Redemption.md",
+    "sources/podcasts/2024_SaaStr-Parker-Conrad-Theory-Of-Compound-Startup.md",
+    "sources/podcasts/2025-01_YC-How-To-Build-The-Future-Parker-Conrad.md",
+    "sources/podcasts/2025-11_Sequoia-Capital-Parker-Conrad-Revenge-Fantasy.md",
+    "sources/podcasts/2025_TechCrunch-Parker-Conrad-Rippling-Hasnt-Won-Yet.md"
+  ]
+}

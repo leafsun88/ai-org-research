@@ -1,0 +1,10 @@
+{
+  "name": "Cloudflare",
+  "name_en": "Cloudflare",
+  "tickers": ["NET"],
+  "sector": "Edge Computing/CDN/Security/Developer Platform",
+  "tags": ["CDN", "edge", "security", "Workers", "AI-inference", "R2", "agentic-internet"],
+  "dimensions": ["discovery", "leadership", "org", "notes"],
+  "created": "2026-04-07",
+  "updated": "2026-04-07"
+}

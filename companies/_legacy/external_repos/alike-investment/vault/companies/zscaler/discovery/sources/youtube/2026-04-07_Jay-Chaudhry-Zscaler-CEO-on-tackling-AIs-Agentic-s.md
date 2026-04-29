@@ -1,0 +1,22 @@
+---
+ticker: ZS
+type: youtube
+title: "Jay Chaudhry Zscaler CEO on tackling AI's Agentic shift"
+channel: "CNBC Television"
+date: 2026-04-07
+url: https://www.youtube.com/watch?v=jnocXraUE40
+transcript_method: yt-dlp_subtitle
+language: en
+chars: 4046
+---
+
+# Jay Chaudhry Zscaler CEO on tackling AI's Agentic shift
+
+## 视频信息
+- **频道**: CNBC Television
+- **日期**: 2026-04-07
+- **链接**: https://www.youtube.com/watch?v=jnocXraUE40
+
+## 转录全文
+
+uh to share what he's hearing from customers. Jay, happy new year. I also want to hear from you the context around M&amp;A. How much acquisition activity do you expect in the space this year? Do you expect to do? You had a couple of notable acquisitions last year, including one around uh AI security specifically. How are you really knitting that into your strategy? John, first of all, happy new year and good to be back on your show. M&amp;A, there are so many companies getting funded in the AI security space. It's hard to keep track of the count and most of them will get either acquired or they get sold. We selectively look for companies that are doing real innovations. We actually did two acquisitions last year. One was a company that built red teaming technology to identify vulnerabilities in AI models and applications and second was an agentic security operations that can identify some of these potential breaches in a big set of data. So we will be inquisitive but very selectively. &gt;&gt; Even before we saw this latest wave of generative AI driven by open AI, we had this franchising effect among attackers where they were making tools available for less experienced but eager thieves to go after data. How have you seen the availability of AI tools both make social engineering attacks and languaged driven natural languaged driven attacks more prevalent and how has it changed what you need to do what your customers need to do to counter those attacks? John, AI is turbocharging that franchising attacks you talked about because with AI, you can build tools faster. With AI, you can ask a simple question that says, "Show me all the firewalls and VPNs of a given company that have vulnerabilities and give it to me in a nice tabular fashion." You get it in under 60 seconds. So AI is helping. AI can automate tools as well. But AI is powerful for providers like Zscale. We have embedded AI across the whole application or security solutions landscape. For example, we are able to detect when a bad guy is trying to do reconnaissance. Our technology can figure out with the help of AI very quickly. We are expanding upon our zero trust security exchange. With that we can track if agents if they go rogue are they going to do bad things. So technology for protection is is evolving at a rapid pace. The key challenge I see is will enterprises move fast enough to embrace that technology because the whole world is moving at a faster and faster pace. Jay, when I think about Zscaler and I say I think about Crowdstrike, I think about platforms that are executing on security and so much of what we talk about with AI is the importance of scale as long as there's intelligent scale uh with data, well-managed scale. What kind of strategic position does that put you in in the AI era as we're talking about acquisitions, as we're talking about trying to protect customers from multiple different kinds of threats? How is a platform company strategically uh positioned versus the rest of the market? &gt;&gt; Yeah, there used to be lots and lots of point product companies. Point products aren't good enough. So, you need a platform, but somehow the word platform has become meaningless. Every company calls itself a platform. Or a vendor goes on a buying spree and buys 10 companies and calls it a platform. None of that are integrated. They don't work well together. Our belief is that you should have properly integrated offerings so it makes the customer's job easier and easier. So having a platform that works well together is important. The second point you talked about is data. AI is only as powerful as the data it's trained on. Zcaler is the largest security cloud. We process over half a trillion transactions a day. That means the models can be trained. They can be smart to detect those things. So the combination of the comprehensive platform with the vast amount of data allows us to protect our customers better than most of the other vendors out there. &gt;&gt; Makes sense. Jay Chadri from Zcaler. Thank you.

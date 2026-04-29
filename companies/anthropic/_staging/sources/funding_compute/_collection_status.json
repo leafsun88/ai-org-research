@@ -1,0 +1,53 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "funding_compute",
+  "generated_at": "2026-04-17T13:45:42",
+  "total_records": 6,
+  "success_records": 1,
+  "failure_records": 5,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://apnews.com/article/275df9e291bbb361962dfc6ba868506c",
+      "title": "275df9e291bbb361962dfc6ba868506c",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/01/07/anthropic-seeks-10-billion-raised-on-350-billion-valuation-report-says/",
+      "title": "anthropic-seeks-10-billion-raised-on-350-billion-valuation-report-says",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
+      "title": "broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.longtermwiki.com/knowledge-base/organizations/anthropic-valuation/",
+      "title": "anthropic-valuation",
+      "chars": 50149,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/funding_compute/unknown_anthropic-valuation.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.axios.com/2026/02/17/wall-street-ai-bet-risk",
+      "title": "wall-street-ai-bet-risk",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/02/18/anthropic-the-ai-start-up-that-dares-to-defy-donald-trump_6750627_19.html",
+      "title": "anthropic-the-ai-start-up-that-dares-to-defy-donald-trump_6750627_19.html",
+      "error": "HTTP 402",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "HooVi5p-zLI",
+  "title": "Turn Your Idea Into a Working App With One Prompt | Live Demo With Anton Osika of Lovable",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:13:20",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:13:20"
+}

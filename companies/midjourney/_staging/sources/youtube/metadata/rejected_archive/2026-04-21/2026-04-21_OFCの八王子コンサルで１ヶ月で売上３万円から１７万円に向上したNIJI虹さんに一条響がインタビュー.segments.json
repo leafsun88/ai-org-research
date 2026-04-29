@@ -1,0 +1,4509 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "_iMBcVNJ0Q8",
+  "url": "https://www.youtube.com/watch?v=_iMBcVNJ0Q8",
+  "title": "OFCの八王子コンサルで１ヶ月で売上３万円から１７万円に向上したNIJI【虹】さんに一条響がインタビュー",
+  "channel": "ココナラ王子⭐︎一条響",
+  "source_queries": [
+    "Niji 7 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:06:09",
+  "segments": [
+    {
+      "text": "こんにちは一条です今日はですね0FC",
+      "duration": 4.04,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "メンバーのニさんにお越しいただきました",
+      "duration": 3.96,
+      "offset": 2.32,
+      "lang": "en"
+    },
+    {
+      "text": "ニさんよろしくお願いしますよろしくお",
+      "duration": 6.4,
+      "offset": 4.2,
+      "lang": "en"
+    },
+    {
+      "text": "願いしますニさんはですねえ2025年2",
+      "duration": 7.64,
+      "offset": 6.28,
+      "lang": "en"
+    },
+    {
+      "text": "月の八王子コンサルの受行生でえ八王子",
+      "duration": 6.04,
+      "offset": 10.6,
+      "lang": "en"
+    },
+    {
+      "text": "コンサル受行中に1ヶ月間で17万円の",
+      "duration": 4.32,
+      "offset": 13.92,
+      "lang": "en"
+    },
+    {
+      "text": "売上を達成したということでおめでとう",
+      "duration": 4.32,
+      "offset": 16.64,
+      "lang": "en"
+    },
+    {
+      "text": "ございますはいありがとうございます本当",
+      "duration": 5.44,
+      "offset": 18.24,
+      "lang": "en"
+    },
+    {
+      "text": "にねその八王子コンサル始める前に",
+      "duration": 4.88,
+      "offset": 20.96,
+      "lang": "en"
+    },
+    {
+      "text": "ギリギリプラチナランクになったと思うん",
+      "duration": 4.52,
+      "offset": 23.68,
+      "lang": "en"
+    },
+    {
+      "text": "ですけれどそこからま売上がどんどん",
+      "duration": 4.36,
+      "offset": 25.84,
+      "lang": "en"
+    },
+    {
+      "text": "どんどん増えてきたということなんで今日",
+      "duration": 3.64,
+      "offset": 28.2,
+      "lang": "en"
+    },
+    {
+      "text": "は八王子コンサルのことなども",
+      "duration": 4.08,
+      "offset": 30.2,
+      "lang": "en"
+    },
+    {
+      "text": "インタビューしていきたいと思いますえ",
+      "duration": 5.08,
+      "offset": 31.84,
+      "lang": "en"
+    },
+    {
+      "text": "まず最初に2さんの自己紹介を簡単にして",
+      "duration": 5.68,
+      "offset": 34.28,
+      "lang": "en"
+    },
+    {
+      "text": "いただいてよろしいですかあはい",
+      "duration": 8.72,
+      "offset": 36.92,
+      "lang": "en"
+    },
+    {
+      "text": "えっと2アのインサイトログイン",
+      "duration": 5.68,
+      "offset": 39.96,
+      "lang": "en"
+    },
+    {
+      "text": "を取って2年経ったんですけれどもえ本格",
+      "duration": 6.84,
+      "offset": 50.48,
+      "lang": "en"
+    },
+    {
+      "text": "的に始めてからは半年です待機を始めて",
+      "duration": 7.04,
+      "offset": 54.28,
+      "lang": "en"
+    },
+    {
+      "text": "半年ですで0FCにあのさせていただいて",
+      "duration": 8.68,
+      "offset": 57.32,
+      "lang": "en"
+    },
+    {
+      "text": "1ヶ月でえ八子コンサルの方にえっと挑戦",
+      "duration": 7.76,
+      "offset": 61.32,
+      "lang": "en"
+    },
+    {
+      "text": "チャレンジさせていただきましたお願いし",
+      "duration": 6.88,
+      "offset": 66.0,
+      "lang": "en"
+    },
+    {
+      "text": "ますはいま1番最初にですねその八子",
+      "duration": 6.0,
+      "offset": 69.08,
+      "lang": "en"
+    },
+    {
+      "text": "コンサル入る入る前っていうか始まる",
+      "duration": 3.96,
+      "offset": 72.88,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと前ぐらいにプラチナランクになっ",
+      "duration": 3.84,
+      "offset": 75.08,
+      "lang": "en"
+    },
+    {
+      "text": "たというかま入ってねちょっとした有業",
+      "duration": 4.28,
+      "offset": 76.84,
+      "lang": "en"
+    },
+    {
+      "text": "期間の間にプラチナランクになったと思う",
+      "duration": 5.92,
+      "offset": 78.92,
+      "lang": "en"
+    },
+    {
+      "text": "んですけれどまそれまでと実際にこの1",
+      "duration": 6.52,
+      "offset": 81.12,
+      "lang": "en"
+    },
+    {
+      "text": "ヶ月八王時での1か月っってどうでしたか",
+      "duration": 5.6,
+      "offset": 84.84,
+      "lang": "en"
+    },
+    {
+      "text": "ねま先生が8人いてずっとうんられたり",
+      "duration": 4.92,
+      "offset": 87.64,
+      "lang": "en"
+    },
+    {
+      "text": "ですね報告を読まれたりするわけです",
+      "duration": 5.44,
+      "offset": 90.44,
+      "lang": "en"
+    },
+    {
+      "text": "けれどどんな1ヶ月でしたえっとそうです",
+      "duration": 6.12,
+      "offset": 92.56,
+      "lang": "en"
+    },
+    {
+      "text": "ねあのまず八王子",
+      "duration": 7.72,
+      "offset": 95.88,
+      "lang": "en"
+    },
+    {
+      "text": "コンサルえっと申し込むと決めてでま早め",
+      "duration": 7.84,
+      "offset": 98.68,
+      "lang": "en"
+    },
+    {
+      "text": "に早めにというかの決まりましたって言わ",
+      "duration": 7.52,
+      "offset": 103.6,
+      "lang": "en"
+    },
+    {
+      "text": "れてからもうすでにそこからも私はハコ性",
+      "duration": 8.28,
+      "offset": 106.52,
+      "lang": "en"
+    },
+    {
+      "text": "だと思いながらちょっと始めてましたなの",
+      "duration": 7.72,
+      "offset": 111.12,
+      "lang": "en"
+    },
+    {
+      "text": "でちょっと気を引き締めてあの最初の",
+      "duration": 7.12,
+      "offset": 114.8,
+      "lang": "en"
+    },
+    {
+      "text": "数日間だったんですけど1月の終わりから",
+      "duration": 6.4,
+      "offset": 118.84,
+      "lang": "en"
+    },
+    {
+      "text": "あの参加させていただいてその間に",
+      "duration": 6.8,
+      "offset": 121.92,
+      "lang": "en"
+    },
+    {
+      "text": "えもうちゃんとやらなければという気持ち",
+      "duration": 7.0,
+      "offset": 125.24,
+      "lang": "en"
+    },
+    {
+      "text": "から待機の時間を増やしてで走行してる",
+      "duration": 6.88,
+      "offset": 128.72,
+      "lang": "en"
+    },
+    {
+      "text": "うちにえっとプラチナになれましたでその",
+      "duration": 6.28,
+      "offset": 132.24,
+      "lang": "en"
+    },
+    {
+      "text": "まま2月を迎えたんですけどで先生方にも",
+      "duration": 5.92,
+      "offset": 135.6,
+      "lang": "en"
+    },
+    {
+      "text": "1月の終わりからすごく",
+      "duration": 6.68,
+      "offset": 138.52,
+      "lang": "en"
+    },
+    {
+      "text": "あの個人1人1人の先生にあのコンサルを",
+      "duration": 5.56,
+      "offset": 141.52,
+      "lang": "en"
+    },
+    {
+      "text": "していただくんですけどその申し込み",
+      "duration": 4.36,
+      "offset": 145.2,
+      "lang": "en"
+    },
+    {
+      "text": "なんかも私ちょっと早めにさせていただき",
+      "duration": 3.44,
+      "offset": 147.08,
+      "lang": "en"
+    },
+    {
+      "text": "た",
+      "duration": 3.6,
+      "offset": 149.56,
+      "lang": "en"
+    },
+    {
+      "text": "早かったすよねすごいそうなんですもう1",
+      "duration": 4.96,
+      "offset": 150.52,
+      "lang": "en"
+    },
+    {
+      "text": "月中にもうガツガツとお願いしてしまい",
+      "duration": 6.2,
+      "offset": 153.16,
+      "lang": "en"
+    },
+    {
+      "text": "ましてねだ8人先生がいるわけなんで冷静",
+      "duration": 6.72,
+      "offset": 155.48,
+      "lang": "en"
+    },
+    {
+      "text": "に考えて1ヶ月で8回のコンサルこなすっ",
+      "duration": 5.76,
+      "offset": 159.36,
+      "lang": "en"
+    },
+    {
+      "text": "てことは最低でも週に2回なきゃいけない",
+      "duration": 7.08,
+      "offset": 162.2,
+      "lang": "en"
+    },
+    {
+      "text": "しコンサルをや受けたとしてですよその",
+      "duration": 6.52,
+      "offset": 165.12,
+      "lang": "en"
+    },
+    {
+      "text": "コンサルを受けるから変わるっていうわけ",
+      "duration": 4.56,
+      "offset": 169.28,
+      "lang": "en"
+    },
+    {
+      "text": "じゃないじゃないですかコンサルを受けて",
+      "duration": 4.68,
+      "offset": 171.64,
+      "lang": "en"
+    },
+    {
+      "text": "学んだことをやるから変わるわけなんで",
+      "duration": 4.2,
+      "offset": 173.84,
+      "lang": "en"
+    },
+    {
+      "text": "そうなんです早めに受けといた方が絶対",
+      "duration": 4.52,
+      "offset": 176.32,
+      "lang": "en"
+    },
+    {
+      "text": "いいですよねそうなんですていうことは",
+      "duration": 4.68,
+      "offset": 178.04,
+      "lang": "en"
+    },
+    {
+      "text": "一応伝えてはいたと思うんですけど本当に",
+      "duration": 4.72,
+      "offset": 180.84,
+      "lang": "en"
+    },
+    {
+      "text": "ねあの虹さんめちゃくちゃあの多分",
+      "duration": 5.68,
+      "offset": 182.72,
+      "lang": "en"
+    },
+    {
+      "text": "プライベートでも仕事が早いんですよ",
+      "duration": 6.32,
+      "offset": 185.56,
+      "lang": "en"
+    },
+    {
+      "text": "ねだからなんかコンサルの依頼超早かった",
+      "duration": 5.32,
+      "offset": 188.4,
+      "lang": "en"
+    },
+    {
+      "text": "すよねもう月笑ぐらいに終わってました",
+      "duration": 5.0,
+      "offset": 191.88,
+      "lang": "en"
+    },
+    {
+      "text": "もんねうんそうですねもう本当に2月が",
+      "duration": 5.2,
+      "offset": 193.72,
+      "lang": "en"
+    },
+    {
+      "text": "28日しかないっていうのもあったんです",
+      "duration": 5.36,
+      "offset": 196.88,
+      "lang": "en"
+    },
+    {
+      "text": "けどもう私の中ではやっぱ早く進めたいっ",
+      "duration": 6.84,
+      "offset": 198.92,
+      "lang": "en"
+    },
+    {
+      "text": "ていうのもあてでも先生なたそれに答えて",
+      "duration": 5.92,
+      "offset": 202.24,
+      "lang": "en"
+    },
+    {
+      "text": "くれてもちろんあのねごごつかない方も",
+      "duration": 4.4,
+      "offset": 205.76,
+      "lang": "en"
+    },
+    {
+      "text": "いらっしゃいましたけども早め早めに先生",
+      "duration": 5.76,
+      "offset": 208.16,
+      "lang": "en"
+    },
+    {
+      "text": "方も都合つけていただいてもう順番でもう",
+      "duration": 7.16,
+      "offset": 210.16,
+      "lang": "en"
+    },
+    {
+      "text": "次々やっていただいたのでま正直最初頭の",
+      "duration": 7.04,
+      "offset": 213.92,
+      "lang": "en"
+    },
+    {
+      "text": "中がもうパニックというかいろんな情報で",
+      "duration": 6.92,
+      "offset": 217.32,
+      "lang": "en"
+    },
+    {
+      "text": "先生方のコンサルが1人1人がとても長く",
+      "duration": 7.12,
+      "offset": 220.96,
+      "lang": "en"
+    },
+    {
+      "text": "て深くてなんかボリュームがあるので1つ",
+      "duration": 6.16,
+      "offset": 224.24,
+      "lang": "en"
+    },
+    {
+      "text": "1つをこなしていくのに時間がかかるん",
+      "duration": 7.2,
+      "offset": 228.08,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどでもあのなんかちゃんと先生方",
+      "duration": 8.32,
+      "offset": 230.4,
+      "lang": "en"
+    },
+    {
+      "text": "いい感覚でコンサルを入っていただいたの",
+      "duration": 8.16,
+      "offset": 235.28,
+      "lang": "en"
+    },
+    {
+      "text": "で方ねやたら空気む能力が高いんでそうな",
+      "duration": 7.6,
+      "offset": 238.72,
+      "lang": "en"
+    },
+    {
+      "text": "んですよねちょっと金すぎるかなとか色々",
+      "duration": 5.4,
+      "offset": 243.44,
+      "lang": "en"
+    },
+    {
+      "text": "考えながらやってくださってるんで本",
+      "duration": 5.44,
+      "offset": 246.32,
+      "lang": "en"
+    },
+    {
+      "text": "すごいですよね本当びっくりしましたね",
+      "duration": 6.48,
+      "offset": 248.84,
+      "lang": "en"
+    },
+    {
+      "text": "あの最初私の性格だったりとかこういう風",
+      "duration": 5.2,
+      "offset": 251.76,
+      "lang": "en"
+    },
+    {
+      "text": "にやってったらいいよっていうのを見て",
+      "duration": 5.04,
+      "offset": 255.32,
+      "lang": "en"
+    },
+    {
+      "text": "くれる先生方が最初に来てくれてであの",
+      "duration": 6.12,
+      "offset": 256.96,
+      "lang": "en"
+    },
+    {
+      "text": "ページのサムネをこうしてったらいいよっ",
+      "duration": 5.52,
+      "offset": 260.36,
+      "lang": "en"
+    },
+    {
+      "text": "ていう先生に次見てもらってってなったの",
+      "duration": 6.24,
+      "offset": 263.08,
+      "lang": "en"
+    },
+    {
+      "text": "でまず商品あのブラッシュアップしてで",
+      "duration": 6.2,
+      "offset": 265.88,
+      "lang": "en"
+    },
+    {
+      "text": "そのともうどんどんその深みと言いますか",
+      "duration": 6.08,
+      "offset": 269.32,
+      "lang": "en"
+    },
+    {
+      "text": "あの占いの深いところですとか相談の深い",
+      "duration": 7.08,
+      "offset": 272.08,
+      "lang": "en"
+    },
+    {
+      "text": "ところですかところとかの先生方に順番に",
+      "duration": 6.52,
+      "offset": 275.4,
+      "lang": "en"
+    },
+    {
+      "text": "見ていただいたりとかあと待機の仕方の",
+      "duration": 5.56,
+      "offset": 279.16,
+      "lang": "en"
+    },
+    {
+      "text": "コツを教えてもらったりっていう本当いい",
+      "duration": 5.88,
+      "offset": 281.92,
+      "lang": "en"
+    },
+    {
+      "text": "流れでコンサルをさせていただいたので",
+      "duration": 7.4,
+      "offset": 284.72,
+      "lang": "en"
+    },
+    {
+      "text": "うんもうすごくあの吸収させてもらって",
+      "duration": 7.48,
+      "offset": 287.8,
+      "lang": "en"
+    },
+    {
+      "text": "すごくいい時間になりましただからそこ",
+      "duration": 6.48,
+      "offset": 292.12,
+      "lang": "en"
+    },
+    {
+      "text": "からのあのなんでしょう自分のもちろん",
+      "duration": 6.08,
+      "offset": 295.28,
+      "lang": "en"
+    },
+    {
+      "text": "頑張りもあるですけど先生方の刺激って",
+      "duration": 5.72,
+      "offset": 298.6,
+      "lang": "en"
+    },
+    {
+      "text": "いうのはとても大きかったと思いますねえ",
+      "duration": 6.84,
+      "offset": 301.36,
+      "lang": "en"
+    },
+    {
+      "text": "でも本当にそのもう申し込みする時も確か",
+      "duration": 6.76,
+      "offset": 304.32,
+      "lang": "en"
+    },
+    {
+      "text": "僕の記憶が正しかったらなんですけど30",
+      "duration": 4.6,
+      "offset": 308.2,
+      "lang": "en"
+    },
+    {
+      "text": "分ちょうどぐらいにお申し込みされてまし",
+      "duration": 5.16,
+      "offset": 311.08,
+      "lang": "en"
+    },
+    {
+      "text": "たよね30分って何時30分ですかて言と",
+      "duration": 6.52,
+      "offset": 312.8,
+      "lang": "en"
+    },
+    {
+      "text": "5時30分ですからねま5時30分から",
+      "duration": 5.56,
+      "offset": 316.24,
+      "lang": "en"
+    },
+    {
+      "text": "募集しますよとは言ってるんですけ言って",
+      "duration": 4.84,
+      "offset": 319.32,
+      "lang": "en"
+    },
+    {
+      "text": "たんですけれどなかなか本当にその",
+      "duration": 4.28,
+      "offset": 321.8,
+      "lang": "en"
+    },
+    {
+      "text": "ぴったりにお申し込みができる人ってい",
+      "duration": 4.88,
+      "offset": 324.16,
+      "lang": "en"
+    },
+    {
+      "text": "ないと思うんですよでね多分この動画を見",
+      "duration": 5.28,
+      "offset": 326.08,
+      "lang": "en"
+    },
+    {
+      "text": "てくださってうん中にも私も申し込み",
+      "duration": 3.84,
+      "offset": 329.04,
+      "lang": "en"
+    },
+    {
+      "text": "しようと思ったんだけどなって人いると",
+      "duration": 4.68,
+      "offset": 331.36,
+      "lang": "en"
+    },
+    {
+      "text": "思うんですけれどもうねタッチの差で結構",
+      "duration": 6.16,
+      "offset": 332.88,
+      "lang": "en"
+    },
+    {
+      "text": "ね入れなかったってこともあったりしてで",
+      "duration": 5.16,
+      "offset": 336.04,
+      "lang": "en"
+    },
+    {
+      "text": "なんかもうね人によってはですよメール",
+      "duration": 4.32,
+      "offset": 339.04,
+      "lang": "en"
+    },
+    {
+      "text": "アドレスの入力をするのを練習してるって",
+      "duration": 3.76,
+      "offset": 341.2,
+      "lang": "en"
+    },
+    {
+      "text": "方もいます",
+      "duration": 4.52,
+      "offset": 343.36,
+      "lang": "en"
+    },
+    {
+      "text": "ります打ち込むの練習しなきゃみたいなえ",
+      "duration": 4.48,
+      "offset": 344.96,
+      "lang": "en"
+    },
+    {
+      "text": "コピペでいいんじゃないのみたいに僕は",
+      "duration": 4.96,
+      "offset": 347.88,
+      "lang": "en"
+    },
+    {
+      "text": "思ったりするはいでまそんな感じで結構",
+      "duration": 7.28,
+      "offset": 349.44,
+      "lang": "en"
+    },
+    {
+      "text": "争奪戦の中ま本当にですねまその30分",
+      "duration": 6.08,
+      "offset": 352.84,
+      "lang": "en"
+    },
+    {
+      "text": "ちょうど5時半ちょうどに申し込みをして",
+      "duration": 4.64,
+      "offset": 356.72,
+      "lang": "en"
+    },
+    {
+      "text": "くださってはいでとにかくやっぱりはい",
+      "duration": 6.72,
+      "offset": 358.92,
+      "lang": "en"
+    },
+    {
+      "text": "早いですよね2さんは準備がうんいい",
+      "duration": 6.12,
+      "offset": 361.36,
+      "lang": "en"
+    },
+    {
+      "text": "そんなことないですけどでやっぱり僕も見",
+      "duration": 5.0,
+      "offset": 365.64,
+      "lang": "en"
+    },
+    {
+      "text": "てて思うんですけれどなんか準備が早い人",
+      "duration": 5.64,
+      "offset": 367.48,
+      "lang": "en"
+    },
+    {
+      "text": "がやっぱ応援されますしチャンスは掴む",
+      "duration": 5.44,
+      "offset": 370.64,
+      "lang": "en"
+    },
+    {
+      "text": "なって感じがするんですよああなるほどま",
+      "duration": 6.04,
+      "offset": 373.12,
+      "lang": "en"
+    },
+    {
+      "text": "でも今回本当にもう待ち構えて携帯持って",
+      "duration": 6.68,
+      "offset": 376.08,
+      "lang": "en"
+    },
+    {
+      "text": "待ち構えてもう絶対この時間に申し込むん",
+      "duration": 6.24,
+      "offset": 379.16,
+      "lang": "en"
+    },
+    {
+      "text": "だっていうことでそこはもう準備はして",
+      "duration": 3.44,
+      "offset": 382.76,
+      "lang": "en"
+    },
+    {
+      "text": "ました",
+      "duration": 5.56,
+      "offset": 385.4,
+      "lang": "en"
+    },
+    {
+      "text": "うなんかね本当にそのま八王子コンサルを",
+      "duration": 7.0,
+      "offset": 386.2,
+      "lang": "en"
+    },
+    {
+      "text": "受けるにあたって多分いろんな人の八王子",
+      "duration": 4.56,
+      "offset": 390.96,
+      "lang": "en"
+    },
+    {
+      "text": "コンサル受行生の動画見たと思うんですよ",
+      "duration": 5.28,
+      "offset": 393.2,
+      "lang": "en"
+    },
+    {
+      "text": "はいで自分がここならで結果出してなかっ",
+      "duration": 5.16,
+      "offset": 395.52,
+      "lang": "en"
+    },
+    {
+      "text": "たらどう考えても受けた方がいいに決まっ",
+      "duration": 4.92,
+      "offset": 398.48,
+      "lang": "en"
+    },
+    {
+      "text": "てるじゃないですかはい本当にま人生変え",
+      "duration": 5.12,
+      "offset": 400.68,
+      "lang": "en"
+    },
+    {
+      "text": "たいんだったらですよね本当に変えたいん",
+      "duration": 3.92,
+      "offset": 403.4,
+      "lang": "en"
+    },
+    {
+      "text": "だったら受けた方がいいのは分かってるん",
+      "duration": 4.96,
+      "offset": 405.8,
+      "lang": "en"
+    },
+    {
+      "text": "ですけれど受けた方がいいしその価格に",
+      "duration": 5.84,
+      "offset": 407.32,
+      "lang": "en"
+    },
+    {
+      "text": "関してももうありえない金額じゃない本当",
+      "duration": 5.24,
+      "offset": 410.76,
+      "lang": "en"
+    },
+    {
+      "text": "にうんはい本当にびっくりですそう本当に",
+      "duration": 4.88,
+      "offset": 413.16,
+      "lang": "en"
+    },
+    {
+      "text": "ありえないぐらいのことでやってるんで",
+      "duration": 4.6,
+      "offset": 416.0,
+      "lang": "en"
+    },
+    {
+      "text": "人生変えたかったらちょだけ早く起きるの",
+      "duration": 5.2,
+      "offset": 418.04,
+      "lang": "en"
+    },
+    {
+      "text": "1日頑張ってみてよっていうぐらい本当に",
+      "duration": 5.96,
+      "offset": 420.6,
+      "lang": "en"
+    },
+    {
+      "text": "おすめの企画なんですけどま普通の人は",
+      "duration": 6.28,
+      "offset": 423.24,
+      "lang": "en"
+    },
+    {
+      "text": "やっぱなかなかやっぱその勇気が出ないし",
+      "duration": 5.24,
+      "offset": 426.56,
+      "lang": "en"
+    },
+    {
+      "text": "そこまでして変わるのがやだなって人も",
+      "duration": 4.76,
+      "offset": 429.52,
+      "lang": "en"
+    },
+    {
+      "text": "いると思うんですけどまそんな中やっぱ2",
+      "duration": 5.36,
+      "offset": 431.8,
+      "lang": "en"
+    },
+    {
+      "text": "さんは早起きして申し込みしてで申し込み",
+      "duration": 5.32,
+      "offset": 434.28,
+      "lang": "en"
+    },
+    {
+      "text": "した後もですねもうその申し込みした日",
+      "duration": 4.76,
+      "offset": 437.16,
+      "lang": "en"
+    },
+    {
+      "text": "から私はハコ始まってるんだっていう感じ",
+      "duration": 5.2,
+      "offset": 439.6,
+      "lang": "en"
+    },
+    {
+      "text": "ではい頑張ってきたって感じですよね1",
+      "duration": 6.8,
+      "offset": 441.92,
+      "lang": "en"
+    },
+    {
+      "text": "か月間はいそうですねうんどうですか1",
+      "duration": 6.72,
+      "offset": 444.8,
+      "lang": "en"
+    },
+    {
+      "text": "か月やってこういうことが得られたみたい",
+      "duration": 6.08,
+      "offset": 448.72,
+      "lang": "en"
+    },
+    {
+      "text": "なのてありますいや得られたっていうのは",
+      "duration": 4.56,
+      "offset": 451.52,
+      "lang": "en"
+    },
+    {
+      "text": "やっぱり",
+      "duration": 5.84,
+      "offset": 454.8,
+      "lang": "en"
+    },
+    {
+      "text": "あのそもそもここならというもの自体が",
+      "duration": 7.64,
+      "offset": 456.08,
+      "lang": "en"
+    },
+    {
+      "text": "正直あまりよくわからないままやってまし",
+      "duration": 7.2,
+      "offset": 460.64,
+      "lang": "en"
+    },
+    {
+      "text": "たであのやっぱりま経験だと思うんです",
+      "duration": 6.8,
+      "offset": 463.72,
+      "lang": "en"
+    },
+    {
+      "text": "けど電話を受けてっていうことを何回も",
+      "duration": 4.64,
+      "offset": 467.84,
+      "lang": "en"
+    },
+    {
+      "text": "繰り返していけば分かることなんでしょう",
+      "duration": 4.76,
+      "offset": 470.52,
+      "lang": "en"
+    },
+    {
+      "text": "けどやっぱりそれにはお客様と対応し",
+      "duration": 5.36,
+      "offset": 472.48,
+      "lang": "en"
+    },
+    {
+      "text": "なければいけないですからその前にある",
+      "duration": 4.88,
+      "offset": 475.28,
+      "lang": "en"
+    },
+    {
+      "text": "程度自分の中でこううんいうことだって",
+      "duration": 4.72,
+      "offset": 477.84,
+      "lang": "en"
+    },
+    {
+      "text": "分かってちゃんとあのお客様と向き合わ",
+      "duration": 4.96,
+      "offset": 480.16,
+      "lang": "en"
+    },
+    {
+      "text": "なければっていう気持ちでないとなかなか",
+      "duration": 5.2,
+      "offset": 482.56,
+      "lang": "en"
+    },
+    {
+      "text": "待機ができなかったんですけれどもうん",
+      "duration": 6.4,
+      "offset": 485.12,
+      "lang": "en"
+    },
+    {
+      "text": "やっぱりそれをあのパチコンに入ったこと",
+      "duration": 7.08,
+      "offset": 487.76,
+      "lang": "en"
+    },
+    {
+      "text": "によって先生方が本当に細かいところで",
+      "duration": 5.6,
+      "offset": 491.52,
+      "lang": "en"
+    },
+    {
+      "text": "こういうことに注意した方がいいよとか",
+      "duration": 7.0,
+      "offset": 494.84,
+      "lang": "en"
+    },
+    {
+      "text": "あのまお客様と向い方ですとか考え方あの",
+      "duration": 7.96,
+      "offset": 497.12,
+      "lang": "en"
+    },
+    {
+      "text": "いろんなご相談が来るのでそのその都度",
+      "duration": 6.4,
+      "offset": 501.84,
+      "lang": "en"
+    },
+    {
+      "text": "その都度どういう風にあのま答えていくか",
+      "duration": 5.88,
+      "offset": 505.08,
+      "lang": "en"
+    },
+    {
+      "text": "とかどういう気持ちで受け止めるかとかっ",
+      "duration": 4.92,
+      "offset": 508.24,
+      "lang": "en"
+    },
+    {
+      "text": "ていうことを教えていただいたりとかあと",
+      "duration": 7.16,
+      "offset": 510.96,
+      "lang": "en"
+    },
+    {
+      "text": "待機の仕方っていうのもま私は体が強いっ",
+      "duration": 7.6,
+      "offset": 513.16,
+      "lang": "en"
+    },
+    {
+      "text": "ていうのが体強いよね本当にいつ寝てる",
+      "duration": 4.96,
+      "offset": 518.12,
+      "lang": "en"
+    },
+    {
+      "text": "のって感じですもんね告見てるそうあるん",
+      "duration": 6.04,
+      "offset": 520.76,
+      "lang": "en"
+    },
+    {
+      "text": "ででそれにつそうなるとでもどこかででも",
+      "duration": 6.28,
+      "offset": 523.08,
+      "lang": "en"
+    },
+    {
+      "text": "寝ないといけないっていうことでどうやっ",
+      "duration": 5.32,
+      "offset": 526.8,
+      "lang": "en"
+    },
+    {
+      "text": "てその睡眠を確保していくかっていう",
+      "duration": 5.72,
+      "offset": 529.36,
+      "lang": "en"
+    },
+    {
+      "text": "ところなんかも教えていただいたりとか",
+      "duration": 6.36,
+      "offset": 532.12,
+      "lang": "en"
+    },
+    {
+      "text": "あのやっぱ1日の中で待機っていう時間を",
+      "duration": 5.28,
+      "offset": 535.08,
+      "lang": "en"
+    },
+    {
+      "text": "どういう風に設定していくかっていう",
+      "duration": 5.16,
+      "offset": 538.48,
+      "lang": "en"
+    },
+    {
+      "text": "ところを教えてもらったりしたことでうん",
+      "duration": 6.76,
+      "offset": 540.36,
+      "lang": "en"
+    },
+    {
+      "text": "だいぶあの気持ちが楽になりながらここ",
+      "duration": 6.72,
+      "offset": 543.64,
+      "lang": "en"
+    },
+    {
+      "text": "ならの待機ができるようになりましたうん",
+      "duration": 5.48,
+      "offset": 547.12,
+      "lang": "en"
+    },
+    {
+      "text": "ねなんかま不安なことってたくさん出て",
+      "duration": 5.08,
+      "offset": 550.36,
+      "lang": "en"
+    },
+    {
+      "text": "くると思うんですけれどもうもう言って",
+      "duration": 5.28,
+      "offset": 552.6,
+      "lang": "en"
+    },
+    {
+      "text": "しまえばね不安っていうのは基本的にま",
+      "duration": 4.32,
+      "offset": 555.44,
+      "lang": "en"
+    },
+    {
+      "text": "言い方を変えればやらない理由だと思うん",
+      "duration": 4.4,
+      "offset": 557.88,
+      "lang": "en"
+    },
+    {
+      "text": "ですようんはいでやらない理由がもう山の",
+      "duration": 4.64,
+      "offset": 559.76,
+      "lang": "en"
+    },
+    {
+      "text": "ように出てくるじゃないですか変わるのっ",
+      "duration": 5.44,
+      "offset": 562.28,
+      "lang": "en"
+    },
+    {
+      "text": "て大変だしもそれその都度全部解消させる",
+      "duration": 6.36,
+      "offset": 564.4,
+      "lang": "en"
+    },
+    {
+      "text": "ともう言い訳なくなっちゃうんですよはい",
+      "duration": 5.48,
+      "offset": 567.72,
+      "lang": "en"
+    },
+    {
+      "text": "そうそうですねその場で解決したら全部",
+      "duration": 4.08,
+      "offset": 570.76,
+      "lang": "en"
+    },
+    {
+      "text": "言い訳なくなっちゃうんでまそういう",
+      "duration": 4.2,
+      "offset": 573.2,
+      "lang": "en"
+    },
+    {
+      "text": "アプローチでその周りにたくさん助けて",
+      "duration": 3.68,
+      "offset": 574.84,
+      "lang": "en"
+    },
+    {
+      "text": "くくれる人がいるっていう",
+      "duration": 2.92,
+      "offset": 577.4,
+      "lang": "en"
+    },
+    {
+      "text": "シチュエーションだと結構使えると思うん",
+      "duration": 4.4,
+      "offset": 578.52,
+      "lang": "en"
+    },
+    {
+      "text": "ですよねはい本ですこれも教えてあれも",
+      "duration": 5.0,
+      "offset": 580.32,
+      "lang": "en"
+    },
+    {
+      "text": "教えてってすごい身近な人間関係でやり",
+      "duration": 4.52,
+      "offset": 582.92,
+      "lang": "en"
+    },
+    {
+      "text": "まくってるとちょっとねなんかあのうまく",
+      "duration": 3.72,
+      "offset": 585.32,
+      "lang": "en"
+    },
+    {
+      "text": "いかないこともあるかもしれないですけど",
+      "duration": 4.56,
+      "offset": 587.44,
+      "lang": "en"
+    },
+    {
+      "text": "ハコ本当に特別な環境なんでどんどん聞い",
+      "duration": 5.56,
+      "offset": 589.04,
+      "lang": "en"
+    },
+    {
+      "text": "てって感じでどんどんどんどん解消されて",
+      "duration": 6.2,
+      "offset": 592.0,
+      "lang": "en"
+    },
+    {
+      "text": "はいでもうね逆になんかやらない理由全部",
+      "duration": 5.4,
+      "offset": 594.6,
+      "lang": "en"
+    },
+    {
+      "text": "消されちゃったらやるしかなくなっちゃい",
+      "duration": 4.52,
+      "offset": 598.2,
+      "lang": "en"
+    },
+    {
+      "text": "ますもんねそうなんですもうやるしかな",
+      "duration": 6.48,
+      "offset": 600.0,
+      "lang": "en"
+    },
+    {
+      "text": "いっていう環境に置かれたらもう嫌でも",
+      "duration": 7.16,
+      "offset": 602.72,
+      "lang": "en"
+    },
+    {
+      "text": "やるというとりですけどでも何かあったら",
+      "duration": 7.8,
+      "offset": 606.48,
+      "lang": "en"
+    },
+    {
+      "text": "もう先生方がいるっていうすごくあの安心",
+      "duration": 7.6,
+      "offset": 609.88,
+      "lang": "en"
+    },
+    {
+      "text": "感がありましたでま大きなトラブルは私の",
+      "duration": 5.56,
+      "offset": 614.28,
+      "lang": "en"
+    },
+    {
+      "text": "場合なかったんですけどもう何かあったら",
+      "duration": 5.52,
+      "offset": 617.48,
+      "lang": "en"
+    },
+    {
+      "text": "すぐ聞けばいいしとかあのどういう対応し",
+      "duration": 4.84,
+      "offset": 619.84,
+      "lang": "en"
+    },
+    {
+      "text": "たらいいのかっていうことを聞け",
+      "duration": 5.16,
+      "offset": 623.0,
+      "lang": "en"
+    },
+    {
+      "text": "るっていうのがあのその安心感っていうの",
+      "duration": 7.04,
+      "offset": 624.68,
+      "lang": "en"
+    },
+    {
+      "text": "は本当に待機をする時の大きななんか私の",
+      "duration": 7.16,
+      "offset": 628.16,
+      "lang": "en"
+    },
+    {
+      "text": "力になった気がしますうん安心感大事です",
+      "duration": 7.36,
+      "offset": 631.72,
+      "lang": "en"
+    },
+    {
+      "text": "よねはいやっぱその動けない理由って恐怖",
+      "duration": 6.84,
+      "offset": 635.32,
+      "lang": "en"
+    },
+    {
+      "text": "から来ますからね恐怖とか不安とかうん",
+      "duration": 5.8,
+      "offset": 639.08,
+      "lang": "en"
+    },
+    {
+      "text": "うんでこれをねやっぱどうにかしてあの",
+      "duration": 5.4,
+      "offset": 642.16,
+      "lang": "en"
+    },
+    {
+      "text": "軽くしていくと行動力が上がると思うん",
+      "duration": 7.28,
+      "offset": 644.88,
+      "lang": "en"
+    },
+    {
+      "text": "ですよねうんはいうんなんかなんだろうな",
+      "duration": 6.64,
+      "offset": 647.56,
+      "lang": "en"
+    },
+    {
+      "text": "なんかあの危ないことなんかなかなか",
+      "duration": 4.6,
+      "offset": 652.16,
+      "lang": "en"
+    },
+    {
+      "text": "チャレンジできないですからねでちょっと",
+      "duration": 5.08,
+      "offset": 654.2,
+      "lang": "en"
+    },
+    {
+      "text": "なんかちょっと刺激的なぐらいだったら",
+      "duration": 4.8,
+      "offset": 656.76,
+      "lang": "en"
+    },
+    {
+      "text": "チャレンジできると思うんですけれど本当",
+      "duration": 4.2,
+      "offset": 659.28,
+      "lang": "en"
+    },
+    {
+      "text": "にどうなるかわからないって状況だとでき",
+      "duration": 4.84,
+      "offset": 661.56,
+      "lang": "en"
+    },
+    {
+      "text": "ないと思うんでまそのま8人の先生が",
+      "duration": 5.0,
+      "offset": 663.48,
+      "lang": "en"
+    },
+    {
+      "text": "ずっと支えてくれるっていうのは結構ね",
+      "duration": 4.0,
+      "offset": 666.4,
+      "lang": "en"
+    },
+    {
+      "text": "いいものじゃないかなと思うんですけれど",
+      "duration": 4.64,
+      "offset": 668.48,
+      "lang": "en"
+    },
+    {
+      "text": "まこの本の中でなんかあの得られたもの",
+      "duration": 4.72,
+      "offset": 670.4,
+      "lang": "en"
+    },
+    {
+      "text": "色々あったってことなんですけどもし具体",
+      "duration": 4.76,
+      "offset": 673.12,
+      "lang": "en"
+    },
+    {
+      "text": "的にまこれを言ってもらったのがすごい",
+      "duration": 4.72,
+      "offset": 675.12,
+      "lang": "en"
+    },
+    {
+      "text": "良かったとかこれが実際に今も生きてる",
+      "duration": 5.0,
+      "offset": 677.88,
+      "lang": "en"
+    },
+    {
+      "text": "みたいなものってありますかうんえっと",
+      "duration": 6.48,
+      "offset": 679.84,
+      "lang": "en"
+    },
+    {
+      "text": "そうです私はちょっと占いをまやりたいと",
+      "duration": 5.88,
+      "offset": 682.88,
+      "lang": "en"
+    },
+    {
+      "text": "思って始めたんですけどまだ日が浅くてま",
+      "duration": 6.68,
+      "offset": 686.32,
+      "lang": "en"
+    },
+    {
+      "text": "うんなんですけどでまタロットの占いを今",
+      "duration": 6.56,
+      "offset": 688.76,
+      "lang": "en"
+    },
+    {
+      "text": "やってるんですけどそのタロットについて",
+      "duration": 6.56,
+      "offset": 693.0,
+      "lang": "en"
+    },
+    {
+      "text": "のあの学び勉強っていうのをあのカード1",
+      "duration": 7.48,
+      "offset": 695.32,
+      "lang": "en"
+    },
+    {
+      "text": "枚1枚とかとそのカードの中の世界観です",
+      "duration": 5.6,
+      "offset": 699.56,
+      "lang": "en"
+    },
+    {
+      "text": "とか物語ストーリーとかっていうものまで",
+      "duration": 7.92,
+      "offset": 702.8,
+      "lang": "en"
+    },
+    {
+      "text": "も深くあの教えてくれたのとあのその中で",
+      "duration": 7.68,
+      "offset": 705.16,
+      "lang": "en"
+    },
+    {
+      "text": "はもちろん話しきれないコンサルの中だけ",
+      "duration": 4.04,
+      "offset": 710.72,
+      "lang": "en"
+    },
+    {
+      "text": "では話しきれないのでこういうのを見ると",
+      "duration": 5.04,
+      "offset": 712.84,
+      "lang": "en"
+    },
+    {
+      "text": "いいよとかあの例えばま数字だったり絵",
+      "duration": 5.12,
+      "offset": 714.76,
+      "lang": "en"
+    },
+    {
+      "text": "だったり色だったりって色々",
+      "duration": 5.08,
+      "offset": 717.88,
+      "lang": "en"
+    },
+    {
+      "text": "いろんなところからのこう自分のこう感性",
+      "duration": 5.12,
+      "offset": 719.88,
+      "lang": "en"
+    },
+    {
+      "text": "をもう磨いてったりですとかそれを出し",
+      "duration": 4.0,
+      "offset": 722.96,
+      "lang": "en"
+    },
+    {
+      "text": "てったりっていう方法があるんだよって",
+      "duration": 4.84,
+      "offset": 725.0,
+      "lang": "en"
+    },
+    {
+      "text": "いうお話がやっぱりまちょっと占いがまだ",
+      "duration": 7.84,
+      "offset": 726.96,
+      "lang": "en"
+    },
+    {
+      "text": "日がい分すごくそれは役に立ちましたあと",
+      "duration": 8.16,
+      "offset": 729.84,
+      "lang": "en"
+    },
+    {
+      "text": "ま自分のあのこれお客様のことじゃないん",
+      "duration": 6.4,
+      "offset": 734.8,
+      "lang": "en"
+    },
+    {
+      "text": "ですけど私が自己肯定感が広かったりです",
+      "duration": 4.64,
+      "offset": 738.0,
+      "lang": "en"
+    },
+    {
+      "text": "とか",
+      "duration": 4.44,
+      "offset": 741.2,
+      "lang": "en"
+    },
+    {
+      "text": "あのもう自信のないっていうところが",
+      "duration": 5.84,
+      "offset": 742.64,
+      "lang": "en"
+    },
+    {
+      "text": "すごく今までもあったのでそこをちょっと",
+      "duration": 6.28,
+      "offset": 745.64,
+      "lang": "en"
+    },
+    {
+      "text": "突破しないければ多分この先進めないと",
+      "duration": 6.76,
+      "offset": 748.48,
+      "lang": "en"
+    },
+    {
+      "text": "思ってたのでそれについても先生あの専門",
+      "duration": 5.68,
+      "offset": 751.92,
+      "lang": "en"
+    },
+    {
+      "text": "でというか教えてくれた先生がいるんです",
+      "duration": 5.72,
+      "offset": 755.24,
+      "lang": "en"
+    },
+    {
+      "text": "けども本当になんかもうすごく趣味になっ",
+      "duration": 6.68,
+      "offset": 757.6,
+      "lang": "en"
+    },
+    {
+      "text": "て聞いてくれて細かいところまでま私の",
+      "duration": 6.32,
+      "offset": 760.96,
+      "lang": "en"
+    },
+    {
+      "text": "過去から色々聞いてくれるんですけどうん",
+      "duration": 7.2,
+      "offset": 764.28,
+      "lang": "en"
+    },
+    {
+      "text": "えそこでまあの一歩勇気を出してじゃない",
+      "duration": 6.48,
+      "offset": 767.28,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどま別に私が間違ってたわけじゃ",
+      "duration": 6.8,
+      "offset": 771.48,
+      "lang": "en"
+    },
+    {
+      "text": "ないよとかうんすく助言をいただいてあの",
+      "duration": 8.12,
+      "offset": 773.76,
+      "lang": "en"
+    },
+    {
+      "text": "なんだろうな私のこれからの生き方みたい",
+      "duration": 6.04,
+      "offset": 778.28,
+      "lang": "en"
+    },
+    {
+      "text": "なところまで教えていただいたような気が",
+      "duration": 6.16,
+      "offset": 781.88,
+      "lang": "en"
+    },
+    {
+      "text": "したのでそれもやっぱり大きなあのこっ",
+      "duration": 7.32,
+      "offset": 784.32,
+      "lang": "en"
+    },
+    {
+      "text": "から先自分の足で進んでいく大きな力に",
+      "duration": 6.04,
+      "offset": 788.04,
+      "lang": "en"
+    },
+    {
+      "text": "なったなっていうのはありますなんか自信",
+      "duration": 3.96,
+      "offset": 791.64,
+      "lang": "en"
+    },
+    {
+      "text": "とか生き方っていうのはどういうことを",
+      "duration": 3.48,
+      "offset": 794.08,
+      "lang": "en"
+    },
+    {
+      "text": "教えていただいた感じだったんですか",
+      "duration": 7.12,
+      "offset": 795.6,
+      "lang": "en"
+    },
+    {
+      "text": "えっとなんも物事の考え方ですとかなんて",
+      "duration": 7.68,
+      "offset": 797.56,
+      "lang": "en"
+    },
+    {
+      "text": "言うのかな自分を否定する考え方をして",
+      "duration": 5.48,
+      "offset": 802.72,
+      "lang": "en"
+    },
+    {
+      "text": "しまうんですね私であとうんすぐま謝る癖",
+      "duration": 5.48,
+      "offset": 805.24,
+      "lang": "en"
+    },
+    {
+      "text": "ももちろんあります謝る回数減りましたね",
+      "duration": 5.6,
+      "offset": 808.2,
+      "lang": "en"
+    },
+    {
+      "text": "そういえばそうなんですもう一先生怒られ",
+      "duration": 5.48,
+      "offset": 810.72,
+      "lang": "en"
+    },
+    {
+      "text": "たって言ったらですけど注意というかあの",
+      "duration": 4.8,
+      "offset": 813.8,
+      "lang": "en"
+    },
+    {
+      "text": "やっっぱり番最にものすごい気になった",
+      "duration": 4.48,
+      "offset": 816.2,
+      "lang": "en"
+    },
+    {
+      "text": "言ったら1ヶ月経ったら消えてますね",
+      "duration": 4.68,
+      "offset": 818.6,
+      "lang": "en"
+    },
+    {
+      "text": "びっっくりもう本当にそれを出さないよう",
+      "duration": 5.12,
+      "offset": 820.68,
+      "lang": "en"
+    },
+    {
+      "text": "に出さないようにっていう意識をずっとし",
+      "duration": 6.64,
+      "offset": 823.28,
+      "lang": "en"
+    },
+    {
+      "text": "てきててでまそれプラスもちろん謝るも",
+      "duration": 8.44,
+      "offset": 825.8,
+      "lang": "en"
+    },
+    {
+      "text": "そうですしあのなんでしょう全部自分が",
+      "duration": 7.04,
+      "offset": 829.92,
+      "lang": "en"
+    },
+    {
+      "text": "やればいいやだったりとか何かあった時は",
+      "duration": 5.32,
+      "offset": 834.24,
+      "lang": "en"
+    },
+    {
+      "text": "全部自分の責任だっていうのをちょっと",
+      "duration": 6.0,
+      "offset": 836.96,
+      "lang": "en"
+    },
+    {
+      "text": "考えてきてしまったんですけどうんその",
+      "duration": 6.76,
+      "offset": 839.56,
+      "lang": "en"
+    },
+    {
+      "text": "なんて言うのかな考えそういう考えを",
+      "duration": 8.2,
+      "offset": 842.96,
+      "lang": "en"
+    },
+    {
+      "text": "えっとした原因とかっていうのがま何か",
+      "duration": 7.0,
+      "offset": 846.32,
+      "lang": "en"
+    },
+    {
+      "text": "あったのかなとかって聞いていただいたん",
+      "duration": 4.32,
+      "offset": 851.16,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどまあんまりはっきりしたもの私の",
+      "duration": 5.16,
+      "offset": 853.32,
+      "lang": "en"
+    },
+    {
+      "text": "中ではうんうんお伝えできなかったんです",
+      "duration": 6.24,
+      "offset": 855.48,
+      "lang": "en"
+    },
+    {
+      "text": "けどうんうんうんでもそういう考えじゃ",
+      "duration": 5.08,
+      "offset": 858.48,
+      "lang": "en"
+    },
+    {
+      "text": "なくこういう考えしてった方がいいよって",
+      "duration": 4.0,
+      "offset": 861.72,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとあんまりはっきりて具体的なこと",
+      "duration": 4.76,
+      "offset": 863.56,
+      "lang": "en"
+    },
+    {
+      "text": "が出てこなくて申し訳ないんですけどでも",
+      "duration": 6.0,
+      "offset": 865.72,
+      "lang": "en"
+    },
+    {
+      "text": "話をしてん時に自分の中でなんかこうピン",
+      "duration": 6.12,
+      "offset": 868.32,
+      "lang": "en"
+    },
+    {
+      "text": "とくるものがなんか不思議なんですけど蓋",
+      "duration": 5.72,
+      "offset": 871.72,
+      "lang": "en"
+    },
+    {
+      "text": "が取れたみたいなうん感覚があっ",
+      "duration": 6.6,
+      "offset": 874.44,
+      "lang": "en"
+    },
+    {
+      "text": "てあそうだなってなんか気づいたっていう",
+      "duration": 6.84,
+      "offset": 877.44,
+      "lang": "en"
+    },
+    {
+      "text": "のかなうんそっかそかこう私は自分で蓋を",
+      "duration": 7.36,
+      "offset": 881.04,
+      "lang": "en"
+    },
+    {
+      "text": "してたんだなっていう感覚があってあこれ",
+      "duration": 7.24,
+      "offset": 884.28,
+      "lang": "en"
+    },
+    {
+      "text": "を取ってもうもっと自分自己表現自分を",
+      "duration": 5.6,
+      "offset": 888.4,
+      "lang": "en"
+    },
+    {
+      "text": "出してっていいんだっていう気持ちには",
+      "duration": 5.28,
+      "offset": 891.52,
+      "lang": "en"
+    },
+    {
+      "text": "なってきました素晴らしいもどんどんあの",
+      "duration": 4.6,
+      "offset": 894.0,
+      "lang": "en"
+    },
+    {
+      "text": "蓋取っといたが取ってった方がいいですね",
+      "duration": 5.04,
+      "offset": 896.8,
+      "lang": "en"
+    },
+    {
+      "text": "本当にあでも私鎧を12枚ぐらい着てたの",
+      "duration": 6.64,
+      "offset": 898.6,
+      "lang": "en"
+    },
+    {
+      "text": "で今までは11枚ぐら鎧そうですね",
+      "duration": 5.36,
+      "offset": 901.84,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとちょっと軽くなったかなっていう",
+      "duration": 4.72,
+      "offset": 905.24,
+      "lang": "en"
+    },
+    {
+      "text": "素晴らしいそういね多分ね鎧があ",
+      "duration": 4.64,
+      "offset": 907.2,
+      "lang": "en"
+    },
+    {
+      "text": "るってことはやっぱ傷ついた過去がある",
+      "duration": 5.16,
+      "offset": 909.96,
+      "lang": "en"
+    },
+    {
+      "text": "可能性が高そうですよねそうですねなんか",
+      "duration": 5.72,
+      "offset": 911.84,
+      "lang": "en"
+    },
+    {
+      "text": "それもやっぱりその占いとかをやってくと",
+      "duration": 4.84,
+      "offset": 915.12,
+      "lang": "en"
+    },
+    {
+      "text": "いろんなお客様の心の中に入ってくじゃ",
+      "duration": 5.0,
+      "offset": 917.56,
+      "lang": "en"
+    },
+    {
+      "text": "ないですかはいで剥がしてくじゃないです",
+      "duration": 6.56,
+      "offset": 919.96,
+      "lang": "en"
+    },
+    {
+      "text": "か鎧僕たちの仕事ってはいはいで軽くして",
+      "duration": 6.92,
+      "offset": 922.56,
+      "lang": "en"
+    },
+    {
+      "text": "あげて安心させてあげるって仕事はいだと",
+      "duration": 5.8,
+      "offset": 926.52,
+      "lang": "en"
+    },
+    {
+      "text": "思うんでこれを人にやってると自分のも",
+      "duration": 4.56,
+      "offset": 929.48,
+      "lang": "en"
+    },
+    {
+      "text": "できるようになってくるんでもっとうん",
+      "duration": 4.4,
+      "offset": 932.32,
+      "lang": "en"
+    },
+    {
+      "text": "うんうんうんうんそうですね明らかにだっ",
+      "duration": 5.36,
+      "offset": 934.04,
+      "lang": "en"
+    },
+    {
+      "text": "て体験として鎧を剥がしてあげたら楽し",
+      "duration": 5.0,
+      "offset": 936.72,
+      "lang": "en"
+    },
+    {
+      "text": "そうにしてる人を何度も何度も目撃してく",
+      "duration": 4.96,
+      "offset": 939.4,
+      "lang": "en"
+    },
+    {
+      "text": "わけなんでこれからそうですねうんうん",
+      "duration": 5.04,
+      "offset": 941.72,
+      "lang": "en"
+    },
+    {
+      "text": "うんそれをやってくことがものすごく多分",
+      "duration": 5.48,
+      "offset": 944.36,
+      "lang": "en"
+    },
+    {
+      "text": "自分が自分の心の蓋を取り除くのにも",
+      "duration": 6.36,
+      "offset": 946.76,
+      "lang": "en"
+    },
+    {
+      "text": "役立つと思うんでうんうんうんはいそう",
+      "duration": 5.72,
+      "offset": 949.84,
+      "lang": "en"
+    },
+    {
+      "text": "ですね軽くなりますよもうねでも軽くなん",
+      "duration": 6.48,
+      "offset": 953.12,
+      "lang": "en"
+    },
+    {
+      "text": "ないとあの海とか沈みますからねそう力が",
+      "duration": 6.96,
+      "offset": 955.56,
+      "lang": "en"
+    },
+    {
+      "text": "大事なんで人を引き上げる時にははい",
+      "duration": 5.68,
+      "offset": 959.6,
+      "lang": "en"
+    },
+    {
+      "text": "まだまだこれからちょっともっとねあの鎧",
+      "duration": 6.04,
+      "offset": 962.52,
+      "lang": "en"
+    },
+    {
+      "text": "は話していかなければいけないねなあの朝",
+      "duration": 7.0,
+      "offset": 965.28,
+      "lang": "en"
+    },
+    {
+      "text": "かにもですね虹さん毎日ですか毎日来て",
+      "duration": 6.56,
+      "offset": 968.56,
+      "lang": "en"
+    },
+    {
+      "text": "くれてんですけどあの朝かもだいぶなんか",
+      "duration": 5.0,
+      "offset": 972.28,
+      "lang": "en"
+    },
+    {
+      "text": "雰囲気軽くなってきましたもんねはい",
+      "duration": 4.4,
+      "offset": 975.12,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと軽くなりすぎてしまってちょっと",
+      "duration": 4.68,
+      "offset": 977.28,
+      "lang": "en"
+    },
+    {
+      "text": "軽くなりすぎてしまってうん今日もなんか",
+      "duration": 4.28,
+      "offset": 979.52,
+      "lang": "en"
+    },
+    {
+      "text": "ずっと音読しながら笑ってましたもんね",
+      "duration": 5.16,
+      "offset": 981.96,
+      "lang": "en"
+    },
+    {
+      "text": "そうなんですちょっと今日ははいもう楽し",
+      "duration": 5.8,
+      "offset": 983.8,
+      "lang": "en"
+    },
+    {
+      "text": "すぎて笑ってしまいました",
+      "duration": 5.16,
+      "offset": 987.12,
+      "lang": "en"
+    },
+    {
+      "text": "でまあねますます本当に軽くなっていって",
+      "duration": 4.88,
+      "offset": 989.6,
+      "lang": "en"
+    },
+    {
+      "text": "いただきたいなっていう風に思いますま",
+      "duration": 4.72,
+      "offset": 992.28,
+      "lang": "en"
+    },
+    {
+      "text": "ハコですごい変わってきたっていう感じだ",
+      "duration": 5.64,
+      "offset": 994.48,
+      "lang": "en"
+    },
+    {
+      "text": "と思うんですけれどこのハコの期間中に",
+      "duration": 5.24,
+      "offset": 997.0,
+      "lang": "en"
+    },
+    {
+      "text": "1番大変だったことってどういうことが",
+      "duration": 6.44,
+      "offset": 1000.12,
+      "lang": "en"
+    },
+    {
+      "text": "ありますかそうですよねよく聞かれるん",
+      "duration": 6.56,
+      "offset": 1002.24,
+      "lang": "en"
+    },
+    {
+      "text": "ですけど",
+      "duration": 6.68,
+      "offset": 1006.56,
+      "lang": "en"
+    },
+    {
+      "text": "うんあんまりないんですよね私の場合大変",
+      "duration": 7.8,
+      "offset": 1008.8,
+      "lang": "en"
+    },
+    {
+      "text": "だったっていうことがあの多分待機が大変",
+      "duration": 6.56,
+      "offset": 1013.24,
+      "lang": "en"
+    },
+    {
+      "text": "だと思うんですね私夜ずっと待機して",
+      "duration": 5.4,
+      "offset": 1016.6,
+      "lang": "en"
+    },
+    {
+      "text": "うんずっととってどれぐらいしてたんです",
+      "duration": 7.16,
+      "offset": 1019.8,
+      "lang": "en"
+    },
+    {
+      "text": "かどれ時間とかねずっとうんうんあまあ",
+      "duration": 9.12,
+      "offset": 1022.0,
+      "lang": "en"
+    },
+    {
+      "text": "ずっとでずっとですねんえ仕事がない間は",
+      "duration": 6.64,
+      "offset": 1026.96,
+      "lang": "en"
+    },
+    {
+      "text": "ほとんどずっとな2時とかあそうですそう",
+      "duration": 5.72,
+      "offset": 1031.12,
+      "lang": "en"
+    },
+    {
+      "text": "ですはいはい夜はもうずっととにかく待機",
+      "duration": 7.4,
+      "offset": 1033.6,
+      "lang": "en"
+    },
+    {
+      "text": "素晴らしいうんを切ることがないので大変",
+      "duration": 6.64,
+      "offset": 1036.84,
+      "lang": "en"
+    },
+    {
+      "text": "じゃないあちゃんとじゃ言われた通りに寝",
+      "duration": 4.6,
+      "offset": 1041.0,
+      "lang": "en"
+    },
+    {
+      "text": "ながら待機をやってたんですねそうです",
+      "duration": 5.64,
+      "offset": 1043.48,
+      "lang": "en"
+    },
+    {
+      "text": "そうですはい寝ながら待機もしててでも",
+      "duration": 6.44,
+      "offset": 1045.6,
+      "lang": "en"
+    },
+    {
+      "text": "それが苦痛だっていう感じはあまりなかっ",
+      "duration": 7.48,
+      "offset": 1049.12,
+      "lang": "en"
+    },
+    {
+      "text": "うんたですねうんうーんだから大変だっ",
+      "duration": 7.04,
+      "offset": 1052.04,
+      "lang": "en"
+    },
+    {
+      "text": "たっていうことがあまりちょっと思いつか",
+      "duration": 6.88,
+      "offset": 1056.6,
+      "lang": "en"
+    },
+    {
+      "text": "ない感じですうんうんま結構その一見一見",
+      "duration": 7.0,
+      "offset": 1059.08,
+      "lang": "en"
+    },
+    {
+      "text": "振り返ることが大事だって僕多分結構言っ",
+      "duration": 4.76,
+      "offset": 1063.48,
+      "lang": "en"
+    },
+    {
+      "text": "てたと思うんですけどそれどうでした大変",
+      "duration": 4.84,
+      "offset": 1066.08,
+      "lang": "en"
+    },
+    {
+      "text": "じゃなかったですかそうそれは確かに",
+      "duration": 6.52,
+      "offset": 1068.24,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと私の中で大変っていうかあの",
+      "duration": 6.96,
+      "offset": 1070.92,
+      "lang": "en"
+    },
+    {
+      "text": "勘違いというかをしてた気はしますあの",
+      "duration": 6.76,
+      "offset": 1074.76,
+      "lang": "en"
+    },
+    {
+      "text": "振り返りをもっとちゃんとしないといけ",
+      "duration": 6.44,
+      "offset": 1077.88,
+      "lang": "en"
+    },
+    {
+      "text": "なかったんでしょうけど自分の中で完結し",
+      "duration": 5.76,
+      "offset": 1081.52,
+      "lang": "en"
+    },
+    {
+      "text": "てしまって外に出さないっていうことをし",
+      "duration": 6.16,
+      "offset": 1084.32,
+      "lang": "en"
+    },
+    {
+      "text": "ちゃってたんですね例えばその健康の相談",
+      "duration": 5.6,
+      "offset": 1087.28,
+      "lang": "en"
+    },
+    {
+      "text": "が私のとこにはかかってくることも多いん",
+      "duration": 5.32,
+      "offset": 1090.48,
+      "lang": "en"
+    },
+    {
+      "text": "ですけど健康のことって外に出したとこで",
+      "duration": 4.36,
+      "offset": 1092.88,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとあんまり分からないんじゃないか",
+      "duration": 5.56,
+      "offset": 1095.8,
+      "lang": "en"
+    },
+    {
+      "text": "なみたいなあの思いがあってこういう",
+      "duration": 7.88,
+      "offset": 1097.24,
+      "lang": "en"
+    },
+    {
+      "text": "やり取りしましたとかていうこともあのま",
+      "duration": 6.92,
+      "offset": 1101.36,
+      "lang": "en"
+    },
+    {
+      "text": "出してもなんかあんまり皆さんの役にも",
+      "duration": 5.4,
+      "offset": 1105.12,
+      "lang": "en"
+    },
+    {
+      "text": "立たないしなんて思ってしまって出さない",
+      "duration": 5.68,
+      "offset": 1108.28,
+      "lang": "en"
+    },
+    {
+      "text": "でいたりとかうんうんま健康のことって",
+      "duration": 7.08,
+      "offset": 1110.52,
+      "lang": "en"
+    },
+    {
+      "text": "いうのは実際僕的には題材の1つって感じ",
+      "duration": 6.08,
+      "offset": 1113.96,
+      "lang": "en"
+    },
+    {
+      "text": "だと思うんですようんうん健康のことを",
+      "duration": 5.32,
+      "offset": 1117.6,
+      "lang": "en"
+    },
+    {
+      "text": "話題にしている人にとっての心の動きを",
+      "duration": 4.88,
+      "offset": 1120.04,
+      "lang": "en"
+    },
+    {
+      "text": "どういう風にウォッチしてくかそうです",
+      "duration": 4.92,
+      "offset": 1122.92,
+      "lang": "en"
+    },
+    {
+      "text": "大事なんでうんあの事実も大事なんです",
+      "duration": 5.92,
+      "offset": 1124.92,
+      "lang": "en"
+    },
+    {
+      "text": "けれどこういう心の状態のところで私の",
+      "duration": 4.32,
+      "offset": 1127.84,
+      "lang": "en"
+    },
+    {
+      "text": "ところに来た人がこういう",
+      "duration": 3.16,
+      "offset": 1130.84,
+      "lang": "en"
+    },
+    {
+      "text": "コミュニケーション取ってったらどうなっ",
+      "duration": 5.04,
+      "offset": 1132.16,
+      "lang": "en"
+    },
+    {
+      "text": "てったかっていううんうんうんで心の硬さ",
+      "duration": 6.72,
+      "offset": 1134.0,
+      "lang": "en"
+    },
+    {
+      "text": "とか辛さとか重さどかにあると思うんで",
+      "duration": 5.76,
+      "offset": 1137.2,
+      "lang": "en"
+    },
+    {
+      "text": "それを見ていってでそれをどうやったら",
+      "duration": 4.72,
+      "offset": 1140.72,
+      "lang": "en"
+    },
+    {
+      "text": "軽くできるかっていうのを最初の1分の",
+      "duration": 4.24,
+      "offset": 1142.96,
+      "lang": "en"
+    },
+    {
+      "text": "ところから考えてコミュニケーション取っ",
+      "duration": 4.16,
+      "offset": 1145.44,
+      "lang": "en"
+    },
+    {
+      "text": "てくってことなんでうんそうですよねそれ",
+      "duration": 5.08,
+      "offset": 1147.2,
+      "lang": "en"
+    },
+    {
+      "text": "をその自分なりにはこうやったらうまく",
+      "duration": 4.48,
+      "offset": 1149.6,
+      "lang": "en"
+    },
+    {
+      "text": "いくんじゃないかと思って取ってくんだ",
+      "duration": 4.08,
+      "offset": 1152.28,
+      "lang": "en"
+    },
+    {
+      "text": "けれど最初のってのはそれがずれるんです",
+      "duration": 4.92,
+      "offset": 1154.08,
+      "lang": "en"
+    },
+    {
+      "text": "よどんどんうんうんうんでなんかあ全然",
+      "duration": 4.56,
+      "offset": 1156.36,
+      "lang": "en"
+    },
+    {
+      "text": "当たんなかったとかって言ったらすぐる",
+      "duration": 4.08,
+      "offset": 1159.0,
+      "lang": "en"
+    },
+    {
+      "text": "じゃないですかでもドピで刺さったら1",
+      "duration": 3.92,
+      "offset": 1160.92,
+      "lang": "en"
+    },
+    {
+      "text": "時間も2時間も3時間も行っちゃうと思う",
+      "duration": 4.28,
+      "offset": 1163.08,
+      "lang": "en"
+    },
+    {
+      "text": "んでうんうんでそれが当たってたのか",
+      "duration": 5.08,
+      "offset": 1164.84,
+      "lang": "en"
+    },
+    {
+      "text": "当たってなかったのか他の人だったらどう",
+      "duration": 5.36,
+      "offset": 1167.36,
+      "lang": "en"
+    },
+    {
+      "text": "やるのかなってことの意見もらったりとか",
+      "duration": 5.8,
+      "offset": 1169.92,
+      "lang": "en"
+    },
+    {
+      "text": "いうのを真面目に一見一件やってたら",
+      "duration": 4.96,
+      "offset": 1172.72,
+      "lang": "en"
+    },
+    {
+      "text": "こんな真面目にやってる人なかなかいない",
+      "duration": 5.04,
+      "offset": 1175.72,
+      "lang": "en"
+    },
+    {
+      "text": "んでま周りの人に負けるわけがないよねて",
+      "duration": 5.6,
+      "offset": 1177.68,
+      "lang": "en"
+    },
+    {
+      "text": "なるのがはこんで言うとこの振り返りって",
+      "duration": 4.8,
+      "offset": 1180.76,
+      "lang": "en"
+    },
+    {
+      "text": "感じなんですうんそうですよねなんから",
+      "duration": 4.0,
+      "offset": 1183.28,
+      "lang": "en"
+    },
+    {
+      "text": "そこはちょっと本当にもったいないことし",
+      "duration": 3.8,
+      "offset": 1185.56,
+      "lang": "en"
+    },
+    {
+      "text": "たなっていうのはちょっとありまして",
+      "duration": 6.6,
+      "offset": 1187.28,
+      "lang": "en"
+    },
+    {
+      "text": "難しいすよねはい1個1個そうやって出し",
+      "duration": 7.6,
+      "offset": 1189.36,
+      "lang": "en"
+    },
+    {
+      "text": "てって例えば先生があここちょっとこうな",
+      "duration": 4.48,
+      "offset": 1193.88,
+      "lang": "en"
+    },
+    {
+      "text": "んじゃないっていうのがあったらきっとね",
+      "duration": 2.96,
+      "offset": 1196.96,
+      "lang": "en"
+    },
+    {
+      "text": "言っていただいたと思うんですけど私が",
+      "duration": 5.28,
+      "offset": 1198.36,
+      "lang": "en"
+    },
+    {
+      "text": "出さなかったために多分そこがあの出てこ",
+      "duration": 6.08,
+      "offset": 1199.92,
+      "lang": "en"
+    },
+    {
+      "text": "なかったっていうのはま今後本当にハコを",
+      "duration": 5.8,
+      "offset": 1203.64,
+      "lang": "en"
+    },
+    {
+      "text": "受ける方がいたらそうやって出した方が",
+      "duration": 7.12,
+      "offset": 1206.0,
+      "lang": "en"
+    },
+    {
+      "text": "あの全然その振り返りでの先生方からの",
+      "duration": 6.8,
+      "offset": 1209.44,
+      "lang": "en"
+    },
+    {
+      "text": "こう私への帰ってくるコメントますごく",
+      "duration": 6.84,
+      "offset": 1213.12,
+      "lang": "en"
+    },
+    {
+      "text": "勉強になると思うのでちょっとそこは私は",
+      "duration": 6.2,
+      "offset": 1216.24,
+      "lang": "en"
+    },
+    {
+      "text": "もうどうしても病気の方とあの向き合って",
+      "duration": 4.64,
+      "offset": 1219.96,
+      "lang": "en"
+    },
+    {
+      "text": "しまってたってところがあったのでそれに",
+      "duration": 4.84,
+      "offset": 1222.44,
+      "lang": "en"
+    },
+    {
+      "text": "対してのあの返答とかしてしまったんです",
+      "duration": 4.56,
+      "offset": 1224.6,
+      "lang": "en"
+    },
+    {
+      "text": "結局ご相談者さんの",
+      "duration": 5.68,
+      "offset": 1227.28,
+      "lang": "en"
+    },
+    {
+      "text": "その電話した時の感情とか思いとかって",
+      "duration": 7.36,
+      "offset": 1229.16,
+      "lang": "en"
+    },
+    {
+      "text": "いうところにもうちょっとあの目を向けて",
+      "duration": 5.64,
+      "offset": 1232.96,
+      "lang": "en"
+    },
+    {
+      "text": "行けばよかったなっていうのをやっぱり後",
+      "duration": 4.72,
+      "offset": 1236.52,
+      "lang": "en"
+    },
+    {
+      "text": "から思ってしまうのでその時にやっぱ聞い",
+      "duration": 4.88,
+      "offset": 1238.6,
+      "lang": "en"
+    },
+    {
+      "text": "とけばよかったなっていうのはあります",
+      "duration": 5.44,
+      "offset": 1241.24,
+      "lang": "en"
+    },
+    {
+      "text": "うんもしかしたらなんですけどなんで2さ",
+      "duration": 7.96,
+      "offset": 1243.48,
+      "lang": "en"
+    },
+    {
+      "text": "的にはそのなんて言うんですかね多分人に",
+      "duration": 7.4,
+      "offset": 1246.68,
+      "lang": "en"
+    },
+    {
+      "text": "迷惑をかけちゃいけないがすごい強いかも",
+      "duration": 6.56,
+      "offset": 1251.44,
+      "lang": "en"
+    },
+    {
+      "text": "しんないんですよねそうですねはい時間",
+      "duration": 6.24,
+      "offset": 1254.08,
+      "lang": "en"
+    },
+    {
+      "text": "取っちゃいけないから余計なこと書いちゃ",
+      "duration": 5.2,
+      "offset": 1258.0,
+      "lang": "en"
+    },
+    {
+      "text": "いけないっていう思いがうんうんあるん",
+      "duration": 4.8,
+      "offset": 1260.32,
+      "lang": "en"
+    },
+    {
+      "text": "じゃないかなって感じがま報告見てて",
+      "duration": 6.64,
+      "offset": 1263.2,
+      "lang": "en"
+    },
+    {
+      "text": "すごい思ったんですけれどはいそのなので",
+      "duration": 7.32,
+      "offset": 1265.12,
+      "lang": "en"
+    },
+    {
+      "text": "多分でもわかんないですけど多分職場とか",
+      "duration": 5.0,
+      "offset": 1269.84,
+      "lang": "en"
+    },
+    {
+      "text": "でま大体普通の上司ってそういう感じだと",
+      "duration": 4.6,
+      "offset": 1272.44,
+      "lang": "en"
+    },
+    {
+      "text": "思うんですよ俺にとって必要じゃないこと",
+      "duration": 5.44,
+      "offset": 1274.84,
+      "lang": "en"
+    },
+    {
+      "text": "は書くなみたいな感じだと思うんですよね",
+      "duration": 5.8,
+      "offset": 1277.04,
+      "lang": "en"
+    },
+    {
+      "text": "まその方が楽ですからね上司も管理する",
+      "duration": 5.36,
+      "offset": 1280.28,
+      "lang": "en"
+    },
+    {
+      "text": "はいでも本当に成長してくんだったらま",
+      "duration": 4.76,
+      "offset": 1282.84,
+      "lang": "en"
+    },
+    {
+      "text": "いろんなねこと報告してった方がいいと",
+      "duration": 5.44,
+      "offset": 1285.64,
+      "lang": "en"
+    },
+    {
+      "text": "思いますしその一般的にこの法連想って",
+      "duration": 5.44,
+      "offset": 1287.6,
+      "lang": "en"
+    },
+    {
+      "text": "いうやつあるじゃないですか報告連絡",
+      "duration": 5.04,
+      "offset": 1291.08,
+      "lang": "en"
+    },
+    {
+      "text": "みたいなでこれは仕事上に必要なことで",
+      "duration": 6.16,
+      "offset": 1293.04,
+      "lang": "en"
+    },
+    {
+      "text": "やらなければいけないことであの守ら",
+      "duration": 4.56,
+      "offset": 1296.12,
+      "lang": "en"
+    },
+    {
+      "text": "なきゃいけないことみたいなイメージが",
+      "duration": 3.84,
+      "offset": 1299.2,
+      "lang": "en"
+    },
+    {
+      "text": "あるじゃないですかうんでもしっかりした",
+      "duration": 5.6,
+      "offset": 1300.68,
+      "lang": "en"
+    },
+    {
+      "text": "報告連絡相談って基本的に相手が喜ぶ行為",
+      "duration": 5.88,
+      "offset": 1303.04,
+      "lang": "en"
+    },
+    {
+      "text": "だと僕は思うんですよはいうん自分なりに",
+      "duration": 5.32,
+      "offset": 1306.28,
+      "lang": "en"
+    },
+    {
+      "text": "一生懸命書いてやってみましたとでまして",
+      "duration": 4.96,
+      "offset": 1308.92,
+      "lang": "en"
+    },
+    {
+      "text": "ハコなんかだったら先生みんなコンサルし",
+      "duration": 5.08,
+      "offset": 1311.6,
+      "lang": "en"
+    },
+    {
+      "text": "てるわけじゃないですかその中でその虹",
+      "duration": 5.96,
+      "offset": 1313.88,
+      "lang": "en"
+    },
+    {
+      "text": "さんがお客さんとやり取りをしてででなん",
+      "duration": 4.96,
+      "offset": 1316.68,
+      "lang": "en"
+    },
+    {
+      "text": "とかさんに言われたここを意識してやって",
+      "duration": 3.88,
+      "offset": 1319.84,
+      "lang": "en"
+    },
+    {
+      "text": "みましたって言われたらどう考えても報告",
+      "duration": 4.2,
+      "offset": 1321.64,
+      "lang": "en"
+    },
+    {
+      "text": "読んでて嬉しいじゃないですかそうですよ",
+      "duration": 5.2,
+      "offset": 1323.72,
+      "lang": "en"
+    },
+    {
+      "text": "ねはいこれがね本当にやるのが難しいん",
+      "duration": 5.4,
+      "offset": 1325.84,
+      "lang": "en"
+    },
+    {
+      "text": "ですけれどなんでまその蓋をして",
+      "duration": 4.04,
+      "offset": 1328.92,
+      "lang": "en"
+    },
+    {
+      "text": "るっていうところもあると思うんですけど",
+      "duration": 4.96,
+      "offset": 1331.24,
+      "lang": "en"
+    },
+    {
+      "text": "まその蓋を取っていくためにもま報告って",
+      "duration": 5.08,
+      "offset": 1332.96,
+      "lang": "en"
+    },
+    {
+      "text": "いうのをちょっとその0FCのチャットの",
+      "duration": 4.0,
+      "offset": 1336.2,
+      "lang": "en"
+    },
+    {
+      "text": "中でもですねぜひ練習していって",
+      "duration": 4.08,
+      "offset": 1338.04,
+      "lang": "en"
+    },
+    {
+      "text": "いただけるとその方がますますファンも",
+      "duration": 5.64,
+      "offset": 1340.2,
+      "lang": "en"
+    },
+    {
+      "text": "増えると思うんではいそうですねそうだ",
+      "duration": 8.2,
+      "offset": 1342.12,
+      "lang": "en"
+    },
+    {
+      "text": "からなんかあの人によっては自分の心の中",
+      "duration": 7.44,
+      "offset": 1345.84,
+      "lang": "en"
+    },
+    {
+      "text": "のことを感じすることによって嫌われ",
+      "duration": 4.96,
+      "offset": 1350.32,
+      "lang": "en"
+    },
+    {
+      "text": "るっていう経験を持ってる人って多いじゃ",
+      "duration": 3.92,
+      "offset": 1353.28,
+      "lang": "en"
+    },
+    {
+      "text": "ないですかま僕ももちろんあるんですけど",
+      "duration": 5.24,
+      "offset": 1355.28,
+      "lang": "en"
+    },
+    {
+      "text": "だから開示しない方がいいっていうその",
+      "duration": 6.6,
+      "offset": 1357.2,
+      "lang": "en"
+    },
+    {
+      "text": "自分の中での成功法則を作り上げてしまう",
+      "duration": 5.56,
+      "offset": 1360.52,
+      "lang": "en"
+    },
+    {
+      "text": "人ってのはすごく多いんですよねうんうん",
+      "duration": 4.76,
+      "offset": 1363.8,
+      "lang": "en"
+    },
+    {
+      "text": "はいでもそれはやり方が何かしら間違って",
+      "duration": 4.76,
+      "offset": 1366.08,
+      "lang": "en"
+    },
+    {
+      "text": "ただけで本来は自己開示っていうのは人に",
+      "duration": 5.88,
+      "offset": 1368.56,
+      "lang": "en"
+    },
+    {
+      "text": "好かれる行為だと僕はああ思うんですよ",
+      "duration": 6.48,
+      "offset": 1370.84,
+      "lang": "en"
+    },
+    {
+      "text": "ただまうまくいった体験がないともう",
+      "duration": 5.84,
+      "offset": 1374.44,
+      "lang": "en"
+    },
+    {
+      "text": "例えば人によってはそのちょっとした告白",
+      "duration": 5.2,
+      "offset": 1377.32,
+      "lang": "en"
+    },
+    {
+      "text": "を小学生とかにして傷ついたらもう2度と",
+      "duration": 4.12,
+      "offset": 1380.28,
+      "lang": "en"
+    },
+    {
+      "text": "やらないとかって蓋してしまう人とかね",
+      "duration": 5.08,
+      "offset": 1382.52,
+      "lang": "en"
+    },
+    {
+      "text": "うんはいはいで失敗に失敗が続くと2に2",
+      "duration": 5.44,
+      "offset": 1384.4,
+      "lang": "en"
+    },
+    {
+      "text": "に蓋を重ねてですね鎧を12万円ぐらい",
+      "duration": 7.04,
+      "offset": 1387.6,
+      "lang": "en"
+    },
+    {
+      "text": "被る人もいるわけですよはいでもまその",
+      "duration": 8.2,
+      "offset": 1389.84,
+      "lang": "en"
+    },
+    {
+      "text": "実際には本当に喜ばれる行為であるしその",
+      "duration": 6.28,
+      "offset": 1394.64,
+      "lang": "en"
+    },
+    {
+      "text": "ハコの1番最後終わった後の発表でも",
+      "duration": 4.64,
+      "offset": 1398.04,
+      "lang": "en"
+    },
+    {
+      "text": "やっぱみんな喜んでくれてたじゃないです",
+      "duration": 5.68,
+      "offset": 1400.92,
+      "lang": "en"
+    },
+    {
+      "text": "かはい頑張ってて報告してその自己開示し",
+      "duration": 7.0,
+      "offset": 1402.68,
+      "lang": "en"
+    },
+    {
+      "text": "てくれる人っていうのはどう考えてば出る",
+      "duration": 5.6,
+      "offset": 1406.6,
+      "lang": "en"
+    },
+    {
+      "text": "応援されるわけなんでま1つの成功体験に",
+      "duration": 4.64,
+      "offset": 1409.68,
+      "lang": "en"
+    },
+    {
+      "text": "はもしかしたらなったかもしれないので",
+      "duration": 5.04,
+      "offset": 1412.2,
+      "lang": "en"
+    },
+    {
+      "text": "あの時のこととかを意識して自己示される",
+      "duration": 5.84,
+      "offset": 1414.32,
+      "lang": "en"
+    },
+    {
+      "text": "ようになるとまますますやっぱ虹さん",
+      "duration": 6.12,
+      "offset": 1417.24,
+      "lang": "en"
+    },
+    {
+      "text": "なんか懐でかいな熱いな奥行きのある人間",
+      "duration": 5.24,
+      "offset": 1420.16,
+      "lang": "en"
+    },
+    {
+      "text": "だなっていう風になってくると思うてうん",
+      "duration": 5.56,
+      "offset": 1423.36,
+      "lang": "en"
+    },
+    {
+      "text": "うんうんね非常に難しいんですけどうん",
+      "duration": 6.28,
+      "offset": 1425.4,
+      "lang": "en"
+    },
+    {
+      "text": "うんね何でもかんでもさらけ出すっていう",
+      "duration": 4.44,
+      "offset": 1428.92,
+      "lang": "en"
+    },
+    {
+      "text": "のもまた違いますし",
+      "duration": 5.32,
+      "offset": 1431.68,
+      "lang": "en"
+    },
+    {
+      "text": "ねそうですねま確かにあのどうしてもね",
+      "duration": 8.04,
+      "offset": 1433.36,
+      "lang": "en"
+    },
+    {
+      "text": "連絡職での連絡はねあの完結明瞭必要な",
+      "duration": 6.92,
+      "offset": 1437.0,
+      "lang": "en"
+    },
+    {
+      "text": "ものだけっていうのは今までねずっとやっ",
+      "duration": 4.68,
+      "offset": 1441.4,
+      "lang": "en"
+    },
+    {
+      "text": "てきたのっていうのもありますけどねあと",
+      "duration": 6.28,
+      "offset": 1443.92,
+      "lang": "en"
+    },
+    {
+      "text": "8コの場合はあのその報告朝今日やること",
+      "duration": 7.44,
+      "offset": 1446.08,
+      "lang": "en"
+    },
+    {
+      "text": "で夜はこうないうことしましたっていうの",
+      "duration": 6.48,
+      "offset": 1450.2,
+      "lang": "en"
+    },
+    {
+      "text": "あの先生がったこれなにたくさん見て見る",
+      "duration": 4.96,
+      "offset": 1453.52,
+      "lang": "en"
+    },
+    {
+      "text": "の大変じゃないかなっていうのはすごく",
+      "duration": 5.12,
+      "offset": 1456.68,
+      "lang": "en"
+    },
+    {
+      "text": "最初思いましたもう毎日毎日これを皆さん",
+      "duration": 7.2,
+      "offset": 1458.48,
+      "lang": "en"
+    },
+    {
+      "text": "がチェックしていくってその先生方の労力",
+      "duration": 6.84,
+      "offset": 1461.8,
+      "lang": "en"
+    },
+    {
+      "text": "って言んですかねそれはちょっとあんまり",
+      "duration": 5.6,
+      "offset": 1465.68,
+      "lang": "en"
+    },
+    {
+      "text": "今までにもそういう経験がなかったので",
+      "duration": 5.28,
+      "offset": 1468.64,
+      "lang": "en"
+    },
+    {
+      "text": "ここまで見てくれるってすごいなっていう",
+      "duration": 5.12,
+      "offset": 1471.28,
+      "lang": "en"
+    },
+    {
+      "text": "のを思ってちょっと控えてしまったかも",
+      "duration": 5.32,
+      "offset": 1473.92,
+      "lang": "en"
+    },
+    {
+      "text": "しれないですそうだからねなんかあの",
+      "duration": 5.0,
+      "offset": 1476.4,
+      "lang": "en"
+    },
+    {
+      "text": "こんなになんかあのやってもらったら悪い",
+      "duration": 4.44,
+      "offset": 1479.24,
+      "lang": "en"
+    },
+    {
+      "text": "なみたいな感覚そうですあるかもしれない",
+      "duration": 4.24,
+      "offset": 1481.4,
+      "lang": "en"
+    },
+    {
+      "text": "んですけどまあそこにいる人たち本当に",
+      "duration": 5.16,
+      "offset": 1483.68,
+      "lang": "en"
+    },
+    {
+      "text": "なんか愛の化身で異常な人ばっかりなんで",
+      "duration": 5.64,
+      "offset": 1485.64,
+      "lang": "en"
+    },
+    {
+      "text": "なんか僕たちもやっぱ報告を本当にもう",
+      "duration": 4.92,
+      "offset": 1488.84,
+      "lang": "en"
+    },
+    {
+      "text": "多分1日まではいかないですけど何百日",
+      "duration": 4.96,
+      "offset": 1491.28,
+      "lang": "en"
+    },
+    {
+      "text": "500日以上見てきてるんでちょっと読む",
+      "duration": 4.92,
+      "offset": 1493.76,
+      "lang": "en"
+    },
+    {
+      "text": "のも早くなってきたんでうんうんうんうん",
+      "duration": 4.68,
+      "offset": 1496.24,
+      "lang": "en"
+    },
+    {
+      "text": "もう全然気にせずみんな書いてくれ感じな",
+      "duration": 4.4,
+      "offset": 1498.68,
+      "lang": "en"
+    },
+    {
+      "text": "んですけどねただなんかそのねこれが本当",
+      "duration": 4.16,
+      "offset": 1500.92,
+      "lang": "en"
+    },
+    {
+      "text": "難しいんですけど書いてくれればいいん",
+      "duration": 5.04,
+      "offset": 1503.08,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどその書いてる内容があまりにも雑",
+      "duration": 5.36,
+      "offset": 1505.08,
+      "lang": "en"
+    },
+    {
+      "text": "だったら雑って言うとあれですけれど今日",
+      "duration": 4.52,
+      "offset": 1508.12,
+      "lang": "en"
+    },
+    {
+      "text": "は1件売れました良かったですとかだけだ",
+      "duration": 4.52,
+      "offset": 1510.44,
+      "lang": "en"
+    },
+    {
+      "text": "とちょっともうどういう仕様もなんか",
+      "duration": 5.48,
+      "offset": 1512.64,
+      "lang": "en"
+    },
+    {
+      "text": "フォローの仕様もなかなかね難しいんでま",
+      "duration": 6.0,
+      "offset": 1514.96,
+      "lang": "en"
+    },
+    {
+      "text": "なかなかそんな方いないですけどま",
+      "duration": 5.56,
+      "offset": 1518.12,
+      "lang": "en"
+    },
+    {
+      "text": "とにかくですねだからあのにじさんは報告",
+      "duration": 5.08,
+      "offset": 1520.96,
+      "lang": "en"
+    },
+    {
+      "text": "の練習されるとますます多分人気になると",
+      "duration": 4.96,
+      "offset": 1523.68,
+      "lang": "en"
+    },
+    {
+      "text": "思うんでで自分が思ってるよりも多分今の",
+      "duration": 4.92,
+      "offset": 1526.04,
+      "lang": "en"
+    },
+    {
+      "text": "自分が十分に素敵なのでどんどんどんどん",
+      "duration": 4.8,
+      "offset": 1528.64,
+      "lang": "en"
+    },
+    {
+      "text": "出していっていいですしま朝かでも",
+      "duration": 4.48,
+      "offset": 1530.96,
+      "lang": "en"
+    },
+    {
+      "text": "ますますはっちゃけてるところとかをね",
+      "duration": 5.72,
+      "offset": 1533.44,
+      "lang": "en"
+    },
+    {
+      "text": "見せていただけたらと思ってますうん",
+      "duration": 9.76,
+      "offset": 1535.44,
+      "lang": "en"
+    },
+    {
+      "text": "はいハコを通じてあのま売上ってせ前月に",
+      "duration": 9.44,
+      "offset": 1539.16,
+      "lang": "en"
+    },
+    {
+      "text": "比べるとどれぐらい伸びたんですか",
+      "duration": 7.52,
+      "offset": 1545.2,
+      "lang": "en"
+    },
+    {
+      "text": "えっとおよそでいいんでどれぐらいって",
+      "duration": 6.08,
+      "offset": 1548.6,
+      "lang": "en"
+    },
+    {
+      "text": "いうのはえっと1月ってどれぐらいだった",
+      "duration": 3.36,
+      "offset": 1552.72,
+      "lang": "en"
+    },
+    {
+      "text": "んですかね",
+      "duration": 4.36,
+      "offset": 1554.68,
+      "lang": "en"
+    },
+    {
+      "text": "え1月3番ぐらいだ",
+      "duration": 5.84,
+      "offset": 1556.08,
+      "lang": "en"
+    },
+    {
+      "text": "すごくないですかじゃあおよそ6倍じゃ",
+      "duration": 5.4,
+      "offset": 1559.04,
+      "lang": "en"
+    },
+    {
+      "text": "ないですかまそれぐらいだと思いますま",
+      "duration": 5.52,
+      "offset": 1561.92,
+      "lang": "en"
+    },
+    {
+      "text": "大してあの活動してなかったのかもしれ",
+      "duration": 6.04,
+      "offset": 1564.44,
+      "lang": "en"
+    },
+    {
+      "text": "ないですけどでもうんそうですねうん",
+      "duration": 6.08,
+      "offset": 1567.44,
+      "lang": "en"
+    },
+    {
+      "text": "すごくないですか6倍はいなんかあの",
+      "duration": 5.04,
+      "offset": 1570.48,
+      "lang": "en"
+    },
+    {
+      "text": "17万めちゃくちゃすごいと思うんです",
+      "duration": 7.52,
+      "offset": 1573.52,
+      "lang": "en"
+    },
+    {
+      "text": "けど僕普通にはいえすごくないですかその",
+      "duration": 9.44,
+      "offset": 1575.52,
+      "lang": "en"
+    },
+    {
+      "text": "結構なんかあの周りの人と比べてる感を僕",
+      "duration": 6.0,
+      "offset": 1581.04,
+      "lang": "en"
+    },
+    {
+      "text": "はどうしても感じてしまったんですけど",
+      "duration": 4.44,
+      "offset": 1584.96,
+      "lang": "en"
+    },
+    {
+      "text": "ええそうですねすいませんちょっと上を見",
+      "duration": 4.68,
+      "offset": 1587.04,
+      "lang": "en"
+    },
+    {
+      "text": "すぎてしまいました世間一般で言ったら",
+      "duration": 5.44,
+      "offset": 1589.4,
+      "lang": "en"
+    },
+    {
+      "text": "やばくないですかそうですよねちょっと",
+      "duration": 5.4,
+      "offset": 1591.72,
+      "lang": "en"
+    },
+    {
+      "text": "多分だって副業で周りで17万売り上げ",
+      "duration": 5.24,
+      "offset": 1594.84,
+      "lang": "en"
+    },
+    {
+      "text": "てる人いないっすよそうなんですよね",
+      "duration": 5.0,
+      "offset": 1597.12,
+      "lang": "en"
+    },
+    {
+      "text": "しかもなんか他に仕事やりながら本当に",
+      "duration": 5.28,
+      "offset": 1600.08,
+      "lang": "en"
+    },
+    {
+      "text": "副業じゃないですかうんうんうんはい当に",
+      "duration": 5.36,
+      "offset": 1602.12,
+      "lang": "en"
+    },
+    {
+      "text": "いないと思いますよなかなか",
+      "duration": 6.2,
+      "offset": 1605.36,
+      "lang": "en"
+    },
+    {
+      "text": "うんでだて要はそのま極端な話ですけど1",
+      "duration": 7.28,
+      "offset": 1607.48,
+      "lang": "en"
+    },
+    {
+      "text": "ヶ月で6倍にしたわけじゃないですかはい",
+      "duration": 6.8,
+      "offset": 1611.56,
+      "lang": "en"
+    },
+    {
+      "text": "でまもう本当に難しい話ですけどもう1回",
+      "duration": 6.92,
+      "offset": 1614.76,
+      "lang": "en"
+    },
+    {
+      "text": "倍にしたらうん100万超えますからね",
+      "duration": 8.08,
+      "offset": 1618.36,
+      "lang": "en"
+    },
+    {
+      "text": "そうそうですねごい成長率じゃないですか",
+      "duration": 6.84,
+      "offset": 1621.68,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとそこまで成長できれば1番いいか",
+      "duration": 4.6,
+      "offset": 1626.44,
+      "lang": "en"
+    },
+    {
+      "text": "もしれない6倍したってことはそういう",
+      "duration": 5.68,
+      "offset": 1628.52,
+      "lang": "en"
+    },
+    {
+      "text": "ことですからねうんうんうんそうですね",
+      "duration": 5.64,
+      "offset": 1631.04,
+      "lang": "en"
+    },
+    {
+      "text": "うんうんもちろん次の6倍はちょっと時間",
+      "duration": 4.8,
+      "offset": 1634.2,
+      "lang": "en"
+    },
+    {
+      "text": "かかると思いますけどはいやるべきことが",
+      "duration": 5.88,
+      "offset": 1636.68,
+      "lang": "en"
+    },
+    {
+      "text": "やれば絶対できますからねそうですねはい",
+      "duration": 6.12,
+      "offset": 1639.0,
+      "lang": "en"
+    },
+    {
+      "text": "うん続けてくのが難しいですけどでもこの",
+      "duration": 4.52,
+      "offset": 1642.56,
+      "lang": "en"
+    },
+    {
+      "text": "可能性は本当に感じてほしいなと思うん",
+      "duration": 3.56,
+      "offset": 1645.12,
+      "lang": "en"
+    },
+    {
+      "text": "ですよはい",
+      "duration": 4.84,
+      "offset": 1647.08,
+      "lang": "en"
+    },
+    {
+      "text": "うん虹さんってその01達成するまで",
+      "duration": 5.8,
+      "offset": 1648.68,
+      "lang": "en"
+    },
+    {
+      "text": "にって期間どれぐらいかかったんですかも",
+      "duration": 6.68,
+      "offset": 1651.92,
+      "lang": "en"
+    },
+    {
+      "text": "なてよりも副業何か始めた時にあでもここ",
+      "duration": 7.84,
+      "offset": 1654.48,
+      "lang": "en"
+    },
+    {
+      "text": "ならしかやってないのでええ",
+      "duration": 7.6,
+      "offset": 1658.6,
+      "lang": "en"
+    },
+    {
+      "text": "すごいあの最初始めた時でも本当に商品1",
+      "duration": 7.56,
+      "offset": 1662.32,
+      "lang": "en"
+    },
+    {
+      "text": "個しか出してなくてあの3ヶ月ぐらいで1",
+      "duration": 5.76,
+      "offset": 1666.2,
+      "lang": "en"
+    },
+    {
+      "text": "つだけ売れてそっからもう全く売れない",
+      "duration": 5.0,
+      "offset": 1669.88,
+      "lang": "en"
+    },
+    {
+      "text": "期間がずっとありましたうんうんうんうん",
+      "duration": 6.96,
+      "offset": 1671.96,
+      "lang": "en"
+    },
+    {
+      "text": "うんでもう本格的に始めたのがま年前です",
+      "duration": 7.36,
+      "offset": 1674.88,
+      "lang": "en"
+    },
+    {
+      "text": "けどうんそっからも月にポツポツ1件",
+      "duration": 6.44,
+      "offset": 1678.92,
+      "lang": "en"
+    },
+    {
+      "text": "売れる3件売れるみたいなのをうんうん",
+      "duration": 7.2,
+      "offset": 1682.24,
+      "lang": "en"
+    },
+    {
+      "text": "続けてきてたのではい最近です",
+      "duration": 5.8,
+      "offset": 1685.36,
+      "lang": "en"
+    },
+    {
+      "text": "やっと",
+      "duration": 5.36,
+      "offset": 1689.44,
+      "lang": "en"
+    },
+    {
+      "text": "ね7万マジすごいと思いますけどねそう",
+      "duration": 7.52,
+      "offset": 1691.16,
+      "lang": "en"
+    },
+    {
+      "text": "ですよねはい本当にね本当にだって実際",
+      "duration": 6.84,
+      "offset": 1694.8,
+      "lang": "en"
+    },
+    {
+      "text": "だってなんか3万と17万全然違うじゃ",
+      "duration": 5.76,
+      "offset": 1698.68,
+      "lang": "en"
+    },
+    {
+      "text": "ないですかそうですねうんえ3万10に",
+      "duration": 4.64,
+      "offset": 1701.64,
+      "lang": "en"
+    },
+    {
+      "text": "できる人は17万10000万にできます",
+      "duration": 3.84,
+      "offset": 1704.44,
+      "lang": "en"
+    },
+    {
+      "text": "からねああなるほど",
+      "duration": 5.72,
+      "offset": 1706.28,
+      "lang": "en"
+    },
+    {
+      "text": "本当にうん目指します一般的に言ったら",
+      "duration": 6.16,
+      "offset": 1708.28,
+      "lang": "en"
+    },
+    {
+      "text": "多分3万17万にするより簡単だと思い",
+      "duration": 4.92,
+      "offset": 1712.0,
+      "lang": "en"
+    },
+    {
+      "text": "ますよ",
+      "duration": 5.12,
+      "offset": 1714.44,
+      "lang": "en"
+    },
+    {
+      "text": "うーだってこんな来ると思わなかった",
+      "duration": 6.6,
+      "offset": 1716.92,
+      "lang": "en"
+    },
+    {
+      "text": "でしょ相談そうですねはいうん多い時1日",
+      "duration": 6.52,
+      "offset": 1719.56,
+      "lang": "en"
+    },
+    {
+      "text": "何件行きましたあでも4件とか5件ぐらい",
+      "duration": 5.28,
+      "offset": 1723.52,
+      "lang": "en"
+    },
+    {
+      "text": "ですでしょはいだってこれ単純に倍にする",
+      "duration": 5.08,
+      "offset": 1726.08,
+      "lang": "en"
+    },
+    {
+      "text": "だけで1日10件になるんですようんうん",
+      "duration": 5.92,
+      "offset": 1728.8,
+      "lang": "en"
+    },
+    {
+      "text": "そうですね倍ぐらいになると本当に嬉しい",
+      "duration": 6.12,
+      "offset": 1731.16,
+      "lang": "en"
+    },
+    {
+      "text": "ですねそれぐらいの方とお話をしたいと",
+      "duration": 6.96,
+      "offset": 1734.72,
+      "lang": "en"
+    },
+    {
+      "text": "いうか考えてもなりますよねうんだって",
+      "duration": 6.88,
+      "offset": 1737.28,
+      "lang": "en"
+    },
+    {
+      "text": "その今までやってきたものって毎回捨てる",
+      "duration": 4.72,
+      "offset": 1741.68,
+      "lang": "en"
+    },
+    {
+      "text": "んじゃなくて全部蓄積されてくわけなんで",
+      "duration": 5.32,
+      "offset": 1744.16,
+      "lang": "en"
+    },
+    {
+      "text": "うんそうですねそう思いますうんうん",
+      "duration": 4.88,
+      "offset": 1746.4,
+      "lang": "en"
+    },
+    {
+      "text": "すごい可能性ですよ",
+      "duration": 3.64,
+      "offset": 1749.48,
+      "lang": "en"
+    },
+    {
+      "text": "本当",
+      "duration": 5.68,
+      "offset": 1751.28,
+      "lang": "en"
+    },
+    {
+      "text": "はいなんかその通話時間とかってどうです",
+      "duration": 8.0,
+      "offset": 1753.12,
+      "lang": "en"
+    },
+    {
+      "text": "かね伸びてきましたそうですねまでも",
+      "duration": 7.6,
+      "offset": 1756.96,
+      "lang": "en"
+    },
+    {
+      "text": "うん結構1番長くて3時間ぐらいだったん",
+      "duration": 4.72,
+      "offset": 1761.12,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどめちゃくちゃすごいじゃないです",
+      "duration": 5.24,
+      "offset": 1764.56,
+      "lang": "en"
+    },
+    {
+      "text": "かでも40分ぐらいっていう方も結構多く",
+      "duration": 7.12,
+      "offset": 1765.84,
+      "lang": "en"
+    },
+    {
+      "text": "い40分は全然長い場合もありますからね",
+      "duration": 8.76,
+      "offset": 1769.8,
+      "lang": "en"
+    },
+    {
+      "text": "人によってはそうですねまうん結構40分",
+      "duration": 8.88,
+      "offset": 1772.96,
+      "lang": "en"
+    },
+    {
+      "text": "ぐらいっていう方が多い気がしますうん",
+      "duration": 6.44,
+      "offset": 1778.56,
+      "lang": "en"
+    },
+    {
+      "text": "らしいま最近なんかその通話の中でここを",
+      "duration": 7.16,
+      "offset": 1781.84,
+      "lang": "en"
+    },
+    {
+      "text": "意識してるとかありますかねえ通話の中で",
+      "duration": 6.6,
+      "offset": 1785.0,
+      "lang": "en"
+    },
+    {
+      "text": "意識してるのはやはり最初にまちょっと",
+      "duration": 4.56,
+      "offset": 1789.0,
+      "lang": "en"
+    },
+    {
+      "text": "あのいらっしゃった時にどういう内容",
+      "duration": 4.28,
+      "offset": 1791.6,
+      "lang": "en"
+    },
+    {
+      "text": "かってところ最初にもうまずつむっていう",
+      "duration": 5.0,
+      "offset": 1793.56,
+      "lang": "en"
+    },
+    {
+      "text": "ところをあの",
+      "duration": 6.32,
+      "offset": 1795.88,
+      "lang": "en"
+    },
+    {
+      "text": "頑張らないとっていうかあのまず把握する",
+      "duration": 7.68,
+      "offset": 1798.56,
+      "lang": "en"
+    },
+    {
+      "text": "うんていうところを集中してでそっからは",
+      "duration": 6.92,
+      "offset": 1802.2,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっとまお相手によってなんですけども",
+      "duration": 5.76,
+      "offset": 1806.24,
+      "lang": "en"
+    },
+    {
+      "text": "柔らかくしていくのか一緒にこうちょっと",
+      "duration": 5.24,
+      "offset": 1809.12,
+      "lang": "en"
+    },
+    {
+      "text": "最初はしんみりしながら聞くのかっていう",
+      "duration": 6.28,
+      "offset": 1812.0,
+      "lang": "en"
+    },
+    {
+      "text": "ところをうん気にしてでもどちらかという",
+      "duration": 7.12,
+      "offset": 1814.36,
+      "lang": "en"
+    },
+    {
+      "text": "と最終的にやっぱ明るい方へ持ってくこと",
+      "duration": 6.12,
+      "offset": 1818.28,
+      "lang": "en"
+    },
+    {
+      "text": "の方が多いのでそこはもう空気の流れと",
+      "duration": 7.16,
+      "offset": 1821.48,
+      "lang": "en"
+    },
+    {
+      "text": "いうか会話の方であのうんうん別になんて",
+      "duration": 6.44,
+      "offset": 1824.4,
+      "lang": "en"
+    },
+    {
+      "text": "言うんでしょう上げてくわけではないん",
+      "duration": 6.8,
+      "offset": 1828.64,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどもうその方がこういいようあの",
+      "duration": 7.64,
+      "offset": 1830.84,
+      "lang": "en"
+    },
+    {
+      "text": "未来がこう明るくなるようなお話をできれ",
+      "duration": 6.68,
+      "offset": 1835.44,
+      "lang": "en"
+    },
+    {
+      "text": "ばいいなと思いながらでもほとんど相手の",
+      "duration": 7.96,
+      "offset": 1838.48,
+      "lang": "en"
+    },
+    {
+      "text": "方の気持ちになって考えてる気がしちゃい",
+      "duration": 8.04,
+      "offset": 1842.12,
+      "lang": "en"
+    },
+    {
+      "text": "ますねうんまそれは大事なことですよねね",
+      "duration": 5.8,
+      "offset": 1846.44,
+      "lang": "en"
+    },
+    {
+      "text": "本当に最初になんか状況聞くっていうの",
+      "duration": 4.88,
+      "offset": 1850.16,
+      "lang": "en"
+    },
+    {
+      "text": "本当に大事というかなんかそのうまくいか",
+      "duration": 4.72,
+      "offset": 1852.24,
+      "lang": "en"
+    },
+    {
+      "text": "ない人ことごとく自分の価値観を",
+      "duration": 5.2,
+      "offset": 1855.04,
+      "lang": "en"
+    },
+    {
+      "text": "押し付けるでんああはいこうなんだてこう",
+      "duration": 5.64,
+      "offset": 1856.96,
+      "lang": "en"
+    },
+    {
+      "text": "に違いないって話で持ってて意外ともう",
+      "duration": 4.32,
+      "offset": 1860.24,
+      "lang": "en"
+    },
+    {
+      "text": "本当にみんなが思ってることなんて全然",
+      "duration": 3.96,
+      "offset": 1862.6,
+      "lang": "en"
+    },
+    {
+      "text": "違ったりするんでうんうんそれなんか",
+      "duration": 4.0,
+      "offset": 1864.56,
+      "lang": "en"
+    },
+    {
+      "text": "細かく分かってあげるっていうだけで本当",
+      "duration": 4.64,
+      "offset": 1866.56,
+      "lang": "en"
+    },
+    {
+      "text": "にブレない鑑定ができるんじゃないかなと",
+      "duration": 5.48,
+      "offset": 1868.56,
+      "lang": "en"
+    },
+    {
+      "text": "思うんですけどまそれもまさに少しずつ",
+      "duration": 4.84,
+      "offset": 1871.2,
+      "lang": "en"
+    },
+    {
+      "text": "できるようになってるっていうのはね本当",
+      "duration": 4.72,
+      "offset": 1874.04,
+      "lang": "en"
+    },
+    {
+      "text": "素晴らしいなっていう風に思いますであの",
+      "duration": 4.44,
+      "offset": 1876.04,
+      "lang": "en"
+    },
+    {
+      "text": "まどこまで聞いていいか分からないんです",
+      "duration": 4.72,
+      "offset": 1878.76,
+      "lang": "en"
+    },
+    {
+      "text": "けれど虹さんて元々別のところで活動され",
+      "duration": 6.0,
+      "offset": 1880.48,
+      "lang": "en"
+    },
+    {
+      "text": "てたじゃないですかはい0FC入ってきて",
+      "duration": 5.84,
+      "offset": 1883.48,
+      "lang": "en"
+    },
+    {
+      "text": "なんか0FCのに入ってみてなんかここが",
+      "duration": 8.2,
+      "offset": 1886.48,
+      "lang": "en"
+    },
+    {
+      "text": "良かったとかありますうん0FCはまあの",
+      "duration": 9.16,
+      "offset": 1889.32,
+      "lang": "en"
+    },
+    {
+      "text": "最初にあ1回目にね動画撮らせていただい",
+      "duration": 5.92,
+      "offset": 1894.68,
+      "lang": "en"
+    },
+    {
+      "text": "た時にもお伝えしたんですけどもまずもう",
+      "duration": 6.36,
+      "offset": 1898.48,
+      "lang": "en"
+    },
+    {
+      "text": "朝かに私はあの次の日から参加参加したの",
+      "duration": 8.0,
+      "offset": 1900.6,
+      "lang": "en"
+    },
+    {
+      "text": "でそこでの皆さんの温かさとかもう本当に",
+      "duration": 8.4,
+      "offset": 1904.84,
+      "lang": "en"
+    },
+    {
+      "text": "前向きな言葉を皆さんが言ってたのでもう",
+      "duration": 8.68,
+      "offset": 1908.6,
+      "lang": "en"
+    },
+    {
+      "text": "まずそこが01Cの多分顔みたいなところ",
+      "duration": 6.8,
+      "offset": 1913.24,
+      "lang": "en"
+    },
+    {
+      "text": "のって勝手に思ってるんですけどすごく",
+      "duration": 5.64,
+      "offset": 1917.28,
+      "lang": "en"
+    },
+    {
+      "text": "いいいいところなんだっていうのは思って",
+      "duration": 6.16,
+      "offset": 1920.04,
+      "lang": "en"
+    },
+    {
+      "text": "でやっぱりそういう方たちの囲まれて自分",
+      "duration": 6.0,
+      "offset": 1922.92,
+      "lang": "en"
+    },
+    {
+      "text": "もあのやっぱ環境って私すごく大事だと",
+      "duration": 5.08,
+      "offset": 1926.2,
+      "lang": "en"
+    },
+    {
+      "text": "思ってるんです生きてく上での環境",
+      "duration": 6.36,
+      "offset": 1928.92,
+      "lang": "en"
+    },
+    {
+      "text": "うんうんでまこういう環境の中でちょっと",
+      "duration": 6.76,
+      "offset": 1931.28,
+      "lang": "en"
+    },
+    {
+      "text": "何時間か1時間ぐらい朝は一緒にいるん",
+      "duration": 6.28,
+      "offset": 1935.28,
+      "lang": "en"
+    },
+    {
+      "text": "ですけどもあとずっとえっと",
+      "duration": 5.24,
+      "offset": 1938.04,
+      "lang": "en"
+    },
+    {
+      "text": "Facebookとかでも繋がってますの",
+      "duration": 5.8,
+      "offset": 1941.56,
+      "lang": "en"
+    },
+    {
+      "text": "で励まし合ったりとかっていうもう",
+      "duration": 5.08,
+      "offset": 1943.28,
+      "lang": "en"
+    },
+    {
+      "text": "ちょっと",
+      "duration": 3.16,
+      "offset": 1947.36,
+      "lang": "en"
+    },
+    {
+      "text": "困った時はもうそこ見れば誰かい",
+      "duration": 4.68,
+      "offset": 1948.36,
+      "lang": "en"
+    },
+    {
+      "text": "るっていうこの環境は本当素晴らしいなっ",
+      "duration": 7.28,
+      "offset": 1950.52,
+      "lang": "en"
+    },
+    {
+      "text": "ていうのは思いましたうんうん",
+      "duration": 8.6,
+      "offset": 1953.04,
+      "lang": "en"
+    },
+    {
+      "text": "はいね朝かめちゃくちゃ楽しいですよねま",
+      "duration": 6.24,
+      "offset": 1957.8,
+      "lang": "en"
+    },
+    {
+      "text": "なかなか家庭の環境があってこれない方と",
+      "duration": 5.68,
+      "offset": 1961.64,
+      "lang": "en"
+    },
+    {
+      "text": "かもいると思うんですけどそうですねはい",
+      "duration": 6.24,
+      "offset": 1964.04,
+      "lang": "en"
+    },
+    {
+      "text": "ま週に1回とかだけでもねまお休みの日が",
+      "duration": 5.6,
+      "offset": 1967.32,
+      "lang": "en"
+    },
+    {
+      "text": "自分の中であるんだったらあの休みの日だ",
+      "duration": 4.2,
+      "offset": 1970.28,
+      "lang": "en"
+    },
+    {
+      "text": "からゆっっくり寝たいかもしれないです",
+      "duration": 3.88,
+      "offset": 1972.92,
+      "lang": "en"
+    },
+    {
+      "text": "けど来てくれると盛り上がってくんじゃ",
+      "duration": 5.04,
+      "offset": 1974.48,
+      "lang": "en"
+    },
+    {
+      "text": "ないかなと思いますうんそうですねま無理",
+      "duration": 6.12,
+      "offset": 1976.8,
+      "lang": "en"
+    },
+    {
+      "text": "せず無理せずはいやっていきましょう是非",
+      "duration": 5.56,
+      "offset": 1979.52,
+      "lang": "en"
+    },
+    {
+      "text": "まこれからもですね2さんには是非あの0",
+      "duration": 5.24,
+      "offset": 1982.92,
+      "lang": "en"
+    },
+    {
+      "text": "FCの中でもバリバリ活躍してまあの少し",
+      "duration": 5.72,
+      "offset": 1985.08,
+      "lang": "en"
+    },
+    {
+      "text": "ずつですね売上更新したりま他のこととか",
+      "duration": 4.24,
+      "offset": 1988.16,
+      "lang": "en"
+    },
+    {
+      "text": "もチャレンジして結果出していって",
+      "duration": 3.52,
+      "offset": 1990.8,
+      "lang": "en"
+    },
+    {
+      "text": "いただきたいなという風に思いますので",
+      "duration": 4.56,
+      "offset": 1992.4,
+      "lang": "en"
+    },
+    {
+      "text": "また素晴らしい結果出した時には是非",
+      "duration": 4.08,
+      "offset": 1994.32,
+      "lang": "en"
+    },
+    {
+      "text": "YouTubeの方来ていただけたらと",
+      "duration": 3.84,
+      "offset": 1996.96,
+      "lang": "en"
+    },
+    {
+      "text": "思いますでは最後にこちらの動画を見て",
+      "duration": 4.68,
+      "offset": 1998.4,
+      "lang": "en"
+    },
+    {
+      "text": "くださった皆様に一言いただいても",
+      "duration": 5.36,
+      "offset": 2000.8,
+      "lang": "en"
+    },
+    {
+      "text": "よろしいでしょうかあはい",
+      "duration": 6.48,
+      "offset": 2003.08,
+      "lang": "en"
+    },
+    {
+      "text": "えっとそうですね私はここなら登録して2",
+      "duration": 7.84,
+      "offset": 2006.16,
+      "lang": "en"
+    },
+    {
+      "text": "年で本格的にえっと待機を始めて半年で",
+      "duration": 7.92,
+      "offset": 2009.56,
+      "lang": "en"
+    },
+    {
+      "text": "ハチコの方にああチャレンジ今回いたし",
+      "duration": 6.28,
+      "offset": 2014.0,
+      "lang": "en"
+    },
+    {
+      "text": "ましたでハコはどちらかていうとあの部活",
+      "duration": 5.88,
+      "offset": 2017.48,
+      "lang": "en"
+    },
+    {
+      "text": "動みたいな感じで1ヶ月間のココのらの",
+      "duration": 5.96,
+      "offset": 2020.28,
+      "lang": "en"
+    },
+    {
+      "text": "トレーニング期間だという思いながら私は",
+      "duration": 5.88,
+      "offset": 2023.36,
+      "lang": "en"
+    },
+    {
+      "text": "あの参加したんですけどもとても熱量の",
+      "duration": 6.0,
+      "offset": 2026.24,
+      "lang": "en"
+    },
+    {
+      "text": "高い先生方に見守られながらここならに",
+      "duration": 7.4,
+      "offset": 2029.24,
+      "lang": "en"
+    },
+    {
+      "text": "集中して向き合えた時間でしたでえっと",
+      "duration": 7.44,
+      "offset": 2032.24,
+      "lang": "en"
+    },
+    {
+      "text": "それによって私がここあのハコを卒業し",
+      "duration": 5.84,
+      "offset": 2036.64,
+      "lang": "en"
+    },
+    {
+      "text": "ましたけども今後何を続けていけばいいの",
+      "duration": 5.68,
+      "offset": 2039.68,
+      "lang": "en"
+    },
+    {
+      "text": "かとかま待機の時間とかタイミングとか",
+      "duration": 6.2,
+      "offset": 2042.48,
+      "lang": "en"
+    },
+    {
+      "text": "もう細かいことまでは把握できたと思って",
+      "duration": 7.56,
+      "offset": 2045.36,
+      "lang": "en"
+    },
+    {
+      "text": "ますでカコを受けて自分らしいここならと",
+      "duration": 7.84,
+      "offset": 2048.68,
+      "lang": "en"
+    },
+    {
+      "text": "の向き合い方っていうのを習得したい方に",
+      "duration": 5.92,
+      "offset": 2052.92,
+      "lang": "en"
+    },
+    {
+      "text": "はあのもうぴったりなんじゃないかなって",
+      "duration": 6.04,
+      "offset": 2056.52,
+      "lang": "en"
+    },
+    {
+      "text": "思ってますでま悩みはま人それぞれで",
+      "duration": 6.92,
+      "offset": 2058.84,
+      "lang": "en"
+    },
+    {
+      "text": "1人1人にま向き合って自分事として捉え",
+      "duration": 5.68,
+      "offset": 2062.56,
+      "lang": "en"
+    },
+    {
+      "text": "ながらご相談を受けて1人1人にあった",
+      "duration": 4.6,
+      "offset": 2065.76,
+      "lang": "en"
+    },
+    {
+      "text": "輝く未来を見つけるようなお手伝いを今後",
+      "duration": 4.96,
+      "offset": 2068.24,
+      "lang": "en"
+    },
+    {
+      "text": "もしていきたいと思っていますのでま",
+      "duration": 6.0,
+      "offset": 2070.36,
+      "lang": "en"
+    },
+    {
+      "text": "そんなあの相談を受けながらも多分私も",
+      "duration": 5.72,
+      "offset": 2073.2,
+      "lang": "en"
+    },
+    {
+      "text": "まだまだ悩みもたくさんこれから出てくる",
+      "duration": 5.68,
+      "offset": 2076.36,
+      "lang": "en"
+    },
+    {
+      "text": "と思ってますのでそれはもうあのゼFCの",
+      "duration": 5.72,
+      "offset": 2078.92,
+      "lang": "en"
+    },
+    {
+      "text": "方でもう皆さんに囲まれながらもいい先輩",
+      "duration": 5.04,
+      "offset": 2082.04,
+      "lang": "en"
+    },
+    {
+      "text": "方たくさんいるので安心してこれからも",
+      "duration": 5.84,
+      "offset": 2084.64,
+      "lang": "en"
+    },
+    {
+      "text": "続けていきたいと思っています以上です",
+      "duration": 5.76,
+      "offset": 2087.08,
+      "lang": "en"
+    },
+    {
+      "text": "はいありがとうございます今日はですね0",
+      "duration": 4.88,
+      "offset": 2090.48,
+      "lang": "en"
+    },
+    {
+      "text": "FCメンバーで八王子コンサル生の二さん",
+      "duration": 5.08,
+      "offset": 2092.84,
+      "lang": "en"
+    },
+    {
+      "text": "にお越しいただきましたま2さんはですね",
+      "duration": 5.04,
+      "offset": 2095.36,
+      "lang": "en"
+    },
+    {
+      "text": "元々八王子コンサル入った直後にすぐ",
+      "duration": 4.24,
+      "offset": 2097.92,
+      "lang": "en"
+    },
+    {
+      "text": "プラチナランクになられてたわけなんです",
+      "duration": 5.08,
+      "offset": 2100.4,
+      "lang": "en"
+    },
+    {
+      "text": "けれどそこからですね売上がなんとえ6倍",
+      "duration": 5.12,
+      "offset": 2102.16,
+      "lang": "en"
+    },
+    {
+      "text": "っていうところまで増やすことができまし",
+      "duration": 4.4,
+      "offset": 2105.48,
+      "lang": "en"
+    },
+    {
+      "text": "たで6倍って言と本当にすごい数字なん",
+      "duration": 4.84,
+      "offset": 2107.28,
+      "lang": "en"
+    },
+    {
+      "text": "ですけれど特に最初の段階っていうのは",
+      "duration": 4.64,
+      "offset": 2109.88,
+      "lang": "en"
+    },
+    {
+      "text": "やるべきことやればえ必ず売上増やして",
+      "duration": 4.8,
+      "offset": 2112.12,
+      "lang": "en"
+    },
+    {
+      "text": "いくことができると思いますで僕は副業で",
+      "duration": 4.76,
+      "offset": 2114.52,
+      "lang": "en"
+    },
+    {
+      "text": "ですね01達成するまでに10年かかっ",
+      "duration": 5.36,
+      "offset": 2116.92,
+      "lang": "en"
+    },
+    {
+      "text": "てるんでまなかなかその本当に3万円から",
+      "duration": 5.08,
+      "offset": 2119.28,
+      "lang": "en"
+    },
+    {
+      "text": "18万円って聞くと本当羨ましいなって",
+      "duration": 4.44,
+      "offset": 2122.28,
+      "lang": "en"
+    },
+    {
+      "text": "いう風に思うんですけれどでそしてですね",
+      "duration": 4.8,
+      "offset": 2124.36,
+      "lang": "en"
+    },
+    {
+      "text": "18万円達成した後続けていったらま",
+      "duration": 4.44,
+      "offset": 2126.72,
+      "lang": "en"
+    },
+    {
+      "text": "100万円とかっていうところも全然狙う",
+      "duration": 4.2,
+      "offset": 2129.16,
+      "lang": "en"
+    },
+    {
+      "text": "ことができますしま実際にそれを達成した",
+      "duration": 4.48,
+      "offset": 2131.16,
+      "lang": "en"
+    },
+    {
+      "text": "生徒さんももう複数いらっしゃいますので",
+      "duration": 5.36,
+      "offset": 2133.36,
+      "lang": "en"
+    },
+    {
+      "text": "皆さんもぜひぜひあの2さ2さんに続いて",
+      "duration": 5.8,
+      "offset": 2135.64,
+      "lang": "en"
+    },
+    {
+      "text": "来ていただけたらと思いますえでは今日は",
+      "duration": 4.68,
+      "offset": 2138.72,
+      "lang": "en"
+    },
+    {
+      "text": "ここまでとなります皆様ご視聴して",
+      "duration": 3.84,
+      "offset": 2141.44,
+      "lang": "en"
+    },
+    {
+      "text": "くださってありがとうございました",
+      "duration": 5.48,
+      "offset": 2143.4,
+      "lang": "en"
+    },
+    {
+      "text": "ありがとうございました",
+      "duration": 3.6,
+      "offset": 2145.28,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,2980 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "fMPwpMZ0y5Q",
+  "url": "https://www.youtube.com/watch?v=fMPwpMZ0y5Q",
+  "title": "The Mysterious Founder Behind INSANE Rise of MidJourney",
+  "channel": "GeoWiz",
+  "source_queries": [
+    "Midjourney office hours David Holz",
+    "Midjourney AI image generation founder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:05:10",
+  "segments": [
+    {
+      "text": "Midjourney has become by far the best",
+      "duration": 4.64,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "way to make AI generated images. The",
+      "duration": 4.32,
+      "offset": 2.08,
+      "lang": "en"
+    },
+    {
+      "text": "company makes tons of money even though",
+      "duration": 4.08,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "the team is really small. It&#39;s crazy how",
+      "duration": 4.48,
+      "offset": 6.4,
+      "lang": "en"
+    },
+    {
+      "text": "quickly this has all happened. But this",
+      "duration": 3.92,
+      "offset": 8.8,
+      "lang": "en"
+    },
+    {
+      "text": "overnight success story actually took",
+      "duration": 4.24,
+      "offset": 10.88,
+      "lang": "en"
+    },
+    {
+      "text": "years to happen. Before David Holtz",
+      "duration": 3.84,
+      "offset": 12.72,
+      "lang": "en"
+    },
+    {
+      "text": "became one of the most important leaders",
+      "duration": 3.6,
+      "offset": 15.12,
+      "lang": "en"
+    },
+    {
+      "text": "in AI, he ran a company that never",
+      "duration": 4.32,
+      "offset": 16.56,
+      "lang": "en"
+    },
+    {
+      "text": "really took off. And long before then,",
+      "duration": 4.48,
+      "offset": 18.72,
+      "lang": "en"
+    },
+    {
+      "text": "he was a curious kid from South Florida.",
+      "duration": 4.08,
+      "offset": 20.88,
+      "lang": "en"
+    },
+    {
+      "text": "David&#39;s dad was a dentist, but not your",
+      "duration": 3.84,
+      "offset": 23.2,
+      "lang": "en"
+    },
+    {
+      "text": "average dentist. His office was on a",
+      "duration": 3.44,
+      "offset": 24.96,
+      "lang": "en"
+    },
+    {
+      "text": "boat and he would sail around the",
+      "duration": 3.52,
+      "offset": 27.04,
+      "lang": "en"
+    },
+    {
+      "text": "Caribbean in South America where he&#39;d",
+      "duration": 4.24,
+      "offset": 28.4,
+      "lang": "en"
+    },
+    {
+      "text": "pull up to port and do dental work for",
+      "duration": 4.56,
+      "offset": 30.56,
+      "lang": "en"
+    },
+    {
+      "text": "people. Once David came along, his dad",
+      "duration": 4.32,
+      "offset": 32.64,
+      "lang": "en"
+    },
+    {
+      "text": "settled down and rented out an office",
+      "duration": 3.84,
+      "offset": 35.12,
+      "lang": "en"
+    },
+    {
+      "text": "near Fort Lauderdale. Because of his",
+      "duration": 4.16,
+      "offset": 36.96,
+      "lang": "en"
+    },
+    {
+      "text": "job, David&#39;s dad had a computer. Of",
+      "duration": 4.0,
+      "offset": 38.96,
+      "lang": "en"
+    },
+    {
+      "text": "course, David quickly became obsessed.",
+      "duration": 3.44,
+      "offset": 41.12,
+      "lang": "en"
+    },
+    {
+      "text": "He learned how to program in this really",
+      "duration": 3.68,
+      "offset": 42.96,
+      "lang": "en"
+    },
+    {
+      "text": "old language called Scheme. He even",
+      "duration": 4.24,
+      "offset": 44.56,
+      "lang": "en"
+    },
+    {
+      "text": "started hacking computer games. One of",
+      "duration": 4.16,
+      "offset": 46.64,
+      "lang": "en"
+    },
+    {
+      "text": "his favorites was this old DOSs game",
+      "duration": 4.64,
+      "offset": 48.8,
+      "lang": "en"
+    },
+    {
+      "text": "called Star Wars Dark Forces. He ran a",
+      "duration": 4.0,
+      "offset": 50.8,
+      "lang": "en"
+    },
+    {
+      "text": "design business while still in high",
+      "duration": 3.28,
+      "offset": 53.44,
+      "lang": "en"
+    },
+    {
+      "text": "school. He attended tons of science",
+      "duration": 4.24,
+      "offset": 54.8,
+      "lang": "en"
+    },
+    {
+      "text": "fairs and even ended up judging a few of",
+      "duration": 4.4,
+      "offset": 56.72,
+      "lang": "en"
+    },
+    {
+      "text": "them. So, it probably didn&#39;t come as a",
+      "duration": 4.08,
+      "offset": 59.04,
+      "lang": "en"
+    },
+    {
+      "text": "surprise to any of David&#39;s friends or",
+      "duration": 3.68,
+      "offset": 61.12,
+      "lang": "en"
+    },
+    {
+      "text": "family when he decided to study physics",
+      "duration": 4.0,
+      "offset": 63.12,
+      "lang": "en"
+    },
+    {
+      "text": "in college. David really admired the",
+      "duration": 4.56,
+      "offset": 64.8,
+      "lang": "en"
+    },
+    {
+      "text": "great physicists, people like Einstein,",
+      "duration": 4.4,
+      "offset": 67.12,
+      "lang": "en"
+    },
+    {
+      "text": "Newton, and Fineman. As he spent more",
+      "duration": 3.92,
+      "offset": 69.36,
+      "lang": "en"
+    },
+    {
+      "text": "time in college, he also took lots of",
+      "duration": 3.84,
+      "offset": 71.52,
+      "lang": "en"
+    },
+    {
+      "text": "math courses. He ended up graduating",
+      "duration": 4.32,
+      "offset": 73.28,
+      "lang": "en"
+    },
+    {
+      "text": "with degrees in both and then started a",
+      "duration": 4.8,
+      "offset": 75.36,
+      "lang": "en"
+    },
+    {
+      "text": "PhD in applied math. David was clearly",
+      "duration": 4.4,
+      "offset": 77.6,
+      "lang": "en"
+    },
+    {
+      "text": "super smart and people were taking",
+      "duration": 4.64,
+      "offset": 80.16,
+      "lang": "en"
+    },
+    {
+      "text": "notice. While he was doing his PhD, he",
+      "duration": 4.48,
+      "offset": 82.0,
+      "lang": "en"
+    },
+    {
+      "text": "started working as a graduate researcher",
+      "duration": 3.92,
+      "offset": 84.8,
+      "lang": "en"
+    },
+    {
+      "text": "at the Max Plank Institute, named after",
+      "duration": 4.56,
+      "offset": 86.48,
+      "lang": "en"
+    },
+    {
+      "text": "the famous theoretical physicist. He",
+      "duration": 4.24,
+      "offset": 88.72,
+      "lang": "en"
+    },
+    {
+      "text": "also worked for NASA at their Langley",
+      "duration": 4.0,
+      "offset": 91.04,
+      "lang": "en"
+    },
+    {
+      "text": "campus. He was doing really cool stuff",
+      "duration": 4.48,
+      "offset": 92.96,
+      "lang": "en"
+    },
+    {
+      "text": "like mapping rat brains, atmospheric",
+      "duration": 4.72,
+      "offset": 95.04,
+      "lang": "en"
+    },
+    {
+      "text": "science, even working on LAR. But at a",
+      "duration": 4.4,
+      "offset": 97.44,
+      "lang": "en"
+    },
+    {
+      "text": "certain point, David became worried that",
+      "duration": 3.92,
+      "offset": 99.76,
+      "lang": "en"
+    },
+    {
+      "text": "he was getting locked into a career path",
+      "duration": 4.08,
+      "offset": 101.84,
+      "lang": "en"
+    },
+    {
+      "text": "where he would just do research, write",
+      "duration": 4.08,
+      "offset": 103.68,
+      "lang": "en"
+    },
+    {
+      "text": "papers, and then nothing really",
+      "duration": 3.44,
+      "offset": 105.92,
+      "lang": "en"
+    },
+    {
+      "text": "happened. He wanted to make a bigger",
+      "duration": 3.52,
+      "offset": 107.76,
+      "lang": "en"
+    },
+    {
+      "text": "impact. He wanted something that could",
+      "duration": 4.24,
+      "offset": 109.36,
+      "lang": "en"
+    },
+    {
+      "text": "become his sole focus. So, David did",
+      "duration": 4.16,
+      "offset": 111.28,
+      "lang": "en"
+    },
+    {
+      "text": "what lots of super smart, slightly",
+      "duration": 4.72,
+      "offset": 113.6,
+      "lang": "en"
+    },
+    {
+      "text": "aimless people do. He started a company.",
+      "duration": 5.36,
+      "offset": 115.44,
+      "lang": "en"
+    },
+    {
+      "text": "The company&#39;s first name was Oaspek, but",
+      "duration": 4.4,
+      "offset": 118.32,
+      "lang": "en"
+    },
+    {
+      "text": "that wasn&#39;t a great name. So, David and",
+      "duration": 3.92,
+      "offset": 120.8,
+      "lang": "en"
+    },
+    {
+      "text": "his co-founder soon changed it to Leap",
+      "duration": 4.4,
+      "offset": 122.72,
+      "lang": "en"
+    },
+    {
+      "text": "Motion. The idea for Leapotion&#39;s main",
+      "duration": 4.24,
+      "offset": 124.72,
+      "lang": "en"
+    },
+    {
+      "text": "product actually came to David back in",
+      "duration": 4.32,
+      "offset": 127.12,
+      "lang": "en"
+    },
+    {
+      "text": "middle school. He was in a typing class",
+      "duration": 4.4,
+      "offset": 128.96,
+      "lang": "en"
+    },
+    {
+      "text": "and he must have been bored because the",
+      "duration": 3.92,
+      "offset": 131.44,
+      "lang": "en"
+    },
+    {
+      "text": "teacher told him if he could type more",
+      "duration": 3.92,
+      "offset": 133.36,
+      "lang": "en"
+    },
+    {
+      "text": "than 60 words a minute without looking",
+      "duration": 3.76,
+      "offset": 135.36,
+      "lang": "en"
+    },
+    {
+      "text": "at the keyboard, he didn&#39;t have to do",
+      "duration": 4.0,
+      "offset": 137.28,
+      "lang": "en"
+    },
+    {
+      "text": "the class. So, David learned how to type",
+      "duration": 4.32,
+      "offset": 139.12,
+      "lang": "en"
+    },
+    {
+      "text": "really fast. Got out of the class and",
+      "duration": 4.0,
+      "offset": 141.28,
+      "lang": "en"
+    },
+    {
+      "text": "then all of a sudden he had time to work",
+      "duration": 4.16,
+      "offset": 143.44,
+      "lang": "en"
+    },
+    {
+      "text": "on other projects. That experience of",
+      "duration": 4.16,
+      "offset": 145.28,
+      "lang": "en"
+    },
+    {
+      "text": "learning how to type fast made David",
+      "duration": 3.68,
+      "offset": 147.6,
+      "lang": "en"
+    },
+    {
+      "text": "realize that there was a problem with",
+      "duration": 4.32,
+      "offset": 149.44,
+      "lang": "en"
+    },
+    {
+      "text": "how people interacted with technology. I",
+      "duration": 4.08,
+      "offset": 151.28,
+      "lang": "en"
+    },
+    {
+      "text": "know most middle school students never",
+      "duration": 3.76,
+      "offset": 153.76,
+      "lang": "en"
+    },
+    {
+      "text": "think about stuff like this. Basically,",
+      "duration": 4.08,
+      "offset": 155.36,
+      "lang": "en"
+    },
+    {
+      "text": "he thought that there was a bottleneck.",
+      "duration": 4.08,
+      "offset": 157.52,
+      "lang": "en"
+    },
+    {
+      "text": "People&#39;s minds worked really fast, but",
+      "duration": 4.16,
+      "offset": 159.44,
+      "lang": "en"
+    },
+    {
+      "text": "seamlessly transmitting that information",
+      "duration": 5.04,
+      "offset": 161.6,
+      "lang": "en"
+    },
+    {
+      "text": "was difficult. Cost, size, and speed are",
+      "duration": 5.2,
+      "offset": 163.6,
+      "lang": "en"
+    },
+    {
+      "text": "all important factors. But for David,",
+      "duration": 3.68,
+      "offset": 166.64,
+      "lang": "en"
+    },
+    {
+      "text": "the most important thing was the",
+      "duration": 3.84,
+      "offset": 168.8,
+      "lang": "en"
+    },
+    {
+      "text": "interaction model. The end result of",
+      "duration": 4.56,
+      "offset": 170.32,
+      "lang": "en"
+    },
+    {
+      "text": "that thinking was the Leap, a small",
+      "duration": 3.76,
+      "offset": 172.64,
+      "lang": "en"
+    },
+    {
+      "text": "device you&#39;d place in front of your",
+      "duration": 3.2,
+      "offset": 174.88,
+      "lang": "en"
+    },
+    {
+      "text": "computer that would track the motion of",
+      "duration": 3.68,
+      "offset": 176.4,
+      "lang": "en"
+    },
+    {
+      "text": "your hands and then translate those",
+      "duration": 4.32,
+      "offset": 178.08,
+      "lang": "en"
+    },
+    {
+      "text": "gestures into commands. But well before",
+      "duration": 4.16,
+      "offset": 180.08,
+      "lang": "en"
+    },
+    {
+      "text": "the Leap was released, in fact even",
+      "duration": 4.08,
+      "offset": 182.4,
+      "lang": "en"
+    },
+    {
+      "text": "before David founded Lead Motion, he had",
+      "duration": 3.92,
+      "offset": 184.24,
+      "lang": "en"
+    },
+    {
+      "text": "an interaction that foreshadowed the",
+      "duration": 4.16,
+      "offset": 186.48,
+      "lang": "en"
+    },
+    {
+      "text": "debate we&#39;re having today about AI.",
+      "duration": 4.32,
+      "offset": 188.16,
+      "lang": "en"
+    },
+    {
+      "text": "LeadMotion kind of invented a lot of",
+      "duration": 3.92,
+      "offset": 190.64,
+      "lang": "en"
+    },
+    {
+      "text": "gestural interface technology, but",
+      "duration": 4.24,
+      "offset": 192.48,
+      "lang": "en"
+    },
+    {
+      "text": "people weren&#39;t really ready. The iPad",
+      "duration": 3.84,
+      "offset": 194.56,
+      "lang": "en"
+    },
+    {
+      "text": "had only just been released, and the",
+      "duration": 3.6,
+      "offset": 196.72,
+      "lang": "en"
+    },
+    {
+      "text": "Windows operating system didn&#39;t yet work",
+      "duration": 4.24,
+      "offset": 198.4,
+      "lang": "en"
+    },
+    {
+      "text": "with touchscreens at all. People didn&#39;t",
+      "duration": 4.0,
+      "offset": 200.32,
+      "lang": "en"
+    },
+    {
+      "text": "really think about touch beyond their",
+      "duration": 3.2,
+      "offset": 202.64,
+      "lang": "en"
+    },
+    {
+      "text": "phones and the trackpad on their",
+      "duration": 3.68,
+      "offset": 204.32,
+      "lang": "en"
+    },
+    {
+      "text": "laptops. Of course, today touch is",
+      "duration": 3.84,
+      "offset": 205.84,
+      "lang": "en"
+    },
+    {
+      "text": "everywhere and Apple recently announced",
+      "duration": 3.68,
+      "offset": 208.0,
+      "lang": "en"
+    },
+    {
+      "text": "the Vision Pro, which includes hand",
+      "duration": 3.92,
+      "offset": 209.68,
+      "lang": "en"
+    },
+    {
+      "text": "tracking is a core feature, but it&#39;s",
+      "duration": 3.76,
+      "offset": 211.68,
+      "lang": "en"
+    },
+    {
+      "text": "taken more than 10 years after Leap",
+      "duration": 3.84,
+      "offset": 213.6,
+      "lang": "en"
+    },
+    {
+      "text": "Motion&#39;s first product to get us here.",
+      "duration": 3.6,
+      "offset": 215.44,
+      "lang": "en"
+    },
+    {
+      "text": "Because Leap Motion was trying to do",
+      "duration": 3.6,
+      "offset": 217.44,
+      "lang": "en"
+    },
+    {
+      "text": "something new, David was very focused on",
+      "duration": 4.16,
+      "offset": 219.04,
+      "lang": "en"
+    },
+    {
+      "text": "user interaction. One of the people he",
+      "duration": 4.0,
+      "offset": 221.04,
+      "lang": "en"
+    },
+    {
+      "text": "talked to early on was a professor named",
+      "duration": 4.4,
+      "offset": 223.2,
+      "lang": "en"
+    },
+    {
+      "text": "Alan K. Alan is a legendary computer",
+      "duration": 4.32,
+      "offset": 225.04,
+      "lang": "en"
+    },
+    {
+      "text": "scientist who basically invented both",
+      "duration": 3.76,
+      "offset": 227.6,
+      "lang": "en"
+    },
+    {
+      "text": "object-oriented programming and the",
+      "duration": 4.16,
+      "offset": 229.36,
+      "lang": "en"
+    },
+    {
+      "text": "graphical user interface. and he said",
+      "duration": 3.68,
+      "offset": 231.36,
+      "lang": "en"
+    },
+    {
+      "text": "something which crystallized the problem",
+      "duration": 3.6,
+      "offset": 233.52,
+      "lang": "en"
+    },
+    {
+      "text": "David was trying to solve. Don&#39;t think",
+      "duration": 4.16,
+      "offset": 235.04,
+      "lang": "en"
+    },
+    {
+      "text": "about features, think about how the user",
+      "duration": 4.8,
+      "offset": 237.12,
+      "lang": "en"
+    },
+    {
+      "text": "learns. In many ways, Leap Motion never",
+      "duration": 4.8,
+      "offset": 239.2,
+      "lang": "en"
+    },
+    {
+      "text": "really solved that problem. They tried",
+      "duration": 3.6,
+      "offset": 241.92,
+      "lang": "en"
+    },
+    {
+      "text": "to introduce a new technological",
+      "duration": 3.36,
+      "offset": 244.0,
+      "lang": "en"
+    },
+    {
+      "text": "paradigm before people were truly ready",
+      "duration": 4.48,
+      "offset": 245.52,
+      "lang": "en"
+    },
+    {
+      "text": "for it. But today, user education both",
+      "duration": 4.24,
+      "offset": 247.36,
+      "lang": "en"
+    },
+    {
+      "text": "in terms of people learning how to use",
+      "duration": 3.84,
+      "offset": 250.0,
+      "lang": "en"
+    },
+    {
+      "text": "the technology and also how people train",
+      "duration": 4.16,
+      "offset": 251.6,
+      "lang": "en"
+    },
+    {
+      "text": "the algorithm is a big part of why",
+      "duration": 4.32,
+      "offset": 253.84,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney is so amazing. Leap Motion",
+      "duration": 4.8,
+      "offset": 255.76,
+      "lang": "en"
+    },
+    {
+      "text": "had a promising first few years. Their",
+      "duration": 4.88,
+      "offset": 258.16,
+      "lang": "en"
+    },
+    {
+      "text": "seed round in 2011 received investments",
+      "duration": 4.56,
+      "offset": 260.56,
+      "lang": "en"
+    },
+    {
+      "text": "from Andre and Horowitz and Founders",
+      "duration": 4.16,
+      "offset": 263.04,
+      "lang": "en"
+    },
+    {
+      "text": "Fund. But not every VC knew what",
+      "duration": 4.64,
+      "offset": 265.12,
+      "lang": "en"
+    },
+    {
+      "text": "Leapotion was trying to do. Leap Motion,",
+      "duration": 4.24,
+      "offset": 267.2,
+      "lang": "en"
+    },
+    {
+      "text": "however, followed a more conventional",
+      "duration": 4.16,
+      "offset": 269.76,
+      "lang": "en"
+    },
+    {
+      "text": "path. After the successful seed funding",
+      "duration": 5.92,
+      "offset": 271.44,
+      "lang": "en"
+    },
+    {
+      "text": "round, they raised $12.75 million in",
+      "duration": 6.48,
+      "offset": 273.92,
+      "lang": "en"
+    },
+    {
+      "text": "series A funding in 2012 and then a $30",
+      "duration": 6.32,
+      "offset": 277.36,
+      "lang": "en"
+    },
+    {
+      "text": "million series B round in 2013 led by",
+      "duration": 5.52,
+      "offset": 280.4,
+      "lang": "en"
+    },
+    {
+      "text": "Founders Fund. That gave them the money",
+      "duration": 5.2,
+      "offset": 283.68,
+      "lang": "en"
+    },
+    {
+      "text": "to release the leap in mid 2013. It sold",
+      "duration": 5.92,
+      "offset": 285.92,
+      "lang": "en"
+    },
+    {
+      "text": "about 500,000 units. Apparently, that",
+      "duration": 5.36,
+      "offset": 288.88,
+      "lang": "en"
+    },
+    {
+      "text": "was below expectations, but I think it&#39;s",
+      "duration": 4.24,
+      "offset": 291.84,
+      "lang": "en"
+    },
+    {
+      "text": "actually pretty solid for a new hardware",
+      "duration": 4.0,
+      "offset": 294.24,
+      "lang": "en"
+    },
+    {
+      "text": "company, selling a totally new type of",
+      "duration": 4.16,
+      "offset": 296.08,
+      "lang": "en"
+    },
+    {
+      "text": "product right out of the gate. But there",
+      "duration": 4.64,
+      "offset": 298.24,
+      "lang": "en"
+    },
+    {
+      "text": "were issues. Tech support was tricky.",
+      "duration": 4.96,
+      "offset": 300.24,
+      "lang": "en"
+    },
+    {
+      "text": "User retention wasn&#39;t great, and that",
+      "duration": 4.16,
+      "offset": 302.88,
+      "lang": "en"
+    },
+    {
+      "text": "sales figure was probably bumped up by",
+      "duration": 4.32,
+      "offset": 305.2,
+      "lang": "en"
+    },
+    {
+      "text": "partnerships with other companies. in",
+      "duration": 5.04,
+      "offset": 307.04,
+      "lang": "en"
+    },
+    {
+      "text": "addition to direct sales. Still, Leap",
+      "duration": 4.32,
+      "offset": 309.52,
+      "lang": "en"
+    },
+    {
+      "text": "Motion was doing well enough that Apple",
+      "duration": 3.84,
+      "offset": 312.08,
+      "lang": "en"
+    },
+    {
+      "text": "was interested in acquiring them, but",
+      "duration": 4.12,
+      "offset": 313.84,
+      "lang": "en"
+    },
+    {
+      "text": "David, the founder and CTO, wasn&#39;t",
+      "duration": 4.4,
+      "offset": 315.92,
+      "lang": "en"
+    },
+    {
+      "text": "interested. In fact, he apparently told",
+      "duration": 3.96,
+      "offset": 317.96,
+      "lang": "en"
+    },
+    {
+      "text": "Apple&#39;s representatives that their",
+      "duration": 3.68,
+      "offset": 320.32,
+      "lang": "en"
+    },
+    {
+      "text": "company was no longer innovative and",
+      "duration": 4.4,
+      "offset": 321.92,
+      "lang": "en"
+    },
+    {
+      "text": "even praised Android. Needless to say,",
+      "duration": 4.08,
+      "offset": 324.0,
+      "lang": "en"
+    },
+    {
+      "text": "the deal didn&#39;t go through, but still,",
+      "duration": 3.04,
+      "offset": 326.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s an interesting alternative",
+      "duration": 3.44,
+      "offset": 328.08,
+      "lang": "en"
+    },
+    {
+      "text": "history here. At the time, Apple",
+      "duration": 3.84,
+      "offset": 329.36,
+      "lang": "en"
+    },
+    {
+      "text": "actually acquired a few companies like",
+      "duration": 3.76,
+      "offset": 331.52,
+      "lang": "en"
+    },
+    {
+      "text": "Prime Sense that had technology that",
+      "duration": 3.68,
+      "offset": 333.2,
+      "lang": "en"
+    },
+    {
+      "text": "will end up being used in the Vision",
+      "duration": 3.92,
+      "offset": 335.28,
+      "lang": "en"
+    },
+    {
+      "text": "Pro. Had Apple bought Leap Motion around",
+      "duration": 4.24,
+      "offset": 336.88,
+      "lang": "en"
+    },
+    {
+      "text": "the same time, who knows how that would",
+      "duration": 3.12,
+      "offset": 339.2,
+      "lang": "en"
+    },
+    {
+      "text": "have affected the creation of",
+      "duration": 2.8,
+      "offset": 341.12,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney, or for that matter, the",
+      "duration": 3.76,
+      "offset": 342.32,
+      "lang": "en"
+    },
+    {
+      "text": "Vision Pro. The company sent about",
+      "duration": 4.88,
+      "offset": 343.92,
+      "lang": "en"
+    },
+    {
+      "text": "12,000 of its devices to developers who",
+      "duration": 4.32,
+      "offset": 346.08,
+      "lang": "en"
+    },
+    {
+      "text": "were interested in building apps that",
+      "duration": 4.32,
+      "offset": 348.8,
+      "lang": "en"
+    },
+    {
+      "text": "used handtracking technology. By now,",
+      "duration": 4.72,
+      "offset": 350.4,
+      "lang": "en"
+    },
+    {
+      "text": "Leap Motion had pivoted away from the",
+      "duration": 4.16,
+      "offset": 353.12,
+      "lang": "en"
+    },
+    {
+      "text": "desktop input of their first product and",
+      "duration": 4.4,
+      "offset": 355.12,
+      "lang": "en"
+    },
+    {
+      "text": "toured virtual reality, but it wasn&#39;t",
+      "duration": 3.44,
+      "offset": 357.28,
+      "lang": "en"
+    },
+    {
+      "text": "obvious how their tech would be",
+      "duration": 3.6,
+      "offset": 359.52,
+      "lang": "en"
+    },
+    {
+      "text": "integrated into existing VR products.",
+      "duration": 4.0,
+      "offset": 360.72,
+      "lang": "en"
+    },
+    {
+      "text": "There was an external kit you could add",
+      "duration": 3.44,
+      "offset": 363.12,
+      "lang": "en"
+    },
+    {
+      "text": "on to the Oculus which would let you use",
+      "duration": 3.92,
+      "offset": 364.72,
+      "lang": "en"
+    },
+    {
+      "text": "the Leap Motion controller, but that",
+      "duration": 3.92,
+      "offset": 366.56,
+      "lang": "en"
+    },
+    {
+      "text": "just added a layer of complexity to a",
+      "duration": 3.84,
+      "offset": 368.64,
+      "lang": "en"
+    },
+    {
+      "text": "device, which to be honest, people were",
+      "duration": 3.36,
+      "offset": 370.48,
+      "lang": "en"
+    },
+    {
+      "text": "trying to wrap their heads around.",
+      "duration": 4.44,
+      "offset": 372.48,
+      "lang": "en"
+    },
+    {
+      "text": "Anyway, in 2014, the Facebook bought",
+      "duration": 5.92,
+      "offset": 373.84,
+      "lang": "en"
+    },
+    {
+      "text": "Oculus. After that, the VR industry sort",
+      "duration": 6.36,
+      "offset": 376.92,
+      "lang": "en"
+    },
+    {
+      "text": "of cooled down a bit. But in 2018, a few",
+      "duration": 5.6,
+      "offset": 379.76,
+      "lang": "en"
+    },
+    {
+      "text": "years after their first attempt, which",
+      "duration": 4.0,
+      "offset": 383.28,
+      "lang": "en"
+    },
+    {
+      "text": "went so badly that David ended up",
+      "duration": 4.08,
+      "offset": 385.36,
+      "lang": "en"
+    },
+    {
+      "text": "basically insulting them, Apple came",
+      "duration": 3.92,
+      "offset": 387.28,
+      "lang": "en"
+    },
+    {
+      "text": "back and made another attempt to buy",
+      "duration": 4.72,
+      "offset": 389.44,
+      "lang": "en"
+    },
+    {
+      "text": "Leap Motion. For her to buy Leap Motion,",
+      "duration": 5.4,
+      "offset": 391.2,
+      "lang": "en"
+    },
+    {
+      "text": "this time was only around $30 to $50",
+      "duration": 4.8,
+      "offset": 394.16,
+      "lang": "en"
+    },
+    {
+      "text": "million, which was just a fraction of",
+      "duration": 5.4,
+      "offset": 396.6,
+      "lang": "en"
+    },
+    {
+      "text": "the $36 million valuation after the",
+      "duration": 5.2,
+      "offset": 398.96,
+      "lang": "en"
+    },
+    {
+      "text": "series B round. It would have been a",
+      "duration": 4.48,
+      "offset": 402.0,
+      "lang": "en"
+    },
+    {
+      "text": "massive drop in valuation. investors",
+      "duration": 3.76,
+      "offset": 404.16,
+      "lang": "en"
+    },
+    {
+      "text": "would have only been getting cents on",
+      "duration": 2.96,
+      "offset": 406.48,
+      "lang": "en"
+    },
+    {
+      "text": "the dollar and the founders and",
+      "duration": 2.96,
+      "offset": 407.92,
+      "lang": "en"
+    },
+    {
+      "text": "employees probably would have received",
+      "duration": 4.0,
+      "offset": 409.44,
+      "lang": "en"
+    },
+    {
+      "text": "basically nothing. Despite all that, the",
+      "duration": 4.96,
+      "offset": 410.88,
+      "lang": "en"
+    },
+    {
+      "text": "deal almost happened. It even got to the",
+      "duration": 4.4,
+      "offset": 413.44,
+      "lang": "en"
+    },
+    {
+      "text": "point where Apple sent out offer letters",
+      "duration": 4.8,
+      "offset": 415.84,
+      "lang": "en"
+    },
+    {
+      "text": "to Leapotion employees who are happy",
+      "duration": 4.48,
+      "offset": 417.84,
+      "lang": "en"
+    },
+    {
+      "text": "that they get the chance to keep working",
+      "duration": 4.08,
+      "offset": 420.64,
+      "lang": "en"
+    },
+    {
+      "text": "on coolte from inside one of the world&#39;s",
+      "duration": 4.72,
+      "offset": 422.32,
+      "lang": "en"
+    },
+    {
+      "text": "biggest companies. But it fell through",
+      "duration": 3.92,
+      "offset": 424.72,
+      "lang": "en"
+    },
+    {
+      "text": "and we never got that version of",
+      "duration": 4.56,
+      "offset": 427.04,
+      "lang": "en"
+    },
+    {
+      "text": "history. Around this time, Leap Motion,",
+      "duration": 5.44,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "which now had around 100 employees built",
+      "duration": 4.08,
+      "offset": 431.6,
+      "lang": "en"
+    },
+    {
+      "text": "and open- sourced their augmented",
+      "duration": 4.16,
+      "offset": 434.08,
+      "lang": "en"
+    },
+    {
+      "text": "reality headset, Northstar, underpinned",
+      "duration": 4.88,
+      "offset": 435.68,
+      "lang": "en"
+    },
+    {
+      "text": "by their hand tracking technology. In",
+      "duration": 5.76,
+      "offset": 438.24,
+      "lang": "en"
+    },
+    {
+      "text": "May of 2019, Leap Motion was bought by a",
+      "duration": 5.44,
+      "offset": 440.56,
+      "lang": "en"
+    },
+    {
+      "text": "company called Ultra Haptics. The",
+      "duration": 4.24,
+      "offset": 444.0,
+      "lang": "en"
+    },
+    {
+      "text": "financials weren&#39;t great. It was a $30",
+      "duration": 4.24,
+      "offset": 446.0,
+      "lang": "en"
+    },
+    {
+      "text": "million deal, way down from the peak",
+      "duration": 4.16,
+      "offset": 448.24,
+      "lang": "en"
+    },
+    {
+      "text": "valuation, so employees with stock",
+      "duration": 4.08,
+      "offset": 450.24,
+      "lang": "en"
+    },
+    {
+      "text": "probably got wiped out, but from a",
+      "duration": 4.0,
+      "offset": 452.4,
+      "lang": "en"
+    },
+    {
+      "text": "technological perspective, it made a lot",
+      "duration": 4.32,
+      "offset": 454.32,
+      "lang": "en"
+    },
+    {
+      "text": "of sense. Ultrahaptics had been working",
+      "duration": 4.16,
+      "offset": 456.4,
+      "lang": "en"
+    },
+    {
+      "text": "with David in Leap Motion for about 6",
+      "duration": 3.92,
+      "offset": 458.64,
+      "lang": "en"
+    },
+    {
+      "text": "years by this point, and they worked on",
+      "duration": 4.32,
+      "offset": 460.56,
+      "lang": "en"
+    },
+    {
+      "text": "interesting technology. Ultrahaptics",
+      "duration": 4.56,
+      "offset": 462.56,
+      "lang": "en"
+    },
+    {
+      "text": "makes virtual control solutions that let",
+      "duration": 4.0,
+      "offset": 464.88,
+      "lang": "en"
+    },
+    {
+      "text": "someone feel an object in their hands",
+      "duration": 3.44,
+      "offset": 467.12,
+      "lang": "en"
+    },
+    {
+      "text": "when they interact with it in virtual",
+      "duration": 4.32,
+      "offset": 468.88,
+      "lang": "en"
+    },
+    {
+      "text": "reality without needing to use gloves.",
+      "duration": 5.04,
+      "offset": 470.56,
+      "lang": "en"
+    },
+    {
+      "text": "Today, Leap Motion is called Ultra Leap,",
+      "duration": 4.08,
+      "offset": 473.2,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s unclear where their hand",
+      "duration": 3.36,
+      "offset": 475.6,
+      "lang": "en"
+    },
+    {
+      "text": "control sensing technology is headed,",
+      "duration": 3.68,
+      "offset": 477.28,
+      "lang": "en"
+    },
+    {
+      "text": "but it&#39;s growing. There are some cars",
+      "duration": 3.6,
+      "offset": 478.96,
+      "lang": "en"
+    },
+    {
+      "text": "that let you turn up the volume on your",
+      "duration": 3.68,
+      "offset": 480.96,
+      "lang": "en"
+    },
+    {
+      "text": "sound system by spinning your hand, but",
+      "duration": 3.6,
+      "offset": 482.56,
+      "lang": "en"
+    },
+    {
+      "text": "in general, people aren&#39;t using their",
+      "duration": 3.28,
+      "offset": 484.64,
+      "lang": "en"
+    },
+    {
+      "text": "hands to interact with computers just",
+      "duration": 4.56,
+      "offset": 486.16,
+      "lang": "en"
+    },
+    {
+      "text": "yet. David ran Leap Motion for almost 10",
+      "duration": 4.88,
+      "offset": 487.92,
+      "lang": "en"
+    },
+    {
+      "text": "years. He got a tons of experience",
+      "duration": 4.32,
+      "offset": 490.72,
+      "lang": "en"
+    },
+    {
+      "text": "building new technology, raising money,",
+      "duration": 4.24,
+      "offset": 492.8,
+      "lang": "en"
+    },
+    {
+      "text": "and growing a company from nothing into",
+      "duration": 4.24,
+      "offset": 495.04,
+      "lang": "en"
+    },
+    {
+      "text": "something that Apple tried to buy twice.",
+      "duration": 4.4,
+      "offset": 497.04,
+      "lang": "en"
+    },
+    {
+      "text": "It was time for the next adventure. He",
+      "duration": 3.88,
+      "offset": 499.28,
+      "lang": "en"
+    },
+    {
+      "text": "set up a studio to explore new",
+      "duration": 3.84,
+      "offset": 501.44,
+      "lang": "en"
+    },
+    {
+      "text": "opportunities. He told himself to wait",
+      "duration": 4.12,
+      "offset": 503.16,
+      "lang": "en"
+    },
+    {
+      "text": "until the right one came up. As it",
+      "duration": 3.44,
+      "offset": 505.28,
+      "lang": "en"
+    },
+    {
+      "text": "turned out, he wouldn&#39;t have to wait",
+      "duration": 3.6,
+      "offset": 507.28,
+      "lang": "en"
+    },
+    {
+      "text": "very long. David Holtz chose to become",
+      "duration": 4.16,
+      "offset": 508.72,
+      "lang": "en"
+    },
+    {
+      "text": "an entrepreneur instead of an academic",
+      "duration": 4.0,
+      "offset": 510.88,
+      "lang": "en"
+    },
+    {
+      "text": "because he wanted to make a big impact.",
+      "duration": 3.84,
+      "offset": 512.88,
+      "lang": "en"
+    },
+    {
+      "text": "So, this next part is kind of ironic",
+      "duration": 4.08,
+      "offset": 514.88,
+      "lang": "en"
+    },
+    {
+      "text": "because an academic paper was about to",
+      "duration": 5.28,
+      "offset": 516.72,
+      "lang": "en"
+    },
+    {
+      "text": "change his life. In June of 2020, three",
+      "duration": 5.68,
+      "offset": 518.96,
+      "lang": "en"
+    },
+    {
+      "text": "Berkeley researchers, Jonathan Hoe, AJ",
+      "duration": 5.12,
+      "offset": 522.0,
+      "lang": "en"
+    },
+    {
+      "text": "Jane, and Peter Abiel, published their",
+      "duration": 4.64,
+      "offset": 524.64,
+      "lang": "en"
+    },
+    {
+      "text": "research into how diffusion models can",
+      "duration": 4.32,
+      "offset": 527.12,
+      "lang": "en"
+    },
+    {
+      "text": "create images. David had enough",
+      "duration": 4.0,
+      "offset": 529.28,
+      "lang": "en"
+    },
+    {
+      "text": "technical knowledge to understand that",
+      "duration": 3.52,
+      "offset": 531.44,
+      "lang": "en"
+    },
+    {
+      "text": "diffusion models were about to increase",
+      "duration": 4.52,
+      "offset": 533.28,
+      "lang": "en"
+    },
+    {
+      "text": "the quality of AI images by an order of",
+      "duration": 4.8,
+      "offset": 534.96,
+      "lang": "en"
+    },
+    {
+      "text": "magnitude. He realized that the",
+      "duration": 3.56,
+      "offset": 537.8,
+      "lang": "en"
+    },
+    {
+      "text": "opportunity he&#39;d been waiting for had",
+      "duration": 4.36,
+      "offset": 539.76,
+      "lang": "en"
+    },
+    {
+      "text": "arrived. The first version of OpenAI&#39;s",
+      "duration": 5.28,
+      "offset": 541.36,
+      "lang": "en"
+    },
+    {
+      "text": "DAL model proved him right, but in",
+      "duration": 5.24,
+      "offset": 544.12,
+      "lang": "en"
+    },
+    {
+      "text": "reverse. Today, Deli 2 is one of the",
+      "duration": 4.96,
+      "offset": 546.64,
+      "lang": "en"
+    },
+    {
+      "text": "leading AI image generators, but when",
+      "duration": 4.28,
+      "offset": 549.36,
+      "lang": "en"
+    },
+    {
+      "text": "the first one was released in January of",
+      "duration": 4.72,
+      "offset": 551.6,
+      "lang": "en"
+    },
+    {
+      "text": "2021, not that many people actually paid",
+      "duration": 5.24,
+      "offset": 553.64,
+      "lang": "en"
+    },
+    {
+      "text": "attention. DAL 1 was the first textto",
+      "duration": 4.4,
+      "offset": 556.32,
+      "lang": "en"
+    },
+    {
+      "text": "image model based on diffusion models",
+      "duration": 4.16,
+      "offset": 558.88,
+      "lang": "en"
+    },
+    {
+      "text": "that existed. It was a step change from",
+      "duration": 4.56,
+      "offset": 560.72,
+      "lang": "en"
+    },
+    {
+      "text": "everything that came before. The DAL 1",
+      "duration": 3.92,
+      "offset": 563.04,
+      "lang": "en"
+    },
+    {
+      "text": "launch also include a package called",
+      "duration": 3.68,
+      "offset": 565.28,
+      "lang": "en"
+    },
+    {
+      "text": "clip which could evaluate how well an",
+      "duration": 4.24,
+      "offset": 566.96,
+      "lang": "en"
+    },
+    {
+      "text": "image aligned with text inputs. Plenty",
+      "duration": 3.92,
+      "offset": 568.96,
+      "lang": "en"
+    },
+    {
+      "text": "of AI researchers who tried to build",
+      "duration": 4.0,
+      "offset": 571.2,
+      "lang": "en"
+    },
+    {
+      "text": "image generators before but using older",
+      "duration": 3.92,
+      "offset": 572.88,
+      "lang": "en"
+    },
+    {
+      "text": "methods like generative adversarial",
+      "duration": 4.56,
+      "offset": 575.2,
+      "lang": "en"
+    },
+    {
+      "text": "networks and variational autoenccoders.",
+      "duration": 4.4,
+      "offset": 576.8,
+      "lang": "en"
+    },
+    {
+      "text": "People who were paying close attention",
+      "duration": 3.6,
+      "offset": 579.76,
+      "lang": "en"
+    },
+    {
+      "text": "like David was knew that this was a",
+      "duration": 4.56,
+      "offset": 581.2,
+      "lang": "en"
+    },
+    {
+      "text": "turning point. Sam Alman, the head of",
+      "duration": 4.92,
+      "offset": 583.36,
+      "lang": "en"
+    },
+    {
+      "text": "OpenA, I wasn&#39;t exactly sitting around",
+      "duration": 5.8,
+      "offset": 585.76,
+      "lang": "en"
+    },
+    {
+      "text": "either. Dalot 2 was released in April of",
+      "duration": 5.72,
+      "offset": 588.28,
+      "lang": "en"
+    },
+    {
+      "text": "2022. Stable diffusion followed in",
+      "duration": 4.84,
+      "offset": 591.56,
+      "lang": "en"
+    },
+    {
+      "text": "August and Midjourney entered open beta",
+      "duration": 4.64,
+      "offset": 594.0,
+      "lang": "en"
+    },
+    {
+      "text": "in July. David Holtz was actually",
+      "duration": 3.68,
+      "offset": 596.4,
+      "lang": "en"
+    },
+    {
+      "text": "experimenting with the preliminary",
+      "duration": 4.16,
+      "offset": 598.64,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney model as far back as January",
+      "duration": 5.84,
+      "offset": 600.08,
+      "lang": "en"
+    },
+    {
+      "text": "before Dalle 2 dropped, doing things",
+      "duration": 4.88,
+      "offset": 602.8,
+      "lang": "en"
+    },
+    {
+      "text": "like creating vapor wave monkeys in the",
+      "duration": 4.0,
+      "offset": 605.92,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney Discord. The Discord went",
+      "duration": 4.32,
+      "offset": 607.68,
+      "lang": "en"
+    },
+    {
+      "text": "public a couple months later. This was",
+      "duration": 3.6,
+      "offset": 609.92,
+      "lang": "en"
+    },
+    {
+      "text": "actually a really important milestone",
+      "duration": 3.68,
+      "offset": 612.0,
+      "lang": "en"
+    },
+    {
+      "text": "because it allowed David and his team to",
+      "duration": 4.48,
+      "offset": 613.52,
+      "lang": "en"
+    },
+    {
+      "text": "go really hard on user testing. For",
+      "duration": 4.72,
+      "offset": 615.68,
+      "lang": "en"
+    },
+    {
+      "text": "example, one model took about 20 minutes",
+      "duration": 4.72,
+      "offset": 618.0,
+      "lang": "en"
+    },
+    {
+      "text": "to create a really highquality image,",
+      "duration": 4.24,
+      "offset": 620.4,
+      "lang": "en"
+    },
+    {
+      "text": "while another took about only 15",
+      "duration": 4.72,
+      "offset": 622.72,
+      "lang": "en"
+    },
+    {
+      "text": "seconds, but produced worse images. The",
+      "duration": 4.72,
+      "offset": 624.64,
+      "lang": "en"
+    },
+    {
+      "text": "first approach was really fast, but it",
+      "duration": 4.08,
+      "offset": 627.44,
+      "lang": "en"
+    },
+    {
+      "text": "sacrificed quality. The second approach",
+      "duration": 4.24,
+      "offset": 629.36,
+      "lang": "en"
+    },
+    {
+      "text": "was resulted in amazing images, but",
+      "duration": 4.72,
+      "offset": 631.52,
+      "lang": "en"
+    },
+    {
+      "text": "users would often get bored. In the end,",
+      "duration": 5.28,
+      "offset": 633.6,
+      "lang": "en"
+    },
+    {
+      "text": "David found a great midpoint. Today, it",
+      "duration": 4.72,
+      "offset": 636.24,
+      "lang": "en"
+    },
+    {
+      "text": "takes midjourney about 60 seconds to",
+      "duration": 4.32,
+      "offset": 638.88,
+      "lang": "en"
+    },
+    {
+      "text": "generate an image, and it shows you the",
+      "duration": 4.48,
+      "offset": 640.96,
+      "lang": "en"
+    },
+    {
+      "text": "image as it&#39;s generating. The hardest",
+      "duration": 4.24,
+      "offset": 643.2,
+      "lang": "en"
+    },
+    {
+      "text": "thing about building an AI company today",
+      "duration": 4.32,
+      "offset": 645.44,
+      "lang": "en"
+    },
+    {
+      "text": "is the intense public scrutiny. You&#39;ve",
+      "duration": 4.56,
+      "offset": 647.44,
+      "lang": "en"
+    },
+    {
+      "text": "got Sam Alman in front of Congress and",
+      "duration": 3.84,
+      "offset": 649.76,
+      "lang": "en"
+    },
+    {
+      "text": "lots of people who literally believe",
+      "duration": 4.24,
+      "offset": 652.0,
+      "lang": "en"
+    },
+    {
+      "text": "that programs like ChatGpt should be",
+      "duration": 4.72,
+      "offset": 653.6,
+      "lang": "en"
+    },
+    {
+      "text": "illegal. But despite that pressure,",
+      "duration": 4.08,
+      "offset": 656.24,
+      "lang": "en"
+    },
+    {
+      "text": "David&#39;s built MidJourney into the best",
+      "duration": 4.4,
+      "offset": 658.32,
+      "lang": "en"
+    },
+    {
+      "text": "AI image generator around. And he&#39;s done",
+      "duration": 4.24,
+      "offset": 660.32,
+      "lang": "en"
+    },
+    {
+      "text": "it by implementing four distinct",
+      "duration": 4.48,
+      "offset": 662.72,
+      "lang": "en"
+    },
+    {
+      "text": "strategies. Number one, harnessing the",
+      "duration": 4.8,
+      "offset": 664.56,
+      "lang": "en"
+    },
+    {
+      "text": "power of Discord. You can measure the",
+      "duration": 3.92,
+      "offset": 667.2,
+      "lang": "en"
+    },
+    {
+      "text": "growth of most companies by looking at",
+      "duration": 3.68,
+      "offset": 669.36,
+      "lang": "en"
+    },
+    {
+      "text": "their revenues, but the best way to",
+      "duration": 3.76,
+      "offset": 671.12,
+      "lang": "en"
+    },
+    {
+      "text": "measure the growth of MidJourney is by",
+      "duration": 4.16,
+      "offset": 673.04,
+      "lang": "en"
+    },
+    {
+      "text": "looking at their Discord. If you go on",
+      "duration": 4.24,
+      "offset": 674.88,
+      "lang": "en"
+    },
+    {
+      "text": "sites like Reddit, you&#39;ll see the same",
+      "duration": 4.48,
+      "offset": 677.2,
+      "lang": "en"
+    },
+    {
+      "text": "question pop up again and again. Why did",
+      "duration": 4.88,
+      "offset": 679.12,
+      "lang": "en"
+    },
+    {
+      "text": "the Midjourney team decide to wrap their",
+      "duration": 4.72,
+      "offset": 681.68,
+      "lang": "en"
+    },
+    {
+      "text": "product inside a Discord server? It&#39;s a",
+      "duration": 4.32,
+      "offset": 684.0,
+      "lang": "en"
+    },
+    {
+      "text": "fair question. Frankly, lots of tech",
+      "duration": 4.4,
+      "offset": 686.4,
+      "lang": "en"
+    },
+    {
+      "text": "CEOs would be too skittish to ever do",
+      "duration": 4.08,
+      "offset": 688.32,
+      "lang": "en"
+    },
+    {
+      "text": "something like that. But David",
+      "duration": 3.36,
+      "offset": 690.8,
+      "lang": "en"
+    },
+    {
+      "text": "immediately understood that Discord",
+      "duration": 4.08,
+      "offset": 692.4,
+      "lang": "en"
+    },
+    {
+      "text": "could be an amazing feedback loop. He",
+      "duration": 3.84,
+      "offset": 694.16,
+      "lang": "en"
+    },
+    {
+      "text": "believed that one of the key drivers to",
+      "duration": 3.24,
+      "offset": 696.48,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney&#39;s massive growth would be",
+      "duration": 3.84,
+      "offset": 698.0,
+      "lang": "en"
+    },
+    {
+      "text": "virality. And then one of the best ways",
+      "duration": 4.68,
+      "offset": 699.72,
+      "lang": "en"
+    },
+    {
+      "text": "to create virality is volume. Today,",
+      "duration": 4.0,
+      "offset": 701.84,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney is the world&#39;s biggest",
+      "duration": 4.16,
+      "offset": 704.4,
+      "lang": "en"
+    },
+    {
+      "text": "Discord server by far. It hit 2 million",
+      "duration": 5.92,
+      "offset": 705.84,
+      "lang": "en"
+    },
+    {
+      "text": "subscribers in midsepptember 2022, 4",
+      "duration": 5.2,
+      "offset": 708.56,
+      "lang": "en"
+    },
+    {
+      "text": "million by the second week of November.",
+      "duration": 3.92,
+      "offset": 711.76,
+      "lang": "en"
+    },
+    {
+      "text": "By April, it hit 15 million. And",
+      "duration": 3.68,
+      "offset": 713.76,
+      "lang": "en"
+    },
+    {
+      "text": "currently there are more than 18 million",
+      "duration": 4.56,
+      "offset": 715.68,
+      "lang": "en"
+    },
+    {
+      "text": "members. That&#39;s exponential growth. The",
+      "duration": 4.48,
+      "offset": 717.44,
+      "lang": "en"
+    },
+    {
+      "text": "more people in the Discord, the more",
+      "duration": 4.0,
+      "offset": 720.24,
+      "lang": "en"
+    },
+    {
+      "text": "people creating amazing images. And the",
+      "duration": 4.4,
+      "offset": 721.92,
+      "lang": "en"
+    },
+    {
+      "text": "more amazing images you see, then the",
+      "duration": 3.84,
+      "offset": 724.24,
+      "lang": "en"
+    },
+    {
+      "text": "more likely you are to want to join the",
+      "duration": 4.32,
+      "offset": 726.32,
+      "lang": "en"
+    },
+    {
+      "text": "Discord. Discord just makes sense. It&#39;s",
+      "duration": 4.8,
+      "offset": 728.08,
+      "lang": "en"
+    },
+    {
+      "text": "flexible and functional. It has a great",
+      "duration": 4.8,
+      "offset": 730.64,
+      "lang": "en"
+    },
+    {
+      "text": "mobile app, and it&#39;s collaborative. One",
+      "duration": 4.0,
+      "offset": 732.88,
+      "lang": "en"
+    },
+    {
+      "text": "of the biggest threats to the growth of",
+      "duration": 3.6,
+      "offset": 735.44,
+      "lang": "en"
+    },
+    {
+      "text": "a generative AI model is that it&#39;s",
+      "duration": 3.68,
+      "offset": 736.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually really hard to come up with a",
+      "duration": 3.68,
+      "offset": 739.04,
+      "lang": "en"
+    },
+    {
+      "text": "good prompt, especially by yourself.",
+      "duration": 4.32,
+      "offset": 740.56,
+      "lang": "en"
+    },
+    {
+      "text": "People aren&#39;t normally very creative by",
+      "duration": 4.4,
+      "offset": 742.72,
+      "lang": "en"
+    },
+    {
+      "text": "themselves. They might ask Midjourney to",
+      "duration": 3.92,
+      "offset": 744.88,
+      "lang": "en"
+    },
+    {
+      "text": "do something like create an image of a",
+      "duration": 3.6,
+      "offset": 747.12,
+      "lang": "en"
+    },
+    {
+      "text": "dog and after some encouragement, they",
+      "duration": 3.76,
+      "offset": 748.8,
+      "lang": "en"
+    },
+    {
+      "text": "might put in terms like fluffy dog or",
+      "duration": 4.0,
+      "offset": 750.72,
+      "lang": "en"
+    },
+    {
+      "text": "big fluffy dog. But on the MidJourney",
+      "duration": 4.24,
+      "offset": 752.56,
+      "lang": "en"
+    },
+    {
+      "text": "Discord, you can literally ask 18",
+      "duration": 4.72,
+      "offset": 754.72,
+      "lang": "en"
+    },
+    {
+      "text": "million other people for ideas. So, you",
+      "duration": 4.48,
+      "offset": 756.8,
+      "lang": "en"
+    },
+    {
+      "text": "end up with cooler prompts and you&#39;re",
+      "duration": 3.92,
+      "offset": 759.44,
+      "lang": "en"
+    },
+    {
+      "text": "more likely to keep using Midjourney.",
+      "duration": 3.92,
+      "offset": 761.28,
+      "lang": "en"
+    },
+    {
+      "text": "The Discord also acts as a sounding",
+      "duration": 4.08,
+      "offset": 763.36,
+      "lang": "en"
+    },
+    {
+      "text": "board and decision-making forum. The",
+      "duration": 4.08,
+      "offset": 765.2,
+      "lang": "en"
+    },
+    {
+      "text": "moderators hold town halls where people",
+      "duration": 3.68,
+      "offset": 767.44,
+      "lang": "en"
+    },
+    {
+      "text": "can advocate for the inclusion or",
+      "duration": 4.4,
+      "offset": 769.28,
+      "lang": "en"
+    },
+    {
+      "text": "exclusion of certain words or phrases.",
+      "duration": 4.64,
+      "offset": 771.12,
+      "lang": "en"
+    },
+    {
+      "text": "There are tiers and some words can only",
+      "duration": 4.08,
+      "offset": 773.68,
+      "lang": "en"
+    },
+    {
+      "text": "be used for private images and it&#39;s",
+      "duration": 4.24,
+      "offset": 775.76,
+      "lang": "en"
+    },
+    {
+      "text": "where the rules are made and enforced.",
+      "duration": 4.08,
+      "offset": 777.76,
+      "lang": "en"
+    },
+    {
+      "text": "Users aren&#39;t allowed to create deep",
+      "duration": 4.4,
+      "offset": 780.0,
+      "lang": "en"
+    },
+    {
+      "text": "fakes. Not safe for work content is",
+      "duration": 4.32,
+      "offset": 781.84,
+      "lang": "en"
+    },
+    {
+      "text": "generally banned and you&#39;re not allowed",
+      "duration": 3.52,
+      "offset": 784.4,
+      "lang": "en"
+    },
+    {
+      "text": "to create images of controversial",
+      "duration": 4.24,
+      "offset": 786.16,
+      "lang": "en"
+    },
+    {
+      "text": "political figures like Xiinping. Number",
+      "duration": 5.04,
+      "offset": 787.92,
+      "lang": "en"
+    },
+    {
+      "text": "two, product market fit. Like lots of",
+      "duration": 4.72,
+      "offset": 790.4,
+      "lang": "en"
+    },
+    {
+      "text": "people in tech, David has a big bias for",
+      "duration": 4.0,
+      "offset": 792.96,
+      "lang": "en"
+    },
+    {
+      "text": "action. He has a really interesting",
+      "duration": 3.84,
+      "offset": 795.12,
+      "lang": "en"
+    },
+    {
+      "text": "quote about it. Many of my brilliant",
+      "duration": 3.68,
+      "offset": 796.96,
+      "lang": "en"
+    },
+    {
+      "text": "friends are paralyzed by their",
+      "duration": 4.72,
+      "offset": 798.96,
+      "lang": "en"
+    },
+    {
+      "text": "intellects thinking overwhelms doing.",
+      "duration": 5.04,
+      "offset": 800.64,
+      "lang": "en"
+    },
+    {
+      "text": "Many of my successful friends are less",
+      "duration": 4.56,
+      "offset": 803.68,
+      "lang": "en"
+    },
+    {
+      "text": "reflective but quick to action. They are",
+      "duration": 4.8,
+      "offset": 805.68,
+      "lang": "en"
+    },
+    {
+      "text": "always focused on moving forward, making",
+      "duration": 4.24,
+      "offset": 808.24,
+      "lang": "en"
+    },
+    {
+      "text": "as many probably correct actions as",
+      "duration": 4.88,
+      "offset": 810.48,
+      "lang": "en"
+    },
+    {
+      "text": "possible a winning strategy. This quote",
+      "duration": 4.32,
+      "offset": 812.48,
+      "lang": "en"
+    },
+    {
+      "text": "reminds me of his struggles about",
+      "duration": 3.68,
+      "offset": 815.36,
+      "lang": "en"
+    },
+    {
+      "text": "whether or not to stay in academia. He",
+      "duration": 3.92,
+      "offset": 816.8,
+      "lang": "en"
+    },
+    {
+      "text": "probably met lots of people like that,",
+      "duration": 3.68,
+      "offset": 819.04,
+      "lang": "en"
+    },
+    {
+      "text": "super smart people who needed things to",
+      "duration": 4.16,
+      "offset": 820.72,
+      "lang": "en"
+    },
+    {
+      "text": "be perfect. But David realized he was",
+      "duration": 3.76,
+      "offset": 822.72,
+      "lang": "en"
+    },
+    {
+      "text": "different. And that difference, that",
+      "duration": 3.68,
+      "offset": 824.88,
+      "lang": "en"
+    },
+    {
+      "text": "bias to action is really important in",
+      "duration": 4.88,
+      "offset": 826.48,
+      "lang": "en"
+    },
+    {
+      "text": "AI. Even by the standards of software,",
+      "duration": 5.36,
+      "offset": 828.56,
+      "lang": "en"
+    },
+    {
+      "text": "generative AI is moving insanely fast.",
+      "duration": 4.32,
+      "offset": 831.36,
+      "lang": "en"
+    },
+    {
+      "text": "There isn&#39;t time to hone something to",
+      "duration": 4.08,
+      "offset": 833.92,
+      "lang": "en"
+    },
+    {
+      "text": "perfection. Instead, David releases a",
+      "duration": 4.0,
+      "offset": 835.68,
+      "lang": "en"
+    },
+    {
+      "text": "minimum viable product, uses",
+      "duration": 4.0,
+      "offset": 838.0,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney&#39;s massive, superengaged user",
+      "duration": 4.12,
+      "offset": 839.68,
+      "lang": "en"
+    },
+    {
+      "text": "base to make it better, and keeps",
+      "duration": 3.92,
+      "offset": 842.0,
+      "lang": "en"
+    },
+    {
+      "text": "iterating. It&#39;s modern software",
+      "duration": 4.36,
+      "offset": 843.8,
+      "lang": "en"
+    },
+    {
+      "text": "development at top speed. And David is",
+      "duration": 3.76,
+      "offset": 845.92,
+      "lang": "en"
+    },
+    {
+      "text": "taking a very different approach from",
+      "duration": 4.24,
+      "offset": 848.16,
+      "lang": "en"
+    },
+    {
+      "text": "other AI companies. Lots of AI companies",
+      "duration": 4.56,
+      "offset": 849.68,
+      "lang": "en"
+    },
+    {
+      "text": "are fighting right now to become an",
+      "duration": 4.08,
+      "offset": 852.4,
+      "lang": "en"
+    },
+    {
+      "text": "infrastructure layer and don&#39;t want to",
+      "duration": 4.32,
+      "offset": 854.24,
+      "lang": "en"
+    },
+    {
+      "text": "focus on building a consumer product.",
+      "duration": 4.16,
+      "offset": 856.48,
+      "lang": "en"
+    },
+    {
+      "text": "They want to build a platform. You know",
+      "duration": 4.08,
+      "offset": 858.56,
+      "lang": "en"
+    },
+    {
+      "text": "what that reminds me of? It reminds me",
+      "duration": 4.08,
+      "offset": 860.64,
+      "lang": "en"
+    },
+    {
+      "text": "of when David, when he was still at Leap",
+      "duration": 4.32,
+      "offset": 862.64,
+      "lang": "en"
+    },
+    {
+      "text": "Motion, sent thousands of handtracking",
+      "duration": 3.92,
+      "offset": 864.72,
+      "lang": "en"
+    },
+    {
+      "text": "devices to developers so they could",
+      "duration": 3.92,
+      "offset": 866.96,
+      "lang": "en"
+    },
+    {
+      "text": "develop apps. And it reminds me of VR",
+      "duration": 3.76,
+      "offset": 868.64,
+      "lang": "en"
+    },
+    {
+      "text": "headsets that have really amazing",
+      "duration": 4.0,
+      "offset": 870.88,
+      "lang": "en"
+    },
+    {
+      "text": "hardware, but no killer app. Everyone",
+      "duration": 3.92,
+      "offset": 872.4,
+      "lang": "en"
+    },
+    {
+      "text": "wants to create a platform because",
+      "duration": 3.2,
+      "offset": 874.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s where the big monetization",
+      "duration": 3.52,
+      "offset": 876.32,
+      "lang": "en"
+    },
+    {
+      "text": "opportunities are. But if you don&#39;t",
+      "duration": 3.52,
+      "offset": 878.08,
+      "lang": "en"
+    },
+    {
+      "text": "create a great product, then the",
+      "duration": 3.84,
+      "offset": 879.84,
+      "lang": "en"
+    },
+    {
+      "text": "platform doesn&#39;t matter. Leap Motion",
+      "duration": 3.84,
+      "offset": 881.6,
+      "lang": "en"
+    },
+    {
+      "text": "never really took off because despite",
+      "duration": 3.76,
+      "offset": 883.68,
+      "lang": "en"
+    },
+    {
+      "text": "having cool tech, it didn&#39;t give enough",
+      "duration": 4.32,
+      "offset": 885.44,
+      "lang": "en"
+    },
+    {
+      "text": "people a reason to use it. Midjourney is",
+      "duration": 4.08,
+      "offset": 887.44,
+      "lang": "en"
+    },
+    {
+      "text": "different. Artists use it to improve",
+      "duration": 3.44,
+      "offset": 889.76,
+      "lang": "en"
+    },
+    {
+      "text": "their practice, but mostly tons of",
+      "duration": 3.6,
+      "offset": 891.52,
+      "lang": "en"
+    },
+    {
+      "text": "regular people use it because they&#39;re",
+      "duration": 3.84,
+      "offset": 893.2,
+      "lang": "en"
+    },
+    {
+      "text": "curious to see what it can do. If you",
+      "duration": 3.52,
+      "offset": 895.12,
+      "lang": "en"
+    },
+    {
+      "text": "make your available market everyone",
+      "duration": 3.2,
+      "offset": 897.04,
+      "lang": "en"
+    },
+    {
+      "text": "online and then make your product",
+      "duration": 3.92,
+      "offset": 898.64,
+      "lang": "en"
+    },
+    {
+      "text": "incredibly easy and fun to use, then",
+      "duration": 4.44,
+      "offset": 900.24,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to get great product market",
+      "duration": 5.68,
+      "offset": 902.56,
+      "lang": "en"
+    },
+    {
+      "text": "fit. Number three, focusing on need.",
+      "duration": 5.64,
+      "offset": 904.68,
+      "lang": "en"
+    },
+    {
+      "text": "Right now, the era of low interest rates",
+      "duration": 4.4,
+      "offset": 908.24,
+      "lang": "en"
+    },
+    {
+      "text": "and easy VC money feels like a long time",
+      "duration": 4.88,
+      "offset": 910.32,
+      "lang": "en"
+    },
+    {
+      "text": "ago. A company that makes hardware based",
+      "duration": 4.96,
+      "offset": 912.64,
+      "lang": "en"
+    },
+    {
+      "text": "on speculative technology like Leap",
+      "duration": 4.72,
+      "offset": 915.2,
+      "lang": "en"
+    },
+    {
+      "text": "Motion might not get off the ground. It",
+      "duration": 4.88,
+      "offset": 917.6,
+      "lang": "en"
+    },
+    {
+      "text": "probably wouldn&#39;t raise $100 million.",
+      "duration": 4.24,
+      "offset": 919.92,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not saying David could see where",
+      "duration": 3.36,
+      "offset": 922.48,
+      "lang": "en"
+    },
+    {
+      "text": "interest rates were going when he",
+      "duration": 3.6,
+      "offset": 924.16,
+      "lang": "en"
+    },
+    {
+      "text": "started MidJourney, but he did make a",
+      "duration": 3.84,
+      "offset": 925.84,
+      "lang": "en"
+    },
+    {
+      "text": "deliberate choice to totally bootstrap",
+      "duration": 4.24,
+      "offset": 927.76,
+      "lang": "en"
+    },
+    {
+      "text": "the company. David was a known quantity",
+      "duration": 4.32,
+      "offset": 929.68,
+      "lang": "en"
+    },
+    {
+      "text": "in Silicon Valley. He probably could",
+      "duration": 3.44,
+      "offset": 932.0,
+      "lang": "en"
+    },
+    {
+      "text": "have gone out and raised lots of money",
+      "duration": 3.44,
+      "offset": 934.0,
+      "lang": "en"
+    },
+    {
+      "text": "for anything. Instead, he did something",
+      "duration": 4.32,
+      "offset": 935.44,
+      "lang": "en"
+    },
+    {
+      "text": "way better. He consulted his years of",
+      "duration": 4.32,
+      "offset": 937.44,
+      "lang": "en"
+    },
+    {
+      "text": "experience and asked himself, &quot;What is",
+      "duration": 3.76,
+      "offset": 939.76,
+      "lang": "en"
+    },
+    {
+      "text": "the scarce resource I need more of to",
+      "duration": 3.84,
+      "offset": 941.76,
+      "lang": "en"
+    },
+    {
+      "text": "truly scale?&quot; The answer wasn&#39;t actually",
+      "duration": 4.16,
+      "offset": 943.52,
+      "lang": "en"
+    },
+    {
+      "text": "money. It was compute. So, when",
+      "duration": 3.76,
+      "offset": 945.6,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney was just starting out, he",
+      "duration": 4.08,
+      "offset": 947.68,
+      "lang": "en"
+    },
+    {
+      "text": "leveraged his network. He did stuff like",
+      "duration": 4.64,
+      "offset": 949.36,
+      "lang": "en"
+    },
+    {
+      "text": "email cloud vendors and asked to lock",
+      "duration": 4.72,
+      "offset": 951.76,
+      "lang": "en"
+    },
+    {
+      "text": "down access to GPUs to scale his",
+      "duration": 4.8,
+      "offset": 954.0,
+      "lang": "en"
+    },
+    {
+      "text": "service. It&#39;s not just about capacity",
+      "duration": 4.4,
+      "offset": 956.48,
+      "lang": "en"
+    },
+    {
+      "text": "either. David remembered that in the",
+      "duration": 4.0,
+      "offset": 958.8,
+      "lang": "en"
+    },
+    {
+      "text": "early days of the Discord, some people",
+      "duration": 3.92,
+      "offset": 960.88,
+      "lang": "en"
+    },
+    {
+      "text": "were getting frustrated with how long it",
+      "duration": 3.52,
+      "offset": 962.8,
+      "lang": "en"
+    },
+    {
+      "text": "would take to generate high-quality",
+      "duration": 4.16,
+      "offset": 964.8,
+      "lang": "en"
+    },
+    {
+      "text": "images. So today, Midjourney actively",
+      "duration": 5.36,
+      "offset": 966.32,
+      "lang": "en"
+    },
+    {
+      "text": "searches for GPUs in parts of the world",
+      "duration": 4.56,
+      "offset": 968.96,
+      "lang": "en"
+    },
+    {
+      "text": "where it&#39;s night in order to accelerate",
+      "duration": 4.48,
+      "offset": 971.68,
+      "lang": "en"
+    },
+    {
+      "text": "the process. That dynamic load balancing",
+      "duration": 4.48,
+      "offset": 973.52,
+      "lang": "en"
+    },
+    {
+      "text": "is what&#39;s enabled it to consistently",
+      "duration": 4.72,
+      "offset": 976.16,
+      "lang": "en"
+    },
+    {
+      "text": "keep rendering times pretty low. David&#39;s",
+      "duration": 4.0,
+      "offset": 978.0,
+      "lang": "en"
+    },
+    {
+      "text": "experience shows that you don&#39;t",
+      "duration": 3.12,
+      "offset": 980.88,
+      "lang": "en"
+    },
+    {
+      "text": "necessarily need to wait until interest",
+      "duration": 4.08,
+      "offset": 982.0,
+      "lang": "en"
+    },
+    {
+      "text": "rates go down again to start a company.",
+      "duration": 3.76,
+      "offset": 984.0,
+      "lang": "en"
+    },
+    {
+      "text": "You just need to identify what you need",
+      "duration": 3.84,
+      "offset": 986.08,
+      "lang": "en"
+    },
+    {
+      "text": "most and then focus on obtaining as much",
+      "duration": 3.4,
+      "offset": 987.76,
+      "lang": "en"
+    },
+    {
+      "text": "of it as you",
+      "duration": 4.64,
+      "offset": 989.92,
+      "lang": "en"
+    },
+    {
+      "text": "can. Number four, the value of learning.",
+      "duration": 5.08,
+      "offset": 991.16,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney gets better by learning from",
+      "duration": 4.8,
+      "offset": 994.56,
+      "lang": "en"
+    },
+    {
+      "text": "its past experiences. So did David. He",
+      "duration": 4.72,
+      "offset": 996.24,
+      "lang": "en"
+    },
+    {
+      "text": "spent almost a decade running Leap",
+      "duration": 3.6,
+      "offset": 999.36,
+      "lang": "en"
+    },
+    {
+      "text": "Motion and before that he spent years in",
+      "duration": 4.24,
+      "offset": 1000.96,
+      "lang": "en"
+    },
+    {
+      "text": "academia. He&#39;s been an active member of",
+      "duration": 4.48,
+      "offset": 1002.96,
+      "lang": "en"
+    },
+    {
+      "text": "the AI community absorbing the technical",
+      "duration": 4.8,
+      "offset": 1005.2,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge and the philosophical debates.",
+      "duration": 4.32,
+      "offset": 1007.44,
+      "lang": "en"
+    },
+    {
+      "text": "All of those experiences made him a",
+      "duration": 4.72,
+      "offset": 1010.0,
+      "lang": "en"
+    },
+    {
+      "text": "better founder, CEO, and engineer. And",
+      "duration": 4.8,
+      "offset": 1011.76,
+      "lang": "en"
+    },
+    {
+      "text": "just as importantly, David isn&#39;t done",
+      "duration": 4.4,
+      "offset": 1014.72,
+      "lang": "en"
+    },
+    {
+      "text": "learning. He holds 4-hour long sessions",
+      "duration": 4.8,
+      "offset": 1016.56,
+      "lang": "en"
+    },
+    {
+      "text": "with thousands of people on Discord to",
+      "duration": 4.48,
+      "offset": 1019.12,
+      "lang": "en"
+    },
+    {
+      "text": "answer questions and see how everyone&#39;s",
+      "duration": 4.24,
+      "offset": 1021.36,
+      "lang": "en"
+    },
+    {
+      "text": "doing. He&#39;s constantly tinkering with",
+      "duration": 4.16,
+      "offset": 1023.6,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney itself and looking for ways",
+      "duration": 4.24,
+      "offset": 1025.6,
+      "lang": "en"
+    },
+    {
+      "text": "to make it a better product. And he&#39;s",
+      "duration": 3.6,
+      "offset": 1027.76,
+      "lang": "en"
+    },
+    {
+      "text": "still constantly thinking about the",
+      "duration": 4.0,
+      "offset": 1029.84,
+      "lang": "en"
+    },
+    {
+      "text": "place of AI in our society and how it",
+      "duration": 4.72,
+      "offset": 1031.36,
+      "lang": "en"
+    },
+    {
+      "text": "can contribute to making us better. If",
+      "duration": 4.24,
+      "offset": 1033.84,
+      "lang": "en"
+    },
+    {
+      "text": "you enjoyed this video, don&#39;t forget to",
+      "duration": 4.08,
+      "offset": 1036.08,
+      "lang": "en"
+    },
+    {
+      "text": "hit that like button, subscribe to the",
+      "duration": 3.76,
+      "offset": 1038.08,
+      "lang": "en"
+    },
+    {
+      "text": "channel, and click the bell so you don&#39;t",
+      "duration": 3.76,
+      "offset": 1040.16,
+      "lang": "en"
+    },
+    {
+      "text": "miss out on more incredible stories like",
+      "duration": 6.52,
+      "offset": 1041.84,
+      "lang": "en"
+    },
+    {
+      "text": "this one. Thanks for watching.",
+      "duration": 4.44,
+      "offset": 1043.92,
+      "lang": "en"
+    }
+  ]
+}

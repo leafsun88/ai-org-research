@@ -1,0 +1,62 @@
+{
+  "ticker": "CURSOR",
+  "generated_at": "2026-04-20T17:50:03",
+  "queries": [
+    "Michael Truell Cursor interview",
+    "Cursor CEO Michael Truell AI coding interview",
+    "Anysphere Cursor founder interview",
+    "Cursor a16z Michael Truell",
+    "Cursor Y Combinator Michael Truell",
+    "Cursor Lenny podcast Michael Truell",
+    "Cursor Composer 2 technical report",
+    "Cursor AI coding enterprise developers"
+  ],
+  "total_records": 7,
+  "success_records": 7,
+  "failure_records": 0,
+  "total_chars": 827577,
+  "statuses": [
+    {
+      "id": "UOcWDxxk_eo",
+      "title": "Cursor’s $300M ARR Surge: Why Engineers Are Hooked | Michael Truell | Lenny's Podcast - EP.15",
+      "chars": 170378,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_Cursors-300M-ARR-Surge-Why-Engineers-Are-Hooked--M.md"
+    },
+    {
+      "id": "oFfVt3S51T4",
+      "title": "Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447",
+      "chars": 137831,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_Cursor-Team-Future-of-Programming-with-AI--Lex-Fri.md"
+    },
+    {
+      "id": "8TpakBfsmcQ",
+      "title": "From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products",
+      "chars": 124947,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_From-ChatGPT-to-Instagram-to-Uber-The-quiet-archit.md"
+    },
+    {
+      "id": "eKuFqQKYRrA",
+      "title": "AI prompt engineering in 2025: What works and what doesn’t | Sander Schulhoff",
+      "chars": 94044,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_AI-prompt-engineering-in-2025-What-works-and-what.md"
+    },
+    {
+      "id": "c_w0LaFahxk",
+      "title": "From managing people to managing AI: The leadership skills everyone needs now | Julie Zhuo",
+      "chars": 105125,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_From-managing-people-to-managing-AI-The-leadership.md"
+    },
+    {
+      "id": "crMrVozp_h8",
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code. | Dan Shipper (Every)",
+      "chars": 103405,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_The-AI-native-startup-5-products-7-figure-revenue.md"
+    },
+    {
+      "id": "L9KvV_UOs3A",
+      "title": "Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo",
+      "chars": 91847,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/youtube/2026-04-20_Solo-founder-80M-exit-6-months-The-Base44-bootstra.md"
+    }
+  ]
+}

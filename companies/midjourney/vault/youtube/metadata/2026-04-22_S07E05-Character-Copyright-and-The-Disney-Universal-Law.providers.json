@@ -1,0 +1,18 @@
+{
+  "video_id": "49YFlJuE274",
+  "title": "S07E05 Character Copyright and The Disney + Universal Lawsuit vs. Midjourney",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:31:00"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:02",
+      "chars": 57767
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:02"
+}

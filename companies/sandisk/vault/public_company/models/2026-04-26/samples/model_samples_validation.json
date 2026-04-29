@@ -1,0 +1,79 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "as_of": "2026-04-26",
+  "status": "pass",
+  "samples": [
+    {
+      "name": "sndk_compact_dcf_comps",
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_compact_dcf_comps.xlsx"
+    },
+    {
+      "name": "sndk_scenario_architect",
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_scenario_architect.xlsx"
+    },
+    {
+      "name": "sndk_comps_focus",
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_comps_focus.xlsx"
+    },
+    {
+      "name": "sndk_challenger_pack",
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_challenger_pack.xlsx"
+    }
+  ],
+  "validations": [
+    {
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_compact_dcf_comps.xlsx",
+      "status": "pass",
+      "errors": [],
+      "visible_numeric_cells": 93,
+      "sheets": [
+        "Summary",
+        "Historical",
+        "DCF",
+        "Comps",
+        "Sources"
+      ]
+    },
+    {
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_scenario_architect.xlsx",
+      "status": "pass",
+      "errors": [],
+      "visible_numeric_cells": 157,
+      "sheets": [
+        "Dashboard",
+        "Assumptions",
+        "Historical",
+        "Forecast",
+        "DCF",
+        "Sensitivity",
+        "Checks",
+        "Sources"
+      ]
+    },
+    {
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_comps_focus.xlsx",
+      "status": "pass",
+      "errors": [],
+      "visible_numeric_cells": 38,
+      "sheets": [
+        "Comps Dashboard",
+        "Peer Table",
+        "Implied Value",
+        "Sources"
+      ]
+    },
+    {
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/samples/sndk_challenger_pack.xlsx",
+      "status": "pass",
+      "errors": [],
+      "visible_numeric_cells": 5,
+      "sheets": [
+        "Challenger",
+        "Sample Comparison",
+        "Sources"
+      ]
+    }
+  ],
+  "updated_at": "2026-04-26T09:39:14"
+}

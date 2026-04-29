@@ -1,0 +1,567 @@
+{
+  "date": "2026-04-03",
+  "company": "Duolingo",
+  "old_friend": "Netflix",
+  "source_hash": "f7a2b8c1d3e5f9024a6b8c1d3e5f902a",
+  "auto_applied": [
+    {
+      "id": "sig_duol_001",
+      "signal": "CEO战略认知转向：Luis von Ahn公开宣布2026年优先增长而非利润，标志管理层认知模式从效率导向切换为规模导向",
+      "event_date": "2026-02-26",
+      "stale": false,
+      "confidence": 100,
+      "significance": "HIGH",
+      "dimensions": [
+        "D1",
+        "D7"
+      ],
+      "source": "Duolingo Earnings / Investor Relations",
+      "source_classification": "S5",
+      "key_question": "CEO认知转向是深思熟虑还是被增长压力倒逼？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "CEO公开宣布战略分叉，bookings指引降至10-12%",
+            "管理层认知从利润优先切换为增长优先",
+            "目标2028年1亿DAU（当前50M+）"
+          ],
+          "missing": [
+            "具体增长投资领域细节（国际化vs品类扩张的分配）"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "与Netflix 2011年拆分DVD/流媒体导致股价跌75%高度相似",
+            "CEO认知主动切换而非被动应对"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": [
+            "市场对战略转向反应剧烈（-80%）",
+            "分析师集体从Buy降至Hold"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D1": 0.3,
+        "D7": 0.2
+      },
+      "delta": {
+        "D1": 0.3,
+        "D7": 0.2
+      }
+    },
+    {
+      "id": "sig_duol_002",
+      "signal": "AI-first组织重构：AI使用纳入绩效考核，只有证明无法自动化才批准新增编制",
+      "event_date": "2025-04-25",
+      "stale": false,
+      "confidence": 76.5,
+      "significance": "HIGH",
+      "dimensions": [
+        "D5",
+        "D3"
+      ],
+      "source": "LinkedIn (CEO Memo)",
+      "source_classification": "S3",
+      "key_question": "AI-first考核实际执行程度？是否影响创新文化？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "CEO备忘录明确宣布AI纳入绩效",
+            "F-r-A-I-days每周五AI实验制度化",
+            "新增编制需证明无法自动化",
+            "80%工程师日常使用AI工具"
+          ],
+          "missing": [
+            "具体KPI设定和量化标准"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Netflix数据驱动文化从内容扩展到组织"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "员工反弹导致CEO三次公开澄清",
+            "Glassdoor薪酬竞争力仅FAANG 80%"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D5": 0.4,
+        "D3": 0.3
+      },
+      "delta": {
+        "D5": 0.4,
+        "D3": 0.3
+      }
+    }
+  ],
+  "proposals": [
+    {
+      "id": "sig_duol_003",
+      "signal": "CFO有序内部交接：Matt Skaruppa(IPO功臣)离任，Gillian Munson(董事会7年)接任——从增长型CFO转向运营型CFO",
+      "event_date": "2026-02-23",
+      "stale": false,
+      "confidence": 85,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D2"
+      ],
+      "source": "SEC Filing / IR",
+      "source_classification": "S5",
+      "key_question": "CFO换人是否反映管理层对未来阶段（盈利优化vs增长加速）的判断？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "Munson在董事会7年，审计委员会主席，对业务极熟",
+            "前任Skaruppa Goldman+KKR背景完成IPO使命",
+            "有序交接非危机驱动",
+            "离职后股价跌8.5%"
+          ],
+          "missing": [
+            "Skaruppa离职真实原因（公开信息有限）"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "典型的IPO型CFO到运营型CFO的阶段交替"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": []
+        }
+      },
+      "validation_trigger": "2026 Q1财报看新CFO的财务管理表现",
+      "dims": {
+        "D2": 0.1
+      },
+      "delta": {
+        "D2": 0.1
+      }
+    },
+    {
+      "id": "sig_duol_004",
+      "signal": "超90%员工留存率+极高招聘标准+零容忍toxic：组织文化凝聚力强但存在'小圈子'风险",
+      "event_date": "2026-04-02",
+      "stale": false,
+      "confidence": 70,
+      "significance": "HIGH",
+      "dimensions": [
+        "D6",
+        "D1"
+      ],
+      "source": "Duolingo S-1 / Glassdoor / The Burnouts Podcast",
+      "source_classification": "S5",
+      "key_question": "AI时代这种人才密度优势能否持续？小圈子文化是否抑制多样性？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "2020年仅4人离职(留存率>98%)",
+            "出租车司机测试否决CFO候选人",
+            "工程面试四阶段",
+            "Glassdoor 4.1/5，73%推荐"
+          ],
+          "missing": [
+            "2025-2026年度留存率数据",
+            "AI-first后的Glassdoor评分变化"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "Netflix式人才密度哲学",
+            "但Glassdoor负面反馈提及'小圈子'和'薪酬仅FAANG 80%'"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "部分员工反馈小圈子文化",
+            "绩效校准不同团队间不一致"
+          ]
+        }
+      },
+      "validation_trigger": "年度员工留存率报告 + Glassdoor评分追踪",
+      "dims": {
+        "D6": 0.3,
+        "D1": 0.2
+      },
+      "delta": {
+        "D6": 0.3,
+        "D1": 0.2
+      }
+    },
+    {
+      "id": "sig_duol_005",
+      "signal": "Head of AI认知科学PhD背景：Klinton Bicknell从认知科学角度理解语言学习，是EdTech AI差异化的关键",
+      "event_date": "2022-09-01",
+      "stale": false,
+      "confidence": 63.75,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D1",
+        "D6"
+      ],
+      "source": "LinkedIn / 组织扫描",
+      "source_classification": "S4",
+      "key_question": "认知科学背景的AI leader能否在LLM时代保持差异化？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "UC San Diego语言学+认知科学PhD",
+            "从Research Scientist升至Head of AI（5年内部晋升）",
+            "研究方向是人类语言处理的计算模型"
+          ],
+          "missing": [
+            "Bicknell团队的具体技术产出和论文"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "科学家型AI leader在消费产品中的差异化优势"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "非传统ML工程师背景，在纯工程执行力上是否有gap"
+          ]
+        }
+      },
+      "validation_trigger": "Birdbrain/Teacher Model的技术进展和论文发表",
+      "dims": {
+        "D1": 0.2,
+        "D6": 0.2
+      },
+      "delta": {
+        "D1": 0.2,
+        "D6": 0.2
+      }
+    },
+    {
+      "id": "sig_duol_006",
+      "signal": "治理风险极高(10/10)但创始人利益深度绑定：双重股权+CEO仅$767K现金薪酬",
+      "event_date": "2026-04-02",
+      "stale": false,
+      "confidence": 85,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D2",
+        "D3"
+      ],
+      "source": "ISS / Yahoo Finance / SEC Filing",
+      "source_classification": "S5",
+      "key_question": "双重股权结构在创始人主导正确战略时是优势，犯错时是灾难——Von Ahn决策准确率如何？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "治理综合风险10/10，股东权利10/10",
+            "CEO薪酬仅$767K（vs 同级别公司百万级）",
+            "创始人控制绝大多数投票权"
+          ],
+          "missing": []
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Google/Meta等创始人控制结构"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": [
+            "股东在战略分歧时完全没有纠错能力"
+          ]
+        }
+      },
+      "validation_trigger": "持续监控治理评分变化",
+      "dims": {
+        "D2": -0.2,
+        "D3": -0.1
+      },
+      "delta": {
+        "D2": -0.2,
+        "D3": -0.1
+      }
+    }
+  ],
+  "watch": [
+    {
+      "id": "sig_duol_watch_001",
+      "signal": "董事Jim Shelton以$99.76主动买入5000股DUOL",
+      "event_date": "2026-03-03",
+      "stale": false,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D3"
+      ],
+      "note": "教育行业veteran的真金白银信心表达，是近期唯一的公开市场主动买入（非期权行权）",
+      "dims": {
+        "D3": 0.1
+      },
+      "delta": {
+        "D3": 0.1
+      }
+    },
+    {
+      "id": "sig_duol_watch_002",
+      "signal": "Baillie Gifford逆势加仓+72%，成为第一大机构股东(12.15%)",
+      "event_date": "2026-04-02",
+      "stale": false,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D2"
+      ],
+      "note": "长线机构逆势加仓是价值信号，但同期T. Rowe Price(-39.3%)和Dragoneer(-26.6%)大幅减持形成分歧",
+      "dims": {
+        "D2": 0.1
+      },
+      "delta": {
+        "D2": 0.1
+      }
+    },
+    {
+      "id": "sig_duol_watch_003",
+      "signal": "新增两名独立董事Mario Schlosser(Oscar CTO)和Bonnie Ross(ex-Halo)暗示战略方向",
+      "event_date": "2024-12-01",
+      "stale": false,
+      "significance": "LOW",
+      "dimensions": [
+        "D2"
+      ],
+      "note": "AI/医疗+游戏背景的董事组合暗示AI个性化和游戏化扩张的战略重点",
+      "dims": {
+        "D2": 0.1
+      },
+      "delta": {
+        "D2": 0.1
+      }
+    }
+  ],
+  "discard": [
+    {
+      "signal": "股价跌至$96.19（-80%），P/E压缩至11.2x",
+      "reason": "股价/估值指标，非组织信号——已记入strategy-biz.json"
+    },
+    {
+      "signal": "Q4 2025营收$283M(+35%)，毛利率回升至72.8%",
+      "reason": "财务指标，非组织信号——已记入strategy-biz.json"
+    },
+    {
+      "signal": "做空比例升至21%",
+      "reason": "市场技术指标，非组织信号"
+    }
+  ],
+  "key_questions": [
+    {
+      "id": "kq_duol_001",
+      "question": "Q1 2026 DAU增长率：仍维持25%+（增长投入有效）还是降至<20%（需求疲软）？",
+      "resolves_by": "2026-04-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：分析师预期Q1营收$289M(+25.1%)，EPS $1.72(+36.5%)，暗示DAU增长可能维持在25%+区间。但2026全年bookings指引仅10-12%，远低于历史38%+增速。关键矛盾：管理层选择增长优先但市场定价了失败。新数据点：Q4 2025营收$283M(+35% YoY)超预期，毛利率回升至72.8%说明AI成本正在优化。Baillie Gifford逆势加仓+72%暗示长线资金看好增长前景。估值已至极端（P/E 11.2x），任何positive surprise将触发显著重估。",
+      "sources": [
+        "Q4 2025 Earnings",
+        "FY2026 Guidance",
+        "分析师一致预期"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Q1 DAU绝对值",
+          "frequency": "季",
+          "green_threshold": ">55M",
+          "red_threshold": "<50M",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "Bookings增速vs DAU增速",
+          "frequency": "季",
+          "green_threshold": "差距<15pp",
+          "red_threshold": "差距>25pp",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "基于Q3 2025 DAU同比+36%和Q4产品迭代节奏，预期Q1维持25-30%区间",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-03",
+          "source": "ai_update",
+          "content": "[DUOL 2数据更新] Q4营收+35%超预期，分析师Q1预期$289M(+25.1%)。毛利率回升至72.8%。但分析师集体降至Hold，隐含上行仅+9.9%。估值P/E 11.2x已至极端水平。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "OPEN",
+      "blocking": true
+    },
+    {
+      "id": "kq_duol_002",
+      "question": "AI课程质量与人工课程的差距：completion rate和NPS是否在±5%以内？",
+      "resolves_by": "2026-05-30",
+      "author": "ai",
+      "evolving_answer": "当前评估维持不变。新数据未提供AI课程质量的定量对比，但Q4毛利率回升（71.1%→72.8%）暗示AI推理成本正在优化——可能通过更高效的模型部署或自有模型替代GPT-4 API。Explain My Answer 65%采用率和+15%完成率提升是正面信号。缺失：AI课程 vs 人工课程的直接NPS对比数据。",
+      "sources": [
+        "CEO AI-first memo",
+        "Q4 2025财报"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "NPS变化趋势",
+          "frequency": "季",
+          "green_threshold": "持平或↑",
+          "red_threshold": "连续2季↓",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "毛利率趋势(AI成本proxy)",
+          "frequency": "季",
+          "green_threshold": "≥72%",
+          "red_threshold": "<70%",
+          "current_status": "72.8%(Q4 2025)——绿灯"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "AI课程质量可接受但有短板，用户报告幻觉和语境缺失",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-03",
+          "source": "ai_update",
+          "content": "[DUOL 2数据更新] Q4毛利率回升至72.8%(vs Q1 71.1%)，暗示AI推理成本优化中。无新的质量对比数据披露。",
+          "impact": "supportive"
+        }
+      ],
+      "verdict": "OPEN",
+      "blocking": true
+    },
+    {
+      "id": "kq_duol_003",
+      "question": "新学科（Math/Music/Chess）的Day-30留存率能否达到语言课程的60%+？",
+      "resolves_by": "2026-05-15",
+      "author": "ai",
+      "evolving_answer": "维持前次评估。新数据未提供分品类留存数据。Chess成为史上增长最快科目的定性描述维持不变。",
+      "sources": [
+        "Chess launch data",
+        "Q2 2025 CEO comments"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Chess/Math 30日留存率",
+          "frequency": "月",
+          "green_threshold": ">40%",
+          "red_threshold": "<25%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "早期信号积极但数据不足",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "OPEN",
+      "blocking": false
+    },
+    {
+      "id": "kq_duol_004",
+      "question": "AI-first转型对人才密度的影响：顶尖工程师是否因'AI替代论'而流失？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "新数据更新：组织扫描报告确认管理层平均任期5.5年，核心创始团队(CEO 15年, CTO 15年, CDO 12年, CEO 10年+)极度稳定。CFO换人是有序交接而非流失。新增两名董事(Schlosser/Ross)信号积极。Glassdoor 4.1/5, 73%推荐维持可接受水平。但薪酬仅FAANG 80%在AI人才争夺中是结构性劣势。",
+      "sources": [
+        "组织扫描报告 2026-04-02",
+        "Glassdoor",
+        "SEC Proxy Filing"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Glassdoor评分趋势",
+          "frequency": "季",
+          "green_threshold": "≥4.0且稳定",
+          "red_threshold": "<3.8或连续↓",
+          "current_status": "4.1/5——绿灯"
+        },
+        {
+          "metric": "C-suite稳定性",
+          "frequency": "事件驱动",
+          "green_threshold": "核心团队完整",
+          "red_threshold": "2+人离职",
+          "current_status": "CFO换人(有序)——黄灯"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "短期可控但中长期存在结构性张力",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-03",
+          "source": "ai_update",
+          "content": "[DUOL 2数据更新] 组织扫描确认核心团队极度稳定。CFO有序交接。Glassdoor 4.1/5维持。新增两名董事信号积极。",
+          "impact": "supportive"
+        }
+      ],
+      "verdict": "OPEN",
+      "blocking": false
+    },
+    {
+      "id": "kq_duol_005",
+      "question": "CFO交接是否顺利？Gillian Munson能否从运营效率层面证明自己？",
+      "resolves_by": "2026-08-31",
+      "author": "ai",
+      "evolving_answer": "新增KQ。Munson从董事会内部接任，7年熟悉业务，前Vimeo CFO(订阅媒体)经验直接相关。但前任Skaruppa是IPO功臣(Goldman+KKR)，交接期市场反应负面（-8.5%）。关键观察：Q1财报将是Munson首份完整财报，投资者将评估其对增长/利润平衡的把控。",
+      "sources": [
+        "SEC Filing",
+        "组织扫描报告"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Q1/Q2财报质量",
+          "frequency": "季",
+          "green_threshold": "beat预期",
+          "red_threshold": "miss预期+下调指引",
+          "current_status": "待Q1财报"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-03",
+          "source": "ai_init",
+          "content": "[新增] 从DUOL 2数据中识别的新KQ。Munson 2月23日正式上任，Q1将是首份完整季度财报。有序内部交接，非危机驱动。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "OPEN",
+      "blocking": false
+    }
+  ],
+  "next_catalyst": "2026-04-30 Q1 2026财报（DAU增长率、新CFO首秀、AI效率指标、品类数据）"
+}

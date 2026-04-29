@@ -1,0 +1,15 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "generated_at": "2026-04-21T22:42:44",
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/substack/metadata/_manual_substack_query_map.md",
+  "candidate_count": 5,
+  "statuses": [
+    {
+      "provider": "manual_url_file",
+      "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt",
+      "status": "success",
+      "returned": 5
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Broadcom",
+  "ticker": "AVGO",
+  "exchange": "NASDAQ",
+  "market_cap": "$1.6T",
+  "sector": "半导体/定制ASIC",
+  "category": "NVIDIA类",
+  "note": "Google TPU共同设计",
+  "created": "2026-04-06"
+}

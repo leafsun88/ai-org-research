@@ -1,0 +1,2618 @@
+{
+  "updated_at": "2026-04-26T09:36:29",
+  "candidate_count": 93,
+  "reviews": [
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/sartrus_modelling-team.md",
+      "name": "modelling-team",
+      "description": "Build Excel financial models using a three-agent team (Architect, Coder, Challenger). Use when the user asks to build a financial model, Excel model, DCF, LBO, P&L, valuation, projections, forecast, or any quantitative spreadsheet with assumptions and scenarios.",
+      "relevance_score": 46,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "irr",
+        "lbo",
+        "npv",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 22372
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/fall-development-rob_financial-analyst-core.md",
+      "name": "Financial Analyst - Core",
+      "description": "Transforms Claude into a CFA-level financial analyst for valuation, credit analysis, deal modelling, portfolio construction, fund structuring, three-statement modelling, Monte Carlo simulation, scenario analysis, earnings quality assessment, dividend policy analysis, and financial forensics. Use when any valuation (DCF, WACC, comps), credit assessment, PE/LBO modelling, M&A accretion/dilution, fund economics, GP/LP splits, GAAP/IFRS reconciliation, withholding tax, NAV calculation, UBTI screening, financial modelling, Monte Carlo DCF, portfolio analytics, scenario/sensitivity analysis, earnings quality screening (Beneish, Piotroski, accrual/revenue quality), dividend valuation (DDM, buyback, payout sustainability, TSR), or financial forensics (Benford's Law, DuPont, Z-scores, peer benchmarking, red flags) is required. Pairs with corp-finance-mcp tools for computation.",
+      "relevance_score": 44,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "comps",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "irr",
+        "lbo",
+        "npv",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three-statement",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 21649
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/LerianStudio_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "|",
+      "relevance_score": 44,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "forecast",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three-statement",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 8284
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/majiayu000_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "|",
+      "relevance_score": 44,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "forecast",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three-statement",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 8300
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/intent-solutions-io_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "Build discounted cash flow (DCF) valuation models in Excel with free cash flow projections, WACC calculations, and sensitivity analysis for investment banking and corporate finance teams",
+      "relevance_score": 40,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "excel",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 10580
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/AbsolutelySkilled_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": ">",
+      "relevance_score": 40,
+      "risk_score": 1,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "comps",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "three statement",
+        "three-statement",
+        "wacc"
+      ],
+      "risk_hits": [
+        "npx "
+      ],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "contains executable/install instructions"
+      ],
+      "size_bytes": 14624
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Kaakati_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": ">",
+      "relevance_score": 39,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "forecast",
+        "income statement",
+        "irr",
+        "lbo",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three statement",
+        "three-statement",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2527
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/gabrielmoreira_officecli-financial-model.md",
+      "name": "officecli-financial-model",
+      "description": "Use this skill when the user wants to build a financial model,",
+      "relevance_score": 39,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "formula",
+        "income statement",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 28732
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/iOfficeAI_officecli-financial-model.md",
+      "name": "officecli-financial-model",
+      "description": "Use this skill when the user wants to build a financial model,",
+      "relevance_score": 39,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "formula",
+        "income statement",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 13620
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/lladdy_creating-financial-models.md",
+      "name": "Creating Financial Models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5106
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Gabriel-0110_anthropics-creating-financial-models.md",
+      "name": "anthropics-creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5122
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Microck_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5107
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/VeVarunSharma_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5123
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/aisa-group_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5109
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/anthropics_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5107
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ronnycoding_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5123
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ynulihao_creating-financial-models.md",
+      "name": "creating-financial-models",
+      "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 5107
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/johnzfitch_creating-financial-models.md",
+      "name": "johnzfitch_creating-financial-models",
+      "description": "",
+      "relevance_score": 38,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 4975
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/sam-pich_dcf-model.md",
+      "name": "dcf-model",
+      "description": "Generate professional Discounted Cash Flow (DCF) valuation models in Excel. Use when asked to create a DCF model, company valuation, intrinsic value analysis, or financial model for a public company. Integrates with SEC EDGAR for historical financial data and produces multi-tab Excel workbooks with Unlevered FCF (WACC) or Levered FCF (Equity) analysis, sensitivity tables, and scenario analysis.",
+      "relevance_score": 37,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "formula",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 8231
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Ashish-Soni08_equity-research-analyst.md",
+      "name": "equity-research-analyst",
+      "description": "Automate the full equity research analyst workflow for any publicly traded company. Produces an investment memo (slides), financial model (Excel), and research report (Markdown + PDF) with a Buy/Hold/Sell recommendation. Use for equity research, stock analysis, investment memos, due diligence, valuation modeling, or comparable company analysis.",
+      "relevance_score": 37,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "comps",
+        "dcf",
+        "excel",
+        "formula",
+        "income statement",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 6052
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/JadeGate_lbo-model.md",
+      "name": "lbo-model",
+      "description": "This skill should be used when completing LBO (Leveraged Buyout) model templates in Excel for private equity transactions, deal materials, or investment committee presentations. The skill fills in formulas, validates calculations, and ensures professional formatting standards that adapt to any template structure.",
+      "relevance_score": 37,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 16851
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/anthropics_lbo-model.md",
+      "name": "lbo-model",
+      "description": "This skill should be used when completing LBO (Leveraged Buyout) model templates in Excel for private equity transactions, deal materials, or investment committee presentations. The skill fills in formulas, validates calculations, and ensures professional formatting standards that adapt to any template structure.",
+      "relevance_score": 37,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 16577
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Kaakati_valuation.md",
+      "name": "valuation",
+      "description": ">",
+      "relevance_score": 37,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "forecast",
+        "formula",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three-statement",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 11902
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/anotb_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "Build financial models for business cases including ROI, NPV, IRR, scenario analysis, and total cost of ownership. Use when developing investment recommendations, comparing strategic options, quantifying the value of initiatives, building business cases, performing cost-benefit analysis, or valuing a business unit for strategic decisions. Covers standard financial analysis workflows (ROI, business case, cash flow projections, break-even, DCF) and advanced techniques (EVA, MIRR, real options, Monte Carlo thinking, discount rate selection).",
+      "relevance_score": 36,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "forecast",
+        "formula",
+        "irr",
+        "npv",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 12308
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Ditto190_financial-modeling-suite.md",
+      "name": "financial-modeling-suite",
+      "description": "Advanced financial modeling toolkit providing DCF valuation, sensitivity analysis, Monte Carlo simulation, and scenario planning for investment decisions and risk assessment",
+      "relevance_score": 36,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "forecast",
+        "formula",
+        "income statement",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 7278
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/fall-development-rob_corp-finance-tools-core.md",
+      "name": "Corp Finance Tools - Core",
+      "description": "Use the corp-finance-mcp server tools for core corporate finance calculations. Invoke when performing valuations (DCF, WACC, comps), credit analysis (metrics, debt capacity, covenants, Altman Z-score), PE/M&A (LBO models, IRR, MOIC, debt schedules, waterfall distributions, merger accretion/dilution), portfolio analytics (Sharpe, VaR, Kelly), fund economics (fee calculator, GP/LP splits, GP economics, investor net returns), jurisdiction (GAAP/IFRS reconciliation, withholding tax, NAV with equalisation, UBTI/ECI screening), three-statement financial modelling, Monte Carlo simulation (DCF, generic), scenario/sensitivity analysis, earnings quality (Beneish M-Score, Piotroski F-Score, accrual quality, revenue quality, composite scoring), dividend policy (H-Model DDM, multi-stage DDM, buyback analysis, payout sustainability, total shareholder return), financial forensics (Benford's Law, DuPont analysis, Z-score models, peer benchmarking, red flag scoring). All computation uses 128-bit decimal precision.",
+      "relevance_score": 35,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "comps",
+        "dcf",
+        "irr",
+        "lbo",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "three-statement",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 20345
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/AeyeOps_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": ">",
+      "relevance_score": 34,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "forecast",
+        "formula",
+        "income statement",
+        "scenario",
+        "sensitivity",
+        "source",
+        "three statement",
+        "three-statement",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 18330
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/pynbj1001_lbo-model.md",
+      "name": "lbo-model",
+      "description": "This skill should be used when completing LBO (Leveraged Buyout) model templates in Excel for private equity transactions, deal materials, or investment committee presentations. The skill fills in formulas, validates calculations, and ensures professional formatting standards that adapt to any template structure.",
+      "relevance_score": 34,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 11955
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/zhizhunbao_lbo-model.md",
+      "name": "lbo-model",
+      "description": "This skill should be used when completing LBO (Leveraged Buyout) model templates in Excel for private equity transactions, deal materials, or investment committee presentations. The skill fills in formulas, validates calculations, and ensures professional formatting standards that adapt to any template structure.",
+      "relevance_score": 34,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 11958
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/CaseMark_building-equity-valuation-models.md",
+      "name": "building-equity-valuation-models",
+      "description": "Constructs DCF, comparable company, and precedent transaction valuation models with sensitivity analysis. Use when valuing public companies, building financial models, or estimating fair value ranges.",
+      "relevance_score": 33,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "forecast",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 6184
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/dvcrn_financial-analyst.md",
+      "name": "financial-analyst",
+      "description": "Financial analysis and research workflows for market research, equity research, comparable companies, precedent transactions, and DCF valuation. Use when asked to build or critique DCF models, comps/precedents tables, competitor or strategy analysis, market sizing, or to deliver analyst-ready outputs in Excel, PowerPoint, or Markdown from CSV/Excel/SQL/API/web data.",
+      "relevance_score": 33,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "checks",
+        "comps",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "peer",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 3818
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/openclaw_financial-analyst.md",
+      "name": "financial-analyst",
+      "description": "Financial analysis and research workflows for market research, equity research, comparable companies, precedent transactions, and DCF valuation. Use when asked to build or critique DCF models, comps/precedents tables, competitor or strategy analysis, market sizing, or to deliver analyst-ready outputs in Excel, PowerPoint, or Markdown from CSV/Excel/SQL/API/web data.",
+      "relevance_score": 33,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "checks",
+        "comps",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "peer",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 3816
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/panaversity_financial-architect.md",
+      "name": "financial-architect",
+      "description": ">-",
+      "relevance_score": 33,
+      "risk_score": 1,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "dcf",
+        "excel",
+        "formula",
+        "irr",
+        "model architecture",
+        "npv",
+        "scenario",
+        "terminal",
+        "three-statement",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [
+        "eval("
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 25734
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/MeridianAlgo_excel-dcf.md",
+      "name": "excel-dcf",
+      "description": "Builds a complete DCF valuation model in Excel format (markdown tables). Produces Assumptions, FCF Projections, WACC calculation, Valuation, and Sensitivity Analysis sheets. Use when the user wants to build a DCF model or runs /excel-dcf <COMPANY>.",
+      "relevance_score": 32,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "income statement",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 8578
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ebootheee_excel-to-engine.md",
+      "name": "excel-to-engine",
+      "description": "Convert a complex financial Excel model into a JavaScript computation engine with auto-generated test suite and interactive dashboard",
+      "relevance_score": 32,
+      "risk_score": 2,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "formula",
+        "irr",
+        "npv",
+        "scenario",
+        "sensitivity",
+        "source",
+        "validation",
+        "workbook"
+      ],
+      "risk_hits": [
+        "eval(",
+        "npx "
+      ],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation",
+        "contains executable/install instructions"
+      ],
+      "size_bytes": 55268
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/CaseMark_building-financial-projections.md",
+      "name": "building-financial-projections",
+      "description": "Constructs integrated three-statement financial models with scenario analysis and assumption documentation. Use when building financial models, projecting financial statements, or creating forecast scenarios.",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "forecast",
+        "formula",
+        "income statement",
+        "scenario",
+        "sensitivity",
+        "source",
+        "three-statement"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 6755
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Lunatic16_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation to estimate intrinsic value per share. Uses Financial Datasets MCP for fundamentals. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", undervalued/overvalued, or price target analysis.",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "formula",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 8270
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ComeOnOliver_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2360
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/HelixDevelopment_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2276
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Jst-Well-Dan_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2276
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/RunnerQuan_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2276
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/jeremylongshore_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2358
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/micsapp_excel-dcf-modeler.md",
+      "name": "excel-dcf-modeler",
+      "description": "|",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2330
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/seb1n_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "Build financial projections, P&L statements, DCF models, and valuation analyses from assumptions and historical data",
+      "relevance_score": 30,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "forecast",
+        "formula",
+        "income statement",
+        "irr",
+        "npv",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 6714
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/intent-solutions-io_excel-lbo-modeler.md",
+      "name": "excel-lbo-modeler",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 10964
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ChatAndBuild_dcf-valuation.md",
+      "name": "DCF Valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \\\"what is X worth\\\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 4600
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/edinetdb_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share for Japanese listed companies. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 4554
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/gabrielmoreira_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 4750
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/raditrejp_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 5273
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/rodionlim_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 4685
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/virattt_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Performs discounted cash flow (DCF) valuation analysis to estimate intrinsic value per share. Triggers when user asks for fair value, intrinsic value, DCF, valuation, \"what is X worth\", price target, undervalued/overvalued analysis, or wants to compare current price to fundamental value.",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 4750
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/jeremylongshore_excel-lbo-modeler.md",
+      "name": "excel-lbo-modeler",
+      "description": "|",
+      "relevance_score": 27,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 5946
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/CaseMark_building-lbo-models.md",
+      "name": "building-lbo-models",
+      "description": "Constructs leveraged buyout models with debt capacity, returns analysis, and exit scenarios. Use when modeling LBOs, calculating sponsor returns, or analyzing leveraged transactions.",
+      "relevance_score": 26,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "income statement",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 5936
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/JadeGate_quantitative-valuation.md",
+      "name": "quantitative-valuation",
+      "description": "Estimate intrinsic value of stocks and companies using DCF, dividend discount models, comparable multiples, and residual income. Use when the user asks about discounted cash flow, DCF models, WACC, terminal value, dividend discount models, comparable multiples, or sum-of-the-parts valuation. Also trigger when users mention 'what is this stock worth', 'fair value estimate', 'Gordon growth model', 'free cash flow valuation', 'cost of equity', 'sensitivity analysis', 'exit multiple', or ask whether a stock is overvalued or undervalued.",
+      "relevance_score": 25,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "comps",
+        "dcf",
+        "forecast",
+        "formula",
+        "peer",
+        "sensitivity",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 8793
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/JoelLewis_quantitative-valuation.md",
+      "name": "quantitative-valuation",
+      "description": "Estimate intrinsic value of stocks and companies using DCF, dividend discount models, comparable multiples, and residual income. Use when the user asks about discounted cash flow, DCF models, WACC, terminal value, dividend discount models, comparable multiples, or sum-of-the-parts valuation. Also trigger when users mention 'what is this stock worth', 'fair value estimate', 'Gordon growth model', 'free cash flow valuation', 'cost of equity', 'sensitivity analysis', 'exit multiple', or ask whether a stock is overvalued or undervalued.",
+      "relevance_score": 25,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "comps",
+        "dcf",
+        "forecast",
+        "formula",
+        "peer",
+        "sensitivity",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 8611
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ComeOnOliver_excel-lbo-modeler.md",
+      "name": "excel-lbo-modeler",
+      "description": "|",
+      "relevance_score": 24,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2217
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Jst-Well-Dan_excel-lbo-modeler.md",
+      "name": "excel-lbo-modeler",
+      "description": "|",
+      "relevance_score": 24,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "scenario",
+        "sensitivity",
+        "source"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2133
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/mittuled_financial-model-v1.md",
+      "name": "financial-model-v1",
+      "description": ">",
+      "relevance_score": 24,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "forecast",
+        "formula",
+        "model architecture",
+        "scenario",
+        "source",
+        "three-statement",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 6150
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/tah-allotrope_excel-model-forensics.md",
+      "name": "excel-model-forensics",
+      "description": "This skill should be used when reverse-engineering an Excel financial model, auditing formula dependencies, or investigating anomalies such as lifecycle jumps and toggle-driven revenue drops.",
+      "relevance_score": 23,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "checks",
+        "excel",
+        "formula",
+        "validation",
+        "workbook"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 1557
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/saimambayao_investor.md",
+      "name": "investor",
+      "description": "Provides investor and investment banker perspective on valuation, M&A, capital markets, deal structuring, and due diligence. Use when designing investment banking courses (with /academy), consulting on investment decisions, advising on M&A processes, evaluating companies for acquisition, building investment thesis, or capital raising advisory. Covers DCF, comparables, precedent transactions, LBO analysis, and portfolio strategy. For technical financial analysis (ratios, models, statements), use /financial-analyst instead.",
+      "relevance_score": 23,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "cash flow",
+        "comps",
+        "dcf",
+        "formula",
+        "irr",
+        "lbo",
+        "peer",
+        "scenario",
+        "source",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 19880
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/fivetaku_lbo-model.md",
+      "name": "lbo-model",
+      "description": "This skill should be used when completing LBO (Leveraged Buyout) model templates in Excel for private equity transactions, deal materials, or investment committee presentations. The skill fills in formulas, validates calculations, and ensures professional formatting standards that adapt to any template structure.",
+      "relevance_score": 22,
+      "risk_score": 1,
+      "worth": "high",
+      "method_hits": [
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "excel",
+        "formula",
+        "irr",
+        "lbo",
+        "sensitivity",
+        "source"
+      ],
+      "risk_hits": [
+        "pip install"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "contains executable/install instructions"
+      ],
+      "size_bytes": 5097
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/CoWork-OS_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "Build and analyze three-statement financial models with integrated income statement, balance sheet, and cash flow projections, scenario analysis, and key driver assumptions.",
+      "relevance_score": 21,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "dcf",
+        "forecast",
+        "income statement",
+        "scenario",
+        "three statement",
+        "three-statement"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 2567
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/dvcrn_olo-dcf-valuation.md",
+      "name": "olo-dcf-valuation",
+      "description": "DCF valuation methodology for M&A due diligence — projections, sensitivity analysis, and terminal value calculation",
+      "relevance_score": 20,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 3176
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/openclaw_olo-dcf-valuation.md",
+      "name": "olo-dcf-valuation",
+      "description": "DCF valuation methodology for M&A due diligence — projections, sensitivity analysis, and terminal value calculation",
+      "relevance_score": 20,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "sensitivity",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 3466
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/tmcga_re-reit.md",
+      "name": "re-reit",
+      "description": "|",
+      "relevance_score": 20,
+      "risk_score": 0,
+      "worth": "high",
+      "method_hits": [
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "dcf",
+        "irr",
+        "npv",
+        "peer",
+        "sensitivity",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 10132
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/anthropics_dcf-model.md",
+      "name": "dcf-model",
+      "description": "Real DCF (Discounted Cash Flow) model creation for equity valuation. Retrieves financial data from SEC filings and analyst reports, builds comprehensive cash flow projections with proper WACC calculations, performs sensitivity analysis, and outputs professional Excel models with executive summaries. Use when users need to value a company using DCF methodology, request intrinsic value analysis, or ask for detailed financial modeling with growth projections and terminal value calculations.",
+      "relevance_score": 42,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [
+        "daloopa"
+      ],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 49630
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/thiagofernandes1987-create_dcf-model.md",
+      "name": "dcf-model",
+      "description": "Ver seção Output no corpo da skill",
+      "relevance_score": 42,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [
+        "daloopa"
+      ],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 54212
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/ulpi-io_dcf-model.md",
+      "name": "dcf-model",
+      "description": "Real DCF (Discounted Cash Flow) model creation for equity valuation. Retrieves financial data from SEC filings and analyst reports, builds comprehensive cash flow projections with proper WACC calculations, performs sensitivity analysis, and outputs professional Excel models with executive summaries. Use when users need to value a company using DCF methodology, request intrinsic value analysis, or ask for detailed financial modeling with growth projections and terminal value calculations.",
+      "relevance_score": 42,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "checks",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "peer",
+        "scenario",
+        "sensitivity",
+        "source",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [
+        "daloopa"
+      ],
+      "reasons": [
+        "strong scenario/sensitivity workflow",
+        "has validation/audit language",
+        "DCF mechanics are explicit",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 49630
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/kandhawe1_build-model.md",
+      "name": "build-model",
+      "description": "Build a multi-tab Excel financial model",
+      "relevance_score": 29,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "comps",
+        "dcf",
+        "excel",
+        "income statement",
+        "peer",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [
+        "daloopa"
+      ],
+      "reasons": [
+        "DCF mechanics are explicit",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 4785
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/JadeGate_comps-analysis.md",
+      "name": "comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 31444
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/anthropics_comps-analysis.md",
+      "name": "comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 30783
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/harsh040506_comps-analysis.md",
+      "name": "comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 28118
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/d-wwei_fsi-comps-analysis.md",
+      "name": "fsi-comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 28139
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/pynbj1001_fsi-comps-analysis.md",
+      "name": "fsi-comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 28122
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/zhizhunbao_fsi-comps-analysis.md",
+      "name": "fsi-comps-analysis",
+      "description": "|",
+      "relevance_score": 29,
+      "risk_score": 6,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "comps",
+        "excel",
+        "formula",
+        "peer",
+        "source",
+        "terminal"
+      ],
+      "risk_hits": [
+        "bloomberg",
+        "daloopa",
+        "factset"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 28125
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/claude-office-skills_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Build Discounted Cash Flow (DCF) valuation models. Calculate intrinsic value with customizable assumptions. Generate professional valuation reports.",
+      "relevance_score": 25,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "formula",
+        "sensitivity",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [
+        "bloomberg"
+      ],
+      "reasons": [
+        "DCF mechanics are explicit",
+        "assumption/source documentation",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 8559
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/daloopa_build-model.md",
+      "name": "build-model",
+      "description": "Build a multi-tab Excel financial model",
+      "relevance_score": 23,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "balance sheet",
+        "cash flow",
+        "dcf",
+        "excel",
+        "income statement",
+        "peer",
+        "sensitivity",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [
+        "daloopa"
+      ],
+      "reasons": [
+        "DCF mechanics are explicit",
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 7830
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/claude-office-skills_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "投行级金融建模引擎 — 公式驱动的多Sheet专业DCF/估值模型",
+      "relevance_score": 21,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "npv",
+        "scenario",
+        "wacc"
+      ],
+      "risk_hits": [
+        "bloomberg"
+      ],
+      "reasons": [
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 15450
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Ruinius_financial-modeling.md",
+      "name": "Financial Modeling",
+      "description": "Execute a single deterministic Python script to compute WACC, DCF assumptions, projected free cash flows, enterprise value, and intrinsic value per share. Updates both the metadata markdown and the JSON export for the interactive viewer.",
+      "relevance_score": 19,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "source",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "DCF mechanics are explicit",
+        "assumption/source documentation"
+      ],
+      "size_bytes": 2306
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/hl8086_financial-statement-analysis.md",
+      "name": "financial-statement-analysis",
+      "description": "Analyze corporate financial statements and produce a structured write-up covering data sourcing, three-statement sanity checks, trend tables, key ratios, cash-flow quality, and red-flag detection. USE THIS SKILL whenever the user shares a financial filing, annual report, earnings release, PDF link, or pasted financial tables — even if they only ask a casual question like \"分析一下这份财报\", \"这家公司怎么样\", \"帮我看看这个年报\", \"这只股票基本面如何\", or provides a ticker alongside any financial data. Also trigger when the user asks to compare two companies' financials, or asks follow-up questions about numbers from a filing already in the conversation. Do NOT wait for the user to explicitly ask for a \"framework\" or \"analysis template\" — trigger proactively on any financial filing context. Ask before applying to banks, insurers, brokers, REITs, or property developers because ratio definitions differ for those sectors.",
+      "relevance_score": 19,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "balance sheet",
+        "cash flow",
+        "checks",
+        "formula",
+        "income statement",
+        "npv",
+        "source",
+        "three-statement"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 8696
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/kensho-technologies_sp-capital-iq-excel-pro.md",
+      "name": "sp-capital-iq-excel-pro",
+      "description": "Use this skill any time a financial analysis spreadsheet is needed that pulls live or historical data from S&P Capital IQ. This means any task where the user wants to create financial models using Capital IQ data, build company profiles with financial metrics, construct peer analysis or comparable company tables, pull historical financial statements, analyze market data and trading multiples, or generate financial reports using Capital IQ datasets. Trigger when the user mentions Capital IQ, S&P data, company financials, peer analysis, or needs institutional-quality financial data in Excel. Also trigger for creating DCF models, LBO models, merger models, or any valuation analysis that benefits from live financial data feeds. The deliverable must be an Excel file with S&P Capital IQ formulas. Do NOT trigger when the user just needs basic Excel operations without financial data integration, or when they specifically request other data sources.",
+      "relevance_score": 19,
+      "risk_score": 4,
+      "worth": "medium",
+      "method_hits": [
+        "balance sheet",
+        "cash flow",
+        "dcf",
+        "excel",
+        "forecast",
+        "formula",
+        "income statement",
+        "lbo",
+        "peer",
+        "source",
+        "wacc"
+      ],
+      "risk_hits": [
+        "capital iq"
+      ],
+      "reasons": [
+        "depends on paid/proprietary data source"
+      ],
+      "size_bytes": 31720
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/CoWork-OS_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "Discounted cash flow valuation with WACC calculation, free cash flow projection, terminal value estimation, sensitivity analysis, and enterprise-to-equity value bridge.",
+      "relevance_score": 17,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "dcf",
+        "sensitivity",
+        "terminal",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 2591
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Sandeeprdy1729_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "Apply Financial Modeling for business success. Use when developing strategy, managing operations, or driving organizational performance. This skill covers frameworks, analysis, and implementation for financial modeling.",
+      "relevance_score": 17,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "excel",
+        "scenario",
+        "source",
+        "validation"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 13068
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/panaversity_idfa-ops.md",
+      "name": "idfa-ops",
+      "description": ">-",
+      "relevance_score": 17,
+      "risk_score": 1,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "excel",
+        "formula",
+        "scenario",
+        "workbook"
+      ],
+      "risk_hits": [
+        "pip install"
+      ],
+      "reasons": [
+        "has validation/audit language",
+        "contains executable/install instructions"
+      ],
+      "size_bytes": 6974
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/revfactory_dcf-valuation.md",
+      "name": "dcf-valuation",
+      "description": "A specialized skill providing detailed DCF (Discounted Cash Flow) valuation methodology and practical guidelines. Used by the valuation-expert agent for WACC calculation, FCF estimation, and terminal value computation when calculating enterprise value. Automatically applied in contexts such as 'DCF analysis', 'discounted cash flow', 'WACC calculation', 'enterprise valuation', 'terminal value'. However, real-time market data retrieval and actual transaction advisory are outside the scope of this skill.",
+      "relevance_score": 16,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "cash flow",
+        "dcf",
+        "forecast",
+        "peer",
+        "terminal",
+        "validation",
+        "wacc"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language",
+        "DCF mechanics are explicit"
+      ],
+      "size_bytes": 4625
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Winbda_excel-model-builder.md",
+      "name": "excel-model-builder",
+      "description": "|",
+      "relevance_score": 13,
+      "risk_score": 0,
+      "worth": "medium",
+      "method_hits": [
+        "assumption",
+        "cash flow",
+        "excel",
+        "formula"
+      ],
+      "risk_hits": [],
+      "reasons": [],
+      "size_bytes": 2459
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/eterdis_eterdis-playing-to-win.md",
+      "name": "eterdis-playing-to-win",
+      "description": "Strategy cascade based on Roger Martin and A.G. Lafley's Playing to Win framework. Five interconnected choices that define a real strategy — not a vision statement, not a list of priorities, not a strategic plan that's really just a budget with adjectives. Runs in three modes — Diagnostic for building or rebuilding the full cascade, Review for pressure-testing an existing one, and Alert Triggers for defining the tripwires that tell you the cascade is breaking. Updates company-context.md after every run. Triggers on questions about strategy, strategic choices, winning aspiration, where to play, how to win, competitive strategy, or when someone says \"we need a strategy\" and means it. Based on practice by Eterdis (eterdis.com).",
+      "relevance_score": 9,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "assumption",
+        "irr",
+        "source"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "assumption/source documentation"
+      ],
+      "size_bytes": 22577
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Winbda_three-statement-model.md",
+      "name": "three-statement-model",
+      "description": "|",
+      "relevance_score": 9,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "balance sheet",
+        "cash flow",
+        "income statement",
+        "three-statement"
+      ],
+      "risk_hits": [],
+      "reasons": [],
+      "size_bytes": 1115
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/diegosouzapw_supabase-postgres-best-practices.md",
+      "name": "supabase-postgres-best-practices",
+      "description": "Postgres query performance optimization and runtime best practices for Supabase. Covers indexing strategies (B-tree, GIN, GiST, BRIN, composite, partial, covering), EXPLAIN ANALYZE diagnostics, connection pooling (Supavisor transaction/session modes, pool sizing), RLS performance patterns (auth.uid() subquery caching, SECURITY DEFINER bypass), concurrency control (deadlock prevention, SKIP LOCKED, advisory locks), data access optimization (N+1 elimination, keyset pagination, batch inserts, UPSERT), runtime monitoring (pg_stat_statements, VACUUM/ANALYZE), and advanced tuning (full-text search, JSONB GIN indexing). Use when writing, reviewing, or optimizing SQL queries, diagnosing slow queries with EXPLAIN, configuring connection pooling, tuning RLS performance, implementing concurrent processing, detecting unused indexes, or resolving Postgres bottlenecks. Does NOT cover schema design (ansem-db-patterns), auth/RLS policy design (supabase-auth-patterns), or TypeScript types (typescript-best-practices).",
+      "relevance_score": 6,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "checks",
+        "formula"
+      ],
+      "risk_hits": [],
+      "reasons": [
+        "has validation/audit language"
+      ],
+      "size_bytes": 11186
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/NVA91_shell-scripting-skill.md",
+      "name": "shell-scripting-skill",
+      "description": "CSV, Excel (.xlsx), CSS",
+      "relevance_score": 6,
+      "risk_score": 2,
+      "worth": "low",
+      "method_hits": [
+        "excel",
+        "source"
+      ],
+      "risk_hits": [
+        "rm -rf",
+        "token"
+      ],
+      "reasons": [],
+      "size_bytes": 5645
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Winbda_dcf-valuation-model.md",
+      "name": "dcf-valuation-model",
+      "description": "|",
+      "relevance_score": 4,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "dcf"
+      ],
+      "risk_hits": [],
+      "reasons": [],
+      "size_bytes": 1069
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/kmshihab7878_financial-modeling.md",
+      "name": "financial-modeling",
+      "description": "Advanced financial modeling with DCF, Monte Carlo, portfolio optimization, risk metrics, and Aster DEX integration for backtesting",
+      "relevance_score": 4,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "dcf"
+      ],
+      "risk_hits": [],
+      "reasons": [],
+      "size_bytes": 4071
+    },
+    {
+      "file": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/references/skillsmp_review/skills/Winbda_lbo-model-builder.md",
+      "name": "lbo-model-builder",
+      "description": "|",
+      "relevance_score": 4,
+      "risk_score": 0,
+      "worth": "low",
+      "method_hits": [
+        "lbo"
+      ],
+      "risk_hits": [],
+      "reasons": [],
+      "size_bytes": 1073
+    }
+  ]
+}

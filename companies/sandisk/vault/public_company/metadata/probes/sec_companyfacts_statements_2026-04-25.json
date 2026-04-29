@@ -1,0 +1,10 @@
+{
+  "status": "ok",
+  "annual_periods": 1,
+  "quarterly_periods": 4,
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "sec_companyfacts_statements",
+  "updated_at": "2026-04-25T23:09:53"
+}

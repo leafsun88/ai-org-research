@@ -1,0 +1,15 @@
+{
+  "name": "Anysphere, Inc.",
+  "ticker": "Private",
+  "sector": "AI Development Tools / Developer Infrastructure",
+  "founded": "2022",
+  "hq": "San Francisco, CA, USA",
+  "ceo": "Michael Truell",
+  "employees": 300,
+  "market_cap": "~$29.3B (2025.11 Series D) / ~$50B (2026.03 传闻)",
+  "description": "4位MIT同学创立的AI代码编辑器公司，基于VS Code fork构建AI-first IDE，史上增长最快的SaaS产品之一",
+  "business_essence": "用极致产品力+零营销实现开发者工具的自传播增长，通过自研模型+第三方API编排构建AI编程的完整体验，本质是用AI重新定义软件工程的工作流",
+  "old_friends_mapping": {
+    "Anthropic": "技术驱动×极致人才密度×创始人认知深度，小团队构建行业定义级产品，产品即增长的PLG模式"
+  }
+}

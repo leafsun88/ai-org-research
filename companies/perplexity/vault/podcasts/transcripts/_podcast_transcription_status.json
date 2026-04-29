@@ -1,0 +1,109 @@
+{
+  "ticker": "PERPLEXITY",
+  "generated_at": "2026-04-16T16:29:17",
+  "retry_rounds": 3,
+  "min_duration_min": 0,
+  "total_records": 8,
+  "success_records": 4,
+  "failure_records": 4,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "Perplexity CEO Aravind Srinivas & Cleveland Fed President Beth Hammack 4/24/25",
+      "date": "2025-04-24",
+      "podcast": "Squawk Pod",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d7da67c81/episodes/4437d77a-9b20-405f-b5a2-587904ff70a2/audio/128/default.mp3?aid=rss_feed&awCollectionId=2abef7ca-625f-4c74-9157-968d7da67c81&awEpisodeId=4437d77a-9b20-405f-b5a2-587904ff70a2&feed=VHAcgaw_",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Perplexity CEO: AI Is About to Change the Internet Forever | Aravind Srinivas",
+      "date": "2025-09-26",
+      "podcast": "Silicon Valley Girl",
+      "audio_url": "https://traffic.megaphone.fm/APO1481386632.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md"
+    },
+    {
+      "status": "failed",
+      "title": "LIMITLESS: Aravind Srinivas: Perplexity CEO’s All-In Gamble to Take Down Google",
+      "date": "2025-08-19",
+      "podcast": "Bankless",
+      "audio_url": "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3",
+      "attempt_round": 2,
+      "error": "Subtask failed: FILE_403_FORBIDDEN",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "From PhD to CEO: Aravind Srinivas on Reinventing Search with Perplexity AI",
+      "date": "2025-10-21",
+      "podcast": "Dean’s Speaker Series",
+      "audio_url": "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3",
+      "attempt_round": 2,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://s396.podbean.com/pb/8f0aed88024d440ed4b540e4164ed40b/69e00931/data1/fs122/19541922/uploads/DSS_aravind.mp3?pbss=dc95e1b3-1afa-5452-9fd0-5e6d324924b9",
+        "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "AI Will Make Browsers Autonomous - Perplexity CEO Aravind Srinivas",
+      "date": "2025-07-09",
+      "podcast": "Superhuman AI: Decoding the Future",
+      "audio_url": "https://audio.transistor.fm/m/shows/55093/a7463eb64c039df5bd70c9932605d6c7.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md",
+      "chars": 52266,
+      "task_id": "959fcf77-97a3-4dd9-bced-8a98d20ba91f",
+      "attempt_round": 2,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/55093/a7463eb64c039df5bd70c9932605d6c7.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Perplexity CEO on Chrome, AI and challenging the tech giants",
+      "date": "2025-08-22",
+      "podcast": "The Times Tech Podcast",
+      "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3",
+      "attempt_round": 2,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN",
+      "date": "2026-03-23",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "audio_url": "https://content.libsyn.com/p/9/6/5/96517a9ff8488097/GTC_CEOs_F1AUDIO_Ch.mp3?c_id=199929735&cs_id=199929735&destination_id=1928300&response-content-type=audio%2Fmpeg&Expires=1776335119&Signature=fwYCmCi-BmpLAvLHlRG08WbKloYXBGrnPwDpAiq6kQB~b55qX646Chuoejvb2mJbPp-0mZxvFYryS7NxiPkUZWatS9pq2beL9~aWLPz9g1BCXe74Q-2EtgHtnUf-Av8tmwO8EOvrLw49yoU0tJFearkWPrYJOPB~Hr3Jr6AW~Tkz7nSUC7dkP73Nob0QAPrBe~GhX1OfvqX4JvOC6IojAZ1NWHDkiOqX59DnVOnjl6JEg~-z6y8MjUxOkP~bQd1eLlL51mqH7JM1l8Cp7vD6bkmafUe-PODxiOZiozWNW3ZUtMaI635aHjqOCDyrutJiBDDqdQRNIYG1hRRZ~HPCZA__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md",
+      "chars": 95026,
+      "task_id": "fdb9d356-9cb2-4a9f-8ef3-2d3c45e99031",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://content.libsyn.com/p/9/6/5/96517a9ff8488097/GTC_CEOs_F1AUDIO_Ch.mp3?c_id=199929735&cs_id=199929735&destination_id=1928300&response-content-type=audio%2Fmpeg&Expires=1776335119&Signature=fwYCmCi-BmpLAvLHlRG08WbKloYXBGrnPwDpAiq6kQB~b55qX646Chuoejvb2mJbPp-0mZxvFYryS7NxiPkUZWatS9pq2beL9~aWLPz9g1BCXe74Q-2EtgHtnUf-Av8tmwO8EOvrLw49yoU0tJFearkWPrYJOPB~Hr3Jr6AW~Tkz7nSUC7dkP73Nob0QAPrBe~GhX1OfvqX4JvOC6IojAZ1NWHDkiOqX59DnVOnjl6JEg~-z6y8MjUxOkP~bQd1eLlL51mqH7JM1l8Cp7vD6bkmafUe-PODxiOZiozWNW3ZUtMaI635aHjqOCDyrutJiBDDqdQRNIYG1hRRZ~HPCZA__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Aravind Srinivas Has All The Answers",
+      "date": "2025-06-18",
+      "podcast": "Stanford GSB: View From The Top",
+      "audio_url": "https://tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/op3.dev/e/rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "attempt_round": 1,
+      "error": "Transcription polling timeout after 240s",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "https://tracking.swap.fm/track/zA4xtlPBvf2K1K9zesjz/op3.dev/e/rss.art19.com/episodes/5779113d-5711-4c79-98b3-43f61027d6d0.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f"
+      ]
+    }
+  ]
+}

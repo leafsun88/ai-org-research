@@ -1,0 +1,103 @@
+{
+  "company": "Cursor",
+  "category": "org-leadership",
+  "generated": "2026-04-03",
+  "entries": [
+    {
+      "id": "cursor_org_001",
+      "timestamp": "2022-04-01",
+      "company": "Cursor",
+      "content": "4位MIT Class of 2022同学共同创立Anysphere Inc.",
+      "detail": "Michael Truell(CEO)、Sualeh Asif(CPO)、Aman Sanger(COO)、Arvid Lunnemark(CTO)四人均为MIT数学+CS双专业，通过CSAIL实验室相识。四人拒绝科技巨头offer，以$400K pre-seed注册公司。团队背景高度同质化：全员竞赛选手（IMO/IOI奖牌），全员理论+工程双栖能力。",
+      "source": {"type": "company_founding", "credibility": "S5", "url": "https://en.wikipedia.org/wiki/Anysphere"},
+      "dimensions": ["D2", "D6"],
+      "tags": ["founding-team", "mit-network", "talent-density"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_org_002",
+      "timestamp": "2025-10-18",
+      "company": "Cursor",
+      "content": "CTO Arvid Lunnemark离职创立AI安全实验室Integrous Research",
+      "detail": "Arvid在公司估值巅峰期（刚达$1B ARR）离开，个人博客声明措辞正面、无不满。创立Integrous Research聚焦超级智能时代个人自由保护的基础研究。CTO职位截至2026年4月仍空缺，无公开继任者。Arvid仍持有大量Anysphere股权（估值~$1.3B）。瑞典人，IOI+IMO奖牌，是团队中竞赛背景最强的成员。",
+      "source": {"type": "personal_blog", "credibility": "S3", "url": "https://arvid.xyz/posts/leaving/"},
+      "dimensions": ["D2"],
+      "tags": ["cto-departure", "founder-split", "ai-safety"],
+      "sentiment": "negative",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_org_003",
+      "timestamp": "2025-10-01",
+      "company": "Cursor",
+      "content": "Michael Truell招聘哲学：2天全职实战测试+面试禁用AI",
+      "detail": "每位工程师和设计师入职前必须完成2天实战测试：给一台电脑、3个项目选择、一个冻结版本的代码库，独立完成。技术面试中禁止使用AI（除自动补全）。Truell表示团队'tried to be incredibly patient on the hiring front'。200+人公司仍坚持此流程。同时通过M&A获取人才：收购Supermaven（Jacob团队5人，前Copilot创始人）、Graphite（代码审查）、Koala（企业工具）、Growth by Design（招聘策略）。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "a16z podcast 2026-01-13"},
+      "dimensions": ["D6", "D3"],
+      "tags": ["hiring-philosophy", "talent-density", "work-trial"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_org_004",
+      "timestamp": "2026-03-01",
+      "company": "Cursor",
+      "content": "~40人模型团队构建自研能力，全公司约300人",
+      "detail": "Aman Sanger披露约40人专注模型训练，汇集实验室、学术界、工业界的顶尖研究员和工程师。发布Composer 2自研模型：基于Kimi K2.5基座模型+continued pre-training+4x规模RL。未在博客中披露使用Kimi基座被社区发现后Aman快速认错。人效比极高：~$2B ARR / 300人 = 人均$666万/年。",
+      "source": {"type": "twitter", "credibility": "S3", "url": "https://x.com/amanrsanger/status/2034704792925479356"},
+      "dimensions": ["D6", "D5"],
+      "tags": ["model-team", "talent-density", "self-research"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_org_005",
+      "timestamp": "2025-06-01",
+      "company": "Cursor",
+      "content": "创始团队极度平等主义的决策文化",
+      "detail": "四位创始人每天早餐午餐晚餐一起讨论核心战略问题。Truell持CEO头衔但强调集体决策。Truell称创业初期每天辩论核心战略：build an editor or extension? model side or not? IDE or something else? 这种决策密度在4人团队中极高。无外部空降高管，无独立董事会公开信息，无外部advisor公开记录。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "a16z podcast, Lex Fridman #447"},
+      "dimensions": ["D4", "D2"],
+      "tags": ["founder-dynamics", "decision-making", "flat-hierarchy"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_org_006",
+      "timestamp": "2026-01-13",
+      "company": "Cursor",
+      "content": "Truell的iPod/iPhone类比揭示产品节奏认知",
+      "detail": "在a16z播客中Truell表示'We are in a market that's had an iPod moment and it's going to have an iPhone moment'，认为AI编程领域会有多次范式跳跃，公司必须能持续构建这些转折点产品，否则'we're caput'。这种认知框架说明CEO对技术周期有清醒判断，不会因当前成功而自满。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "a16z podcast 2026-01-13"},
+      "dimensions": ["D1"],
+      "tags": ["ceo-cognition", "product-vision", "technology-cycles"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_org_007",
+      "timestamp": "2025-12-01",
+      "company": "Cursor",
+      "content": "Aman Sanger家庭背景：父亲为对冲基金创始人",
+      "detail": "Aman Sanger的父亲Arvind Sanger是Geosphere Capital Management创始人兼Managing Partner，前SAC Capital投资组合经理，专注全球资源行业多空策略。母亲Shilpa Sanger是牙齿矫正医师兼天使投资人。这种家庭背景给团队带来资本市场认知和人脉优势，有助于理解融资节奏和估值谈判。Aman兼具学术研究能力（Google Scholar 903 citations）和商业运营能力。",
+      "source": {"type": "web_research", "credibility": "S4", "url": "https://www.geospherecap.com/investmentteam"},
+      "dimensions": ["D2"],
+      "tags": ["family-background", "capital-markets", "aman-sanger"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_org_008",
+      "timestamp": "2025-12-01",
+      "company": "Cursor",
+      "content": "Sualeh Asif作为CPO的技术基础设施贡献",
+      "detail": "Sualeh Asif（巴基斯坦裔，IMO铜牌）是Cursor产品和基础设施的核心架构师。核心贡献：(1)Tab功能——自研模型在200-300ms内预测多行代码编辑；(2)代码库索引——支持1M+文件/1B+行代码，warm indexes 12-20x加速；(3)Anyrun编排器——Rust编写，用AWS Firecracker做进程隔离；(4)每天处理约1亿次模型调用。在Stanford CS153客座讲座中以'CTO'身份出现，暗示在Arvid离开后他实际承担了部分CTO职责。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "Gradient Dissent Podcast, Stanford CS153"},
+      "dimensions": ["D2", "D5"],
+      "tags": ["sualeh-asif", "infrastructure", "technical-leadership"],
+      "sentiment": "positive",
+      "significance": "high"
+    }
+  ]
+}

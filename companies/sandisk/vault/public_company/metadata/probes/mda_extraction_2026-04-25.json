@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "year": "2025",
+      "source": "companies/sandisk/vault/public_company/raw_filings/annual_reports/2025-08-21_10-K_0002023554-25-000034_sndk-20250627.htm",
+      "output": "companies/sandisk/vault/public_company/processed/mda/2025_10-K_mda.md",
+      "characters": 48732
+    }
+  ],
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "mda_extraction",
+  "updated_at": "2026-04-25T22:53:13"
+}

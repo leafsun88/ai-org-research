@@ -1,0 +1,18 @@
+{
+  "video_id": "WdgS9zudLzw",
+  "title": "Midjourney AI Masterclass - Workflow and Tips from Real Designers",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:30:59"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:00",
+      "chars": 49835
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:00"
+}

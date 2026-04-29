@@ -1,0 +1,749 @@
+{
+  "ticker": "LOVABLE",
+  "generated_at": "2026-04-21T15:18:24",
+  "retry_rounds": 3,
+  "min_duration_min": 10,
+  "total_records": 16,
+  "success_records": 16,
+  "skipped_records": 0,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "20VC: Lovable Raises at $2BN & Hits $100M ARR | Is Cursor Worth $28BN at $1BN in ARR | How Do All Providers Deal with Anthropic Dependency Risk | Are Seed Funds F******: Have Mega Funds Won | Figma IPO Breakdown: Where Does it Price?",
+      "date": "2025-07-24",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Trio_EP15.mp3?dest-id=240976",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md"
+    },
+    {
+      "status": "success",
+      "title": "Giannis Got Freaked, the Re-Lovable Warriors, Lakers Chaos, and 'Thrones' Complaints With Ryen Russillo | The Bill Simmons Podcast",
+      "date": "2019-05-22",
+      "podcast": "The Bill Simmons Podcast",
+      "audio_url": "https://dcs-spotify.megaphone.fm/GLT2748656054.mp3?key=1ec93ed1bf040c6ec10d88542f6ccb59&request_event_id=e1b61726-bb0f-4aa7-85e7-26e1865b4a02&session_id=0ed83ed7-2293-4998-9b45-163f59c4947e&timetoken=1776759863_AFF5552DC54815316E1D9A4E4A554F3E",
+      "source_audio_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2748656054.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2019-05-22_Giannis-Got-Freaked-the-Re-Lovable-Warriors-Lakers-Chaos-and.md",
+      "chars": 135778,
+      "task_id": "67bce349-90e2-45bf-a6c4-ae56055b1cc0",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://dcs-spotify.megaphone.fm/GLT2748656054.mp3?key=1ec93ed1bf040c6ec10d88542f6ccb59&request_event_id=e1b61726-bb0f-4aa7-85e7-26e1865b4a02&session_id=0ed83ed7-2293-4998-9b45-163f59c4947e&timetoken=1776759863_AFF5552DC54815316E1D9A4E4A554F3E",
+        "groq:https://pdst.fm/e/traffic.megaphone.fm/GLT2748656054.mp3",
+        "dashscope:https://dcs-spotify.megaphone.fm/GLT2748656054.mp3?key=1ec93ed1bf040c6ec10d88542f6ccb59&request_event_id=e1b61726-bb0f-4aa7-85e7-26e1865b4a02&session_id=0ed83ed7-2293-4998-9b45-163f59c4947e&timetoken=1776759863_AFF5552DC54815316E1D9A4E4A554F3E"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://dcs-spotify.megaphone.fm/GLT2748656054.mp3?key=1ec93ed1bf040c6ec10d88542f6ccb59&request_event_id=e1b61726-bb0f-4aa7-85e7-26e1865b4a02&session_id=0ed83ed7-2293-4998-9b45-163f59c4947e&timetoken=1776759863_AFF5552DC54815316E1D9A4E4A554F3E",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 120924020"
+        },
+        {
+          "provider": "groq",
+          "url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2748656054.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://dcs-spotify.megaphone.fm/GLT2748656054.mp3?key=1ec93ed1bf040c6ec10d88542f6ccb59&request_event_id=e1b61726-bb0f-4aa7-85e7-26e1865b4a02&session_id=0ed83ed7-2293-4998-9b45-163f59c4947e&timetoken=1776759863_AFF5552DC54815316E1D9A4E4A554F3E",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "The new AI growth playbook for 2026: How Lovable hit $200M ARR in one year | Elena Verna (Head of Growth)",
+      "date": "2025-12-18",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://substackcdn.com/video_upload/post/181207556/6cd6ec72-5759-4202-a968-81a44bca55a5/transcoded.mp3?post_id=181207556&relation=podcast_preview&Expires=1776839198&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eiX6KD56GZmJiKH7NSu1Qbo3tyY4~VB45gmKxslRgq5LKySL-NNuH82SZPIMq1bE~9v1s8BxHU~41DJZSJDpCyySyEaRFdg1YddwRVNgqJN8vaX01NLTSACjkbU0egKBGT9669i0vaH6nIFtI0U5K1~DcZmNsIjLITWEcqUXQuxDL43hVCymOTtPqT5d9CojMse~k2tHnajP8ab1fVju2czfFl1FgY6Xr-I94me48zvdBeyZbPmFfaZ6JAlNPEddHzXqvLdJmMdpn2PAomWeGU7SYmdKzNMHTnGsNANmehJmDmmxs6e9t-uWrtFY33yI70P0PJGaq8kEBPhN5qOf1A__",
+      "source_audio_url": "https://api.substack.com/feed/podcast/181207556/2ad309cbaf6f3efdd8f3dbabb37cc594.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-18_The-new-AI-growth-playbook-for-2026-How-Lovable-hit-200M-ARR.md",
+      "chars": 94717,
+      "task_id": "426e0353-1fba-4ca2-98c8-3756f255d89e",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://substackcdn.com/video_upload/post/181207556/6cd6ec72-5759-4202-a968-81a44bca55a5/transcoded.mp3?post_id=181207556&relation=podcast_preview&Expires=1776839198&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eiX6KD56GZmJiKH7NSu1Qbo3tyY4~VB45gmKxslRgq5LKySL-NNuH82SZPIMq1bE~9v1s8BxHU~41DJZSJDpCyySyEaRFdg1YddwRVNgqJN8vaX01NLTSACjkbU0egKBGT9669i0vaH6nIFtI0U5K1~DcZmNsIjLITWEcqUXQuxDL43hVCymOTtPqT5d9CojMse~k2tHnajP8ab1fVju2czfFl1FgY6Xr-I94me48zvdBeyZbPmFfaZ6JAlNPEddHzXqvLdJmMdpn2PAomWeGU7SYmdKzNMHTnGsNANmehJmDmmxs6e9t-uWrtFY33yI70P0PJGaq8kEBPhN5qOf1A__",
+        "groq:https://api.substack.com/feed/podcast/181207556/2ad309cbaf6f3efdd8f3dbabb37cc594.mp3",
+        "dashscope:https://substackcdn.com/video_upload/post/181207556/6cd6ec72-5759-4202-a968-81a44bca55a5/transcoded.mp3?post_id=181207556&relation=podcast_preview&Expires=1776839198&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eiX6KD56GZmJiKH7NSu1Qbo3tyY4~VB45gmKxslRgq5LKySL-NNuH82SZPIMq1bE~9v1s8BxHU~41DJZSJDpCyySyEaRFdg1YddwRVNgqJN8vaX01NLTSACjkbU0egKBGT9669i0vaH6nIFtI0U5K1~DcZmNsIjLITWEcqUXQuxDL43hVCymOTtPqT5d9CojMse~k2tHnajP8ab1fVju2czfFl1FgY6Xr-I94me48zvdBeyZbPmFfaZ6JAlNPEddHzXqvLdJmMdpn2PAomWeGU7SYmdKzNMHTnGsNANmehJmDmmxs6e9t-uWrtFY33yI70P0PJGaq8kEBPhN5qOf1A__"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://substackcdn.com/video_upload/post/181207556/6cd6ec72-5759-4202-a968-81a44bca55a5/transcoded.mp3?post_id=181207556&relation=podcast_preview&Expires=1776839198&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eiX6KD56GZmJiKH7NSu1Qbo3tyY4~VB45gmKxslRgq5LKySL-NNuH82SZPIMq1bE~9v1s8BxHU~41DJZSJDpCyySyEaRFdg1YddwRVNgqJN8vaX01NLTSACjkbU0egKBGT9669i0vaH6nIFtI0U5K1~DcZmNsIjLITWEcqUXQuxDL43hVCymOTtPqT5d9CojMse~k2tHnajP8ab1fVju2czfFl1FgY6Xr-I94me48zvdBeyZbPmFfaZ6JAlNPEddHzXqvLdJmMdpn2PAomWeGU7SYmdKzNMHTnGsNANmehJmDmmxs6e9t-uWrtFY33yI70P0PJGaq8kEBPhN5qOf1A__",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 88240656"
+        },
+        {
+          "provider": "groq",
+          "url": "https://api.substack.com/feed/podcast/181207556/2ad309cbaf6f3efdd8f3dbabb37cc594.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 307"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://substackcdn.com/video_upload/post/181207556/6cd6ec72-5759-4202-a968-81a44bca55a5/transcoded.mp3?post_id=181207556&relation=podcast_preview&Expires=1776839198&Key-Pair-Id=APKAIVDA3NPSMPSPESQQ&Signature=eiX6KD56GZmJiKH7NSu1Qbo3tyY4~VB45gmKxslRgq5LKySL-NNuH82SZPIMq1bE~9v1s8BxHU~41DJZSJDpCyySyEaRFdg1YddwRVNgqJN8vaX01NLTSACjkbU0egKBGT9669i0vaH6nIFtI0U5K1~DcZmNsIjLITWEcqUXQuxDL43hVCymOTtPqT5d9CojMse~k2tHnajP8ab1fVju2czfFl1FgY6Xr-I94me48zvdBeyZbPmFfaZ6JAlNPEddHzXqvLdJmMdpn2PAomWeGU7SYmdKzNMHTnGsNANmehJmDmmxs6e9t-uWrtFY33yI70P0PJGaq8kEBPhN5qOf1A__",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "#363.AI时代的增长神话：2亿美金ARR，Lovable如何彻底颠覆传统增长打法？",
+      "date": "2025-12-19",
+      "podcast": "跨国串门儿计划",
+      "audio_url": "https://media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+      "source_audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/6945742e9f70e5d6b34070b9/media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-19_363AI时代的增长神话2亿美金ARRLovable如何彻底颠覆传统增长打法.md",
+      "chars": 28257,
+      "task_id": "cca35e47-5249-48c7-9229-675ebbf45102",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+        "groq:https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/6945742e9f70e5d6b34070b9/media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+        "dashscope:https://media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 77647196"
+        },
+        {
+          "provider": "groq",
+          "url": "https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/6945742e9f70e5d6b34070b9/media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://media.xyzcdn.net/670f3da40d2f24f28978736f/lsTmRl1TXTmiIzkBdznvjYaghuMp.m4a",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "EP26｜Lenny’s: Lovable 是怎么在一年内做到$200M的ARR",
+      "date": "2025-12-24",
+      "podcast": "硅谷声研所",
+      "audio_url": "https://media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+      "source_audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/694bfee8946dca092527c199/media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-24_EP26Lennys-Lovable-是怎么在一年内做到200M的ARR.md",
+      "chars": 24745,
+      "task_id": "651ea0ca-84ec-4b44-ab46-040073106d26",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+        "groq:https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/694bfee8946dca092527c199/media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+        "dashscope:https://media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 70723204"
+        },
+        {
+          "provider": "groq",
+          "url": "https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/694bfee8946dca092527c199/media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://media.xyzcdn.net/69074610aca57a5e75a40cf7/llqtg6n4awgwureW3Y8u_f5pRJ3Q.m4a",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Betting the bracket: title futures, fades, & 5 most lovable and hateable programs",
+      "date": "2022-03-16",
+      "podcast": "College Football Enquirer",
+      "audio_url": "https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_79383116a8007835c039ed29ee6e7d95_55574742.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9&hash_redirect=1&x-total-bytes=55574742&x-ais-classified=streaming&listeningSessionID=0CD_382_110__ca6563137fb068a2fc834123d1aa8a7808fe9dec",
+      "source_audio_url": "https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2022-03-16_Betting-the-bracket-title-futures-fades--5-most-lovable-and.md",
+      "chars": 55621,
+      "task_id": "461d9dcf-5d87-4538-9a24-ac083cc5c9ea",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_79383116a8007835c039ed29ee6e7d95_55574742.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9&hash_redirect=1&x-total-bytes=55574742&x-ais-classified=streaming&listeningSessionID=0CD_382_110__ca6563137fb068a2fc834123d1aa8a7808fe9dec",
+        "groq:https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9",
+        "dashscope:https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_79383116a8007835c039ed29ee6e7d95_55574742.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9&hash_redirect=1&x-total-bytes=55574742&x-ais-classified=streaming&listeningSessionID=0CD_382_110__ca6563137fb068a2fc834123d1aa8a7808fe9dec"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_79383116a8007835c039ed29ee6e7d95_55574742.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9&hash_redirect=1&x-total-bytes=55574742&x-ais-classified=streaming&listeningSessionID=0CD_382_110__ca6563137fb068a2fc834123d1aa8a7808fe9dec",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 55574742"
+        },
+        {
+          "provider": "groq",
+          "url": "https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://injector.simplecastaudio.com/1421fc59-6988-47d2-bc78-4ea80ddee1e9/episodes/8920966b-f05d-4f8d-b327-76c2698cb359/audio/128/default.mp3/default.mp3_ywr3ahjkcgo_79383116a8007835c039ed29ee6e7d95_55574742.mp3?aid=rss_feed&awCollectionId=1421fc59-6988-47d2-bc78-4ea80ddee1e9&awEpisodeId=8920966b-f05d-4f8d-b327-76c2698cb359&feed=9Unh1yK9&hash_redirect=1&x-total-bytes=55574742&x-ais-classified=streaming&listeningSessionID=0CD_382_110__ca6563137fb068a2fc834123d1aa8a7808fe9dec",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Is AI Worth It Yet?",
+      "date": "2025-12-26",
+      "podcast": "The Daily AI Show",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/fab219c1-2f8b-9352-a541-f60f7b70c6ae/2025-12-26_Is-AI-Worth-It-Yet.wav",
+      "source_audio_url": "https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-12-26_Is-AI-Worth-It-Yet.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-12-26_Is-AI-Worth-It-Yet.md",
+      "chars": 37247,
+      "task_id": "565427c7-8fe2-45da-8c43-9d6745ba71f5",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+        "groq:https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+        "dashscope:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+        "dashscope:https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/43eedbff-0a9d-9f43-a2f7-756d1c4296fe/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ae82cc69-50de-944a-8a74-4659e750503f/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/fab219c1-2f8b-9352-a541-f60f7b70c6ae/2025-12-26_Is-AI-Worth-It-Yet.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 49641847"
+        },
+        {
+          "provider": "groq",
+          "url": "https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_403_FORBIDDEN"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/43eedbff-0a9d-9f43-a2f7-756d1c4296fe/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ae82cc69-50de-944a-8a74-4659e750503f/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+          "source_url": "https://anchor.fm/s/e71b9e54/podcast/play/113139722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-26%2F415032617-44100-2-2d064b3b916b3.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-12-26_Is-AI-Worth-It-Yet.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/fab219c1-2f8b-9352-a541-f60f7b70c6ae/2025-12-26_Is-AI-Worth-It-Yet.wav",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-11-26/415032617-44100-2-2d064b3b916b3.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-12-26_Is-AI-Worth-It-Yet.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-12-26_Is-AI-Worth-It-Yet.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "AI Talk 41: Lovable | Synthesia | ElevenLabs | Silo AI | AI-Party geht weiter",
+      "date": "2025-09-03",
+      "podcast": "Trending Topics Tech Talk",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/cfa58c12-fc30-97f6-b22d-e3d14fc15cf0/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav",
+      "source_audio_url": "https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.md",
+      "chars": 40581,
+      "task_id": "87617b81-c807-42b8-b9a2-c8f8459ec171",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+        "groq:https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+        "dashscope:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+        "dashscope:https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/dc2bfd1f-b5f9-9027-b232-d8f4d7d32993/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ce40e69b-015a-9168-9991-2c4b88c387c9/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/cfa58c12-fc30-97f6-b22d-e3d14fc15cf0/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 63410433"
+        },
+        {
+          "provider": "groq",
+          "url": "https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_403_FORBIDDEN"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/dc2bfd1f-b5f9-9027-b232-d8f4d7d32993/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ce40e69b-015a-9168-9991-2c4b88c387c9/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+          "source_url": "https://anchor.fm/s/8bd763c/podcast/play/107640510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-1%2F554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/cfa58c12-fc30-97f6-b22d-e3d14fc15cf0/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-1/554a588d-3adc-e85b-8372-affe374422a8.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2025-09-03_AI-Talk-41-Lovable--Synthesia--ElevenLabs--Silo-AI-AI-Party.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "Bluey vs. Elmo: a lovable debate",
+      "date": "2024-11-28",
+      "podcast": "Smash Boom Best: A funny, smart debate show for kids and family",
+      "audio_url": "https://dcs-cached.megaphone.fm/LEME8019059986.mp3?key=b071bfc174a6d99bf8b54202f77e7b00&request_event_id=f9ec987b-f420-4812-86cf-1c776939f43f&session_id=b89db205-4dee-41c2-9ec6-b06293a8f4bb&timetoken=1776760969_C3A8522CF83E39142E372422BA557FC4",
+      "source_audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME8019059986.mp3?updated=1776089835",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2024-11-28_Bluey-vs-Elmo-a-lovable-debate.md",
+      "chars": 30497,
+      "task_id": "6fade5d3-4989-4011-a8ac-37c6aef80fb9",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://dcs-cached.megaphone.fm/LEME8019059986.mp3?key=b071bfc174a6d99bf8b54202f77e7b00&request_event_id=f9ec987b-f420-4812-86cf-1c776939f43f&session_id=b89db205-4dee-41c2-9ec6-b06293a8f4bb&timetoken=1776760969_C3A8522CF83E39142E372422BA557FC4",
+        "groq:https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME8019059986.mp3?updated=1776089835",
+        "dashscope:https://dcs-cached.megaphone.fm/LEME8019059986.mp3?key=b071bfc174a6d99bf8b54202f77e7b00&request_event_id=f9ec987b-f420-4812-86cf-1c776939f43f&session_id=b89db205-4dee-41c2-9ec6-b06293a8f4bb&timetoken=1776760969_C3A8522CF83E39142E372422BA557FC4"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://dcs-cached.megaphone.fm/LEME8019059986.mp3?key=b071bfc174a6d99bf8b54202f77e7b00&request_event_id=f9ec987b-f420-4812-86cf-1c776939f43f&session_id=b89db205-4dee-41c2-9ec6-b06293a8f4bb&timetoken=1776760969_C3A8522CF83E39142E372422BA557FC4",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 35853767"
+        },
+        {
+          "provider": "groq",
+          "url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/claritaspod.com/measure/pscrb.fm/rss/p/mgln.ai/e/491/traffic.megaphone.fm/LEME8019059986.mp3?updated=1776089835",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://dcs-cached.megaphone.fm/LEME8019059986.mp3?key=b071bfc174a6d99bf8b54202f77e7b00&request_event_id=f9ec987b-f420-4812-86cf-1c776939f43f&session_id=b89db205-4dee-41c2-9ec6-b06293a8f4bb&timetoken=1776760969_C3A8522CF83E39142E372422BA557FC4",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "How to Believe Without a Shadow of a Doubt That You Are Lovable with Sarah",
+      "date": "2024-11-13",
+      "podcast": "Life Coaching with Christine Hassler",
+      "audio_url": "https://content.libsyn.com/p/e/5/d/e5dd79e989f2a531/OVER_477.mp3?c_id=181052252&cs_id=181052252&destination_id=312353&response-content-type=audio%2Fmpeg&Expires=1776756622&Signature=KmhwWXvpJlyH9bPOPwIc-GYRXAap-yG-eFPVm7LSGoDqZQt3eDccy3KDvB3ziw1qHgurPpu2qxA0nYx~yI2S8SmeGQ~SgVgUY6GZBkO8gVICb6a1Ew9UtRM43OO1wQN5R8cO5UTQ70UnE5Rzb1qcv7MGlCgbRTzSy6Jg1cZTOjzlwi7UwNj2Mn6jVjtTkXZwRscdbgMLQ~LghdYYSGZOfo7x0z24NssioO2hmamTUbg9eEPyZ7G8jT5S1J6AlMiZjJACZAWW9~KP7N6Vj5bW24z068GWI1bPimm9aHNF7rwQrHnjZVJgGlzPATHM~E3dnJMkEy68-Ypj13z0~dLVBg__&Key-Pair-Id=K1YS7LZGUP96OI",
+      "source_audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/overitandonwithit/OVER_477.mp3?dest-id=312353",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2024-11-13_How-to-Believe-Without-a-Shadow-of-a-Doubt-That-You-Are-Lova.md",
+      "chars": 27221,
+      "task_id": "f98d0d4a-4bda-4cd4-aa4e-36a89bbf7d1a",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://content.libsyn.com/p/e/5/d/e5dd79e989f2a531/OVER_477.mp3?c_id=181052252&cs_id=181052252&destination_id=312353&response-content-type=audio%2Fmpeg&Expires=1776756622&Signature=KmhwWXvpJlyH9bPOPwIc-GYRXAap-yG-eFPVm7LSGoDqZQt3eDccy3KDvB3ziw1qHgurPpu2qxA0nYx~yI2S8SmeGQ~SgVgUY6GZBkO8gVICb6a1Ew9UtRM43OO1wQN5R8cO5UTQ70UnE5Rzb1qcv7MGlCgbRTzSy6Jg1cZTOjzlwi7UwNj2Mn6jVjtTkXZwRscdbgMLQ~LghdYYSGZOfo7x0z24NssioO2hmamTUbg9eEPyZ7G8jT5S1J6AlMiZjJACZAWW9~KP7N6Vj5bW24z068GWI1bPimm9aHNF7rwQrHnjZVJgGlzPATHM~E3dnJMkEy68-Ypj13z0~dLVBg__&Key-Pair-Id=K1YS7LZGUP96OI",
+        "groq:https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/overitandonwithit/OVER_477.mp3?dest-id=312353",
+        "dashscope:https://content.libsyn.com/p/e/5/d/e5dd79e989f2a531/OVER_477.mp3?c_id=181052252&cs_id=181052252&destination_id=312353&response-content-type=audio%2Fmpeg&Expires=1776756622&Signature=KmhwWXvpJlyH9bPOPwIc-GYRXAap-yG-eFPVm7LSGoDqZQt3eDccy3KDvB3ziw1qHgurPpu2qxA0nYx~yI2S8SmeGQ~SgVgUY6GZBkO8gVICb6a1Ew9UtRM43OO1wQN5R8cO5UTQ70UnE5Rzb1qcv7MGlCgbRTzSy6Jg1cZTOjzlwi7UwNj2Mn6jVjtTkXZwRscdbgMLQ~LghdYYSGZOfo7x0z24NssioO2hmamTUbg9eEPyZ7G8jT5S1J6AlMiZjJACZAWW9~KP7N6Vj5bW24z068GWI1bPimm9aHNF7rwQrHnjZVJgGlzPATHM~E3dnJMkEy68-Ypj13z0~dLVBg__&Key-Pair-Id=K1YS7LZGUP96OI"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://content.libsyn.com/p/e/5/d/e5dd79e989f2a531/OVER_477.mp3?c_id=181052252&cs_id=181052252&destination_id=312353&response-content-type=audio%2Fmpeg&Expires=1776756622&Signature=KmhwWXvpJlyH9bPOPwIc-GYRXAap-yG-eFPVm7LSGoDqZQt3eDccy3KDvB3ziw1qHgurPpu2qxA0nYx~yI2S8SmeGQ~SgVgUY6GZBkO8gVICb6a1Ew9UtRM43OO1wQN5R8cO5UTQ70UnE5Rzb1qcv7MGlCgbRTzSy6Jg1cZTOjzlwi7UwNj2Mn6jVjtTkXZwRscdbgMLQ~LghdYYSGZOfo7x0z24NssioO2hmamTUbg9eEPyZ7G8jT5S1J6AlMiZjJACZAWW9~KP7N6Vj5bW24z068GWI1bPimm9aHNF7rwQrHnjZVJgGlzPATHM~E3dnJMkEy68-Ypj13z0~dLVBg__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 33613747"
+        },
+        {
+          "provider": "groq",
+          "url": "https://podtrac.com/pts/redirect.mp3/traffic.libsyn.com/secure/overitandonwithit/OVER_477.mp3?dest-id=312353",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://content.libsyn.com/p/e/5/d/e5dd79e989f2a531/OVER_477.mp3?c_id=181052252&cs_id=181052252&destination_id=312353&response-content-type=audio%2Fmpeg&Expires=1776756622&Signature=KmhwWXvpJlyH9bPOPwIc-GYRXAap-yG-eFPVm7LSGoDqZQt3eDccy3KDvB3ziw1qHgurPpu2qxA0nYx~yI2S8SmeGQ~SgVgUY6GZBkO8gVICb6a1Ew9UtRM43OO1wQN5R8cO5UTQ70UnE5Rzb1qcv7MGlCgbRTzSy6Jg1cZTOjzlwi7UwNj2Mn6jVjtTkXZwRscdbgMLQ~LghdYYSGZOfo7x0z24NssioO2hmamTUbg9eEPyZ7G8jT5S1J6AlMiZjJACZAWW9~KP7N6Vj5bW24z068GWI1bPimm9aHNF7rwQrHnjZVJgGlzPATHM~E3dnJMkEy68-Ypj13z0~dLVBg__&Key-Pair-Id=K1YS7LZGUP96OI",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Ep 56 Are you Lovable?",
+      "date": "2019-02-19",
+      "podcast": "Marriage Therapy Radio",
+      "audio_url": "https://rss.art19.com/external/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "source_audio_url": "https://rss.art19.com/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2019-02-19_Ep-56-Are-you-Lovable.md",
+      "chars": 22758,
+      "task_id": "aa98dced-68bc-46d6-aa22-e483c9f2ebc8",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://rss.art19.com/external/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "groq:https://rss.art19.com/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "dashscope:https://rss.art19.com/external/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://rss.art19.com/external/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "groq",
+          "url": "https://rss.art19.com/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://rss.art19.com/external/episodes/b4b3b37f-576e-49c3-ab5d-dffe0f1e0e8b.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "Build Websites in 30 Minutes | AI Website Builders for Product Managers | Replit vs Lovable Demo",
+      "date": "2025-10-24",
+      "podcast": "Everything Product Podcast",
+      "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-24/409910143-44100-2-4cdc234245ab6.mp3",
+      "source_audio_url": "https://anchor.fm/s/a588048c/podcast/play/110166587/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-24%2F409910143-44100-2-4cdc234245ab6.mp3",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-10-24_Build-Websites-in-30-Minutes--AI-Website-Builders-for-Produc.md",
+      "chars": 18009,
+      "task_id": "",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-24/409910143-44100-2-4cdc234245ab6.mp3"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-9-24/409910143-44100-2-4cdc234245ab6.mp3",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "groq",
+      "transcription_engine": "groq_whisper-large-v3-turbo"
+    },
+    {
+      "status": "success",
+      "title": "Note vocale #82 : OpenClaw, Lovable et le futur du vibe-coding",
+      "date": "2026-02-06",
+      "podcast": "IA x no-code : rejoignez l'avant-garde",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/c7b98200-d169-92de-af7d-0bdec6fb6016/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav",
+      "source_audio_url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.mp3",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.md",
+      "chars": 21398,
+      "task_id": "ae03da63-9da6-4dc6-94ae-238d4defd14b",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://audio.hosakka.studio/episodes/episode6022026.mp3",
+        "dashscope:https://audio.hosakka.studio/episodes/episode6022026.mp3",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/e0aa79c0-4233-98e8-a49e-1de483be9a6a/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.mp3",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/c7b98200-d169-92de-af7d-0bdec6fb6016/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 48676125"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+          "success": false,
+          "error": "Transcription polling timeout after 900s"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/e0aa79c0-4233-98e8-a49e-1de483be9a6a/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.mp3",
+          "source_url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/c7b98200-d169-92de-af7d-0bdec6fb6016/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav",
+          "source_url": "https://audio.hosakka.studio/episodes/episode6022026.mp3",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.mp3",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-02-06_Note-vocale-82--OpenClaw-Lovable-et-le-futur-du-vibe-coding.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "How to Describe Someone's Lovable Quirks in English",
+      "date": "2025-05-20",
+      "podcast": "All Ears English Podcast",
+      "audio_url": "https://dcs-cached.megaphone.fm/ALLE3731227511.mp3?key=d756bcc81eb33ce875c04d4a5c09d04f&request_event_id=8beb1d52-df20-4f60-b287-f241a8881aa8&session_id=4ed576ac-7cae-4e22-b552-b6083fa74e6d&timetoken=1776762891_EFD3C2F4F21B18782BF30D79D8FA3CEA",
+      "source_audio_url": "https://traffic.megaphone.fm/ALLE3731227511.mp3?updated=1747402831",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-05-20_How-to-Describe-Someones-Lovable-Quirks-in-English.md",
+      "chars": 18012,
+      "task_id": "d6f010d9-ee28-482c-b8f6-94340829428c",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://dcs-cached.megaphone.fm/ALLE3731227511.mp3?key=d756bcc81eb33ce875c04d4a5c09d04f&request_event_id=8beb1d52-df20-4f60-b287-f241a8881aa8&session_id=4ed576ac-7cae-4e22-b552-b6083fa74e6d&timetoken=1776762891_EFD3C2F4F21B18782BF30D79D8FA3CEA",
+        "groq:https://traffic.megaphone.fm/ALLE3731227511.mp3?updated=1747402831",
+        "dashscope:https://dcs-cached.megaphone.fm/ALLE3731227511.mp3?key=d756bcc81eb33ce875c04d4a5c09d04f&request_event_id=8beb1d52-df20-4f60-b287-f241a8881aa8&session_id=4ed576ac-7cae-4e22-b552-b6083fa74e6d&timetoken=1776762891_EFD3C2F4F21B18782BF30D79D8FA3CEA"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://dcs-cached.megaphone.fm/ALLE3731227511.mp3?key=d756bcc81eb33ce875c04d4a5c09d04f&request_event_id=8beb1d52-df20-4f60-b287-f241a8881aa8&session_id=4ed576ac-7cae-4e22-b552-b6083fa74e6d&timetoken=1776762891_EFD3C2F4F21B18782BF30D79D8FA3CEA",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 36374522"
+        },
+        {
+          "provider": "groq",
+          "url": "https://traffic.megaphone.fm/ALLE3731227511.mp3?updated=1747402831",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://dcs-cached.megaphone.fm/ALLE3731227511.mp3?key=d756bcc81eb33ce875c04d4a5c09d04f&request_event_id=8beb1d52-df20-4f60-b287-f241a8881aa8&session_id=4ed576ac-7cae-4e22-b552-b6083fa74e6d&timetoken=1776762891_EFD3C2F4F21B18782BF30D79D8FA3CEA",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    },
+    {
+      "status": "success",
+      "title": "⁠⁠◆【日刊】26/4/13最新AIトレンド情報サマリー⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ →ClaudeにApp Builder機能が開発中？LovableやBoltnewを脅かすリーク画像が拡散",
+      "date": "2026-04-13",
+      "podcast": "AIクエスト（今日から始めるAI生活）",
+      "audio_url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/306219fa-c6d3-9b7b-9dbf-8d6ee3f8356f/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav",
+      "source_audio_url": "https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+      "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+      "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.md",
+      "chars": 6699,
+      "task_id": "da4b6872-27f3-4c0f-9747-09aba1e03308",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+        "groq:https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+        "dashscope:https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+        "dashscope:https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/bc315dc9-0999-9361-9395-c60d5257620e/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+        "dashscope_oss:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ad684df8-a0ae-9e70-93f6-999a0577328d/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+        "dashscope_rest:oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/306219fa-c6d3-9b7b-9dbf-8d6ee3f8356f/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Groq failed: media file too large - size limit: 26214400, actual size: 32525214"
+        },
+        {
+          "provider": "groq",
+          "url": "https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Subtask failed: FILE_403_FORBIDDEN"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/bc315dc9-0999-9361-9395-c60d5257620e/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "dashscope_oss",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/ad684df8-a0ae-9e70-93f6-999a0577328d/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+          "source_url": "https://anchor.fm/s/1023cdb30/podcast/play/118392059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Feaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "success": false,
+          "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+        },
+        {
+          "provider": "standard_audio",
+          "url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav",
+          "success": true,
+          "error": ""
+        },
+        {
+          "provider": "dashscope_rest",
+          "url": "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-21/306219fa-c6d3-9b7b-9dbf-8d6ee3f8356f/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav",
+          "source_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-3-13/eaa6aefc-b6bd-638a-7c84-a77c700d8e41.m4a",
+          "local_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_audio_cache/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.m4a",
+          "standard_audio_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/_standard_audio/2026-04-13_日刊26413最新AIトレンド情報サマリー-ClaudeにApp-Builder機能が開発中LovableやBoltne.wav",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope_rest",
+      "transcription_engine": "dashscope_paraformer_v2_rest"
+    },
+    {
+      "status": "success",
+      "title": "Lovable 增长负责人：10 个月获得百万用户的增长策略",
+      "date": "2025-10-26",
+      "podcast": "David的AI全景图",
+      "audio_url": "https://media.xyzcdn.net/6817326667bb8cf522f22b32/ltdp_exgEZB6unETV6gLS8BwkB3s.m4a",
+      "source_audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6817326667bb8cf522f22b32/68fe237f01567203211c9dbc/media.xyzcdn.net/6817326667bb8cf522f22b32/ltdp_exgEZB6unETV6gLS8BwkB3s.m4a",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/podcasts_transcripts/2025-10-26_Lovable-增长负责人10-个月获得百万用户的增长策略.md",
+      "chars": 3840,
+      "task_id": "",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://media.xyzcdn.net/6817326667bb8cf522f22b32/ltdp_exgEZB6unETV6gLS8BwkB3s.m4a"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://media.xyzcdn.net/6817326667bb8cf522f22b32/ltdp_exgEZB6unETV6gLS8BwkB3s.m4a",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "groq",
+      "transcription_engine": "groq_whisper-large-v3-turbo"
+    }
+  ]
+}

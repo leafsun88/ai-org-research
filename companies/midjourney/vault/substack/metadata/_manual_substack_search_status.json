@@ -1,0 +1,33 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "generated_at": "2026-04-21T22:36:57",
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/substack/metadata/_manual_substack_query_map.md",
+  "candidate_count": 5,
+  "statuses": [
+    {
+      "provider": "duckduckgo",
+      "query": "site:substack.com/p Midjourney David Holz Substack",
+      "status": "success",
+      "returned": 0
+    },
+    {
+      "provider": "bing",
+      "query": "site:substack.com/p Midjourney David Holz Substack",
+      "status": "success",
+      "returned": 0
+    },
+    {
+      "provider": "duckduckgo",
+      "query": "site:substack.com Midjourney David Holz Substack",
+      "status": "success",
+      "returned": 0
+    },
+    {
+      "provider": "bing",
+      "query": "site:substack.com Midjourney David Holz Substack",
+      "status": "success",
+      "returned": 0
+    }
+  ]
+}

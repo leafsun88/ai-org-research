@@ -1,0 +1,1803 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "hqIU6hluMZA",
+  "url": "https://www.youtube.com/watch?v=hqIU6hluMZA",
+  "title": "Stop using V0 and Lovable to prototype, use Claude Code instead",
+  "channel": "The Design Project",
+  "source_queries": [
+    "Lovable prototype to production"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:17:49",
+  "segments": [
+    {
+      "text": "If you&#39;re using Vzero or Lovable to",
+      "duration": 4.56,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "prototype and it&#39;s working, keep using",
+      "duration": 4.4,
+      "offset": 2.4,
+      "lang": "en"
+    },
+    {
+      "text": "it. But if you&#39;ve ever spent 45 minutes",
+      "duration": 4.24,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "going back and forth with AI to help fix",
+      "duration": 4.0,
+      "offset": 6.8,
+      "lang": "en"
+    },
+    {
+      "text": "something, watching it break something",
+      "duration": 4.24,
+      "offset": 8.96,
+      "lang": "en"
+    },
+    {
+      "text": "else, fix that and then the first thing",
+      "duration": 5.12,
+      "offset": 10.8,
+      "lang": "en"
+    },
+    {
+      "text": "breaks again. You&#39;re hitting the wall.",
+      "duration": 4.32,
+      "offset": 13.2,
+      "lang": "en"
+    },
+    {
+      "text": "Today, I&#39;m going to show you when it&#39;s",
+      "duration": 4.48,
+      "offset": 15.92,
+      "lang": "en"
+    },
+    {
+      "text": "time to stop prototyping in a sandbox. A",
+      "duration": 6.56,
+      "offset": 17.52,
+      "lang": "en"
+    },
+    {
+      "text": "sandbox is lovable, the zero, base 44,",
+      "duration": 5.76,
+      "offset": 20.4,
+      "lang": "en"
+    },
+    {
+      "text": "all of those prototyping tools that sit",
+      "duration": 4.88,
+      "offset": 24.08,
+      "lang": "en"
+    },
+    {
+      "text": "on top of the actual code. and to start",
+      "duration": 5.12,
+      "offset": 26.16,
+      "lang": "en"
+    },
+    {
+      "text": "prototyping directly in your codebase.",
+      "duration": 4.64,
+      "offset": 28.96,
+      "lang": "en"
+    },
+    {
+      "text": "So what is actually happening when",
+      "duration": 4.72,
+      "offset": 31.28,
+      "lang": "en"
+    },
+    {
+      "text": "lovable keeps breaking? These tools make",
+      "duration": 6.0,
+      "offset": 33.6,
+      "lang": "en"
+    },
+    {
+      "text": "decisions for you. And that&#39;s the magic.",
+      "duration": 5.44,
+      "offset": 36.0,
+      "lang": "en"
+    },
+    {
+      "text": "You describe what you want and AI",
+      "duration": 4.16,
+      "offset": 39.6,
+      "lang": "en"
+    },
+    {
+      "text": "figures out how to build it. But when it",
+      "duration": 4.56,
+      "offset": 41.44,
+      "lang": "en"
+    },
+    {
+      "text": "guesses wrong, you&#39;re stuck because you",
+      "duration": 4.8,
+      "offset": 43.76,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t know what it decided or why it",
+      "duration": 4.48,
+      "offset": 46.0,
+      "lang": "en"
+    },
+    {
+      "text": "broke and you can&#39;t fix what you don&#39;t",
+      "duration": 4.16,
+      "offset": 48.56,
+      "lang": "en"
+    },
+    {
+      "text": "understand. But these guardrails are put",
+      "duration": 4.88,
+      "offset": 50.48,
+      "lang": "en"
+    },
+    {
+      "text": "in place so everyone who wants to",
+      "duration": 4.96,
+      "offset": 52.72,
+      "lang": "en"
+    },
+    {
+      "text": "prototype can. These are beautiful",
+      "duration": 4.88,
+      "offset": 55.36,
+      "lang": "en"
+    },
+    {
+      "text": "tools. And the even bigger problem for",
+      "duration": 4.48,
+      "offset": 57.68,
+      "lang": "en"
+    },
+    {
+      "text": "product teams is that you build a",
+      "duration": 4.32,
+      "offset": 60.24,
+      "lang": "en"
+    },
+    {
+      "text": "prototype in v 0ero. It looks great. You",
+      "duration": 4.4,
+      "offset": 62.16,
+      "lang": "en"
+    },
+    {
+      "text": "show it to the stakeholders. Everybody&#39;s",
+      "duration": 3.92,
+      "offset": 64.56,
+      "lang": "en"
+    },
+    {
+      "text": "excited. Then you hand it to your dev",
+      "duration": 4.32,
+      "offset": 66.56,
+      "lang": "en"
+    },
+    {
+      "text": "team and they say, &quot;Cool, but we can&#39;t",
+      "duration": 4.96,
+      "offset": 68.48,
+      "lang": "en"
+    },
+    {
+      "text": "use any of this code. It doesn&#39;t match",
+      "duration": 5.36,
+      "offset": 70.88,
+      "lang": "en"
+    },
+    {
+      "text": "our codebase, our design system, or our",
+      "duration": 5.76,
+      "offset": 73.44,
+      "lang": "en"
+    },
+    {
+      "text": "architecture.&quot; So then they rebuild your",
+      "duration": 5.76,
+      "offset": 76.24,
+      "lang": "en"
+    },
+    {
+      "text": "v0ero lovable prototype from scratch.",
+      "duration": 5.44,
+      "offset": 79.2,
+      "lang": "en"
+    },
+    {
+      "text": "you just added an extra cycle to your",
+      "duration": 5.04,
+      "offset": 82.0,
+      "lang": "en"
+    },
+    {
+      "text": "dev process instead of removing one. So",
+      "duration": 4.64,
+      "offset": 84.64,
+      "lang": "en"
+    },
+    {
+      "text": "this shift that happens that I just",
+      "duration": 4.4,
+      "offset": 87.04,
+      "lang": "en"
+    },
+    {
+      "text": "described when you realize v 0ero",
+      "duration": 4.0,
+      "offset": 89.28,
+      "lang": "en"
+    },
+    {
+      "text": "lovable are sandboxes they&#39;re not able",
+      "duration": 3.76,
+      "offset": 91.44,
+      "lang": "en"
+    },
+    {
+      "text": "to do what you need them to do it&#39;s",
+      "duration": 3.68,
+      "offset": 93.28,
+      "lang": "en"
+    },
+    {
+      "text": "because you&#39;re building in isolation but",
+      "duration": 3.68,
+      "offset": 95.2,
+      "lang": "en"
+    },
+    {
+      "text": "what if you could prototype directly in",
+      "duration": 4.48,
+      "offset": 96.96,
+      "lang": "en"
+    },
+    {
+      "text": "the codebase same conversation with AI",
+      "duration": 4.88,
+      "offset": 98.88,
+      "lang": "en"
+    },
+    {
+      "text": "same build this for me chat experience",
+      "duration": 4.16,
+      "offset": 101.44,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;re used to but now it&#39;s being",
+      "duration": 3.44,
+      "offset": 103.76,
+      "lang": "en"
+    },
+    {
+      "text": "built on top of the foundation that your",
+      "duration": 4.0,
+      "offset": 105.6,
+      "lang": "en"
+    },
+    {
+      "text": "team has already created enter claude",
+      "duration": 4.8,
+      "offset": 107.2,
+      "lang": "en"
+    },
+    {
+      "text": "code and no you don&#39;t need to learn code",
+      "duration": 4.24,
+      "offset": 109.6,
+      "lang": "en"
+    },
+    {
+      "text": "the terminal is just a chat window",
+      "duration": 4.64,
+      "offset": 112.0,
+      "lang": "en"
+    },
+    {
+      "text": "without all the fancy UI so how To get",
+      "duration": 4.72,
+      "offset": 113.84,
+      "lang": "en"
+    },
+    {
+      "text": "started, first you want to download a",
+      "duration": 4.24,
+      "offset": 116.64,
+      "lang": "en"
+    },
+    {
+      "text": "terminal. A lot of people use cursor. I",
+      "duration": 4.72,
+      "offset": 118.56,
+      "lang": "en"
+    },
+    {
+      "text": "started off with cursor when I made this",
+      "duration": 6.24,
+      "offset": 120.88,
+      "lang": "en"
+    },
+    {
+      "text": "transition, but cursor is great if you",
+      "duration": 6.64,
+      "offset": 123.28,
+      "lang": "en"
+    },
+    {
+      "text": "know code or if you&#39;re using the cursor",
+      "duration": 6.24,
+      "offset": 127.12,
+      "lang": "en"
+    },
+    {
+      "text": "AI experience. I want to use cloud code.",
+      "duration": 6.48,
+      "offset": 129.92,
+      "lang": "en"
+    },
+    {
+      "text": "So I don&#39;t need everything else that",
+      "duration": 5.2,
+      "offset": 133.36,
+      "lang": "en"
+    },
+    {
+      "text": "comes with cursor. All I want is just a",
+      "duration": 4.0,
+      "offset": 136.4,
+      "lang": "en"
+    },
+    {
+      "text": "really simple interface that I can chat",
+      "duration": 3.44,
+      "offset": 138.56,
+      "lang": "en"
+    },
+    {
+      "text": "with. Let me share my screen and show",
+      "duration": 4.0,
+      "offset": 140.4,
+      "lang": "en"
+    },
+    {
+      "text": "you what I use. So this is a terminal",
+      "duration": 5.12,
+      "offset": 142.0,
+      "lang": "en"
+    },
+    {
+      "text": "called Ghostly. I will share the link to",
+      "duration": 5.12,
+      "offset": 144.4,
+      "lang": "en"
+    },
+    {
+      "text": "download in the description.",
+      "duration": 5.2,
+      "offset": 147.12,
+      "lang": "en"
+    },
+    {
+      "text": "Essentially, it&#39;s just basic. You&#39;re",
+      "duration": 4.48,
+      "offset": 149.52,
+      "lang": "en"
+    },
+    {
+      "text": "just writing code here, chatting with",
+      "duration": 4.16,
+      "offset": 152.32,
+      "lang": "en"
+    },
+    {
+      "text": "Claude. A big learning curve for me were",
+      "duration": 4.08,
+      "offset": 154.0,
+      "lang": "en"
+    },
+    {
+      "text": "things like, I don&#39;t even know what this",
+      "duration": 3.52,
+      "offset": 156.48,
+      "lang": "en"
+    },
+    {
+      "text": "means, right? So, what I do is I",
+      "duration": 5.12,
+      "offset": 158.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually take this, I say, what does",
+      "duration": 7.84,
+      "offset": 160.0,
+      "lang": "en"
+    },
+    {
+      "text": "this mean in the terminal",
+      "duration": 7.84,
+      "offset": 163.2,
+      "lang": "en"
+    },
+    {
+      "text": "to Chad GBT? And it helps me understand",
+      "duration": 5.36,
+      "offset": 167.84,
+      "lang": "en"
+    },
+    {
+      "text": "a few things that look a little fancy",
+      "duration": 5.12,
+      "offset": 171.04,
+      "lang": "en"
+    },
+    {
+      "text": "that at first I was like, what am I",
+      "duration": 5.52,
+      "offset": 173.2,
+      "lang": "en"
+    },
+    {
+      "text": "supposed to do? Um, such as the X. What",
+      "duration": 5.36,
+      "offset": 176.16,
+      "lang": "en"
+    },
+    {
+      "text": "does this X even mean? It basically now",
+      "duration": 4.4,
+      "offset": 178.72,
+      "lang": "en"
+    },
+    {
+      "text": "I know it means that you haven&#39;t",
+      "duration": 3.84,
+      "offset": 181.52,
+      "lang": "en"
+    },
+    {
+      "text": "committed code, which is good to know.",
+      "duration": 5.44,
+      "offset": 183.12,
+      "lang": "en"
+    },
+    {
+      "text": "Um, so let&#39;s get into cloud because this",
+      "duration": 4.56,
+      "offset": 185.36,
+      "lang": "en"
+    },
+    {
+      "text": "is going to feel way more familiar. I&#39;m",
+      "duration": 3.52,
+      "offset": 188.56,
+      "lang": "en"
+    },
+    {
+      "text": "just going to say Claude.",
+      "duration": 3.92,
+      "offset": 189.92,
+      "lang": "en"
+    },
+    {
+      "text": "There we go. Now we&#39;re working with",
+      "duration": 3.36,
+      "offset": 192.08,
+      "lang": "en"
+    },
+    {
+      "text": "Encloud code, which means you don&#39;t",
+      "duration": 2.72,
+      "offset": 193.84,
+      "lang": "en"
+    },
+    {
+      "text": "really have to use coding language. You",
+      "duration": 2.24,
+      "offset": 195.44,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have to know coding language. You",
+      "duration": 3.12,
+      "offset": 196.56,
+      "lang": "en"
+    },
+    {
+      "text": "just have to chat. and it&#39;s very clean.",
+      "duration": 3.52,
+      "offset": 197.68,
+      "lang": "en"
+    },
+    {
+      "text": "So the feature we&#39;re going to be working",
+      "duration": 5.52,
+      "offset": 199.68,
+      "lang": "en"
+    },
+    {
+      "text": "on is I am in cal.com and I want to not",
+      "duration": 5.68,
+      "offset": 201.2,
+      "lang": "en"
+    },
+    {
+      "text": "just schedule a new event. I wanted to",
+      "duration": 4.16,
+      "offset": 205.2,
+      "lang": "en"
+    },
+    {
+      "text": "schedule a oneoff meeting. So this is a",
+      "duration": 5.36,
+      "offset": 206.88,
+      "lang": "en"
+    },
+    {
+      "text": "pretty big feature. Um I want to see how",
+      "duration": 6.0,
+      "offset": 209.36,
+      "lang": "en"
+    },
+    {
+      "text": "claude code in plan mode helps me",
+      "duration": 5.36,
+      "offset": 212.24,
+      "lang": "en"
+    },
+    {
+      "text": "understand how I can architect this out.",
+      "duration": 4.16,
+      "offset": 215.36,
+      "lang": "en"
+    },
+    {
+      "text": "The other thing I want to share is I no",
+      "duration": 3.76,
+      "offset": 217.6,
+      "lang": "en"
+    },
+    {
+      "text": "longer type everything out. I now",
+      "duration": 4.56,
+      "offset": 219.52,
+      "lang": "en"
+    },
+    {
+      "text": "dictate. I have a dictation tool called",
+      "duration": 5.92,
+      "offset": 221.36,
+      "lang": "en"
+    },
+    {
+      "text": "Whisperflow. And basically I can hit the",
+      "duration": 6.32,
+      "offset": 224.08,
+      "lang": "en"
+    },
+    {
+      "text": "Fn button and I can dictate here and I",
+      "duration": 5.76,
+      "offset": 227.28,
+      "lang": "en"
+    },
+    {
+      "text": "can say what I want and it&#39;s going to",
+      "duration": 6.24,
+      "offset": 230.4,
+      "lang": "en"
+    },
+    {
+      "text": "appear here. So I am going to dictate",
+      "duration": 7.04,
+      "offset": 233.04,
+      "lang": "en"
+    },
+    {
+      "text": "exactly what I want. The other important",
+      "duration": 5.84,
+      "offset": 236.64,
+      "lang": "en"
+    },
+    {
+      "text": "thing that I suggest everyone do",
+      "duration": 4.88,
+      "offset": 240.08,
+      "lang": "en"
+    },
+    {
+      "text": "especially in plan mode is before you",
+      "duration": 4.64,
+      "offset": 242.48,
+      "lang": "en"
+    },
+    {
+      "text": "say what you want you should use the",
+      "duration": 6.08,
+      "offset": 244.96,
+      "lang": "en"
+    },
+    {
+      "text": "prompt I am a worldrenowned startup CTO.",
+      "duration": 7.6,
+      "offset": 247.12,
+      "lang": "en"
+    },
+    {
+      "text": "That puts Claude code in the perspective",
+      "duration": 5.44,
+      "offset": 251.04,
+      "lang": "en"
+    },
+    {
+      "text": "of coming up with ideas and",
+      "duration": 3.6,
+      "offset": 254.72,
+      "lang": "en"
+    },
+    {
+      "text": "brainstorming and being that plan mode",
+      "duration": 4.96,
+      "offset": 256.48,
+      "lang": "en"
+    },
+    {
+      "text": "person. And just by saying that first,",
+      "duration": 5.76,
+      "offset": 258.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m getting really quality answers and",
+      "duration": 7.44,
+      "offset": 261.44,
+      "lang": "en"
+    },
+    {
+      "text": "questions from God. So here&#39;s my prompt.",
+      "duration": 7.04,
+      "offset": 264.08,
+      "lang": "en"
+    },
+    {
+      "text": "You are a worldrenowned expert startup",
+      "duration": 4.88,
+      "offset": 268.88,
+      "lang": "en"
+    },
+    {
+      "text": "CTO. I need to add a new feature, an",
+      "duration": 5.44,
+      "offset": 271.12,
+      "lang": "en"
+    },
+    {
+      "text": "option to schedule a one-time meeting. I",
+      "duration": 4.72,
+      "offset": 273.76,
+      "lang": "en"
+    },
+    {
+      "text": "want it to appear as a button in between",
+      "duration": 4.24,
+      "offset": 276.56,
+      "lang": "en"
+    },
+    {
+      "text": "search and new on the top. It should be",
+      "duration": 4.08,
+      "offset": 278.48,
+      "lang": "en"
+    },
+    {
+      "text": "secondary and it should open a popup",
+      "duration": 4.24,
+      "offset": 280.8,
+      "lang": "en"
+    },
+    {
+      "text": "where I can choose specific times for a",
+      "duration": 4.48,
+      "offset": 282.56,
+      "lang": "en"
+    },
+    {
+      "text": "meeting. Can you help me understand how",
+      "duration": 4.24,
+      "offset": 285.04,
+      "lang": "en"
+    },
+    {
+      "text": "to create this one-time meeting using",
+      "duration": 4.72,
+      "offset": 287.04,
+      "lang": "en"
+    },
+    {
+      "text": "patterns already established in cal.com",
+      "duration": 5.68,
+      "offset": 289.28,
+      "lang": "en"
+    },
+    {
+      "text": "to make the user experience seamless?",
+      "duration": 5.92,
+      "offset": 291.76,
+      "lang": "en"
+    },
+    {
+      "text": "And while this is running, if you are",
+      "duration": 4.4,
+      "offset": 294.96,
+      "lang": "en"
+    },
+    {
+      "text": "trying to figure out with your team how",
+      "duration": 3.76,
+      "offset": 297.68,
+      "lang": "en"
+    },
+    {
+      "text": "to actually get into the codebase, how",
+      "duration": 4.32,
+      "offset": 299.36,
+      "lang": "en"
+    },
+    {
+      "text": "how to actually build on top of the",
+      "duration": 4.88,
+      "offset": 301.44,
+      "lang": "en"
+    },
+    {
+      "text": "codebase, you are not technical, reach",
+      "duration": 4.0,
+      "offset": 303.68,
+      "lang": "en"
+    },
+    {
+      "text": "out to me. I would love to have a",
+      "duration": 4.08,
+      "offset": 306.32,
+      "lang": "en"
+    },
+    {
+      "text": "conversation about how my team could",
+      "duration": 5.2,
+      "offset": 307.68,
+      "lang": "en"
+    },
+    {
+      "text": "help be more involved in getting this",
+      "duration": 5.12,
+      "offset": 310.4,
+      "lang": "en"
+    },
+    {
+      "text": "design development workflows in place.",
+      "duration": 4.4,
+      "offset": 312.88,
+      "lang": "en"
+    },
+    {
+      "text": "So you see here it&#39;s running three",
+      "duration": 4.32,
+      "offset": 315.52,
+      "lang": "en"
+    },
+    {
+      "text": "explore agents. So at the same time it&#39;s",
+      "duration": 4.16,
+      "offset": 317.28,
+      "lang": "en"
+    },
+    {
+      "text": "looking through the top nav the modal",
+      "duration": 3.2,
+      "offset": 319.84,
+      "lang": "en"
+    },
+    {
+      "text": "dialogue patterns and it&#39;s going to be",
+      "duration": 3.52,
+      "offset": 321.44,
+      "lang": "en"
+    },
+    {
+      "text": "in a second looking through the meeting",
+      "duration": 5.4,
+      "offset": 323.04,
+      "lang": "en"
+    },
+    {
+      "text": "creation patterns.",
+      "duration": 3.48,
+      "offset": 324.96,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So it has a clear did you hear",
+      "duration": 7.12,
+      "offset": 329.04,
+      "lang": "en"
+    },
+    {
+      "text": "that? Doo. So, that&#39;s also something",
+      "duration": 3.68,
+      "offset": 334.32,
+      "lang": "en"
+    },
+    {
+      "text": "really great about Ghostly is, of",
+      "duration": 2.88,
+      "offset": 336.16,
+      "lang": "en"
+    },
+    {
+      "text": "course, this is happening in the",
+      "duration": 2.64,
+      "offset": 338.0,
+      "lang": "en"
+    },
+    {
+      "text": "background. It took four or five",
+      "duration": 4.08,
+      "offset": 339.04,
+      "lang": "en"
+    },
+    {
+      "text": "minutes. Um, and I usually put it off to",
+      "duration": 5.68,
+      "offset": 340.64,
+      "lang": "en"
+    },
+    {
+      "text": "the side so that I can do something else",
+      "duration": 5.92,
+      "offset": 343.12,
+      "lang": "en"
+    },
+    {
+      "text": "while it&#39;s doing its thing and then it",
+      "duration": 4.64,
+      "offset": 346.32,
+      "lang": "en"
+    },
+    {
+      "text": "notifies me when it&#39;s done. So, then I",
+      "duration": 4.48,
+      "offset": 349.04,
+      "lang": "en"
+    },
+    {
+      "text": "can come back to it. Um, so that&#39;s",
+      "duration": 6.08,
+      "offset": 350.96,
+      "lang": "en"
+    },
+    {
+      "text": "really cool terminal feature. Okay, so",
+      "duration": 5.12,
+      "offset": 353.52,
+      "lang": "en"
+    },
+    {
+      "text": "it says, &quot;I have a really clear picture",
+      "duration": 3.44,
+      "offset": 357.04,
+      "lang": "en"
+    },
+    {
+      "text": "of the navigation structure and I have a",
+      "duration": 3.2,
+      "offset": 358.64,
+      "lang": "en"
+    },
+    {
+      "text": "few important questions to clarify",
+      "duration": 4.4,
+      "offset": 360.48,
+      "lang": "en"
+    },
+    {
+      "text": "before finalizing. This is what I love.",
+      "duration": 4.8,
+      "offset": 361.84,
+      "lang": "en"
+    },
+    {
+      "text": "Where exactly should the button appear?",
+      "duration": 3.84,
+      "offset": 364.88,
+      "lang": "en"
+    },
+    {
+      "text": "The global navigation doesn&#39;t currently",
+      "duration": 3.6,
+      "offset": 366.64,
+      "lang": "en"
+    },
+    {
+      "text": "have a new button. The only one appears",
+      "duration": 3.44,
+      "offset": 368.72,
+      "lang": "en"
+    },
+    {
+      "text": "on the events page. Should the one-time",
+      "duration": 3.52,
+      "offset": 370.24,
+      "lang": "en"
+    },
+    {
+      "text": "meeting button be added to the global",
+      "duration": 3.6,
+      "offset": 372.16,
+      "lang": "en"
+    },
+    {
+      "text": "top? No, it should be added to the",
+      "duration": 3.36,
+      "offset": 373.76,
+      "lang": "en"
+    },
+    {
+      "text": "event. So then I&#39;m scrolling down to",
+      "duration": 2.88,
+      "offset": 375.76,
+      "lang": "en"
+    },
+    {
+      "text": "two.",
+      "duration": 3.6,
+      "offset": 377.12,
+      "lang": "en"
+    },
+    {
+      "text": "Enter.",
+      "duration": 3.76,
+      "offset": 378.64,
+      "lang": "en"
+    },
+    {
+      "text": "What should happen when a user creates a",
+      "duration": 3.36,
+      "offset": 380.72,
+      "lang": "en"
+    },
+    {
+      "text": "one-time meeting? Generates a sharable",
+      "duration": 3.6,
+      "offset": 382.4,
+      "lang": "en"
+    },
+    {
+      "text": "link. Direct booking form. Create hidden",
+      "duration": 5.2,
+      "offset": 384.08,
+      "lang": "en"
+    },
+    {
+      "text": "event type. Create sharable link. I",
+      "duration": 4.8,
+      "offset": 386.0,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s what makes the most sense.",
+      "duration": 3.36,
+      "offset": 389.28,
+      "lang": "en"
+    },
+    {
+      "text": "Time selection. How should users select",
+      "duration": 3.76,
+      "offset": 390.8,
+      "lang": "en"
+    },
+    {
+      "text": "meeting times in the popup? Oh, this is",
+      "duration": 3.36,
+      "offset": 392.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m actually thinking between one and",
+      "duration": 4.4,
+      "offset": 394.56,
+      "lang": "en"
+    },
+    {
+      "text": "two. Choose from your availability.",
+      "duration": 4.56,
+      "offset": 396.0,
+      "lang": "en"
+    },
+    {
+      "text": "I like this. And this is not something I",
+      "duration": 4.16,
+      "offset": 398.96,
+      "lang": "en"
+    },
+    {
+      "text": "would have thought of. I want to say",
+      "duration": 4.16,
+      "offset": 400.56,
+      "lang": "en"
+    },
+    {
+      "text": "two.",
+      "duration": 3.12,
+      "offset": 403.12,
+      "lang": "en"
+    },
+    {
+      "text": "Where exactly should the button appear?",
+      "duration": 4.56,
+      "offset": 404.72,
+      "lang": "en"
+    },
+    {
+      "text": "The global navigation.",
+      "duration": 6.72,
+      "offset": 406.24,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, we already answered this one.",
+      "duration": 6.8,
+      "offset": 409.28,
+      "lang": "en"
+    },
+    {
+      "text": "Um, submit answers. Done.",
+      "duration": 4.8,
+      "offset": 412.96,
+      "lang": "en"
+    },
+    {
+      "text": "Now I have a complete picture. Let me",
+      "duration": 3.44,
+      "offset": 416.08,
+      "lang": "en"
+    },
+    {
+      "text": "write the implementation plan. So, this",
+      "duration": 2.96,
+      "offset": 417.76,
+      "lang": "en"
+    },
+    {
+      "text": "usually takes a while, too. It&#39;s going",
+      "duration": 2.96,
+      "offset": 419.52,
+      "lang": "en"
+    },
+    {
+      "text": "to write exactly what it thinks it",
+      "duration": 3.84,
+      "offset": 420.72,
+      "lang": "en"
+    },
+    {
+      "text": "should do.",
+      "duration": 3.76,
+      "offset": 422.48,
+      "lang": "en"
+    },
+    {
+      "text": "Okay.",
+      "duration": 4.16,
+      "offset": 424.56,
+      "lang": "en"
+    },
+    {
+      "text": "So,",
+      "duration": 4.8,
+      "offset": 426.24,
+      "lang": "en"
+    },
+    {
+      "text": "add a one time meeting button user",
+      "duration": 3.84,
+      "offset": 428.72,
+      "lang": "en"
+    },
+    {
+      "text": "requirements",
+      "duration": 4.24,
+      "offset": 431.04,
+      "lang": "en"
+    },
+    {
+      "text": "implementation approach. Create a hidden",
+      "duration": 4.64,
+      "offset": 432.56,
+      "lang": "en"
+    },
+    {
+      "text": "event type with date overrides rather",
+      "duration": 3.76,
+      "offset": 435.28,
+      "lang": "en"
+    },
+    {
+      "text": "than completely new booking system.",
+      "duration": 3.6,
+      "offset": 437.2,
+      "lang": "en"
+    },
+    {
+      "text": "Okay,",
+      "duration": 4.0,
+      "offset": 439.04,
+      "lang": "en"
+    },
+    {
+      "text": "this sounds like it makes sense to me.",
+      "duration": 5.44,
+      "offset": 440.8,
+      "lang": "en"
+    },
+    {
+      "text": "Files to modify event type page new",
+      "duration": 5.84,
+      "offset": 443.04,
+      "lang": "en"
+    },
+    {
+      "text": "dialogue component. Yes. Then it&#39;s",
+      "duration": 8.24,
+      "offset": 446.24,
+      "lang": "en"
+    },
+    {
+      "text": "giving the modal uses form fields.",
+      "duration": 7.36,
+      "offset": 448.88,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So it&#39;s changing where it&#39;s going",
+      "duration": 3.84,
+      "offset": 454.48,
+      "lang": "en"
+    },
+    {
+      "text": "to be redirected and creating a hidden",
+      "duration": 5.08,
+      "offset": 456.24,
+      "lang": "en"
+    },
+    {
+      "text": "event",
+      "duration": 3.0,
+      "offset": 458.32,
+      "lang": "en"
+    },
+    {
+      "text": "detailed component structure. These I",
+      "duration": 7.4,
+      "offset": 463.2,
+      "lang": "en"
+    },
+    {
+      "text": "love visually telling me exactly",
+      "duration": 5.16,
+      "offset": 465.44,
+      "lang": "en"
+    },
+    {
+      "text": "like this goes to text field one time",
+      "duration": 4.16,
+      "offset": 471.12,
+      "lang": "en"
+    },
+    {
+      "text": "and then you can open it up. There&#39;s",
+      "duration": 4.4,
+      "offset": 473.04,
+      "lang": "en"
+    },
+    {
+      "text": "also the create button and you open the",
+      "duration": 4.88,
+      "offset": 475.28,
+      "lang": "en"
+    },
+    {
+      "text": "dialogue. Okay. User clicks on the",
+      "duration": 4.32,
+      "offset": 477.44,
+      "lang": "en"
+    },
+    {
+      "text": "onetime meeting button. Dialogue opens",
+      "duration": 2.88,
+      "offset": 480.16,
+      "lang": "en"
+    },
+    {
+      "text": "with the date picture showing users",
+      "duration": 5.32,
+      "offset": 481.76,
+      "lang": "en"
+    },
+    {
+      "text": "availability. Copy.",
+      "duration": 4.04,
+      "offset": 483.04,
+      "lang": "en"
+    },
+    {
+      "text": "Key patterns to follow. Great. I",
+      "duration": 3.12,
+      "offset": 489.12,
+      "lang": "en"
+    },
+    {
+      "text": "definitely want it to feel like it&#39;s a",
+      "duration": 3.76,
+      "offset": 490.96,
+      "lang": "en"
+    },
+    {
+      "text": "cohesive experience.",
+      "duration": 4.16,
+      "offset": 492.24,
+      "lang": "en"
+    },
+    {
+      "text": "So then it&#39;s implementation order. These",
+      "duration": 2.88,
+      "offset": 494.72,
+      "lang": "en"
+    },
+    {
+      "text": "are the ways it&#39;s going to actually do",
+      "duration": 2.88,
+      "offset": 496.4,
+      "lang": "en"
+    },
+    {
+      "text": "it. And then it&#39;s going to test it. So",
+      "duration": 3.52,
+      "offset": 497.6,
+      "lang": "en"
+    },
+    {
+      "text": "this is awesome. Um, it&#39;s actually going",
+      "duration": 4.96,
+      "offset": 499.28,
+      "lang": "en"
+    },
+    {
+      "text": "to go into the actual code that&#39;s",
+      "duration": 5.28,
+      "offset": 501.12,
+      "lang": "en"
+    },
+    {
+      "text": "created onto the page and make sure that",
+      "duration": 4.56,
+      "offset": 504.24,
+      "lang": "en"
+    },
+    {
+      "text": "these actions are happening. Yes, I&#39;m",
+      "duration": 6.0,
+      "offset": 506.4,
+      "lang": "en"
+    },
+    {
+      "text": "going to say yes. Auto acceptance.",
+      "duration": 5.76,
+      "offset": 508.8,
+      "lang": "en"
+    },
+    {
+      "text": "Now, it&#39;s going to go build. So this",
+      "duration": 5.52,
+      "offset": 512.4,
+      "lang": "en"
+    },
+    {
+      "text": "whole plan, this back and forth with",
+      "duration": 6.08,
+      "offset": 514.56,
+      "lang": "en"
+    },
+    {
+      "text": "Claude code, these were all decisions",
+      "duration": 5.44,
+      "offset": 517.92,
+      "lang": "en"
+    },
+    {
+      "text": "that were being being made for you and",
+      "duration": 6.96,
+      "offset": 520.64,
+      "lang": "en"
+    },
+    {
+      "text": "Vzero and Lepable and Base 44. But now",
+      "duration": 6.16,
+      "offset": 523.36,
+      "lang": "en"
+    },
+    {
+      "text": "you get to make them together with",
+      "duration": 4.0,
+      "offset": 527.6,
+      "lang": "en"
+    },
+    {
+      "text": "Claude Code. It&#39;s like having that CTO",
+      "duration": 4.32,
+      "offset": 529.52,
+      "lang": "en"
+    },
+    {
+      "text": "that stops by and say, &quot;Hey, before we",
+      "duration": 4.16,
+      "offset": 531.6,
+      "lang": "en"
+    },
+    {
+      "text": "code, here are some ideas and some",
+      "duration": 3.6,
+      "offset": 533.84,
+      "lang": "en"
+    },
+    {
+      "text": "problems I have and some questions. Does",
+      "duration": 3.2,
+      "offset": 535.76,
+      "lang": "en"
+    },
+    {
+      "text": "this make sense to you? Let&#39;s align on",
+      "duration": 3.52,
+      "offset": 537.44,
+      "lang": "en"
+    },
+    {
+      "text": "them before moving forward.&quot; And this",
+      "duration": 3.52,
+      "offset": 538.96,
+      "lang": "en"
+    },
+    {
+      "text": "just makes the whole experience that",
+      "duration": 2.72,
+      "offset": 540.96,
+      "lang": "en"
+    },
+    {
+      "text": "much better. So now it&#39;s not just",
+      "duration": 3.2,
+      "offset": 542.48,
+      "lang": "en"
+    },
+    {
+      "text": "building something like remember it was",
+      "duration": 3.28,
+      "offset": 543.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to ask me where I put that",
+      "duration": 3.84,
+      "offset": 545.68,
+      "lang": "en"
+    },
+    {
+      "text": "dialogue box. Um now I got to tell it",
+      "duration": 5.04,
+      "offset": 546.96,
+      "lang": "en"
+    },
+    {
+      "text": "exactly where to put it. So questions",
+      "duration": 3.92,
+      "offset": 549.52,
+      "lang": "en"
+    },
+    {
+      "text": "like that I get to answer before it",
+      "duration": 3.28,
+      "offset": 552.0,
+      "lang": "en"
+    },
+    {
+      "text": "starts to build it which NBZ doesn&#39;t do",
+      "duration": 4.16,
+      "offset": 553.44,
+      "lang": "en"
+    },
+    {
+      "text": "those things.",
+      "duration": 5.12,
+      "offset": 555.28,
+      "lang": "en"
+    },
+    {
+      "text": "Perfect. So it looks like it finished",
+      "duration": 5.28,
+      "offset": 557.6,
+      "lang": "en"
+    },
+    {
+      "text": "testing. Okay. So let&#39;s see. I&#39;m sure",
+      "duration": 4.4,
+      "offset": 560.4,
+      "lang": "en"
+    },
+    {
+      "text": "things are not perfect um and it broke",
+      "duration": 2.96,
+      "offset": 562.88,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;re going to have to go back and",
+      "duration": 2.88,
+      "offset": 564.8,
+      "lang": "en"
+    },
+    {
+      "text": "forth but we&#39;ll have way more",
+      "duration": 3.76,
+      "offset": 565.84,
+      "lang": "en"
+    },
+    {
+      "text": "understanding. So there is a button",
+      "duration": 4.0,
+      "offset": 567.68,
+      "lang": "en"
+    },
+    {
+      "text": "here. Perfect. We click this. Okay.",
+      "duration": 4.4,
+      "offset": 569.6,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so this is a modal. It says to",
+      "duration": 5.6,
+      "offset": 571.68,
+      "lang": "en"
+    },
+    {
+      "text": "select a date. So let&#39;s say for tomorrow",
+      "duration": 5.76,
+      "offset": 574.0,
+      "lang": "en"
+    },
+    {
+      "text": "something went wrong. Okay. Um I assumed",
+      "duration": 3.84,
+      "offset": 577.28,
+      "lang": "en"
+    },
+    {
+      "text": "something like this would happen. I",
+      "duration": 2.56,
+      "offset": 579.76,
+      "lang": "en"
+    },
+    {
+      "text": "think there&#39;s going to because this is",
+      "duration": 2.48,
+      "offset": 581.12,
+      "lang": "en"
+    },
+    {
+      "text": "such a complex feature, we&#39;re going to",
+      "duration": 3.28,
+      "offset": 582.32,
+      "lang": "en"
+    },
+    {
+      "text": "have to go in and better understand",
+      "duration": 4.64,
+      "offset": 583.6,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s working and what&#39;s not working.",
+      "duration": 6.32,
+      "offset": 585.6,
+      "lang": "en"
+    },
+    {
+      "text": "So then when I click on select a date,",
+      "duration": 5.84,
+      "offset": 588.24,
+      "lang": "en"
+    },
+    {
+      "text": "it breaks. Can you look into why it&#39;s",
+      "duration": 5.32,
+      "offset": 591.92,
+      "lang": "en"
+    },
+    {
+      "text": "not working?",
+      "duration": 3.16,
+      "offset": 594.08,
+      "lang": "en"
+    },
+    {
+      "text": "So it says it&#39;s fixed the issue. They",
+      "duration": 8.84,
+      "offset": 598.48,
+      "lang": "en"
+    },
+    {
+      "text": "were in a wrapper. So, let&#39;s refresh.",
+      "duration": 6.2,
+      "offset": 601.12,
+      "lang": "en"
+    },
+    {
+      "text": "There we go. Okay, perfect. And I can",
+      "duration": 5.64,
+      "offset": 612.48,
+      "lang": "en"
+    },
+    {
+      "text": "select the tit",
+      "duration": 3.4,
+      "offset": 614.72,
+      "lang": "en"
+    },
+    {
+      "text": "30 minutes.",
+      "duration": 3.4,
+      "offset": 623.52,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m going to have to go back and",
+      "duration": 2.32,
+      "offset": 627.92,
+      "lang": "en"
+    },
+    {
+      "text": "forth because, see, I can select these",
+      "duration": 2.64,
+      "offset": 628.96,
+      "lang": "en"
+    },
+    {
+      "text": "days, but then I can&#39;t select different",
+      "duration": 3.84,
+      "offset": 630.24,
+      "lang": "en"
+    },
+    {
+      "text": "ones. So, there&#39;s a lot more back and",
+      "duration": 4.08,
+      "offset": 631.6,
+      "lang": "en"
+    },
+    {
+      "text": "forth I need to do with Cloud Code. But,",
+      "duration": 3.04,
+      "offset": 634.08,
+      "lang": "en"
+    },
+    {
+      "text": "you can see the structure and the",
+      "duration": 4.32,
+      "offset": 635.68,
+      "lang": "en"
+    },
+    {
+      "text": "planning and why I would take it away",
+      "duration": 5.12,
+      "offset": 637.12,
+      "lang": "en"
+    },
+    {
+      "text": "from using tools like V 0ero and being",
+      "duration": 4.56,
+      "offset": 640.0,
+      "lang": "en"
+    },
+    {
+      "text": "able to get my hands dirty on the actual",
+      "duration": 4.8,
+      "offset": 642.24,
+      "lang": "en"
+    },
+    {
+      "text": "code so it can build directly off of the",
+      "duration": 4.64,
+      "offset": 644.56,
+      "lang": "en"
+    },
+    {
+      "text": "codebase. So, when should you move from",
+      "duration": 4.72,
+      "offset": 647.04,
+      "lang": "en"
+    },
+    {
+      "text": "Vzero Lovable into Cloud Code? Switch",
+      "duration": 4.8,
+      "offset": 649.2,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re looping on the same bug and",
+      "duration": 4.08,
+      "offset": 651.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not fixing it. Your prototypes",
+      "duration": 3.84,
+      "offset": 654.0,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t match your design system. your dev",
+      "duration": 3.92,
+      "offset": 655.84,
+      "lang": "en"
+    },
+    {
+      "text": "team rebuilds everything anyway. You",
+      "duration": 3.52,
+      "offset": 657.84,
+      "lang": "en"
+    },
+    {
+      "text": "want to prototype in your actual",
+      "duration": 4.64,
+      "offset": 659.76,
+      "lang": "en"
+    },
+    {
+      "text": "codebase, not in a sandbox. Stay in v",
+      "duration": 5.28,
+      "offset": 661.36,
+      "lang": "en"
+    },
+    {
+      "text": "0ero and lovable if you&#39;re validating an",
+      "duration": 4.16,
+      "offset": 664.4,
+      "lang": "en"
+    },
+    {
+      "text": "idea very fast. It&#39;s a throwaway",
+      "duration": 3.52,
+      "offset": 666.64,
+      "lang": "en"
+    },
+    {
+      "text": "prototype. You don&#39;t have access to the",
+      "duration": 3.12,
+      "offset": 668.56,
+      "lang": "en"
+    },
+    {
+      "text": "codebase yet. And if you want to try",
+      "duration": 3.68,
+      "offset": 670.16,
+      "lang": "en"
+    },
+    {
+      "text": "this, it really is simple. Go download a",
+      "duration": 4.08,
+      "offset": 671.68,
+      "lang": "en"
+    },
+    {
+      "text": "terminal. I suggest Ghostly. Go make",
+      "duration": 3.68,
+      "offset": 673.84,
+      "lang": "en"
+    },
+    {
+      "text": "sure it&#39;s connected to Cloud Code. Make",
+      "duration": 3.04,
+      "offset": 675.76,
+      "lang": "en"
+    },
+    {
+      "text": "sure you&#39;re connected to your company",
+      "duration": 3.12,
+      "offset": 677.52,
+      "lang": "en"
+    },
+    {
+      "text": "repo. I explained how to set this all up",
+      "duration": 3.52,
+      "offset": 678.8,
+      "lang": "en"
+    },
+    {
+      "text": "in a previous video. I&#39;ll link to it in",
+      "duration": 3.44,
+      "offset": 680.64,
+      "lang": "en"
+    },
+    {
+      "text": "the description. And then go ahead and",
+      "duration": 3.28,
+      "offset": 682.32,
+      "lang": "en"
+    },
+    {
+      "text": "play around with plan mode and see what",
+      "duration": 4.08,
+      "offset": 684.08,
+      "lang": "en"
+    },
+    {
+      "text": "happens. And last but not least, if you",
+      "duration": 5.84,
+      "offset": 685.6,
+      "lang": "en"
+    },
+    {
+      "text": "get stuck and confused, ask AI. It&#39;ll",
+      "duration": 4.72,
+      "offset": 688.16,
+      "lang": "en"
+    },
+    {
+      "text": "help you understand what&#39;s not working",
+      "duration": 4.16,
+      "offset": 691.44,
+      "lang": "en"
+    },
+    {
+      "text": "and why. If you liked this video, please",
+      "duration": 4.64,
+      "offset": 692.88,
+      "lang": "en"
+    },
+    {
+      "text": "like and subscribe below. I am putting",
+      "duration": 4.72,
+      "offset": 695.6,
+      "lang": "en"
+    },
+    {
+      "text": "out more content weekly on how product",
+      "duration": 5.04,
+      "offset": 697.52,
+      "lang": "en"
+    },
+    {
+      "text": "teams can ship faster with AI, so follow",
+      "duration": 5.96,
+      "offset": 700.32,
+      "lang": "en"
+    },
+    {
+      "text": "along. Thank you.",
+      "duration": 3.72,
+      "offset": 702.56,
+      "lang": "en"
+    }
+  ]
+}

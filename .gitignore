@@ -1,0 +1,47 @@
+# Local secrets
+.env
+.env.*
+!*.env.example
+
+# macOS / editor noise
+.DS_Store
+**/.DS_Store
+*.swp
+*.swo
+... long content
+.superpowers/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node / web deployment state
+node_modules/
+.next/
+dist/
+build/
+.vercel/
+
+# Nested repo metadata from archived external snapshots.
+**/.git/
+
+# Audio / video caches generated during ASR.
+# Transcripts, metadata, source notes, reports, and PDFs are kept in git;
+# raw or standardized audio is intentionally excluded because the project
+# already stores derived text evidence in company vaults.
+**/_audio_cache/
+**/_standard_audio/
+**/_controlled_concurrency_audio/
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.aac
+*.mov
+
+# Large local-only temporary files
+*.tmp
+*.temp

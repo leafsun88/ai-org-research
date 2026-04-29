@@ -1,0 +1,39 @@
+{
+  "research_key": "CURSOR",
+  "company": "Anysphere",
+  "channel": "social_community",
+  "generated_at": "2026-04-20T17:46:20",
+  "total_records": 4,
+  "success_records": 0,
+  "failure_records": 4,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://forum.cursor.com/",
+      "title": "forum.cursor.com",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.reddit.com/r/cursor/",
+      "title": "cursor",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://news.ycombinator.com/item?id=44039203",
+      "title": "item?id=44039203",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://news.ycombinator.com/item?id=44677455",
+      "title": "item?id=44677455",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

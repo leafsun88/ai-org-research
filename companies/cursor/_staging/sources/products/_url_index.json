@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://cursor.com/product",
+    "title": "product",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/product/tab",
+    "title": "tab",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/bugbot",
+    "title": "bugbot",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/changelog",
+    "title": "changelog",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/tab-update",
+    "title": "tab-update",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/tab-rl",
+    "title": "tab-rl",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/problems-2024",
+    "title": "problems-2024",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/shadow-workspace",
+    "title": "shadow-workspace",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/prompt-design",
+    "title": "prompt-design",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/resources/Composer2.pdf",
+    "title": "Composer2.pdf",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/graphite",
+    "title": "graphite",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for products",
+    "seed": true
+  }
+]

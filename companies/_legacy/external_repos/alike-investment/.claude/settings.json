@@ -1,0 +1,35 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'FILE=$(cat | jq -r \".tool_input.file_path // empty\" 2>/dev/null); if [[ \"$FILE\" == *vault/companies/* ]] && [[ \"$FILE\" != *_index.json ]] && [[ \"$FILE\" != *_summary.json ]]; then SLUG=$(echo \"$FILE\" | sed \"s|.*vault/companies/||\" | cut -d/ -f1); IDX=\"/Users/wangguanjie/Desktop/Claude Data/共创产品/vault/_index.json\"; if [ -f \"$IDX\" ]; then HAS=$(grep -c \"\\\"$SLUG\\\"\" \"$IDX\" 2>/dev/null); if [ \"$HAS\" = \"0\" ]; then echo \"[vault-hook] ⚠️ Company \\\"$SLUG\\\" not found in _index.json! Must add before proceeding.\"; else echo \"[vault-hook] $FILE written. Verify _index.json research_count and dimensions_covered are current.\"; fi; fi; fi'"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'VAULT=\"/Users/wangguanjie/Desktop/Claude Data/共创产品/vault\"; TOTAL=$(find \"$VAULT/companies\" -maxdepth 1 -type d 2>/dev/null | wc -l | tr -d \" \"); FILES=$(find \"$VAULT/companies\" -type f ! -name .DS_Store 2>/dev/null | wc -l | tr -d \" \"); if [ \"$FILES\" -gt 2000 ]; then echo \"[RAG-threshold] ⚠️ Vault has $FILES files across $TOTAL companies. Consider upgrading to RAG (embedding + vector search) for better retrieval efficiency. Threshold: 2000 files or 30 companies.\"; elif [ \"$TOTAL\" -gt 30 ]; then echo \"[RAG-threshold] ⚠️ Vault has $TOTAL companies. Consider upgrading to RAG.\"; fi'"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash -c 'VAULT=\"/Users/wangguanjie/Desktop/Claude Data/共创产品/vault\"; TOTAL=$(find \"$VAULT/companies\" -maxdepth 1 -type d 2>/dev/null | wc -l | tr -d \" \"); FILES=$(find \"$VAULT/companies\" -type f ! -name .DS_Store 2>/dev/null | wc -l | tr -d \" \"); echo \"[context] $(date +%Y-%m-%d) | Vault: $TOTAL companies, $FILES files\"'"
+          }
+        ]
+      }
+    ]
+  }
+}

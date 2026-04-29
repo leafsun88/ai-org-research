@@ -1,0 +1,211 @@
+{
+  "research_key": "CURSOR",
+  "started_at": "2026-04-20T17:45:16",
+  "channels": {
+    "official": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "official",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:45:16",
+      "finished_at": "2026-04-20T17:45:32",
+      "stdout_tail": "\n[official] discovering sources for CURSOR\n  [official] query 1/1: Cursor Anysphere official company funding ARR\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  official: 12 fetched, 1 non-fetched, 13 indexed\n",
+      "stderr_tail": ""
+    },
+    "founder_voice": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "founder_voice",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:45:32",
+      "finished_at": "2026-04-20T17:45:46",
+      "stdout_tail": "\n[founder_voice] discovering sources for CURSOR\n  [founder_voice] query 1/1: Michael Truell Cursor interview transcript hiring philosophy\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  founder_voice: 5 fetched, 1 non-fetched, 6 indexed\n",
+      "stderr_tail": ""
+    },
+    "web_longform": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "web_longform",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:45:46",
+      "finished_at": "2026-04-20T17:46:02",
+      "stdout_tail": "\n[web_longform] discovering sources for CURSOR\n  [web_longform] query 1/1: Cursor Anysphere revenue ARR valuation funding deep dive\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  web_longform: 1 fetched, 6 non-fetched, 7 indexed\n",
+      "stderr_tail": ""
+    },
+    "enterprise_partnerships": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "enterprise_partnerships",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:46:02",
+      "finished_at": "2026-04-20T17:46:10",
+      "stdout_tail": "\n[enterprise_partnerships] discovering sources for CURSOR\n  [enterprise_partnerships] query 1/1: Cursor Enterprise customer NVIDIA 30000 developers\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  enterprise_partnerships: 1 fetched, 4 non-fetched, 5 indexed\n",
+      "stderr_tail": ""
+    },
+    "jobs_org": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "jobs_org",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:46:10",
+      "finished_at": "2026-04-20T17:46:14",
+      "stdout_tail": "\n[jobs_org] discovering sources for CURSOR\n  [jobs_org] query 1/1: site:cursor.com/careers Cursor field engineer solutions sales\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  jobs_org: 2 fetched, 0 non-fetched, 2 indexed\n",
+      "stderr_tail": ""
+    },
+    "social_community": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "social_community",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:46:14",
+      "finished_at": "2026-04-20T17:46:20",
+      "stdout_tail": "\n[social_community] discovering sources for CURSOR\n  [social_community] query 1/1: Cursor user feedback Reddit Hacker News pricing limits\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  social_community: 0 fetched, 4 non-fetched, 4 indexed\n",
+      "stderr_tail": ""
+    },
+    "funding_compute": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "CURSOR",
+        "--channels",
+        "funding_compute",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T17:46:20",
+      "finished_at": "2026-04-20T17:46:28",
+      "stdout_tail": "\n[funding_compute] discovering sources for CURSOR\n  [funding_compute] query 1/1: Cursor Anysphere funding valuation revenue ARR 2026\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  funding_compute: 4 fetched, 4 non-fetched, 8 indexed\n",
+      "stderr_tail": ""
+    }
+  },
+  "sync": {
+    "official": {
+      "copied": 15,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-b.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_careers.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_pricing.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-c.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_cursorcom.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-d.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_team.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_changelog.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_cursor-support.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_security.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_collection_status.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_enterprise.md"
+      ]
+    },
+    "founder_voice": {
+      "copied": 8,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_shadow-workspace.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_prompt-design.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_michael-truell-how-cursor-builds-at-the-speed-of-ai.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_problems-2024.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_56bda5d0-640c-4f6a-96cf-8b9766a0674a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_collection_status.json"
+      ]
+    },
+    "web_longform": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/unknown_michael-truell-how-cursor-builds-at-the-speed-of-ai.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_collection_status.json"
+      ]
+    },
+    "enterprise_partnerships": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_collection_status.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/unknown_enterprise.md"
+      ]
+    },
+    "jobs_org": {
+      "copied": 5,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/unknown_careers.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/unknown_team.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_collection_status.json"
+      ]
+    },
+    "social_community": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_collection_status.json"
+      ]
+    },
+    "funding_compute": {
+      "copied": 7,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-b.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-c.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-d.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_collection_status.json"
+      ]
+    }
+  },
+  "source_inventory": "/Users/leafsun/Desktop/AI Org研究/companies/cursor/analysis/Anysphere_source_inventory_2026-04-20.md",
+  "evidence_map": "/Users/leafsun/Desktop/AI Org研究/companies/cursor/analysis/Anysphere_evidence_map_2026-04-20.md",
+  "finished_at": "2026-04-20T17:46:28"
+}

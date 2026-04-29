@@ -1,0 +1,10 @@
+{
+  "name": "MongoDB",
+  "ticker": "MDB",
+  "exchange": "NASDAQ",
+  "market_cap": "$20B",
+  "sector": "数据库",
+  "category": "Shopify类",
+  "note": "开发者数据库平台",
+  "created": "2026-04-06"
+}

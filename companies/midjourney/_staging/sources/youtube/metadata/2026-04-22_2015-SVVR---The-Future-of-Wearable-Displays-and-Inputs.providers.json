@@ -1,0 +1,18 @@
+{
+  "video_id": "xAUG6prB2nA",
+  "title": "2015 SVVR - The Future of Wearable Displays and Inputs (David Holz)",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:31:02"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:04",
+      "chars": 62053
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:04"
+}

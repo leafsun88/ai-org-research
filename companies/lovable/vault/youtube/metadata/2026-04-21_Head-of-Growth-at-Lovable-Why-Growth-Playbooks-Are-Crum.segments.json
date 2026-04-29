@@ -1,0 +1,4330 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "Vc6ij1ilhwc",
+  "url": "https://www.youtube.com/watch?v=Vc6ij1ilhwc",
+  "title": "Head of Growth at Lovable | Why Growth Playbooks Are Crumbling—and What’s Next",
+  "channel": "Product School",
+  "source_queries": [
+    "Lovable Agent interview",
+    "Lovable Teams interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:16:54",
+  "segments": [
+    {
+      "text": "[Music]",
+      "duration": 4.34,
+      "offset": 1.18,
+      "lang": "en"
+    },
+    {
+      "text": "Hi everyone. So excited to be here. I&#39;ll",
+      "duration": 4.56,
+      "offset": 2.96,
+      "lang": "en"
+    },
+    {
+      "text": "also answer that question of what will I",
+      "duration": 4.56,
+      "offset": 5.52,
+      "lang": "en"
+    },
+    {
+      "text": "do if AI eliminates my job. So hi, my",
+      "duration": 4.32,
+      "offset": 7.52,
+      "lang": "en"
+    },
+    {
+      "text": "name is Elena Vera and I&#39;m actively",
+      "duration": 4.08,
+      "offset": 10.08,
+      "lang": "en"
+    },
+    {
+      "text": "trying to eliminate my job uh so I can",
+      "duration": 4.24,
+      "offset": 11.84,
+      "lang": "en"
+    },
+    {
+      "text": "do farming. I already started with seven",
+      "duration": 4.4,
+      "offset": 14.16,
+      "lang": "en"
+    },
+    {
+      "text": "chickens. It&#39;s going great. Okay. So",
+      "duration": 4.64,
+      "offset": 16.08,
+      "lang": "en"
+    },
+    {
+      "text": "today I&#39;ll talk about collapse of PEI",
+      "duration": 3.92,
+      "offset": 18.56,
+      "lang": "en"
+    },
+    {
+      "text": "distribution modes and how to build new",
+      "duration": 3.52,
+      "offset": 20.72,
+      "lang": "en"
+    },
+    {
+      "text": "ones. Uh a lot of times in product we",
+      "duration": 3.28,
+      "offset": 22.48,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really think about distribution. I",
+      "duration": 3.52,
+      "offset": 24.24,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s a mistake. So let&#39;s talk",
+      "duration": 3.92,
+      "offset": 25.76,
+      "lang": "en"
+    },
+    {
+      "text": "about how you should be thinking about",
+      "duration": 4.24,
+      "offset": 27.76,
+      "lang": "en"
+    },
+    {
+      "text": "this as well. So she already did an",
+      "duration": 3.6,
+      "offset": 29.68,
+      "lang": "en"
+    },
+    {
+      "text": "amazing intro on me. I&#39;m going to skip",
+      "duration": 3.76,
+      "offset": 32.0,
+      "lang": "en"
+    },
+    {
+      "text": "it. So growth, I&#39;ve been running growth",
+      "duration": 4.56,
+      "offset": 33.28,
+      "lang": "en"
+    },
+    {
+      "text": "teams for the last 10 years of my",
+      "duration": 4.32,
+      "offset": 35.76,
+      "lang": "en"
+    },
+    {
+      "text": "career. I started in analytics actually.",
+      "duration": 4.32,
+      "offset": 37.84,
+      "lang": "en"
+    },
+    {
+      "text": "Uh but there&#39;s still a lot of confusion",
+      "duration": 5.6,
+      "offset": 40.08,
+      "lang": "en"
+    },
+    {
+      "text": "as what does it mean? It&#39;s actually kind",
+      "duration": 5.36,
+      "offset": 42.16,
+      "lang": "en"
+    },
+    {
+      "text": "of embarrassing that 10 years later",
+      "duration": 4.24,
+      "offset": 45.68,
+      "lang": "en"
+    },
+    {
+      "text": "after this profession really became um",
+      "duration": 4.8,
+      "offset": 47.52,
+      "lang": "en"
+    },
+    {
+      "text": "like real that we&#39;re still have so many",
+      "duration": 3.76,
+      "offset": 49.92,
+      "lang": "en"
+    },
+    {
+      "text": "different opinions of what it means.",
+      "duration": 2.64,
+      "offset": 52.32,
+      "lang": "en"
+    },
+    {
+      "text": "Like nobody confuses what product",
+      "duration": 3.92,
+      "offset": 53.68,
+      "lang": "en"
+    },
+    {
+      "text": "management is. Here we are. Let me talk",
+      "duration": 4.4,
+      "offset": 54.96,
+      "lang": "en"
+    },
+    {
+      "text": "really quickly about what I think it is",
+      "duration": 3.2,
+      "offset": 57.6,
+      "lang": "en"
+    },
+    {
+      "text": "for my definition and then we&#39;ll talk",
+      "duration": 2.88,
+      "offset": 59.36,
+      "lang": "en"
+    },
+    {
+      "text": "about the distribution shifts that are",
+      "duration": 3.36,
+      "offset": 60.8,
+      "lang": "en"
+    },
+    {
+      "text": "happening in growth. So there is",
+      "duration": 3.6,
+      "offset": 62.24,
+      "lang": "en"
+    },
+    {
+      "text": "product. There&#39;s all you beautiful",
+      "duration": 3.44,
+      "offset": 64.16,
+      "lang": "en"
+    },
+    {
+      "text": "product managers working on the products",
+      "duration": 4.4,
+      "offset": 65.84,
+      "lang": "en"
+    },
+    {
+      "text": "and then there&#39;s distribution. Now those",
+      "duration": 4.4,
+      "offset": 67.6,
+      "lang": "en"
+    },
+    {
+      "text": "two are not the same things because you",
+      "duration": 3.44,
+      "offset": 70.24,
+      "lang": "en"
+    },
+    {
+      "text": "can have an amazing product and if you",
+      "duration": 3.92,
+      "offset": 72.0,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t bake in distribution into it or",
+      "duration": 3.28,
+      "offset": 73.68,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t really think about",
+      "duration": 3.2,
+      "offset": 75.92,
+      "lang": "en"
+    },
+    {
+      "text": "distribution you will die of slow death.",
+      "duration": 3.6,
+      "offset": 76.96,
+      "lang": "en"
+    },
+    {
+      "text": "In fact that there&#39;s millions of",
+      "duration": 2.88,
+      "offset": 79.12,
+      "lang": "en"
+    },
+    {
+      "text": "products that have been developed over",
+      "duration": 3.36,
+      "offset": 80.56,
+      "lang": "en"
+    },
+    {
+      "text": "the last couple of decades that we have",
+      "duration": 3.6,
+      "offset": 82.0,
+      "lang": "en"
+    },
+    {
+      "text": "never heard of. we have never seen that",
+      "duration": 3.92,
+      "offset": 83.92,
+      "lang": "en"
+    },
+    {
+      "text": "were absolutely amazing. However, what",
+      "duration": 4.08,
+      "offset": 85.6,
+      "lang": "en"
+    },
+    {
+      "text": "builds a successful company is having a",
+      "duration": 4.0,
+      "offset": 87.84,
+      "lang": "en"
+    },
+    {
+      "text": "great distribution for your product. But",
+      "duration": 4.24,
+      "offset": 89.68,
+      "lang": "en"
+    },
+    {
+      "text": "product has to be just okay because",
+      "duration": 4.24,
+      "offset": 91.84,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s also a lot of really terrible",
+      "duration": 4.72,
+      "offset": 93.92,
+      "lang": "en"
+    },
+    {
+      "text": "products that are multibillion dollar",
+      "duration": 4.56,
+      "offset": 96.08,
+      "lang": "en"
+    },
+    {
+      "text": "companies. You can kind of imagine of",
+      "duration": 3.6,
+      "offset": 98.64,
+      "lang": "en"
+    },
+    {
+      "text": "those one of those products that you log",
+      "duration": 3.68,
+      "offset": 100.64,
+      "lang": "en"
+    },
+    {
+      "text": "into and like one of your brain cells",
+      "duration": 4.0,
+      "offset": 102.24,
+      "lang": "en"
+    },
+    {
+      "text": "dies every time you have to do an action",
+      "duration": 3.68,
+      "offset": 104.32,
+      "lang": "en"
+    },
+    {
+      "text": "in it and you&#39;re like thinking how is",
+      "duration": 4.24,
+      "offset": 106.24,
+      "lang": "en"
+    },
+    {
+      "text": "this thing alive yet they have absolute",
+      "duration": 4.56,
+      "offset": 108.0,
+      "lang": "en"
+    },
+    {
+      "text": "monopoly in the category and nobody can",
+      "duration": 3.84,
+      "offset": 110.48,
+      "lang": "en"
+    },
+    {
+      "text": "displace them. And that is because",
+      "duration": 3.84,
+      "offset": 112.56,
+      "lang": "en"
+    },
+    {
+      "text": "distribution at the end of the day wins",
+      "duration": 3.68,
+      "offset": 114.32,
+      "lang": "en"
+    },
+    {
+      "text": "of what&#39;s going to make a successful",
+      "duration": 3.92,
+      "offset": 116.4,
+      "lang": "en"
+    },
+    {
+      "text": "company when what growth works on is",
+      "duration": 4.96,
+      "offset": 118.0,
+      "lang": "en"
+    },
+    {
+      "text": "that distribution aspect of it because",
+      "duration": 5.76,
+      "offset": 120.32,
+      "lang": "en"
+    },
+    {
+      "text": "great product is not enough. Now it",
+      "duration": 4.88,
+      "offset": 122.96,
+      "lang": "en"
+    },
+    {
+      "text": "helps distribution if you have a great",
+      "duration": 3.44,
+      "offset": 126.08,
+      "lang": "en"
+    },
+    {
+      "text": "product it makes everything so much",
+      "duration": 3.84,
+      "offset": 127.84,
+      "lang": "en"
+    },
+    {
+      "text": "easier but if you&#39;re not thinking about",
+      "duration": 4.16,
+      "offset": 129.52,
+      "lang": "en"
+    },
+    {
+      "text": "distribution right from the beginning if",
+      "duration": 3.28,
+      "offset": 131.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not thinking about your go to",
+      "duration": 2.96,
+      "offset": 133.68,
+      "lang": "en"
+    },
+    {
+      "text": "market strategies if you&#39;re not thinking",
+      "duration": 3.28,
+      "offset": 134.96,
+      "lang": "en"
+    },
+    {
+      "text": "about growth as you&#39;re developing",
+      "duration": 3.2,
+      "offset": 136.64,
+      "lang": "en"
+    },
+    {
+      "text": "product you&#39;re going to be dead in the",
+      "duration": 3.76,
+      "offset": 138.24,
+      "lang": "en"
+    },
+    {
+      "text": "water. Now what is distribution actually",
+      "duration": 3.52,
+      "offset": 139.84,
+      "lang": "en"
+    },
+    {
+      "text": "entails? is actually very",
+      "duration": 3.28,
+      "offset": 142.0,
+      "lang": "en"
+    },
+    {
+      "text": "straightforward. Four questions. Those",
+      "duration": 3.44,
+      "offset": 143.36,
+      "lang": "en"
+    },
+    {
+      "text": "are the four questions that I stress",
+      "duration": 3.68,
+      "offset": 145.28,
+      "lang": "en"
+    },
+    {
+      "text": "about every single day that I lose sleep",
+      "duration": 4.08,
+      "offset": 146.8,
+      "lang": "en"
+    },
+    {
+      "text": "over which is how do we acquire",
+      "duration": 3.92,
+      "offset": 148.96,
+      "lang": "en"
+    },
+    {
+      "text": "customers? How do we activate them? How",
+      "duration": 3.84,
+      "offset": 150.88,
+      "lang": "en"
+    },
+    {
+      "text": "do we monetize them? And then how do we",
+      "duration": 4.08,
+      "offset": 152.88,
+      "lang": "en"
+    },
+    {
+      "text": "retain them? Very straightforward. That",
+      "duration": 4.48,
+      "offset": 154.72,
+      "lang": "en"
+    },
+    {
+      "text": "is the traditional funnel that you need",
+      "duration": 4.8,
+      "offset": 156.96,
+      "lang": "en"
+    },
+    {
+      "text": "to look into. Uh but ability to answer",
+      "duration": 4.72,
+      "offset": 159.2,
+      "lang": "en"
+    },
+    {
+      "text": "those questions in predictable,",
+      "duration": 5.04,
+      "offset": 161.76,
+      "lang": "en"
+    },
+    {
+      "text": "sustainable and competitively defensible",
+      "duration": 5.68,
+      "offset": 163.92,
+      "lang": "en"
+    },
+    {
+      "text": "way is what separates companies that win",
+      "duration": 5.2,
+      "offset": 166.8,
+      "lang": "en"
+    },
+    {
+      "text": "versus the companies that lose. And this",
+      "duration": 4.08,
+      "offset": 169.6,
+      "lang": "en"
+    },
+    {
+      "text": "is something that you should also know",
+      "duration": 3.44,
+      "offset": 172.0,
+      "lang": "en"
+    },
+    {
+      "text": "about your company. What is your",
+      "duration": 4.08,
+      "offset": 173.68,
+      "lang": "en"
+    },
+    {
+      "text": "acquisition strategy? What is your",
+      "duration": 4.48,
+      "offset": 175.44,
+      "lang": "en"
+    },
+    {
+      "text": "activation strategy? And the better you",
+      "duration": 4.0,
+      "offset": 177.76,
+      "lang": "en"
+    },
+    {
+      "text": "have alignment internally against it,",
+      "duration": 3.84,
+      "offset": 179.92,
+      "lang": "en"
+    },
+    {
+      "text": "the more straightforward your growth is",
+      "duration": 4.48,
+      "offset": 181.76,
+      "lang": "en"
+    },
+    {
+      "text": "going to be. And the fastest growing",
+      "duration": 4.8,
+      "offset": 183.76,
+      "lang": "en"
+    },
+    {
+      "text": "companies all have one thing in common",
+      "duration": 5.84,
+      "offset": 186.24,
+      "lang": "en"
+    },
+    {
+      "text": "too. They don&#39;t grow via funnels. They",
+      "duration": 6.84,
+      "offset": 188.56,
+      "lang": "en"
+    },
+    {
+      "text": "grow via",
+      "duration": 3.32,
+      "offset": 192.08,
+      "lang": "en"
+    },
+    {
+      "text": "loops. Loops is super important. Funnels",
+      "duration": 5.84,
+      "offset": 196.08,
+      "lang": "en"
+    },
+    {
+      "text": "is an f-word that sometimes I have to",
+      "duration": 4.56,
+      "offset": 199.6,
+      "lang": "en"
+    },
+    {
+      "text": "use, but I prefer not to because loops",
+      "duration": 4.32,
+      "offset": 201.92,
+      "lang": "en"
+    },
+    {
+      "text": "are just so much better. And loops are",
+      "duration": 3.68,
+      "offset": 204.16,
+      "lang": "en"
+    },
+    {
+      "text": "very straightforward, too. It&#39;s a",
+      "duration": 4.08,
+      "offset": 206.24,
+      "lang": "en"
+    },
+    {
+      "text": "compounding flywheel. So, there is an",
+      "duration": 4.72,
+      "offset": 207.84,
+      "lang": "en"
+    },
+    {
+      "text": "input, let&#39;s say a new user. They",
+      "duration": 4.0,
+      "offset": 210.32,
+      "lang": "en"
+    },
+    {
+      "text": "perform an action or a step in your",
+      "duration": 4.24,
+      "offset": 212.56,
+      "lang": "en"
+    },
+    {
+      "text": "product that generates an output that",
+      "duration": 4.96,
+      "offset": 214.32,
+      "lang": "en"
+    },
+    {
+      "text": "can be reinvested to produce another",
+      "duration": 4.48,
+      "offset": 216.8,
+      "lang": "en"
+    },
+    {
+      "text": "input. So, there&#39;s lots of different",
+      "duration": 3.92,
+      "offset": 219.28,
+      "lang": "en"
+    },
+    {
+      "text": "types of loop that you have on marketing",
+      "duration": 4.64,
+      "offset": 221.28,
+      "lang": "en"
+    },
+    {
+      "text": "side, on sales side, most definitely on",
+      "duration": 4.96,
+      "offset": 223.2,
+      "lang": "en"
+    },
+    {
+      "text": "product side. All of them have different",
+      "duration": 4.4,
+      "offset": 225.92,
+      "lang": "en"
+    },
+    {
+      "text": "spans of lifetime. All of them have",
+      "duration": 3.68,
+      "offset": 228.16,
+      "lang": "en"
+    },
+    {
+      "text": "different caliber of the heavy hitting",
+      "duration": 3.36,
+      "offset": 230.32,
+      "lang": "en"
+    },
+    {
+      "text": "that they can do. But you constantly",
+      "duration": 4.0,
+      "offset": 231.84,
+      "lang": "en"
+    },
+    {
+      "text": "have to think about your product as what",
+      "duration": 5.44,
+      "offset": 233.68,
+      "lang": "en"
+    },
+    {
+      "text": "loops can I stand up on acquisition and",
+      "duration": 5.92,
+      "offset": 235.84,
+      "lang": "en"
+    },
+    {
+      "text": "retention with monetization fueling all",
+      "duration": 4.96,
+      "offset": 239.12,
+      "lang": "en"
+    },
+    {
+      "text": "of that because it pays our salary. But",
+      "duration": 4.8,
+      "offset": 241.76,
+      "lang": "en"
+    },
+    {
+      "text": "that is what creates predictable and",
+      "duration": 5.2,
+      "offset": 244.08,
+      "lang": "en"
+    },
+    {
+      "text": "sustainable and competitively defensible",
+      "duration": 6.88,
+      "offset": 246.56,
+      "lang": "en"
+    },
+    {
+      "text": "growth. Not f word funnels but loops.",
+      "duration": 6.24,
+      "offset": 249.28,
+      "lang": "en"
+    },
+    {
+      "text": "Loops is where it&#39;s all at. Let me give",
+      "duration": 3.84,
+      "offset": 253.44,
+      "lang": "en"
+    },
+    {
+      "text": "you just two examples of what loops",
+      "duration": 4.8,
+      "offset": 255.52,
+      "lang": "en"
+    },
+    {
+      "text": "usually are. I was at Dropbox last year.",
+      "duration": 5.36,
+      "offset": 257.28,
+      "lang": "en"
+    },
+    {
+      "text": "Dropbox uh started actually with the",
+      "duration": 4.4,
+      "offset": 260.32,
+      "lang": "en"
+    },
+    {
+      "text": "loop that&#39;s not on the slide, but what",
+      "duration": 4.16,
+      "offset": 262.64,
+      "lang": "en"
+    },
+    {
+      "text": "was the loop? Do you remember the viral",
+      "duration": 5.04,
+      "offset": 264.72,
+      "lang": "en"
+    },
+    {
+      "text": "loop that Dropbox had?",
+      "duration": 4.64,
+      "offset": 266.8,
+      "lang": "en"
+    },
+    {
+      "text": "Give credits to get uh sorry, give",
+      "duration": 3.36,
+      "offset": 269.76,
+      "lang": "en"
+    },
+    {
+      "text": "storage to get storage that like took",
+      "duration": 3.92,
+      "offset": 271.44,
+      "lang": "en"
+    },
+    {
+      "text": "off like a wildfire. That actually took",
+      "duration": 4.08,
+      "offset": 273.12,
+      "lang": "en"
+    },
+    {
+      "text": "company to our first billion dollars",
+      "duration": 4.16,
+      "offset": 275.36,
+      "lang": "en"
+    },
+    {
+      "text": "almost with no marketing expenses. And",
+      "duration": 3.92,
+      "offset": 277.2,
+      "lang": "en"
+    },
+    {
+      "text": "that was a really strong loop. They like",
+      "duration": 3.12,
+      "offset": 279.52,
+      "lang": "en"
+    },
+    {
+      "text": "they hooked into the user psychology",
+      "duration": 4.0,
+      "offset": 281.12,
+      "lang": "en"
+    },
+    {
+      "text": "there very well. Right now 60% of",
+      "duration": 4.64,
+      "offset": 282.64,
+      "lang": "en"
+    },
+    {
+      "text": "acquisition for Dropbox is powered by",
+      "duration": 4.16,
+      "offset": 285.12,
+      "lang": "en"
+    },
+    {
+      "text": "this product loop not marketing not",
+      "duration": 4.4,
+      "offset": 287.28,
+      "lang": "en"
+    },
+    {
+      "text": "sales this product loop where they have",
+      "duration": 4.32,
+      "offset": 289.28,
+      "lang": "en"
+    },
+    {
+      "text": "a new user they come in they upload the",
+      "duration": 4.24,
+      "offset": 291.68,
+      "lang": "en"
+    },
+    {
+      "text": "content they want to share that content",
+      "duration": 4.16,
+      "offset": 293.6,
+      "lang": "en"
+    },
+    {
+      "text": "with somebody else and percentage of",
+      "duration": 3.92,
+      "offset": 295.92,
+      "lang": "en"
+    },
+    {
+      "text": "those recipients sign up to become new",
+      "duration": 5.36,
+      "offset": 297.76,
+      "lang": "en"
+    },
+    {
+      "text": "users 60% of acquisition basically your",
+      "duration": 5.04,
+      "offset": 299.84,
+      "lang": "en"
+    },
+    {
+      "text": "users doing your own marketing for you",
+      "duration": 4.0,
+      "offset": 303.12,
+      "lang": "en"
+    },
+    {
+      "text": "the best case scenario but it doesn&#39;t",
+      "duration": 3.76,
+      "offset": 304.88,
+      "lang": "en"
+    },
+    {
+      "text": "come from marketing teams it doesn&#39;t",
+      "duration": 3.52,
+      "offset": 307.12,
+      "lang": "en"
+    },
+    {
+      "text": "come from sales teams it comes from you",
+      "duration": 4.4,
+      "offset": 308.64,
+      "lang": "en"
+    },
+    {
+      "text": "product people building into customer",
+      "duration": 4.16,
+      "offset": 310.64,
+      "lang": "en"
+    },
+    {
+      "text": "experience experiences.",
+      "duration": 4.88,
+      "offset": 313.04,
+      "lang": "en"
+    },
+    {
+      "text": "Now, there&#39;s also Lovable. Lovable is um",
+      "duration": 5.04,
+      "offset": 314.8,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re only 10 months old, so uh we&#39;re",
+      "duration": 3.52,
+      "offset": 317.92,
+      "lang": "en"
+    },
+    {
+      "text": "still working on our loops. That&#39;s",
+      "duration": 3.44,
+      "offset": 319.84,
+      "lang": "en"
+    },
+    {
+      "text": "something that I definitely lose a lot",
+      "duration": 4.24,
+      "offset": 321.44,
+      "lang": "en"
+    },
+    {
+      "text": "of sleep over, but Lovable also has a",
+      "duration": 4.16,
+      "offset": 323.28,
+      "lang": "en"
+    },
+    {
+      "text": "really incredible word of mouth loop.",
+      "duration": 4.0,
+      "offset": 325.68,
+      "lang": "en"
+    },
+    {
+      "text": "This is a great place to start for any",
+      "duration": 4.56,
+      "offset": 327.44,
+      "lang": "en"
+    },
+    {
+      "text": "startup, for any new product. Just lean",
+      "duration": 4.16,
+      "offset": 329.68,
+      "lang": "en"
+    },
+    {
+      "text": "into word of mouth as much as possible.",
+      "duration": 4.08,
+      "offset": 332.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now, it&#39;s not really sustainable for a",
+      "duration": 3.92,
+      "offset": 333.84,
+      "lang": "en"
+    },
+    {
+      "text": "long time. You can&#39;t just like keep the",
+      "duration": 3.52,
+      "offset": 336.08,
+      "lang": "en"
+    },
+    {
+      "text": "word of mouth going indefinitely. At",
+      "duration": 3.6,
+      "offset": 337.76,
+      "lang": "en"
+    },
+    {
+      "text": "some point, it fizzles out. Not",
+      "duration": 3.76,
+      "offset": 339.6,
+      "lang": "en"
+    },
+    {
+      "text": "everybody wants to talk about the",
+      "duration": 3.68,
+      "offset": 341.36,
+      "lang": "en"
+    },
+    {
+      "text": "products that they&#39;re using, but at the",
+      "duration": 3.12,
+      "offset": 343.36,
+      "lang": "en"
+    },
+    {
+      "text": "same time, it&#39;s the really best way to",
+      "duration": 3.28,
+      "offset": 345.04,
+      "lang": "en"
+    },
+    {
+      "text": "kick off growth. And this is where most",
+      "duration": 4.16,
+      "offset": 346.48,
+      "lang": "en"
+    },
+    {
+      "text": "of our growth right now is coming from.",
+      "duration": 4.4,
+      "offset": 348.32,
+      "lang": "en"
+    },
+    {
+      "text": "Now, our what is the word of mouth loop?",
+      "duration": 3.92,
+      "offset": 350.64,
+      "lang": "en"
+    },
+    {
+      "text": "You have a new user, the product exceeds",
+      "duration": 4.24,
+      "offset": 352.72,
+      "lang": "en"
+    },
+    {
+      "text": "the expectations. That first generation",
+      "duration": 5.28,
+      "offset": 354.56,
+      "lang": "en"
+    },
+    {
+      "text": "experience at lovable is so magical that",
+      "duration": 5.04,
+      "offset": 356.96,
+      "lang": "en"
+    },
+    {
+      "text": "people go, I need to tell the world",
+      "duration": 5.04,
+      "offset": 359.84,
+      "lang": "en"
+    },
+    {
+      "text": "about it. And they do. They tell their",
+      "duration": 4.32,
+      "offset": 362.0,
+      "lang": "en"
+    },
+    {
+      "text": "network and all a sudden some people",
+      "duration": 3.44,
+      "offset": 364.88,
+      "lang": "en"
+    },
+    {
+      "text": "sign up from it. And it&#39;s a gift that",
+      "duration": 3.84,
+      "offset": 366.32,
+      "lang": "en"
+    },
+    {
+      "text": "just keeps on giving. And it&#39;s all done",
+      "duration": 4.32,
+      "offset": 368.32,
+      "lang": "en"
+    },
+    {
+      "text": "just by providing lovable experiences to",
+      "duration": 4.56,
+      "offset": 370.16,
+      "lang": "en"
+    },
+    {
+      "text": "customers. So make sure that you put in",
+      "duration": 3.84,
+      "offset": 372.64,
+      "lang": "en"
+    },
+    {
+      "text": "those love marks and that think about",
+      "duration": 4.0,
+      "offset": 374.72,
+      "lang": "en"
+    },
+    {
+      "text": "that activation and the first two",
+      "duration": 4.24,
+      "offset": 376.48,
+      "lang": "en"
+    },
+    {
+      "text": "minutes of the customer experience",
+      "duration": 3.52,
+      "offset": 378.72,
+      "lang": "en"
+    },
+    {
+      "text": "because that&#39;s going to be between make",
+      "duration": 3.12,
+      "offset": 380.72,
+      "lang": "en"
+    },
+    {
+      "text": "it or break it for your word of mouth",
+      "duration": 5.28,
+      "offset": 382.24,
+      "lang": "en"
+    },
+    {
+      "text": "loop. Now then about five years ago uh",
+      "duration": 5.2,
+      "offset": 383.84,
+      "lang": "en"
+    },
+    {
+      "text": "everybody started obsessing about",
+      "duration": 4.08,
+      "offset": 387.52,
+      "lang": "en"
+    },
+    {
+      "text": "productled growth. And honestly it was",
+      "duration": 5.12,
+      "offset": 389.04,
+      "lang": "en"
+    },
+    {
+      "text": "somewhat overhyped. I think uh like we",
+      "duration": 5.12,
+      "offset": 391.6,
+      "lang": "en"
+    },
+    {
+      "text": "did uh we did too good of a job like",
+      "duration": 5.28,
+      "offset": 394.16,
+      "lang": "en"
+    },
+    {
+      "text": "advertising for it. Uh now I really want",
+      "duration": 4.4,
+      "offset": 396.72,
+      "lang": "en"
+    },
+    {
+      "text": "to talk to you about why productled",
+      "duration": 4.0,
+      "offset": 399.44,
+      "lang": "en"
+    },
+    {
+      "text": "growth even became a thing that we all",
+      "duration": 4.56,
+      "offset": 401.12,
+      "lang": "en"
+    },
+    {
+      "text": "sudden started talking so much about and",
+      "duration": 4.0,
+      "offset": 403.44,
+      "lang": "en"
+    },
+    {
+      "text": "that happened because of the four shifts",
+      "duration": 3.6,
+      "offset": 405.68,
+      "lang": "en"
+    },
+    {
+      "text": "in the market. That was like the first",
+      "duration": 3.68,
+      "offset": 407.44,
+      "lang": "en"
+    },
+    {
+      "text": "shift that happened. I&#39;m going talk",
+      "duration": 2.88,
+      "offset": 409.28,
+      "lang": "en"
+    },
+    {
+      "text": "about the other shifts that are",
+      "duration": 4.08,
+      "offset": 411.12,
+      "lang": "en"
+    },
+    {
+      "text": "happening now too. So shift number one",
+      "duration": 6.16,
+      "offset": 412.16,
+      "lang": "en"
+    },
+    {
+      "text": "users in B2B product all of a sudden",
+      "duration": 6.16,
+      "offset": 415.2,
+      "lang": "en"
+    },
+    {
+      "text": "became buyers. Now this was kind of like",
+      "duration": 5.2,
+      "offset": 418.32,
+      "lang": "en"
+    },
+    {
+      "text": "a pent-up demand because B2B products",
+      "duration": 4.32,
+      "offset": 421.36,
+      "lang": "en"
+    },
+    {
+      "text": "used to sell to enterprise buyers.",
+      "duration": 4.08,
+      "offset": 423.52,
+      "lang": "en"
+    },
+    {
+      "text": "enterprise buyers will like check their",
+      "duration": 3.92,
+      "offset": 425.68,
+      "lang": "en"
+    },
+    {
+      "text": "checklist. It seems like all of the",
+      "duration": 3.68,
+      "offset": 427.6,
+      "lang": "en"
+    },
+    {
+      "text": "requirements are satisfied and then they",
+      "duration": 3.28,
+      "offset": 429.6,
+      "lang": "en"
+    },
+    {
+      "text": "just push the product down in the",
+      "duration": 3.52,
+      "offset": 431.28,
+      "lang": "en"
+    },
+    {
+      "text": "organization and then the end user",
+      "duration": 4.56,
+      "offset": 432.88,
+      "lang": "en"
+    },
+    {
+      "text": "afterwards were like what is this? This",
+      "duration": 4.8,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "is terrible. This is not solving any of",
+      "duration": 4.4,
+      "offset": 437.44,
+      "lang": "en"
+    },
+    {
+      "text": "my problems. I&#39;m going to go and find my",
+      "duration": 4.64,
+      "offset": 439.6,
+      "lang": "en"
+    },
+    {
+      "text": "own solution which is where PLG was",
+      "duration": 4.96,
+      "offset": 441.84,
+      "lang": "en"
+    },
+    {
+      "text": "born. Those self-s served proumer",
+      "duration": 5.76,
+      "offset": 444.24,
+      "lang": "en"
+    },
+    {
+      "text": "consumerlike B2B products that actually",
+      "duration": 5.12,
+      "offset": 446.8,
+      "lang": "en"
+    },
+    {
+      "text": "solve people&#39;s problems and then they",
+      "duration": 3.6,
+      "offset": 450.0,
+      "lang": "en"
+    },
+    {
+      "text": "started going up market and also doing",
+      "duration": 3.6,
+      "offset": 451.92,
+      "lang": "en"
+    },
+    {
+      "text": "enterprise as well. But that shift of",
+      "duration": 3.76,
+      "offset": 453.6,
+      "lang": "en"
+    },
+    {
+      "text": "the user becoming a buyer is very",
+      "duration": 3.2,
+      "offset": 455.52,
+      "lang": "en"
+    },
+    {
+      "text": "important and we&#39;ll come back to that in",
+      "duration": 3.52,
+      "offset": 457.36,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit. Number two is channel life",
+      "duration": 4.64,
+      "offset": 458.72,
+      "lang": "en"
+    },
+    {
+      "text": "cycle. If you&#39;re just reply uh relying",
+      "duration": 4.48,
+      "offset": 460.88,
+      "lang": "en"
+    },
+    {
+      "text": "on marketing and sales to do your",
+      "duration": 3.68,
+      "offset": 463.36,
+      "lang": "en"
+    },
+    {
+      "text": "distribution",
+      "duration": 4.8,
+      "offset": 465.36,
+      "lang": "en"
+    },
+    {
+      "text": "um that&#39;s really tough nowadays because",
+      "duration": 5.44,
+      "offset": 467.04,
+      "lang": "en"
+    },
+    {
+      "text": "any campaign that marketing puts out",
+      "duration": 5.84,
+      "offset": 470.16,
+      "lang": "en"
+    },
+    {
+      "text": "there uh on any honestly any channels",
+      "duration": 6.32,
+      "offset": 472.48,
+      "lang": "en"
+    },
+    {
+      "text": "how off how fast do you think it becomes",
+      "duration": 5.52,
+      "offset": 476.0,
+      "lang": "en"
+    },
+    {
+      "text": "irrelevant?",
+      "duration": 5.12,
+      "offset": 478.8,
+      "lang": "en"
+    },
+    {
+      "text": "marketing teams are lucky if they get a",
+      "duration": 5.2,
+      "offset": 481.52,
+      "lang": "en"
+    },
+    {
+      "text": "week out of it. Now, imagine needing to",
+      "duration": 4.96,
+      "offset": 483.92,
+      "lang": "en"
+    },
+    {
+      "text": "produce this creatives, these campaigns",
+      "duration": 4.16,
+      "offset": 486.72,
+      "lang": "en"
+    },
+    {
+      "text": "every single week. We&#39;re just not set up",
+      "duration": 4.0,
+      "offset": 488.88,
+      "lang": "en"
+    },
+    {
+      "text": "for it. Maybe I will help us enable it",
+      "duration": 3.68,
+      "offset": 490.88,
+      "lang": "en"
+    },
+    {
+      "text": "more. But also, our attention spans are",
+      "duration": 3.52,
+      "offset": 492.88,
+      "lang": "en"
+    },
+    {
+      "text": "like this short right now. We like see",
+      "duration": 3.28,
+      "offset": 494.56,
+      "lang": "en"
+    },
+    {
+      "text": "something once and like we never want to",
+      "duration": 3.52,
+      "offset": 496.4,
+      "lang": "en"
+    },
+    {
+      "text": "see it again. Imagine like compared to",
+      "duration": 4.4,
+      "offset": 497.84,
+      "lang": "en"
+    },
+    {
+      "text": "like Coca-Cola that used to put out a",
+      "duration": 4.72,
+      "offset": 499.92,
+      "lang": "en"
+    },
+    {
+      "text": "campaign that would fire in for a year,",
+      "duration": 4.0,
+      "offset": 502.24,
+      "lang": "en"
+    },
+    {
+      "text": "but now you cannot do that in the",
+      "duration": 2.8,
+      "offset": 504.64,
+      "lang": "en"
+    },
+    {
+      "text": "market. It&#39;s just become way too",
+      "duration": 3.12,
+      "offset": 506.24,
+      "lang": "en"
+    },
+    {
+      "text": "crowded. Number three is data",
+      "duration": 3.76,
+      "offset": 507.44,
+      "lang": "en"
+    },
+    {
+      "text": "availability. you all product managers,",
+      "duration": 2.96,
+      "offset": 509.36,
+      "lang": "en"
+    },
+    {
+      "text": "I hope that you have your data",
+      "duration": 2.88,
+      "offset": 511.2,
+      "lang": "en"
+    },
+    {
+      "text": "dashboards to see how your product is",
+      "duration": 3.76,
+      "offset": 512.32,
+      "lang": "en"
+    },
+    {
+      "text": "performing. That wasn&#39;t available",
+      "duration": 4.4,
+      "offset": 514.08,
+      "lang": "en"
+    },
+    {
+      "text": "before. So now we actually know what&#39;s",
+      "duration": 4.0,
+      "offset": 516.08,
+      "lang": "en"
+    },
+    {
+      "text": "happening in the products. We don&#39;t just",
+      "duration": 3.36,
+      "offset": 518.48,
+      "lang": "en"
+    },
+    {
+      "text": "have to hear to salespeople what they&#39;re",
+      "duration": 3.76,
+      "offset": 520.08,
+      "lang": "en"
+    },
+    {
+      "text": "saying. So we can go and make those",
+      "duration": 4.16,
+      "offset": 521.84,
+      "lang": "en"
+    },
+    {
+      "text": "experiences better and make product work",
+      "duration": 4.24,
+      "offset": 523.84,
+      "lang": "en"
+    },
+    {
+      "text": "better for us and for our companies and",
+      "duration": 4.08,
+      "offset": 526.0,
+      "lang": "en"
+    },
+    {
+      "text": "for our customers. And then number four",
+      "duration": 3.76,
+      "offset": 528.08,
+      "lang": "en"
+    },
+    {
+      "text": "is roles are blurring. So all of a",
+      "duration": 3.92,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "sudden um I don&#39;t know how about you,",
+      "duration": 4.8,
+      "offset": 531.84,
+      "lang": "en"
+    },
+    {
+      "text": "but just being a product manager is",
+      "duration": 5.04,
+      "offset": 534.0,
+      "lang": "en"
+    },
+    {
+      "text": "starting to be very quickly not enough.",
+      "duration": 4.08,
+      "offset": 536.64,
+      "lang": "en"
+    },
+    {
+      "text": "You have to have a marketing hat or at",
+      "duration": 4.0,
+      "offset": 539.04,
+      "lang": "en"
+    },
+    {
+      "text": "least product marketing hat on. Every",
+      "duration": 4.0,
+      "offset": 540.72,
+      "lang": "en"
+    },
+    {
+      "text": "single marketer has to have a product",
+      "duration": 4.08,
+      "offset": 543.04,
+      "lang": "en"
+    },
+    {
+      "text": "manager hat on. Everybody is an analyst",
+      "duration": 4.48,
+      "offset": 544.72,
+      "lang": "en"
+    },
+    {
+      "text": "in the room or should be an analyst in",
+      "duration": 4.16,
+      "offset": 547.12,
+      "lang": "en"
+    },
+    {
+      "text": "the room. And that really empowers us to",
+      "duration": 3.84,
+      "offset": 549.2,
+      "lang": "en"
+    },
+    {
+      "text": "be more responsible than just",
+      "duration": 4.08,
+      "offset": 551.28,
+      "lang": "en"
+    },
+    {
+      "text": "specialized in this one little area, but",
+      "duration": 3.84,
+      "offset": 553.04,
+      "lang": "en"
+    },
+    {
+      "text": "be more responsible for the overall",
+      "duration": 3.52,
+      "offset": 555.36,
+      "lang": "en"
+    },
+    {
+      "text": "company and customer outcomes. And that",
+      "duration": 3.52,
+      "offset": 556.88,
+      "lang": "en"
+    },
+    {
+      "text": "role blurring is honestly the most",
+      "duration": 2.8,
+      "offset": 558.88,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful thing because it gives you",
+      "duration": 4.4,
+      "offset": 560.4,
+      "lang": "en"
+    },
+    {
+      "text": "more agency. It gives you more autonomy.",
+      "duration": 5.28,
+      "offset": 561.68,
+      "lang": "en"
+    },
+    {
+      "text": "But B2B products were definitely feeling",
+      "duration": 4.8,
+      "offset": 564.8,
+      "lang": "en"
+    },
+    {
+      "text": "the pressure because it&#39;s stressful tool",
+      "duration": 4.4,
+      "offset": 566.96,
+      "lang": "en"
+    },
+    {
+      "text": "being responsible for monetization",
+      "duration": 3.92,
+      "offset": 569.6,
+      "lang": "en"
+    },
+    {
+      "text": "outcomes and acquisition outcomes. And",
+      "duration": 3.44,
+      "offset": 571.36,
+      "lang": "en"
+    },
+    {
+      "text": "this is why I think that there was a lot",
+      "duration": 3.04,
+      "offset": 573.52,
+      "lang": "en"
+    },
+    {
+      "text": "of this hype about productled growth",
+      "duration": 4.56,
+      "offset": 574.8,
+      "lang": "en"
+    },
+    {
+      "text": "because in B2B traditional enterprises",
+      "duration": 4.72,
+      "offset": 576.56,
+      "lang": "en"
+    },
+    {
+      "text": "um product managers are not used to",
+      "duration": 4.72,
+      "offset": 579.36,
+      "lang": "en"
+    },
+    {
+      "text": "operating this way and meanwhile uh",
+      "duration": 5.44,
+      "offset": 581.28,
+      "lang": "en"
+    },
+    {
+      "text": "consumer products were like what is",
+      "duration": 5.92,
+      "offset": 584.08,
+      "lang": "en"
+    },
+    {
+      "text": "this? We&#39;ve been doing this all along.",
+      "duration": 5.36,
+      "offset": 586.72,
+      "lang": "en"
+    },
+    {
+      "text": "Like we&#39;ve always been responsible for",
+      "duration": 4.08,
+      "offset": 590.0,
+      "lang": "en"
+    },
+    {
+      "text": "company outcomes and we always had",
+      "duration": 4.16,
+      "offset": 592.08,
+      "lang": "en"
+    },
+    {
+      "text": "productled growth. You just rebranded it",
+      "duration": 3.92,
+      "offset": 594.08,
+      "lang": "en"
+    },
+    {
+      "text": "and put it as something new. Whereas",
+      "duration": 4.0,
+      "offset": 596.24,
+      "lang": "en"
+    },
+    {
+      "text": "this concept existed all along. So my",
+      "duration": 4.08,
+      "offset": 598.0,
+      "lang": "en"
+    },
+    {
+      "text": "biggest hint to you is if you want to do",
+      "duration": 4.32,
+      "offset": 600.24,
+      "lang": "en"
+    },
+    {
+      "text": "PLG, just copy what consumer products",
+      "duration": 4.08,
+      "offset": 602.08,
+      "lang": "en"
+    },
+    {
+      "text": "are doing. That&#39;s honestly the fastest",
+      "duration": 4.0,
+      "offset": 604.56,
+      "lang": "en"
+    },
+    {
+      "text": "shortcut that you can do. But then",
+      "duration": 5.76,
+      "offset": 606.16,
+      "lang": "en"
+    },
+    {
+      "text": "something else started to happen.",
+      "duration": 5.84,
+      "offset": 608.56,
+      "lang": "en"
+    },
+    {
+      "text": "What happened? What has really changed",
+      "duration": 5.92,
+      "offset": 611.92,
+      "lang": "en"
+    },
+    {
+      "text": "in the last year and a half?",
+      "duration": 6.72,
+      "offset": 614.4,
+      "lang": "en"
+    },
+    {
+      "text": "AI. Yes, Chad GPT, OpenAI, I&#39;m going to",
+      "duration": 5.36,
+      "offset": 617.84,
+      "lang": "en"
+    },
+    {
+      "text": "pick on OpenAI here came along and all",
+      "duration": 4.96,
+      "offset": 621.12,
+      "lang": "en"
+    },
+    {
+      "text": "of a sudden there is LLM wars all over",
+      "duration": 4.48,
+      "offset": 623.2,
+      "lang": "en"
+    },
+    {
+      "text": "the place and we&#39;re like sitting there",
+      "duration": 3.84,
+      "offset": 626.08,
+      "lang": "en"
+    },
+    {
+      "text": "going, &quot;What is happening over there?&quot;",
+      "duration": 4.32,
+      "offset": 627.68,
+      "lang": "en"
+    },
+    {
+      "text": "And all of the companies were like, &quot;We",
+      "duration": 4.48,
+      "offset": 629.92,
+      "lang": "en"
+    },
+    {
+      "text": "need to get onto this gravy train.&quot; So,",
+      "duration": 4.0,
+      "offset": 632.0,
+      "lang": "en"
+    },
+    {
+      "text": "I saw this tweet. I thought it was",
+      "duration": 4.24,
+      "offset": 634.4,
+      "lang": "en"
+    },
+    {
+      "text": "hilarious. Just change your loading to",
+      "duration": 5.04,
+      "offset": 636.0,
+      "lang": "en"
+    },
+    {
+      "text": "states to thinking and you are an",
+      "duration": 5.12,
+      "offset": 638.64,
+      "lang": "en"
+    },
+    {
+      "text": "agentic AI startup now. That&#39;s my girls",
+      "duration": 4.48,
+      "offset": 641.04,
+      "lang": "en"
+    },
+    {
+      "text": "hack to you today. You&#39;re welcome. Thank",
+      "duration": 4.88,
+      "offset": 643.76,
+      "lang": "en"
+    },
+    {
+      "text": "you. And by the way, what did our",
+      "duration": 5.52,
+      "offset": 645.52,
+      "lang": "en"
+    },
+    {
+      "text": "product roadmap started to look like?",
+      "duration": 5.2,
+      "offset": 648.64,
+      "lang": "en"
+    },
+    {
+      "text": "There&#39;s companies and then there&#39;s AI.",
+      "duration": 5.04,
+      "offset": 651.04,
+      "lang": "en"
+    },
+    {
+      "text": "And nobody asked for it. Definitely not",
+      "duration": 4.56,
+      "offset": 653.84,
+      "lang": "en"
+    },
+    {
+      "text": "customers. But let&#39;s start creating AI",
+      "duration": 4.16,
+      "offset": 656.08,
+      "lang": "en"
+    },
+    {
+      "text": "features and call ourselves an AI",
+      "duration": 4.72,
+      "offset": 658.4,
+      "lang": "en"
+    },
+    {
+      "text": "company. But honestly, it&#39;s not in our",
+      "duration": 5.04,
+      "offset": 660.24,
+      "lang": "en"
+    },
+    {
+      "text": "control. We all know how road maps are",
+      "duration": 4.08,
+      "offset": 663.12,
+      "lang": "en"
+    },
+    {
+      "text": "made. It&#39;s not based on customer",
+      "duration": 4.0,
+      "offset": 665.28,
+      "lang": "en"
+    },
+    {
+      "text": "feedback and it&#39;s most definitely not on",
+      "duration": 3.68,
+      "offset": 667.2,
+      "lang": "en"
+    },
+    {
+      "text": "innovation and what you&#39;re trying to",
+      "duration": 3.92,
+      "offset": 669.28,
+      "lang": "en"
+    },
+    {
+      "text": "drive. Sometimes it&#39;s those sales",
+      "duration": 4.96,
+      "offset": 670.88,
+      "lang": "en"
+    },
+    {
+      "text": "requests and promises, but we all know",
+      "duration": 5.68,
+      "offset": 673.2,
+      "lang": "en"
+    },
+    {
+      "text": "who&#39;s in charge and who&#39;s actually",
+      "duration": 7.68,
+      "offset": 675.84,
+      "lang": "en"
+    },
+    {
+      "text": "making the final call. But wait, AI is",
+      "duration": 7.76,
+      "offset": 678.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually doing a lot of changes in",
+      "duration": 5.84,
+      "offset": 683.52,
+      "lang": "en"
+    },
+    {
+      "text": "product management, but it is killing",
+      "duration": 5.76,
+      "offset": 686.64,
+      "lang": "en"
+    },
+    {
+      "text": "our distribution channels. This is an",
+      "duration": 6.16,
+      "offset": 689.36,
+      "lang": "en"
+    },
+    {
+      "text": "example of a company G2. It&#39;s a also B2B",
+      "duration": 4.8,
+      "offset": 692.4,
+      "lang": "en"
+    },
+    {
+      "text": "company. They do like reviews kind of",
+      "duration": 3.44,
+      "offset": 695.52,
+      "lang": "en"
+    },
+    {
+      "text": "like Trust Pilot for consumer, but they",
+      "duration": 4.64,
+      "offset": 697.2,
+      "lang": "en"
+    },
+    {
+      "text": "do similar for B2B. who is uh most of",
+      "duration": 4.96,
+      "offset": 698.96,
+      "lang": "en"
+    },
+    {
+      "text": "their growth was coming from SEO, search",
+      "duration": 3.92,
+      "offset": 701.84,
+      "lang": "en"
+    },
+    {
+      "text": "engine optimization, Google search uh",
+      "duration": 3.84,
+      "offset": 703.92,
+      "lang": "en"
+    },
+    {
+      "text": "organic most of that although some paid",
+      "duration": 4.4,
+      "offset": 705.76,
+      "lang": "en"
+    },
+    {
+      "text": "as well I&#39;m sure this is the snapshot",
+      "duration": 4.08,
+      "offset": 707.76,
+      "lang": "en"
+    },
+    {
+      "text": "just through February this trend",
+      "duration": 3.76,
+      "offset": 710.16,
+      "lang": "en"
+    },
+    {
+      "text": "continued down um I just didn&#39;t have a",
+      "duration": 4.48,
+      "offset": 711.84,
+      "lang": "en"
+    },
+    {
+      "text": "chance to update",
+      "duration": 4.24,
+      "offset": 713.92,
+      "lang": "en"
+    },
+    {
+      "text": "this is just our acquisition that has",
+      "duration": 5.28,
+      "offset": 716.32,
+      "lang": "en"
+    },
+    {
+      "text": "reduced by 80 to 90% since chat GPT",
+      "duration": 6.64,
+      "offset": 718.16,
+      "lang": "en"
+    },
+    {
+      "text": "happened now why is that",
+      "duration": 4.96,
+      "offset": 721.6,
+      "lang": "en"
+    },
+    {
+      "text": "what is happening with consumer habits",
+      "duration": 4.88,
+      "offset": 724.8,
+      "lang": "en"
+    },
+    {
+      "text": "right now they&#39;re changing are you still",
+      "duration": 5.28,
+      "offset": 726.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to Google search to find things.",
+      "duration": 4.64,
+      "offset": 729.68,
+      "lang": "en"
+    },
+    {
+      "text": "No, you&#39;re going to chat GPT or cloud or",
+      "duration": 4.48,
+      "offset": 731.84,
+      "lang": "en"
+    },
+    {
+      "text": "whatever you are because conversational",
+      "duration": 3.84,
+      "offset": 734.32,
+      "lang": "en"
+    },
+    {
+      "text": "AI is so much better to answer your",
+      "duration": 3.36,
+      "offset": 736.32,
+      "lang": "en"
+    },
+    {
+      "text": "questions than doing search and like",
+      "duration": 3.04,
+      "offset": 738.16,
+      "lang": "en"
+    },
+    {
+      "text": "spending a bunch of time looking at the",
+      "duration": 4.72,
+      "offset": 739.68,
+      "lang": "en"
+    },
+    {
+      "text": "links. Um, and this is very much felt in",
+      "duration": 6.08,
+      "offset": 741.2,
+      "lang": "en"
+    },
+    {
+      "text": "the companies that were really",
+      "duration": 5.2,
+      "offset": 744.4,
+      "lang": "en"
+    },
+    {
+      "text": "optimizing against search being the main",
+      "duration": 4.4,
+      "offset": 747.28,
+      "lang": "en"
+    },
+    {
+      "text": "growth driver that are now struggling",
+      "duration": 4.08,
+      "offset": 749.6,
+      "lang": "en"
+    },
+    {
+      "text": "very very much. The list goes on. You",
+      "duration": 4.0,
+      "offset": 751.68,
+      "lang": "en"
+    },
+    {
+      "text": "can actually find a blog on my um on my",
+      "duration": 4.0,
+      "offset": 753.68,
+      "lang": "en"
+    },
+    {
+      "text": "Substack that goes through all of those",
+      "duration": 3.44,
+      "offset": 755.68,
+      "lang": "en"
+    },
+    {
+      "text": "businesses that are crashing and",
+      "duration": 3.92,
+      "offset": 757.68,
+      "lang": "en"
+    },
+    {
+      "text": "burning. so hard and social is not",
+      "duration": 4.96,
+      "offset": 759.12,
+      "lang": "en"
+    },
+    {
+      "text": "helping either. Algorithms are changing",
+      "duration": 5.36,
+      "offset": 761.6,
+      "lang": "en"
+    },
+    {
+      "text": "every single day. Algorithm giveth and",
+      "duration": 5.44,
+      "offset": 764.08,
+      "lang": "en"
+    },
+    {
+      "text": "then algorithm taketh away. And most",
+      "duration": 4.08,
+      "offset": 766.96,
+      "lang": "en"
+    },
+    {
+      "text": "importantly, social networks are",
+      "duration": 4.56,
+      "offset": 769.52,
+      "lang": "en"
+    },
+    {
+      "text": "starting to clamp down too because",
+      "duration": 5.6,
+      "offset": 771.04,
+      "lang": "en"
+    },
+    {
+      "text": "they optimize on intensity of use. That",
+      "duration": 4.88,
+      "offset": 774.08,
+      "lang": "en"
+    },
+    {
+      "text": "is their retention tactic. So you put a",
+      "duration": 4.4,
+      "offset": 776.64,
+      "lang": "en"
+    },
+    {
+      "text": "link out to try to drive traffic to your",
+      "duration": 4.88,
+      "offset": 778.96,
+      "lang": "en"
+    },
+    {
+      "text": "company, no more traffic for you, no",
+      "duration": 4.8,
+      "offset": 781.04,
+      "lang": "en"
+    },
+    {
+      "text": "more impressions for you. Which makes it",
+      "duration": 3.84,
+      "offset": 783.84,
+      "lang": "en"
+    },
+    {
+      "text": "that search now is not a good channel.",
+      "duration": 4.16,
+      "offset": 785.84,
+      "lang": "en"
+    },
+    {
+      "text": "Used to be big. Social is also really",
+      "duration": 3.92,
+      "offset": 787.68,
+      "lang": "en"
+    },
+    {
+      "text": "hard to drive traffic through for your",
+      "duration": 5.28,
+      "offset": 790.0,
+      "lang": "en"
+    },
+    {
+      "text": "company. But wait, there is more. Now,",
+      "duration": 5.28,
+      "offset": 791.6,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to do a shameless plug here,",
+      "duration": 3.68,
+      "offset": 795.28,
+      "lang": "en"
+    },
+    {
+      "text": "but I see this is starting to happen in",
+      "duration": 4.64,
+      "offset": 796.88,
+      "lang": "en"
+    },
+    {
+      "text": "a really rapid fashion. um at lovable",
+      "duration": 4.32,
+      "offset": 798.96,
+      "lang": "en"
+    },
+    {
+      "text": "and I want you to pay attention to this",
+      "duration": 3.92,
+      "offset": 801.52,
+      "lang": "en"
+    },
+    {
+      "text": "as product managers",
+      "duration": 4.88,
+      "offset": 803.28,
+      "lang": "en"
+    },
+    {
+      "text": "at lovable in lovable in vibe coding in",
+      "duration": 5.12,
+      "offset": 805.44,
+      "lang": "en"
+    },
+    {
+      "text": "general it&#39;s we&#39;re starting to reduce",
+      "duration": 4.0,
+      "offset": 808.16,
+      "lang": "en"
+    },
+    {
+      "text": "the friction and what it actually means",
+      "duration": 4.64,
+      "offset": 810.56,
+      "lang": "en"
+    },
+    {
+      "text": "to build any product any software uh",
+      "duration": 5.04,
+      "offset": 812.16,
+      "lang": "en"
+    },
+    {
+      "text": "whether it&#39;s website whether it&#39;s a B2C",
+      "duration": 4.48,
+      "offset": 815.2,
+      "lang": "en"
+    },
+    {
+      "text": "app whether it&#39;s a B2B app you name it",
+      "duration": 4.48,
+      "offset": 817.2,
+      "lang": "en"
+    },
+    {
+      "text": "and what people are starting to do is",
+      "duration": 3.6,
+      "offset": 819.68,
+      "lang": "en"
+    },
+    {
+      "text": "instead of paying for bloated",
+      "duration": 3.6,
+      "offset": 821.68,
+      "lang": "en"
+    },
+    {
+      "text": "subscriptions or bloated products",
+      "duration": 3.44,
+      "offset": 823.28,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re going and they&#39;re building their",
+      "duration": 4.32,
+      "offset": 825.28,
+      "lang": "en"
+    },
+    {
+      "text": "own tooling we call it lovingly uh SAS",
+      "duration": 5.28,
+      "offset": 826.72,
+      "lang": "en"
+    },
+    {
+      "text": "replacement use case internally, but",
+      "duration": 4.48,
+      "offset": 829.6,
+      "lang": "en"
+    },
+    {
+      "text": "people are literally going and if the",
+      "duration": 3.52,
+      "offset": 832.0,
+      "lang": "en"
+    },
+    {
+      "text": "functionality that they&#39;re using in the",
+      "duration": 2.88,
+      "offset": 834.08,
+      "lang": "en"
+    },
+    {
+      "text": "product is very simple, they&#39;re going",
+      "duration": 3.44,
+      "offset": 835.52,
+      "lang": "en"
+    },
+    {
+      "text": "and they&#39;re building it out in lovable",
+      "duration": 6.88,
+      "offset": 836.96,
+      "lang": "en"
+    },
+    {
+      "text": "itself. I really urge you all to go. You",
+      "duration": 6.64,
+      "offset": 838.96,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have to do lovable. I&#39;d love it if",
+      "duration": 4.8,
+      "offset": 843.84,
+      "lang": "en"
+    },
+    {
+      "text": "you do it in lovable, but go to one of",
+      "duration": 5.44,
+      "offset": 845.6,
+      "lang": "en"
+    },
+    {
+      "text": "those VIP coding platforms and try to",
+      "duration": 4.48,
+      "offset": 848.64,
+      "lang": "en"
+    },
+    {
+      "text": "rebuild your product, your main",
+      "duration": 4.48,
+      "offset": 851.04,
+      "lang": "en"
+    },
+    {
+      "text": "functionality in your product. See how",
+      "duration": 6.4,
+      "offset": 853.12,
+      "lang": "en"
+    },
+    {
+      "text": "easy it is. If it&#39;s easy, I&#39;d freak out.",
+      "duration": 6.16,
+      "offset": 855.52,
+      "lang": "en"
+    },
+    {
+      "text": "If it&#39;s hard and you can&#39;t unable to do",
+      "duration": 4.32,
+      "offset": 859.52,
+      "lang": "en"
+    },
+    {
+      "text": "it, you&#39;re a little bit more in a safer",
+      "duration": 4.8,
+      "offset": 861.68,
+      "lang": "en"
+    },
+    {
+      "text": "zone because otherwise if it&#39;s easy, you",
+      "duration": 4.72,
+      "offset": 863.84,
+      "lang": "en"
+    },
+    {
+      "text": "all of a sudden overnight are going to",
+      "duration": 3.92,
+      "offset": 866.48,
+      "lang": "en"
+    },
+    {
+      "text": "start competing not against other",
+      "duration": 4.88,
+      "offset": 868.56,
+      "lang": "en"
+    },
+    {
+      "text": "companies but against your own customers",
+      "duration": 5.52,
+      "offset": 870.4,
+      "lang": "en"
+    },
+    {
+      "text": "that are leaving you and building their",
+      "duration": 5.6,
+      "offset": 873.44,
+      "lang": "en"
+    },
+    {
+      "text": "own replacements for you. Don&#39;t want to",
+      "duration": 5.6,
+      "offset": 875.92,
+      "lang": "en"
+    },
+    {
+      "text": "be in that situation. So a lot of the",
+      "duration": 4.32,
+      "offset": 879.04,
+      "lang": "en"
+    },
+    {
+      "text": "simple but formally defensible",
+      "duration": 3.92,
+      "offset": 881.52,
+      "lang": "en"
+    },
+    {
+      "text": "functionality such as signatures, forms,",
+      "duration": 4.4,
+      "offset": 883.36,
+      "lang": "en"
+    },
+    {
+      "text": "landing page generations, scheduling",
+      "duration": 4.32,
+      "offset": 885.44,
+      "lang": "en"
+    },
+    {
+      "text": "tools, no code tools, dashboards,",
+      "duration": 4.56,
+      "offset": 887.76,
+      "lang": "en"
+    },
+    {
+      "text": "internal tooling is all a sudden no",
+      "duration": 4.8,
+      "offset": 889.76,
+      "lang": "en"
+    },
+    {
+      "text": "longer defensible. In fact, it&#39;s",
+      "duration": 4.32,
+      "offset": 892.32,
+      "lang": "en"
+    },
+    {
+      "text": "becoming commoditized. So that",
+      "duration": 4.64,
+      "offset": 894.56,
+      "lang": "en"
+    },
+    {
+      "text": "commoditization bar is really rising up.",
+      "duration": 4.48,
+      "offset": 896.64,
+      "lang": "en"
+    },
+    {
+      "text": "If your company is still monetizing on",
+      "duration": 4.56,
+      "offset": 899.2,
+      "lang": "en"
+    },
+    {
+      "text": "commoditized functionality, get yourself",
+      "duration": 4.64,
+      "offset": 901.12,
+      "lang": "en"
+    },
+    {
+      "text": "out of that zone. I kind of think about",
+      "duration": 5.2,
+      "offset": 903.76,
+      "lang": "en"
+    },
+    {
+      "text": "a 2 by 2. I love 2 by twos. And you",
+      "duration": 4.8,
+      "offset": 905.76,
+      "lang": "en"
+    },
+    {
+      "text": "think about the simple functionality",
+      "duration": 3.84,
+      "offset": 908.96,
+      "lang": "en"
+    },
+    {
+      "text": "versus complex, high utilization versus",
+      "duration": 4.32,
+      "offset": 910.56,
+      "lang": "en"
+    },
+    {
+      "text": "low utilization. If you have a lot of",
+      "duration": 3.68,
+      "offset": 912.8,
+      "lang": "en"
+    },
+    {
+      "text": "complex functionality that is hard to",
+      "duration": 3.44,
+      "offset": 914.88,
+      "lang": "en"
+    },
+    {
+      "text": "replicate, that is hard to vibe code,",
+      "duration": 3.92,
+      "offset": 916.48,
+      "lang": "en"
+    },
+    {
+      "text": "the high high utilization, you&#39;re in a",
+      "duration": 4.32,
+      "offset": 918.32,
+      "lang": "en"
+    },
+    {
+      "text": "safe zone. Good for you. Now, if you",
+      "duration": 5.2,
+      "offset": 920.4,
+      "lang": "en"
+    },
+    {
+      "text": "have complex functionality but low",
+      "duration": 6.08,
+      "offset": 922.64,
+      "lang": "en"
+    },
+    {
+      "text": "utilization, get that utilization up.",
+      "duration": 4.32,
+      "offset": 925.6,
+      "lang": "en"
+    },
+    {
+      "text": "However, if you have simple",
+      "duration": 3.12,
+      "offset": 928.72,
+      "lang": "en"
+    },
+    {
+      "text": "functionality and that is what gets",
+      "duration": 5.36,
+      "offset": 929.92,
+      "lang": "en"
+    },
+    {
+      "text": "highly um uh utilized, you need to think",
+      "duration": 5.28,
+      "offset": 931.84,
+      "lang": "en"
+    },
+    {
+      "text": "about your product strategy. And in",
+      "duration": 3.6,
+      "offset": 935.28,
+      "lang": "en"
+    },
+    {
+      "text": "fact, we&#39;re already starting to see a",
+      "duration": 3.44,
+      "offset": 937.12,
+      "lang": "en"
+    },
+    {
+      "text": "shift where companies are being",
+      "duration": 4.32,
+      "offset": 938.88,
+      "lang": "en"
+    },
+    {
+      "text": "disrupted by their own users. This was",
+      "duration": 5.36,
+      "offset": 940.56,
+      "lang": "en"
+    },
+    {
+      "text": "fascinating because Docuine actually has",
+      "duration": 4.88,
+      "offset": 943.2,
+      "lang": "en"
+    },
+    {
+      "text": "threatened a legal action against one of",
+      "duration": 4.64,
+      "offset": 945.92,
+      "lang": "en"
+    },
+    {
+      "text": "our users that replicated there&#39;s e-",
+      "duration": 4.72,
+      "offset": 948.08,
+      "lang": "en"
+    },
+    {
+      "text": "signature functionality. So, I mean, if",
+      "duration": 3.68,
+      "offset": 950.56,
+      "lang": "en"
+    },
+    {
+      "text": "you have to start going in the legal",
+      "duration": 3.12,
+      "offset": 952.8,
+      "lang": "en"
+    },
+    {
+      "text": "route as the way to defend your product",
+      "duration": 3.68,
+      "offset": 954.24,
+      "lang": "en"
+    },
+    {
+      "text": "market fit, that&#39;s also not the best way",
+      "duration": 3.92,
+      "offset": 955.92,
+      "lang": "en"
+    },
+    {
+      "text": "to grow. But that&#39;s sometimes the only",
+      "duration": 5.6,
+      "offset": 957.92,
+      "lang": "en"
+    },
+    {
+      "text": "lever that companies can pull. So, what?",
+      "duration": 4.88,
+      "offset": 959.84,
+      "lang": "en"
+    },
+    {
+      "text": "All right. So, we went through the",
+      "duration": 2.96,
+      "offset": 963.52,
+      "lang": "en"
+    },
+    {
+      "text": "platform shift. Platform shifts are",
+      "duration": 3.68,
+      "offset": 964.72,
+      "lang": "en"
+    },
+    {
+      "text": "everywhere. Your product road mapaps",
+      "duration": 4.24,
+      "offset": 966.48,
+      "lang": "en"
+    },
+    {
+      "text": "have something in AI, I&#39;m sure.",
+      "duration": 4.48,
+      "offset": 968.4,
+      "lang": "en"
+    },
+    {
+      "text": "Otherwise, you&#39;re living on the moon or",
+      "duration": 4.48,
+      "offset": 970.72,
+      "lang": "en"
+    },
+    {
+      "text": "your CEO is not paying attention.",
+      "duration": 4.48,
+      "offset": 972.88,
+      "lang": "en"
+    },
+    {
+      "text": "However, at the same time, there is also",
+      "duration": 4.16,
+      "offset": 975.2,
+      "lang": "en"
+    },
+    {
+      "text": "distribution shifts that are happening.",
+      "duration": 4.24,
+      "offset": 977.36,
+      "lang": "en"
+    },
+    {
+      "text": "Our search volume is dying. Our social",
+      "duration": 4.16,
+      "offset": 979.36,
+      "lang": "en"
+    },
+    {
+      "text": "networks are clamping down. So, how is",
+      "duration": 3.52,
+      "offset": 981.6,
+      "lang": "en"
+    },
+    {
+      "text": "it that you actually supposed to grow",
+      "duration": 5.2,
+      "offset": 983.52,
+      "lang": "en"
+    },
+    {
+      "text": "the products? Now, just betting on SEO",
+      "duration": 5.84,
+      "offset": 985.12,
+      "lang": "en"
+    },
+    {
+      "text": "and SEM and saying, &quot;Hey, marketing,",
+      "duration": 4.56,
+      "offset": 988.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll help us with our growth.&quot; Is no",
+      "duration": 5.04,
+      "offset": 990.96,
+      "lang": "en"
+    },
+    {
+      "text": "longer enough. You have to take",
+      "duration": 4.64,
+      "offset": 993.28,
+      "lang": "en"
+    },
+    {
+      "text": "responsibility over growth in your",
+      "duration": 5.76,
+      "offset": 996.0,
+      "lang": "en"
+    },
+    {
+      "text": "company and product loops are still very",
+      "duration": 6.32,
+      "offset": 997.92,
+      "lang": "en"
+    },
+    {
+      "text": "much a thing. Product loops is not where",
+      "duration": 4.16,
+      "offset": 1001.76,
+      "lang": "en"
+    },
+    {
+      "text": "distribution is shifting. You have to",
+      "duration": 3.44,
+      "offset": 1004.24,
+      "lang": "en"
+    },
+    {
+      "text": "look at your product as almost like a",
+      "duration": 3.36,
+      "offset": 1005.92,
+      "lang": "en"
+    },
+    {
+      "text": "marketing channel where you can",
+      "duration": 3.44,
+      "offset": 1007.68,
+      "lang": "en"
+    },
+    {
+      "text": "advertise to your own users and you can",
+      "duration": 3.6,
+      "offset": 1009.28,
+      "lang": "en"
+    },
+    {
+      "text": "deploy your users to be your marketing",
+      "duration": 4.96,
+      "offset": 1011.12,
+      "lang": "en"
+    },
+    {
+      "text": "agent. So make sure that you invest into",
+      "duration": 5.52,
+      "offset": 1012.88,
+      "lang": "en"
+    },
+    {
+      "text": "baking distribution and baking those",
+      "duration": 4.56,
+      "offset": 1016.08,
+      "lang": "en"
+    },
+    {
+      "text": "growth product loops into your product",
+      "duration": 4.8,
+      "offset": 1018.4,
+      "lang": "en"
+    },
+    {
+      "text": "experiences. I think fremiums are going",
+      "duration": 5.12,
+      "offset": 1020.64,
+      "lang": "en"
+    },
+    {
+      "text": "to continue raging on just because we&#39;re",
+      "duration": 4.48,
+      "offset": 1023.2,
+      "lang": "en"
+    },
+    {
+      "text": "all grasping for people&#39;s attention and",
+      "duration": 4.0,
+      "offset": 1025.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s constantly the fight to remove the",
+      "duration": 3.84,
+      "offset": 1027.68,
+      "lang": "en"
+    },
+    {
+      "text": "friction of entry and we&#39;re going to",
+      "duration": 4.24,
+      "offset": 1029.76,
+      "lang": "en"
+    },
+    {
+      "text": "continue doing that and I think AI is",
+      "duration": 4.32,
+      "offset": 1031.52,
+      "lang": "en"
+    },
+    {
+      "text": "actually flipping fremium and making it",
+      "duration": 4.48,
+      "offset": 1034.0,
+      "lang": "en"
+    },
+    {
+      "text": "harder because now it&#39;s so costly to do",
+      "duration": 5.52,
+      "offset": 1035.84,
+      "lang": "en"
+    },
+    {
+      "text": "fremium with AI and we no longer have",
+      "duration": 6.4,
+      "offset": 1038.48,
+      "lang": "en"
+    },
+    {
+      "text": "margin profiles of those 80 90% that",
+      "duration": 6.4,
+      "offset": 1041.36,
+      "lang": "en"
+    },
+    {
+      "text": "were so flush across all of the tech",
+      "duration": 6.16,
+      "offset": 1044.88,
+      "lang": "en"
+    },
+    {
+      "text": "SAS. Now we&#39;re like operating at 30% or",
+      "duration": 5.2,
+      "offset": 1047.76,
+      "lang": "en"
+    },
+    {
+      "text": "less. But you have to start looking at",
+      "duration": 4.16,
+      "offset": 1051.04,
+      "lang": "en"
+    },
+    {
+      "text": "your product as marketing cost. For",
+      "duration": 5.44,
+      "offset": 1052.96,
+      "lang": "en"
+    },
+    {
+      "text": "example, at Lovable, over half of our",
+      "duration": 6.0,
+      "offset": 1055.2,
+      "lang": "en"
+    },
+    {
+      "text": "expense or cost comes from our premium",
+      "duration": 5.36,
+      "offset": 1058.4,
+      "lang": "en"
+    },
+    {
+      "text": "usage. But we look at it not as a cost",
+      "duration": 4.24,
+      "offset": 1061.2,
+      "lang": "en"
+    },
+    {
+      "text": "center. We&#39;re looking it as our",
+      "duration": 4.4,
+      "offset": 1063.76,
+      "lang": "en"
+    },
+    {
+      "text": "marketing budget because we much rather",
+      "duration": 5.04,
+      "offset": 1065.44,
+      "lang": "en"
+    },
+    {
+      "text": "give our product away to every single",
+      "duration": 4.96,
+      "offset": 1068.16,
+      "lang": "en"
+    },
+    {
+      "text": "one of you to give it a go as opposed to",
+      "duration": 4.72,
+      "offset": 1070.48,
+      "lang": "en"
+    },
+    {
+      "text": "making Google richer. If anybody&#39;s from",
+      "duration": 4.0,
+      "offset": 1073.12,
+      "lang": "en"
+    },
+    {
+      "text": "Google here, I&#39;m so sorry. I think your",
+      "duration": 3.92,
+      "offset": 1075.2,
+      "lang": "en"
+    },
+    {
+      "text": "company is great, but I do love our",
+      "duration": 3.44,
+      "offset": 1077.12,
+      "lang": "en"
+    },
+    {
+      "text": "customers and I&#39;d rather give them our",
+      "duration": 4.8,
+      "offset": 1079.12,
+      "lang": "en"
+    },
+    {
+      "text": "money as much as possible, too. However,",
+      "duration": 5.04,
+      "offset": 1080.56,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s other options. So, let&#39;s run",
+      "duration": 3.52,
+      "offset": 1083.92,
+      "lang": "en"
+    },
+    {
+      "text": "through them really quickly. Option",
+      "duration": 5.12,
+      "offset": 1085.6,
+      "lang": "en"
+    },
+    {
+      "text": "number two is velocity.",
+      "duration": 5.84,
+      "offset": 1087.44,
+      "lang": "en"
+    },
+    {
+      "text": "Now, AI, one of the best things that it",
+      "duration": 4.32,
+      "offset": 1090.72,
+      "lang": "en"
+    },
+    {
+      "text": "can do is it can accelerate your",
+      "duration": 4.56,
+      "offset": 1093.28,
+      "lang": "en"
+    },
+    {
+      "text": "velocity of shipping to a point where it",
+      "duration": 5.76,
+      "offset": 1095.04,
+      "lang": "en"
+    },
+    {
+      "text": "can become your moat. At Lovable, we&#39;re",
+      "duration": 4.88,
+      "offset": 1097.84,
+      "lang": "en"
+    },
+    {
+      "text": "literally looking at velocity of",
+      "duration": 4.8,
+      "offset": 1100.8,
+      "lang": "en"
+    },
+    {
+      "text": "shipping as our moat. We protect it by",
+      "duration": 5.36,
+      "offset": 1102.72,
+      "lang": "en"
+    },
+    {
+      "text": "all means possible and we do it because",
+      "duration": 4.72,
+      "offset": 1105.6,
+      "lang": "en"
+    },
+    {
+      "text": "of a couple of things. Number one, we",
+      "duration": 4.24,
+      "offset": 1108.08,
+      "lang": "en"
+    },
+    {
+      "text": "heavily invest in what we call like what",
+      "duration": 4.24,
+      "offset": 1110.32,
+      "lang": "en"
+    },
+    {
+      "text": "I call they don&#39;t call it I call AI",
+      "duration": 3.52,
+      "offset": 1112.32,
+      "lang": "en"
+    },
+    {
+      "text": "native employees. I don&#39;t want to put",
+      "duration": 3.2,
+      "offset": 1114.56,
+      "lang": "en"
+    },
+    {
+      "text": "words in their mouth. Uh an AI native",
+      "duration": 3.68,
+      "offset": 1115.84,
+      "lang": "en"
+    },
+    {
+      "text": "employee is just somebody who uses AI",
+      "duration": 4.08,
+      "offset": 1117.76,
+      "lang": "en"
+    },
+    {
+      "text": "across many aspects of their work. So",
+      "duration": 4.32,
+      "offset": 1119.52,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re blurred roles. Remember how I",
+      "duration": 3.44,
+      "offset": 1121.84,
+      "lang": "en"
+    },
+    {
+      "text": "talked about like everybody can wear",
+      "duration": 3.84,
+      "offset": 1123.84,
+      "lang": "en"
+    },
+    {
+      "text": "different hats. We have engineers doing",
+      "duration": 4.88,
+      "offset": 1125.28,
+      "lang": "en"
+    },
+    {
+      "text": "marketing. They put something up, they",
+      "duration": 4.64,
+      "offset": 1127.68,
+      "lang": "en"
+    },
+    {
+      "text": "launch it, they&#39;re responsible for it.",
+      "duration": 4.48,
+      "offset": 1130.16,
+      "lang": "en"
+    },
+    {
+      "text": "We don&#39;t have ability to staff marketing",
+      "duration": 4.08,
+      "offset": 1132.32,
+      "lang": "en"
+    },
+    {
+      "text": "and product managers against every",
+      "duration": 3.76,
+      "offset": 1134.64,
+      "lang": "en"
+    },
+    {
+      "text": "single thing. We&#39;re actually only like",
+      "duration": 4.56,
+      "offset": 1136.4,
+      "lang": "en"
+    },
+    {
+      "text": "60 to 70 people large. Yet we ship",
+      "duration": 4.88,
+      "offset": 1138.4,
+      "lang": "en"
+    },
+    {
+      "text": "updates every single day if not every",
+      "duration": 5.36,
+      "offset": 1140.96,
+      "lang": "en"
+    },
+    {
+      "text": "single hour with tier. We we tier it. So",
+      "duration": 4.32,
+      "offset": 1143.28,
+      "lang": "en"
+    },
+    {
+      "text": "like there&#39;s big launches and then",
+      "duration": 3.6,
+      "offset": 1146.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s tier two, tier three. The tier",
+      "duration": 4.96,
+      "offset": 1147.6,
+      "lang": "en"
+    },
+    {
+      "text": "one big launches usually on the bigger",
+      "duration": 4.56,
+      "offset": 1149.92,
+      "lang": "en"
+    },
+    {
+      "text": "companies happen like what once a year",
+      "duration": 3.84,
+      "offset": 1152.56,
+      "lang": "en"
+    },
+    {
+      "text": "maybe twice a year. We&#39;re like every",
+      "duration": 3.36,
+      "offset": 1154.48,
+      "lang": "en"
+    },
+    {
+      "text": "three months we have to do something",
+      "duration": 4.48,
+      "offset": 1156.4,
+      "lang": "en"
+    },
+    {
+      "text": "enormous. But tier two happen almost on",
+      "duration": 5.52,
+      "offset": 1157.84,
+      "lang": "en"
+    },
+    {
+      "text": "the weekly basis. Tier three which is",
+      "duration": 4.0,
+      "offset": 1160.88,
+      "lang": "en"
+    },
+    {
+      "text": "like smaller updates but still",
+      "duration": 3.84,
+      "offset": 1163.36,
+      "lang": "en"
+    },
+    {
+      "text": "meaningful every single day if not every",
+      "duration": 4.96,
+      "offset": 1164.88,
+      "lang": "en"
+    },
+    {
+      "text": "single hour. So that in order to enable",
+      "duration": 4.8,
+      "offset": 1167.2,
+      "lang": "en"
+    },
+    {
+      "text": "that velocity you have to not be so",
+      "duration": 4.08,
+      "offset": 1169.84,
+      "lang": "en"
+    },
+    {
+      "text": "crossf functional because if you have",
+      "duration": 4.16,
+      "offset": 1172.0,
+      "lang": "en"
+    },
+    {
+      "text": "dependencies across everything that",
+      "duration": 4.56,
+      "offset": 1173.92,
+      "lang": "en"
+    },
+    {
+      "text": "creates a gridlock but if you empower",
+      "duration": 5.76,
+      "offset": 1176.16,
+      "lang": "en"
+    },
+    {
+      "text": "your employees with agency with trust",
+      "duration": 5.44,
+      "offset": 1178.48,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s a hard one for us. We don&#39;t",
+      "duration": 4.32,
+      "offset": 1181.92,
+      "lang": "en"
+    },
+    {
+      "text": "really trust inside of our organizations",
+      "duration": 4.4,
+      "offset": 1183.92,
+      "lang": "en"
+    },
+    {
+      "text": "but you have to especially if you give",
+      "duration": 4.24,
+      "offset": 1186.24,
+      "lang": "en"
+    },
+    {
+      "text": "them AI tools so they can take the",
+      "duration": 3.76,
+      "offset": 1188.32,
+      "lang": "en"
+    },
+    {
+      "text": "project all the way from end to end and",
+      "duration": 4.16,
+      "offset": 1190.48,
+      "lang": "en"
+    },
+    {
+      "text": "full full autonomy against it. Now the",
+      "duration": 4.4,
+      "offset": 1192.08,
+      "lang": "en"
+    },
+    {
+      "text": "next one is oldie but goody. This one",
+      "duration": 3.84,
+      "offset": 1194.64,
+      "lang": "en"
+    },
+    {
+      "text": "has always been around. Data can",
+      "duration": 3.68,
+      "offset": 1196.48,
+      "lang": "en"
+    },
+    {
+      "text": "definitely be your moat and your new",
+      "duration": 3.76,
+      "offset": 1198.48,
+      "lang": "en"
+    },
+    {
+      "text": "distribution channel. User data in",
+      "duration": 3.6,
+      "offset": 1200.16,
+      "lang": "en"
+    },
+    {
+      "text": "memory is sticky. It can be your",
+      "duration": 3.28,
+      "offset": 1202.24,
+      "lang": "en"
+    },
+    {
+      "text": "defensibility tactic. It can be your",
+      "duration": 4.24,
+      "offset": 1203.76,
+      "lang": "en"
+    },
+    {
+      "text": "retention tactic. Don&#39;t overdo it like",
+      "duration": 4.16,
+      "offset": 1205.52,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t keep your customers hostage",
+      "duration": 4.48,
+      "offset": 1208.0,
+      "lang": "en"
+    },
+    {
+      "text": "obviously but uh try to see how you can",
+      "duration": 4.4,
+      "offset": 1209.68,
+      "lang": "en"
+    },
+    {
+      "text": "leverage it to either make your product",
+      "duration": 3.84,
+      "offset": 1212.48,
+      "lang": "en"
+    },
+    {
+      "text": "better or make to sure that uh customers",
+      "duration": 4.64,
+      "offset": 1214.08,
+      "lang": "en"
+    },
+    {
+      "text": "see the value. But there is also an",
+      "duration": 4.32,
+      "offset": 1216.32,
+      "lang": "en"
+    },
+    {
+      "text": "interesting shift happening. Salesforce",
+      "duration": 4.0,
+      "offset": 1218.72,
+      "lang": "en"
+    },
+    {
+      "text": "realized how important their Slack data",
+      "duration": 4.88,
+      "offset": 1220.64,
+      "lang": "en"
+    },
+    {
+      "text": "is. So they decided to cut off access to",
+      "duration": 5.52,
+      "offset": 1222.72,
+      "lang": "en"
+    },
+    {
+      "text": "it to other companies. So for example",
+      "duration": 4.4,
+      "offset": 1225.52,
+      "lang": "en"
+    },
+    {
+      "text": "that company um you might have heard",
+      "duration": 3.68,
+      "offset": 1228.24,
+      "lang": "en"
+    },
+    {
+      "text": "Glean that is working on enterprise",
+      "duration": 4.0,
+      "offset": 1229.92,
+      "lang": "en"
+    },
+    {
+      "text": "internal search all of a sudden lost",
+      "duration": 4.88,
+      "offset": 1231.92,
+      "lang": "en"
+    },
+    {
+      "text": "access to Slack data. Now, what is",
+      "duration": 4.64,
+      "offset": 1233.92,
+      "lang": "en"
+    },
+    {
+      "text": "internal search without your Slack",
+      "duration": 4.8,
+      "offset": 1236.8,
+      "lang": "en"
+    },
+    {
+      "text": "information? Nothing. And Salesforce",
+      "duration": 4.72,
+      "offset": 1238.56,
+      "lang": "en"
+    },
+    {
+      "text": "knew this, which is exactly why they did",
+      "duration": 3.92,
+      "offset": 1241.6,
+      "lang": "en"
+    },
+    {
+      "text": "it. They&#39;re leveraging this to keep",
+      "duration": 4.4,
+      "offset": 1243.28,
+      "lang": "en"
+    },
+    {
+      "text": "their moat because they&#39;re trying to go",
+      "duration": 4.8,
+      "offset": 1245.52,
+      "lang": "en"
+    },
+    {
+      "text": "into offense against it. What is your",
+      "duration": 3.84,
+      "offset": 1247.68,
+      "lang": "en"
+    },
+    {
+      "text": "next option? Well, this one&#39;s",
+      "duration": 4.16,
+      "offset": 1250.32,
+      "lang": "en"
+    },
+    {
+      "text": "interesting. Brand. All of the product",
+      "duration": 5.04,
+      "offset": 1251.52,
+      "lang": "en"
+    },
+    {
+      "text": "people like, oh, not for me. Where is my",
+      "duration": 4.56,
+      "offset": 1254.48,
+      "lang": "en"
+    },
+    {
+      "text": "marketing counterpart? I challenge that",
+      "duration": 5.04,
+      "offset": 1256.56,
+      "lang": "en"
+    },
+    {
+      "text": "thought because brand all of a sudden is",
+      "duration": 5.28,
+      "offset": 1259.04,
+      "lang": "en"
+    },
+    {
+      "text": "now a product exercise,",
+      "duration": 5.44,
+      "offset": 1261.6,
+      "lang": "en"
+    },
+    {
+      "text": "not a marketing team function. Now",
+      "duration": 4.56,
+      "offset": 1264.32,
+      "lang": "en"
+    },
+    {
+      "text": "marketing might still come in with a",
+      "duration": 4.56,
+      "offset": 1267.04,
+      "lang": "en"
+    },
+    {
+      "text": "tone of voice and colors and maybe some",
+      "duration": 4.48,
+      "offset": 1268.88,
+      "lang": "en"
+    },
+    {
+      "text": "brand span. Maybe they&#39;ll put a",
+      "duration": 3.68,
+      "offset": 1271.6,
+      "lang": "en"
+    },
+    {
+      "text": "billboard up at Lovable. We&#39;re having",
+      "duration": 3.76,
+      "offset": 1273.36,
+      "lang": "en"
+    },
+    {
+      "text": "our first billboard up going up here in",
+      "duration": 3.44,
+      "offset": 1275.28,
+      "lang": "en"
+    },
+    {
+      "text": "San Francisco. When it goes up, please",
+      "duration": 2.88,
+      "offset": 1277.12,
+      "lang": "en"
+    },
+    {
+      "text": "take a picture and send it to me because",
+      "duration": 3.6,
+      "offset": 1278.72,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t live here anymore. But our",
+      "duration": 4.24,
+      "offset": 1280.0,
+      "lang": "en"
+    },
+    {
+      "text": "brand, if you think about Lovable, how",
+      "duration": 3.04,
+      "offset": 1282.32,
+      "lang": "en"
+    },
+    {
+      "text": "many of you, by the way, have heard",
+      "duration": 4.56,
+      "offset": 1284.24,
+      "lang": "en"
+    },
+    {
+      "text": "about Lovable? Awesome. Amazing. You",
+      "duration": 5.44,
+      "offset": 1285.36,
+      "lang": "en"
+    },
+    {
+      "text": "feel the brand. You know what the brand",
+      "duration": 5.28,
+      "offset": 1288.8,
+      "lang": "en"
+    },
+    {
+      "text": "is. We have zero branding spend. We",
+      "duration": 5.36,
+      "offset": 1290.8,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have brand marketing. We barely",
+      "duration": 4.16,
+      "offset": 1294.08,
+      "lang": "en"
+    },
+    {
+      "text": "have any marketing honestly to to begin",
+      "duration": 4.0,
+      "offset": 1296.16,
+      "lang": "en"
+    },
+    {
+      "text": "with because it&#39;s felt through the",
+      "duration": 4.72,
+      "offset": 1298.24,
+      "lang": "en"
+    },
+    {
+      "text": "product interactions because we actually",
+      "duration": 5.52,
+      "offset": 1300.16,
+      "lang": "en"
+    },
+    {
+      "text": "look internally and say is this lovable?",
+      "duration": 4.32,
+      "offset": 1302.96,
+      "lang": "en"
+    },
+    {
+      "text": "The fastest way to fix anything at",
+      "duration": 4.0,
+      "offset": 1305.68,
+      "lang": "en"
+    },
+    {
+      "text": "lovable is to say this experience is",
+      "duration": 5.28,
+      "offset": 1307.28,
+      "lang": "en"
+    },
+    {
+      "text": "unlovable. Gets hot fixed immediately.",
+      "duration": 6.56,
+      "offset": 1309.68,
+      "lang": "en"
+    },
+    {
+      "text": "So we are so spec uh very specific about",
+      "duration": 5.68,
+      "offset": 1312.56,
+      "lang": "en"
+    },
+    {
+      "text": "making this experience channel our",
+      "duration": 4.16,
+      "offset": 1316.24,
+      "lang": "en"
+    },
+    {
+      "text": "brand. So and that&#39;s actually can become",
+      "duration": 3.44,
+      "offset": 1318.24,
+      "lang": "en"
+    },
+    {
+      "text": "your mult because when the",
+      "duration": 3.28,
+      "offset": 1320.4,
+      "lang": "en"
+    },
+    {
+      "text": "democratization of software is happening",
+      "duration": 3.92,
+      "offset": 1321.68,
+      "lang": "en"
+    },
+    {
+      "text": "of building the software and all of a",
+      "duration": 4.32,
+      "offset": 1323.68,
+      "lang": "en"
+    },
+    {
+      "text": "sudden there is 100 options people are",
+      "duration": 4.4,
+      "offset": 1325.6,
+      "lang": "en"
+    },
+    {
+      "text": "no longer going to you uh use the tools",
+      "duration": 4.24,
+      "offset": 1328.0,
+      "lang": "en"
+    },
+    {
+      "text": "that are just utilitarian in nature.",
+      "duration": 4.16,
+      "offset": 1330.0,
+      "lang": "en"
+    },
+    {
+      "text": "They&#39;re going to use the tools that",
+      "duration": 4.0,
+      "offset": 1332.24,
+      "lang": "en"
+    },
+    {
+      "text": "speak to them that make them feel",
+      "duration": 5.84,
+      "offset": 1334.16,
+      "lang": "en"
+    },
+    {
+      "text": "because we as humans want connection. So",
+      "duration": 6.48,
+      "offset": 1336.24,
+      "lang": "en"
+    },
+    {
+      "text": "take it on as a product role to channel",
+      "duration": 5.28,
+      "offset": 1340.0,
+      "lang": "en"
+    },
+    {
+      "text": "the brand as opposed to just saying uh",
+      "duration": 4.0,
+      "offset": 1342.72,
+      "lang": "en"
+    },
+    {
+      "text": "brand marketing they&#39;re going to do it",
+      "duration": 3.76,
+      "offset": 1345.28,
+      "lang": "en"
+    },
+    {
+      "text": "in the corner over there. Next one is",
+      "duration": 4.64,
+      "offset": 1346.72,
+      "lang": "en"
+    },
+    {
+      "text": "also oldie but goody but ecosystem",
+      "duration": 4.48,
+      "offset": 1349.04,
+      "lang": "en"
+    },
+    {
+      "text": "integrations integrations integrations",
+      "duration": 4.08,
+      "offset": 1351.36,
+      "lang": "en"
+    },
+    {
+      "text": "and partnerships. This one is very",
+      "duration": 4.16,
+      "offset": 1353.52,
+      "lang": "en"
+    },
+    {
+      "text": "important uh because instead of trying",
+      "duration": 4.64,
+      "offset": 1355.44,
+      "lang": "en"
+    },
+    {
+      "text": "to claw your way out into your own",
+      "duration": 5.04,
+      "offset": 1357.68,
+      "lang": "en"
+    },
+    {
+      "text": "distribution, you say, &quot;Hey, you already",
+      "duration": 5.04,
+      "offset": 1360.08,
+      "lang": "en"
+    },
+    {
+      "text": "have distribution. Let me stand over",
+      "duration": 4.96,
+      "offset": 1362.72,
+      "lang": "en"
+    },
+    {
+      "text": "here and get into your distribution",
+      "duration": 4.56,
+      "offset": 1365.12,
+      "lang": "en"
+    },
+    {
+      "text": "channel by doing an integration or a",
+      "duration": 4.72,
+      "offset": 1367.68,
+      "lang": "en"
+    },
+    {
+      "text": "partnership.&quot; Beautiful strategy needs",
+      "duration": 4.64,
+      "offset": 1369.68,
+      "lang": "en"
+    },
+    {
+      "text": "to have first mover advantage. So don&#39;t",
+      "duration": 4.4,
+      "offset": 1372.4,
+      "lang": "en"
+    },
+    {
+      "text": "wait on it. If somebody gives you a",
+      "duration": 4.8,
+      "offset": 1374.32,
+      "lang": "en"
+    },
+    {
+      "text": "hand, you have to take it. Um otherwise,",
+      "duration": 3.68,
+      "offset": 1376.8,
+      "lang": "en"
+    },
+    {
+      "text": "you just have competition that is going",
+      "duration": 2.8,
+      "offset": 1379.12,
+      "lang": "en"
+    },
+    {
+      "text": "to take it on. But it&#39;s the channels",
+      "duration": 3.52,
+      "offset": 1380.48,
+      "lang": "en"
+    },
+    {
+      "text": "that nobody really competes in because",
+      "duration": 3.76,
+      "offset": 1381.92,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s so much manual things that need",
+      "duration": 3.6,
+      "offset": 1384.0,
+      "lang": "en"
+    },
+    {
+      "text": "to happen. Make sure to do it. One of",
+      "duration": 3.76,
+      "offset": 1385.68,
+      "lang": "en"
+    },
+    {
+      "text": "them that I&#39;ll just mention is two days",
+      "duration": 4.72,
+      "offset": 1387.6,
+      "lang": "en"
+    },
+    {
+      "text": "ago. Uh OpenAI released a new",
+      "duration": 5.68,
+      "offset": 1389.44,
+      "lang": "en"
+    },
+    {
+      "text": "integration opportunity, the app store.",
+      "duration": 5.04,
+      "offset": 1392.32,
+      "lang": "en"
+    },
+    {
+      "text": "Uh you should all be looking at it. I",
+      "duration": 4.56,
+      "offset": 1395.12,
+      "lang": "en"
+    },
+    {
+      "text": "know we are because we&#39;re like is this",
+      "duration": 5.2,
+      "offset": 1397.36,
+      "lang": "en"
+    },
+    {
+      "text": "it? Is this the next distribution shift?",
+      "duration": 5.68,
+      "offset": 1399.68,
+      "lang": "en"
+    },
+    {
+      "text": "Is this the first time AI, OpenAI",
+      "duration": 4.72,
+      "offset": 1402.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually going to provide distribution",
+      "duration": 3.68,
+      "offset": 1405.36,
+      "lang": "en"
+    },
+    {
+      "text": "advantage to us? Because otherwise it&#39;s",
+      "duration": 3.68,
+      "offset": 1407.28,
+      "lang": "en"
+    },
+    {
+      "text": "just a destination. there&#39;s no way to",
+      "duration": 4.08,
+      "offset": 1409.04,
+      "lang": "en"
+    },
+    {
+      "text": "like really market through it. So, uh",
+      "duration": 3.52,
+      "offset": 1410.96,
+      "lang": "en"
+    },
+    {
+      "text": "make sure that you pay attention to this",
+      "duration": 4.24,
+      "offset": 1413.12,
+      "lang": "en"
+    },
+    {
+      "text": "one. Now, this one is interesting, very",
+      "duration": 5.2,
+      "offset": 1414.48,
+      "lang": "en"
+    },
+    {
+      "text": "uncomfortable for larger companies. Uh",
+      "duration": 5.28,
+      "offset": 1417.36,
+      "lang": "en"
+    },
+    {
+      "text": "founder of socials, um or just like even",
+      "duration": 5.04,
+      "offset": 1419.68,
+      "lang": "en"
+    },
+    {
+      "text": "employee socials, like let&#39;s we talk",
+      "duration": 4.16,
+      "offset": 1422.64,
+      "lang": "en"
+    },
+    {
+      "text": "about it as a whole. Connecting with",
+      "duration": 3.68,
+      "offset": 1424.72,
+      "lang": "en"
+    },
+    {
+      "text": "your customers on the human level and",
+      "duration": 3.68,
+      "offset": 1426.8,
+      "lang": "en"
+    },
+    {
+      "text": "for your customers to know who&#39;s behind",
+      "duration": 4.32,
+      "offset": 1428.4,
+      "lang": "en"
+    },
+    {
+      "text": "the company is becoming more important",
+      "duration": 5.68,
+      "offset": 1430.48,
+      "lang": "en"
+    },
+    {
+      "text": "than ever. Now, we have our CEO Anton",
+      "duration": 6.08,
+      "offset": 1432.72,
+      "lang": "en"
+    },
+    {
+      "text": "that post on LinkedIn. He posts on X all",
+      "duration": 4.32,
+      "offset": 1436.16,
+      "lang": "en"
+    },
+    {
+      "text": "the time. I just took a couple of",
+      "duration": 3.76,
+      "offset": 1438.8,
+      "lang": "en"
+    },
+    {
+      "text": "screenshots of his LinkedIn post. 10",
+      "duration": 3.84,
+      "offset": 1440.48,
+      "lang": "en"
+    },
+    {
+      "text": "months ago when he started, he had like",
+      "duration": 4.4,
+      "offset": 1442.56,
+      "lang": "en"
+    },
+    {
+      "text": "no following, no reach whatsoever. Now",
+      "duration": 5.04,
+      "offset": 1444.32,
+      "lang": "en"
+    },
+    {
+      "text": "almost all of his posts get 2,000 plus",
+      "duration": 5.12,
+      "offset": 1446.96,
+      "lang": "en"
+    },
+    {
+      "text": "reactions and hundreds and thousands of",
+      "duration": 5.84,
+      "offset": 1449.36,
+      "lang": "en"
+    },
+    {
+      "text": "impressions, millions of impressions by",
+      "duration": 5.6,
+      "offset": 1452.08,
+      "lang": "en"
+    },
+    {
+      "text": "the way, free organically that is",
+      "duration": 4.48,
+      "offset": 1455.2,
+      "lang": "en"
+    },
+    {
+      "text": "happening across all of these platforms.",
+      "duration": 3.92,
+      "offset": 1457.68,
+      "lang": "en"
+    },
+    {
+      "text": "It is something that a marketer would",
+      "duration": 3.76,
+      "offset": 1459.68,
+      "lang": "en"
+    },
+    {
+      "text": "like just dream in their mind to",
+      "duration": 4.08,
+      "offset": 1461.6,
+      "lang": "en"
+    },
+    {
+      "text": "achieving yet you can create with just",
+      "duration": 4.32,
+      "offset": 1463.44,
+      "lang": "en"
+    },
+    {
+      "text": "your own team. So I would really",
+      "duration": 4.96,
+      "offset": 1465.68,
+      "lang": "en"
+    },
+    {
+      "text": "encourage a you starting to up your",
+      "duration": 4.96,
+      "offset": 1467.76,
+      "lang": "en"
+    },
+    {
+      "text": "social game, connecting with your",
+      "duration": 3.92,
+      "offset": 1470.64,
+      "lang": "en"
+    },
+    {
+      "text": "customers on more personal level and",
+      "duration": 4.16,
+      "offset": 1472.72,
+      "lang": "en"
+    },
+    {
+      "text": "humanizing your company. We allowed",
+      "duration": 4.16,
+      "offset": 1474.56,
+      "lang": "en"
+    },
+    {
+      "text": "lovable everybody to post. Now we&#39;re",
+      "duration": 4.08,
+      "offset": 1476.88,
+      "lang": "en"
+    },
+    {
+      "text": "small. So we don&#39;t have a legal team yet",
+      "duration": 5.36,
+      "offset": 1478.72,
+      "lang": "en"
+    },
+    {
+      "text": "that says so we can afford that in the",
+      "duration": 4.96,
+      "offset": 1480.96,
+      "lang": "en"
+    },
+    {
+      "text": "larger companies. When I was at Dropbox,",
+      "duration": 4.32,
+      "offset": 1484.08,
+      "lang": "en"
+    },
+    {
+      "text": "the legal team was told to me to do",
+      "duration": 4.64,
+      "offset": 1485.92,
+      "lang": "en"
+    },
+    {
+      "text": "anything for Dropbox. But uh as much as",
+      "duration": 5.04,
+      "offset": 1488.4,
+      "lang": "en"
+    },
+    {
+      "text": "you can possibly build in public, it can",
+      "duration": 4.96,
+      "offset": 1490.56,
+      "lang": "en"
+    },
+    {
+      "text": "be a huge leverage for your organic",
+      "duration": 4.56,
+      "offset": 1493.44,
+      "lang": "en"
+    },
+    {
+      "text": "growth strategy and it starts with you.",
+      "duration": 4.32,
+      "offset": 1495.52,
+      "lang": "en"
+    },
+    {
+      "text": "The more people that you can have in the",
+      "duration": 3.92,
+      "offset": 1498.0,
+      "lang": "en"
+    },
+    {
+      "text": "company actually do socials, the better",
+      "duration": 4.32,
+      "offset": 1499.84,
+      "lang": "en"
+    },
+    {
+      "text": "it is. And then the last one that I&#39;ll",
+      "duration": 4.4,
+      "offset": 1501.92,
+      "lang": "en"
+    },
+    {
+      "text": "talk about is creator economy. So",
+      "duration": 5.84,
+      "offset": 1504.16,
+      "lang": "en"
+    },
+    {
+      "text": "creator economy specifically is um all",
+      "duration": 6.72,
+      "offset": 1506.32,
+      "lang": "en"
+    },
+    {
+      "text": "of those influencers. I know this feels",
+      "duration": 5.68,
+      "offset": 1510.0,
+      "lang": "en"
+    },
+    {
+      "text": "like a dirty word to say, but there&#39;s so",
+      "duration": 5.04,
+      "offset": 1513.04,
+      "lang": "en"
+    },
+    {
+      "text": "many eyeballs in the socials on those",
+      "duration": 4.8,
+      "offset": 1515.68,
+      "lang": "en"
+    },
+    {
+      "text": "creators and your ability to market with",
+      "duration": 4.4,
+      "offset": 1518.08,
+      "lang": "en"
+    },
+    {
+      "text": "them is no longer just a B2C strategy.",
+      "duration": 4.48,
+      "offset": 1520.48,
+      "lang": "en"
+    },
+    {
+      "text": "It is most definitely a B2B strategy. We",
+      "duration": 4.48,
+      "offset": 1522.48,
+      "lang": "en"
+    },
+    {
+      "text": "do a lot of influencer marketing on",
+      "duration": 4.88,
+      "offset": 1524.96,
+      "lang": "en"
+    },
+    {
+      "text": "YouTube. YouTube is huge right now. If",
+      "duration": 4.4,
+      "offset": 1526.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not on YouTube, I don&#39;t know what",
+      "duration": 4.48,
+      "offset": 1529.84,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re doing. Tik Tok relevant for B2B,",
+      "duration": 4.8,
+      "offset": 1531.36,
+      "lang": "en"
+    },
+    {
+      "text": "believe it or not. Instagram relevant",
+      "duration": 4.4,
+      "offset": 1534.32,
+      "lang": "en"
+    },
+    {
+      "text": "for B2B because there&#39;s influencers and",
+      "duration": 3.68,
+      "offset": 1536.16,
+      "lang": "en"
+    },
+    {
+      "text": "creators that are building their",
+      "duration": 2.8,
+      "offset": 1538.72,
+      "lang": "en"
+    },
+    {
+      "text": "audience that are have your potential",
+      "duration": 3.28,
+      "offset": 1539.84,
+      "lang": "en"
+    },
+    {
+      "text": "customers there. So, make sure that",
+      "duration": 4.0,
+      "offset": 1541.52,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re playing in there as well. But",
+      "duration": 4.32,
+      "offset": 1543.12,
+      "lang": "en"
+    },
+    {
+      "text": "also keep an eye on any other new",
+      "duration": 3.52,
+      "offset": 1545.52,
+      "lang": "en"
+    },
+    {
+      "text": "developments. Like I said those two days",
+      "duration": 4.8,
+      "offset": 1547.44,
+      "lang": "en"
+    },
+    {
+      "text": "ago, the app store for OpenAI, it might",
+      "duration": 5.76,
+      "offset": 1549.04,
+      "lang": "en"
+    },
+    {
+      "text": "be the next Google search. It might be a",
+      "duration": 5.52,
+      "offset": 1552.24,
+      "lang": "en"
+    },
+    {
+      "text": "big big uh absolutely nothing. Who",
+      "duration": 4.96,
+      "offset": 1554.8,
+      "lang": "en"
+    },
+    {
+      "text": "knows? But these types of things we need",
+      "duration": 3.52,
+      "offset": 1557.76,
+      "lang": "en"
+    },
+    {
+      "text": "to look at because otherwise there&#39;s a",
+      "duration": 3.2,
+      "offset": 1559.76,
+      "lang": "en"
+    },
+    {
+      "text": "gap in the market of how is it that we",
+      "duration": 3.44,
+      "offset": 1561.28,
+      "lang": "en"
+    },
+    {
+      "text": "actually going to grow our products. But",
+      "duration": 3.28,
+      "offset": 1562.96,
+      "lang": "en"
+    },
+    {
+      "text": "what I do want you to take away from",
+      "duration": 3.28,
+      "offset": 1564.72,
+      "lang": "en"
+    },
+    {
+      "text": "this is that put that pressure on the",
+      "duration": 3.52,
+      "offset": 1566.24,
+      "lang": "en"
+    },
+    {
+      "text": "product itself because that is the most",
+      "duration": 3.84,
+      "offset": 1568.0,
+      "lang": "en"
+    },
+    {
+      "text": "defensible channel that you have because",
+      "duration": 5.28,
+      "offset": 1569.76,
+      "lang": "en"
+    },
+    {
+      "text": "remember distribution is everything.",
+      "duration": 4.8,
+      "offset": 1571.84,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s what builds that successful",
+      "duration": 3.52,
+      "offset": 1575.04,
+      "lang": "en"
+    },
+    {
+      "text": "company. That&#39;s what makes that equity",
+      "duration": 4.16,
+      "offset": 1576.64,
+      "lang": "en"
+    },
+    {
+      "text": "that you own in that business worth",
+      "duration": 4.64,
+      "offset": 1578.56,
+      "lang": "en"
+    },
+    {
+      "text": "something. Not just great product. It&#39;s",
+      "duration": 4.4,
+      "offset": 1580.8,
+      "lang": "en"
+    },
+    {
+      "text": "not enough. It&#39;s great product plus",
+      "duration": 4.88,
+      "offset": 1583.2,
+      "lang": "en"
+    },
+    {
+      "text": "distribution. I&#39;m out of time. Thank you",
+      "duration": 8.36,
+      "offset": 1585.2,
+      "lang": "en"
+    },
+    {
+      "text": "very much and catch me later. Bye.",
+      "duration": 5.48,
+      "offset": 1588.08,
+      "lang": "en"
+    }
+  ]
+}

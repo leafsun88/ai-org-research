@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q2 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/412639-q2-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q2-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q2-2026_transcript.md",
+      "characters": 57299,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q1 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/375374-q1-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q1-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q1-2026_transcript.md",
+      "characters": 54030,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q4 2025",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/343655-q4-2025/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q4-2025_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q4-2025_transcript.md",
+      "characters": 41819,
+      "source_type": "third_party_transcript_fallback"
+    }
+  ],
+  "gaps": [
+    {
+      "page": "events",
+      "url": "https://investor.sandisk.com/news-events/events",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "page": "presentations",
+      "url": "https://investor.sandisk.com/news-events/presentations",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "page": "press_releases",
+      "url": "https://investor.sandisk.com/news-releases",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/1b7ca99b-f84a-4294-9f56-690b32fce69a",
+      "reason": "download_failed: HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/a1cf180d-5720-4475-a3cc-345cfc8aab38",
+      "reason": "download_failed: HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/0d41325a-6dc9-47f6-9da7-661b97de6826",
+      "reason": "download_failed: HTTPSConnectionPool(host='investor.sandisk.com', port=443): Max retries exceeded with url: /static-files/0d41325a-6dc9-47f6-9da7-661b97de6826 (Caused by SSLError(SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2570)')))"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/28846bc7-9d2c-4587-98d2-32741a623e0f",
+      "reason": "download_failed: HTTPSConnectionPool(host='investor.sandisk.com', port=443): Max retries exceeded with url: /static-files/28846bc7-9d2c-4587-98d2-32741a623e0f (Caused by SSLError(SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2570)')))"
+    },
+    {
+      "reason": "no_presentation_downloaded"
+    }
+  ],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "earnings_calls_ir",
+  "updated_at": "2026-04-26T10:59:04"
+}

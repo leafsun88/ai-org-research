@@ -1,0 +1,16 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+    "title": "midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy",
+    "error": "HTTP 403",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.listennotes.com/podcasts/what-future-with/how-computers-dream-with-GaxD3dgovRK/",
+    "title": "how-computers-dream-with-GaxD3dgovRK",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

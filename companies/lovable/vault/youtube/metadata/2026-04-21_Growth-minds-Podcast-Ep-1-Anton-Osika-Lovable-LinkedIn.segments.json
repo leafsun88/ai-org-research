@@ -1,0 +1,5577 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "2oRkpiDZ6wk",
+  "url": "https://www.youtube.com/watch?v=2oRkpiDZ6wk",
+  "title": "Growth minds Podcast Ep. 1 Anton Osika / Lovable (LinkedIn Live ReShare)",
+  "channel": "Growth minds",
+  "source_queries": [
+    "Lovable Anton Osika podcast"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:13:11",
+  "segments": [
+    {
+      "text": "hey folks and welcome to the highly",
+      "duration": 6.56,
+      "offset": 2.44,
+      "lang": "en"
+    },
+    {
+      "text": "anticipated and very well attended uh",
+      "duration": 4.36,
+      "offset": 6.4,
+      "lang": "en"
+    },
+    {
+      "text": "event here with Anton OA and Oliver",
+      "duration": 4.0,
+      "offset": 9.0,
+      "lang": "en"
+    },
+    {
+      "text": "Mander just a quick intro from the",
+      "duration": 4.04,
+      "offset": 10.76,
+      "lang": "en"
+    },
+    {
+      "text": "panelists here before we jump into the",
+      "duration": 4.44,
+      "offset": 13.0,
+      "lang": "en"
+    },
+    {
+      "text": "action-packed questions that we have for",
+      "duration": 5.0,
+      "offset": 14.8,
+      "lang": "en"
+    },
+    {
+      "text": "Anton uh I&#39;m Vincent Weir I&#39;m the",
+      "duration": 4.0,
+      "offset": 17.44,
+      "lang": "en"
+    },
+    {
+      "text": "founder of growth Minds which is the",
+      "duration": 3.36,
+      "offset": 19.8,
+      "lang": "en"
+    },
+    {
+      "text": "leadership Community here in Stockholm",
+      "duration": 3.12,
+      "offset": 21.44,
+      "lang": "en"
+    },
+    {
+      "text": "that has the pleasure of Hosting this",
+      "duration": 3.68,
+      "offset": 23.16,
+      "lang": "en"
+    },
+    {
+      "text": "event I&#39;m joined by Oliver Mander who is",
+      "duration": 4.48,
+      "offset": 24.56,
+      "lang": "en"
+    },
+    {
+      "text": "a partner at Zenith Ventures and leading",
+      "duration": 3.76,
+      "offset": 26.84,
+      "lang": "en"
+    },
+    {
+      "text": "the Inception fund with which is an AI",
+      "duration": 4.52,
+      "offset": 29.04,
+      "lang": "en"
+    },
+    {
+      "text": "focused strategy uh and of course Anton",
+      "duration": 6.0,
+      "offset": 30.6,
+      "lang": "en"
+    },
+    {
+      "text": "OA the CEO of Europe&#39;s fastest growing",
+      "duration": 4.92,
+      "offset": 33.56,
+      "lang": "en"
+    },
+    {
+      "text": "AI company and and just company in",
+      "duration": 4.72,
+      "offset": 36.6,
+      "lang": "en"
+    },
+    {
+      "text": "general welcome guys uh let&#39;s dive in",
+      "duration": 5.6,
+      "offset": 38.48,
+      "lang": "en"
+    },
+    {
+      "text": "Anton you seem to be at the office uh",
+      "duration": 4.04,
+      "offset": 41.32,
+      "lang": "en"
+    },
+    {
+      "text": "are you there right",
+      "duration": 5.0,
+      "offset": 44.08,
+      "lang": "en"
+    },
+    {
+      "text": "now of course and I&#39;m not alone you&#39;re",
+      "duration": 6.64,
+      "offset": 45.36,
+      "lang": "en"
+    },
+    {
+      "text": "not alone so I just want to start there",
+      "duration": 7.12,
+      "offset": 49.08,
+      "lang": "en"
+    },
+    {
+      "text": "a recent Euro found report suggests that",
+      "duration": 7.56,
+      "offset": 52.0,
+      "lang": "en"
+    },
+    {
+      "text": "uh Europeans are work especially swedes",
+      "duration": 4.36,
+      "offset": 56.2,
+      "lang": "en"
+    },
+    {
+      "text": "are working",
+      "duration": 4.04,
+      "offset": 59.56,
+      "lang": "en"
+    },
+    {
+      "text": "55 hours per week only uh very",
+      "duration": 4.96,
+      "offset": 60.56,
+      "lang": "en"
+    },
+    {
+      "text": "infrequently I think it&#39;s like 2 to 3%",
+      "duration": 4.28,
+      "offset": 63.6,
+      "lang": "en"
+    },
+    {
+      "text": "of the population in Europe that works",
+      "duration": 5.0,
+      "offset": 65.52,
+      "lang": "en"
+    },
+    {
+      "text": "over 55 hours a week that&#39;s less than",
+      "duration": 4.68,
+      "offset": 67.88,
+      "lang": "en"
+    },
+    {
+      "text": "half of the percent of American workers",
+      "duration": 3.32,
+      "offset": 70.52,
+      "lang": "en"
+    },
+    {
+      "text": "doing the same and of course it&#39;s less",
+      "duration": 4.36,
+      "offset": 72.56,
+      "lang": "en"
+    },
+    {
+      "text": "for China uh do you think that that&#39;s a",
+      "duration": 5.08,
+      "offset": 73.84,
+      "lang": "en"
+    },
+    {
+      "text": "problem with the European working",
+      "duration": 3.76,
+      "offset": 76.92,
+      "lang": "en"
+    },
+    {
+      "text": "culture or is it an advantage that we&#39;re",
+      "duration": 3.0,
+      "offset": 78.92,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a constraint that we have to deal",
+      "duration": 2.68,
+      "offset": 80.68,
+      "lang": "en"
+    },
+    {
+      "text": "with is it a",
+      "duration": 3.44,
+      "offset": 81.92,
+      "lang": "en"
+    },
+    {
+      "text": "strength I don&#39;t think it&#39;s a constraint",
+      "duration": 7.32,
+      "offset": 83.36,
+      "lang": "en"
+    },
+    {
+      "text": "but I I think like the that fewer people",
+      "duration": 8.36,
+      "offset": 85.36,
+      "lang": "en"
+    },
+    {
+      "text": "in here here in Sweden for example are",
+      "duration": 5.28,
+      "offset": 90.68,
+      "lang": "en"
+    },
+    {
+      "text": "extremely ambitious and care a lot care",
+      "duration": 5.4,
+      "offset": 93.72,
+      "lang": "en"
+    },
+    {
+      "text": "a lot about the mission or that you&#39;re",
+      "duration": 7.24,
+      "offset": 95.96,
+      "lang": "en"
+    },
+    {
+      "text": "own as a company for example um makes it",
+      "duration": 5.76,
+      "offset": 99.12,
+      "lang": "en"
+    },
+    {
+      "text": "that Norm makes it harder to be",
+      "duration": 5.64,
+      "offset": 103.2,
+      "lang": "en"
+    },
+    {
+      "text": "extremely successful for sure so for to",
+      "duration": 6.6,
+      "offset": 104.88,
+      "lang": "en"
+    },
+    {
+      "text": "be extremely successful here you need to",
+      "duration": 5.08,
+      "offset": 108.84,
+      "lang": "en"
+    },
+    {
+      "text": "um beat that R of becoming more",
+      "duration": 5.56,
+      "offset": 111.48,
+      "lang": "en"
+    },
+    {
+      "text": "ambitious all the time you chose to",
+      "duration": 5.4,
+      "offset": 113.92,
+      "lang": "en"
+    },
+    {
+      "text": "headquarter lovable in Stockholm",
+      "duration": 4.64,
+      "offset": 117.04,
+      "lang": "en"
+    },
+    {
+      "text": "particularly but let&#39;s say in Europe at",
+      "duration": 4.32,
+      "offset": 119.32,
+      "lang": "en"
+    },
+    {
+      "text": "one of the most negative moments of the",
+      "duration": 4.28,
+      "offset": 121.68,
+      "lang": "en"
+    },
+    {
+      "text": "European press cycle about innovation in",
+      "duration": 4.76,
+      "offset": 123.64,
+      "lang": "en"
+    },
+    {
+      "text": "particular walk us through that decision",
+      "duration": 5.76,
+      "offset": 125.96,
+      "lang": "en"
+    },
+    {
+      "text": "yeah good question I um I was very close",
+      "duration": 6.32,
+      "offset": 128.4,
+      "lang": "en"
+    },
+    {
+      "text": "to building lavable in in the Bay Area",
+      "duration": 6.04,
+      "offset": 131.72,
+      "lang": "en"
+    },
+    {
+      "text": "or in San Francisco um",
+      "duration": 6.32,
+      "offset": 134.72,
+      "lang": "en"
+    },
+    {
+      "text": "but faith has it that I just realized",
+      "duration": 4.92,
+      "offset": 137.76,
+      "lang": "en"
+    },
+    {
+      "text": "that there&#39;s so many great people here",
+      "duration": 4.48,
+      "offset": 141.04,
+      "lang": "en"
+    },
+    {
+      "text": "in in Stockholm and I have course my",
+      "duration": 6.72,
+      "offset": 142.68,
+      "lang": "en"
+    },
+    {
+      "text": "more of my network here as well um so",
+      "duration": 6.96,
+      "offset": 145.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve ended up just building up a really",
+      "duration": 3.76,
+      "offset": 149.4,
+      "lang": "en"
+    },
+    {
+      "text": "strong",
+      "duration": 5.6,
+      "offset": 152.48,
+      "lang": "en"
+    },
+    {
+      "text": "team in t so that and and yeah I thought",
+      "duration": 6.32,
+      "offset": 153.16,
+      "lang": "en"
+    },
+    {
+      "text": "about London as well but I think",
+      "duration": 5.16,
+      "offset": 158.08,
+      "lang": "en"
+    },
+    {
+      "text": "Stockholm has a higher Fluor great",
+      "duration": 6.0,
+      "offset": 159.48,
+      "lang": "en"
+    },
+    {
+      "text": "Engineers so it&#39;s there&#39;s there&#39;s a lot",
+      "duration": 4.28,
+      "offset": 163.24,
+      "lang": "en"
+    },
+    {
+      "text": "of great talent here oliv I know you had",
+      "duration": 3.52,
+      "offset": 165.48,
+      "lang": "en"
+    },
+    {
+      "text": "a question about the engineering talent",
+      "duration": 2.64,
+      "offset": 167.52,
+      "lang": "en"
+    },
+    {
+      "text": "that we have",
+      "duration": 3.96,
+      "offset": 169.0,
+      "lang": "en"
+    },
+    {
+      "text": "here yeah and and pitching in there Anon",
+      "duration": 4.24,
+      "offset": 170.16,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know if you agree with this but",
+      "duration": 2.96,
+      "offset": 172.96,
+      "lang": "en"
+    },
+    {
+      "text": "I I I&#39;ve been speaking with some friends",
+      "duration": 3.44,
+      "offset": 174.4,
+      "lang": "en"
+    },
+    {
+      "text": "of mine who work for the bigger AI labs",
+      "duration": 4.44,
+      "offset": 175.92,
+      "lang": "en"
+    },
+    {
+      "text": "and one reflection there they&#39;ve had",
+      "duration": 4.36,
+      "offset": 177.84,
+      "lang": "en"
+    },
+    {
+      "text": "actually is that the threshold in in",
+      "duration": 4.6,
+      "offset": 180.36,
+      "lang": "en"
+    },
+    {
+      "text": "Sweden to to start a company or join a",
+      "duration": 5.44,
+      "offset": 182.2,
+      "lang": "en"
+    },
+    {
+      "text": "startup is lower because it&#39;s quite",
+      "duration": 4.2,
+      "offset": 184.96,
+      "lang": "en"
+    },
+    {
+      "text": "difficult in the nordics to to make",
+      "duration": 3.84,
+      "offset": 187.64,
+      "lang": "en"
+    },
+    {
+      "text": "seven figures in dollars salary as",
+      "duration": 4.76,
+      "offset": 189.16,
+      "lang": "en"
+    },
+    {
+      "text": "individual contributor working in any",
+      "duration": 4.08,
+      "offset": 191.48,
+      "lang": "en"
+    },
+    {
+      "text": "type of technical position whereas in",
+      "duration": 4.4,
+      "offset": 193.92,
+      "lang": "en"
+    },
+    {
+      "text": "London or or in the Bay Area you can",
+      "duration": 4.64,
+      "offset": 195.56,
+      "lang": "en"
+    },
+    {
+      "text": "easily make seven figures working for",
+      "duration": 3.56,
+      "offset": 198.32,
+      "lang": "en"
+    },
+    {
+      "text": "one of the bigger aabbs and hence",
+      "duration": 3.92,
+      "offset": 200.2,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a bigger threshold actually to",
+      "duration": 4.88,
+      "offset": 201.88,
+      "lang": "en"
+    },
+    {
+      "text": "jump away from that security versus in",
+      "duration": 4.36,
+      "offset": 204.12,
+      "lang": "en"
+    },
+    {
+      "text": "in the nordics and Sweden we have the",
+      "duration": 3.64,
+      "offset": 206.76,
+      "lang": "en"
+    },
+    {
+      "text": "Social Security and everything so so",
+      "duration": 3.88,
+      "offset": 208.48,
+      "lang": "en"
+    },
+    {
+      "text": "actually that should lower the threshold",
+      "duration": 3.84,
+      "offset": 210.4,
+      "lang": "en"
+    },
+    {
+      "text": "of joining a startup or and taking the",
+      "duration": 4.56,
+      "offset": 212.36,
+      "lang": "en"
+    },
+    {
+      "text": "risk or or starting a",
+      "duration": 5.88,
+      "offset": 214.24,
+      "lang": "en"
+    },
+    {
+      "text": "company yeah I totally agree on that one",
+      "duration": 6.72,
+      "offset": 216.92,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s good point I I want to like I think",
+      "duration": 5.16,
+      "offset": 220.12,
+      "lang": "en"
+    },
+    {
+      "text": "part of what makes this conversation so",
+      "duration": 3.2,
+      "offset": 223.64,
+      "lang": "en"
+    },
+    {
+      "text": "interesting and able to attract I think",
+      "duration": 3.28,
+      "offset": 225.28,
+      "lang": "en"
+    },
+    {
+      "text": "we have close to 300 people that signed",
+      "duration": 3.44,
+      "offset": 226.84,
+      "lang": "en"
+    },
+    {
+      "text": "up just for a webinar with less than one",
+      "duration": 3.8,
+      "offset": 228.56,
+      "lang": "en"
+    },
+    {
+      "text": "week&#39;s notice uh part of what makes this",
+      "duration": 4.32,
+      "offset": 230.28,
+      "lang": "en"
+    },
+    {
+      "text": "such a timely conversation to have is",
+      "duration": 5.16,
+      "offset": 232.36,
+      "lang": "en"
+    },
+    {
+      "text": "that there&#39;s also this kind of",
+      "duration": 4.8,
+      "offset": 234.6,
+      "lang": "en"
+    },
+    {
+      "text": "geopolitical uh element to what&#39;s",
+      "duration": 3.56,
+      "offset": 237.52,
+      "lang": "en"
+    },
+    {
+      "text": "happening and really what we have in you",
+      "duration": 5.12,
+      "offset": 239.4,
+      "lang": "en"
+    },
+    {
+      "text": "Anton is a a potential hero for Europe",
+      "duration": 5.88,
+      "offset": 241.08,
+      "lang": "en"
+    },
+    {
+      "text": "right so we have this kind of uh Space",
+      "duration": 4.92,
+      "offset": 244.52,
+      "lang": "en"
+    },
+    {
+      "text": "Race going perhaps a Sputnik moment that",
+      "duration": 4.48,
+      "offset": 246.96,
+      "lang": "en"
+    },
+    {
+      "text": "just occurred with deep seek and it&#39;s",
+      "duration": 3.8,
+      "offset": 249.44,
+      "lang": "en"
+    },
+    {
+      "text": "clear that there&#39;s these two superpowers",
+      "duration": 6.04,
+      "offset": 251.44,
+      "lang": "en"
+    },
+    {
+      "text": "that are uh kind of competing for AI um",
+      "duration": 6.8,
+      "offset": 253.24,
+      "lang": "en"
+    },
+    {
+      "text": "as mentioned in our intro to this event",
+      "duration": 4.36,
+      "offset": 257.48,
+      "lang": "en"
+    },
+    {
+      "text": "you have a pretty interesting background",
+      "duration": 4.52,
+      "offset": 260.04,
+      "lang": "en"
+    },
+    {
+      "text": "that started at the same places as Sam",
+      "duration": 6.64,
+      "offset": 261.84,
+      "lang": "en"
+    },
+    {
+      "text": "Alman and and the founder leang Finn win",
+      "duration": 6.12,
+      "offset": 264.56,
+      "lang": "en"
+    },
+    {
+      "text": "Fang from deepsea so you obviously",
+      "duration": 5.44,
+      "offset": 268.48,
+      "lang": "en"
+    },
+    {
+      "text": "started your career at a algorithmic",
+      "duration": 5.24,
+      "offset": 270.68,
+      "lang": "en"
+    },
+    {
+      "text": "hedge fund and then you went through y",
+      "duration": 4.04,
+      "offset": 273.92,
+      "lang": "en"
+    },
+    {
+      "text": "combinator um but you have something",
+      "duration": 3.44,
+      "offset": 275.92,
+      "lang": "en"
+    },
+    {
+      "text": "that neither of those two guys have",
+      "duration": 3.04,
+      "offset": 277.96,
+      "lang": "en"
+    },
+    {
+      "text": "which is actually uniquely European",
+      "duration": 4.64,
+      "offset": 279.36,
+      "lang": "en"
+    },
+    {
+      "text": "asset you trained at CERN right the",
+      "duration": 5.76,
+      "offset": 281.0,
+      "lang": "en"
+    },
+    {
+      "text": "biggest worldclass science",
+      "duration": 4.56,
+      "offset": 284.0,
+      "lang": "en"
+    },
+    {
+      "text": "infrastructure uh that we have here",
+      "duration": 3.68,
+      "offset": 286.76,
+      "lang": "en"
+    },
+    {
+      "text": "dedicated to physics and and particle",
+      "duration": 4.0,
+      "offset": 288.56,
+      "lang": "en"
+    },
+    {
+      "text": "physics so do you think that working",
+      "duration": 4.0,
+      "offset": 290.44,
+      "lang": "en"
+    },
+    {
+      "text": "with worldclass physicist here in Europe",
+      "duration": 3.4,
+      "offset": 292.56,
+      "lang": "en"
+    },
+    {
+      "text": "gives you an advantage when it comes to",
+      "duration": 3.56,
+      "offset": 294.44,
+      "lang": "en"
+    },
+    {
+      "text": "working with AI how do you think about",
+      "duration": 4.48,
+      "offset": 295.96,
+      "lang": "en"
+    },
+    {
+      "text": "that experience informing your",
+      "duration": 5.32,
+      "offset": 298.0,
+      "lang": "en"
+    },
+    {
+      "text": "your background i&#39; love I&#39;d love to",
+      "duration": 4.56,
+      "offset": 300.44,
+      "lang": "en"
+    },
+    {
+      "text": "think that is the",
+      "duration": 5.2,
+      "offset": 303.32,
+      "lang": "en"
+    },
+    {
+      "text": "case it&#39;s formed like being at a place",
+      "duration": 6.36,
+      "offset": 305.0,
+      "lang": "en"
+    },
+    {
+      "text": "like CERN where there&#39;s 10,000 extremely",
+      "duration": 6.04,
+      "offset": 308.52,
+      "lang": "en"
+    },
+    {
+      "text": "smart people huddled up in one place um",
+      "duration": 5.48,
+      "offset": 311.36,
+      "lang": "en"
+    },
+    {
+      "text": "that just makes your if you&#39;re like me",
+      "duration": 4.56,
+      "offset": 314.56,
+      "lang": "en"
+    },
+    {
+      "text": "makes your head spin okay this is this",
+      "duration": 4.2,
+      "offset": 316.84,
+      "lang": "en"
+    },
+    {
+      "text": "this kind of like similar to Manhattan",
+      "duration": 3.48,
+      "offset": 319.12,
+      "lang": "en"
+    },
+    {
+      "text": "Project I think it&#39;s a more wellknown",
+      "duration": 5.68,
+      "offset": 321.04,
+      "lang": "en"
+    },
+    {
+      "text": "like stronger analogy um that you can",
+      "duration": 5.6,
+      "offset": 322.6,
+      "lang": "en"
+    },
+    {
+      "text": "assemble that you can assemble these",
+      "duration": 3.52,
+      "offset": 326.72,
+      "lang": "en"
+    },
+    {
+      "text": "people to build to do something that",
+      "duration": 3.64,
+      "offset": 328.2,
+      "lang": "en"
+    },
+    {
+      "text": "would was previously impossible or might",
+      "duration": 3.68,
+      "offset": 330.24,
+      "lang": "en"
+    },
+    {
+      "text": "be thought thought of impossible and I",
+      "duration": 4.44,
+      "offset": 331.84,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s the the biggest part that I",
+      "duration": 4.72,
+      "offset": 333.92,
+      "lang": "en"
+    },
+    {
+      "text": "got away from that and seeing that this",
+      "duration": 4.2,
+      "offset": 336.28,
+      "lang": "en"
+    },
+    {
+      "text": "is possible this is how it would look",
+      "duration": 3.44,
+      "offset": 338.64,
+      "lang": "en"
+    },
+    {
+      "text": "like",
+      "duration": 4.72,
+      "offset": 340.48,
+      "lang": "en"
+    },
+    {
+      "text": "um I don&#39;t unfortunately I haven&#39;t",
+      "duration": 5.88,
+      "offset": 342.08,
+      "lang": "en"
+    },
+    {
+      "text": "tapped the network yet at least of like",
+      "duration": 4.96,
+      "offset": 345.2,
+      "lang": "en"
+    },
+    {
+      "text": "extremely strong physicists that could",
+      "duration": 5.24,
+      "offset": 347.96,
+      "lang": "en"
+    },
+    {
+      "text": "be doing could be helping immensely in",
+      "duration": 7.8,
+      "offset": 350.16,
+      "lang": "en"
+    },
+    {
+      "text": "furthering like the European AI course",
+      "duration": 8.44,
+      "offset": 353.2,
+      "lang": "en"
+    },
+    {
+      "text": "um and and I don&#39;t I think that that",
+      "duration": 6.88,
+      "offset": 357.96,
+      "lang": "en"
+    },
+    {
+      "text": "that Talent could really be tapped not",
+      "duration": 8.28,
+      "offset": 361.64,
+      "lang": "en"
+    },
+    {
+      "text": "just by loveable but by um other other",
+      "duration": 7.24,
+      "offset": 364.84,
+      "lang": "en"
+    },
+    {
+      "text": "companies that are pushing forward like",
+      "duration": 3.96,
+      "offset": 369.92,
+      "lang": "en"
+    },
+    {
+      "text": "some completely new",
+      "duration": 4.08,
+      "offset": 372.08,
+      "lang": "en"
+    },
+    {
+      "text": "technology just stick with that spa",
+      "duration": 4.84,
+      "offset": 373.88,
+      "lang": "en"
+    },
+    {
+      "text": "space analogy for one second you and I",
+      "duration": 4.32,
+      "offset": 376.16,
+      "lang": "en"
+    },
+    {
+      "text": "have talked about this before but so",
+      "duration": 4.48,
+      "offset": 378.72,
+      "lang": "en"
+    },
+    {
+      "text": "when Elon Musk started SpaceX the US",
+      "duration": 4.64,
+      "offset": 380.48,
+      "lang": "en"
+    },
+    {
+      "text": "space companies accounted for less than",
+      "duration": 4.36,
+      "offset": 383.2,
+      "lang": "en"
+    },
+    {
+      "text": "1% of the world&#39;s commercial space",
+      "duration": 4.28,
+      "offset": 385.12,
+      "lang": "en"
+    },
+    {
+      "text": "launch revenues and really it was thanks",
+      "duration": 4.28,
+      "offset": 387.56,
+      "lang": "en"
+    },
+    {
+      "text": "to one person and one company that",
+      "duration": 5.76,
+      "offset": 389.4,
+      "lang": "en"
+    },
+    {
+      "text": "American space firms now have over 54%",
+      "duration": 5.56,
+      "offset": 391.84,
+      "lang": "en"
+    },
+    {
+      "text": "of that Revenue pie today and I guess",
+      "duration": 3.84,
+      "offset": 395.16,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s proof that one person can have a",
+      "duration": 4.32,
+      "offset": 397.4,
+      "lang": "en"
+    },
+    {
+      "text": "dramatic impact on an industry uh and",
+      "duration": 4.56,
+      "offset": 399.0,
+      "lang": "en"
+    },
+    {
+      "text": "when you kind of talk to Elon about the",
+      "duration": 4.16,
+      "offset": 401.72,
+      "lang": "en"
+    },
+    {
+      "text": "early days of building SpaceX he cited",
+      "duration": 3.96,
+      "offset": 403.56,
+      "lang": "en"
+    },
+    {
+      "text": "the fact that there was a relatively",
+      "duration": 2.96,
+      "offset": 405.88,
+      "lang": "en"
+    },
+    {
+      "text": "stagnant industry people were not",
+      "duration": 3.28,
+      "offset": 407.52,
+      "lang": "en"
+    },
+    {
+      "text": "working very hard for Boeing and the",
+      "duration": 4.2,
+      "offset": 408.84,
+      "lang": "en"
+    },
+    {
+      "text": "other space companies and he was able to",
+      "duration": 4.16,
+      "offset": 410.8,
+      "lang": "en"
+    },
+    {
+      "text": "recruit those Engineers into the The",
+      "duration": 4.04,
+      "offset": 413.04,
+      "lang": "en"
+    },
+    {
+      "text": "Cauldron of SpaceX where they knew that",
+      "duration": 3.84,
+      "offset": 414.96,
+      "lang": "en"
+    },
+    {
+      "text": "they could do great work and just",
+      "duration": 3.8,
+      "offset": 417.08,
+      "lang": "en"
+    },
+    {
+      "text": "dedicate themselves to something do you",
+      "duration": 4.96,
+      "offset": 418.8,
+      "lang": "en"
+    },
+    {
+      "text": "sense that the AI Talent here in",
+      "duration": 4.88,
+      "offset": 420.88,
+      "lang": "en"
+    },
+    {
+      "text": "Stockholm or in Europe broadly is",
+      "duration": 3.64,
+      "offset": 423.76,
+      "lang": "en"
+    },
+    {
+      "text": "underutilized and hungry for that kind",
+      "duration": 3.32,
+      "offset": 425.76,
+      "lang": "en"
+    },
+    {
+      "text": "of opportunity the same way that the US",
+      "duration": 3.96,
+      "offset": 427.4,
+      "lang": "en"
+    },
+    {
+      "text": "space industry was yeah I think I do",
+      "duration": 4.16,
+      "offset": 429.08,
+      "lang": "en"
+    },
+    {
+      "text": "think so I definitely think so uh it&#39;s",
+      "duration": 5.4,
+      "offset": 431.36,
+      "lang": "en"
+    },
+    {
+      "text": "not as like not extremely palpable um",
+      "duration": 8.52,
+      "offset": 433.24,
+      "lang": "en"
+    },
+    {
+      "text": "but they&#39;re the everyone I talk to um",
+      "duration": 6.4,
+      "offset": 436.76,
+      "lang": "en"
+    },
+    {
+      "text": "about what we&#39;re doing are extremely",
+      "duration": 3.44,
+      "offset": 441.76,
+      "lang": "en"
+    },
+    {
+      "text": "excited about it and want to help that",
+      "duration": 3.52,
+      "offset": 443.16,
+      "lang": "en"
+    },
+    {
+      "text": "so that that&#39;s literally what I&#39;m",
+      "duration": 4.6,
+      "offset": 445.2,
+      "lang": "en"
+    },
+    {
+      "text": "feeling right now um and more and more",
+      "duration": 5.24,
+      "offset": 446.68,
+      "lang": "en"
+    },
+    {
+      "text": "are waking up to that",
+      "duration": 7.2,
+      "offset": 449.8,
+      "lang": "en"
+    },
+    {
+      "text": "okay like the how AI is applied is like",
+      "duration": 7.52,
+      "offset": 451.92,
+      "lang": "en"
+    },
+    {
+      "text": "the biggest factor for the future of the",
+      "duration": 3.52,
+      "offset": 457.0,
+      "lang": "en"
+    },
+    {
+      "text": "human",
+      "duration": 3.8,
+      "offset": 459.44,
+      "lang": "en"
+    },
+    {
+      "text": "civilization so",
+      "duration": 5.88,
+      "offset": 460.52,
+      "lang": "en"
+    },
+    {
+      "text": "um it&#39;s yeah that that&#39;s definitely",
+      "duration": 5.76,
+      "offset": 463.24,
+      "lang": "en"
+    },
+    {
+      "text": "happening right now in Sweden can you",
+      "duration": 4.88,
+      "offset": 466.4,
+      "lang": "en"
+    },
+    {
+      "text": "talk a little bit about this EU ACC",
+      "duration": 4.16,
+      "offset": 469.0,
+      "lang": "en"
+    },
+    {
+      "text": "movement I know you&#39;re a fan what is it",
+      "duration": 4.76,
+      "offset": 471.28,
+      "lang": "en"
+    },
+    {
+      "text": "and why do you like it okay so EU",
+      "duration": 7.04,
+      "offset": 473.16,
+      "lang": "en"
+    },
+    {
+      "text": "accelerationism is the uh movement and",
+      "duration": 7.24,
+      "offset": 476.04,
+      "lang": "en"
+    },
+    {
+      "text": "European experation is not the EU and",
+      "duration": 5.56,
+      "offset": 480.2,
+      "lang": "en"
+    },
+    {
+      "text": "well well as you said like we going",
+      "duration": 5.84,
+      "offset": 483.28,
+      "lang": "en"
+    },
+    {
+      "text": "through a very bad press cycle for",
+      "duration": 4.96,
+      "offset": 485.76,
+      "lang": "en"
+    },
+    {
+      "text": "Europe right now there only all this",
+      "duration": 4.76,
+      "offset": 489.12,
+      "lang": "en"
+    },
+    {
+      "text": "memes about we&#39;re inventing the uh new",
+      "duration": 8.84,
+      "offset": 490.72,
+      "lang": "en"
+    },
+    {
+      "text": "caps for water bottles um and this is a",
+      "duration": 8.32,
+      "offset": 493.88,
+      "lang": "en"
+    },
+    {
+      "text": "counter movement to that and saying okay",
+      "duration": 4.44,
+      "offset": 499.56,
+      "lang": "en"
+    },
+    {
+      "text": "there are this this problems we have to",
+      "duration": 3.76,
+      "offset": 502.2,
+      "lang": "en"
+    },
+    {
+      "text": "take this is the great Best Time Ever to",
+      "duration": 5.64,
+      "offset": 504.0,
+      "lang": "en"
+    },
+    {
+      "text": "take them seriously and make sure that",
+      "duration": 5.48,
+      "offset": 505.96,
+      "lang": "en"
+    },
+    {
+      "text": "more people want to",
+      "duration": 4.72,
+      "offset": 509.64,
+      "lang": "en"
+    },
+    {
+      "text": "do accelerate technology technological",
+      "duration": 6.16,
+      "offset": 511.44,
+      "lang": "en"
+    },
+    {
+      "text": "change from Europe right and there the",
+      "duration": 5.92,
+      "offset": 514.36,
+      "lang": "en"
+    },
+    {
+      "text": "movement has a few very concrete points",
+      "duration": 5.16,
+      "offset": 517.6,
+      "lang": "en"
+    },
+    {
+      "text": "in how that can be done by",
+      "duration": 4.88,
+      "offset": 520.28,
+      "lang": "en"
+    },
+    {
+      "text": "simplifying U bureaucracy that like",
+      "duration": 4.24,
+      "offset": 522.76,
+      "lang": "en"
+    },
+    {
+      "text": "companies like ours have to struggle",
+      "duration": 5.76,
+      "offset": 525.16,
+      "lang": "en"
+    },
+    {
+      "text": "through in um in growing and selling",
+      "duration": 6.56,
+      "offset": 527.0,
+      "lang": "en"
+    },
+    {
+      "text": "soft selling commercial products across",
+      "duration": 4.88,
+      "offset": 530.92,
+      "lang": "en"
+    },
+    {
+      "text": "different countries in Europe and I",
+      "duration": 5.04,
+      "offset": 533.56,
+      "lang": "en"
+    },
+    {
+      "text": "think this is this movement which I I I",
+      "duration": 5.12,
+      "offset": 535.8,
+      "lang": "en"
+    },
+    {
+      "text": "started as a grassroot movement um is",
+      "duration": 4.2,
+      "offset": 538.6,
+      "lang": "en"
+    },
+    {
+      "text": "already bearing and pushing through new",
+      "duration": 4.52,
+      "offset": 540.92,
+      "lang": "en"
+    },
+    {
+      "text": "CH pushing through legal changes in the",
+      "duration": 6.52,
+      "offset": 542.8,
+      "lang": "en"
+    },
+    {
+      "text": "European Union and that yeah you you two",
+      "duration": 6.32,
+      "offset": 545.44,
+      "lang": "en"
+    },
+    {
+      "text": "probably know more than me about so what",
+      "duration": 4.36,
+      "offset": 549.32,
+      "lang": "en"
+    },
+    {
+      "text": "the Emperors and conquerors were not",
+      "duration": 3.64,
+      "offset": 551.76,
+      "lang": "en"
+    },
+    {
+      "text": "able to achieve in terms of unifying the",
+      "duration": 3.6,
+      "offset": 553.68,
+      "lang": "en"
+    },
+    {
+      "text": "European continent maybe the the",
+      "duration": 4.44,
+      "offset": 555.4,
+      "lang": "en"
+    },
+    {
+      "text": "legislators will or the Grassroots uh",
+      "duration": 4.36,
+      "offset": 557.28,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter movements yeah the Grassroots",
+      "duration": 4.56,
+      "offset": 559.84,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter movements and the pi",
+      "duration": 4.84,
+      "offset": 561.64,
+      "lang": "en"
+    },
+    {
+      "text": "optimists I guess that&#39;s the whole",
+      "duration": 4.16,
+      "offset": 564.4,
+      "lang": "en"
+    },
+    {
+      "text": "problem I mean Europe has been such an",
+      "duration": 3.76,
+      "offset": 566.48,
+      "lang": "en"
+    },
+    {
+      "text": "attractive group gr of countries to",
+      "duration": 3.76,
+      "offset": 568.56,
+      "lang": "en"
+    },
+    {
+      "text": "unify and ever since the Romans we&#39;ve",
+      "duration": 4.36,
+      "offset": 570.24,
+      "lang": "en"
+    },
+    {
+      "text": "been trying but it obviously is very",
+      "duration": 4.08,
+      "offset": 572.32,
+      "lang": "en"
+    },
+    {
+      "text": "difficult and so it&#39;s it&#39;s I&#39;m I&#39;m like",
+      "duration": 4.28,
+      "offset": 574.6,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit pessimistic about unifying",
+      "duration": 3.76,
+      "offset": 576.4,
+      "lang": "en"
+    },
+    {
+      "text": "the countries and I think if we just",
+      "duration": 3.12,
+      "offset": 578.88,
+      "lang": "en"
+    },
+    {
+      "text": "look at our diversity and the",
+      "duration": 3.16,
+      "offset": 580.16,
+      "lang": "en"
+    },
+    {
+      "text": "differences that we have as a as a",
+      "duration": 3.36,
+      "offset": 582.0,
+      "lang": "en"
+    },
+    {
+      "text": "constraint that can breed you know",
+      "duration": 3.56,
+      "offset": 583.32,
+      "lang": "en"
+    },
+    {
+      "text": "success in the same way that we see deep",
+      "duration": 4.36,
+      "offset": 585.36,
+      "lang": "en"
+    },
+    {
+      "text": "seek using constraints to accelerate",
+      "duration": 4.44,
+      "offset": 586.88,
+      "lang": "en"
+    },
+    {
+      "text": "their creativity maybe that&#39;s another",
+      "duration": 3.72,
+      "offset": 589.72,
+      "lang": "en"
+    },
+    {
+      "text": "approach versus trying to copy the exact",
+      "duration": 3.8,
+      "offset": 591.32,
+      "lang": "en"
+    },
+    {
+      "text": "same Playbook as America and say let&#39;s",
+      "duration": 3.88,
+      "offset": 593.44,
+      "lang": "en"
+    },
+    {
+      "text": "have one type of cheese American cheese",
+      "duration": 3.88,
+      "offset": 595.12,
+      "lang": "en"
+    },
+    {
+      "text": "and let&#39;s Syndicate it across all the 50",
+      "duration": 2.56,
+      "offset": 597.32,
+      "lang": "en"
+    },
+    {
+      "text": "states",
+      "duration": 2.84,
+      "offset": 599.0,
+      "lang": "en"
+    },
+    {
+      "text": "and just erase all the culture that we",
+      "duration": 5.48,
+      "offset": 599.88,
+      "lang": "en"
+    },
+    {
+      "text": "have here and the unique diversity yeah",
+      "duration": 6.48,
+      "offset": 601.84,
+      "lang": "en"
+    },
+    {
+      "text": "yeah I it would be ironic like the the",
+      "duration": 4.92,
+      "offset": 605.36,
+      "lang": "en"
+    },
+    {
+      "text": "big thing we have going for this",
+      "duration": 3.84,
+      "offset": 608.32,
+      "lang": "en"
+    },
+    {
+      "text": "succeeding now is that we have painted a",
+      "duration": 4.96,
+      "offset": 610.28,
+      "lang": "en"
+    },
+    {
+      "text": "clear enemy which is uh this meme the",
+      "duration": 6.0,
+      "offset": 612.16,
+      "lang": "en"
+    },
+    {
+      "text": "enemy is the meme that Europe while us",
+      "duration": 5.96,
+      "offset": 615.24,
+      "lang": "en"
+    },
+    {
+      "text": "innovates China imitates Europeans just",
+      "duration": 5.2,
+      "offset": 618.16,
+      "lang": "en"
+    },
+    {
+      "text": "regulate and and now that we can",
+      "duration": 5.24,
+      "offset": 621.2,
+      "lang": "en"
+    },
+    {
+      "text": "unifying behind this Meme and show that",
+      "duration": 4.72,
+      "offset": 623.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s false but I&#39;d love to hear your",
+      "duration": 3.0,
+      "offset": 626.44,
+      "lang": "en"
+    },
+    {
+      "text": "thoughts on this all I know you&#39;re",
+      "duration": 4.88,
+      "offset": 628.08,
+      "lang": "en"
+    },
+    {
+      "text": "thinking else about it no I I agree like",
+      "duration": 6.92,
+      "offset": 629.44,
+      "lang": "en"
+    },
+    {
+      "text": "we need a a joint joint goal and I I",
+      "duration": 4.84,
+      "offset": 632.96,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s a good goal and in all",
+      "duration": 3.12,
+      "offset": 636.36,
+      "lang": "en"
+    },
+    {
+      "text": "honesty I think it&#39;s a bit about",
+      "duration": 3.24,
+      "offset": 637.8,
+      "lang": "en"
+    },
+    {
+      "text": "breaking this you know European",
+      "duration": 4.4,
+      "offset": 639.48,
+      "lang": "en"
+    },
+    {
+      "text": "mentality and we&#39;ve been speaking an",
+      "duration": 4.56,
+      "offset": 641.04,
+      "lang": "en"
+    },
+    {
+      "text": "about this and I&#39;ve been talking about",
+      "duration": 4.04,
+      "offset": 643.88,
+      "lang": "en"
+    },
+    {
+      "text": "it that you look at the the global AI",
+      "duration": 5.04,
+      "offset": 645.6,
+      "lang": "en"
+    },
+    {
+      "text": "talent and you know the biggest",
+      "duration": 5.52,
+      "offset": 647.92,
+      "lang": "en"
+    },
+    {
+      "text": "ai ai breakthroughs actually a lot of",
+      "duration": 4.72,
+      "offset": 650.64,
+      "lang": "en"
+    },
+    {
+      "text": "them you know there&#39;s Europeans behind",
+      "duration": 4.28,
+      "offset": 653.44,
+      "lang": "en"
+    },
+    {
+      "text": "them and you look at Google deep mind",
+      "duration": 4.48,
+      "offset": 655.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s mainly Europeans London look at",
+      "duration": 5.36,
+      "offset": 657.72,
+      "lang": "en"
+    },
+    {
+      "text": "medas Lama team mainly French and and",
+      "duration": 4.6,
+      "offset": 659.84,
+      "lang": "en"
+    },
+    {
+      "text": "then you know talking about your",
+      "duration": 2.76,
+      "offset": 663.08,
+      "lang": "en"
+    },
+    {
+      "text": "background onon I think it&#39;s really",
+      "duration": 3.48,
+      "offset": 664.44,
+      "lang": "en"
+    },
+    {
+      "text": "interesting to see kth for example right",
+      "duration": 4.04,
+      "offset": 665.84,
+      "lang": "en"
+    },
+    {
+      "text": "now and and how it&#39;s becoming this",
+      "duration": 4.56,
+      "offset": 667.92,
+      "lang": "en"
+    },
+    {
+      "text": "founder Factory and I think we need to",
+      "duration": 4.8,
+      "offset": 669.88,
+      "lang": "en"
+    },
+    {
+      "text": "talk about it more in all honesty like",
+      "duration": 4.52,
+      "offset": 672.48,
+      "lang": "en"
+    },
+    {
+      "text": "very few know that Ali godsy is a",
+      "duration": 6.16,
+      "offset": 674.68,
+      "lang": "en"
+    },
+    {
+      "text": "founder of data bricks is kth alumni and",
+      "duration": 6.08,
+      "offset": 677.0,
+      "lang": "en"
+    },
+    {
+      "text": "and then we have this new generation of",
+      "duration": 4.68,
+      "offset": 680.84,
+      "lang": "en"
+    },
+    {
+      "text": "technical Founders coming from coming",
+      "duration": 4.6,
+      "offset": 683.08,
+      "lang": "en"
+    },
+    {
+      "text": "from kth and and there&#39;s you there&#39;s",
+      "duration": 4.72,
+      "offset": 685.52,
+      "lang": "en"
+    },
+    {
+      "text": "Eric Bernards on building in New York",
+      "duration": 5.44,
+      "offset": 687.68,
+      "lang": "en"
+    },
+    {
+      "text": "and then there is yeah like Max UNR and",
+      "duration": 5.72,
+      "offset": 690.24,
+      "lang": "en"
+    },
+    {
+      "text": "these these guys and and my question to",
+      "duration": 5.04,
+      "offset": 693.12,
+      "lang": "en"
+    },
+    {
+      "text": "you because I I studed in Finland didn&#39;t",
+      "duration": 4.92,
+      "offset": 695.96,
+      "lang": "en"
+    },
+    {
+      "text": "studying kth but why do you think that",
+      "duration": 5.28,
+      "offset": 698.16,
+      "lang": "en"
+    },
+    {
+      "text": "kth is for example becoming a Founder",
+      "duration": 5.04,
+      "offset": 700.88,
+      "lang": "en"
+    },
+    {
+      "text": "Factory now and why are we seeing now",
+      "duration": 4.6,
+      "offset": 703.44,
+      "lang": "en"
+    },
+    {
+      "text": "this new generation of of technical",
+      "duration": 4.52,
+      "offset": 705.92,
+      "lang": "en"
+    },
+    {
+      "text": "talent and I often say that they have",
+      "duration": 4.2,
+      "offset": 708.04,
+      "lang": "en"
+    },
+    {
+      "text": "absolutely no scare of heights these",
+      "duration": 3.64,
+      "offset": 710.44,
+      "lang": "en"
+    },
+    {
+      "text": "guys and girls go and compete to Silicon",
+      "duration": 4.12,
+      "offset": 712.24,
+      "lang": "en"
+    },
+    {
+      "text": "Valley with the best MIT Stanford",
+      "duration": 4.56,
+      "offset": 714.08,
+      "lang": "en"
+    },
+    {
+      "text": "Engineers from kth for example in our",
+      "duration": 4.08,
+      "offset": 716.36,
+      "lang": "en"
+    },
+    {
+      "text": "University also but why do you think",
+      "duration": 4.92,
+      "offset": 718.64,
+      "lang": "en"
+    },
+    {
+      "text": "this is happening now at such a velocity",
+      "duration": 4.92,
+      "offset": 720.44,
+      "lang": "en"
+    },
+    {
+      "text": "uh here in Stockholm and",
+      "duration": 5.6,
+      "offset": 723.56,
+      "lang": "en"
+    },
+    {
+      "text": "Sweden it happens um because we have",
+      "duration": 5.88,
+      "offset": 725.36,
+      "lang": "en"
+    },
+    {
+      "text": "Role Models here in Stockholm and you",
+      "duration": 4.8,
+      "offset": 729.16,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned a few of them and talking",
+      "duration": 5.28,
+      "offset": 731.24,
+      "lang": "en"
+    },
+    {
+      "text": "about the success stories more I think",
+      "duration": 5.12,
+      "offset": 733.96,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s exactly what is costing more of",
+      "duration": 5.56,
+      "offset": 736.52,
+      "lang": "en"
+    },
+    {
+      "text": "this change where you know I think if",
+      "duration": 5.36,
+      "offset": 739.08,
+      "lang": "en"
+    },
+    {
+      "text": "you you can like Netflix had a",
+      "duration": 5.32,
+      "offset": 742.08,
+      "lang": "en"
+    },
+    {
+      "text": "documentary about Bill Gates where he he",
+      "duration": 6.0,
+      "offset": 744.44,
+      "lang": "en"
+    },
+    {
+      "text": "and um he",
+      "duration": 4.68,
+      "offset": 747.4,
+      "lang": "en"
+    },
+    {
+      "text": "he like who he was planning to start",
+      "duration": 3.88,
+      "offset": 750.44,
+      "lang": "en"
+    },
+    {
+      "text": "Microsoft with with had a had a role",
+      "duration": 4.52,
+      "offset": 752.08,
+      "lang": "en"
+    },
+    {
+      "text": "model like was it D or someone and they",
+      "duration": 4.32,
+      "offset": 754.32,
+      "lang": "en"
+    },
+    {
+      "text": "were always obsessed about building a",
+      "duration": 4.16,
+      "offset": 756.6,
+      "lang": "en"
+    },
+    {
+      "text": "company from a very very young age and",
+      "duration": 5.16,
+      "offset": 758.64,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what um I think drove him to",
+      "duration": 6.32,
+      "offset": 760.76,
+      "lang": "en"
+    },
+    {
+      "text": "being being so um ruthless about making",
+      "duration": 5.96,
+      "offset": 763.8,
+      "lang": "en"
+    },
+    {
+      "text": "a successful company and now we&#39;ve had",
+      "duration": 5.24,
+      "offset": 767.08,
+      "lang": "en"
+    },
+    {
+      "text": "Skype and Spotify and like some of this",
+      "duration": 4.24,
+      "offset": 769.76,
+      "lang": "en"
+    },
+    {
+      "text": "role models from here and now there&#39;s",
+      "duration": 3.8,
+      "offset": 772.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a new generation coming out up",
+      "duration": 3.56,
+      "offset": 774.0,
+      "lang": "en"
+    },
+    {
+      "text": "from yeah can you highlight some of",
+      "duration": 3.16,
+      "offset": 776.12,
+      "lang": "en"
+    },
+    {
+      "text": "those people Anton we have a stage now",
+      "duration": 3.12,
+      "offset": 777.56,
+      "lang": "en"
+    },
+    {
+      "text": "and there&#39;s clearly people doing great",
+      "duration": 2.8,
+      "offset": 779.28,
+      "lang": "en"
+    },
+    {
+      "text": "work here who are some of the folks you",
+      "duration": 3.56,
+      "offset": 780.68,
+      "lang": "en"
+    },
+    {
+      "text": "want to bring attention",
+      "duration": 6.0,
+      "offset": 782.08,
+      "lang": "en"
+    },
+    {
+      "text": "to I think um the some of the more",
+      "duration": 7.04,
+      "offset": 784.24,
+      "lang": "en"
+    },
+    {
+      "text": "recent success stories are companies",
+      "duration": 8.32,
+      "offset": 788.08,
+      "lang": "en"
+    },
+    {
+      "text": "like is setle tin um SAA Labs I think",
+      "duration": 9.6,
+      "offset": 791.28,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s great example many like many young",
+      "duration": 6.92,
+      "offset": 796.4,
+      "lang": "en"
+    },
+    {
+      "text": "Founders want to imitate the company I I",
+      "duration": 7.28,
+      "offset": 800.88,
+      "lang": "en"
+    },
+    {
+      "text": "started before the P Ai and and the the",
+      "duration": 7.76,
+      "offset": 803.32,
+      "lang": "en"
+    },
+    {
+      "text": "those how many of these companies are",
+      "duration": 4.56,
+      "offset": 808.16,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re spinning out like the next",
+      "duration": 2.88,
+      "offset": 811.08,
+      "lang": "en"
+    },
+    {
+      "text": "generation of Founders from the",
+      "duration": 5.6,
+      "offset": 812.72,
+      "lang": "en"
+    },
+    {
+      "text": "companies as well and all of this yeah",
+      "duration": 5.92,
+      "offset": 813.96,
+      "lang": "en"
+    },
+    {
+      "text": "and Oliver you&#39;re you&#39;re one of the",
+      "duration": 3.76,
+      "offset": 818.32,
+      "lang": "en"
+    },
+    {
+      "text": "biggest voices in the Nordic AI",
+      "duration": 4.72,
+      "offset": 819.88,
+      "lang": "en"
+    },
+    {
+      "text": "Community right now you follow people",
+      "duration": 5.04,
+      "offset": 822.08,
+      "lang": "en"
+    },
+    {
+      "text": "like no one else uh what are some of the",
+      "duration": 3.72,
+      "offset": 824.6,
+      "lang": "en"
+    },
+    {
+      "text": "people that you want to bring attention",
+      "duration": 3.68,
+      "offset": 827.12,
+      "lang": "en"
+    },
+    {
+      "text": "to right now in this platform I think",
+      "duration": 4.48,
+      "offset": 828.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s there&#39;s many and there is like I",
+      "duration": 3.96,
+      "offset": 830.8,
+      "lang": "en"
+    },
+    {
+      "text": "said there&#39;s this younger generation I&#39;m",
+      "duration": 3.76,
+      "offset": 832.8,
+      "lang": "en"
+    },
+    {
+      "text": "36 and I&#39;m starting to feel old when I",
+      "duration": 4.44,
+      "offset": 834.76,
+      "lang": "en"
+    },
+    {
+      "text": "talk with this these younger people but",
+      "duration": 4.12,
+      "offset": 836.56,
+      "lang": "en"
+    },
+    {
+      "text": "looking looking in general there&#39;s",
+      "duration": 3.6,
+      "offset": 839.2,
+      "lang": "en"
+    },
+    {
+      "text": "people like Peter sarene for example who",
+      "duration": 3.88,
+      "offset": 840.68,
+      "lang": "en"
+    },
+    {
+      "text": "who co-founded soloi that was acquired",
+      "duration": 4.12,
+      "offset": 842.8,
+      "lang": "en"
+    },
+    {
+      "text": "by AMD during the summer for $665",
+      "duration": 4.92,
+      "offset": 844.56,
+      "lang": "en"
+    },
+    {
+      "text": "million and that&#39;s the largest pure play",
+      "duration": 4.48,
+      "offset": 846.92,
+      "lang": "en"
+    },
+    {
+      "text": "a acquisition in Europe to date that&#39;s",
+      "duration": 3.64,
+      "offset": 849.48,
+      "lang": "en"
+    },
+    {
+      "text": "larger than what Google pay for deep",
+      "duration": 3.96,
+      "offset": 851.4,
+      "lang": "en"
+    },
+    {
+      "text": "mind uh that&#39;s incredible and then we",
+      "duration": 5.44,
+      "offset": 853.12,
+      "lang": "en"
+    },
+    {
+      "text": "have Arvid lunar who&#39;s 25 year old guy",
+      "duration": 5.2,
+      "offset": 855.36,
+      "lang": "en"
+    },
+    {
+      "text": "from Sweden who&#39;s building cursor value",
+      "duration": 5.08,
+      "offset": 858.56,
+      "lang": "en"
+    },
+    {
+      "text": "now at two billion uh dollars and just",
+      "duration": 5.28,
+      "offset": 860.56,
+      "lang": "en"
+    },
+    {
+      "text": "became the fastest company in history to",
+      "duration": 4.8,
+      "offset": 863.64,
+      "lang": "en"
+    },
+    {
+      "text": "reach 100 million you know there there&#39;s",
+      "duration": 4.92,
+      "offset": 865.84,
+      "lang": "en"
+    },
+    {
+      "text": "so many of this example we have talking",
+      "duration": 4.52,
+      "offset": 868.44,
+      "lang": "en"
+    },
+    {
+      "text": "about fins we have kisar who&#39;s been",
+      "duration": 4.4,
+      "offset": 870.76,
+      "lang": "en"
+    },
+    {
+      "text": "linear in on the west coast and that&#39;s",
+      "duration": 6.08,
+      "offset": 872.96,
+      "lang": "en"
+    },
+    {
+      "text": "one of the I&#39;d say most PR Pro prolific",
+      "duration": 5.88,
+      "offset": 875.16,
+      "lang": "en"
+    },
+    {
+      "text": "B2B software companies right now and",
+      "duration": 4.12,
+      "offset": 879.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s a Finnish person so you",
+      "duration": 4.04,
+      "offset": 881.04,
+      "lang": "en"
+    },
+    {
+      "text": "know there&#39;s so many examples and I",
+      "duration": 3.88,
+      "offset": 883.16,
+      "lang": "en"
+    },
+    {
+      "text": "think you know breaking this mentality",
+      "duration": 3.48,
+      "offset": 885.08,
+      "lang": "en"
+    },
+    {
+      "text": "barrier right now is a lot about",
+      "duration": 3.44,
+      "offset": 887.04,
+      "lang": "en"
+    },
+    {
+      "text": "bringing these people up and and showing",
+      "duration": 3.4,
+      "offset": 888.56,
+      "lang": "en"
+    },
+    {
+      "text": "everybody like Anon said having these",
+      "duration": 4.12,
+      "offset": 890.48,
+      "lang": "en"
+    },
+    {
+      "text": "Role Models because what I&#39;m always",
+      "duration": 4.36,
+      "offset": 891.96,
+      "lang": "en"
+    },
+    {
+      "text": "saying is that you know they eat the",
+      "duration": 3.4,
+      "offset": 894.6,
+      "lang": "en"
+    },
+    {
+      "text": "same porridge for breakfast in Silicon",
+      "duration": 4.44,
+      "offset": 896.32,
+      "lang": "en"
+    },
+    {
+      "text": "Valley or or in newor New York uh it&#39;s",
+      "duration": 4.44,
+      "offset": 898.0,
+      "lang": "en"
+    },
+    {
+      "text": "just a mentality thing we have the",
+      "duration": 3.24,
+      "offset": 900.76,
+      "lang": "en"
+    },
+    {
+      "text": "technical Talent here in the nordics and",
+      "duration": 4.4,
+      "offset": 902.44,
+      "lang": "en"
+    },
+    {
+      "text": "Sweden also it&#39;s it&#39;s equally good uh",
+      "duration": 4.76,
+      "offset": 904.0,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s all about mentality and and then",
+      "duration": 4.4,
+      "offset": 906.84,
+      "lang": "en"
+    },
+    {
+      "text": "naturally on a more political level and",
+      "duration": 5.8,
+      "offset": 908.76,
+      "lang": "en"
+    },
+    {
+      "text": "you know there&#39;s EU in Inc right now",
+      "duration": 4.84,
+      "offset": 911.24,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s very clear that we need to start",
+      "duration": 5.0,
+      "offset": 914.56,
+      "lang": "en"
+    },
+    {
+      "text": "harmonizing EU uh so that you know we",
+      "duration": 5.2,
+      "offset": 916.08,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t lose all of these great technical",
+      "duration": 4.2,
+      "offset": 919.56,
+      "lang": "en"
+    },
+    {
+      "text": "Founders to the us too fast and we make",
+      "duration": 4.52,
+      "offset": 921.28,
+      "lang": "en"
+    },
+    {
+      "text": "Europe and the EU a very attractive",
+      "duration": 4.12,
+      "offset": 923.76,
+      "lang": "en"
+    },
+    {
+      "text": "place to start building your company and",
+      "duration": 3.64,
+      "offset": 925.8,
+      "lang": "en"
+    },
+    {
+      "text": "they always say it&#39;s not buy are I don&#39;t",
+      "duration": 3.08,
+      "offset": 927.88,
+      "lang": "en"
+    },
+    {
+      "text": "think we should approach it like us",
+      "duration": 3.6,
+      "offset": 929.44,
+      "lang": "en"
+    },
+    {
+      "text": "against Europe us is really important",
+      "duration": 3.84,
+      "offset": 930.96,
+      "lang": "en"
+    },
+    {
+      "text": "for European companies and vice versa",
+      "duration": 3.88,
+      "offset": 933.04,
+      "lang": "en"
+    },
+    {
+      "text": "Europe should be really important for us",
+      "duration": 5.04,
+      "offset": 934.8,
+      "lang": "en"
+    },
+    {
+      "text": "companies uh but uh but as Anto",
+      "duration": 4.56,
+      "offset": 936.92,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned it&#39;s all about these role",
+      "duration": 3.96,
+      "offset": 939.84,
+      "lang": "en"
+    },
+    {
+      "text": "models and I can I I feel it&#39;s bubbling",
+      "duration": 4.04,
+      "offset": 941.48,
+      "lang": "en"
+    },
+    {
+      "text": "right now under the the surface there&#39;s",
+      "duration": 3.36,
+      "offset": 943.8,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot of things going on now and",
+      "duration": 4.44,
+      "offset": 945.52,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of new generation Founders young",
+      "duration": 5.0,
+      "offset": 947.16,
+      "lang": "en"
+    },
+    {
+      "text": "young people who are talking to me how",
+      "duration": 3.96,
+      "offset": 949.96,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ve received offers from anthropic",
+      "duration": 3.36,
+      "offset": 952.16,
+      "lang": "en"
+    },
+    {
+      "text": "or open AI but they&#39;re thinking about",
+      "duration": 3.88,
+      "offset": 953.92,
+      "lang": "en"
+    },
+    {
+      "text": "maybe starting their company and and",
+      "duration": 4.04,
+      "offset": 955.52,
+      "lang": "en"
+    },
+    {
+      "text": "these are young Scandinavian",
+      "duration": 3.32,
+      "offset": 957.8,
+      "lang": "en"
+    },
+    {
+      "text": "uh technical",
+      "duration": 4.56,
+      "offset": 959.56,
+      "lang": "en"
+    },
+    {
+      "text": "Talent so I I I feel I feel very",
+      "duration": 6.0,
+      "offset": 961.12,
+      "lang": "en"
+    },
+    {
+      "text": "optimistic at the same time we we need",
+      "duration": 4.48,
+      "offset": 964.12,
+      "lang": "en"
+    },
+    {
+      "text": "to do more and we need to talk about",
+      "duration": 2.88,
+      "offset": 967.12,
+      "lang": "en"
+    },
+    {
+      "text": "this more and there you know what you&#39;re",
+      "duration": 4.52,
+      "offset": 968.6,
+      "lang": "en"
+    },
+    {
+      "text": "doing onon with lovable is is great I",
+      "duration": 4.84,
+      "offset": 970.0,
+      "lang": "en"
+    },
+    {
+      "text": "think you&#39;re becoming one of the best",
+      "duration": 3.88,
+      "offset": 973.12,
+      "lang": "en"
+    },
+    {
+      "text": "Role Models now and let&#39;s let&#39;s spend",
+      "duration": 3.56,
+      "offset": 974.84,
+      "lang": "en"
+    },
+    {
+      "text": "some time talking about that I know we",
+      "duration": 3.4,
+      "offset": 977.0,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have the the most time for this",
+      "duration": 4.04,
+      "offset": 978.4,
+      "lang": "en"
+    },
+    {
+      "text": "session today let&#39;s get to the AI the",
+      "duration": 4.12,
+      "offset": 980.4,
+      "lang": "en"
+    },
+    {
+      "text": "heart of the discussion obviously Anton",
+      "duration": 4.44,
+      "offset": 982.44,
+      "lang": "en"
+    },
+    {
+      "text": "part of the reason that you are such a a",
+      "duration": 3.64,
+      "offset": 984.52,
+      "lang": "en"
+    },
+    {
+      "text": "fascinating figure to follow right now",
+      "duration": 2.8,
+      "offset": 986.88,
+      "lang": "en"
+    },
+    {
+      "text": "is your company has gone from Z to 10",
+      "duration": 4.52,
+      "offset": 988.16,
+      "lang": "en"
+    },
+    {
+      "text": "million ARR in two months took two",
+      "duration": 5.28,
+      "offset": 989.68,
+      "lang": "en"
+    },
+    {
+      "text": "launches uh that failed before that to",
+      "duration": 4.0,
+      "offset": 992.68,
+      "lang": "en"
+    },
+    {
+      "text": "get to this point but but you&#39;re",
+      "duration": 3.68,
+      "offset": 994.96,
+      "lang": "en"
+    },
+    {
+      "text": "certainly one of the fastest growing",
+      "duration": 3.8,
+      "offset": 996.68,
+      "lang": "en"
+    },
+    {
+      "text": "companies in fact I&#39;m curious when we",
+      "duration": 3.0,
+      "offset": 998.64,
+      "lang": "en"
+    },
+    {
+      "text": "say that you&#39;re the fastest growing",
+      "duration": 3.28,
+      "offset": 1000.48,
+      "lang": "en"
+    },
+    {
+      "text": "company I&#39;m this week in startups just",
+      "duration": 3.68,
+      "offset": 1001.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh this last week you were on it and",
+      "duration": 2.56,
+      "offset": 1003.76,
+      "lang": "en"
+    },
+    {
+      "text": "they called you the fastest growing",
+      "duration": 2.2,
+      "offset": 1005.32,
+      "lang": "en"
+    },
+    {
+      "text": "startup in the world so I mean there",
+      "duration": 3.08,
+      "offset": 1006.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s quite a lot of uh a lot of",
+      "duration": 3.28,
+      "offset": 1007.52,
+      "lang": "en"
+    },
+    {
+      "text": "people that see a startups on a regular",
+      "duration": 2.96,
+      "offset": 1009.4,
+      "lang": "en"
+    },
+    {
+      "text": "basis are very impressed but Oliver",
+      "duration": 3.36,
+      "offset": 1010.8,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s let&#39;s uh get to some of these AI",
+      "duration": 3.0,
+      "offset": 1012.36,
+      "lang": "en"
+    },
+    {
+      "text": "questions that you&#39;ve written I also",
+      "duration": 2.4,
+      "offset": 1014.16,
+      "lang": "en"
+    },
+    {
+      "text": "have a couple from the growth Minds",
+      "duration": 2.28,
+      "offset": 1015.36,
+      "lang": "en"
+    },
+    {
+      "text": "community that I want to bring to you",
+      "duration": 2.88,
+      "offset": 1016.56,
+      "lang": "en"
+    },
+    {
+      "text": "Anton",
+      "duration": 5.36,
+      "offset": 1017.64,
+      "lang": "en"
+    },
+    {
+      "text": "100% yeah definitely and and uh I think",
+      "duration": 5.16,
+      "offset": 1019.44,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s it&#39;s really interesting onon to",
+      "duration": 3.2,
+      "offset": 1023.0,
+      "lang": "en"
+    },
+    {
+      "text": "follow the Journey of loveable and like",
+      "duration": 3.92,
+      "offset": 1024.6,
+      "lang": "en"
+    },
+    {
+      "text": "I said a great role model and I think",
+      "duration": 4.56,
+      "offset": 1026.2,
+      "lang": "en"
+    },
+    {
+      "text": "one big big discussion I&#39;ve been having",
+      "duration": 4.44,
+      "offset": 1028.52,
+      "lang": "en"
+    },
+    {
+      "text": "with with many people in the a community",
+      "duration": 4.12,
+      "offset": 1030.76,
+      "lang": "en"
+    },
+    {
+      "text": "and also the VC Community is can you",
+      "duration": 3.92,
+      "offset": 1032.96,
+      "lang": "en"
+    },
+    {
+      "text": "build a clearon dollar company purely on",
+      "duration": 4.6,
+      "offset": 1034.88,
+      "lang": "en"
+    },
+    {
+      "text": "the application layer or or do you need",
+      "duration": 4.24,
+      "offset": 1036.88,
+      "lang": "en"
+    },
+    {
+      "text": "to move down to the to the",
+      "duration": 3.92,
+      "offset": 1039.48,
+      "lang": "en"
+    },
+    {
+      "text": "infrastructure layer uh to some extent",
+      "duration": 4.56,
+      "offset": 1041.12,
+      "lang": "en"
+    },
+    {
+      "text": "then and to that also you know how do",
+      "duration": 4.56,
+      "offset": 1043.4,
+      "lang": "en"
+    },
+    {
+      "text": "you build defensibility on the",
+      "duration": 3.8,
+      "offset": 1045.68,
+      "lang": "en"
+    },
+    {
+      "text": "application layer because there&#39;s a lot",
+      "duration": 3.84,
+      "offset": 1047.96,
+      "lang": "en"
+    },
+    {
+      "text": "of discussions that you know the model",
+      "duration": 3.84,
+      "offset": 1049.48,
+      "lang": "en"
+    },
+    {
+      "text": "performance will converge for everybody",
+      "duration": 4.36,
+      "offset": 1051.8,
+      "lang": "en"
+    },
+    {
+      "text": "at the same level uh either you&#39;re using",
+      "duration": 6.16,
+      "offset": 1053.32,
+      "lang": "en"
+    },
+    {
+      "text": "son 3.5 or or some some other models but",
+      "duration": 5.64,
+      "offset": 1056.16,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s your take there one can we build",
+      "duration": 3.92,
+      "offset": 1059.48,
+      "lang": "en"
+    },
+    {
+      "text": "a trillion dollar company on the",
+      "duration": 4.28,
+      "offset": 1061.8,
+      "lang": "en"
+    },
+    {
+      "text": "application layer and and what are the",
+      "duration": 5.28,
+      "offset": 1063.4,
+      "lang": "en"
+    },
+    {
+      "text": "defens abilities that you can build on",
+      "duration": 5.0,
+      "offset": 1066.08,
+      "lang": "en"
+    },
+    {
+      "text": "on the application",
+      "duration": 6.52,
+      "offset": 1068.68,
+      "lang": "en"
+    },
+    {
+      "text": "layer I think the the defensibility and",
+      "duration": 6.52,
+      "offset": 1071.08,
+      "lang": "en"
+    },
+    {
+      "text": "the mot like they they exist outside of",
+      "duration": 3.88,
+      "offset": 1075.2,
+      "lang": "en"
+    },
+    {
+      "text": "tech companies and they always is going",
+      "duration": 5.8,
+      "offset": 1077.6,
+      "lang": "en"
+    },
+    {
+      "text": "to be be there um so there&#39;s like the if",
+      "duration": 6.8,
+      "offset": 1079.08,
+      "lang": "en"
+    },
+    {
+      "text": "you can use your scale to some some",
+      "duration": 4.16,
+      "offset": 1083.4,
+      "lang": "en"
+    },
+    {
+      "text": "advantage that that&#39;s a most pretty",
+      "duration": 5.16,
+      "offset": 1085.88,
+      "lang": "en"
+    },
+    {
+      "text": "boring one um certain Network effects",
+      "duration": 5.68,
+      "offset": 1087.56,
+      "lang": "en"
+    },
+    {
+      "text": "and building a platform is typically a",
+      "duration": 3.92,
+      "offset": 1091.04,
+      "lang": "en"
+    },
+    {
+      "text": "network effect where everyone&#39;s building",
+      "duration": 3.52,
+      "offset": 1093.24,
+      "lang": "en"
+    },
+    {
+      "text": "getting used to building on the on the",
+      "duration": 5.84,
+      "offset": 1094.96,
+      "lang": "en"
+    },
+    {
+      "text": "same um kind of choice of technology or",
+      "duration": 7.0,
+      "offset": 1096.76,
+      "lang": "en"
+    },
+    {
+      "text": "or or something else and uh which is",
+      "duration": 4.32,
+      "offset": 1100.8,
+      "lang": "en"
+    },
+    {
+      "text": "very relevant for us right we&#39;re",
+      "duration": 3.04,
+      "offset": 1103.76,
+      "lang": "en"
+    },
+    {
+      "text": "building a platform for people to to",
+      "duration": 5.92,
+      "offset": 1105.12,
+      "lang": "en"
+    },
+    {
+      "text": "build upon um so if you nail some of",
+      "duration": 7.8,
+      "offset": 1106.8,
+      "lang": "en"
+    },
+    {
+      "text": "these um platform plays",
+      "duration": 8.16,
+      "offset": 1111.04,
+      "lang": "en"
+    },
+    {
+      "text": "or kind of scaling advantages then 100%",
+      "duration": 7.76,
+      "offset": 1114.6,
+      "lang": "en"
+    },
+    {
+      "text": "you can build a you can build a tar",
+      "duration": 5.92,
+      "offset": 1119.2,
+      "lang": "en"
+    },
+    {
+      "text": "company and like if you if you training",
+      "duration": 4.36,
+      "offset": 1122.36,
+      "lang": "en"
+    },
+    {
+      "text": "your own model or if you&#39;re just doing",
+      "duration": 2.92,
+      "offset": 1125.12,
+      "lang": "en"
+    },
+    {
+      "text": "the application ler I think that&#39;s very",
+      "duration": 2.88,
+      "offset": 1126.72,
+      "lang": "en"
+    },
+    {
+      "text": "very secondary it&#39;s more about business",
+      "duration": 5.04,
+      "offset": 1128.04,
+      "lang": "en"
+    },
+    {
+      "text": "smart business DEC decisions to yeah so",
+      "duration": 5.48,
+      "offset": 1129.6,
+      "lang": "en"
+    },
+    {
+      "text": "like Network effects and not switching",
+      "duration": 6.24,
+      "offset": 1133.08,
+      "lang": "en"
+    },
+    {
+      "text": "costs are the the power source yeah like",
+      "duration": 7.84,
+      "offset": 1135.08,
+      "lang": "en"
+    },
+    {
+      "text": "um yeah I mean I think the the most uh",
+      "duration": 5.28,
+      "offset": 1139.32,
+      "lang": "en"
+    },
+    {
+      "text": "in the early stages of a company where",
+      "duration": 3.44,
+      "offset": 1142.92,
+      "lang": "en"
+    },
+    {
+      "text": "we are now execution is everything and",
+      "duration": 3.2,
+      "offset": 1144.6,
+      "lang": "en"
+    },
+    {
+      "text": "then like this modes that they have to",
+      "duration": 3.4,
+      "offset": 1146.36,
+      "lang": "en"
+    },
+    {
+      "text": "be very very secondary just ex executing",
+      "duration": 4.52,
+      "offset": 1147.8,
+      "lang": "en"
+    },
+    {
+      "text": "fast is all that matters and the first",
+      "duration": 4.28,
+      "offset": 1149.76,
+      "lang": "en"
+    },
+    {
+      "text": "thing that that you I think is good to",
+      "duration": 3.44,
+      "offset": 1152.32,
+      "lang": "en"
+    },
+    {
+      "text": "focus on after that where which you can",
+      "duration": 3.2,
+      "offset": 1154.04,
+      "lang": "en"
+    },
+    {
+      "text": "make you build a trillion dollar",
+      "duration": 5.04,
+      "offset": 1155.76,
+      "lang": "en"
+    },
+    {
+      "text": "companies is the brand if you take apple",
+      "duration": 5.88,
+      "offset": 1157.24,
+      "lang": "en"
+    },
+    {
+      "text": "I think they have good technology like",
+      "duration": 4.12,
+      "offset": 1160.8,
+      "lang": "en"
+    },
+    {
+      "text": "there other that have good technology",
+      "duration": 3.76,
+      "offset": 1163.12,
+      "lang": "en"
+    },
+    {
+      "text": "they have some Network effects like you",
+      "duration": 3.56,
+      "offset": 1164.92,
+      "lang": "en"
+    },
+    {
+      "text": "got locked into the Apple&#39;s ecosystem",
+      "duration": 4.44,
+      "offset": 1166.88,
+      "lang": "en"
+    },
+    {
+      "text": "but the strongest kind of asset they",
+      "duration": 4.72,
+      "offset": 1168.48,
+      "lang": "en"
+    },
+    {
+      "text": "have is their brand and that&#39;s I think",
+      "duration": 5.4,
+      "offset": 1171.32,
+      "lang": "en"
+    },
+    {
+      "text": "the easiest simplest thing to focus on",
+      "duration": 6.84,
+      "offset": 1173.2,
+      "lang": "en"
+    },
+    {
+      "text": "in in terms of Europe do you need that",
+      "duration": 5.24,
+      "offset": 1176.72,
+      "lang": "en"
+    },
+    {
+      "text": "we do you think that we would need one",
+      "duration": 3.88,
+      "offset": 1180.04,
+      "lang": "en"
+    },
+    {
+      "text": "at least one player on the foundation",
+      "duration": 4.04,
+      "offset": 1181.96,
+      "lang": "en"
+    },
+    {
+      "text": "model infrastructure layer which can",
+      "duration": 5.6,
+      "offset": 1183.92,
+      "lang": "en"
+    },
+    {
+      "text": "compete we have now Mel AI but uh you",
+      "duration": 4.96,
+      "offset": 1186.0,
+      "lang": "en"
+    },
+    {
+      "text": "know there&#39;s a lot of competition also",
+      "duration": 4.44,
+      "offset": 1189.52,
+      "lang": "en"
+    },
+    {
+      "text": "from from China and I said last week",
+      "duration": 5.36,
+      "offset": 1190.96,
+      "lang": "en"
+    },
+    {
+      "text": "that just imagine the excitement is if",
+      "duration": 4.2,
+      "offset": 1193.96,
+      "lang": "en"
+    },
+    {
+      "text": "for example Mel would have come out with",
+      "duration": 5.44,
+      "offset": 1196.32,
+      "lang": "en"
+    },
+    {
+      "text": "the Deep V3 or R1 update but what&#39;s your",
+      "duration": 5.8,
+      "offset": 1198.16,
+      "lang": "en"
+    },
+    {
+      "text": "take there like do we need somebody on",
+      "duration": 4.2,
+      "offset": 1201.76,
+      "lang": "en"
+    },
+    {
+      "text": "the infrastructure or can we can we",
+      "duration": 5.64,
+      "offset": 1203.96,
+      "lang": "en"
+    },
+    {
+      "text": "flourish on application layer",
+      "duration": 3.64,
+      "offset": 1205.96,
+      "lang": "en"
+    },
+    {
+      "text": "solely I mean currently there we live in",
+      "duration": 5.56,
+      "offset": 1211.4,
+      "lang": "en"
+    },
+    {
+      "text": "a very globalized world so we can",
+      "duration": 3.28,
+      "offset": 1215.36,
+      "lang": "en"
+    },
+    {
+      "text": "flourish on the application later but",
+      "duration": 4.92,
+      "offset": 1216.96,
+      "lang": "en"
+    },
+    {
+      "text": "there is more of a geopolitical question",
+      "duration": 6.6,
+      "offset": 1218.64,
+      "lang": "en"
+    },
+    {
+      "text": "I think in terms of that if",
+      "duration": 6.08,
+      "offset": 1221.88,
+      "lang": "en"
+    },
+    {
+      "text": "um you could imagine that this a like",
+      "duration": 5.4,
+      "offset": 1225.24,
+      "lang": "en"
+    },
+    {
+      "text": "currently very open apis are not open in",
+      "duration": 4.4,
+      "offset": 1227.96,
+      "lang": "en"
+    },
+    {
+      "text": "in the future at least not the frontier",
+      "duration": 5.16,
+      "offset": 1230.64,
+      "lang": "en"
+    },
+    {
+      "text": "models are not open anymore uh and for",
+      "duration": 8.48,
+      "offset": 1232.36,
+      "lang": "en"
+    },
+    {
+      "text": "that reason I I definitely see a yeah a",
+      "duration": 9.04,
+      "offset": 1235.8,
+      "lang": "en"
+    },
+    {
+      "text": "case for building a model or investing",
+      "duration": 6.24,
+      "offset": 1240.84,
+      "lang": "en"
+    },
+    {
+      "text": "in having strong capabilities to push",
+      "duration": 4.56,
+      "offset": 1244.84,
+      "lang": "en"
+    },
+    {
+      "text": "Frontier models forward are and are you",
+      "duration": 3.92,
+      "offset": 1247.08,
+      "lang": "en"
+    },
+    {
+      "text": "able to use all Cloud providers is there",
+      "duration": 2.96,
+      "offset": 1249.4,
+      "lang": "en"
+    },
+    {
+      "text": "one that you think is best suited this",
+      "duration": 2.84,
+      "offset": 1251.0,
+      "lang": "en"
+    },
+    {
+      "text": "is a question from our Builder Community",
+      "duration": 3.96,
+      "offset": 1252.36,
+      "lang": "en"
+    },
+    {
+      "text": "to you directly any key differences",
+      "duration": 6.12,
+      "offset": 1253.84,
+      "lang": "en"
+    },
+    {
+      "text": "between the AI Cloud providers",
+      "duration": 7.68,
+      "offset": 1256.32,
+      "lang": "en"
+    },
+    {
+      "text": "no I don&#39;t I I think all Cloud providers",
+      "duration": 8.96,
+      "offset": 1259.96,
+      "lang": "en"
+    },
+    {
+      "text": "are um viable options for us the they",
+      "duration": 8.24,
+      "offset": 1264.0,
+      "lang": "en"
+    },
+    {
+      "text": "give they they invest differently much",
+      "duration": 7.08,
+      "offset": 1268.92,
+      "lang": "en"
+    },
+    {
+      "text": "into companies like us like AWS has this",
+      "duration": 6.6,
+      "offset": 1272.24,
+      "lang": "en"
+    },
+    {
+      "text": "insane U program where they really",
+      "duration": 4.6,
+      "offset": 1276.0,
+      "lang": "en"
+    },
+    {
+      "text": "really want to help us for for example",
+      "duration": 4.56,
+      "offset": 1278.84,
+      "lang": "en"
+    },
+    {
+      "text": "and that that&#39;s how how we think about",
+      "duration": 6.0,
+      "offset": 1280.6,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m I&#39;m I&#39;m I&#39;m curious to hear Anon so",
+      "duration": 4.44,
+      "offset": 1283.4,
+      "lang": "en"
+    },
+    {
+      "text": "B based on what I&#39;ve been I&#39;ve been",
+      "duration": 3.28,
+      "offset": 1286.6,
+      "lang": "en"
+    },
+    {
+      "text": "talking actually Co genen is the first",
+      "duration": 4.96,
+      "offset": 1287.84,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;d say gen use case with explosive pro",
+      "duration": 5.28,
+      "offset": 1289.88,
+      "lang": "en"
+    },
+    {
+      "text": "market fit and and actually what I&#39;ve",
+      "duration": 4.16,
+      "offset": 1292.8,
+      "lang": "en"
+    },
+    {
+      "text": "been talking with with people both in",
+      "duration": 4.68,
+      "offset": 1295.16,
+      "lang": "en"
+    },
+    {
+      "text": "the US and Europe has been that you know",
+      "duration": 5.92,
+      "offset": 1296.96,
+      "lang": "en"
+    },
+    {
+      "text": "Sonet 3.5 was a big unlock uh at the end",
+      "duration": 5.04,
+      "offset": 1299.84,
+      "lang": "en"
+    },
+    {
+      "text": "of the day at the same time we can see",
+      "duration": 4.56,
+      "offset": 1302.88,
+      "lang": "en"
+    },
+    {
+      "text": "pool side and by the way pool side",
+      "duration": 4.08,
+      "offset": 1304.88,
+      "lang": "en"
+    },
+    {
+      "text": "us-based company moved their",
+      "duration": 3.4,
+      "offset": 1307.44,
+      "lang": "en"
+    },
+    {
+      "text": "headquarters to France which is pretty",
+      "duration": 4.24,
+      "offset": 1308.96,
+      "lang": "en"
+    },
+    {
+      "text": "pretty awesome and a good inspiration",
+      "duration": 4.84,
+      "offset": 1310.84,
+      "lang": "en"
+    },
+    {
+      "text": "but they&#39;re natur developing more use",
+      "duration": 5.56,
+      "offset": 1313.2,
+      "lang": "en"
+    },
+    {
+      "text": "case specific llm pool side but where do",
+      "duration": 6.2,
+      "offset": 1315.68,
+      "lang": "en"
+    },
+    {
+      "text": "you see you know from lovables view",
+      "duration": 4.88,
+      "offset": 1318.76,
+      "lang": "en"
+    },
+    {
+      "text": "predicting the future but do you see",
+      "duration": 4.48,
+      "offset": 1321.88,
+      "lang": "en"
+    },
+    {
+      "text": "that you will utilize more journalistic",
+      "duration": 6.0,
+      "offset": 1323.64,
+      "lang": "en"
+    },
+    {
+      "text": "LMS from the large providers or more Cen",
+      "duration": 5.48,
+      "offset": 1326.36,
+      "lang": "en"
+    },
+    {
+      "text": "specific models for example from pool",
+      "duration": 4.64,
+      "offset": 1329.64,
+      "lang": "en"
+    },
+    {
+      "text": "side uh where where do you see this",
+      "duration": 4.92,
+      "offset": 1331.84,
+      "lang": "en"
+    },
+    {
+      "text": "moving right now I guess it&#39;s quite hard",
+      "duration": 5.76,
+      "offset": 1334.28,
+      "lang": "en"
+    },
+    {
+      "text": "to to say anything yet but yeah Keen to",
+      "duration": 5.84,
+      "offset": 1336.76,
+      "lang": "en"
+    },
+    {
+      "text": "hear your take there yeah no what I I",
+      "duration": 4.76,
+      "offset": 1340.04,
+      "lang": "en"
+    },
+    {
+      "text": "think if you&#39;re like how how this",
+      "duration": 7.12,
+      "offset": 1342.6,
+      "lang": "en"
+    },
+    {
+      "text": "Foundation models work is that you have",
+      "duration": 6.6,
+      "offset": 1344.8,
+      "lang": "en"
+    },
+    {
+      "text": "you have a very strong team that",
+      "duration": 3.0,
+      "offset": 1349.72,
+      "lang": "en"
+    },
+    {
+      "text": "understands how to get the most out of",
+      "duration": 3.16,
+      "offset": 1351.4,
+      "lang": "en"
+    },
+    {
+      "text": "large language models and anthropic",
+      "duration": 3.72,
+      "offset": 1352.72,
+      "lang": "en"
+    },
+    {
+      "text": "clearly has such a team they build the",
+      "duration": 5.08,
+      "offset": 1354.56,
+      "lang": "en"
+    },
+    {
+      "text": "clo um open a DSE and Google also have",
+      "duration": 6.52,
+      "offset": 1356.44,
+      "lang": "en"
+    },
+    {
+      "text": "very strong teams and if you have that",
+      "duration": 4.96,
+      "offset": 1359.64,
+      "lang": "en"
+    },
+    {
+      "text": "capability to understand how to get the",
+      "duration": 4.56,
+      "offset": 1362.96,
+      "lang": "en"
+    },
+    {
+      "text": "most out of them and you you obviously",
+      "duration": 6.88,
+      "offset": 1364.6,
+      "lang": "en"
+    },
+    {
+      "text": "now point it quite um strongly on code",
+      "duration": 6.04,
+      "offset": 1367.52,
+      "lang": "en"
+    },
+    {
+      "text": "generation then you&#39;re going to have",
+      "duration": 5.2,
+      "offset": 1371.48,
+      "lang": "en"
+    },
+    {
+      "text": "very very good code generation models uh",
+      "duration": 6.4,
+      "offset": 1373.56,
+      "lang": "en"
+    },
+    {
+      "text": "and I think",
+      "duration": 6.84,
+      "offset": 1376.68,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s um my simplest model for where",
+      "duration": 5.08,
+      "offset": 1379.96,
+      "lang": "en"
+    },
+    {
+      "text": "the best code generation models are",
+      "duration": 2.76,
+      "offset": 1383.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to come from it&#39;s the ones that",
+      "duration": 3.6,
+      "offset": 1385.04,
+      "lang": "en"
+    },
+    {
+      "text": "have the best teams to build great large",
+      "duration": 6.2,
+      "offset": 1386.28,
+      "lang": "en"
+    },
+    {
+      "text": "page models in general and is is there",
+      "duration": 5.84,
+      "offset": 1388.64,
+      "lang": "en"
+    },
+    {
+      "text": "is is there any modes on the llm",
+      "duration": 3.44,
+      "offset": 1392.48,
+      "lang": "en"
+    },
+    {
+      "text": "foundation mod layer or is it going to",
+      "duration": 2.96,
+      "offset": 1394.48,
+      "lang": "en"
+    },
+    {
+      "text": "be commodity technology going to",
+      "duration": 4.2,
+      "offset": 1395.92,
+      "lang": "en"
+    },
+    {
+      "text": "marginal cost I guess that&#39;s a big I",
+      "duration": 5.04,
+      "offset": 1397.44,
+      "lang": "en"
+    },
+    {
+      "text": "think there&#39;s some kind of mod like the",
+      "duration": 7.32,
+      "offset": 1400.12,
+      "lang": "en"
+    },
+    {
+      "text": "but it you need to be very like strong",
+      "duration": 8.64,
+      "offset": 1402.48,
+      "lang": "en"
+    },
+    {
+      "text": "um laying on the ones that are going to",
+      "duration": 5.48,
+      "offset": 1407.44,
+      "lang": "en"
+    },
+    {
+      "text": "win here they will have to be very good",
+      "duration": 4.2,
+      "offset": 1411.12,
+      "lang": "en"
+    },
+    {
+      "text": "at everything from the hardware and how",
+      "duration": 4.92,
+      "offset": 1412.92,
+      "lang": "en"
+    },
+    {
+      "text": "to optimize that Hardware up to how to",
+      "duration": 6.88,
+      "offset": 1415.32,
+      "lang": "en"
+    },
+    {
+      "text": "make the products around them H and um",
+      "duration": 6.12,
+      "offset": 1417.84,
+      "lang": "en"
+    },
+    {
+      "text": "you know bring integrate that that whole",
+      "duration": 5.52,
+      "offset": 1422.2,
+      "lang": "en"
+    },
+    {
+      "text": "chain and I think Google has been behind",
+      "duration": 5.84,
+      "offset": 1423.96,
+      "lang": "en"
+    },
+    {
+      "text": "but I think they&#39;re very strong at",
+      "duration": 4.24,
+      "offset": 1427.72,
+      "lang": "en"
+    },
+    {
+      "text": "having the hard having",
+      "duration": 4.44,
+      "offset": 1429.8,
+      "lang": "en"
+    },
+    {
+      "text": "built like have a great engineering team",
+      "duration": 4.72,
+      "offset": 1431.96,
+      "lang": "en"
+    },
+    {
+      "text": "that have optimized data centers and",
+      "duration": 5.04,
+      "offset": 1434.24,
+      "lang": "en"
+    },
+    {
+      "text": "optimized to hardware optimize for large",
+      "duration": 5.68,
+      "offset": 1436.68,
+      "lang": "en"
+    },
+    {
+      "text": "language models and so on and they might",
+      "duration": 5.2,
+      "offset": 1439.28,
+      "lang": "en"
+    },
+    {
+      "text": "just have be able to compete with",
+      "duration": 5.04,
+      "offset": 1442.36,
+      "lang": "en"
+    },
+    {
+      "text": "margins when everyone else is scrambling",
+      "duration": 4.72,
+      "offset": 1444.48,
+      "lang": "en"
+    },
+    {
+      "text": "to get their same performance",
+      "duration": 5.92,
+      "offset": 1447.4,
+      "lang": "en"
+    },
+    {
+      "text": "optimization of them that&#39;s do do do you",
+      "duration": 6.32,
+      "offset": 1449.2,
+      "lang": "en"
+    },
+    {
+      "text": "see in general you know there&#39;s now a",
+      "duration": 4.8,
+      "offset": 1453.32,
+      "lang": "en"
+    },
+    {
+      "text": "big naturally bet on that the costs will",
+      "duration": 5.28,
+      "offset": 1455.52,
+      "lang": "en"
+    },
+    {
+      "text": "go down drastically which will naturally",
+      "duration": 5.56,
+      "offset": 1458.12,
+      "lang": "en"
+    },
+    {
+      "text": "play play for application companies to",
+      "duration": 5.56,
+      "offset": 1460.8,
+      "lang": "en"
+    },
+    {
+      "text": "to build sustainable",
+      "duration": 4.96,
+      "offset": 1463.68,
+      "lang": "en"
+    },
+    {
+      "text": "businesses uh yeah I think those are",
+      "duration": 4.52,
+      "offset": 1466.36,
+      "lang": "en"
+    },
+    {
+      "text": "definitely going to keep going down the",
+      "duration": 4.64,
+      "offset": 1468.64,
+      "lang": "en"
+    },
+    {
+      "text": "yeah 100% we actually had an interesting",
+      "duration": 3.88,
+      "offset": 1470.88,
+      "lang": "en"
+    },
+    {
+      "text": "conversation here I&#39;m actually with the",
+      "duration": 2.96,
+      "offset": 1473.28,
+      "lang": "en"
+    },
+    {
+      "text": "growth Minds community on a ski trip",
+      "duration": 2.76,
+      "offset": 1474.76,
+      "lang": "en"
+    },
+    {
+      "text": "right now last night we were talking",
+      "duration": 2.8,
+      "offset": 1476.24,
+      "lang": "en"
+    },
+    {
+      "text": "about Grace Hopper which of course is",
+      "duration": 4.24,
+      "offset": 1477.52,
+      "lang": "en"
+    },
+    {
+      "text": "the Nvidia cluster but also uh was a",
+      "duration": 4.64,
+      "offset": 1479.04,
+      "lang": "en"
+    },
+    {
+      "text": "real person and she was responsible for",
+      "duration": 4.0,
+      "offset": 1481.76,
+      "lang": "en"
+    },
+    {
+      "text": "building out the cobal language and",
+      "duration": 3.8,
+      "offset": 1483.68,
+      "lang": "en"
+    },
+    {
+      "text": "basically introducing a lot of radical",
+      "duration": 4.44,
+      "offset": 1485.76,
+      "lang": "en"
+    },
+    {
+      "text": "changes related to the mainframe",
+      "duration": 4.6,
+      "offset": 1487.48,
+      "lang": "en"
+    },
+    {
+      "text": "computers so very much integration of",
+      "duration": 4.96,
+      "offset": 1490.2,
+      "lang": "en"
+    },
+    {
+      "text": "hardware and software um that is still",
+      "duration": 5.96,
+      "offset": 1492.08,
+      "lang": "en"
+    },
+    {
+      "text": "50 years later the the standard for all",
+      "duration": 5.72,
+      "offset": 1495.16,
+      "lang": "en"
+    },
+    {
+      "text": "the ancial system applications so if you",
+      "duration": 4.28,
+      "offset": 1498.04,
+      "lang": "en"
+    },
+    {
+      "text": "can figure out an extremely efficient",
+      "duration": 3.4,
+      "offset": 1500.88,
+      "lang": "en"
+    },
+    {
+      "text": "lowcost way to integrate those things",
+      "duration": 3.6,
+      "offset": 1502.32,
+      "lang": "en"
+    },
+    {
+      "text": "you might have this you know very very",
+      "duration": 3.68,
+      "offset": 1504.28,
+      "lang": "en"
+    },
+    {
+      "text": "very low cost Foundation that has a lot",
+      "duration": 5.04,
+      "offset": 1505.92,
+      "lang": "en"
+    },
+    {
+      "text": "of foundation um like applications on",
+      "duration": 6.04,
+      "offset": 1507.96,
+      "lang": "en"
+    },
+    {
+      "text": "top of it pretty interesting",
+      "duration": 6.92,
+      "offset": 1510.96,
+      "lang": "en"
+    },
+    {
+      "text": "connection I ask the if there are any",
+      "duration": 6.36,
+      "offset": 1514.0,
+      "lang": "en"
+    },
+    {
+      "text": "questions from the chat I think that&#39;s",
+      "duration": 3.6,
+      "offset": 1517.88,
+      "lang": "en"
+    },
+    {
+      "text": "since I see that there&#39;s a chat here on",
+      "duration": 4.08,
+      "offset": 1520.36,
+      "lang": "en"
+    },
+    {
+      "text": "the right hand side oh look at",
+      "duration": 6.04,
+      "offset": 1521.48,
+      "lang": "en"
+    },
+    {
+      "text": "that yeah no good let&#39;s if there&#39;s any",
+      "duration": 4.76,
+      "offset": 1524.44,
+      "lang": "en"
+    },
+    {
+      "text": "questions I&#39;ve been following there",
+      "duration": 3.68,
+      "offset": 1527.52,
+      "lang": "en"
+    },
+    {
+      "text": "aren&#39;t any questions but we had a quick",
+      "duration": 3.72,
+      "offset": 1529.2,
+      "lang": "en"
+    },
+    {
+      "text": "round for you Anton like 10 questions",
+      "duration": 4.08,
+      "offset": 1531.2,
+      "lang": "en"
+    },
+    {
+      "text": "here to kind of close things off with um",
+      "duration": 4.92,
+      "offset": 1532.92,
+      "lang": "en"
+    },
+    {
+      "text": "yeah and actually I&#39;m getting one",
+      "duration": 4.28,
+      "offset": 1535.28,
+      "lang": "en"
+    },
+    {
+      "text": "question here from uh from one of our",
+      "duration": 2.88,
+      "offset": 1537.84,
+      "lang": "en"
+    },
+    {
+      "text": "community members what is something",
+      "duration": 2.72,
+      "offset": 1539.56,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve learned about generative AI in",
+      "duration": 3.36,
+      "offset": 1540.72,
+      "lang": "en"
+    },
+    {
+      "text": "the past three to six months that&#39;s",
+      "duration": 4.4,
+      "offset": 1542.28,
+      "lang": "en"
+    },
+    {
+      "text": "surprised",
+      "duration": 2.6,
+      "offset": 1544.08,
+      "lang": "en"
+    },
+    {
+      "text": "you and the one that comes to mind the",
+      "duration": 6.88,
+      "offset": 1547.64,
+      "lang": "en"
+    },
+    {
+      "text": "fastest is how they trained the deeps",
+      "duration": 8.24,
+      "offset": 1551.24,
+      "lang": "en"
+    },
+    {
+      "text": "model so they they were able to",
+      "duration": 6.64,
+      "offset": 1554.52,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s when you read the paper and they go",
+      "duration": 3.28,
+      "offset": 1559.48,
+      "lang": "en"
+    },
+    {
+      "text": "into quite a lot of detail how they did",
+      "duration": 4.0,
+      "offset": 1561.16,
+      "lang": "en"
+    },
+    {
+      "text": "it it sounds very simple and stupid and",
+      "duration": 5.8,
+      "offset": 1562.76,
+      "lang": "en"
+    },
+    {
+      "text": "they just use one model and then they um",
+      "duration": 6.56,
+      "offset": 1565.16,
+      "lang": "en"
+    },
+    {
+      "text": "optimiz optimized it for the evaluation",
+      "duration": 6.8,
+      "offset": 1568.56,
+      "lang": "en"
+    },
+    {
+      "text": "set and then they piped data for that",
+      "duration": 4.8,
+      "offset": 1571.72,
+      "lang": "en"
+    },
+    {
+      "text": "model I was optimized for for an",
+      "duration": 2.88,
+      "offset": 1575.36,
+      "lang": "en"
+    },
+    {
+      "text": "evaluation set combine it with a of",
+      "duration": 3.76,
+      "offset": 1576.52,
+      "lang": "en"
+    },
+    {
+      "text": "other data and then that that was pretty",
+      "duration": 3.56,
+      "offset": 1578.24,
+      "lang": "en"
+    },
+    {
+      "text": "much",
+      "duration": 4.24,
+      "offset": 1580.28,
+      "lang": "en"
+    },
+    {
+      "text": "it should we go to our lightning round",
+      "duration": 5.68,
+      "offset": 1581.8,
+      "lang": "en"
+    },
+    {
+      "text": "Oliver yeah sure no I had so many more",
+      "duration": 4.8,
+      "offset": 1584.52,
+      "lang": "en"
+    },
+    {
+      "text": "questions I would have love to dig into",
+      "duration": 3.44,
+      "offset": 1587.48,
+      "lang": "en"
+    },
+    {
+      "text": "but we need to organize another another",
+      "duration": 3.72,
+      "offset": 1589.32,
+      "lang": "en"
+    },
+    {
+      "text": "webinar 30 minutes goes",
+      "duration": 5.64,
+      "offset": 1590.92,
+      "lang": "en"
+    },
+    {
+      "text": "fast but uh but Anon we have some quick",
+      "duration": 6.92,
+      "offset": 1593.04,
+      "lang": "en"
+    },
+    {
+      "text": "Fires for you so yes or no or you choose",
+      "duration": 5.8,
+      "offset": 1596.56,
+      "lang": "en"
+    },
+    {
+      "text": "either or so let&#39;s let&#39;s start with the",
+      "duration": 7.96,
+      "offset": 1599.96,
+      "lang": "en"
+    },
+    {
+      "text": "first one open waight AI or close Source",
+      "duration": 9.12,
+      "offset": 1602.36,
+      "lang": "en"
+    },
+    {
+      "text": "AI uh yeah so I like I prefer open",
+      "duration": 5.24,
+      "offset": 1607.92,
+      "lang": "en"
+    },
+    {
+      "text": "weights",
+      "duration": 4.96,
+      "offset": 1611.48,
+      "lang": "en"
+    },
+    {
+      "text": "AI open AI or",
+      "duration": 5.76,
+      "offset": 1613.16,
+      "lang": "en"
+    },
+    {
+      "text": "anthropic that&#39;s an easy one",
+      "duration": 5.32,
+      "offset": 1616.44,
+      "lang": "en"
+    },
+    {
+      "text": "atopic people are just much",
+      "duration": 5.76,
+      "offset": 1618.92,
+      "lang": "en"
+    },
+    {
+      "text": "nicer their models are better",
+      "duration": 6.28,
+      "offset": 1621.76,
+      "lang": "en"
+    },
+    {
+      "text": "cently Yen hang or Steve",
+      "duration": 6.92,
+      "offset": 1624.68,
+      "lang": "en"
+    },
+    {
+      "text": "Jobs oh I I think I have to go with",
+      "duration": 5.68,
+      "offset": 1628.04,
+      "lang": "en"
+    },
+    {
+      "text": "Steve Jobs even though he&#39;s more crazy",
+      "duration": 5.2,
+      "offset": 1631.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh and maybe not as nice of a person um",
+      "duration": 5.32,
+      "offset": 1633.72,
+      "lang": "en"
+    },
+    {
+      "text": "because he feels he has this extreme",
+      "duration": 4.72,
+      "offset": 1636.8,
+      "lang": "en"
+    },
+    {
+      "text": "Focus whereas Jensen Hong is more L",
+      "duration": 4.0,
+      "offset": 1639.04,
+      "lang": "en"
+    },
+    {
+      "text": "Luffy guys is",
+      "duration": 4.8,
+      "offset": 1641.52,
+      "lang": "en"
+    },
+    {
+      "text": "like image that moment or attention is",
+      "duration": 6.36,
+      "offset": 1643.04,
+      "lang": "en"
+    },
+    {
+      "text": "all you need",
+      "duration": 6.76,
+      "offset": 1646.32,
+      "lang": "en"
+    },
+    {
+      "text": "attention kth or",
+      "duration": 3.68,
+      "offset": 1649.4,
+      "lang": "en"
+    },
+    {
+      "text": "Stanford I I I mean I&#39;d love to say kth",
+      "duration": 5.4,
+      "offset": 1653.16,
+      "lang": "en"
+    },
+    {
+      "text": "but you have to say",
+      "duration": 5.44,
+      "offset": 1656.6,
+      "lang": "en"
+    },
+    {
+      "text": "kth level at for is just much higher so",
+      "duration": 5.28,
+      "offset": 1658.56,
+      "lang": "en"
+    },
+    {
+      "text": "I need to borrow that here to Sweden",
+      "duration": 5.64,
+      "offset": 1662.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the that&#39;s push okay very high we",
+      "duration": 6.6,
+      "offset": 1663.84,
+      "lang": "en"
+    },
+    {
+      "text": "need to make it kth San Francisco or",
+      "duration": 7.08,
+      "offset": 1667.68,
+      "lang": "en"
+    },
+    {
+      "text": "Stockholm stockolm 100% good so",
+      "duration": 6.44,
+      "offset": 1670.44,
+      "lang": "en"
+    },
+    {
+      "text": "reinforcement learning or supervised",
+      "duration": 5.36,
+      "offset": 1674.76,
+      "lang": "en"
+    },
+    {
+      "text": "fine-tuning uh",
+      "duration": 3.24,
+      "offset": 1676.88,
+      "lang": "en"
+    },
+    {
+      "text": "uh super finding it&#39;s predictable fast",
+      "duration": 3.68,
+      "offset": 1680.28,
+      "lang": "en"
+    },
+    {
+      "text": "and",
+      "duration": 4.4,
+      "offset": 1683.16,
+      "lang": "en"
+    },
+    {
+      "text": "cheap data or",
+      "duration": 3.6,
+      "offset": 1683.96,
+      "lang": "en"
+    },
+    {
+      "text": "computes",
+      "duration": 6.44,
+      "offset": 1688.6,
+      "lang": "en"
+    },
+    {
+      "text": "data infrastructure or application",
+      "duration": 6.2,
+      "offset": 1691.0,
+      "lang": "en"
+    },
+    {
+      "text": "layer there we go",
+      "duration": 6.84,
+      "offset": 1695.04,
+      "lang": "en"
+    },
+    {
+      "text": "surprised uh will 2025 be the year of",
+      "duration": 6.28,
+      "offset": 1697.2,
+      "lang": "en"
+    },
+    {
+      "text": "Agents yes or",
+      "duration": 3.64,
+      "offset": 1701.88,
+      "lang": "en"
+    },
+    {
+      "text": "no",
+      "duration": 7.2,
+      "offset": 1703.48,
+      "lang": "en"
+    },
+    {
+      "text": "um yes the first first year the first of",
+      "duration": 8.04,
+      "offset": 1705.52,
+      "lang": "en"
+    },
+    {
+      "text": "money and the last but not least will we",
+      "duration": 4.44,
+      "offset": 1710.68,
+      "lang": "en"
+    },
+    {
+      "text": "have our first trillion dollar company",
+      "duration": 3.04,
+      "offset": 1713.56,
+      "lang": "en"
+    },
+    {
+      "text": "from Europe before",
+      "duration": 4.72,
+      "offset": 1715.12,
+      "lang": "en"
+    },
+    {
+      "text": "2030 yes I got one for you Anton are you",
+      "duration": 5.48,
+      "offset": 1716.6,
+      "lang": "en"
+    },
+    {
+      "text": "still eating mostly chia",
+      "duration": 5.56,
+      "offset": 1719.84,
+      "lang": "en"
+    },
+    {
+      "text": "seeds no I that is not the case but I",
+      "duration": 5.48,
+      "offset": 1722.08,
+      "lang": "en"
+    },
+    {
+      "text": "love you eat a lot ofes wonderful",
+      "duration": 4.64,
+      "offset": 1725.4,
+      "lang": "en"
+    },
+    {
+      "text": "questions the question was also fun but",
+      "duration": 7.4,
+      "offset": 1727.56,
+      "lang": "en"
+    },
+    {
+      "text": "wonderful questions I um yeah i&#39; love to",
+      "duration": 8.72,
+      "offset": 1730.04,
+      "lang": "en"
+    },
+    {
+      "text": "go this all explain the choices yeah",
+      "duration": 6.28,
+      "offset": 1734.96,
+      "lang": "en"
+    },
+    {
+      "text": "think I if we can just close off with",
+      "duration": 4.72,
+      "offset": 1738.76,
+      "lang": "en"
+    },
+    {
+      "text": "how can we help you right now to build",
+      "duration": 3.68,
+      "offset": 1741.24,
+      "lang": "en"
+    },
+    {
+      "text": "the project that you&#39;re building",
+      "duration": 4.44,
+      "offset": 1743.48,
+      "lang": "en"
+    },
+    {
+      "text": "including euac and and just generally",
+      "duration": 4.48,
+      "offset": 1744.92,
+      "lang": "en"
+    },
+    {
+      "text": "making Stockholm into a better place for",
+      "duration": 4.6,
+      "offset": 1747.92,
+      "lang": "en"
+    },
+    {
+      "text": "Founders yeah U no",
+      "duration": 6.44,
+      "offset": 1749.4,
+      "lang": "en"
+    },
+    {
+      "text": "so I have I have two missions now like",
+      "duration": 5.24,
+      "offset": 1752.52,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m doing with the company which is",
+      "duration": 5.04,
+      "offset": 1755.84,
+      "lang": "en"
+    },
+    {
+      "text": "to enable the 99% who never learned how",
+      "duration": 6.04,
+      "offset": 1757.76,
+      "lang": "en"
+    },
+    {
+      "text": "to code to create companies and creates",
+      "duration": 5.16,
+      "offset": 1760.88,
+      "lang": "en"
+    },
+    {
+      "text": "soft creat really really good software",
+      "duration": 5.48,
+      "offset": 1763.8,
+      "lang": "en"
+    },
+    {
+      "text": "lovable software um so so on this on the",
+      "duration": 5.28,
+      "offset": 1766.04,
+      "lang": "en"
+    },
+    {
+      "text": "second one",
+      "duration": 6.36,
+      "offset": 1769.28,
+      "lang": "en"
+    },
+    {
+      "text": "um building great companies from Europe",
+      "duration": 6.64,
+      "offset": 1771.32,
+      "lang": "en"
+    },
+    {
+      "text": "on our technology is something I&#39;d love",
+      "duration": 5.0,
+      "offset": 1775.64,
+      "lang": "en"
+    },
+    {
+      "text": "to see people do and give us feedback so",
+      "duration": 4.04,
+      "offset": 1777.96,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s both as I mentioned",
+      "duration": 2.92,
+      "offset": 1780.64,
+      "lang": "en"
+    },
+    {
+      "text": "entrepreneurs there&#39;s designers and",
+      "duration": 4.32,
+      "offset": 1782.0,
+      "lang": "en"
+    },
+    {
+      "text": "product managers love using it and and",
+      "duration": 5.2,
+      "offset": 1783.56,
+      "lang": "en"
+    },
+    {
+      "text": "everyone who&#39;s out there as a contract",
+      "duration": 4.24,
+      "offset": 1786.32,
+      "lang": "en"
+    },
+    {
+      "text": "as a consultant helping solve real",
+      "duration": 3.6,
+      "offset": 1788.76,
+      "lang": "en"
+    },
+    {
+      "text": "problems with technology they they",
+      "duration": 4.24,
+      "offset": 1790.56,
+      "lang": "en"
+    },
+    {
+      "text": "should be they could i&#39; love if they try",
+      "duration": 5.28,
+      "offset": 1792.36,
+      "lang": "en"
+    },
+    {
+      "text": "our product and give us feedback on",
+      "duration": 3.8,
+      "offset": 1794.8,
+      "lang": "en"
+    },
+    {
+      "text": "Accel",
+      "duration": 4.64,
+      "offset": 1797.64,
+      "lang": "en"
+    },
+    {
+      "text": "accelerating Europe I think physical",
+      "duration": 6.6,
+      "offset": 1798.6,
+      "lang": "en"
+    },
+    {
+      "text": "meetings talking about how we can",
+      "duration": 6.92,
+      "offset": 1802.28,
+      "lang": "en"
+    },
+    {
+      "text": "increase this the ambition level um and",
+      "duration": 6.92,
+      "offset": 1805.2,
+      "lang": "en"
+    },
+    {
+      "text": "um bringing people and talking to people",
+      "duration": 5.64,
+      "offset": 1809.2,
+      "lang": "en"
+    },
+    {
+      "text": "who have left Stockholm or or left",
+      "duration": 4.88,
+      "offset": 1812.12,
+      "lang": "en"
+    },
+    {
+      "text": "Europe to come back and build from here",
+      "duration": 3.88,
+      "offset": 1814.84,
+      "lang": "en"
+    },
+    {
+      "text": "because we have we have a insane",
+      "duration": 3.6,
+      "offset": 1817.0,
+      "lang": "en"
+    },
+    {
+      "text": "ecosystem we have a lot of really really",
+      "duration": 3.64,
+      "offset": 1818.72,
+      "lang": "en"
+    },
+    {
+      "text": "strong momentum to build from here and",
+      "duration": 4.16,
+      "offset": 1820.6,
+      "lang": "en"
+    },
+    {
+      "text": "we have like tons of capital to invest",
+      "duration": 3.28,
+      "offset": 1822.36,
+      "lang": "en"
+    },
+    {
+      "text": "in new",
+      "duration": 3.52,
+      "offset": 1824.76,
+      "lang": "en"
+    },
+    {
+      "text": "companies those are that&#39;s something I",
+      "duration": 5.2,
+      "offset": 1825.64,
+      "lang": "en"
+    },
+    {
+      "text": "love people to do",
+      "duration": 4.72,
+      "offset": 1828.28,
+      "lang": "en"
+    },
+    {
+      "text": "more agreed well thank you so much for",
+      "duration": 4.64,
+      "offset": 1830.84,
+      "lang": "en"
+    },
+    {
+      "text": "joining us Anton and um thanks to all",
+      "duration": 4.44,
+      "offset": 1833.0,
+      "lang": "en"
+    },
+    {
+      "text": "our listeners this is a really vibrant",
+      "duration": 3.76,
+      "offset": 1835.48,
+      "lang": "en"
+    },
+    {
+      "text": "conversation and great to see so many",
+      "duration": 4.44,
+      "offset": 1837.44,
+      "lang": "en"
+    },
+    {
+      "text": "folks interested in this topic uh Anton",
+      "duration": 4.2,
+      "offset": 1839.24,
+      "lang": "en"
+    },
+    {
+      "text": "you promised to show us something from",
+      "duration": 3.32,
+      "offset": 1841.88,
+      "lang": "en"
+    },
+    {
+      "text": "lovable do you want to do a quick demo",
+      "duration": 4.08,
+      "offset": 1843.44,
+      "lang": "en"
+    },
+    {
+      "text": "of a new release that you guys have",
+      "duration": 4.84,
+      "offset": 1845.2,
+      "lang": "en"
+    },
+    {
+      "text": "launched recently oh I actually I",
+      "duration": 4.32,
+      "offset": 1847.52,
+      "lang": "en"
+    },
+    {
+      "text": "promised to show something new from",
+      "duration": 6.84,
+      "offset": 1850.04,
+      "lang": "en"
+    },
+    {
+      "text": "loveable wow let me see on the spot yeah",
+      "duration": 7.6,
+      "offset": 1851.84,
+      "lang": "en"
+    },
+    {
+      "text": "of course of course",
+      "duration": 6.04,
+      "offset": 1856.88,
+      "lang": "en"
+    },
+    {
+      "text": "so I&#39;m going to show you how I create a",
+      "duration": 5.84,
+      "offset": 1859.44,
+      "lang": "en"
+    },
+    {
+      "text": "website for you for you",
+      "duration": 6.68,
+      "offset": 1862.92,
+      "lang": "en"
+    },
+    {
+      "text": "Vincent see if this works my",
+      "duration": 7.08,
+      "offset": 1865.28,
+      "lang": "en"
+    },
+    {
+      "text": "loable H and and you currently have",
+      "duration": 5.6,
+      "offset": 1869.6,
+      "lang": "en"
+    },
+    {
+      "text": "something called growth Minds yes is",
+      "duration": 6.36,
+      "offset": 1872.36,
+      "lang": "en"
+    },
+    {
+      "text": "that true I think it looks really good",
+      "duration": 5.4,
+      "offset": 1875.2,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to have a hard time making a",
+      "duration": 4.84,
+      "offset": 1878.72,
+      "lang": "en"
+    },
+    {
+      "text": "better website than uh than this",
+      "duration": 6.76,
+      "offset": 1880.6,
+      "lang": "en"
+    },
+    {
+      "text": "one but I&#39;m going to try and take a",
+      "duration": 6.6,
+      "offset": 1883.56,
+      "lang": "en"
+    },
+    {
+      "text": "screenshot and",
+      "duration": 5.64,
+      "offset": 1887.36,
+      "lang": "en"
+    },
+    {
+      "text": "say create",
+      "duration": 5.72,
+      "offset": 1890.16,
+      "lang": "en"
+    },
+    {
+      "text": "uh are you are you sharing on your",
+      "duration": 4.6,
+      "offset": 1893.0,
+      "lang": "en"
+    },
+    {
+      "text": "screen I was trying oh yeah let me add",
+      "duration": 4.88,
+      "offset": 1895.88,
+      "lang": "en"
+    },
+    {
+      "text": "it to the stage exactly I think",
+      "duration": 6.0,
+      "offset": 1897.6,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s there we go I went I went to",
+      "duration": 4.96,
+      "offset": 1900.76,
+      "lang": "en"
+    },
+    {
+      "text": "Vincent&#39;s website and I took a",
+      "duration": 4.0,
+      "offset": 1903.6,
+      "lang": "en"
+    },
+    {
+      "text": "screenshot just of the top here and I",
+      "duration": 4.72,
+      "offset": 1905.72,
+      "lang": "en"
+    },
+    {
+      "text": "said um create a new version of this",
+      "duration": 5.28,
+      "offset": 1907.6,
+      "lang": "en"
+    },
+    {
+      "text": "website with with a different theme and",
+      "duration": 5.68,
+      "offset": 1910.44,
+      "lang": "en"
+    },
+    {
+      "text": "Oliver you need to pick a a quirky theme",
+      "duration": 5.44,
+      "offset": 1912.88,
+      "lang": "en"
+    },
+    {
+      "text": "what do you like",
+      "duration": 7.44,
+      "offset": 1916.12,
+      "lang": "en"
+    },
+    {
+      "text": "uh ad is space I was going to say finish",
+      "duration": 7.2,
+      "offset": 1918.32,
+      "lang": "en"
+    },
+    {
+      "text": "sauna yeah that would actually that",
+      "duration": 3.8,
+      "offset": 1923.56,
+      "lang": "en"
+    },
+    {
+      "text": "would have been the best one yeah okay",
+      "duration": 4.4,
+      "offset": 1925.52,
+      "lang": "en"
+    },
+    {
+      "text": "so so this is this is lovable in action",
+      "duration": 5.12,
+      "offset": 1927.36,
+      "lang": "en"
+    },
+    {
+      "text": "just creating a very simple static",
+      "duration": 5.96,
+      "offset": 1929.92,
+      "lang": "en"
+    },
+    {
+      "text": "website um what it&#39;s doing now is that",
+      "duration": 5.2,
+      "offset": 1932.48,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s combining knowledge that we&#39;ve",
+      "duration": 6.0,
+      "offset": 1935.88,
+      "lang": "en"
+    },
+    {
+      "text": "encoded into the system with the rag and",
+      "duration": 7.72,
+      "offset": 1937.68,
+      "lang": "en"
+    },
+    {
+      "text": "multiple large language model calls uh",
+      "duration": 6.36,
+      "offset": 1941.88,
+      "lang": "en"
+    },
+    {
+      "text": "with the output of the the final llm",
+      "duration": 4.64,
+      "offset": 1945.4,
+      "lang": "en"
+    },
+    {
+      "text": "that we&#39;re seeing here where it&#39;s",
+      "duration": 3.64,
+      "offset": 1948.24,
+      "lang": "en"
+    },
+    {
+      "text": "figuring out first how does it want it",
+      "duration": 4.72,
+      "offset": 1950.04,
+      "lang": "en"
+    },
+    {
+      "text": "to look and then starting to write code",
+      "duration": 6.16,
+      "offset": 1951.88,
+      "lang": "en"
+    },
+    {
+      "text": "um so again this is a static website uh",
+      "duration": 8.36,
+      "offset": 1954.76,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to add um login which",
+      "duration": 7.84,
+      "offset": 1958.04,
+      "lang": "en"
+    },
+    {
+      "text": "requires a backend or you want to add",
+      "duration": 4.48,
+      "offset": 1963.12,
+      "lang": "en"
+    },
+    {
+      "text": "data persistence which you which you",
+      "duration": 3.16,
+      "offset": 1965.88,
+      "lang": "en"
+    },
+    {
+      "text": "will need if you&#39;re building a real",
+      "duration": 4.6,
+      "offset": 1967.6,
+      "lang": "en"
+    },
+    {
+      "text": "product then you connect an open source",
+      "duration": 4.8,
+      "offset": 1969.04,
+      "lang": "en"
+    },
+    {
+      "text": "back in a service which is called super",
+      "duration": 4.64,
+      "offset": 1972.2,
+      "lang": "en"
+    },
+    {
+      "text": "based by just uh creating a project and",
+      "duration": 4.56,
+      "offset": 1973.84,
+      "lang": "en"
+    },
+    {
+      "text": "then clicking connect",
+      "duration": 3.36,
+      "offset": 1976.84,
+      "lang": "en"
+    },
+    {
+      "text": "so that&#39;s how lavable works on super",
+      "duration": 4.24,
+      "offset": 1978.4,
+      "lang": "en"
+    },
+    {
+      "text": "high level uh if you want to edit the",
+      "duration": 5.28,
+      "offset": 1980.2,
+      "lang": "en"
+    },
+    {
+      "text": "code manually you can you can do that by",
+      "duration": 6.12,
+      "offset": 1982.64,
+      "lang": "en"
+    },
+    {
+      "text": "moving it to your GitHub and then open",
+      "duration": 7.64,
+      "offset": 1985.48,
+      "lang": "en"
+    },
+    {
+      "text": "it in any um BS code any code editor or",
+      "duration": 7.0,
+      "offset": 1988.76,
+      "lang": "en"
+    },
+    {
+      "text": "even open it here in the browser so so",
+      "duration": 4.6,
+      "offset": 1993.12,
+      "lang": "en"
+    },
+    {
+      "text": "so that&#39;s just a super quick level of",
+      "duration": 3.72,
+      "offset": 1995.76,
+      "lang": "en"
+    },
+    {
+      "text": "lovable when you&#39;re done you can publish",
+      "duration": 4.76,
+      "offset": 1997.72,
+      "lang": "en"
+    },
+    {
+      "text": "it so here we have a retro space and",
+      "duration": 6.2,
+      "offset": 1999.48,
+      "lang": "en"
+    },
+    {
+      "text": "that this is um not something that I",
+      "duration": 6.32,
+      "offset": 2002.48,
+      "lang": "en"
+    },
+    {
+      "text": "think surprises you it looks",
+      "duration": 6.36,
+      "offset": 2005.68,
+      "lang": "en"
+    },
+    {
+      "text": "acceptable UI UI wise and what you",
+      "duration": 6.64,
+      "offset": 2008.8,
+      "lang": "en"
+    },
+    {
+      "text": "typically do is to ask for um adding",
+      "duration": 7.24,
+      "offset": 2012.04,
+      "lang": "en"
+    },
+    {
+      "text": "more add more of the content on the",
+      "duration": 8.04,
+      "offset": 2015.44,
+      "lang": "en"
+    },
+    {
+      "text": "website right and I can copy",
+      "duration": 6.96,
+      "offset": 2019.28,
+      "lang": "en"
+    },
+    {
+      "text": "everything to to get version number two",
+      "duration": 5.28,
+      "offset": 2023.48,
+      "lang": "en"
+    },
+    {
+      "text": "and and every time you do this it takes",
+      "duration": 5.2,
+      "offset": 2026.24,
+      "lang": "en"
+    },
+    {
+      "text": "a bit of time everyone has in lovable",
+      "duration": 5.16,
+      "offset": 2028.76,
+      "lang": "en"
+    },
+    {
+      "text": "not surprice so far but now I&#39;m going to",
+      "duration": 3.32,
+      "offset": 2031.44,
+      "lang": "en"
+    },
+    {
+      "text": "show",
+      "duration": 5.28,
+      "offset": 2033.92,
+      "lang": "en"
+    },
+    {
+      "text": "you something new",
+      "duration": 7.84,
+      "offset": 2034.76,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s let&#39;s first wait with the the",
+      "duration": 6.68,
+      "offset": 2039.2,
+      "lang": "en"
+    },
+    {
+      "text": "the change that I I asked for now um",
+      "duration": 4.56,
+      "offset": 2042.6,
+      "lang": "en"
+    },
+    {
+      "text": "Vincent what do you think about the",
+      "duration": 3.76,
+      "offset": 2045.88,
+      "lang": "en"
+    },
+    {
+      "text": "website so far do you like it it looks",
+      "duration": 4.12,
+      "offset": 2047.16,
+      "lang": "en"
+    },
+    {
+      "text": "great by all of her standards I would",
+      "duration": 4.12,
+      "offset": 2049.64,
+      "lang": "en"
+    },
+    {
+      "text": "still of course prefer some some Leu and",
+      "duration": 6.32,
+      "offset": 2051.28,
+      "lang": "en"
+    },
+    {
+      "text": "some uh sort of reads to slap with the",
+      "duration": 8.36,
+      "offset": 2053.76,
+      "lang": "en"
+    },
+    {
+      "text": "Finish SAA theme80s 80s Space theme X",
+      "duration": 6.68,
+      "offset": 2057.6,
+      "lang": "en"
+    },
+    {
+      "text": "finish SAA that that&#39;s got to be a first",
+      "duration": 6.16,
+      "offset": 2062.12,
+      "lang": "en"
+    },
+    {
+      "text": "one that combo but it&#39;s looking great",
+      "duration": 6.24,
+      "offset": 2064.28,
+      "lang": "en"
+    },
+    {
+      "text": "this this and this this would take me",
+      "duration": 3.76,
+      "offset": 2068.28,
+      "lang": "en"
+    },
+    {
+      "text": "way longer to design even in one of",
+      "duration": 3.36,
+      "offset": 2070.52,
+      "lang": "en"
+    },
+    {
+      "text": "these abstraction products like",
+      "duration": 4.0,
+      "offset": 2072.04,
+      "lang": "en"
+    },
+    {
+      "text": "Squarespace right right what do you",
+      "duration": 3.76,
+      "offset": 2073.88,
+      "lang": "en"
+    },
+    {
+      "text": "think about that it says Retros space",
+      "duration": 3.52,
+      "offset": 2076.04,
+      "lang": "en"
+    },
+    {
+      "text": "here for your website well that&#39;s that&#39;s",
+      "duration": 4.08,
+      "offset": 2077.64,
+      "lang": "en"
+    },
+    {
+      "text": "clearly not the brand so we&#39;d have to",
+      "duration": 4.56,
+      "offset": 2079.56,
+      "lang": "en"
+    },
+    {
+      "text": "change that so we need to change that",
+      "duration": 4.28,
+      "offset": 2081.72,
+      "lang": "en"
+    },
+    {
+      "text": "and typically what you would do with",
+      "duration": 4.4,
+      "offset": 2084.12,
+      "lang": "en"
+    },
+    {
+      "text": "with lavable today is that you select",
+      "duration": 4.64,
+      "offset": 2086.0,
+      "lang": "en"
+    },
+    {
+      "text": "this element and you say change it but",
+      "duration": 3.84,
+      "offset": 2088.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to show you something",
+      "duration": 4.36,
+      "offset": 2090.64,
+      "lang": "en"
+    },
+    {
+      "text": "new I&#39;m going to click edit here and",
+      "duration": 5.52,
+      "offset": 2092.36,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;m going to select an element let",
+      "duration": 3.84,
+      "offset": 2095.0,
+      "lang": "en"
+    },
+    {
+      "text": "me zoom",
+      "duration": 2.8,
+      "offset": 2097.88,
+      "lang": "en"
+    },
+    {
+      "text": "zoom and",
+      "duration": 4.36,
+      "offset": 2098.84,
+      "lang": "en"
+    },
+    {
+      "text": "then this is very much research preview",
+      "duration": 4.6,
+      "offset": 2100.68,
+      "lang": "en"
+    },
+    {
+      "text": "very much research",
+      "duration": 5.64,
+      "offset": 2103.2,
+      "lang": "en"
+    },
+    {
+      "text": "preview what I will do is that I&#39;ll see",
+      "duration": 6.76,
+      "offset": 2105.28,
+      "lang": "en"
+    },
+    {
+      "text": "if I can edit the text on one of the",
+      "duration": 6.24,
+      "offset": 2108.84,
+      "lang": "en"
+    },
+    {
+      "text": "specific elements",
+      "duration": 3.04,
+      "offset": 2112.04,
+      "lang": "en"
+    },
+    {
+      "text": "here tables what you instead of having",
+      "duration": 8.32,
+      "offset": 2115.44,
+      "lang": "en"
+    },
+    {
+      "text": "to ask Ed it uh I can say something like",
+      "duration": 8.32,
+      "offset": 2119.44,
+      "lang": "en"
+    },
+    {
+      "text": "great Community I thought I can say",
+      "duration": 7.36,
+      "offset": 2123.76,
+      "lang": "en"
+    },
+    {
+      "text": "can&#39;t edit ex I apparently this this is",
+      "duration": 5.2,
+      "offset": 2127.76,
+      "lang": "en"
+    },
+    {
+      "text": "not fully ready for release things",
+      "duration": 4.4,
+      "offset": 2131.12,
+      "lang": "en"
+    },
+    {
+      "text": "production but you can you can imagine",
+      "duration": 5.08,
+      "offset": 2132.96,
+      "lang": "en"
+    },
+    {
+      "text": "what that&#39;s that&#39;s fantastic I mean this",
+      "duration": 3.88,
+      "offset": 2135.52,
+      "lang": "en"
+    },
+    {
+      "text": "is exactly the problem people have had",
+      "duration": 3.04,
+      "offset": 2138.04,
+      "lang": "en"
+    },
+    {
+      "text": "with AI images for a long time is that",
+      "duration": 5.56,
+      "offset": 2139.4,
+      "lang": "en"
+    },
+    {
+      "text": "if you try to make small changes it will",
+      "duration": 5.52,
+      "offset": 2141.08,
+      "lang": "en"
+    },
+    {
+      "text": "Everything Changes not just the one",
+      "duration": 2.92,
+      "offset": 2144.96,
+      "lang": "en"
+    },
+    {
+      "text": "small thing that you&#39;re highlighting",
+      "duration": 3.64,
+      "offset": 2146.6,
+      "lang": "en"
+    },
+    {
+      "text": "basically exactly yeah it breaks too",
+      "duration": 4.08,
+      "offset": 2147.88,
+      "lang": "en"
+    },
+    {
+      "text": "easily that&#39;s nice that that&#39;s a good",
+      "duration": 3.64,
+      "offset": 2150.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s good there&#39;s no underlying logic",
+      "duration": 5.84,
+      "offset": 2151.96,
+      "lang": "en"
+    },
+    {
+      "text": "of the universe in that sense yeah wow",
+      "duration": 6.8,
+      "offset": 2153.88,
+      "lang": "en"
+    },
+    {
+      "text": "were not with me 100% Today to to change",
+      "duration": 5.96,
+      "offset": 2157.8,
+      "lang": "en"
+    },
+    {
+      "text": "the retr space text but next demo you",
+      "duration": 5.04,
+      "offset": 2160.68,
+      "lang": "en"
+    },
+    {
+      "text": "see of this Vincent you&#39;re going to have",
+      "duration": 5.68,
+      "offset": 2163.76,
+      "lang": "en"
+    },
+    {
+      "text": "a perfect growth Minds space Vibe H",
+      "duration": 6.12,
+      "offset": 2165.72,
+      "lang": "en"
+    },
+    {
+      "text": "website thanks so much for demoing this",
+      "duration": 4.72,
+      "offset": 2169.44,
+      "lang": "en"
+    },
+    {
+      "text": "man and takes a lot of courage to do",
+      "duration": 4.36,
+      "offset": 2171.84,
+      "lang": "en"
+    },
+    {
+      "text": "that in front of the 300 people we had",
+      "duration": 3.4,
+      "offset": 2174.16,
+      "lang": "en"
+    },
+    {
+      "text": "sign up for this",
+      "duration": 3.96,
+      "offset": 2176.2,
+      "lang": "en"
+    },
+    {
+      "text": "event and thanks so much for for joining",
+      "duration": 4.08,
+      "offset": 2177.56,
+      "lang": "en"
+    },
+    {
+      "text": "and for spending a little bit of time as",
+      "duration": 3.36,
+      "offset": 2180.16,
+      "lang": "en"
+    },
+    {
+      "text": "you promis I know that uh we&#39;re grateful",
+      "duration": 3.24,
+      "offset": 2181.64,
+      "lang": "en"
+    },
+    {
+      "text": "to have you and and I think we actually",
+      "duration": 3.64,
+      "offset": 2183.52,
+      "lang": "en"
+    },
+    {
+      "text": "managed to over 3x increase the Audience",
+      "duration": 4.72,
+      "offset": 2184.88,
+      "lang": "en"
+    },
+    {
+      "text": "by uh by waiting a few days here so good",
+      "duration": 4.48,
+      "offset": 2187.16,
+      "lang": "en"
+    },
+    {
+      "text": "call on that one as well awesome it was",
+      "duration": 3.8,
+      "offset": 2189.6,
+      "lang": "en"
+    },
+    {
+      "text": "a pleasure to chat with both of you and",
+      "duration": 3.32,
+      "offset": 2191.64,
+      "lang": "en"
+    },
+    {
+      "text": "this what I just showed you now it&#39;s",
+      "duration": 3.76,
+      "offset": 2193.4,
+      "lang": "en"
+    },
+    {
+      "text": "going to be two weeks until you see this",
+      "duration": 3.88,
+      "offset": 2194.96,
+      "lang": "en"
+    },
+    {
+      "text": "in action but if you&#39;re on the scale",
+      "duration": 3.92,
+      "offset": 2197.16,
+      "lang": "en"
+    },
+    {
+      "text": "plan you might you will get Early Access",
+      "duration": 5.48,
+      "offset": 2198.84,
+      "lang": "en"
+    },
+    {
+      "text": "here that&#39;s my obligatory mandatory plug",
+      "duration": 6.08,
+      "offset": 2201.08,
+      "lang": "en"
+    },
+    {
+      "text": "for great clarifying the the bugs in the",
+      "duration": 4.72,
+      "offset": 2204.32,
+      "lang": "en"
+    },
+    {
+      "text": "current version",
+      "duration": 4.12,
+      "offset": 2207.16,
+      "lang": "en"
+    },
+    {
+      "text": "um it was a pleasure to chat I&#39;m looking",
+      "duration": 4.72,
+      "offset": 2209.04,
+      "lang": "en"
+    },
+    {
+      "text": "forward to more of this ex exactly thank",
+      "duration": 4.52,
+      "offset": 2211.28,
+      "lang": "en"
+    },
+    {
+      "text": "you guys so much and Oliver folks can",
+      "duration": 3.8,
+      "offset": 2213.76,
+      "lang": "en"
+    },
+    {
+      "text": "follow you on LinkedIn you have over",
+      "duration": 4.04,
+      "offset": 2215.8,
+      "lang": "en"
+    },
+    {
+      "text": "56,000 followers of course antton I",
+      "duration": 4.08,
+      "offset": 2217.56,
+      "lang": "en"
+    },
+    {
+      "text": "believe you guys did a sort of back",
+      "duration": 3.64,
+      "offset": 2219.84,
+      "lang": "en"
+    },
+    {
+      "text": "smokey room deal where Anton gets",
+      "duration": 3.48,
+      "offset": 2221.64,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter and Oliver gets LinkedIn but",
+      "duration": 2.88,
+      "offset": 2223.48,
+      "lang": "en"
+    },
+    {
+      "text": "Anton you&#39;re also quite active in",
+      "duration": 3.88,
+      "offset": 2225.12,
+      "lang": "en"
+    },
+    {
+      "text": "LinkedIn and then you guys can follow",
+      "duration": 4.68,
+      "offset": 2226.36,
+      "lang": "en"
+    },
+    {
+      "text": "the growth Minds community on LinkedIn",
+      "duration": 3.28,
+      "offset": 2229.0,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re obviously hosting the event here",
+      "duration": 2.6,
+      "offset": 2231.04,
+      "lang": "en"
+    },
+    {
+      "text": "and we appreciate all the new followers",
+      "duration": 2.96,
+      "offset": 2232.28,
+      "lang": "en"
+    },
+    {
+      "text": "that have come in and if you&#39;re a leader",
+      "duration": 4.08,
+      "offset": 2233.64,
+      "lang": "en"
+    },
+    {
+      "text": "looking to join our communities uh apply",
+      "duration": 5.08,
+      "offset": 2235.24,
+      "lang": "en"
+    },
+    {
+      "text": "on our website and maybe we will have a",
+      "duration": 5.36,
+      "offset": 2237.72,
+      "lang": "en"
+    },
+    {
+      "text": "new lovable site as soon as this new",
+      "duration": 4.64,
+      "offset": 2240.32,
+      "lang": "en"
+    },
+    {
+      "text": "release is launched so thank you",
+      "duration": 3.6,
+      "offset": 2243.08,
+      "lang": "en"
+    },
+    {
+      "text": "everyone have a great day we&#39;ll see you",
+      "duration": 5.24,
+      "offset": 2244.96,
+      "lang": "en"
+    },
+    {
+      "text": "next time thanks guys bye thanks for",
+      "duration": 5.24,
+      "offset": 2246.68,
+      "lang": "en"
+    },
+    {
+      "text": "watching this recording was brought to",
+      "duration": 4.28,
+      "offset": 2250.2,
+      "lang": "en"
+    },
+    {
+      "text": "you by growth Minds if you&#39;re a Founder",
+      "duration": 4.96,
+      "offset": 2251.92,
+      "lang": "en"
+    },
+    {
+      "text": "executive or board member navigating the",
+      "duration": 4.6,
+      "offset": 2254.48,
+      "lang": "en"
+    },
+    {
+      "text": "challenges of scaling a company and you",
+      "duration": 4.04,
+      "offset": 2256.88,
+      "lang": "en"
+    },
+    {
+      "text": "would benefit from a community of people",
+      "duration": 3.32,
+      "offset": 2259.08,
+      "lang": "en"
+    },
+    {
+      "text": "who are committed to improving",
+      "duration": 3.2,
+      "offset": 2260.92,
+      "lang": "en"
+    },
+    {
+      "text": "themselves so that they can improve",
+      "duration": 4.12,
+      "offset": 2262.4,
+      "lang": "en"
+    },
+    {
+      "text": "Society take a look at our website and",
+      "duration": 6.12,
+      "offset": 2264.12,
+      "lang": "en"
+    },
+    {
+      "text": "apply at growths",
+      "duration": 3.72,
+      "offset": 2266.52,
+      "lang": "en"
+    }
+  ]
+}

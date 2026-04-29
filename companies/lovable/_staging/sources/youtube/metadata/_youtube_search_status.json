@@ -1,0 +1,4668 @@
+{
+  "ticker": "LOVABLE",
+  "generated_at": "2026-04-22T16:29:28",
+  "queries": [
+    "Lovable Anton Osika podcast",
+    "Lovable Anton Osika interview",
+    "Lovable 20VC Anton Osika",
+    "Lovable Lenny 10M ARR",
+    "Lovable AI app builder podcast",
+    "Lovable vibe coding podcast",
+    "Anton Osika Lovable podcast",
+    "Lovable CEO Anton Osika",
+    "Lovable Lenny 10M ARR 60 days",
+    "Lovable AI app builder interview",
+    "Lovable Agent product demo",
+    "Lovable enterprise AI app builder",
+    "Lovable vibe coding",
+    "Lovable 2.0 honest review",
+    "Lovable prototype to production",
+    "GPT Engineer Lovable Anton Osika",
+    "Lovable interview",
+    "Lovable.dev interview",
+    "Lovable Labs interview",
+    "GPT Engineer interview",
+    "Lovable Agent interview",
+    "Lovable 2.0 interview",
+    "Lovable Cloud interview",
+    "Lovable Teams interview",
+    "vibe coding interview",
+    "AI app builder interview",
+    "Anton Osika interview"
+  ],
+  "search_provider_order": [
+    "rapidapi_metadata_search",
+    "yt_dlp_search"
+  ],
+  "rapidapi_key_present": true,
+  "api_request_counts": {
+    "rapidapi_metadata_search_calls": 27
+  },
+  "statuses": [
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Anton Osika podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:53"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Anton Osika podcast",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:27:52",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Anton Osika podcast",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:27:56"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:27:57"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Anton Osika interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:27:56",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Anton Osika interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:27:59"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:00"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable 20VC Anton Osika",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:27:59",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable 20VC Anton Osika",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:03"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Lenny 10M ARR",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:02",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Lenny 10M ARR",
+      "status": "success",
+      "results": 3,
+      "generated_at": "2026-04-22T16:28:08"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable AI app builder podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:09"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable AI app builder podcast",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:08",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable AI app builder podcast",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:11"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable vibe coding podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:12"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable vibe coding podcast",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:11",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable vibe coding podcast",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Anton Osika Lovable podcast",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:17"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Anton Osika Lovable podcast",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:15",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Anton Osika Lovable podcast",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:19"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable CEO Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:20"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable CEO Anton Osika",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:19",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable CEO Anton Osika",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:23"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:23",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Lenny 10M ARR 60 days",
+      "status": "no_results",
+      "results": 0,
+      "generated_at": "2026-04-22T16:28:26"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:27"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable AI app builder interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:26",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable AI app builder interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:29"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Agent product demo",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:30"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Agent product demo",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:29",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Agent product demo",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:32"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable enterprise AI app builder",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:33"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable enterprise AI app builder",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:32",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable enterprise AI app builder",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:35"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable vibe coding",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:36"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable vibe coding",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:35",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable vibe coding",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:39"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable 2.0 honest review",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:40"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable 2.0 honest review",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:39",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable 2.0 honest review",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:43"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable prototype to production",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:44"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable prototype to production",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:43",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable prototype to production",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:47"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:48"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:47",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "GPT Engineer Lovable Anton Osika",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:50"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:51"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:50",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:53"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable.dev interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:54"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable.dev interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:53",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable.dev interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:28:57"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Labs interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:28:58"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Labs interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:28:57",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Labs interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:01"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "GPT Engineer interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:02"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "GPT Engineer interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:01",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "GPT Engineer interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:04"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Agent interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:05"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Agent interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:04",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Agent interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:07"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable 2.0 interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:09"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable 2.0 interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:07",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable 2.0 interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:11"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Cloud interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:12"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Cloud interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:11",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Cloud interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:14"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Lovable Teams interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:15"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Lovable Teams interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:14",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Lovable Teams interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "vibe coding interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:18"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "vibe coding interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:18",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "vibe coding interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:21"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "AI app builder interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:22"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "AI app builder interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:21",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "AI app builder interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:24"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2Mb82fVUGU",
+      "title": "El Primo",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-aUMwgjoFXU",
+      "title": "The Villest",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bR-pEls1nY",
+      "title": "BELINDA",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-bcH9FSz4JE",
+      "title": "CATNAP RETURNS!!! (Poppy Playtime Chapter 5)",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-zQ_RhrBqtY",
+      "title": "The Rings of Power Season 3 (2026) - Morfydd Clark, Charlie Vickers | It's not over yet.",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-0RTlC1zrsg",
+      "title": "From the Community to Our Walls ⚡ Fan Art at Supercell HQ",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-1xe3r6N_bE",
+      "title": "Brinco La Liebre",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-GR2rTpiqHA",
+      "title": "Minecraft's Smartest Player",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "0-BjtcWglrk",
+      "title": "John Wick: Chapter 5 (2026) - Keanu Reeves, Jason Statham | Concept Trailer",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-wuDAsZn9tY",
+      "title": "El Verde Es Vida (En Vivo)",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-2F4VLEgVcI",
+      "title": "Life Sentence",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "provider": "rapidapi_metadata_search",
+      "record_type": "rejected_candidate",
+      "video_id": "-utntGfAYt8",
+      "title": "Karamo’s Mom Overheard Queer Eye Cast Talking Crap About Him?!",
+      "query": "Anton Osika interview",
+      "status": "filtered_low_confidence_rapidapi",
+      "match_count": 0,
+      "generated_at": "2026-04-22T16:29:25"
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "rapidapi_metadata_search",
+      "query": "Anton Osika interview",
+      "host": "youtube-transcript-metadata-search.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:29:24",
+      "ok": true,
+      "status": "success",
+      "status_code": 200,
+      "results": 12,
+      "filtered_low_confidence": 12
+    },
+    {
+      "record_type": "provider_call",
+      "provider": "yt_dlp_search",
+      "query": "Anton Osika interview",
+      "status": "success",
+      "results": 8,
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "id": "9bJokltTmWY",
+      "title": "Anton Osika Morning Routine- How Lovable Founder Starts His Day | Antler Global",
+      "duration": 194.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kHwRKVLEP-w",
+      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
+      "duration": 397.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "mp_lr9zGF_k",
+      "title": "Anton, Marius & Harry on Work-Life Balance, Sacrifice & Startup Life | Antler Global",
+      "duration": 211.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "ohOXowwNPsw",
+      "title": "This Week in Unicorn Companies | Key Deals and Moves",
+      "duration": 260.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "57jZJ2QpKRg",
+      "title": "HAPPY BIRTHDAY INSTRUMENTAL",
+      "duration": 83.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kHwRKVLEP-w",
+      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
+      "duration": 397.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kWO0Krq_51c",
+      "title": "Anton Osika & Fabian Hedin | Lovable",
+      "duration": 23.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "BOxVfsMuQAM",
+      "title": "I Built a Real Mock Interview App with Lovable AI (Voice + Feedback Report)",
+      "duration": 386.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kcOrTOT7Kko",
+      "title": "Introducing Lovable Cloud & AI",
+      "duration": 113.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "CP5oEn3uz-A",
+      "title": "Product Demo: Lovable for Voice AI Agent",
+      "duration": 248.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "xDwR1_vrIg8",
+      "title": "Lovable 2.0 is here. Multiplayer vibe coding. Smarter & more secure.",
+      "duration": 81.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kcOrTOT7Kko",
+      "title": "Introducing Lovable Cloud & AI",
+      "duration": 113.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "KmWfsbjj2FI",
+      "title": "Lovable Vibe Coding Crash Course 2026",
+      "duration": 387.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "LxrV_U9TKdc",
+      "title": "Lovable AI Review - Is It Worth Trying?",
+      "duration": 169.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "ySrTKJQ-UyE",
+      "title": "What Went Wrong with Lovable 2.0 : Our Honest Review (2025)",
+      "duration": 424.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "AXO-tZOAc_w",
+      "title": "Lovable Honest Review - Is it worth it? (2025 Guide)",
+      "duration": 221.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "SNvZVE7CmXI",
+      "title": "Base44 vs Lovable (2026): Which AI Builder Is Worth It?",
+      "duration": 143.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "KuW9jhRV1pQ",
+      "title": "Lovable Vs Cursor AI: I Used Both! Here’s What Happened",
+      "duration": 114.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "qiFFSw7PST4",
+      "title": "Vibe Coding in Lovable to Production Ready with Postman Agent Mode",
+      "duration": 297.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "xhW9up0Gi2E",
+      "title": "Lovable – An AI Full-Stack Engineer",
+      "duration": 89.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "qDHJfFkRjVg",
+      "title": "Should you apply to Lovable?",
+      "duration": 213.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kHwRKVLEP-w",
+      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
+      "duration": 397.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "qDHJfFkRjVg",
+      "title": "Should you apply to Lovable?",
+      "duration": 213.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "BOxVfsMuQAM",
+      "title": "I Built a Real Mock Interview App with Lovable AI (Voice + Feedback Report)",
+      "duration": 386.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "e6JisS9tEtY",
+      "title": "OpenAI Interview Experience | $500K+ Compensation | Rounds, Process, System Design, Preparation Tips",
+      "duration": 567.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "tmJdy5F6L8Q",
+      "title": "7 ChatGPT Job Interview Prompts To Land Any Job",
+      "duration": 407.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "jW1zNBGnOKw",
+      "title": "POV you get caught using ChatGPT during a job interview",
+      "duration": 155.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "WAUnmQt2Z7Y",
+      "title": "AI CEO vs Engineer (2026).",
+      "duration": 288.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "BOxVfsMuQAM",
+      "title": "I Built a Real Mock Interview App with Lovable AI (Voice + Feedback Report)",
+      "duration": 386.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "qDHJfFkRjVg",
+      "title": "Should you apply to Lovable?",
+      "duration": 213.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "BOxVfsMuQAM",
+      "title": "I Built a Real Mock Interview App with Lovable AI (Voice + Feedback Report)",
+      "duration": 386.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "E6w_sY-nl5M",
+      "title": "Perplexity CEO on new 'Personal Computer': A digital worker on the cloud with access to your data",
+      "duration": 456.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "j14UmgGMO0U",
+      "title": "Timescale Co-founder & CTO, Mike Freedman Interviews With Nasdaq",
+      "duration": 241.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "ZAeVsayL4IM",
+      "title": "How to Use Lovable Cloud and AI to develop a Website",
+      "duration": 374.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "JeNS1ZNHQs8",
+      "title": "Interview with Vibe Coder in 2025",
+      "duration": 357.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "OsN_MJopMxc",
+      "title": "How I Built A $1.4 Million/Month AI App At Age 18",
+      "duration": 556.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "kHwRKVLEP-w",
+      "title": "Lovable CEO Says Next $100 Billion Tech Firm Could Be Swedish",
+      "duration": 397.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "id": "-sxq4s42NDc",
+      "title": "Why European Startups Are Taking Over Tech (Anton Osika, Lovable) | Antler Global",
+      "duration": 191.0,
+      "status": "filtered_short_duration"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "Hwn_ThgWduw",
+      "video_id": "Hwn_ThgWduw",
+      "title": "I Asked An AI Billionaire How To Start A Business (10 Steps)",
+      "channel": "Simon Squibb",
+      "duration": 895.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "GPT Engineer Lovable Anton Osika",
+        "Lovable Agent interview",
+        "Lovable 2.0 interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "L9KvV_UOs3A",
+      "video_id": "L9KvV_UOs3A",
+      "title": "Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo",
+      "channel": "Lenny's Podcast",
+      "duration": 5511.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable 20VC Anton Osika"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "ja6fWTDPQl4",
+      "video_id": "ja6fWTDPQl4",
+      "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody",
+      "channel": "Lenny's Podcast",
+      "duration": 4028.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable 20VC Anton Osika"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "37fKFWdrMyA",
+      "video_id": "37fKFWdrMyA",
+      "title": "$1M to $10M: The enterprise sales playbook with Jen Abel",
+      "channel": "Lenny's Podcast",
+      "duration": 4896.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable Lenny 10M ARR"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "lenny"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "RmnWHz8HD74",
+      "video_id": "RmnWHz8HD74",
+      "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
+      "channel": "Lenny's Podcast",
+      "duration": 5162.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable Lenny 10M ARR"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "lenny"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "0XNkUdzxiZI",
+      "video_id": "0XNkUdzxiZI",
+      "title": "The rise of the professional vibe coder (a new AI-era job)",
+      "channel": "Lenny's Podcast",
+      "duration": 6151.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable vibe coding podcast",
+        "Lovable vibe coding",
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "Qu2Ej3eRRmE",
+      "video_id": "Qu2Ej3eRRmE",
+      "title": "Vibe Coding's Uncanny Valley [Alexandre Pesant] - 752",
+      "channel": "The TWIML AI Podcast with Sam Charrington",
+      "duration": 4327.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable vibe coding podcast"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "iLCDSY2XX7E",
+      "video_id": "iLCDSY2XX7E",
+      "title": "Vibe Coding Fundamentals In 33 minutes",
+      "channel": "Tina Huang",
+      "duration": 2003.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable vibe coding podcast",
+        "Lovable vibe coding",
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "1em64iUFt3U",
+      "video_id": "1em64iUFt3U",
+      "title": "How a Meta PM ships products without ever writing code | Zevi Arnovitz",
+      "channel": "Lenny's Podcast",
+      "duration": 4513.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "Lovable vibe coding podcast"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "xj5Nf0-S4_0",
+      "video_id": "xj5Nf0-S4_0",
+      "title": "Design ChatGPT | ML Engineer & AI Engineer Interview Question",
+      "channel": "DataInterview",
+      "duration": 1611.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "GPT Engineer interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "engineer"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "5yHR1_2Y6bs",
+      "video_id": "5yHR1_2Y6bs",
+      "title": "Design ChatGPT - Top Interview Question in OpenAI & Anthropic",
+      "channel": "ShowOffer - Tech Interview Coaching Platform",
+      "duration": 5088.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "GPT Engineer interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "SnO34X1qriY",
+      "video_id": "SnO34X1qriY",
+      "title": "How I Prepared for AI Engineer Interview at ARM | AI Engineer Technical & Behavioral Mock Interview",
+      "channel": "Atul @ K21Academy",
+      "duration": 2498.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "GPT Engineer interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "engineer"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "I9-PUPYZyiw",
+      "video_id": "I9-PUPYZyiw",
+      "title": "Design ChatGPT - System Design Mock Interview (with eBay EM)",
+      "channel": "Exponent",
+      "duration": 2114.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "GPT Engineer interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "RHbxWWW5VLQ",
+      "video_id": "RHbxWWW5VLQ",
+      "title": "Vibe Coding Masterclass | Senior Product Manager Mock Interview",
+      "channel": "Exponent",
+      "duration": 4739.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "Yzznpt_lvLQ",
+      "video_id": "Yzznpt_lvLQ",
+      "title": "Interviews, Competitive Programming & Vibe Coding (w Ex-Google Competitive Programmer)",
+      "channel": "NeetCodeIO and Qiqi Impact",
+      "duration": 3699.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "5XkytP39BUY",
+      "video_id": "5XkytP39BUY",
+      "title": "Weekly FREE AIPM Classes - How to crack live VIBE CODING Interviews",
+      "channel": "Agentic AI Institute",
+      "duration": 1698.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "7s9C92Pkcc0",
+      "video_id": "7s9C92Pkcc0",
+      "title": "Rick Rubin: Vibe Coding is the Punk Rock of Software",
+      "channel": "a16z",
+      "duration": 4699.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 2.0,
+        "term_hits": [],
+        "query_hits": [
+          "vibe",
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "FNL61tvwBUg",
+      "video_id": "FNL61tvwBUg",
+      "title": "How To Pass Coding Interviews Like the Top 1%",
+      "channel": "Tech With Tim",
+      "duration": 1059.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "vibe coding interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "coding"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "3ECBrK2No3w",
+      "video_id": "3ECBrK2No3w",
+      "title": "Apsy: The first AI App Builder",
+      "channel": "LilaMax Media",
+      "duration": 901.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "builder"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "mGMDyPTR7QU",
+      "video_id": "mGMDyPTR7QU",
+      "title": "The 23-year-old That Made $2.4M with His FIRST App",
+      "channel": "Brett Malinowski",
+      "duration": 6445.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "8GK8R77Bd7g",
+      "video_id": "8GK8R77Bd7g",
+      "title": "Full Stack AI App: Build a Real-Time Voice Agent Interview Platform",
+      "channel": "JavaScript Mastery",
+      "duration": 13945.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "QkKeu1AyCQ0",
+      "video_id": "QkKeu1AyCQ0",
+      "title": "Emergent: The AI App Builder for Everyone",
+      "channel": "YC Root Access",
+      "duration": 1268.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 1.0,
+        "term_hits": [],
+        "query_hits": [
+          "builder"
+        ],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "Lnkv0-GLU3w",
+      "video_id": "Lnkv0-GLU3w",
+      "title": "Google AI Studio: Build, Test & Deploy a Real AI App (Full Guide)",
+      "channel": "Eric Tech",
+      "duration": 844.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    },
+    {
+      "record_type": "rejected_candidate",
+      "id": "VfNRd5Rk0cM",
+      "video_id": "VfNRd5Rk0cM",
+      "title": "This app made over $1M",
+      "channel": "Starter Story",
+      "duration": 916.0,
+      "status": "filtered_metadata_relevance",
+      "source_queries": [
+        "AI app builder interview"
+      ],
+      "search_providers": [
+        "yt_dlp_search"
+      ],
+      "metadata_relevance": {
+        "is_relevant": false,
+        "score": 0.0,
+        "term_hits": [],
+        "query_hits": [],
+        "excluded_hits": [],
+        "reason": "no_required_term_hit"
+      },
+      "generated_at": "2026-04-22T16:29:28"
+    }
+  ]
+}

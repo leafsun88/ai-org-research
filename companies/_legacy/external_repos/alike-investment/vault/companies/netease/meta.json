@@ -1,0 +1,10 @@
+{
+  "name": "网易",
+  "name_en": "NetEase",
+  "tickers": ["9999.HK", "NTES"],
+  "sector": "Gaming/Music/Education",
+  "tags": ["gaming", "music", "education", "Youdao", "China", "Marvel-Rivals"],
+  "dimensions": ["discovery", "leadership", "org", "notes"],
+  "created": "2026-04-07",
+  "updated": "2026-04-07"
+}

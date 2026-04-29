@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.anthropic.com/careers",
+    "title": "careers",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news",
+    "title": "news",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/research",
+    "title": "research",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/responsible-scaling-policy",
+    "title": "responsible-scaling-policy",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+    "title": "anthropics-responsible-scaling-policy",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "title": "announcing-our-updated-responsible-scaling-policy",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/research/economic-index-march-2026-report/",
+    "title": "economic-index-march-2026-report",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+    "title": "driving-ai-transformation-with-claude",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+    "title": "salesforce-anthropic-expanded-partnership",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+    "title": "expanding-global-operations-to-india",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  }
+]

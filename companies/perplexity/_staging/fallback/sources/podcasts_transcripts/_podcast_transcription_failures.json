@@ -1,0 +1,48 @@
+[
+  {
+    "status": "failed",
+    "title": "LIMITLESS: Aravind Srinivas: Perplexity CEO’s All-In Gamble to Take Down Google",
+    "date": "2025-08-19",
+    "podcast": "Bankless",
+    "audio_url": "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3",
+    "attempt_round": 3,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://episode.flightcast.com/01K30X3NA7GMNFG24NAXWRF86K.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/0d41fd36-dbea-9360-bb0b-56808d07cf31/2025-08-19_LIMITLESS-Aravind-Srinivas-Perplexity-CEOs-All-In-Gamble-to.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "From PhD to CEO: Aravind Srinivas on Reinventing Search with Perplexity AI",
+    "date": "2025-10-21",
+    "podcast": "Dean’s Speaker Series",
+    "audio_url": "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3",
+    "attempt_round": 3,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://s396.podbean.com/pb/507f9c6f60968af7381d2fa423cb147a/69e01fc8/data1/fs122/19541922/uploads/DSS_aravind.mp3?pbss=6f7bafba-8524-581d-a234-eebe89c7c465",
+      "https://mcdn.podbean.com/mf/web/juwzwfbtpsssw24n/DSS_aravind.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/6ecf1a31-0eda-91f2-a1ac-e0045bd374d2/2025-10-21_From-PhD-to-CEO-Aravind-Srinivas-on-Reinventing-Search-with.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/c212ce73-c1c2-9f8a-870d-85cfa3927005/2025-10-21_From-PhD-to-CEO-Aravind-Srinivas-on-Reinventing-Search-with.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "Perplexity CEO on Chrome, AI and challenging the tech giants",
+    "date": "2025-08-22",
+    "podcast": "The Times Tech Podcast",
+    "audio_url": "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3",
+    "attempt_round": 3,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://stitcher2.acast.com/livestitches/c28628e539637b7bfa4c17079cf67571.mp3?aid=68a85fa8718453410e39dcdc&chid=8cf4cec7-5a0f-49c5-8ec9-36941b5c6b6e&ci=5nIXPi6S8xAGdUh00gogd8yCmMK7_L6QxXwDE49CAZbie02U-IS9kA%3D%3D&pf=rss&sv=sphinx%401.277.0&uid=ace643389441743271c0910d694edea5&Expires=1776344177&Key-Pair-Id=K38CTQXUSD0VVB&Signature=DmbRfiTOXgYTLBXBkU0CxI9SQ8OXNlpyqkBvNhT5bw7DnbvQS2fM3~q12MPAl0YrJB371ZxGgpOfkhiWr-c9ssdr1KMS853tC84HF1itFvnpzYCntb5gjS9-BgsYPl3Hcb3FjWBJejdni6UVVEKTeZJalNZHyvV4lfeDwRpIxreXn1btfHi6YK~QVR~P4GI2~4DygwkuK9IK5ro5y8cAv8-9mUPSotWil-HIcZYr82Lqs8rI2A3Ix0ZSgNWtOeZuxeAQJ5j6upcmsO9YhzGCBBanSV9y7fz8XivGcnOQ1GYD6q2whm5zBUjVdDQ~jwCSTe-iCMjyO53tW320kC2u3g__",
+      "https://sphinx.acast.com/p/acast/s/dannyinthevalley/e/68a85fa8718453410e39dcdc/media.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/f73eda15-3f7b-9240-9a75-8c4684f7555f/2025-08-22_Perplexity-CEO-on-Chrome-AI-and-challenging-the-tech-giants.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/96aba9e1-b761-9478-b0e6-0ff8355950cd/2025-08-22_Perplexity-CEO-on-Chrome-AI-and-challenging-the-tech-giants.mp3"
+    ]
+  }
+]

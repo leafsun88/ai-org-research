@@ -1,0 +1,346 @@
+EQUITY RESEARCH
+
+UPDATED
+04/19/2026
+
+Cursor
+
+TEAM
+Jan-Erik Asplund
+
+Marcelo Ballve
+
+Co-Founder
+
+Head of Research
+
+jan@sacra.com
+
+marcelo@sacra.com
+
+DISCLAIMERS
+This report is for information purposes only and is not to be used or considered as an offer or the solicitation of an offer
+to sell or to buy or subscribe for securities or other financial instruments. Nothing in this report constitutes investment,
+legal, accounting or tax advice or a representation that any investment or strategy is suitable or appropriate to your
+individual circumstances or otherwise constitutes a personal trade recommendation to you.
+This research report has been prepared solely by Sacra and should not be considered a product of any person or entity
+that makes such report available, if any.
+Information and opinions presented in the sections of the report were obtained or derived from sources Sacra believes
+are reliable, but Sacra makes no representation as to their accuracy or completeness. Past performance should not be
+taken as an indication or guarantee of future performance, and no representation or warranty, express or implied, is
+made regarding future performance. Information, opinions and estimates contained in this report reflect a determination
+at its original date of publication by Sacra and are subject to change without notice.
+Sacra accepts no liability for loss arising from the use of the material presented in this report, except that this exclusion
+of liability does not apply to the extent that liability arises under specific statutes or regulations applicable to Sacra.
+Sacra may have issued, and may in the future issue, other reports that are inconsistent with, and reach different
+conclusions from, the information presented in this report. Those reports reflect different assumptions, views and
+analytical methods of the analysts who prepared them and Sacra is under no obligation to ensure that such other reports
+are brought to the attention of any recipient of this report.
+All rights reserved. All material presented in this report, unless specifically indicated otherwise is under copyright to
+Sacra. Sacra reserves any and all intellectual property rights in the report. All trademarks, service marks and logos used
+in this report are trademarks or service marks or registered trademarks or service marks of Sacra. Any modification,
+copying, displaying, distributing, transmitting, publishing, licensing, creating derivative works from, or selling any report is
+strictly prohibited. None of the material, nor its content, nor any copy of it, may be altered in any way, transmitted to,
+copied or distributed to any other party, without the prior express written permission of Sacra. Any unauthorized
+duplication, redistribution or disclosure of this report will result in prosecution.
+
+www.sacra.com
+
+Cursor
+
+Visit Website
+
+AI-native IDE for developers to write, edit, and debug code with
+LLMs
+
+Details
+HEADQUARTERS
+
+San Francisco, CA
+#ai
+
+#code-editors
+CEO
+
+Michael Truell
+REVENUE
+
+FUNDING
+
+$2,000,000,000
+
+$3,380,000,000
+
+2026
+
+2025
+
+Revenue
+
+In April 2026, Cursor raised $2 billion at a $50 billion valuation. Details
+on round leadership and participants have not been disclosed.
+
+Sacra estimates that Cursor hit $2B in annualized revenue in February
+2026, up from $1B in November 2025 and $500M ARR in June 2025.
+Cursor is the fastest-growing SaaS company of all time from $1M to
+$500M in ARR, with revenue doubling approximately every two months.
+This growth rate surpasses previous SaaS records set by companies
+like Wiz, Deel, and Ramp.
+Large corporate buyers now account for approximately 60% of revenue,
+reflecting a significant shift from the company's earlier reliance on
+individual developer subscriptions. Cursor is used by over 50,000
+engineering teams globally, and nearly 70% of the Fortune 1000 is
+represented in its customer base, including NVIDIA, Uber, Adobe,
+Salesforce, and PwC.
+The company generates revenue through a tiered subscription model: a
+free tier with limited AI features, a Pro plan at $20/month, a Business
+plan at $40/user/month, an Ultra plan at $200/month offering 20x more
+usage than Pro, and enterprise licensing for larger team deployments at
+higher contract values.
+
+Valuation & Funding
+
+In November 2025, Cursor raised $2.3 billion in a Series D that valued it
+at $29.3 billion, with participation from Thrive Capital, Andreessen
+Horowitz, Accel, DST Global, Coatue, NVIDIA, and Google. The
+company previously reached a $9.9 billion valuation in June 2025 after
+raising a $900M Series C, having closed a $105 million Series B at a
+$2.5 billion valuation in December 2024 and a $60 million Series A at a
+$400 million valuation in August 2024.
+Notable angels include Stripe co-founder Patrick Collison, former GitHub
+CEO Nat Friedman, and Dropbox co-founder Arash Ferdowsi.
+
+Product
+Cursor was founded in 2022 by Michael Truell, Sualeh Asif, Arvid
+Lunnemark, and Aman Sanger while they were students at MIT. The
+editor builds on VS Code and extends it with AI capabilities.
+As developers type in Cursor, pressing Tab autocompletes the current
+line of code. Subsequent Tab presses predict and implement the next
+logical edits, whether that's modifying code further down in the current
+file or jumping to a different file to make related changes.
+Developers can also interact with their codebase through a chat
+interface. They can @-mention specific files to provide context, ask
+questions about implementation details, or request changes. The AI
+suggests edits that appear in a diff view for review and quick application.
+
+For frequent, latency-sensitive operations like code completion and
+editing, Cursor has developed fine-tuned, specialized Mixture-of-Experts
+(MoE) models that process large amounts of context while generating
+relatively small outputs. These are backed by multi-year model
+partnerships with OpenAI, Anthropic, Google, and xAI. Cursor also ships
+its own frontier coding models: Composer (introduced October 2025) is
+described as 4x faster than similarly intelligent models and built for lowlatency, multi-step agentic coding, while Composer 2 (launched March
+2026) adds a faster default variant alongside API-accessible token
+pricing.
+
+The company employs a product-led growth strategy, allowing
+developers to start with the free tier and naturally upgrade as their
+usage increases. Enterprise expansion occurs organically as individual
+developers advocate for team-wide adoption, driving the shift to
+business accounts with centralized management and security features.
+In February 2026, Cursor hired former Rubrik President/CRO Brian
+McCarthy as President of Global Revenue and Field Operations,
+signaling a deliberate build-out of a dedicated enterprise sales motion to
+complement the PLG flywheel.
+
+The product has evolved steadily toward autonomous, multi-agent
+workflows. Cursor 2.0 (October 2025) enabled users to run up to eight
+agents in parallel via git worktrees or remote machines and made
+Browser for Agent generally available for native browser-based testing
+and verification. Cursor 3.0 (April 2026) goes further, replacing the
+classic IDE layout with an agent-first interface built around parallel AI
+fleets — developers now manage and coordinate multiple agents
+simultaneously rather than interacting with a single assistant, shifting the
+editor's metaphor from a coding tool to an orchestration surface for
+autonomous coding workstreams. Cursor 3.0 also adds multi-repo
+support and local/cloud agent handoff.
+
+Competition
+
+Cloud agents have become a core part of the product: Cursor reports
+that more than 30% of the pull requests it merges internally are now
+created by agents operating autonomously in cloud sandboxes,
+available across web, mobile, desktop, Slack, and GitHub.
+Cursor has also extended its footprint well beyond the IDE itself.
+Automations allows always-on agents to run on schedules or in
+response to triggers from Slack, Linear, GitHub, PagerDuty, and
+webhooks, enabling event-driven coding pipelines without manual
+initiation. Through the Agent Client Protocol (ACP), Cursor's agents are
+available inside IntelliJ IDEA, PyCharm, WebStorm, and other JetBrains
+IDEs, transforming Cursor from a VS Code fork into a cross-IDE agent
+layer. Cursor is also moving into the pull request and code review
+workflow through its pending acquisition of Graphite (definitive
+agreement signed December 2025), a code-review platform used by
+hundreds of thousands of engineers. Together, Automations, ACP, and
+Graphite extend Cursor's reach across the full software development
+lifecycle — from writing and testing to reviewing and merging.
+
+Business Model
+Cursor monetizes through a tiered subscription model targeting
+individual developers and enterprise teams.
+The product follows a freemium model with four tiers. The free tier offers
+limited access to AI features including 2,000 monthly code completions.
+The Pro tier ($20/month) provides unlimited code completions and
+premium AI model access. The Business tier ($40/user/month) adds
+enterprise features like centralized billing, admin dashboards, and
+enhanced privacy controls. The Ultra tier ($200/month, introduced June
+2025) offers 20x more usage than Pro and is aimed at power users and
+heavy agent workloads.
+Cursor's in-house Composer 2 model is also available at API-accessible
+token pricing ($0.50/M input tokens, $2.50/M output tokens), enabling
+usage-based billing that scales with agentic workloads. Billing for Teams
+and Auto plans uses variable, usage-based request costs rather than
+fixed request pricing, aligning pricing with agent task complexity as
+workloads shift from quick queries to multi-file, end-to-end
+implementations.
+Enterprise customers gain access to additional controls including Hooks,
+Team Rules, upgraded analytics, Audit Log, and Sandbox Mode. Cursor
+reports tens of thousands of enterprise customers, with enterprise and
+corporate buyers representing the majority of revenue.
+Cursor's competitive advantage stems from its deep integration with
+leading AI models from OpenAI, Anthropic, Google, and xAI under multiyear partnerships, while maintaining compatibility with the VS Code
+ecosystem and, via ACP, JetBrains IDEs.
+
+Three fundamental shifts are transforming the AI-assisted development
+landscape and creating both opportunities and challenges for Cursor's
+market position.
+
+GitHub + Microsoft bundlenomics
+Large incumbents like GitHub/Microsoft are leveraging their massive
+install bases and cloud infrastructure to embed AI assistance deeply into
+existing workflows. GitHub Copilot's estimated $300M+ annual revenue
+demonstrates the power of this integrated approach.
+More importantly, GitHub's enterprise relationships and existing security
+compliance give them an enormous advantage — many companies
+simply block new development tools like Cursor for security reasons,
+defaulting to GitHub's vetted solutions. Cursor's enterprise-grade Hooks,
+Audit Log, and Sandbox Mode directly target this barrier, and the
+company now counts over half the Fortune 500 as customers.
+GitHub's bundle of services (version control, CI/CD, issue tracking,
+Copilot) creates a compelling integrated value proposition. Cursor's
+acquisition of Graphite, a code-review platform used by hundreds of
+thousands of engineers (definitive agreement signed December 2025),
+is a direct move to compete on this front by bringing pull request and
+review workflows in-house.
+
+Shift from tools to agents
+The market is evolving beyond simple code completion toward
+autonomous development agents, but with a crucial distinction in
+approaches.
+Cursor's Automations system and Composer model reflect an IDE-first
+vision of agentic workflows, where developers maintain control while AI
+handles complex multi-file edits, background pipelines, and parallel
+workstreams. This stands in contrast to platforms like v0 from Vercel or
+Bolt.new, which target non-developers by converting natural language
+directly into applications. Cursor focuses on accelerating professional
+developers rather than replacing them.
+Cursor's expansion into JetBrains IDEs via the Agent Client Protocol
+(ACP) extends its agent capabilities to a large installed base of
+enterprise Java and Python developers who have historically been
+outside VS Code's ecosystem.
+
+Platform risk from OpenAI & Google
+The most significant competitive threat may come from the model
+providers themselves. OpenAI's ChatGPT macOS app already includes
+Terminal and Xcode integration, showing clear intent to move into the
+development space.
+Google's deal to license Windsurf's code-agent IP and bring its CEO and
+R&D leads into DeepMind gives it a turnkey IDE stack to bolt onto
+Gemini Code Assist and Android Studio, collapsing the gap between
+model provider and developer workflow tool. With first-party control over
+Gemini's weights, Google can ship auto-completion, debugging, and
+autonomous agents as default features in Chrome-hosted DevTools and
+Cloud consoles, undercutting Cursor's paid extension value proposition.
+
+TAM Expansion
+Cursor is evolving from an AI-powered code editor into a comprehensive
+development environment that aims to transform how software is built.
+
+Developer productivity platform
+The immediate TAM for AI coding assistance is substantial. As software
+continues to eat the world, the global shortage of developers has
+created a productivity crisis that companies are willing to spend
+significantly to solve. GitHub Copilot alone is generating over $300M in
+annual revenue.
+Cursor's penetration of over half the Fortune 500 — including NVIDIA,
+Uber, Adobe, Salesforce, and PwC — demonstrates that large
+enterprises are now active buyers, not just early adopters. By improving
+developer productivity even 20-30%, Cursor captures significant value
+given average developer salaries of $150K+. Beyond core development,
+Cursor has potential to expand into adjacent areas like technical
+documentation while serving additional personas like data scientists and
+DevOps engineers.
+
+Cursor could represent significant strategic value for several types of
+potential acquirers.
+Cloud providers might acquire Cursor to improve their developer
+experience, while development platform companies like Atlassian or
+GitLab might see it as a way to compete with GitHub's Copilot
+advantage. AI companies might view Cursor as a way to own a key
+application layer while gaining valuable training data and direct access
+to developers — an increasingly influential user base.
+
+Risks
+
+IDE and workflow expansion
+
+Model provider competition: Cursor's core product depends on AI
+models from OpenAI, Anthropic, Google, and xAI, all of whom are
+simultaneously building or acquiring competing developer tools. Any
+degradation in model access, price increase, or preferential treatment of
+their own IDE products could erode Cursor's core value proposition.
+
+Cursor's expansion into JetBrains IDEs via the Agent Client Protocol
+(ACP) opens a large installed base of enterprise developers —
+particularly Java and Python engineers — who work primarily in IntelliJ
+IDEA, PyCharm, and WebStorm. This transforms Cursor from a VS
+Code fork into a cross-IDE agent layer, materially expanding its
+addressable market beyond the VS Code ecosystem.
+
+Enterprise security and compliance: Large enterprises frequently
+block new development tools for security reasons, defaulting to vetted
+vendors like GitHub. While Cursor has added enterprise controls
+including Audit Log, Hooks, and Sandbox Mode, it must continue closing
+the compliance gap with GitHub to protect its growing enterprise
+revenue base, which now accounts for roughly 60% of total revenue.
+
+The acquisition of Graphite (definitive agreement signed December
+2025) further extends Cursor into the code review and pull request
+workflow, a segment used by hundreds of thousands of engineers that
+sits adjacent to but distinct from the IDE. Owning the code review
+surface creates a path to monetize engineering workflows end-to-end,
+from writing to merging.
+
+IDE ecosystem lock-in: Cursor's architecture as a VS Code fork
+creates dependency on Microsoft's roadmap and plugin ecosystem.
+Expansion via ACP into JetBrains reduces this risk but also requires
+ongoing protocol maintenance across multiple IDE surfaces, adding
+engineering complexity and potential fragmentation.
+
+M&A value
+
+DISCLAIMERS
+This report is for information purposes only and is not to be used or considered as an offer or the solicitation of an offer to sell or to buy or
+subscribe for securities or other financial instruments. Nothing in this report constitutes investment, legal, accounting or tax advice or a
+representation that any investment or strategy is suitable or appropriate to your individual circumstances or otherwise constitutes a personal
+trade recommendation to you.
+This research report has been prepared solely by Sacra and should not be considered a product of any person or entity that makes such report
+available, if any.
+Information and opinions presented in the sections of the report were obtained or derived from sources Sacra believes are reliable, but Sacra
+makes no representation as to their accuracy or completeness. Past performance should not be taken as an indication or guarantee of future
+performance, and no representation or warranty, express or implied, is made regarding future performance. Information, opinions and estimates
+contained in this report reflect a determination at its original date of publication by Sacra and are subject to change without notice.
+Sacra accepts no liability for loss arising from the use of the material presented in this report, except that this exclusion of liability does not apply
+to the extent that liability arises under specific statutes or regulations applicable to Sacra. Sacra may have issued, and may in the future issue,
+other reports that are inconsistent with, and reach different conclusions from, the information presented in this report. Those reports reflect
+different assumptions, views and analytical methods of the analysts who prepared them and Sacra is under no obligation to ensure that such
+other reports are brought to the attention of any recipient of this report.
+All rights reserved. All material presented in this report, unless specifically indicated otherwise is under copyright to Sacra. Sacra reserves any
+and all intellectual property rights in the report. All trademarks, service marks and logos used in this report are trademarks or service marks or
+registered trademarks or service marks of Sacra. Any modification, copying, displaying, distributing, transmitting, publishing, licensing, creating
+derivative works from, or selling any report is strictly prohibited. None of the material, nor its content, nor any copy of it, may be altered in any
+way, transmitted to, copied or distributed to any other party, without the prior express written permission of Sacra. Any unauthorized duplication,
+redistribution or disclosure of this report will result in prosecution.
+Published on Apr 19th, 2026
+
+

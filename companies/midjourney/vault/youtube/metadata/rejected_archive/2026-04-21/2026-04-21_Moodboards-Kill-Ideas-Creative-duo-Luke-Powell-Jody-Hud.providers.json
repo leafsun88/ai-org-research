@@ -1,0 +1,16 @@
+{
+  "video_id": "r0eOLVYDRLw",
+  "title": "“Moodboards Kill Ideas” – Creative duo Luke Powell & Jody Hudson-Powell on their creative practice",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:05:55",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:05:55"
+}

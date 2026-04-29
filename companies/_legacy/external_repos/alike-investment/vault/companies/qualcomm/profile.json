@@ -1,0 +1,10 @@
+{
+  "name": "Qualcomm",
+  "ticker": "QCOM",
+  "exchange": "NASDAQ",
+  "market_cap": "$150B",
+  "sector": "半导体",
+  "category": "NVIDIA类",
+  "note": "AI200数据中心+骁龙端侧NPU",
+  "created": "2026-04-06"
+}

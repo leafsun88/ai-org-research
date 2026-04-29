@@ -1,0 +1,162 @@
+{
+  "ticker": "ADYEN",
+  "company_name": "Adyen",
+  "generated_at": "2026-04-08 22:28:27",
+  "status": "FAIL",
+  "elapsed_seconds": 348.8,
+  "run_started_at": "2026-04-08 22:22:37",
+  "market_expectations": {
+    "sec_expected": true,
+    "china_relevant": false
+  },
+  "counts": {
+    "total_files": 8,
+    "new_files_this_run": 7,
+    "earnings_files": 0,
+    "youtube_files": 0,
+    "podcast_files": 0,
+    "xiaoyuzhou_files": 0
+  },
+  "org_readiness": {
+    "founder_voice_ready": true,
+    "org_report_ready": true,
+    "org_structure_ready": true,
+    "high_quality_org_ready": false
+  },
+  "checks": [
+    {
+      "name": "profile_exists",
+      "level": "fail",
+      "passed": false,
+      "detail": "profile.md missing",
+      "remediation": "检查 financials 模块是否成功写入 profile.md。"
+    },
+    {
+      "name": "financials_exists",
+      "level": "fail",
+      "passed": false,
+      "detail": "financials.md missing",
+      "remediation": "检查 financials 模块是否成功写入 financials.md。"
+    },
+    {
+      "name": "xbrl_output",
+      "level": "fail",
+      "passed": false,
+      "detail": "financials_detailed.md missing",
+      "remediation": "若为美股，检查 SEC CIK 映射与 XBRL 拉取。"
+    },
+    {
+      "name": "sec_filings_count",
+      "level": "fail",
+      "passed": false,
+      "detail": "earnings filings: 0",
+      "remediation": "若为美股，检查 SEC filings 是否成功下载。"
+    },
+    {
+      "name": "youtube_count",
+      "level": "warn",
+      "passed": false,
+      "detail": "youtube transcripts: 0",
+      "remediation": "检查 yt-dlp、YouTube 搜索词和字幕可用性。"
+    },
+    {
+      "name": "podcast_count",
+      "level": "warn",
+      "passed": false,
+      "detail": "podcast files: 0",
+      "remediation": "检查 Apple Podcasts 搜索是否返回结果。"
+    },
+    {
+      "name": "xiaoyuzhou_applicability",
+      "level": "info",
+      "passed": true,
+      "detail": "非中国相关公司，小宇宙为 0 不视为问题。",
+      "remediation": null
+    },
+    {
+      "name": "report_freshness",
+      "level": "warn",
+      "passed": true,
+      "detail": "_collection_report.md fresh",
+      "remediation": "若报告未更新，优先查看 _validation.json / _summary.json 和实际产物。"
+    },
+    {
+      "name": "new_files_this_run",
+      "level": "warn",
+      "passed": true,
+      "detail": "files touched this run: 7",
+      "remediation": "如果本轮没有新增文件，检查是否只是复用了旧缓存或外部请求失败。"
+    },
+    {
+      "name": "summary_generated",
+      "level": "warn",
+      "passed": true,
+      "detail": "_summary.json generated",
+      "remediation": "检查 generate-summary.sh 是否可执行。"
+    },
+    {
+      "name": "org_foundation_present",
+      "level": "warn",
+      "passed": true,
+      "detail": "org workspace scaffolded",
+      "remediation": "若缺失，重新运行 /collect 或手动创建 organization/founder 入口文件。"
+    },
+    {
+      "name": "founder_voice_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "founder_voice ready",
+      "remediation": "运行 /founder 并补齐 CEO / founder 公开发言与 insider signal。"
+    },
+    {
+      "name": "org_scan_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "org_scan_report=ready, org_structure=ready",
+      "remediation": "运行 /org-scan 补齐组织静态与关键高管变动。"
+    },
+    {
+      "name": "org_dataset_minimum",
+      "level": "warn",
+      "passed": true,
+      "detail": "minimum org dataset for D1-D7",
+      "remediation": "在 founder/org-scan 完成前，不建议进入高质量 D1-D7 评分。"
+    },
+    {
+      "name": "org_dataset_high_quality",
+      "level": "warn",
+      "passed": false,
+      "detail": "high-quality org dataset",
+      "remediation": "当前若仍是 auto_basic 版本，建议继续运行 `/founder` 和 `/org-scan` 做深挖。"
+    },
+    {
+      "name": "governance_summary_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "governance_summary ready",
+      "remediation": "检查 proxy / governance 模块是否成功写入治理摘要。"
+    },
+    {
+      "name": "proxy_filing_present",
+      "level": "warn",
+      "passed": false,
+      "detail": "proxy filings: 0",
+      "remediation": "若美股 proxy 仍为空，检查 DEF 14A 抓取是否成功。"
+    }
+  ],
+  "summary_generation": {
+    "success": true,
+    "returncode": 0,
+    "stdout": "Generated /Users/wangguanjie/Desktop/Claude Data/共创产品/vault/companies/adyen/discovery/_summary.json (7 files, 28KB)",
+    "stderr": ""
+  },
+  "new_files_preview": [
+    "_collection_report.md",
+    "organization/_org_brief.md",
+    "organization/_org_scan_report.md",
+    "organization/_org_scan_request.md",
+    "organization/governance_summary.md",
+    "organization/overview/org_structure.md",
+    "sources/founder_voice.md"
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "title": "sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/",
+    "title": "cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+    "title": "anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://metacast.app/podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm",
+    "title": "7ALcQmUm",
+    "error": "HTTPSConnectionPool(host='metacast.app', port=443): Max retries exceeded with url: /podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://sacra-pdfs.s3.us-east-2.amazonaws.com/cursor.pdf",
+    "title": "cursor.pdf",
+    "error": "Unsupported content type: application/pdf",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://assets.ctfassets.net/f1df9zr7wr1a/7ucnzZnHdS4aTeUxhgKc13/d99ff1d7099cf352b7f7e220dc6938a2/Anysphere_Cursor.pdf",
+    "title": "Anysphere_Cursor.pdf",
+    "error": "HTTP 404",
+    "stage": "fetch_full_text"
+  }
+]

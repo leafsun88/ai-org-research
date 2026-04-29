@@ -1,0 +1,1240 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "ueJB_rYWxYY",
+  "url": "https://www.youtube.com/watch?v=ueJB_rYWxYY",
+  "title": "Anton Osika, Founder & CEO @Lovable | Slush 2024",
+  "channel": "Slush",
+  "source_queries": [
+    "Lovable Anton Osika interview",
+    "Anton Osika interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:12:44",
+  "segments": [
+    {
+      "text": "hello everyone I I prepared some really",
+      "duration": 5.12,
+      "offset": 5.48,
+      "lang": "en"
+    },
+    {
+      "text": "good content for the next 10 minutes but",
+      "duration": 4.32,
+      "offset": 8.76,
+      "lang": "en"
+    },
+    {
+      "text": "I need your help I need you to bring a",
+      "duration": 6.04,
+      "offset": 10.6,
+      "lang": "en"
+    },
+    {
+      "text": "lot of energy here can I get some energy",
+      "duration": 7.52,
+      "offset": 13.08,
+      "lang": "en"
+    },
+    {
+      "text": "yes yes awesome thanks so we launched",
+      "duration": 5.24,
+      "offset": 16.64,
+      "lang": "en"
+    },
+    {
+      "text": "our",
+      "duration": 3.84,
+      "offset": 20.6,
+      "lang": "en"
+    },
+    {
+      "text": "product two months",
+      "duration": 5.64,
+      "offset": 21.88,
+      "lang": "en"
+    },
+    {
+      "text": "ago let&#39;s let&#39;s see here what&#39;s going on",
+      "duration": 7.52,
+      "offset": 24.44,
+      "lang": "en"
+    },
+    {
+      "text": "I can see the slash logo it&#39;s great",
+      "duration": 4.44,
+      "offset": 27.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m praying to the slide Gods as we say",
+      "duration": 7.4,
+      "offset": 35.0,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re not doing a live",
+      "duration": 3.12,
+      "offset": 39.28,
+      "lang": "en"
+    },
+    {
+      "text": "demo can I have it&#39;s good",
+      "duration": 6.92,
+      "offset": 50.0,
+      "lang": "en"
+    },
+    {
+      "text": "okay we launched this product two months",
+      "duration": 7.84,
+      "offset": 53.24,
+      "lang": "en"
+    },
+    {
+      "text": "ago and the user growth has been really",
+      "duration": 6.28,
+      "offset": 56.92,
+      "lang": "en"
+    },
+    {
+      "text": "good more interestingly what you can see",
+      "duration": 3.8,
+      "offset": 61.08,
+      "lang": "en"
+    },
+    {
+      "text": "here is the number of people that like",
+      "duration": 3.12,
+      "offset": 63.2,
+      "lang": "en"
+    },
+    {
+      "text": "the product so much they get hooked and",
+      "duration": 4.08,
+      "offset": 64.88,
+      "lang": "en"
+    },
+    {
+      "text": "start paying so that&#39;s 1,500 in two",
+      "duration": 5.2,
+      "offset": 66.32,
+      "lang": "en"
+    },
+    {
+      "text": "months but we&#39;re going to kill this",
+      "duration": 4.52,
+      "offset": 68.96,
+      "lang": "en"
+    },
+    {
+      "text": "product thanks to a technical",
+      "duration": 3.96,
+      "offset": 71.52,
+      "lang": "en"
+    },
+    {
+      "text": "breakthrough I&#39;ll share more about that",
+      "duration": 4.64,
+      "offset": 73.48,
+      "lang": "en"
+    },
+    {
+      "text": "but first I want the raise of hands how",
+      "duration": 5.6,
+      "offset": 75.48,
+      "lang": "en"
+    },
+    {
+      "text": "many people here are technical enough so",
+      "duration": 6.76,
+      "offset": 78.12,
+      "lang": "en"
+    },
+    {
+      "text": "that you can uh build a full stack web",
+      "duration": 6.12,
+      "offset": 81.08,
+      "lang": "en"
+    },
+    {
+      "text": "application full stack product raise",
+      "duration": 4.0,
+      "offset": 84.88,
+      "lang": "en"
+    },
+    {
+      "text": "your hand that&#39;s actually quite a lot of",
+      "duration": 5.08,
+      "offset": 87.2,
+      "lang": "en"
+    },
+    {
+      "text": "people uh not so many and it&#39;s even it&#39;s",
+      "duration": 5.96,
+      "offset": 88.88,
+      "lang": "en"
+    },
+    {
+      "text": "even even worse out in the normal World",
+      "duration": 6.84,
+      "offset": 92.28,
+      "lang": "en"
+    },
+    {
+      "text": "less than 1% of the population can",
+      "duration": 8.6,
+      "offset": 94.84,
+      "lang": "en"
+    },
+    {
+      "text": "code but I have some good news so meet",
+      "duration": 6.44,
+      "offset": 99.12,
+      "lang": "en"
+    },
+    {
+      "text": "Harry Harry used to be a",
+      "duration": 5.76,
+      "offset": 103.44,
+      "lang": "en"
+    },
+    {
+      "text": "designer and he was an early user of our",
+      "duration": 7.72,
+      "offset": 105.56,
+      "lang": "en"
+    },
+    {
+      "text": "beta access when a person he knew came",
+      "duration": 6.8,
+      "offset": 109.2,
+      "lang": "en"
+    },
+    {
+      "text": "to him and were very frustrated since",
+      "duration": 5.08,
+      "offset": 113.28,
+      "lang": "en"
+    },
+    {
+      "text": "their normal software development agency",
+      "duration": 5.84,
+      "offset": 116.0,
+      "lang": "en"
+    },
+    {
+      "text": "was going to were quoting them 1",
+      "duration": 5.92,
+      "offset": 118.36,
+      "lang": "en"
+    },
+    {
+      "text": "$120,000 for two months of work to build",
+      "duration": 5.64,
+      "offset": 121.84,
+      "lang": "en"
+    },
+    {
+      "text": "a customer portal their customer portal",
+      "duration": 6.28,
+      "offset": 124.28,
+      "lang": "en"
+    },
+    {
+      "text": "Harry was like maybe I can use this new",
+      "duration": 5.52,
+      "offset": 127.48,
+      "lang": "en"
+    },
+    {
+      "text": "AI to to throw something together in",
+      "duration": 7.8,
+      "offset": 130.56,
+      "lang": "en"
+    },
+    {
+      "text": "less than one day and he built this",
+      "duration": 7.84,
+      "offset": 133.0,
+      "lang": "en"
+    },
+    {
+      "text": "prototype he showed it to this person",
+      "duration": 5.88,
+      "offset": 138.36,
+      "lang": "en"
+    },
+    {
+      "text": "who was had been quoted 120,000 and uh",
+      "duration": 5.2,
+      "offset": 140.84,
+      "lang": "en"
+    },
+    {
+      "text": "afterwards Harry sent a screenshot from",
+      "duration": 4.72,
+      "offset": 144.24,
+      "lang": "en"
+    },
+    {
+      "text": "this the slack message from his friend",
+      "duration": 5.6,
+      "offset": 146.04,
+      "lang": "en"
+    },
+    {
+      "text": "and uh uh from",
+      "duration": 6.08,
+      "offset": 148.96,
+      "lang": "en"
+    },
+    {
+      "text": "this Harry has went on to not only build",
+      "duration": 7.2,
+      "offset": 151.64,
+      "lang": "en"
+    },
+    {
+      "text": "this out and get money from that project",
+      "duration": 6.72,
+      "offset": 155.04,
+      "lang": "en"
+    },
+    {
+      "text": "but he&#39;s launched a full AI startup and",
+      "duration": 5.0,
+      "offset": 158.84,
+      "lang": "en"
+    },
+    {
+      "text": "he recently messaged me uh we have",
+      "duration": 3.72,
+      "offset": 161.76,
+      "lang": "en"
+    },
+    {
+      "text": "changed his life with what we&#39;re",
+      "duration": 3.48,
+      "offset": 163.84,
+      "lang": "en"
+    },
+    {
+      "text": "building so that&#39;s really inspiring to",
+      "duration": 5.88,
+      "offset": 165.48,
+      "lang": "en"
+    },
+    {
+      "text": "us uh I&#39;ll take another person Henrick",
+      "duration": 6.0,
+      "offset": 167.32,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s a first year computer science",
+      "duration": 5.04,
+      "offset": 171.36,
+      "lang": "en"
+    },
+    {
+      "text": "student he&#39;s doing something on Twitter",
+      "duration": 5.04,
+      "offset": 173.32,
+      "lang": "en"
+    },
+    {
+      "text": "where he&#39;s going viral he&#39;s building one",
+      "duration": 4.96,
+      "offset": 176.4,
+      "lang": "en"
+    },
+    {
+      "text": "app a full app per day he&#39;s churning",
+      "duration": 4.52,
+      "offset": 178.36,
+      "lang": "en"
+    },
+    {
+      "text": "these ones out in less than one hours",
+      "duration": 3.56,
+      "offset": 181.36,
+      "lang": "en"
+    },
+    {
+      "text": "and it it&#39;s all kinds of things here he",
+      "duration": 3.84,
+      "offset": 182.88,
+      "lang": "en"
+    },
+    {
+      "text": "doing an educational thing for the about",
+      "duration": 7.64,
+      "offset": 184.92,
+      "lang": "en"
+    },
+    {
+      "text": "the solar system uh real SAS products",
+      "duration": 9.32,
+      "offset": 186.72,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful learning pages and St gbt",
+      "duration": 8.64,
+      "offset": 192.56,
+      "lang": "en"
+    },
+    {
+      "text": "itself based on an API so um the",
+      "duration": 7.4,
+      "offset": 196.04,
+      "lang": "en"
+    },
+    {
+      "text": "takeaway is that we&#39;re entering a new",
+      "duration": 5.72,
+      "offset": 201.2,
+      "lang": "en"
+    },
+    {
+      "text": "era where anyone is going to be able to",
+      "duration": 8.0,
+      "offset": 203.44,
+      "lang": "en"
+    },
+    {
+      "text": "build much faster without out writing",
+      "duration": 7.32,
+      "offset": 206.92,
+      "lang": "en"
+    },
+    {
+      "text": "code and I&#39;ll take one more example of",
+      "duration": 5.12,
+      "offset": 211.44,
+      "lang": "en"
+    },
+    {
+      "text": "someone that I really like so uh this",
+      "duration": 4.64,
+      "offset": 214.24,
+      "lang": "en"
+    },
+    {
+      "text": "from the younger generation who who is",
+      "duration": 3.76,
+      "offset": 216.56,
+      "lang": "en"
+    },
+    {
+      "text": "going going to become really empowered",
+      "duration": 4.76,
+      "offset": 218.88,
+      "lang": "en"
+    },
+    {
+      "text": "by this so this is isak he&#39;s doing he&#39;s",
+      "duration": 5.48,
+      "offset": 220.32,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s young he&#39;s on Tik Tok right and he",
+      "duration": 4.96,
+      "offset": 223.64,
+      "lang": "en"
+    },
+    {
+      "text": "is showcasing where he he&#39;s super late",
+      "duration": 5.68,
+      "offset": 225.8,
+      "lang": "en"
+    },
+    {
+      "text": "on a project you forgot about the client",
+      "duration": 5.92,
+      "offset": 228.6,
+      "lang": "en"
+    },
+    {
+      "text": "and there&#39;s emailing him and he and",
+      "duration": 5.4,
+      "offset": 231.48,
+      "lang": "en"
+    },
+    {
+      "text": "saying like we have we need this today",
+      "duration": 5.44,
+      "offset": 234.52,
+      "lang": "en"
+    },
+    {
+      "text": "and he here&#39;s a demo of him using our",
+      "duration": 5.56,
+      "offset": 236.88,
+      "lang": "en"
+    },
+    {
+      "text": "previous products to",
+      "duration": 5.44,
+      "offset": 239.96,
+      "lang": "en"
+    },
+    {
+      "text": "build the Comm Fitness Community app",
+      "duration": 6.4,
+      "offset": 242.44,
+      "lang": "en"
+    },
+    {
+      "text": "that the the client is using",
+      "duration": 3.44,
+      "offset": 245.4,
+      "lang": "en"
+    },
+    {
+      "text": "for with with the audio this is even",
+      "duration": 5.64,
+      "offset": 249.88,
+      "lang": "en"
+    },
+    {
+      "text": "more fun I think",
+      "duration": 7.48,
+      "offset": 252.4,
+      "lang": "en"
+    },
+    {
+      "text": "um he got 500,000 one 1 million views on",
+      "duration": 6.84,
+      "offset": 255.52,
+      "lang": "en"
+    },
+    {
+      "text": "building",
+      "duration": 2.48,
+      "offset": 259.88,
+      "lang": "en"
+    },
+    {
+      "text": "this we have tested as I said in beta",
+      "duration": 5.4,
+      "offset": 265.4,
+      "lang": "en"
+    },
+    {
+      "text": "our product and we&#39;re not only getting a",
+      "duration": 4.08,
+      "offset": 268.8,
+      "lang": "en"
+    },
+    {
+      "text": "lot of users building more than thousand",
+      "duration": 6.36,
+      "offset": 270.8,
+      "lang": "en"
+    },
+    {
+      "text": "products per day now but users love this",
+      "duration": 7.16,
+      "offset": 272.88,
+      "lang": "en"
+    },
+    {
+      "text": "product so today for the first time ever",
+      "duration": 4.6,
+      "offset": 277.16,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m",
+      "duration": 4.88,
+      "offset": 280.04,
+      "lang": "en"
+    },
+    {
+      "text": "introducing in Open Access what we",
+      "duration": 7.4,
+      "offset": 281.76,
+      "lang": "en"
+    },
+    {
+      "text": "called lovable",
+      "duration": 4.24,
+      "offset": 284.92,
+      "lang": "en"
+    },
+    {
+      "text": "Studio one second this this one is",
+      "duration": 10.0,
+      "offset": 289.8,
+      "lang": "en"
+    },
+    {
+      "text": "not doing it for me keep like that&#39;s me",
+      "duration": 8.6,
+      "offset": 293.6,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s",
+      "duration": 2.4,
+      "offset": 299.8,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 6.0,
+      "offset": 302.44,
+      "lang": "en"
+    },
+    {
+      "text": "me what",
+      "duration": 8.68,
+      "offset": 305.36,
+      "lang": "en"
+    },
+    {
+      "text": "I yeah it h the SP feeling",
+      "duration": 5.6,
+      "offset": 308.44,
+      "lang": "en"
+    },
+    {
+      "text": "my what I",
+      "duration": 3.68,
+      "offset": 319.96,
+      "lang": "en"
+    },
+    {
+      "text": "[Music]",
+      "duration": 7.26,
+      "offset": 323.9,
+      "lang": "en"
+    },
+    {
+      "text": "got so this is something that you might",
+      "duration": 6.6,
+      "offset": 326.52,
+      "lang": "en"
+    },
+    {
+      "text": "think aren&#39;t a lot of people doing this",
+      "duration": 3.44,
+      "offset": 331.16,
+      "lang": "en"
+    },
+    {
+      "text": "why isn&#39;t this already been solved",
+      "duration": 3.2,
+      "offset": 333.12,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s unique about us and as I",
+      "duration": 4.28,
+      "offset": 334.6,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned that we have done a technical",
+      "duration": 6.0,
+      "offset": 336.32,
+      "lang": "en"
+    },
+    {
+      "text": "breakthrough the thesis is",
+      "duration": 5.6,
+      "offset": 338.88,
+      "lang": "en"
+    },
+    {
+      "text": "simple you you should be able to create",
+      "duration": 3.8,
+      "offset": 342.32,
+      "lang": "en"
+    },
+    {
+      "text": "software with English instead of writing",
+      "duration": 4.48,
+      "offset": 344.48,
+      "lang": "en"
+    },
+    {
+      "text": "code but the problem that people have",
+      "duration": 4.56,
+      "offset": 346.12,
+      "lang": "en"
+    },
+    {
+      "text": "been struggling with for a year and us",
+      "duration": 5.0,
+      "offset": 348.96,
+      "lang": "en"
+    },
+    {
+      "text": "too is that if you&#39;re building with AI",
+      "duration": 5.76,
+      "offset": 350.68,
+      "lang": "en"
+    },
+    {
+      "text": "those of you who have done it they know",
+      "duration": 4.6,
+      "offset": 353.96,
+      "lang": "en"
+    },
+    {
+      "text": "that when your project gets complex the",
+      "duration": 4.32,
+      "offset": 356.44,
+      "lang": "en"
+    },
+    {
+      "text": "AI gets stuck",
+      "duration": 4.28,
+      "offset": 358.56,
+      "lang": "en"
+    },
+    {
+      "text": "and you you&#39;re seeing this German guy",
+      "duration": 4.56,
+      "offset": 360.76,
+      "lang": "en"
+    },
+    {
+      "text": "sweating talking to an AI who&#39;s trying",
+      "duration": 6.2,
+      "offset": 362.84,
+      "lang": "en"
+    },
+    {
+      "text": "to do what what he&#39;s asking for um what",
+      "duration": 6.84,
+      "offset": 365.32,
+      "lang": "en"
+    },
+    {
+      "text": "we have found a way to do is to find",
+      "duration": 5.76,
+      "offset": 369.04,
+      "lang": "en"
+    },
+    {
+      "text": "identify all the places where AI gets",
+      "duration": 5.88,
+      "offset": 372.16,
+      "lang": "en"
+    },
+    {
+      "text": "stuck building software and",
+      "duration": 6.44,
+      "offset": 374.8,
+      "lang": "en"
+    },
+    {
+      "text": "painstakingly teach the AI how to get",
+      "duration": 4.88,
+      "offset": 378.04,
+      "lang": "en"
+    },
+    {
+      "text": "around those",
+      "duration": 6.36,
+      "offset": 381.24,
+      "lang": "en"
+    },
+    {
+      "text": "bottlenecks so that means that where how",
+      "duration": 7.72,
+      "offset": 382.92,
+      "lang": "en"
+    },
+    {
+      "text": "how far we have gotten today is that by",
+      "duration": 5.72,
+      "offset": 387.6,
+      "lang": "en"
+    },
+    {
+      "text": "by just asking in plain English you can",
+      "duration": 4.72,
+      "offset": 390.64,
+      "lang": "en"
+    },
+    {
+      "text": "conceptualize and design",
+      "duration": 4.12,
+      "offset": 393.32,
+      "lang": "en"
+    },
+    {
+      "text": "applications do something that was very",
+      "duration": 5.2,
+      "offset": 395.36,
+      "lang": "en"
+    },
+    {
+      "text": "timec consuming before which is to make",
+      "duration": 6.76,
+      "offset": 397.44,
+      "lang": "en"
+    },
+    {
+      "text": "interactive interfaces from the",
+      "duration": 5.6,
+      "offset": 400.56,
+      "lang": "en"
+    },
+    {
+      "text": "designs and",
+      "duration": 5.04,
+      "offset": 404.2,
+      "lang": "en"
+    },
+    {
+      "text": "now what we&#39;re launching today is",
+      "duration": 5.64,
+      "offset": 406.16,
+      "lang": "en"
+    },
+    {
+      "text": "connecting backend functionality I&#39;ll",
+      "duration": 5.56,
+      "offset": 409.24,
+      "lang": "en"
+    },
+    {
+      "text": "explain exactly what that means soon but",
+      "duration": 6.12,
+      "offset": 411.8,
+      "lang": "en"
+    },
+    {
+      "text": "where what we&#39;re saying is that for most",
+      "duration": 6.52,
+      "offset": 414.8,
+      "lang": "en"
+    },
+    {
+      "text": "people this is 95 % of the value that",
+      "duration": 5.8,
+      "offset": 417.92,
+      "lang": "en"
+    },
+    {
+      "text": "you get from software so we have gotten",
+      "duration": 5.24,
+      "offset": 421.32,
+      "lang": "en"
+    },
+    {
+      "text": "to a significant Milestone",
+      "duration": 7.36,
+      "offset": 423.72,
+      "lang": "en"
+    },
+    {
+      "text": "here and we&#39;re seeing users from a lot",
+      "duration": 5.68,
+      "offset": 426.56,
+      "lang": "en"
+    },
+    {
+      "text": "of different",
+      "duration": 3.72,
+      "offset": 431.08,
+      "lang": "en"
+    },
+    {
+      "text": "places if you identify with any of these",
+      "duration": 5.68,
+      "offset": 432.24,
+      "lang": "en"
+    },
+    {
+      "text": "people I I think lovable is something",
+      "duration": 6.2,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "that accelerates your work today product",
+      "duration": 6.24,
+      "offset": 437.92,
+      "lang": "en"
+    },
+    {
+      "text": "teams use us to much more clearly",
+      "duration": 5.76,
+      "offset": 441.0,
+      "lang": "en"
+    },
+    {
+      "text": "conceptualize new ideas and validate",
+      "duration": 5.36,
+      "offset": 444.16,
+      "lang": "en"
+    },
+    {
+      "text": "them with users while Founders and solar",
+      "duration": 3.4,
+      "offset": 446.76,
+      "lang": "en"
+    },
+    {
+      "text": "R",
+      "duration": 3.24,
+      "offset": 449.52,
+      "lang": "en"
+    },
+    {
+      "text": "preneurs iterate towards product Market",
+      "duration": 5.76,
+      "offset": 450.16,
+      "lang": "en"
+    },
+    {
+      "text": "fit more than 10 times faster and and",
+      "duration": 4.84,
+      "offset": 452.76,
+      "lang": "en"
+    },
+    {
+      "text": "designers and and software Engineers",
+      "duration": 3.92,
+      "offset": 455.92,
+      "lang": "en"
+    },
+    {
+      "text": "they build entire front end and",
+      "duration": 5.88,
+      "offset": 457.6,
+      "lang": "en"
+    },
+    {
+      "text": "applications in in",
+      "duration": 6.08,
+      "offset": 459.84,
+      "lang": "en"
+    },
+    {
+      "text": "minutes I&#39;m going to go through a bit",
+      "duration": 5.08,
+      "offset": 463.48,
+      "lang": "en"
+    },
+    {
+      "text": "more concretely what our product",
+      "duration": 5.12,
+      "offset": 465.92,
+      "lang": "en"
+    },
+    {
+      "text": "does by just asking in English you get",
+      "duration": 5.4,
+      "offset": 468.56,
+      "lang": "en"
+    },
+    {
+      "text": "something beautiful and you can very",
+      "duration": 4.56,
+      "offset": 471.04,
+      "lang": "en"
+    },
+    {
+      "text": "quickly iterate and edit what you&#39;re",
+      "duration": 3.6,
+      "offset": 473.96,
+      "lang": "en"
+    },
+    {
+      "text": "building it&#39;s many cases faster than",
+      "duration": 4.6,
+      "offset": 475.6,
+      "lang": "en"
+    },
+    {
+      "text": "with an absolutely expert software",
+      "duration": 6.68,
+      "offset": 477.56,
+      "lang": "en"
+    },
+    {
+      "text": "engineer the AI helps fix bugs in your",
+      "duration": 7.16,
+      "offset": 480.2,
+      "lang": "en"
+    },
+    {
+      "text": "code and when you&#39;re done you click one",
+      "duration": 7.92,
+      "offset": 484.24,
+      "lang": "en"
+    },
+    {
+      "text": "button and then you have it live um more",
+      "duration": 9.2,
+      "offset": 487.36,
+      "lang": "en"
+    },
+    {
+      "text": "interestingly you can now add user",
+      "duration": 8.32,
+      "offset": 492.16,
+      "lang": "en"
+    },
+    {
+      "text": "authentication storing data even calling",
+      "duration": 6.12,
+      "offset": 496.56,
+      "lang": "en"
+    },
+    {
+      "text": "external apis like your your own back",
+      "duration": 3.96,
+      "offset": 500.48,
+      "lang": "en"
+    },
+    {
+      "text": "end",
+      "duration": 5.36,
+      "offset": 502.68,
+      "lang": "en"
+    },
+    {
+      "text": "or stripe for payments too for sending",
+      "duration": 6.24,
+      "offset": 504.44,
+      "lang": "en"
+    },
+    {
+      "text": "out emails or",
+      "duration": 5.72,
+      "offset": 508.04,
+      "lang": "en"
+    },
+    {
+      "text": "being able to build AI applications by",
+      "duration": 4.52,
+      "offset": 510.68,
+      "lang": "en"
+    },
+    {
+      "text": "just calling open",
+      "duration": 5.84,
+      "offset": 513.76,
+      "lang": "en"
+    },
+    {
+      "text": "AI in in the application that you",
+      "duration": 4.4,
+      "offset": 515.2,
+      "lang": "en"
+    },
+    {
+      "text": "build needless to say I think we are all",
+      "duration": 5.64,
+      "offset": 520.76,
+      "lang": "en"
+    },
+    {
+      "text": "standing in front of a generational",
+      "duration": 4.76,
+      "offset": 524.56,
+      "lang": "en"
+    },
+    {
+      "text": "shift here in how companies are built",
+      "duration": 4.44,
+      "offset": 526.4,
+      "lang": "en"
+    },
+    {
+      "text": "especially tech",
+      "duration": 3.2,
+      "offset": 529.32,
+      "lang": "en"
+    },
+    {
+      "text": "companies",
+      "duration": 4.84,
+      "offset": 530.84,
+      "lang": "en"
+    },
+    {
+      "text": "and what our goal is at",
+      "duration": 6.36,
+      "offset": 532.52,
+      "lang": "en"
+    },
+    {
+      "text": "lovable is especially to accelerate",
+      "duration": 5.4,
+      "offset": 535.68,
+      "lang": "en"
+    },
+    {
+      "text": "Europe",
+      "duration": 5.28,
+      "offset": 538.88,
+      "lang": "en"
+    },
+    {
+      "text": "towards disrupting the",
+      "duration": 6.28,
+      "offset": 541.08,
+      "lang": "en"
+    },
+    {
+      "text": "industry by just shipping much much",
+      "duration": 5.44,
+      "offset": 544.16,
+      "lang": "en"
+    },
+    {
+      "text": "faster and I&#39;m going to talk more about",
+      "duration": 6.08,
+      "offset": 547.36,
+      "lang": "en"
+    },
+    {
+      "text": "that that later today uh but I I think",
+      "duration": 6.36,
+      "offset": 549.6,
+      "lang": "en"
+    },
+    {
+      "text": "the if you think this sounds interesting",
+      "duration": 6.32,
+      "offset": 553.44,
+      "lang": "en"
+    },
+    {
+      "text": "to you I have something to give out and",
+      "duration": 6.44,
+      "offset": 555.96,
+      "lang": "en"
+    },
+    {
+      "text": "if you&#39;ve been on your phones now is the",
+      "duration": 4.12,
+      "offset": 559.76,
+      "lang": "en"
+    },
+    {
+      "text": "right time to use them for something",
+      "duration": 5.6,
+      "offset": 562.4,
+      "lang": "en"
+    },
+    {
+      "text": "useful um here&#39;s a here&#39;s a link you can",
+      "duration": 6.08,
+      "offset": 563.88,
+      "lang": "en"
+    },
+    {
+      "text": "share that in message group with your",
+      "duration": 4.96,
+      "offset": 568.0,
+      "lang": "en"
+    },
+    {
+      "text": "friends and uh the first 200 people are",
+      "duration": 5.92,
+      "offset": 569.96,
+      "lang": "en"
+    },
+    {
+      "text": "going to get free usage of lovable to be",
+      "duration": 4.84,
+      "offset": 572.96,
+      "lang": "en"
+    },
+    {
+      "text": "able to understand like how does this",
+      "duration": 3.88,
+      "offset": 575.88,
+      "lang": "en"
+    },
+    {
+      "text": "thing actually",
+      "duration": 6.4,
+      "offset": 577.8,
+      "lang": "en"
+    },
+    {
+      "text": "work if you have registered to C2",
+      "duration": 7.24,
+      "offset": 579.76,
+      "lang": "en"
+    },
+    {
+      "text": "products where we&#39;re going to talk to uh",
+      "duration": 5.72,
+      "offset": 584.2,
+      "lang": "en"
+    },
+    {
+      "text": "product and Engineering leaders about",
+      "duration": 4.76,
+      "offset": 587.0,
+      "lang": "en"
+    },
+    {
+      "text": "what is possible with AI today and how",
+      "duration": 4.6,
+      "offset": 589.92,
+      "lang": "en"
+    },
+    {
+      "text": "we can accelerate Europe uh I&#39;d love to",
+      "duration": 5.8,
+      "offset": 591.76,
+      "lang": "en"
+    },
+    {
+      "text": "see you all there it&#39;s at it&#39;s at 3:30",
+      "duration": 5.8,
+      "offset": 594.52,
+      "lang": "en"
+    },
+    {
+      "text": "um here in cp2",
+      "duration": 5.12,
+      "offset": 597.56,
+      "lang": "en"
+    },
+    {
+      "text": "with with that I&#39;d like just want to",
+      "duration": 5.48,
+      "offset": 600.32,
+      "lang": "en"
+    },
+    {
+      "text": "thank you so much for listening and um",
+      "duration": 4.92,
+      "offset": 602.68,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m so excited to see what people build",
+      "duration": 4.6,
+      "offset": 605.8,
+      "lang": "en"
+    },
+    {
+      "text": "with our product and get uh more people",
+      "duration": 7.84,
+      "offset": 607.6,
+      "lang": "en"
+    },
+    {
+      "text": "to ship faster thank you so much",
+      "duration": 5.04,
+      "offset": 610.4,
+      "lang": "en"
+    }
+  ]
+}

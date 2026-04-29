@@ -1,0 +1,79 @@
+{
+  "research_key": "LOVABLE",
+  "started_at": "2026-04-22T16:27:51",
+  "channels": {
+    "youtube": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_youtube.py",
+        "--target",
+        "LOVABLE"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-22T16:27:51",
+      "finished_at": "2026-04-22T16:30:04",
+      "stdout_tail": "到 8 个候选\n  搜索: Lovable vibe coding podcast\n    找到 8 个候选\n  搜索: Anton Osika Lovable podcast\n    找到 8 个候选\n  搜索: Lovable CEO Anton Osika\n    找到 8 个候选\n  搜索: Lovable Lenny 10M ARR 60 days\n    找到 0 个候选\n  搜索: Lovable AI app builder interview\n    找到 8 个候选\n  搜索: Lovable Agent product demo\n    找到 8 个候选\n  搜索: Lovable enterprise AI app builder\n    找到 8 个候选\n  搜索: Lovable vibe coding\n    找到 8 个候选\n  搜索: Lovable 2.0 honest review\n    找到 8 个候选\n  搜索: Lovable prototype to production\n    找到 8 个候选\n  搜索: GPT Engineer Lovable Anton Osika\n    找到 8 个候选\n  搜索: Lovable interview\n    找到 8 个候选\n  搜索: Lovable.dev interview\n    找到 8 个候选\n  搜索: Lovable Labs interview\n    找到 8 个候选\n  搜索: GPT Engineer interview\n    找到 8 个候选\n  搜索: Lovable Agent interview\n    找到 8 个候选\n  搜索: Lovable 2.0 interview\n    找到 8 个候选\n  搜索: Lovable Cloud interview\n    找到 8 个候选\n  搜索: Lovable Teams interview\n    找到 8 个候选\n  搜索: vibe coding interview\n    找到 8 个候选\n  搜索: AI app builder interview\n    找到 8 个候选\n  搜索: Anton Osika interview\n    找到 8 个候选\n\n  共 63 个通过 relevance 的独立候选，过滤 62 个，选前 30 个提取 transcript...\n  [1/30] Lovable CEO, Anton Osika: The State of Foundation Models, Gr...\n    ⏭ existing transcript\n  [2/30] Building Lovable: $10M ARR in 60 days with 15 people | Anton...\n    ⏭ existing transcript\n  [3/30] Scaling AI Rocketships: ElevenLabs’ Mati Staniszewski & Lova...\n    ⏭ existing transcript\n  [4/30] The AI that Builds Million-Dollar Businesses – Anton Osika (...\n    ⏭ existing transcript\n  [5/30] Lovable’s Anton Osika on turning ideas into software without...\n    ⏭ existing transcript\n  [6/30] Growth minds Podcast Ep. 1 Anton Osika / Lovable (LinkedIn L...\n    ⏭ existing transcript\n  [7/30] A conversation with Lovable CEO Anton Osika...\n    ⏭ existing transcript\n  [8/30] Anton Osika, Founder & CEO @Lovable | Slush 2024...\n    ⏭ existing transcript\n  [9/30] Anton Osika, Co-Founder and CEO @ Lovable: Hitting 85% Day 3...\n    ⏭ existing transcript\n  [10/30] FULL PANEL Anton Osika(Lovable), Marius Meiners(Peec AI) and...\n    ⏭ existing transcript\n  [11/30] How To Build A Single Person AI Unicorn (Lovable CEO, Anton ...\n    ⏭ existing transcript\n  [12/30] Why 2026 is the Year of the AI Builder with Lovable CEO Anto...\n    ⏭ existing transcript\n  [13/30] Turn Your Idea Into a Working App With One Prompt | Live Dem...\n    ⏭ existing transcript\n  [14/30] BONUS: Lovable’s Anton Osika | Unlocking a World of Creativi...\n    ✓ 25,724 chars → 2026-04-22_BONUS-Lovables-Anton-Osika-Unlocking-a-World-of-Creativ.md\n  [15/30] His Ai App Builder Went From $0 to $43M in 5 Months | Lovabl...\n    ⏭ existing transcript\n  [16/30] Master Lovable In 24 Minutes...\n    ⏭ existing transcript\n  [17/30] STOP Wasting Money On AI Coding Tools Like Lovable.dev...\n    ⏭ existing transcript\n  [18/30] Lovable vs MeDo, which AI app builder actually works?...\n    ⏭ existing transcript\n  [19/30] Master Lovable AI in 20 Minutes (NEW 2.0 UPDATE)...\n    ⏭ existing transcript\n  [20/30] Lovable Tutorial for Beginners (Best AI App Builder?)...\n    ⏭ existing transcript\n  [21/30] From Idea to App in Hours: Vibe Coding Masterclass with a Lo...\n    ⏭ existing transcript\n  [22/30] How Lovable Manages 100+ Daily Changes, Vibe Coding & Shadow...\n    ⏭ existing transcript\n  [23/30] How to Win the Lovable Vibe Coding Hackathon...\n    ⏭ existing transcript\n  [24/30] Build a SaaS App in 18 Mins with Lovable! (Vibe Coding Tutor...\n    ⏭ existing transcript\n  [25/30] STOP Wasting Credits & Master Lovable AI! (Vibe Coding Tutor...\n    ⏭ existing transcript\n  [26/30] The new AI growth playbook for 2026 | How Lovable hit $200M ...\n    ⏭ existing transcript\n  [27/30] How He Vibe Coded His $1M/Year Education Platform...\n    ⏭ existing transcript\n  [28/30] Elena Verna: How Lovable Launches Product & Hacks Social to ...\n    ⏭ existing transcript\n  [29/30] Master Lovable in 17 minutes (Starter Tutorial)...\n    ⏭ existing transcript\n  [30/30] Anton Osika: Den sista mjukvaran, startups och framtiden för...\n    ✗ 无完整 transcript\n\n  完成: 29/30 成功, 共 1,201,271 字符\n",
+      "stderr_tail": ""
+    }
+  },
+  "sync": {
+    "youtube": {
+      "copied": 188,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-He-Vibe-Coded-His-Way-To-Y-Combinator.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-He-Reached-500k-ARR-In-8-Days-Only-Using-AI.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Behind-The-Scenes-Of-Lovables-Insane-Design-ft-Lovable.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Never-wrote-a-line-of-code-now-a-66B-unicorn-the-vibe-c.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_AIAW-Podcast-E140---AI-based-software-engineering---Ant.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/_youtube_candidates.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_The-AI-that-Builds-Million-Dollar-Businesses-Anton-Osik.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Play.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Turn-Your-Idea-Into-a-Working-App-With-One-Prompt-Live.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Nad-Chishtie---How-to-get-hired-as-a-designer-at-Lovabl.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-Tutorial-Build-Your-Business-App-Idea-in-Minute.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Meet-The-Man-Who-Makes-3Myear-With-AI.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_5-Quick-Lovable-Tips-to-Build-Production-Ready-Applicat.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-He-Vibe-Coded-a-150KYear-Cake-Business.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Metas-creepy-new-Ray-Bans-and-a-visit-from-Lovable-CEO.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-Lovable-Manages-100-Daily-Changes-Vibe-Coding-Shado.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_His-Ai-App-Builder-Went-From-0-to-43M-in-5-Months-Lovab.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Stop-using-V0-and-Lovable-to-prototype-use-Claude-Code.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Every-Level-of-Lovable-Explained-in-40-Minutes.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_This-founder-makes-100kmonth-vibe-coding-with-Lovable.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Master-Lovable-In-24-Minutes.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_From-Idea-to-App-in-Hours-Vibe-Coding-Masterclass-with.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Elena-Verna-How-Lovable-Launches-Product-Hacks-Social-t.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-To-Vibe-Code-for-BeginnersLovable-Tutorial.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Why-2026-is-the-Year-of-the-AI-Builder-with-Lovable-CEO.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Meet-The-Man-Who-Makes-3Myear-With-AI.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Master-Lovable-In-24-Minutes.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-Head-of-Growth-on-The-New-AI-Native-Growth-Play.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_This-founder-makes-100kmonth-vibe-coding-with-Lovable.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-vs-MeDo-which-AI-app-builder-actually-works.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/_youtube_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Never-wrote-a-line-of-code-now-a-66B-unicorn-the-vibe-c.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_I-Built-a-Voice-AI-Agent-to-Crush-My-PM-Interview-Vapi.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Metas-creepy-new-Ray-Bans-and-a-visit-from-Lovable-CEO.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Anton-Osika-Founder-CEO-Lovable-Slush-2024.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-To-Build-A-Single-Person-AI-Unicorn-Lovable-CEO-Ant.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-in-15-Minutes-Build-an-App-Pitch-Deck-AND-Marke.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Самый-быстрый-ИИ-стартап-в-истории-Lovable---сайт-в-1-к.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/_youtube_search_status.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_5-Quick-Lovable-Tips-to-Build-Production-Ready-Applicat.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Growth-minds-Podcast-Ep-1-Anton-Osika-Lovable-LinkedIn.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Product-Manager-Interview-Mock-Interview-Partner-w-Clau.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Figma-Make-vs-Lovable-vs-V0-vs-Claude-Code-What-We-Actu.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-He-Reached-500k-ARR-In-8-Days-Only-Using-AI.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Why-2026-is-the-Year-of-the-AI-Builder-with-Lovable-CEO.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-AI-How-to-Build-an-App-Upload-to-App-Store-Tuto.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Filming-Lovable-in-Stockholm-Podcast-Video-by-SmoothVie.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Lovable-AI-How-to-Build-an-App-Upload-to-App-Store-Tuto.segments.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_How-Anton-Osika-created-Worlds-Fastest-Growing-Company.providers.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/lovable/vault/youtube/metadata/2026-04-21_Google-Just-Cloned-Lovable-And-Made-It-Free.segments.json"
+      ]
+    }
+  },
+  "source_inventory": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/analysis/Lovable_source_inventory_2026-04-22.md",
+  "evidence_map": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/analysis/Lovable_evidence_map_2026-04-22.md",
+  "finished_at": "2026-04-22T16:30:04"
+}

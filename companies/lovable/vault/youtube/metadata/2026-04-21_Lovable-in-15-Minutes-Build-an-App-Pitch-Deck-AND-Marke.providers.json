@@ -1,0 +1,16 @@
+{
+  "video_id": "V-piTfsxbww",
+  "title": "Lovable in 15 Minutes: Build an App, Pitch Deck AND Marketing (No Code)",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:17:05",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:17:05"
+}

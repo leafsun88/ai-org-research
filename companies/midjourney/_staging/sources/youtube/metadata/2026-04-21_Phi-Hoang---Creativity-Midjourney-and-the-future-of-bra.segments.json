@@ -1,0 +1,7660 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "RsawLFNLAIw",
+  "url": "https://www.youtube.com/watch?v=RsawLFNLAIw",
+  "title": "Phi Hoang - Creativity, Midjourney, and the future of brand design",
+  "channel": "Dive Club 🤿",
+  "source_queries": [
+    "Midjourney interview",
+    "Midjourney AI interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:58",
+  "segments": [
+    {
+      "text": "for us it&#39;s more like well does this",
+      "duration": 5.32,
+      "offset": 0.24,
+      "lang": "en"
+    },
+    {
+      "text": "evoke curiosity and wonder and if it",
+      "duration": 4.68,
+      "offset": 2.56,
+      "lang": "en"
+    },
+    {
+      "text": "does then like whether or not it looks",
+      "duration": 3.96,
+      "offset": 5.56,
+      "lang": "en"
+    },
+    {
+      "text": "like a retrofuturistic poster or",
+      "duration": 6.24,
+      "offset": 7.24,
+      "lang": "en"
+    },
+    {
+      "text": "retrofuturistic scene versus like an",
+      "duration": 6.24,
+      "offset": 9.52,
+      "lang": "en"
+    },
+    {
+      "text": "illustration of a curious cat reading a",
+      "duration": 4.28,
+      "offset": 13.48,
+      "lang": "en"
+    },
+    {
+      "text": "book it it doesn&#39;t matter because those",
+      "duration": 4.4,
+      "offset": 15.76,
+      "lang": "en"
+    },
+    {
+      "text": "two things are creatively consistent",
+      "duration": 5.84,
+      "offset": 17.76,
+      "lang": "en"
+    },
+    {
+      "text": "versus like being visually consistent",
+      "duration": 5.76,
+      "offset": 20.16,
+      "lang": "en"
+    },
+    {
+      "text": "across the board and what I hope that",
+      "duration": 4.32,
+      "offset": 23.6,
+      "lang": "en"
+    },
+    {
+      "text": "people can experience when they look at",
+      "duration": 3.48,
+      "offset": 25.92,
+      "lang": "en"
+    },
+    {
+      "text": "all these different visuals it&#39;s all",
+      "duration": 3.84,
+      "offset": 27.92,
+      "lang": "en"
+    },
+    {
+      "text": "coming from a place of like",
+      "duration": 4.56,
+      "offset": 29.4,
+      "lang": "en"
+    },
+    {
+      "text": "experimentation and exploration and",
+      "duration": 4.4,
+      "offset": 31.76,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no bound to that welcome to Dive",
+      "duration": 4.56,
+      "offset": 33.96,
+      "lang": "en"
+    },
+    {
+      "text": "Club my name is r and this is where",
+      "duration": 5.2,
+      "offset": 36.16,
+      "lang": "en"
+    },
+    {
+      "text": "designers never stop learning now over",
+      "duration": 5.44,
+      "offset": 38.52,
+      "lang": "en"
+    },
+    {
+      "text": "the past six or so months the perplexity",
+      "duration": 5.16,
+      "offset": 41.36,
+      "lang": "en"
+    },
+    {
+      "text": "brand has totally taken over the design",
+      "duration": 4.36,
+      "offset": 43.96,
+      "lang": "en"
+    },
+    {
+      "text": "community and I can&#39;t even open up",
+      "duration": 4.08,
+      "offset": 46.52,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter anymore without seeing one of",
+      "duration": 5.44,
+      "offset": 48.32,
+      "lang": "en"
+    },
+    {
+      "text": "their images and a big reason why is",
+      "duration": 5.04,
+      "offset": 50.6,
+      "lang": "en"
+    },
+    {
+      "text": "because of the work that their brand",
+      "duration": 4.72,
+      "offset": 53.76,
+      "lang": "en"
+    },
+    {
+      "text": "experience designer fee is doing so this",
+      "duration": 5.08,
+      "offset": 55.64,
+      "lang": "en"
+    },
+    {
+      "text": "episode is a deep dive into how he",
+      "duration": 4.56,
+      "offset": 58.48,
+      "lang": "en"
+    },
+    {
+      "text": "thinks about brand strategy and we get",
+      "duration": 4.72,
+      "offset": 60.72,
+      "lang": "en"
+    },
+    {
+      "text": "an inside look at his creative process",
+      "duration": 4.44,
+      "offset": 63.04,
+      "lang": "en"
+    },
+    {
+      "text": "and what it takes to bring all of these",
+      "duration": 4.48,
+      "offset": 65.44,
+      "lang": "en"
+    },
+    {
+      "text": "different brand experiments to life but",
+      "duration": 5.4,
+      "offset": 67.48,
+      "lang": "en"
+    },
+    {
+      "text": "before we get into all of the details I",
+      "duration": 5.16,
+      "offset": 69.92,
+      "lang": "en"
+    },
+    {
+      "text": "had to know what it took to launch the",
+      "duration": 4.56,
+      "offset": 72.88,
+      "lang": "en"
+    },
+    {
+      "text": "new perplexity merch store there&#39;s a",
+      "duration": 5.04,
+      "offset": 75.08,
+      "lang": "en"
+    },
+    {
+      "text": "difference between merch and swag swag",
+      "duration": 4.04,
+      "offset": 77.44,
+      "lang": "en"
+    },
+    {
+      "text": "is what you get for free you&#39;re just",
+      "duration": 3.28,
+      "offset": 80.12,
+      "lang": "en"
+    },
+    {
+      "text": "slapping a logo on like a really basic",
+      "duration": 3.92,
+      "offset": 81.48,
+      "lang": "en"
+    },
+    {
+      "text": "t-shirt that you can just get on like",
+      "duration": 3.64,
+      "offset": 83.4,
+      "lang": "en"
+    },
+    {
+      "text": "custom ink right like there&#39;s a there&#39;s",
+      "duration": 4.16,
+      "offset": 85.4,
+      "lang": "en"
+    },
+    {
+      "text": "a time and place for those but then on",
+      "duration": 4.24,
+      "offset": 87.04,
+      "lang": "en"
+    },
+    {
+      "text": "the mer Birch side it&#39;s like it it just",
+      "duration": 4.64,
+      "offset": 89.56,
+      "lang": "en"
+    },
+    {
+      "text": "opens up Beyond apparel right that&#39;s",
+      "duration": 4.76,
+      "offset": 91.28,
+      "lang": "en"
+    },
+    {
+      "text": "where you kind of get into like custom",
+      "duration": 4.56,
+      "offset": 94.2,
+      "lang": "en"
+    },
+    {
+      "text": "made garments that are really tailor to",
+      "duration": 4.48,
+      "offset": 96.04,
+      "lang": "en"
+    },
+    {
+      "text": "the consumer like the fan of your",
+      "duration": 3.48,
+      "offset": 98.76,
+      "lang": "en"
+    },
+    {
+      "text": "product these are like the Die Hard",
+      "duration": 3.72,
+      "offset": 100.52,
+      "lang": "en"
+    },
+    {
+      "text": "people who are willing to spend however",
+      "duration": 4.4,
+      "offset": 102.24,
+      "lang": "en"
+    },
+    {
+      "text": "much money on like a sticker pack or a",
+      "duration": 4.4,
+      "offset": 104.24,
+      "lang": "en"
+    },
+    {
+      "text": "t-shirt or a hoodie because they really",
+      "duration": 4.52,
+      "offset": 106.64,
+      "lang": "en"
+    },
+    {
+      "text": "just want to represent the brand itself",
+      "duration": 4.64,
+      "offset": 108.64,
+      "lang": "en"
+    },
+    {
+      "text": "we clearly know we need to have Smith",
+      "duration": 4.8,
+      "offset": 111.16,
+      "lang": "en"
+    },
+    {
+      "text": "and Dixon be a part of the first drop",
+      "duration": 5.2,
+      "offset": 113.28,
+      "lang": "en"
+    },
+    {
+      "text": "and so we brought Mike and and Ken and",
+      "duration": 4.76,
+      "offset": 115.96,
+      "lang": "en"
+    },
+    {
+      "text": "team in their process say it was like",
+      "duration": 4.68,
+      "offset": 118.48,
+      "lang": "en"
+    },
+    {
+      "text": "hey here&#39;s a figma file and we&#39;re just",
+      "duration": 4.28,
+      "offset": 120.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to start Jing on this right they",
+      "duration": 3.72,
+      "offset": 123.16,
+      "lang": "en"
+    },
+    {
+      "text": "they basically did like a shotgun of",
+      "duration": 3.68,
+      "offset": 125.0,
+      "lang": "en"
+    },
+    {
+      "text": "like different designs um there was like",
+      "duration": 4.04,
+      "offset": 126.88,
+      "lang": "en"
+    },
+    {
+      "text": "no set Direction it was just more like",
+      "duration": 4.56,
+      "offset": 128.68,
+      "lang": "en"
+    },
+    {
+      "text": "what can we come up with and then how",
+      "duration": 4.48,
+      "offset": 130.92,
+      "lang": "en"
+    },
+    {
+      "text": "can we take all the designs like the",
+      "duration": 3.96,
+      "offset": 133.24,
+      "lang": "en"
+    },
+    {
+      "text": "variations and just sort of distill it",
+      "duration": 4.56,
+      "offset": 135.4,
+      "lang": "en"
+    },
+    {
+      "text": "down to all right this is going to be",
+      "duration": 4.48,
+      "offset": 137.2,
+      "lang": "en"
+    },
+    {
+      "text": "like a good first collection because we",
+      "duration": 4.12,
+      "offset": 139.96,
+      "lang": "en"
+    },
+    {
+      "text": "believe it&#39;s simple we can basically",
+      "duration": 4.8,
+      "offset": 141.68,
+      "lang": "en"
+    },
+    {
+      "text": "make it feel like uh like a vintage",
+      "duration": 4.44,
+      "offset": 144.08,
+      "lang": "en"
+    },
+    {
+      "text": "collection and ultimately like make it",
+      "duration": 4.28,
+      "offset": 146.48,
+      "lang": "en"
+    },
+    {
+      "text": "feel Timeless we thought that we were",
+      "duration": 4.28,
+      "offset": 148.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to launch in April and like the",
+      "duration": 3.84,
+      "offset": 150.76,
+      "lang": "en"
+    },
+    {
+      "text": "the original like intent behind the",
+      "duration": 4.16,
+      "offset": 152.8,
+      "lang": "en"
+    },
+    {
+      "text": "merch store was just hey Brand team",
+      "duration": 3.92,
+      "offset": 154.6,
+      "lang": "en"
+    },
+    {
+      "text": "design team Just Launch the store and",
+      "duration": 4.68,
+      "offset": 156.96,
+      "lang": "en"
+    },
+    {
+      "text": "just ship it but ultimately we had",
+      "duration": 5.56,
+      "offset": 158.52,
+      "lang": "en"
+    },
+    {
+      "text": "someone on our team who joined like a",
+      "duration": 4.32,
+      "offset": 161.64,
+      "lang": "en"
+    },
+    {
+      "text": "little bit later who had a lot of",
+      "duration": 4.6,
+      "offset": 164.08,
+      "lang": "en"
+    },
+    {
+      "text": "connections overseas to help us",
+      "duration": 4.76,
+      "offset": 165.96,
+      "lang": "en"
+    },
+    {
+      "text": "basically like create the merch from",
+      "duration": 5.92,
+      "offset": 168.68,
+      "lang": "en"
+    },
+    {
+      "text": "scratch and so that whole process was",
+      "duration": 5.16,
+      "offset": 170.72,
+      "lang": "en"
+    },
+    {
+      "text": "you know reaching out to the these",
+      "duration": 3.4,
+      "offset": 174.6,
+      "lang": "en"
+    },
+    {
+      "text": "vendors and manufacturers showing them",
+      "duration": 3.96,
+      "offset": 175.88,
+      "lang": "en"
+    },
+    {
+      "text": "like references of of shirts and",
+      "duration": 3.68,
+      "offset": 178.0,
+      "lang": "en"
+    },
+    {
+      "text": "sweatshirts that we personally liked or",
+      "duration": 4.68,
+      "offset": 179.84,
+      "lang": "en"
+    },
+    {
+      "text": "owned ourselves and say hey like let&#39;s",
+      "duration": 4.68,
+      "offset": 181.68,
+      "lang": "en"
+    },
+    {
+      "text": "figure out how to design this it took a",
+      "duration": 4.48,
+      "offset": 184.52,
+      "lang": "en"
+    },
+    {
+      "text": "few weeks for them to send back a an a",
+      "duration": 5.44,
+      "offset": 186.36,
+      "lang": "en"
+    },
+    {
+      "text": "sample But ultimately we got to",
+      "duration": 4.84,
+      "offset": 189.0,
+      "lang": "en"
+    },
+    {
+      "text": "basically like pick and choose hey we",
+      "duration": 5.44,
+      "offset": 191.8,
+      "lang": "en"
+    },
+    {
+      "text": "want an embroidery patch like here or on",
+      "duration": 5.56,
+      "offset": 193.84,
+      "lang": "en"
+    },
+    {
+      "text": "the sleeve or like even on the hats that",
+      "duration": 4.92,
+      "offset": 197.24,
+      "lang": "en"
+    },
+    {
+      "text": "was like its own cycle which was a lot",
+      "duration": 4.56,
+      "offset": 199.4,
+      "lang": "en"
+    },
+    {
+      "text": "harder than doing just like digital",
+      "duration": 3.48,
+      "offset": 202.16,
+      "lang": "en"
+    },
+    {
+      "text": "design where we like it was just so",
+      "duration": 3.92,
+      "offset": 203.96,
+      "lang": "en"
+    },
+    {
+      "text": "iterative right with Hardware or",
+      "duration": 4.24,
+      "offset": 205.64,
+      "lang": "en"
+    },
+    {
+      "text": "software what we&#39;re calling it it would",
+      "duration": 4.16,
+      "offset": 207.88,
+      "lang": "en"
+    },
+    {
+      "text": "was pretty long process just to get to",
+      "duration": 3.6,
+      "offset": 209.88,
+      "lang": "en"
+    },
+    {
+      "text": "the point where to where we&#39;re at now",
+      "duration": 3.04,
+      "offset": 212.04,
+      "lang": "en"
+    },
+    {
+      "text": "which it seems like when you&#39;re looking",
+      "duration": 2.92,
+      "offset": 213.48,
+      "lang": "en"
+    },
+    {
+      "text": "at the merch it&#39;s like oh this is just a",
+      "duration": 3.44,
+      "offset": 215.08,
+      "lang": "en"
+    },
+    {
+      "text": "simple hat and a simple t-shirt but just",
+      "duration": 4.04,
+      "offset": 216.4,
+      "lang": "en"
+    },
+    {
+      "text": "like what went behind it just it just",
+      "duration": 3.96,
+      "offset": 218.52,
+      "lang": "en"
+    },
+    {
+      "text": "was just like a lot of work to basically",
+      "duration": 4.12,
+      "offset": 220.44,
+      "lang": "en"
+    },
+    {
+      "text": "make it look like a a street where brand",
+      "duration": 3.44,
+      "offset": 222.48,
+      "lang": "en"
+    },
+    {
+      "text": "real quick message and then we can jump",
+      "duration": 4.48,
+      "offset": 224.56,
+      "lang": "en"
+    },
+    {
+      "text": "back into it meet Trevor neelen he&#39;s",
+      "duration": 4.8,
+      "offset": 225.92,
+      "lang": "en"
+    },
+    {
+      "text": "been designing products for the last",
+      "duration": 4.96,
+      "offset": 229.04,
+      "lang": "en"
+    },
+    {
+      "text": "decade plus but after 14 months he",
+      "duration": 5.28,
+      "offset": 230.72,
+      "lang": "en"
+    },
+    {
+      "text": "cancelled his mid Journey account",
+      "duration": 3.52,
+      "offset": 234.0,
+      "lang": "en"
+    },
+    {
+      "text": "because he found a tool that he likes",
+      "duration": 3.88,
+      "offset": 236.0,
+      "lang": "en"
+    },
+    {
+      "text": "even more after listening to this show",
+      "duration": 4.84,
+      "offset": 237.52,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s called visual electric it&#39;s a",
+      "duration": 4.48,
+      "offset": 239.88,
+      "lang": "en"
+    },
+    {
+      "text": "new image generation tool that&#39;s built",
+      "duration": 4.68,
+      "offset": 242.36,
+      "lang": "en"
+    },
+    {
+      "text": "specifically for designers it&#39;s the most",
+      "duration": 4.48,
+      "offset": 244.36,
+      "lang": "en"
+    },
+    {
+      "text": "photorealistic one out there even more",
+      "duration": 4.0,
+      "offset": 247.04,
+      "lang": "en"
+    },
+    {
+      "text": "than mid Journey they also have a bunch",
+      "duration": 4.96,
+      "offset": 248.84,
+      "lang": "en"
+    },
+    {
+      "text": "of beautiful predefined styles and it&#39;s",
+      "duration": 5.64,
+      "offset": 251.04,
+      "lang": "en"
+    },
+    {
+      "text": "so incredibly easy to iterate because",
+      "duration": 5.2,
+      "offset": 253.8,
+      "lang": "en"
+    },
+    {
+      "text": "the entire experience happens on an",
+      "duration": 4.56,
+      "offset": 256.68,
+      "lang": "en"
+    },
+    {
+      "text": "infinite canvas so you&#39;ll feel right at",
+      "duration": 4.36,
+      "offset": 259.0,
+      "lang": "en"
+    },
+    {
+      "text": "home honestly the whole product is the",
+      "duration": 4.8,
+      "offset": 261.24,
+      "lang": "en"
+    },
+    {
+      "text": "epitome of taste so the next time that",
+      "duration": 5.2,
+      "offset": 263.36,
+      "lang": "en"
+    },
+    {
+      "text": "you need imagery for a project I cannot",
+      "duration": 5.32,
+      "offset": 266.04,
+      "lang": "en"
+    },
+    {
+      "text": "recommend visual electric enough head to",
+      "duration": 6.12,
+      "offset": 268.56,
+      "lang": "en"
+    },
+    {
+      "text": "dive. club/ Electric to check it out",
+      "duration": 5.76,
+      "offset": 271.36,
+      "lang": "en"
+    },
+    {
+      "text": "today and if you like it as much as I",
+      "duration": 4.6,
+      "offset": 274.68,
+      "lang": "en"
+    },
+    {
+      "text": "know that you will you can use the code",
+      "duration": 4.24,
+      "offset": 277.12,
+      "lang": "en"
+    },
+    {
+      "text": "Dive Club to get your first month for",
+      "duration": 5.08,
+      "offset": 279.28,
+      "lang": "en"
+    },
+    {
+      "text": "free my favorite animation tool Jitter",
+      "duration": 5.68,
+      "offset": 281.36,
+      "lang": "en"
+    },
+    {
+      "text": "just had a game changer of a release",
+      "duration": 4.72,
+      "offset": 284.36,
+      "lang": "en"
+    },
+    {
+      "text": "they just dropped their first set of",
+      "duration": 4.44,
+      "offset": 287.04,
+      "lang": "en"
+    },
+    {
+      "text": "community templates created by some of",
+      "duration": 4.72,
+      "offset": 289.08,
+      "lang": "en"
+    },
+    {
+      "text": "the best designers and Studios that I",
+      "duration": 5.96,
+      "offset": 291.48,
+      "lang": "en"
+    },
+    {
+      "text": "know and get this they&#39;re all free you",
+      "duration": 5.28,
+      "offset": 293.8,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t even have to download anything",
+      "duration": 3.76,
+      "offset": 297.44,
+      "lang": "en"
+    },
+    {
+      "text": "because Jitter is like figma only for",
+      "duration": 3.92,
+      "offset": 299.08,
+      "lang": "en"
+    },
+    {
+      "text": "animation design just head to their new",
+      "duration": 4.36,
+      "offset": 301.2,
+      "lang": "en"
+    },
+    {
+      "text": "Community page it&#39;s full of incredible",
+      "duration": 4.48,
+      "offset": 303.0,
+      "lang": "en"
+    },
+    {
+      "text": "animations and when you find one that",
+      "duration": 4.88,
+      "offset": 305.56,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve love you can remix it in a single",
+      "duration": 5.08,
+      "offset": 307.48,
+      "lang": "en"
+    },
+    {
+      "text": "click and make it your own with their",
+      "duration": 4.36,
+      "offset": 310.44,
+      "lang": "en"
+    },
+    {
+      "text": "intuitive editor if you want to give it",
+      "duration": 5.96,
+      "offset": 312.56,
+      "lang": "en"
+    },
+    {
+      "text": "a try had to dive. club/ Jitter that&#39;s",
+      "duration": 7.88,
+      "offset": 314.8,
+      "lang": "en"
+    },
+    {
+      "text": "ji TT R okay now on to the episode the",
+      "duration": 6.2,
+      "offset": 318.52,
+      "lang": "en"
+    },
+    {
+      "text": "fact that I know multiple people that",
+      "duration": 5.96,
+      "offset": 322.68,
+      "lang": "en"
+    },
+    {
+      "text": "immediately bought merch from a search",
+      "duration": 6.64,
+      "offset": 324.72,
+      "lang": "en"
+    },
+    {
+      "text": "company I mean like man that really",
+      "duration": 5.2,
+      "offset": 328.64,
+      "lang": "en"
+    },
+    {
+      "text": "speaks to just what you&#39;ve been able to",
+      "duration": 4.36,
+      "offset": 331.36,
+      "lang": "en"
+    },
+    {
+      "text": "create with a perplexity brand so maybe",
+      "duration": 3.16,
+      "offset": 333.84,
+      "lang": "en"
+    },
+    {
+      "text": "even as an entry point for this",
+      "duration": 4.12,
+      "offset": 335.72,
+      "lang": "en"
+    },
+    {
+      "text": "conversation we could start pretty high",
+      "duration": 6.2,
+      "offset": 337.0,
+      "lang": "en"
+    },
+    {
+      "text": "level like in your opinion what do you",
+      "duration": 6.28,
+      "offset": 339.84,
+      "lang": "en"
+    },
+    {
+      "text": "think makes for a great brand like why",
+      "duration": 5.44,
+      "offset": 343.2,
+      "lang": "en"
+    },
+    {
+      "text": "have you been able to turn perplexity",
+      "duration": 4.84,
+      "offset": 346.12,
+      "lang": "en"
+    },
+    {
+      "text": "into this company that people really",
+      "duration": 5.2,
+      "offset": 348.64,
+      "lang": "en"
+    },
+    {
+      "text": "want to tie themselves to and to support",
+      "duration": 5.16,
+      "offset": 350.96,
+      "lang": "en"
+    },
+    {
+      "text": "I think it boils down to like basically",
+      "duration": 5.2,
+      "offset": 353.84,
+      "lang": "en"
+    },
+    {
+      "text": "like the one word that we&#39;re owning is",
+      "duration": 4.32,
+      "offset": 356.12,
+      "lang": "en"
+    },
+    {
+      "text": "curiosity",
+      "duration": 2.76,
+      "offset": 359.04,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m going to keep saying that over",
+      "duration": 3.16,
+      "offset": 360.44,
+      "lang": "en"
+    },
+    {
+      "text": "and over and over again because that&#39;s",
+      "duration": 4.0,
+      "offset": 361.8,
+      "lang": "en"
+    },
+    {
+      "text": "what we want to evoke with people when",
+      "duration": 4.48,
+      "offset": 363.6,
+      "lang": "en"
+    },
+    {
+      "text": "you feel curious about something we want",
+      "duration": 4.4,
+      "offset": 365.8,
+      "lang": "en"
+    },
+    {
+      "text": "to be the first place or like the first",
+      "duration": 3.52,
+      "offset": 368.08,
+      "lang": "en"
+    },
+    {
+      "text": "thing you think about when you want to",
+      "duration": 3.68,
+      "offset": 370.2,
+      "lang": "en"
+    },
+    {
+      "text": "like itch that Curiosity right like my",
+      "duration": 4.32,
+      "offset": 371.6,
+      "lang": "en"
+    },
+    {
+      "text": "four-year-old I feel like I&#39;m I&#39;m kind",
+      "duration": 5.12,
+      "offset": 373.88,
+      "lang": "en"
+    },
+    {
+      "text": "of ingraining this in him when I say",
+      "duration": 4.8,
+      "offset": 375.92,
+      "lang": "en"
+    },
+    {
+      "text": "well I don&#39;t know like I I don&#39;t know",
+      "duration": 3.24,
+      "offset": 379.0,
+      "lang": "en"
+    },
+    {
+      "text": "how to answer that question the first",
+      "duration": 4.56,
+      "offset": 380.72,
+      "lang": "en"
+    },
+    {
+      "text": "thing he tells me is why W you just ask",
+      "duration": 4.72,
+      "offset": 382.24,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity you know and like a",
+      "duration": 3.56,
+      "offset": 385.28,
+      "lang": "en"
+    },
+    {
+      "text": "four-year-old is telling me that we&#39;re",
+      "duration": 3.72,
+      "offset": 386.96,
+      "lang": "en"
+    },
+    {
+      "text": "just ingrained but basically just stick",
+      "duration": 4.0,
+      "offset": 388.84,
+      "lang": "en"
+    },
+    {
+      "text": "to our own our old habits of like these",
+      "duration": 4.8,
+      "offset": 390.68,
+      "lang": "en"
+    },
+    {
+      "text": "cracking open Google or Bing if you use",
+      "duration": 4.0,
+      "offset": 392.84,
+      "lang": "en"
+    },
+    {
+      "text": "that I don&#39;t know like whatever search",
+      "duration": 2.84,
+      "offset": 395.48,
+      "lang": "en"
+    },
+    {
+      "text": "engine that you&#39;re just used to is like",
+      "duration": 3.48,
+      "offset": 396.84,
+      "lang": "en"
+    },
+    {
+      "text": "how do we break into that without like",
+      "duration": 4.16,
+      "offset": 398.32,
+      "lang": "en"
+    },
+    {
+      "text": "feeling icky or just really like",
+      "duration": 3.96,
+      "offset": 400.32,
+      "lang": "en"
+    },
+    {
+      "text": "counting people to just like hey make",
+      "duration": 3.4,
+      "offset": 402.48,
+      "lang": "en"
+    },
+    {
+      "text": "sure you use perplexity he was like no",
+      "duration": 4.44,
+      "offset": 404.28,
+      "lang": "en"
+    },
+    {
+      "text": "like how do we stir that emotion up just",
+      "duration": 5.48,
+      "offset": 405.88,
+      "lang": "en"
+    },
+    {
+      "text": "by having people be curious about the",
+      "duration": 5.44,
+      "offset": 408.72,
+      "lang": "en"
+    },
+    {
+      "text": "brand and then ask that first question",
+      "duration": 4.8,
+      "offset": 411.36,
+      "lang": "en"
+    },
+    {
+      "text": "in that search box when you see like",
+      "duration": 3.68,
+      "offset": 414.16,
+      "lang": "en"
+    },
+    {
+      "text": "where knowledge begins or whatever the",
+      "duration": 4.52,
+      "offset": 416.16,
+      "lang": "en"
+    },
+    {
+      "text": "the tagline is at the moment and so once",
+      "duration": 4.56,
+      "offset": 417.84,
+      "lang": "en"
+    },
+    {
+      "text": "people feel that they can come to",
+      "duration": 3.96,
+      "offset": 420.68,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity the marketing and everything",
+      "duration": 4.48,
+      "offset": 422.4,
+      "lang": "en"
+    },
+    {
+      "text": "sort of like behind that should just",
+      "duration": 4.36,
+      "offset": 424.64,
+      "lang": "en"
+    },
+    {
+      "text": "like reinforce their curiosity that",
+      "duration": 3.92,
+      "offset": 426.88,
+      "lang": "en"
+    },
+    {
+      "text": "feeling that we were able to capture",
+      "duration": 3.68,
+      "offset": 429.0,
+      "lang": "en"
+    },
+    {
+      "text": "when they asked that first question I",
+      "duration": 3.64,
+      "offset": 430.8,
+      "lang": "en"
+    },
+    {
+      "text": "love how intentionally you&#39;re tying the",
+      "duration": 5.56,
+      "offset": 432.68,
+      "lang": "en"
+    },
+    {
+      "text": "brand to this emotion and core part of",
+      "duration": 5.84,
+      "offset": 434.44,
+      "lang": "en"
+    },
+    {
+      "text": "what it means to be human rather than",
+      "duration": 4.12,
+      "offset": 438.24,
+      "lang": "en"
+    },
+    {
+      "text": "even the outcome or like the core value",
+      "duration": 5.08,
+      "offset": 440.28,
+      "lang": "en"
+    },
+    {
+      "text": "propositions of the product I definitely",
+      "duration": 4.12,
+      "offset": 442.36,
+      "lang": "en"
+    },
+    {
+      "text": "think that comes through in a lot of",
+      "duration": 2.28,
+      "offset": 445.36,
+      "lang": "en"
+    },
+    {
+      "text": "things that you&#39;re doing it&#39;s been",
+      "duration": 3.76,
+      "offset": 446.48,
+      "lang": "en"
+    },
+    {
+      "text": "mostly intuition and and and taste",
+      "duration": 5.04,
+      "offset": 447.64,
+      "lang": "en"
+    },
+    {
+      "text": "within the team we have no traditional",
+      "duration": 4.36,
+      "offset": 450.24,
+      "lang": "en"
+    },
+    {
+      "text": "marketing people on our team it&#39;s just",
+      "duration": 3.76,
+      "offset": 452.68,
+      "lang": "en"
+    },
+    {
+      "text": "the product managers and the product",
+      "duration": 4.08,
+      "offset": 454.6,
+      "lang": "en"
+    },
+    {
+      "text": "owners and even some of the executives",
+      "duration": 3.84,
+      "offset": 456.44,
+      "lang": "en"
+    },
+    {
+      "text": "are like this is just how we feel about",
+      "duration": 3.96,
+      "offset": 458.68,
+      "lang": "en"
+    },
+    {
+      "text": "it how do we represent it in that way we",
+      "duration": 4.52,
+      "offset": 460.28,
+      "lang": "en"
+    },
+    {
+      "text": "are so young and we have that ability to",
+      "duration": 3.96,
+      "offset": 462.64,
+      "lang": "en"
+    },
+    {
+      "text": "be flexible with our brand and our",
+      "duration": 3.72,
+      "offset": 464.8,
+      "lang": "en"
+    },
+    {
+      "text": "messaging even though we&#39;re valued at",
+      "duration": 3.48,
+      "offset": 466.6,
+      "lang": "en"
+    },
+    {
+      "text": "whatever it is this week There&#39;s still",
+      "duration": 3.64,
+      "offset": 468.52,
+      "lang": "en"
+    },
+    {
+      "text": "an opportunity to just continue to",
+      "duration": 4.24,
+      "offset": 470.08,
+      "lang": "en"
+    },
+    {
+      "text": "experiment and I still appreciate that",
+      "duration": 3.92,
+      "offset": 472.16,
+      "lang": "en"
+    },
+    {
+      "text": "about the executive team to like allow",
+      "duration": 4.08,
+      "offset": 474.32,
+      "lang": "en"
+    },
+    {
+      "text": "us to do that and for them to even like",
+      "duration": 4.32,
+      "offset": 476.08,
+      "lang": "en"
+    },
+    {
+      "text": "push that experimentation I want to get",
+      "duration": 3.8,
+      "offset": 478.4,
+      "lang": "en"
+    },
+    {
+      "text": "into the experimentation piece and your",
+      "duration": 3.92,
+      "offset": 480.4,
+      "lang": "en"
+    },
+    {
+      "text": "process but first can we go a little bit",
+      "duration": 4.92,
+      "offset": 482.2,
+      "lang": "en"
+    },
+    {
+      "text": "deeper on that word flexibility that you",
+      "duration": 4.6,
+      "offset": 484.32,
+      "lang": "en"
+    },
+    {
+      "text": "said you know you&#39;re talking about",
+      "duration": 4.8,
+      "offset": 487.12,
+      "lang": "en"
+    },
+    {
+      "text": "curiosity being this kind of north star",
+      "duration": 5.08,
+      "offset": 488.92,
+      "lang": "en"
+    },
+    {
+      "text": "of the brand and what feelings you&#39;re",
+      "duration": 3.84,
+      "offset": 491.92,
+      "lang": "en"
+    },
+    {
+      "text": "trying to evoke in people but like was",
+      "duration": 3.56,
+      "offset": 494.0,
+      "lang": "en"
+    },
+    {
+      "text": "it always like that can you talk a",
+      "duration": 3.84,
+      "offset": 495.76,
+      "lang": "en"
+    },
+    {
+      "text": "little bit about the Journey of the",
+      "duration": 4.4,
+      "offset": 497.56,
+      "lang": "en"
+    },
+    {
+      "text": "brand how it&#39;s evolved and maybe were",
+      "duration": 5.0,
+      "offset": 499.6,
+      "lang": "en"
+    },
+    {
+      "text": "there any specific points where you had",
+      "duration": 4.28,
+      "offset": 501.96,
+      "lang": "en"
+    },
+    {
+      "text": "like a breakthrough and understanding",
+      "duration": 4.0,
+      "offset": 504.6,
+      "lang": "en"
+    },
+    {
+      "text": "what the perplexity brand can or should",
+      "duration": 5.04,
+      "offset": 506.24,
+      "lang": "en"
+    },
+    {
+      "text": "even be I when it first started it was",
+      "duration": 4.96,
+      "offset": 508.6,
+      "lang": "en"
+    },
+    {
+      "text": "just Henry you know just sort of like",
+      "duration": 4.6,
+      "offset": 511.28,
+      "lang": "en"
+    },
+    {
+      "text": "first stab at at the brand and uh when",
+      "duration": 5.16,
+      "offset": 513.56,
+      "lang": "en"
+    },
+    {
+      "text": "he asked me if I wanted to join I it was",
+      "duration": 5.72,
+      "offset": 515.88,
+      "lang": "en"
+    },
+    {
+      "text": "sort of like this this challenge because",
+      "duration": 5.32,
+      "offset": 518.72,
+      "lang": "en"
+    },
+    {
+      "text": "there was already this momentum behind",
+      "duration": 4.32,
+      "offset": 521.6,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity the product and not",
+      "duration": 4.04,
+      "offset": 524.04,
+      "lang": "en"
+    },
+    {
+      "text": "necessarily the brain because you know I",
+      "duration": 4.8,
+      "offset": 525.92,
+      "lang": "en"
+    },
+    {
+      "text": "I think when a new product emerges",
+      "duration": 5.0,
+      "offset": 528.08,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s always the neophiliac or the",
+      "duration": 4.52,
+      "offset": 530.72,
+      "lang": "en"
+    },
+    {
+      "text": "people are just like very into the new",
+      "duration": 4.2,
+      "offset": 533.08,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re not really loyal to any",
+      "duration": 4.0,
+      "offset": 535.24,
+      "lang": "en"
+    },
+    {
+      "text": "particular product because what what",
+      "duration": 4.0,
+      "offset": 537.28,
+      "lang": "en"
+    },
+    {
+      "text": "they ultimately want is the value out of",
+      "duration": 3.44,
+      "offset": 539.24,
+      "lang": "en"
+    },
+    {
+      "text": "the tool that they&#39;re using which is",
+      "duration": 3.48,
+      "offset": 541.28,
+      "lang": "en"
+    },
+    {
+      "text": "fair right but like at at the time like",
+      "duration": 4.2,
+      "offset": 542.68,
+      "lang": "en"
+    },
+    {
+      "text": "Henry was just like look we don&#39;t need a",
+      "duration": 4.44,
+      "offset": 544.76,
+      "lang": "en"
+    },
+    {
+      "text": "brain designer right now until we can",
+      "duration": 4.44,
+      "offset": 546.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually see like even more momentum out",
+      "duration": 4.04,
+      "offset": 549.2,
+      "lang": "en"
+    },
+    {
+      "text": "of this but once we get to that point",
+      "duration": 3.84,
+      "offset": 551.32,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s make ourselves look and feel",
+      "duration": 4.16,
+      "offset": 553.24,
+      "lang": "en"
+    },
+    {
+      "text": "bigger than we actually are we need to",
+      "duration": 4.68,
+      "offset": 555.16,
+      "lang": "en"
+    },
+    {
+      "text": "feel more polished just across the board",
+      "duration": 4.68,
+      "offset": 557.4,
+      "lang": "en"
+    },
+    {
+      "text": "like our our visuals because you know at",
+      "duration": 3.68,
+      "offset": 559.84,
+      "lang": "en"
+    },
+    {
+      "text": "the time that&#39;s just something he wasn&#39;t",
+      "duration": 3.6,
+      "offset": 562.08,
+      "lang": "en"
+    },
+    {
+      "text": "really focused on that was when he was",
+      "duration": 4.6,
+      "offset": 563.52,
+      "lang": "en"
+    },
+    {
+      "text": "like hey do you know anyone who would",
+      "duration": 5.36,
+      "offset": 565.68,
+      "lang": "en"
+    },
+    {
+      "text": "like want to take this like braining",
+      "duration": 5.04,
+      "offset": 568.12,
+      "lang": "en"
+    },
+    {
+      "text": "project on and I was already in a slack",
+      "duration": 4.48,
+      "offset": 571.04,
+      "lang": "en"
+    },
+    {
+      "text": "Channel with Mike Smith and I was just",
+      "duration": 4.44,
+      "offset": 573.16,
+      "lang": "en"
+    },
+    {
+      "text": "like always a fan I loved what he was",
+      "duration": 4.4,
+      "offset": 575.52,
+      "lang": "en"
+    },
+    {
+      "text": "doing at any distance and uh the",
+      "duration": 4.92,
+      "offset": 577.6,
+      "lang": "en"
+    },
+    {
+      "text": "exposure Rebrand he did for Luke beard",
+      "duration": 6.12,
+      "offset": 579.92,
+      "lang": "en"
+    },
+    {
+      "text": "and I just loved his style and just like",
+      "duration": 6.48,
+      "offset": 582.52,
+      "lang": "en"
+    },
+    {
+      "text": "the core fundamentals of graphic design",
+      "duration": 4.6,
+      "offset": 586.04,
+      "lang": "en"
+    },
+    {
+      "text": "and it just looked different than than",
+      "duration": 3.8,
+      "offset": 589.0,
+      "lang": "en"
+    },
+    {
+      "text": "any other agency that was already doing",
+      "duration": 5.28,
+      "offset": 590.64,
+      "lang": "en"
+    },
+    {
+      "text": "AI branding or just like Tech branding",
+      "duration": 5.44,
+      "offset": 592.8,
+      "lang": "en"
+    },
+    {
+      "text": "and so did a quick introduction and",
+      "duration": 4.52,
+      "offset": 595.92,
+      "lang": "en"
+    },
+    {
+      "text": "maybe a month or two in I&#39;m not sure",
+      "duration": 4.56,
+      "offset": 598.24,
+      "lang": "en"
+    },
+    {
+      "text": "what the time on it is he brought me in",
+      "duration": 4.08,
+      "offset": 600.44,
+      "lang": "en"
+    },
+    {
+      "text": "to like own the brand from the",
+      "duration": 4.04,
+      "offset": 602.8,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity side and just work with Mike",
+      "duration": 4.96,
+      "offset": 604.52,
+      "lang": "en"
+    },
+    {
+      "text": "and and quarantine to come up with the",
+      "duration": 4.12,
+      "offset": 606.84,
+      "lang": "en"
+    },
+    {
+      "text": "like a new brand one of the things that",
+      "duration": 2.88,
+      "offset": 609.48,
+      "lang": "en"
+    },
+    {
+      "text": "really stood out to me when I was",
+      "duration": 3.2,
+      "offset": 610.96,
+      "lang": "en"
+    },
+    {
+      "text": "interviewing Henry was he talked about",
+      "duration": 4.8,
+      "offset": 612.36,
+      "lang": "en"
+    },
+    {
+      "text": "how they didn&#39;t really want to put like",
+      "duration": 4.6,
+      "offset": 614.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know traditional brand guidelines",
+      "duration": 3.56,
+      "offset": 617.16,
+      "lang": "en"
+    },
+    {
+      "text": "and templates in place and really really",
+      "duration": 3.68,
+      "offset": 618.76,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to prioritize this level of",
+      "duration": 5.36,
+      "offset": 620.72,
+      "lang": "en"
+    },
+    {
+      "text": "creative freedom so my question is then",
+      "duration": 5.84,
+      "offset": 622.44,
+      "lang": "en"
+    },
+    {
+      "text": "as a brand experience designer how are",
+      "duration": 3.8,
+      "offset": 626.08,
+      "lang": "en"
+    },
+    {
+      "text": "you even figuring out like what",
+      "duration": 3.6,
+      "offset": 628.28,
+      "lang": "en"
+    },
+    {
+      "text": "initiatives to push forward what to work",
+      "duration": 4.6,
+      "offset": 629.88,
+      "lang": "en"
+    },
+    {
+      "text": "on uh what are some of the like you know",
+      "duration": 4.92,
+      "offset": 631.88,
+      "lang": "en"
+    },
+    {
+      "text": "top level directives that are even",
+      "duration": 4.32,
+      "offset": 634.48,
+      "lang": "en"
+    },
+    {
+      "text": "shaping how you show up on like a week",
+      "duration": 3.96,
+      "offset": 636.8,
+      "lang": "en"
+    },
+    {
+      "text": "toe basis can you talk a little bit",
+      "duration": 5.68,
+      "offset": 638.8,
+      "lang": "en"
+    },
+    {
+      "text": "about how that strategy element comes",
+      "duration": 5.36,
+      "offset": 640.76,
+      "lang": "en"
+    },
+    {
+      "text": "out in your work and kind of even just",
+      "duration": 3.28,
+      "offset": 644.48,
+      "lang": "en"
+    },
+    {
+      "text": "shed a light on like how you as a team",
+      "duration": 3.44,
+      "offset": 646.12,
+      "lang": "en"
+    },
+    {
+      "text": "operate too A lot of the brand work that",
+      "duration": 3.52,
+      "offset": 647.76,
+      "lang": "en"
+    },
+    {
+      "text": "comes out really driven by the product",
+      "duration": 4.0,
+      "offset": 649.56,
+      "lang": "en"
+    },
+    {
+      "text": "team um and and our growth team as well",
+      "duration": 5.12,
+      "offset": 651.28,
+      "lang": "en"
+    },
+    {
+      "text": "like we work we as in our our brand Team",
+      "duration": 4.24,
+      "offset": 653.56,
+      "lang": "en"
+    },
+    {
+      "text": "work really close with our head of",
+      "duration": 4.36,
+      "offset": 656.4,
+      "lang": "en"
+    },
+    {
+      "text": "growth and Johnny who&#39;s our chief",
+      "duration": 4.56,
+      "offset": 657.8,
+      "lang": "en"
+    },
+    {
+      "text": "strategy officer like a lot of the",
+      "duration": 3.48,
+      "offset": 660.76,
+      "lang": "en"
+    },
+    {
+      "text": "initiative and the road map really comes",
+      "duration": 4.48,
+      "offset": 662.36,
+      "lang": "en"
+    },
+    {
+      "text": "from from them like Hey we&#39;re launching",
+      "duration": 5.48,
+      "offset": 664.24,
+      "lang": "en"
+    },
+    {
+      "text": "this feature help us visualize it no one",
+      "duration": 5.44,
+      "offset": 666.84,
+      "lang": "en"
+    },
+    {
+      "text": "really comes to us with prescribed",
+      "duration": 4.44,
+      "offset": 669.72,
+      "lang": "en"
+    },
+    {
+      "text": "direction or creative Direction every",
+      "duration": 4.6,
+      "offset": 672.28,
+      "lang": "en"
+    },
+    {
+      "text": "week we have an all hands meaning just",
+      "duration": 4.48,
+      "offset": 674.16,
+      "lang": "en"
+    },
+    {
+      "text": "like kick off the week like hey this is",
+      "duration": 3.0,
+      "offset": 676.88,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re focused on this is what we&#39;re",
+      "duration": 3.48,
+      "offset": 678.64,
+      "lang": "en"
+    },
+    {
+      "text": "launching and then for for our team we",
+      "duration": 3.92,
+      "offset": 679.88,
+      "lang": "en"
+    },
+    {
+      "text": "sort of look at that and say all right",
+      "duration": 3.28,
+      "offset": 682.12,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what we should be prioritizing so",
+      "duration": 5.12,
+      "offset": 683.8,
+      "lang": "en"
+    },
+    {
+      "text": "we just all hle around that big launch",
+      "duration": 5.48,
+      "offset": 685.4,
+      "lang": "en"
+    },
+    {
+      "text": "which again like it feels like every",
+      "duration": 3.68,
+      "offset": 688.92,
+      "lang": "en"
+    },
+    {
+      "text": "week we&#39;re launching something big and",
+      "duration": 3.92,
+      "offset": 690.88,
+      "lang": "en"
+    },
+    {
+      "text": "so the timelines are really short and",
+      "duration": 5.6,
+      "offset": 692.6,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s where using AI tools like mid",
+      "duration": 5.88,
+      "offset": 694.8,
+      "lang": "en"
+    },
+    {
+      "text": "Journey or Luma or Runway or like using",
+      "duration": 4.16,
+      "offset": 698.2,
+      "lang": "en"
+    },
+    {
+      "text": "these different tools gives us the",
+      "duration": 4.28,
+      "offset": 700.68,
+      "lang": "en"
+    },
+    {
+      "text": "opportunity to like move just as fast as",
+      "duration": 4.4,
+      "offset": 702.36,
+      "lang": "en"
+    },
+    {
+      "text": "the product teams by the time we start",
+      "duration": 3.92,
+      "offset": 704.96,
+      "lang": "en"
+    },
+    {
+      "text": "marketing it or like designing assets",
+      "duration": 3.6,
+      "offset": 706.76,
+      "lang": "en"
+    },
+    {
+      "text": "for it we sort of already know the",
+      "duration": 4.12,
+      "offset": 708.88,
+      "lang": "en"
+    },
+    {
+      "text": "intent or the the essence of what that",
+      "duration": 5.56,
+      "offset": 710.36,
+      "lang": "en"
+    },
+    {
+      "text": "features is supposed to evoke in people",
+      "duration": 5.0,
+      "offset": 713.0,
+      "lang": "en"
+    },
+    {
+      "text": "like spaces we launch spaces where it&#39;s",
+      "duration": 4.44,
+      "offset": 715.92,
+      "lang": "en"
+    },
+    {
+      "text": "just like a collection of of all of your",
+      "duration": 4.12,
+      "offset": 718.0,
+      "lang": "en"
+    },
+    {
+      "text": "your searches but you can basically",
+      "duration": 5.0,
+      "offset": 720.36,
+      "lang": "en"
+    },
+    {
+      "text": "prompt it to format your answer in in",
+      "duration": 5.72,
+      "offset": 722.12,
+      "lang": "en"
+    },
+    {
+      "text": "your way and in your own voice and so",
+      "duration": 4.6,
+      "offset": 725.36,
+      "lang": "en"
+    },
+    {
+      "text": "this is just more of a an example but we",
+      "duration": 4.12,
+      "offset": 727.84,
+      "lang": "en"
+    },
+    {
+      "text": "took that and said all right well we&#39;re",
+      "duration": 3.64,
+      "offset": 729.96,
+      "lang": "en"
+    },
+    {
+      "text": "going to call it spaces and what does",
+      "duration": 4.0,
+      "offset": 731.96,
+      "lang": "en"
+    },
+    {
+      "text": "spaces actually mean and how do we",
+      "duration": 4.88,
+      "offset": 733.6,
+      "lang": "en"
+    },
+    {
+      "text": "visually represent like a collection of",
+      "duration": 4.56,
+      "offset": 735.96,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re trying to learn and so there",
+      "duration": 4.16,
+      "offset": 738.48,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a brand video or like just even",
+      "duration": 4.64,
+      "offset": 740.52,
+      "lang": "en"
+    },
+    {
+      "text": "visuals of like a person in an empty",
+      "duration": 5.24,
+      "offset": 742.64,
+      "lang": "en"
+    },
+    {
+      "text": "room or a dark room where you have these",
+      "duration": 4.72,
+      "offset": 745.16,
+      "lang": "en"
+    },
+    {
+      "text": "panels sort of floating",
+      "duration": 5.12,
+      "offset": 747.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a surreal type uh of composition",
+      "duration": 5.64,
+      "offset": 749.88,
+      "lang": "en"
+    },
+    {
+      "text": "but it it was a way to sort of represent",
+      "duration": 5.24,
+      "offset": 753.0,
+      "lang": "en"
+    },
+    {
+      "text": "like hey this is your space and each one",
+      "duration": 4.56,
+      "offset": 755.52,
+      "lang": "en"
+    },
+    {
+      "text": "of these panels represents like",
+      "duration": 3.68,
+      "offset": 758.24,
+      "lang": "en"
+    },
+    {
+      "text": "something new that you&#39;re learning and",
+      "duration": 3.44,
+      "offset": 760.08,
+      "lang": "en"
+    },
+    {
+      "text": "and ultimately like how do we make it",
+      "duration": 4.2,
+      "offset": 761.92,
+      "lang": "en"
+    },
+    {
+      "text": "feel like you can even like enter these",
+      "duration": 5.0,
+      "offset": 763.52,
+      "lang": "en"
+    },
+    {
+      "text": "individual panels as like oh this is",
+      "duration": 4.64,
+      "offset": 766.12,
+      "lang": "en"
+    },
+    {
+      "text": "what this subject is about like this is",
+      "duration": 4.92,
+      "offset": 768.52,
+      "lang": "en"
+    },
+    {
+      "text": "how I would represent the collection but",
+      "duration": 4.68,
+      "offset": 770.76,
+      "lang": "en"
+    },
+    {
+      "text": "just a different way you know rather",
+      "duration": 5.2,
+      "offset": 773.44,
+      "lang": "en"
+    },
+    {
+      "text": "than being just very literal about",
+      "duration": 4.36,
+      "offset": 775.44,
+      "lang": "en"
+    },
+    {
+      "text": "spaces",
+      "duration": 3.6,
+      "offset": 778.64,
+      "lang": "en"
+    },
+    {
+      "text": "and like just showing folders and it was",
+      "duration": 4.04,
+      "offset": 779.8,
+      "lang": "en"
+    },
+    {
+      "text": "just like an opportunity for us to just",
+      "duration": 4.48,
+      "offset": 782.24,
+      "lang": "en"
+    },
+    {
+      "text": "make it feel the Cinematic scene that",
+      "duration": 4.68,
+      "offset": 783.84,
+      "lang": "en"
+    },
+    {
+      "text": "that that you&#39;re about to step into",
+      "duration": 4.4,
+      "offset": 786.72,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s how we can go from just one week",
+      "duration": 5.2,
+      "offset": 788.52,
+      "lang": "en"
+    },
+    {
+      "text": "just kicking off to thinking about like",
+      "duration": 4.04,
+      "offset": 791.12,
+      "lang": "en"
+    },
+    {
+      "text": "the essence of what we&#39;re trying to",
+      "duration": 3.4,
+      "offset": 793.72,
+      "lang": "en"
+    },
+    {
+      "text": "launch and then of course like",
+      "duration": 3.68,
+      "offset": 795.16,
+      "lang": "en"
+    },
+    {
+      "text": "collaborating with these tools to help",
+      "duration": 4.0,
+      "offset": 797.12,
+      "lang": "en"
+    },
+    {
+      "text": "us visualize something that we wouldn&#39;t",
+      "duration": 4.12,
+      "offset": 798.84,
+      "lang": "en"
+    },
+    {
+      "text": "have been able to do in such a short",
+      "duration": 4.48,
+      "offset": 801.12,
+      "lang": "en"
+    },
+    {
+      "text": "amount of time but of course applying",
+      "duration": 4.2,
+      "offset": 802.96,
+      "lang": "en"
+    },
+    {
+      "text": "our experience and our tuition and our",
+      "duration": 4.88,
+      "offset": 805.6,
+      "lang": "en"
+    },
+    {
+      "text": "taste to these images or these videos so",
+      "duration": 5.64,
+      "offset": 807.16,
+      "lang": "en"
+    },
+    {
+      "text": "that it feels branded it feels",
+      "duration": 5.4,
+      "offset": 810.48,
+      "lang": "en"
+    },
+    {
+      "text": "intentional yes AI generated this thing",
+      "duration": 6.16,
+      "offset": 812.8,
+      "lang": "en"
+    },
+    {
+      "text": "but ultimately I controlled the",
+      "duration": 5.52,
+      "offset": 815.88,
+      "lang": "en"
+    },
+    {
+      "text": "direction and like what ultimately came",
+      "duration": 5.24,
+      "offset": 818.96,
+      "lang": "en"
+    },
+    {
+      "text": "out of mid journey into Photoshop into",
+      "duration": 4.28,
+      "offset": 821.4,
+      "lang": "en"
+    },
+    {
+      "text": "like all these other tools just to make",
+      "duration": 3.72,
+      "offset": 824.2,
+      "lang": "en"
+    },
+    {
+      "text": "that final output and I think that&#39;s",
+      "duration": 5.08,
+      "offset": 825.68,
+      "lang": "en"
+    },
+    {
+      "text": "like the most liberating thing as a",
+      "duration": 5.48,
+      "offset": 827.92,
+      "lang": "en"
+    },
+    {
+      "text": "creative person that we we don&#39;t have to",
+      "duration": 5.2,
+      "offset": 830.76,
+      "lang": "en"
+    },
+    {
+      "text": "rely on you know four or five different",
+      "duration": 5.04,
+      "offset": 833.4,
+      "lang": "en"
+    },
+    {
+      "text": "people to to make these decisions versus",
+      "duration": 4.56,
+      "offset": 835.96,
+      "lang": "en"
+    },
+    {
+      "text": "like hey I have a vision for this and",
+      "duration": 3.52,
+      "offset": 838.44,
+      "lang": "en"
+    },
+    {
+      "text": "then being able to share that with our",
+      "duration": 3.24,
+      "offset": 840.52,
+      "lang": "en"
+    },
+    {
+      "text": "team just like our internal team is like",
+      "duration": 3.12,
+      "offset": 841.96,
+      "lang": "en"
+    },
+    {
+      "text": "hey what do you guys think of this and",
+      "duration": 3.48,
+      "offset": 843.76,
+      "lang": "en"
+    },
+    {
+      "text": "then get feedback from them because I we",
+      "duration": 4.96,
+      "offset": 845.08,
+      "lang": "en"
+    },
+    {
+      "text": "just built this Brain Trust of people to",
+      "duration": 4.8,
+      "offset": 847.24,
+      "lang": "en"
+    },
+    {
+      "text": "then say like all right we feel good",
+      "duration": 3.48,
+      "offset": 850.04,
+      "lang": "en"
+    },
+    {
+      "text": "about this like this should go out into",
+      "duration": 3.48,
+      "offset": 852.04,
+      "lang": "en"
+    },
+    {
+      "text": "the world because we we feel strongly",
+      "duration": 4.16,
+      "offset": 853.52,
+      "lang": "en"
+    },
+    {
+      "text": "that this will evoke that emotion that",
+      "duration": 3.84,
+      "offset": 855.52,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re trying to go after I want to use",
+      "duration": 3.92,
+      "offset": 857.68,
+      "lang": "en"
+    },
+    {
+      "text": "this as kind of a launching Point into",
+      "duration": 4.68,
+      "offset": 859.36,
+      "lang": "en"
+    },
+    {
+      "text": "your own creative process and maybe you",
+      "duration": 4.56,
+      "offset": 861.6,
+      "lang": "en"
+    },
+    {
+      "text": "could continue to talk about spaces or",
+      "duration": 3.52,
+      "offset": 864.04,
+      "lang": "en"
+    },
+    {
+      "text": "really any other project that you&#39;re",
+      "duration": 4.72,
+      "offset": 866.16,
+      "lang": "en"
+    },
+    {
+      "text": "particularly proud of once you have that",
+      "duration": 5.52,
+      "offset": 867.56,
+      "lang": "en"
+    },
+    {
+      "text": "opportunity presented to you and you",
+      "duration": 4.96,
+      "offset": 870.88,
+      "lang": "en"
+    },
+    {
+      "text": "know maybe you have like that seed of an",
+      "duration": 5.76,
+      "offset": 873.08,
+      "lang": "en"
+    },
+    {
+      "text": "idea what are some of those first steps",
+      "duration": 5.52,
+      "offset": 875.84,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;re taking in order to even",
+      "duration": 4.12,
+      "offset": 878.84,
+      "lang": "en"
+    },
+    {
+      "text": "visualize what this could potentially",
+      "duration": 3.76,
+      "offset": 881.36,
+      "lang": "en"
+    },
+    {
+      "text": "become yeah I think a lot of the time is",
+      "duration": 5.84,
+      "offset": 882.96,
+      "lang": "en"
+    },
+    {
+      "text": "is mostly like words like thinking about",
+      "duration": 7.2,
+      "offset": 885.12,
+      "lang": "en"
+    },
+    {
+      "text": "okay if we&#39;re going to launch a feature",
+      "duration": 5.8,
+      "offset": 888.8,
+      "lang": "en"
+    },
+    {
+      "text": "what is that what is the essence of that",
+      "duration": 4.12,
+      "offset": 892.32,
+      "lang": "en"
+    },
+    {
+      "text": "feature that we&#39;re trying to launch and",
+      "duration": 4.16,
+      "offset": 894.6,
+      "lang": "en"
+    },
+    {
+      "text": "really like dig dig a little bit deeper",
+      "duration": 4.88,
+      "offset": 896.44,
+      "lang": "en"
+    },
+    {
+      "text": "than what that feature actually is right",
+      "duration": 5.08,
+      "offset": 898.76,
+      "lang": "en"
+    },
+    {
+      "text": "like extract that figure out what the",
+      "duration": 4.84,
+      "offset": 901.32,
+      "lang": "en"
+    },
+    {
+      "text": "benefit is and then just go down a",
+      "duration": 5.04,
+      "offset": 903.84,
+      "lang": "en"
+    },
+    {
+      "text": "rabbit hole of just different types of",
+      "duration": 5.2,
+      "offset": 906.16,
+      "lang": "en"
+    },
+    {
+      "text": "metaphors or analogies that would help",
+      "duration": 4.24,
+      "offset": 908.88,
+      "lang": "en"
+    },
+    {
+      "text": "represent that there&#39;s this one poster",
+      "duration": 4.48,
+      "offset": 911.36,
+      "lang": "en"
+    },
+    {
+      "text": "that I made where I heard someone from",
+      "duration": 4.64,
+      "offset": 913.12,
+      "lang": "en"
+    },
+    {
+      "text": "the business team say a lot to the",
+      "duration": 3.48,
+      "offset": 915.84,
+      "lang": "en"
+    },
+    {
+      "text": "customers saying like oh we help you",
+      "duration": 3.24,
+      "offset": 917.76,
+      "lang": "en"
+    },
+    {
+      "text": "find the needle in the Hy stack and I&#39;ve",
+      "duration": 3.48,
+      "offset": 919.32,
+      "lang": "en"
+    },
+    {
+      "text": "heard that over and over and over again",
+      "duration": 3.56,
+      "offset": 921.0,
+      "lang": "en"
+    },
+    {
+      "text": "and and and of course it&#39;s on the brand",
+      "duration": 3.28,
+      "offset": 922.8,
+      "lang": "en"
+    },
+    {
+      "text": "Team to really like do something with",
+      "duration": 3.88,
+      "offset": 924.56,
+      "lang": "en"
+    },
+    {
+      "text": "that because that&#39;s that&#39;s a signal that",
+      "duration": 4.04,
+      "offset": 926.08,
+      "lang": "en"
+    },
+    {
+      "text": "where where people people are finally",
+      "duration": 3.52,
+      "offset": 928.44,
+      "lang": "en"
+    },
+    {
+      "text": "like understanding like oh okay",
+      "duration": 3.72,
+      "offset": 930.12,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity is just not a chatbot anymore",
+      "duration": 4.12,
+      "offset": 931.96,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a tool for you to find to help you",
+      "duration": 3.56,
+      "offset": 933.84,
+      "lang": "en"
+    },
+    {
+      "text": "get the answer that you actually looking",
+      "duration": 4.64,
+      "offset": 936.08,
+      "lang": "en"
+    },
+    {
+      "text": "for I just went into mid journey and",
+      "duration": 5.08,
+      "offset": 937.4,
+      "lang": "en"
+    },
+    {
+      "text": "just started playing around with like",
+      "duration": 5.52,
+      "offset": 940.72,
+      "lang": "en"
+    },
+    {
+      "text": "all right hand holding needle with like",
+      "duration": 5.72,
+      "offset": 942.48,
+      "lang": "en"
+    },
+    {
+      "text": "a shimmering point right and of course",
+      "duration": 3.44,
+      "offset": 946.24,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to give me a bunch of like",
+      "duration": 4.12,
+      "offset": 948.2,
+      "lang": "en"
+    },
+    {
+      "text": "different Aesthetics But ultimately I",
+      "duration": 4.68,
+      "offset": 949.68,
+      "lang": "en"
+    },
+    {
+      "text": "just wanted to see what mid Journey came",
+      "duration": 6.0,
+      "offset": 952.32,
+      "lang": "en"
+    },
+    {
+      "text": "up with so that it gives me more fuel to",
+      "duration": 6.76,
+      "offset": 954.36,
+      "lang": "en"
+    },
+    {
+      "text": "sort of understand all right how am I",
+      "duration": 5.2,
+      "offset": 958.32,
+      "lang": "en"
+    },
+    {
+      "text": "going to basically lay at the type the",
+      "duration": 4.52,
+      "offset": 961.12,
+      "lang": "en"
+    },
+    {
+      "text": "type on this right like how much room",
+      "duration": 4.84,
+      "offset": 963.52,
+      "lang": "en"
+    },
+    {
+      "text": "how much room do I need to express the",
+      "duration": 5.8,
+      "offset": 965.64,
+      "lang": "en"
+    },
+    {
+      "text": "type in a way that feels powerful but",
+      "duration": 5.72,
+      "offset": 968.36,
+      "lang": "en"
+    },
+    {
+      "text": "also like elegant all at the same time",
+      "duration": 4.84,
+      "offset": 971.44,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s sort of like the the Crux of",
+      "duration": 4.4,
+      "offset": 974.08,
+      "lang": "en"
+    },
+    {
+      "text": "where I begin is is really like what",
+      "duration": 4.52,
+      "offset": 976.28,
+      "lang": "en"
+    },
+    {
+      "text": "what am I trying to say with this piece",
+      "duration": 3.92,
+      "offset": 978.48,
+      "lang": "en"
+    },
+    {
+      "text": "and then just sort of build a world",
+      "duration": 3.84,
+      "offset": 980.8,
+      "lang": "en"
+    },
+    {
+      "text": "around that as much as possible okay so",
+      "duration": 5.32,
+      "offset": 982.4,
+      "lang": "en"
+    },
+    {
+      "text": "then you get that initial prompt out",
+      "duration": 5.56,
+      "offset": 984.64,
+      "lang": "en"
+    },
+    {
+      "text": "there you get that initial set of images",
+      "duration": 4.2,
+      "offset": 987.72,
+      "lang": "en"
+    },
+    {
+      "text": "you see the shimmering point it&#39;s",
+      "duration": 3.44,
+      "offset": 990.2,
+      "lang": "en"
+    },
+    {
+      "text": "obviously not even close to perfect in",
+      "duration": 3.56,
+      "offset": 991.92,
+      "lang": "en"
+    },
+    {
+      "text": "the first time I think a lot of people",
+      "duration": 5.04,
+      "offset": 993.64,
+      "lang": "en"
+    },
+    {
+      "text": "listening are curious about some of",
+      "duration": 5.28,
+      "offset": 995.48,
+      "lang": "en"
+    },
+    {
+      "text": "these generative tools but maybe haven&#39;t",
+      "duration": 4.84,
+      "offset": 998.68,
+      "lang": "en"
+    },
+    {
+      "text": "really Dove all the way in yet so what",
+      "duration": 5.08,
+      "offset": 1000.76,
+      "lang": "en"
+    },
+    {
+      "text": "have you learned or how have you refined",
+      "duration": 4.32,
+      "offset": 1003.52,
+      "lang": "en"
+    },
+    {
+      "text": "your process of going from that initial",
+      "duration": 6.28,
+      "offset": 1005.84,
+      "lang": "en"
+    },
+    {
+      "text": "set of images to ultimately that final",
+      "duration": 6.16,
+      "offset": 1007.84,
+      "lang": "en"
+    },
+    {
+      "text": "output that you&#39;re really proud of I&#39;m",
+      "duration": 3.76,
+      "offset": 1012.12,
+      "lang": "en"
+    },
+    {
+      "text": "just going to use M Journey as a you",
+      "duration": 3.88,
+      "offset": 1014.0,
+      "lang": "en"
+    },
+    {
+      "text": "know it is a tool that I use there&#39;s a",
+      "duration": 4.04,
+      "offset": 1015.88,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of other tools visual electric",
+      "duration": 4.16,
+      "offset": 1017.88,
+      "lang": "en"
+    },
+    {
+      "text": "which is great I&#39;ve started using mid",
+      "duration": 5.96,
+      "offset": 1019.92,
+      "lang": "en"
+    },
+    {
+      "text": "Journey oh my gosh back in maybe June of",
+      "duration": 8.04,
+      "offset": 1022.04,
+      "lang": "en"
+    },
+    {
+      "text": "2021 or 2022 again it was not great at",
+      "duration": 6.52,
+      "offset": 1025.88,
+      "lang": "en"
+    },
+    {
+      "text": "the time but it did unlock so many",
+      "duration": 5.68,
+      "offset": 1030.08,
+      "lang": "en"
+    },
+    {
+      "text": "opportunities as someone who loves",
+      "duration": 5.56,
+      "offset": 1032.4,
+      "lang": "en"
+    },
+    {
+      "text": "visuals and like making visuals all the",
+      "duration": 4.64,
+      "offset": 1035.76,
+      "lang": "en"
+    },
+    {
+      "text": "time that this was just a just a cool",
+      "duration": 5.6,
+      "offset": 1037.96,
+      "lang": "en"
+    },
+    {
+      "text": "way to extend that that muscle a little",
+      "duration": 4.4,
+      "offset": 1040.4,
+      "lang": "en"
+    },
+    {
+      "text": "bit or like just really stretch that",
+      "duration": 4.04,
+      "offset": 1043.56,
+      "lang": "en"
+    },
+    {
+      "text": "muscle of like now I have nothing sort",
+      "duration": 5.28,
+      "offset": 1044.8,
+      "lang": "en"
+    },
+    {
+      "text": "of blocking me from like executing on",
+      "duration": 4.36,
+      "offset": 1047.6,
+      "lang": "en"
+    },
+    {
+      "text": "the vision that I have and so mid",
+      "duration": 3.68,
+      "offset": 1050.08,
+      "lang": "en"
+    },
+    {
+      "text": "Journey was that for me and so spending",
+      "duration": 4.32,
+      "offset": 1051.96,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of time in in Discord with a",
+      "duration": 4.96,
+      "offset": 1053.76,
+      "lang": "en"
+    },
+    {
+      "text": "Discord bot uh when mid Journey was in",
+      "duration": 4.88,
+      "offset": 1056.28,
+      "lang": "en"
+    },
+    {
+      "text": "there and it was just awful I absolutely",
+      "duration": 4.6,
+      "offset": 1058.72,
+      "lang": "en"
+    },
+    {
+      "text": "hated it maybe after a few months just",
+      "duration": 3.72,
+      "offset": 1061.16,
+      "lang": "en"
+    },
+    {
+      "text": "like playing with it and not not even",
+      "duration": 4.84,
+      "offset": 1063.32,
+      "lang": "en"
+    },
+    {
+      "text": "using it for any professional output at",
+      "duration": 5.16,
+      "offset": 1064.88,
+      "lang": "en"
+    },
+    {
+      "text": "all it was just more like how can I just",
+      "duration": 3.72,
+      "offset": 1068.16,
+      "lang": "en"
+    },
+    {
+      "text": "like make something cool today because",
+      "duration": 3.32,
+      "offset": 1070.04,
+      "lang": "en"
+    },
+    {
+      "text": "as that progressed I just got more",
+      "duration": 4.12,
+      "offset": 1071.88,
+      "lang": "en"
+    },
+    {
+      "text": "comfortable just using the tool because",
+      "duration": 4.0,
+      "offset": 1073.36,
+      "lang": "en"
+    },
+    {
+      "text": "you know I was just like following",
+      "duration": 3.24,
+      "offset": 1076.0,
+      "lang": "en"
+    },
+    {
+      "text": "people on Twitter who were just spending",
+      "duration": 4.2,
+      "offset": 1077.36,
+      "lang": "en"
+    },
+    {
+      "text": "all day in this tool like I I maybe had",
+      "duration": 4.04,
+      "offset": 1079.24,
+      "lang": "en"
+    },
+    {
+      "text": "like maybe a couple hours a day when",
+      "duration": 3.28,
+      "offset": 1081.56,
+      "lang": "en"
+    },
+    {
+      "text": "when I was just like hey I have a free",
+      "duration": 3.32,
+      "offset": 1083.28,
+      "lang": "en"
+    },
+    {
+      "text": "moment to just like generate something",
+      "duration": 4.8,
+      "offset": 1084.84,
+      "lang": "en"
+    },
+    {
+      "text": "because I heard this phrase or I saw",
+      "duration": 4.68,
+      "offset": 1086.6,
+      "lang": "en"
+    },
+    {
+      "text": "this artwork on Pinterest where I was",
+      "duration": 3.08,
+      "offset": 1089.64,
+      "lang": "en"
+    },
+    {
+      "text": "just like doing mood boards that I just",
+      "duration": 3.16,
+      "offset": 1091.28,
+      "lang": "en"
+    },
+    {
+      "text": "like I want to make something like that",
+      "duration": 4.84,
+      "offset": 1092.72,
+      "lang": "en"
+    },
+    {
+      "text": "too just get as close to the thing that",
+      "duration": 5.36,
+      "offset": 1094.44,
+      "lang": "en"
+    },
+    {
+      "text": "I was visualizing my head on the screen",
+      "duration": 4.44,
+      "offset": 1097.56,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s sort of my first like aha moment",
+      "duration": 4.92,
+      "offset": 1099.8,
+      "lang": "en"
+    },
+    {
+      "text": "with mid Journey where when I finally",
+      "duration": 5.36,
+      "offset": 1102.0,
+      "lang": "en"
+    },
+    {
+      "text": "had the concept tied to something",
+      "duration": 4.44,
+      "offset": 1104.72,
+      "lang": "en"
+    },
+    {
+      "text": "meaningful and something intentional",
+      "duration": 3.88,
+      "offset": 1107.36,
+      "lang": "en"
+    },
+    {
+      "text": "going from like an artist to like now",
+      "duration": 4.4,
+      "offset": 1109.16,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s like a problem to solve with",
+      "duration": 4.08,
+      "offset": 1111.24,
+      "lang": "en"
+    },
+    {
+      "text": "this visual right I think that&#39;s where",
+      "duration": 4.2,
+      "offset": 1113.56,
+      "lang": "en"
+    },
+    {
+      "text": "you go from like Artistry to design",
+      "duration": 4.88,
+      "offset": 1115.32,
+      "lang": "en"
+    },
+    {
+      "text": "where now you&#39;re using this asset as",
+      "duration": 4.52,
+      "offset": 1117.76,
+      "lang": "en"
+    },
+    {
+      "text": "something to evoke not just an emotion",
+      "duration": 3.72,
+      "offset": 1120.2,
+      "lang": "en"
+    },
+    {
+      "text": "of course that&#39;s the art the the",
+      "duration": 3.48,
+      "offset": 1122.28,
+      "lang": "en"
+    },
+    {
+      "text": "artistic part of it but the design part",
+      "duration": 3.44,
+      "offset": 1123.92,
+      "lang": "en"
+    },
+    {
+      "text": "of it is what what is this actually",
+      "duration": 3.8,
+      "offset": 1125.76,
+      "lang": "en"
+    },
+    {
+      "text": "accomplishing it&#39;s accomplishing the",
+      "duration": 4.8,
+      "offset": 1127.36,
+      "lang": "en"
+    },
+    {
+      "text": "brand strategy and so that was really",
+      "duration": 5.64,
+      "offset": 1129.56,
+      "lang": "en"
+    },
+    {
+      "text": "cool to be given the space to just use",
+      "duration": 5.72,
+      "offset": 1132.16,
+      "lang": "en"
+    },
+    {
+      "text": "this tool as the tool of choice to help",
+      "duration": 5.28,
+      "offset": 1135.2,
+      "lang": "en"
+    },
+    {
+      "text": "execute on our visual aesthetic right",
+      "duration": 4.4,
+      "offset": 1137.88,
+      "lang": "en"
+    },
+    {
+      "text": "because as a startup designer you&#39;re",
+      "duration": 3.92,
+      "offset": 1140.48,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re sort of just like boxed into",
+      "duration": 4.84,
+      "offset": 1142.28,
+      "lang": "en"
+    },
+    {
+      "text": "maybe a few tools like unsplashed a lot",
+      "duration": 5.92,
+      "offset": 1144.4,
+      "lang": "en"
+    },
+    {
+      "text": "of these like uh royaltyfree stock sites",
+      "duration": 5.24,
+      "offset": 1147.12,
+      "lang": "en"
+    },
+    {
+      "text": "or just even stocksy where some people",
+      "duration": 3.68,
+      "offset": 1150.32,
+      "lang": "en"
+    },
+    {
+      "text": "like will buy them and of course like if",
+      "duration": 3.24,
+      "offset": 1152.36,
+      "lang": "en"
+    },
+    {
+      "text": "you would hire photographers or artists",
+      "duration": 3.36,
+      "offset": 1154.0,
+      "lang": "en"
+    },
+    {
+      "text": "to like create these things but",
+      "duration": 3.84,
+      "offset": 1155.6,
+      "lang": "en"
+    },
+    {
+      "text": "ultimately at at the time we just didn&#39;t",
+      "duration": 4.0,
+      "offset": 1157.36,
+      "lang": "en"
+    },
+    {
+      "text": "have the time or bandwidth or even",
+      "duration": 3.36,
+      "offset": 1159.44,
+      "lang": "en"
+    },
+    {
+      "text": "resources to even manage those",
+      "duration": 3.6,
+      "offset": 1161.36,
+      "lang": "en"
+    },
+    {
+      "text": "relationships versus being able to come",
+      "duration": 4.92,
+      "offset": 1162.8,
+      "lang": "en"
+    },
+    {
+      "text": "up with those Concepts and art Direction",
+      "duration": 5.32,
+      "offset": 1164.96,
+      "lang": "en"
+    },
+    {
+      "text": "all inhouse and sort of be Fearless",
+      "duration": 4.28,
+      "offset": 1167.72,
+      "lang": "en"
+    },
+    {
+      "text": "about just like using those tools and",
+      "duration": 3.36,
+      "offset": 1170.28,
+      "lang": "en"
+    },
+    {
+      "text": "putting them out into the world and of",
+      "duration": 3.76,
+      "offset": 1172.0,
+      "lang": "en"
+    },
+    {
+      "text": "course executing on Aesthetics that you",
+      "duration": 4.44,
+      "offset": 1173.64,
+      "lang": "en"
+    },
+    {
+      "text": "would have never been able to do until",
+      "duration": 5.04,
+      "offset": 1175.76,
+      "lang": "en"
+    },
+    {
+      "text": "now right and so it&#39;s it&#39;s I think it&#39;s",
+      "duration": 5.0,
+      "offset": 1178.08,
+      "lang": "en"
+    },
+    {
+      "text": "sort of up to leadership design",
+      "duration": 4.04,
+      "offset": 1180.8,
+      "lang": "en"
+    },
+    {
+      "text": "leadership in general to really think",
+      "duration": 4.72,
+      "offset": 1183.08,
+      "lang": "en"
+    },
+    {
+      "text": "about like hey how can we leverage these",
+      "duration": 6.48,
+      "offset": 1184.84,
+      "lang": "en"
+    },
+    {
+      "text": "tools in a way that will only boost our",
+      "duration": 6.44,
+      "offset": 1187.8,
+      "lang": "en"
+    },
+    {
+      "text": "brand even more and and even faster and",
+      "duration": 4.64,
+      "offset": 1191.32,
+      "lang": "en"
+    },
+    {
+      "text": "and of course because there&#39;s so many",
+      "duration": 3.6,
+      "offset": 1194.24,
+      "lang": "en"
+    },
+    {
+      "text": "people on some of these teams each one",
+      "duration": 3.84,
+      "offset": 1195.96,
+      "lang": "en"
+    },
+    {
+      "text": "of those designers would have their own",
+      "duration": 4.16,
+      "offset": 1197.84,
+      "lang": "en"
+    },
+    {
+      "text": "sort of like sense of style and taste",
+      "duration": 4.88,
+      "offset": 1199.8,
+      "lang": "en"
+    },
+    {
+      "text": "that they could also add to it as well",
+      "duration": 4.52,
+      "offset": 1202.0,
+      "lang": "en"
+    },
+    {
+      "text": "versus being very prescriptive about",
+      "duration": 3.4,
+      "offset": 1204.68,
+      "lang": "en"
+    },
+    {
+      "text": "like what the Aesthetics should be",
+      "duration": 4.28,
+      "offset": 1206.52,
+      "lang": "en"
+    },
+    {
+      "text": "always for us it&#39;s more like well does",
+      "duration": 5.84,
+      "offset": 1208.08,
+      "lang": "en"
+    },
+    {
+      "text": "this evoke curiosity and wonder and if",
+      "duration": 4.6,
+      "offset": 1210.8,
+      "lang": "en"
+    },
+    {
+      "text": "it does then like whether or not it",
+      "duration": 4.16,
+      "offset": 1213.92,
+      "lang": "en"
+    },
+    {
+      "text": "looks like a retrofuturistic poster or a",
+      "duration": 6.64,
+      "offset": 1215.4,
+      "lang": "en"
+    },
+    {
+      "text": "retrofuturistic scene versus like an",
+      "duration": 6.28,
+      "offset": 1218.08,
+      "lang": "en"
+    },
+    {
+      "text": "illustration of a curious cat reading a",
+      "duration": 4.28,
+      "offset": 1222.04,
+      "lang": "en"
+    },
+    {
+      "text": "book it it doesn&#39;t matter because those",
+      "duration": 4.4,
+      "offset": 1224.36,
+      "lang": "en"
+    },
+    {
+      "text": "two things are creatively consistent",
+      "duration": 5.8,
+      "offset": 1226.32,
+      "lang": "en"
+    },
+    {
+      "text": "versus like being visually consistent",
+      "duration": 5.68,
+      "offset": 1228.76,
+      "lang": "en"
+    },
+    {
+      "text": "across the board and what I hope that",
+      "duration": 4.32,
+      "offset": 1232.12,
+      "lang": "en"
+    },
+    {
+      "text": "people can experience when they look at",
+      "duration": 3.52,
+      "offset": 1234.44,
+      "lang": "en"
+    },
+    {
+      "text": "all these different visuals it&#39;s all",
+      "duration": 3.84,
+      "offset": 1236.44,
+      "lang": "en"
+    },
+    {
+      "text": "coming from a place of like",
+      "duration": 4.56,
+      "offset": 1237.96,
+      "lang": "en"
+    },
+    {
+      "text": "experimentation and exploration and and",
+      "duration": 3.76,
+      "offset": 1240.28,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no bound to that right because",
+      "duration": 3.76,
+      "offset": 1242.52,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to be questions that you ask",
+      "duration": 4.08,
+      "offset": 1244.04,
+      "lang": "en"
+    },
+    {
+      "text": "for your own personal life but then also",
+      "duration": 3.08,
+      "offset": 1246.28,
+      "lang": "en"
+    },
+    {
+      "text": "questions that you would ask for your",
+      "duration": 2.92,
+      "offset": 1248.12,
+      "lang": "en"
+    },
+    {
+      "text": "professional life and so that&#39;s that&#39;s",
+      "duration": 5.04,
+      "offset": 1249.36,
+      "lang": "en"
+    },
+    {
+      "text": "where we get to sort of push and pull on",
+      "duration": 5.92,
+      "offset": 1251.04,
+      "lang": "en"
+    },
+    {
+      "text": "whether something feels and looks like",
+      "duration": 4.24,
+      "offset": 1254.4,
+      "lang": "en"
+    },
+    {
+      "text": "oh this is like a serious thing like how",
+      "duration": 3.8,
+      "offset": 1256.96,
+      "lang": "en"
+    },
+    {
+      "text": "do we visualize that in that way oh hey",
+      "duration": 4.04,
+      "offset": 1258.64,
+      "lang": "en"
+    },
+    {
+      "text": "like we&#39;re doing something for students",
+      "duration": 4.44,
+      "offset": 1260.76,
+      "lang": "en"
+    },
+    {
+      "text": "how do we make that feel more fun but",
+      "duration": 5.04,
+      "offset": 1262.68,
+      "lang": "en"
+    },
+    {
+      "text": "also rooted in the perplexity aesthetic",
+      "duration": 4.8,
+      "offset": 1265.2,
+      "lang": "en"
+    },
+    {
+      "text": "or the perplexity like creative",
+      "duration": 4.68,
+      "offset": 1267.72,
+      "lang": "en"
+    },
+    {
+      "text": "consistency that could help make it feel",
+      "duration": 5.48,
+      "offset": 1270.0,
+      "lang": "en"
+    },
+    {
+      "text": "like fresh but also very perplexity I",
+      "duration": 5.44,
+      "offset": 1272.4,
+      "lang": "en"
+    },
+    {
+      "text": "love the distinction between creative",
+      "duration": 4.76,
+      "offset": 1275.48,
+      "lang": "en"
+    },
+    {
+      "text": "consistency and visual consistency as an",
+      "duration": 4.0,
+      "offset": 1277.84,
+      "lang": "en"
+    },
+    {
+      "text": "outsider it does feel like you know",
+      "duration": 3.36,
+      "offset": 1280.24,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s quite a few different visual",
+      "duration": 4.56,
+      "offset": 1281.84,
+      "lang": "en"
+    },
+    {
+      "text": "Vibes that you would maybe see on a",
+      "duration": 5.52,
+      "offset": 1283.6,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity poster that kind of makes me",
+      "duration": 5.36,
+      "offset": 1286.4,
+      "lang": "en"
+    },
+    {
+      "text": "then curious like is there any line how",
+      "duration": 4.28,
+      "offset": 1289.12,
+      "lang": "en"
+    },
+    {
+      "text": "wide is that spectrum that you get to",
+      "duration": 5.04,
+      "offset": 1291.76,
+      "lang": "en"
+    },
+    {
+      "text": "explore in and Are there specific things",
+      "duration": 5.56,
+      "offset": 1293.4,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;ve explored or different noo",
+      "duration": 3.52,
+      "offset": 1296.8,
+      "lang": "en"
+    },
+    {
+      "text": "zones where you&#39;re just like yeah you",
+      "duration": 3.64,
+      "offset": 1298.96,
+      "lang": "en"
+    },
+    {
+      "text": "know what this is probably outside of",
+      "duration": 5.12,
+      "offset": 1300.32,
+      "lang": "en"
+    },
+    {
+      "text": "the realm of where we want perplexity to",
+      "duration": 5.52,
+      "offset": 1302.6,
+      "lang": "en"
+    },
+    {
+      "text": "sit there is no bounds I think as long",
+      "duration": 5.6,
+      "offset": 1305.44,
+      "lang": "en"
+    },
+    {
+      "text": "as leadership is open to it and I think",
+      "duration": 5.04,
+      "offset": 1308.12,
+      "lang": "en"
+    },
+    {
+      "text": "if you look at a lot of our current",
+      "duration": 4.08,
+      "offset": 1311.04,
+      "lang": "en"
+    },
+    {
+      "text": "chapter right now or just like our our",
+      "duration": 4.6,
+      "offset": 1313.16,
+      "lang": "en"
+    },
+    {
+      "text": "current season of Aesthetics is there&#39;s",
+      "duration": 4.28,
+      "offset": 1315.12,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot of like imperfections in",
+      "duration": 4.2,
+      "offset": 1317.76,
+      "lang": "en"
+    },
+    {
+      "text": "terms of there&#39;s like some grit some",
+      "duration": 4.2,
+      "offset": 1319.4,
+      "lang": "en"
+    },
+    {
+      "text": "grain to it because we ultimately know",
+      "duration": 3.36,
+      "offset": 1321.96,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s there&#39;s certain things that AI",
+      "duration": 3.84,
+      "offset": 1323.6,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s almost like a certain aspect to",
+      "duration": 3.68,
+      "offset": 1325.32,
+      "lang": "en"
+    },
+    {
+      "text": "it that that is almost too polished and",
+      "duration": 3.32,
+      "offset": 1327.44,
+      "lang": "en"
+    },
+    {
+      "text": "so we sort of like take that and just",
+      "duration": 4.44,
+      "offset": 1329.0,
+      "lang": "en"
+    },
+    {
+      "text": "like remix it to where it just feels",
+      "duration": 4.48,
+      "offset": 1330.76,
+      "lang": "en"
+    },
+    {
+      "text": "like there there was a lot more human",
+      "duration": 4.48,
+      "offset": 1333.44,
+      "lang": "en"
+    },
+    {
+      "text": "intervention with it any AI tool now",
+      "duration": 5.0,
+      "offset": 1335.24,
+      "lang": "en"
+    },
+    {
+      "text": "where you know not everyone is going to",
+      "duration": 5.0,
+      "offset": 1337.92,
+      "lang": "en"
+    },
+    {
+      "text": "take the first output of the whatever",
+      "duration": 4.32,
+      "offset": 1340.24,
+      "lang": "en"
+    },
+    {
+      "text": "the AI gives us there&#39;s just going to be",
+      "duration": 4.0,
+      "offset": 1342.92,
+      "lang": "en"
+    },
+    {
+      "text": "a constant rabbit H holding following up",
+      "duration": 4.44,
+      "offset": 1344.56,
+      "lang": "en"
+    },
+    {
+      "text": "with questions or saying hey like don&#39;t",
+      "duration": 3.64,
+      "offset": 1346.92,
+      "lang": "en"
+    },
+    {
+      "text": "say that like I don&#39;t I didn&#39;t want you",
+      "duration": 3.76,
+      "offset": 1349.0,
+      "lang": "en"
+    },
+    {
+      "text": "to say that I wanted you to to think",
+      "duration": 4.16,
+      "offset": 1350.56,
+      "lang": "en"
+    },
+    {
+      "text": "about it this way and then there&#39;s just",
+      "duration": 4.44,
+      "offset": 1352.76,
+      "lang": "en"
+    },
+    {
+      "text": "this like snowball effect of this",
+      "duration": 4.96,
+      "offset": 1354.72,
+      "lang": "en"
+    },
+    {
+      "text": "conversation between you and and this Ai",
+      "duration": 4.96,
+      "offset": 1357.2,
+      "lang": "en"
+    },
+    {
+      "text": "and so what it boils down to for us as a",
+      "duration": 5.92,
+      "offset": 1359.68,
+      "lang": "en"
+    },
+    {
+      "text": "brand to look at our aesthetic it gives",
+      "duration": 7.2,
+      "offset": 1362.16,
+      "lang": "en"
+    },
+    {
+      "text": "our team so much like creative freedom",
+      "duration": 6.68,
+      "offset": 1365.6,
+      "lang": "en"
+    },
+    {
+      "text": "to explore these different Aesthetics",
+      "duration": 4.76,
+      "offset": 1369.36,
+      "lang": "en"
+    },
+    {
+      "text": "because again a lot of what goes out",
+      "duration": 4.32,
+      "offset": 1372.28,
+      "lang": "en"
+    },
+    {
+      "text": "will ultimately just like just live like",
+      "duration": 5.08,
+      "offset": 1374.12,
+      "lang": "en"
+    },
+    {
+      "text": "in an email or live on soci",
+      "duration": 4.64,
+      "offset": 1376.6,
+      "lang": "en"
+    },
+    {
+      "text": "but again like that feeling that you get",
+      "duration": 3.68,
+      "offset": 1379.2,
+      "lang": "en"
+    },
+    {
+      "text": "when you see it like dang that looks",
+      "duration": 3.96,
+      "offset": 1381.24,
+      "lang": "en"
+    },
+    {
+      "text": "really cool there&#39;s an intention behind",
+      "duration": 4.0,
+      "offset": 1382.88,
+      "lang": "en"
+    },
+    {
+      "text": "that decision we just want it to feel",
+      "duration": 2.88,
+      "offset": 1385.2,
+      "lang": "en"
+    },
+    {
+      "text": "like man I wish I would have thought of",
+      "duration": 3.24,
+      "offset": 1386.88,
+      "lang": "en"
+    },
+    {
+      "text": "that everything that I consume on the",
+      "duration": 3.28,
+      "offset": 1388.08,
+      "lang": "en"
+    },
+    {
+      "text": "internet like oh I wish I would have",
+      "duration": 2.68,
+      "offset": 1390.12,
+      "lang": "en"
+    },
+    {
+      "text": "thought of that and then just taking",
+      "duration": 3.4,
+      "offset": 1391.36,
+      "lang": "en"
+    },
+    {
+      "text": "that feeling and then just rerouting",
+      "duration": 4.24,
+      "offset": 1392.8,
+      "lang": "en"
+    },
+    {
+      "text": "that to make something that feels just",
+      "duration": 4.4,
+      "offset": 1394.76,
+      "lang": "en"
+    },
+    {
+      "text": "like what I just saw right so that&#39;s",
+      "duration": 3.76,
+      "offset": 1397.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s what inspires me and",
+      "duration": 3.72,
+      "offset": 1399.16,
+      "lang": "en"
+    },
+    {
+      "text": "ultimately like the team to think about",
+      "duration": 3.44,
+      "offset": 1400.8,
+      "lang": "en"
+    },
+    {
+      "text": "hey we&#39;re doing this like we&#39;re doing",
+      "duration": 4.56,
+      "offset": 1402.88,
+      "lang": "en"
+    },
+    {
+      "text": "oil paintings and retrofuturism now what",
+      "duration": 5.36,
+      "offset": 1404.24,
+      "lang": "en"
+    },
+    {
+      "text": "would it look like if it was just like",
+      "duration": 5.08,
+      "offset": 1407.44,
+      "lang": "en"
+    },
+    {
+      "text": "all abstract backgrounds you know like I",
+      "duration": 5.52,
+      "offset": 1409.6,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know I I wish I knew what that",
+      "duration": 4.8,
+      "offset": 1412.52,
+      "lang": "en"
+    },
+    {
+      "text": "looked like but ultimately that&#39;s like",
+      "duration": 4.24,
+      "offset": 1415.12,
+      "lang": "en"
+    },
+    {
+      "text": "the most fun and I think that&#39;s why it&#39;s",
+      "duration": 5.76,
+      "offset": 1417.32,
+      "lang": "en"
+    },
+    {
+      "text": "it feels to me like uh a pretty",
+      "duration": 6.84,
+      "offset": 1419.36,
+      "lang": "en"
+    },
+    {
+      "text": "successful path to take not as just like",
+      "duration": 4.92,
+      "offset": 1423.08,
+      "lang": "en"
+    },
+    {
+      "text": "a creative person who just like",
+      "duration": 3.52,
+      "offset": 1426.2,
+      "lang": "en"
+    },
+    {
+      "text": "constantly wants to try new things but",
+      "duration": 4.48,
+      "offset": 1428.0,
+      "lang": "en"
+    },
+    {
+      "text": "also inspiring other people to not look",
+      "duration": 4.48,
+      "offset": 1429.72,
+      "lang": "en"
+    },
+    {
+      "text": "at the same thing over and over again",
+      "duration": 3.56,
+      "offset": 1432.48,
+      "lang": "en"
+    },
+    {
+      "text": "because you know when when a brand",
+      "duration": 3.6,
+      "offset": 1434.2,
+      "lang": "en"
+    },
+    {
+      "text": "releases something it&#39;s they&#39;re they&#39;re",
+      "duration": 3.08,
+      "offset": 1436.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to say oh yeah yeah that&#39;s that&#39;s",
+      "duration": 3.64,
+      "offset": 1437.8,
+      "lang": "en"
+    },
+    {
+      "text": "just how they do it you know and for us",
+      "duration": 3.92,
+      "offset": 1439.12,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s like we kind of want to keep people",
+      "duration": 3.92,
+      "offset": 1441.44,
+      "lang": "en"
+    },
+    {
+      "text": "on their toes even the executives like",
+      "duration": 4.08,
+      "offset": 1443.04,
+      "lang": "en"
+    },
+    {
+      "text": "they they want to feel that way too and",
+      "duration": 3.72,
+      "offset": 1445.36,
+      "lang": "en"
+    },
+    {
+      "text": "so as long as there&#39;s buyin from the top",
+      "duration": 3.0,
+      "offset": 1447.12,
+      "lang": "en"
+    },
+    {
+      "text": "I think we&#39;re going to just going to",
+      "duration": 2.8,
+      "offset": 1449.08,
+      "lang": "en"
+    },
+    {
+      "text": "keep keep doing what we&#39;re doing that",
+      "duration": 3.48,
+      "offset": 1450.12,
+      "lang": "en"
+    },
+    {
+      "text": "teas up a question that I sourced from",
+      "duration": 3.76,
+      "offset": 1451.88,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter uh Johnny who&#39;s a brand designer",
+      "duration": 4.2,
+      "offset": 1453.6,
+      "lang": "en"
+    },
+    {
+      "text": "at webflow specifically wanted to learn",
+      "duration": 4.04,
+      "offset": 1455.64,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit more about what you&#39;re",
+      "duration": 3.92,
+      "offset": 1457.8,
+      "lang": "en"
+    },
+    {
+      "text": "doing to get executive buyin for some of",
+      "duration": 4.8,
+      "offset": 1459.68,
+      "lang": "en"
+    },
+    {
+      "text": "these Concepts especially when you are",
+      "duration": 4.36,
+      "offset": 1461.72,
+      "lang": "en"
+    },
+    {
+      "text": "exploring things that are a little bit",
+      "duration": 3.28,
+      "offset": 1464.48,
+      "lang": "en"
+    },
+    {
+      "text": "more outside of the box yeah I remember",
+      "duration": 4.36,
+      "offset": 1466.08,
+      "lang": "en"
+    },
+    {
+      "text": "seeing that too and I I I chuckled",
+      "duration": 5.6,
+      "offset": 1467.76,
+      "lang": "en"
+    },
+    {
+      "text": "because there really wasn&#39;t a an",
+      "duration": 4.8,
+      "offset": 1470.44,
+      "lang": "en"
+    },
+    {
+      "text": "executive like hey let&#39;s just rally the",
+      "duration": 4.12,
+      "offset": 1473.36,
+      "lang": "en"
+    },
+    {
+      "text": "troops together and say hey like we&#39;re",
+      "duration": 4.0,
+      "offset": 1475.24,
+      "lang": "en"
+    },
+    {
+      "text": "just going to use mid journey to create",
+      "duration": 3.72,
+      "offset": 1477.48,
+      "lang": "en"
+    },
+    {
+      "text": "these assets it was more like whatever",
+      "duration": 4.36,
+      "offset": 1479.24,
+      "lang": "en"
+    },
+    {
+      "text": "you guys decide to do like we trust you",
+      "duration": 4.2,
+      "offset": 1481.2,
+      "lang": "en"
+    },
+    {
+      "text": "and like I think the first poster that",
+      "duration": 4.0,
+      "offset": 1483.6,
+      "lang": "en"
+    },
+    {
+      "text": "we even posted on on our account was",
+      "duration": 4.08,
+      "offset": 1485.4,
+      "lang": "en"
+    },
+    {
+      "text": "like holy crap we&#39;re about to do this",
+      "duration": 3.04,
+      "offset": 1487.6,
+      "lang": "en"
+    },
+    {
+      "text": "you know like we&#39;re we&#39;re just we&#39;re",
+      "duration": 2.52,
+      "offset": 1489.48,
+      "lang": "en"
+    },
+    {
+      "text": "just going to lean into it and see what",
+      "duration": 3.92,
+      "offset": 1490.64,
+      "lang": "en"
+    },
+    {
+      "text": "happens I think that went viral and then",
+      "duration": 4.92,
+      "offset": 1492.0,
+      "lang": "en"
+    },
+    {
+      "text": "Arvin himself started tweeting more",
+      "duration": 4.4,
+      "offset": 1494.56,
+      "lang": "en"
+    },
+    {
+      "text": "images from the brain team and it it was",
+      "duration": 3.72,
+      "offset": 1496.92,
+      "lang": "en"
+    },
+    {
+      "text": "just so cool to see that support from",
+      "duration": 3.76,
+      "offset": 1498.96,
+      "lang": "en"
+    },
+    {
+      "text": "him because he ultimately just wants",
+      "duration": 4.92,
+      "offset": 1500.64,
+      "lang": "en"
+    },
+    {
+      "text": "people to remember our name or just like",
+      "duration": 4.6,
+      "offset": 1502.72,
+      "lang": "en"
+    },
+    {
+      "text": "if they see this poster for the first",
+      "duration": 3.92,
+      "offset": 1505.56,
+      "lang": "en"
+    },
+    {
+      "text": "time they just like are curious about",
+      "duration": 4.56,
+      "offset": 1507.32,
+      "lang": "en"
+    },
+    {
+      "text": "what it is and why is this beam coming",
+      "duration": 4.48,
+      "offset": 1509.48,
+      "lang": "en"
+    },
+    {
+      "text": "out from this book and and why does it",
+      "duration": 4.36,
+      "offset": 1511.88,
+      "lang": "en"
+    },
+    {
+      "text": "look this way you know and and I think a",
+      "duration": 3.6,
+      "offset": 1513.96,
+      "lang": "en"
+    },
+    {
+      "text": "lot of people just like started",
+      "duration": 3.68,
+      "offset": 1516.24,
+      "lang": "en"
+    },
+    {
+      "text": "resonating with that and so we just we",
+      "duration": 4.88,
+      "offset": 1517.56,
+      "lang": "en"
+    },
+    {
+      "text": "took that as a signal to say let&#39;s just",
+      "duration": 5.0,
+      "offset": 1519.92,
+      "lang": "en"
+    },
+    {
+      "text": "continue to double down on marketing our",
+      "duration": 4.76,
+      "offset": 1522.44,
+      "lang": "en"
+    },
+    {
+      "text": "brand this way it doesn&#39;t need to be",
+      "duration": 4.04,
+      "offset": 1524.92,
+      "lang": "en"
+    },
+    {
+      "text": "overthought we don&#39;t have have to show",
+      "duration": 4.4,
+      "offset": 1527.2,
+      "lang": "en"
+    },
+    {
+      "text": "screenshots of the product which is a if",
+      "duration": 4.44,
+      "offset": 1528.96,
+      "lang": "en"
+    },
+    {
+      "text": "you actually look back at our timeline",
+      "duration": 4.24,
+      "offset": 1531.6,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot of screenshots and like",
+      "duration": 4.76,
+      "offset": 1533.4,
+      "lang": "en"
+    },
+    {
+      "text": "you know I I was trying to make our this",
+      "duration": 5.2,
+      "offset": 1535.84,
+      "lang": "en"
+    },
+    {
+      "text": "the product look even like even better",
+      "duration": 4.88,
+      "offset": 1538.16,
+      "lang": "en"
+    },
+    {
+      "text": "because you know it it was just like",
+      "duration": 3.32,
+      "offset": 1541.04,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s just where we were because we",
+      "duration": 3.88,
+      "offset": 1543.04,
+      "lang": "en"
+    },
+    {
+      "text": "that there wasn&#39;t a a direction for",
+      "duration": 4.88,
+      "offset": 1544.36,
+      "lang": "en"
+    },
+    {
+      "text": "visual right and and that wasn&#39;t until",
+      "duration": 3.92,
+      "offset": 1546.92,
+      "lang": "en"
+    },
+    {
+      "text": "again like working with Smith and",
+      "duration": 4.12,
+      "offset": 1549.24,
+      "lang": "en"
+    },
+    {
+      "text": "diction to help us think about like our",
+      "duration": 4.6,
+      "offset": 1550.84,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic right there was no like we had",
+      "duration": 3.64,
+      "offset": 1553.36,
+      "lang": "en"
+    },
+    {
+      "text": "asked them to come up with some like",
+      "duration": 4.0,
+      "offset": 1555.44,
+      "lang": "en"
+    },
+    {
+      "text": "illustration styles But ultimately I",
+      "duration": 4.16,
+      "offset": 1557.0,
+      "lang": "en"
+    },
+    {
+      "text": "think it was just like this intuition of",
+      "duration": 3.24,
+      "offset": 1559.44,
+      "lang": "en"
+    },
+    {
+      "text": "like you know what let&#39;s try to keep",
+      "duration": 3.8,
+      "offset": 1561.16,
+      "lang": "en"
+    },
+    {
+      "text": "this as open as possible because the",
+      "duration": 5.08,
+      "offset": 1562.68,
+      "lang": "en"
+    },
+    {
+      "text": "internet has no specific aesthetic right",
+      "duration": 4.6,
+      "offset": 1564.96,
+      "lang": "en"
+    },
+    {
+      "text": "like if you&#39;re looking across all the",
+      "duration": 3.16,
+      "offset": 1567.76,
+      "lang": "en"
+    },
+    {
+      "text": "things that you&#39;re interested in it",
+      "duration": 2.72,
+      "offset": 1569.56,
+      "lang": "en"
+    },
+    {
+      "text": "might look different for someone who&#39;s",
+      "duration": 3.84,
+      "offset": 1570.92,
+      "lang": "en"
+    },
+    {
+      "text": "just like a finance person who&#39;s just",
+      "duration": 4.92,
+      "offset": 1572.28,
+      "lang": "en"
+    },
+    {
+      "text": "like interested in sports and so like",
+      "duration": 3.64,
+      "offset": 1574.76,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s there&#39;s like a specific",
+      "duration": 2.8,
+      "offset": 1577.2,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic that they&#39;re looking at what",
+      "duration": 4.12,
+      "offset": 1578.4,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re trying to do or at least like what",
+      "duration": 4.76,
+      "offset": 1580.0,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m trying to at least sell to the",
+      "duration": 4.48,
+      "offset": 1582.52,
+      "lang": "en"
+    },
+    {
+      "text": "executive team is we&#39;re sort of building",
+      "duration": 5.36,
+      "offset": 1584.76,
+      "lang": "en"
+    },
+    {
+      "text": "this like Disney world of like different",
+      "duration": 5.08,
+      "offset": 1587.0,
+      "lang": "en"
+    },
+    {
+      "text": "theme parks for different people because",
+      "duration": 3.88,
+      "offset": 1590.12,
+      "lang": "en"
+    },
+    {
+      "text": "there there are different use cases for",
+      "duration": 3.72,
+      "offset": 1592.08,
+      "lang": "en"
+    },
+    {
+      "text": "how people use perplexity so that gives",
+      "duration": 5.16,
+      "offset": 1594.0,
+      "lang": "en"
+    },
+    {
+      "text": "us again more opportunities to extract",
+      "duration": 5.4,
+      "offset": 1595.8,
+      "lang": "en"
+    },
+    {
+      "text": "the essence of what that means like each",
+      "duration": 4.2,
+      "offset": 1599.16,
+      "lang": "en"
+    },
+    {
+      "text": "use case looking different we don&#39;t know",
+      "duration": 3.88,
+      "offset": 1601.2,
+      "lang": "en"
+    },
+    {
+      "text": "how that&#39;s going to scale but as more",
+      "duration": 3.36,
+      "offset": 1603.36,
+      "lang": "en"
+    },
+    {
+      "text": "and more people join the team well we",
+      "duration": 3.44,
+      "offset": 1605.08,
+      "lang": "en"
+    },
+    {
+      "text": "will figure that out but I think for now",
+      "duration": 3.84,
+      "offset": 1606.72,
+      "lang": "en"
+    },
+    {
+      "text": "like we&#39;re just going to just build out",
+      "duration": 3.76,
+      "offset": 1608.52,
+      "lang": "en"
+    },
+    {
+      "text": "this universe that we&#39;ve already",
+      "duration": 5.4,
+      "offset": 1610.56,
+      "lang": "en"
+    },
+    {
+      "text": "established by accident really um and",
+      "duration": 6.28,
+      "offset": 1612.28,
+      "lang": "en"
+    },
+    {
+      "text": "and using social as like the benchmark",
+      "duration": 4.0,
+      "offset": 1615.96,
+      "lang": "en"
+    },
+    {
+      "text": "man there was a lot of Engagement with",
+      "duration": 4.8,
+      "offset": 1618.56,
+      "lang": "en"
+    },
+    {
+      "text": "this why is that oh and then now now",
+      "duration": 4.48,
+      "offset": 1619.96,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re starting to see more and more",
+      "duration": 3.0,
+      "offset": 1623.36,
+      "lang": "en"
+    },
+    {
+      "text": "people tweet about our posters like at",
+      "duration": 4.0,
+      "offset": 1624.44,
+      "lang": "en"
+    },
+    {
+      "text": "the time it was just like it just seemed",
+      "duration": 4.76,
+      "offset": 1626.36,
+      "lang": "en"
+    },
+    {
+      "text": "so silly right not even silly but like",
+      "duration": 4.96,
+      "offset": 1628.44,
+      "lang": "en"
+    },
+    {
+      "text": "it didn&#39;t feel like it was really moving",
+      "duration": 3.96,
+      "offset": 1631.12,
+      "lang": "en"
+    },
+    {
+      "text": "the needle anywhere it was just like hey",
+      "duration": 3.28,
+      "offset": 1633.4,
+      "lang": "en"
+    },
+    {
+      "text": "I had some time today to come up with",
+      "duration": 3.64,
+      "offset": 1635.08,
+      "lang": "en"
+    },
+    {
+      "text": "this this piece let&#39;s just post it and",
+      "duration": 4.76,
+      "offset": 1636.68,
+      "lang": "en"
+    },
+    {
+      "text": "see see what happens now we have signal",
+      "duration": 5.08,
+      "offset": 1638.72,
+      "lang": "en"
+    },
+    {
+      "text": "because now people are resonating with",
+      "duration": 4.56,
+      "offset": 1641.44,
+      "lang": "en"
+    },
+    {
+      "text": "it and not necessarily like hey here&#39;s",
+      "duration": 4.6,
+      "offset": 1643.8,
+      "lang": "en"
+    },
+    {
+      "text": "her hypothesis that this will work it",
+      "duration": 3.6,
+      "offset": 1646.0,
+      "lang": "en"
+    },
+    {
+      "text": "was more like let&#39;s just put it out",
+      "duration": 2.8,
+      "offset": 1648.4,
+      "lang": "en"
+    },
+    {
+      "text": "there and see if it works and I think",
+      "duration": 3.88,
+      "offset": 1649.6,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s opened up more more past for us I",
+      "duration": 4.08,
+      "offset": 1651.2,
+      "lang": "en"
+    },
+    {
+      "text": "think in many ways you&#39;re creating a",
+      "duration": 2.96,
+      "offset": 1653.48,
+      "lang": "en"
+    },
+    {
+      "text": "blueprint that a lot of companies are",
+      "duration": 3.32,
+      "offset": 1655.28,
+      "lang": "en"
+    },
+    {
+      "text": "going to follow this idea of like really",
+      "duration": 4.64,
+      "offset": 1656.44,
+      "lang": "en"
+    },
+    {
+      "text": "intentionally treating Twitter as this",
+      "duration": 6.52,
+      "offset": 1658.6,
+      "lang": "en"
+    },
+    {
+      "text": "testing ground for brand imagery and not",
+      "duration": 7.6,
+      "offset": 1661.08,
+      "lang": "en"
+    },
+    {
+      "text": "being so concerned with maintaining this",
+      "duration": 6.56,
+      "offset": 1665.12,
+      "lang": "en"
+    },
+    {
+      "text": "consistent visual identity and language",
+      "duration": 4.88,
+      "offset": 1668.68,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s really like you know what we&#39;re",
+      "duration": 4.04,
+      "offset": 1671.68,
+      "lang": "en"
+    },
+    {
+      "text": "just going to keep experimenting keep",
+      "duration": 3.56,
+      "offset": 1673.56,
+      "lang": "en"
+    },
+    {
+      "text": "putting things out there and see what",
+      "duration": 4.2,
+      "offset": 1675.72,
+      "lang": "en"
+    },
+    {
+      "text": "resonates it&#39;s inspiring and I really do",
+      "duration": 5.0,
+      "offset": 1677.12,
+      "lang": "en"
+    },
+    {
+      "text": "believe that a lot of companies are",
+      "duration": 5.2,
+      "offset": 1679.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to try to replicate that process I",
+      "duration": 5.4,
+      "offset": 1682.12,
+      "lang": "en"
+    },
+    {
+      "text": "hope so right because you know as",
+      "duration": 4.88,
+      "offset": 1685.12,
+      "lang": "en"
+    },
+    {
+      "text": "chronically online people we&#39;re just",
+      "duration": 5.08,
+      "offset": 1687.52,
+      "lang": "en"
+    },
+    {
+      "text": "always looking for like different right",
+      "duration": 4.76,
+      "offset": 1690.0,
+      "lang": "en"
+    },
+    {
+      "text": "and I think that&#39;s just like again human",
+      "duration": 4.48,
+      "offset": 1692.6,
+      "lang": "en"
+    },
+    {
+      "text": "nature to like sip through all the noise",
+      "duration": 3.96,
+      "offset": 1694.76,
+      "lang": "en"
+    },
+    {
+      "text": "and find that thing that really made you",
+      "duration": 4.36,
+      "offset": 1697.08,
+      "lang": "en"
+    },
+    {
+      "text": "stop I&#39;m not trying to say that our work",
+      "duration": 6.64,
+      "offset": 1698.72,
+      "lang": "en"
+    },
+    {
+      "text": "does that but as a person who wants that",
+      "duration": 6.68,
+      "offset": 1701.44,
+      "lang": "en"
+    },
+    {
+      "text": "I want to just really inject that into",
+      "duration": 5.72,
+      "offset": 1705.36,
+      "lang": "en"
+    },
+    {
+      "text": "to our cultures DNA as much as possible",
+      "duration": 4.64,
+      "offset": 1708.12,
+      "lang": "en"
+    },
+    {
+      "text": "and and again like I think you&#39;re you&#39;re",
+      "duration": 3.92,
+      "offset": 1711.08,
+      "lang": "en"
+    },
+    {
+      "text": "going to start seeing a lot more of that",
+      "duration": 4.92,
+      "offset": 1712.76,
+      "lang": "en"
+    },
+    {
+      "text": "over time as we add more people and it&#39;s",
+      "duration": 4.68,
+      "offset": 1715.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to go beyond like what I&#39;ve been",
+      "duration": 4.16,
+      "offset": 1717.68,
+      "lang": "en"
+    },
+    {
+      "text": "doing because I&#39;ve I&#39;ve just been here",
+      "duration": 5.24,
+      "offset": 1719.68,
+      "lang": "en"
+    },
+    {
+      "text": "the longest but I&#39;m so excited for a lot",
+      "duration": 5.36,
+      "offset": 1721.84,
+      "lang": "en"
+    },
+    {
+      "text": "of people on our team to just like",
+      "duration": 4.64,
+      "offset": 1724.92,
+      "lang": "en"
+    },
+    {
+      "text": "continue to add their own flavors to our",
+      "duration": 5.68,
+      "offset": 1727.2,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic or like our our season right I",
+      "duration": 6.64,
+      "offset": 1729.56,
+      "lang": "en"
+    },
+    {
+      "text": "love even the idea of seasons of visual",
+      "duration": 5.04,
+      "offset": 1732.88,
+      "lang": "en"
+    },
+    {
+      "text": "design you don&#39;t know what&#39;ll be next",
+      "duration": 3.96,
+      "offset": 1736.2,
+      "lang": "en"
+    },
+    {
+      "text": "but you know that it&#39;s going to change",
+      "duration": 4.8,
+      "offset": 1737.92,
+      "lang": "en"
+    },
+    {
+      "text": "significantly in the future even that is",
+      "duration": 3.96,
+      "offset": 1740.16,
+      "lang": "en"
+    },
+    {
+      "text": "such a novel concept to hear from",
+      "duration": 3.72,
+      "offset": 1742.72,
+      "lang": "en"
+    },
+    {
+      "text": "someone who&#39;s owning like the brand of a",
+      "duration": 4.36,
+      "offset": 1744.12,
+      "lang": "en"
+    },
+    {
+      "text": "company I mean look at Nike when",
+      "duration": 3.6,
+      "offset": 1746.44,
+      "lang": "en"
+    },
+    {
+      "text": "somebody says like I want my brand to be",
+      "duration": 3.36,
+      "offset": 1748.48,
+      "lang": "en"
+    },
+    {
+      "text": "like Nike or apple like I don&#39;t think",
+      "duration": 3.6,
+      "offset": 1750.04,
+      "lang": "en"
+    },
+    {
+      "text": "people understand what that means and",
+      "duration": 3.2,
+      "offset": 1751.84,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m trying to say is like they&#39;ve",
+      "duration": 5.28,
+      "offset": 1753.64,
+      "lang": "en"
+    },
+    {
+      "text": "invested so heavily into their brand",
+      "duration": 6.12,
+      "offset": 1755.04,
+      "lang": "en"
+    },
+    {
+      "text": "their brand just in general that if you",
+      "duration": 4.12,
+      "offset": 1758.92,
+      "lang": "en"
+    },
+    {
+      "text": "go into a dick sporing Goods you&#39;re",
+      "duration": 3.4,
+      "offset": 1761.16,
+      "lang": "en"
+    },
+    {
+      "text": "going to go into the Nike section and",
+      "duration": 3.08,
+      "offset": 1763.04,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to see there&#39;s a clean",
+      "duration": 3.68,
+      "offset": 1764.56,
+      "lang": "en"
+    },
+    {
+      "text": "section where it&#39;s just the logo on the",
+      "duration": 3.24,
+      "offset": 1766.12,
+      "lang": "en"
+    },
+    {
+      "text": "sweater but then you&#39;re going to look",
+      "duration": 2.72,
+      "offset": 1768.24,
+      "lang": "en"
+    },
+    {
+      "text": "into like maybe the kids section where",
+      "duration": 2.76,
+      "offset": 1769.36,
+      "lang": "en"
+    },
+    {
+      "text": "there there a lot more visuals on the",
+      "duration": 2.84,
+      "offset": 1770.96,
+      "lang": "en"
+    },
+    {
+      "text": "shirts like graphic te&#39;s and there&#39;re",
+      "duration": 3.52,
+      "offset": 1772.12,
+      "lang": "en"
+    },
+    {
+      "text": "just like it&#39;s huge and there&#39;s like",
+      "duration": 4.04,
+      "offset": 1773.8,
+      "lang": "en"
+    },
+    {
+      "text": "sayings on there and that&#39;s how I I sort",
+      "duration": 5.48,
+      "offset": 1775.64,
+      "lang": "en"
+    },
+    {
+      "text": "of see like just our our marketing that",
+      "duration": 6.96,
+      "offset": 1777.84,
+      "lang": "en"
+    },
+    {
+      "text": "type of brand that like can fit into",
+      "duration": 6.08,
+      "offset": 1781.12,
+      "lang": "en"
+    },
+    {
+      "text": "people&#39;s lives and that&#39;s where I think",
+      "duration": 3.92,
+      "offset": 1784.8,
+      "lang": "en"
+    },
+    {
+      "text": "tying back tying it all back to our",
+      "duration": 3.72,
+      "offset": 1787.2,
+      "lang": "en"
+    },
+    {
+      "text": "merge our first drop is just very simple",
+      "duration": 4.88,
+      "offset": 1788.72,
+      "lang": "en"
+    },
+    {
+      "text": "but we have plans to like work with more",
+      "duration": 5.44,
+      "offset": 1790.92,
+      "lang": "en"
+    },
+    {
+      "text": "artists to express how they think",
+      "duration": 4.8,
+      "offset": 1793.6,
+      "lang": "en"
+    },
+    {
+      "text": "curiosity should be and and feel like",
+      "duration": 4.36,
+      "offset": 1796.36,
+      "lang": "en"
+    },
+    {
+      "text": "when somebody wears our garments you",
+      "duration": 4.92,
+      "offset": 1798.4,
+      "lang": "en"
+    },
+    {
+      "text": "know or going Beyond garments right like",
+      "duration": 5.56,
+      "offset": 1800.72,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know custom coffee mugs or",
+      "duration": 5.04,
+      "offset": 1803.32,
+      "lang": "en"
+    },
+    {
+      "text": "whatever like what whatever that that",
+      "duration": 3.64,
+      "offset": 1806.28,
+      "lang": "en"
+    },
+    {
+      "text": "looks like we we sort of just want to",
+      "duration": 3.4,
+      "offset": 1808.36,
+      "lang": "en"
+    },
+    {
+      "text": "build a universe around it and we&#39;re not",
+      "duration": 4.32,
+      "offset": 1809.92,
+      "lang": "en"
+    },
+    {
+      "text": "a fashion brand but anytime you see",
+      "duration": 3.88,
+      "offset": 1811.76,
+      "lang": "en"
+    },
+    {
+      "text": "somebody wearing a naster shirt like",
+      "duration": 3.28,
+      "offset": 1814.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s not they&#39;re not a fashion company",
+      "duration": 3.32,
+      "offset": 1815.64,
+      "lang": "en"
+    },
+    {
+      "text": "but when you see somebody wear that",
+      "duration": 3.12,
+      "offset": 1817.52,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re like wait do you work there or",
+      "duration": 4.16,
+      "offset": 1818.96,
+      "lang": "en"
+    },
+    {
+      "text": "like oh you must be really into space",
+      "duration": 4.12,
+      "offset": 1820.64,
+      "lang": "en"
+    },
+    {
+      "text": "right and we want people to feel that",
+      "duration": 4.28,
+      "offset": 1823.12,
+      "lang": "en"
+    },
+    {
+      "text": "when they wear perplexity gears it&#39;s",
+      "duration": 4.48,
+      "offset": 1824.76,
+      "lang": "en"
+    },
+    {
+      "text": "like oh man like you just like want to",
+      "duration": 3.36,
+      "offset": 1827.4,
+      "lang": "en"
+    },
+    {
+      "text": "know everything you know like you&#39;re",
+      "duration": 3.44,
+      "offset": 1829.24,
+      "lang": "en"
+    },
+    {
+      "text": "just like a curious person and how do we",
+      "duration": 3.92,
+      "offset": 1830.76,
+      "lang": "en"
+    },
+    {
+      "text": "continue to evoke that I get I just get",
+      "duration": 4.0,
+      "offset": 1832.68,
+      "lang": "en"
+    },
+    {
+      "text": "really passionate about it because I",
+      "duration": 4.88,
+      "offset": 1834.68,
+      "lang": "en"
+    },
+    {
+      "text": "just love seeing how we can just",
+      "duration": 5.48,
+      "offset": 1836.68,
+      "lang": "en"
+    },
+    {
+      "text": "interpret these feelings into visuals",
+      "duration": 5.12,
+      "offset": 1839.56,
+      "lang": "en"
+    },
+    {
+      "text": "and have people like interact with it",
+      "duration": 4.56,
+      "offset": 1842.16,
+      "lang": "en"
+    },
+    {
+      "text": "and whether or not it like it hits or",
+      "duration": 5.4,
+      "offset": 1844.68,
+      "lang": "en"
+    },
+    {
+      "text": "not it&#39;s ultimately our sand box to",
+      "duration": 5.36,
+      "offset": 1846.72,
+      "lang": "en"
+    },
+    {
+      "text": "experiment with that and I just want to",
+      "duration": 4.12,
+      "offset": 1850.08,
+      "lang": "en"
+    },
+    {
+      "text": "keep chasing that dopamine and it&#39;s sort",
+      "duration": 4.24,
+      "offset": 1852.08,
+      "lang": "en"
+    },
+    {
+      "text": "of dangerous but I&#39;m just going to keep",
+      "duration": 4.4,
+      "offset": 1854.2,
+      "lang": "en"
+    },
+    {
+      "text": "keep riding that until until I can&#39;t",
+      "duration": 5.0,
+      "offset": 1856.32,
+      "lang": "en"
+    },
+    {
+      "text": "anymore hey it&#39;s red I&#39;m constantly",
+      "duration": 4.48,
+      "offset": 1858.6,
+      "lang": "en"
+    },
+    {
+      "text": "asked about my favorite product so I&#39;m G",
+      "duration": 3.68,
+      "offset": 1861.32,
+      "lang": "en"
+    },
+    {
+      "text": "to take just one minute and give you a",
+      "duration": 5.32,
+      "offset": 1863.08,
+      "lang": "en"
+    },
+    {
+      "text": "quick rundown of my stack deson is how I",
+      "duration": 5.48,
+      "offset": 1865.0,
+      "lang": "en"
+    },
+    {
+      "text": "ship design changes without having to",
+      "duration": 4.92,
+      "offset": 1868.4,
+      "lang": "en"
+    },
+    {
+      "text": "code framer is How I build my websites",
+      "duration": 5.4,
+      "offset": 1870.48,
+      "lang": "en"
+    },
+    {
+      "text": "genway is how I do research Jitter is",
+      "duration": 4.8,
+      "offset": 1873.32,
+      "lang": "en"
+    },
+    {
+      "text": "how I animate my designs and play is how",
+      "duration": 5.04,
+      "offset": 1875.88,
+      "lang": "en"
+    },
+    {
+      "text": "I design and prototype mobile apps",
+      "duration": 5.0,
+      "offset": 1878.12,
+      "lang": "en"
+    },
+    {
+      "text": "visual electric is how I generate all of",
+      "duration": 4.84,
+      "offset": 1880.92,
+      "lang": "en"
+    },
+    {
+      "text": "my imagery and raycast is my shortcut",
+      "duration": 5.56,
+      "offset": 1883.12,
+      "lang": "en"
+    },
+    {
+      "text": "every step of the way now I hand",
+      "duration": 5.28,
+      "offset": 1885.76,
+      "lang": "en"
+    },
+    {
+      "text": "selected these companies to partner with",
+      "duration": 4.56,
+      "offset": 1888.68,
+      "lang": "en"
+    },
+    {
+      "text": "me so that I can do these episodes",
+      "duration": 5.16,
+      "offset": 1891.04,
+      "lang": "en"
+    },
+    {
+      "text": "fulltime so the best way by far to",
+      "duration": 5.32,
+      "offset": 1893.24,
+      "lang": "en"
+    },
+    {
+      "text": "support the show is to check them out",
+      "duration": 5.08,
+      "offset": 1896.2,
+      "lang": "en"
+    },
+    {
+      "text": "you can find the full list at dive.",
+      "duration": 5.6,
+      "offset": 1898.56,
+      "lang": "en"
+    },
+    {
+      "text": "club/ Partners okay now on the rest of",
+      "duration": 4.36,
+      "offset": 1901.28,
+      "lang": "en"
+    },
+    {
+      "text": "the episode it reminds me of something",
+      "duration": 3.08,
+      "offset": 1904.16,
+      "lang": "en"
+    },
+    {
+      "text": "Henry said about you he said you&#39;re",
+      "duration": 4.16,
+      "offset": 1905.64,
+      "lang": "en"
+    },
+    {
+      "text": "creatively Fearless it comes from that",
+      "duration": 3.88,
+      "offset": 1907.24,
+      "lang": "en"
+    },
+    {
+      "text": "passion and and wanting to chase the",
+      "duration": 4.08,
+      "offset": 1909.8,
+      "lang": "en"
+    },
+    {
+      "text": "dopamine and even something that Mike",
+      "duration": 4.4,
+      "offset": 1911.12,
+      "lang": "en"
+    },
+    {
+      "text": "said I was talking to Mike from Smith",
+      "duration": 3.48,
+      "offset": 1913.88,
+      "lang": "en"
+    },
+    {
+      "text": "and dition we have an episode coming up",
+      "duration": 5.04,
+      "offset": 1915.52,
+      "lang": "en"
+    },
+    {
+      "text": "and he said said that fe&#39;s dedication to",
+      "duration": 5.04,
+      "offset": 1917.36,
+      "lang": "en"
+    },
+    {
+      "text": "experimentation is something that should",
+      "duration": 5.4,
+      "offset": 1920.56,
+      "lang": "en"
+    },
+    {
+      "text": "be studied so before I let you go I want",
+      "duration": 5.44,
+      "offset": 1922.4,
+      "lang": "en"
+    },
+    {
+      "text": "to talk about that piece just a little",
+      "duration": 6.2,
+      "offset": 1925.96,
+      "lang": "en"
+    },
+    {
+      "text": "bit what are some of the experiments or",
+      "duration": 6.68,
+      "offset": 1927.84,
+      "lang": "en"
+    },
+    {
+      "text": "even new techniques that you&#39;ve been",
+      "duration": 4.28,
+      "offset": 1932.16,
+      "lang": "en"
+    },
+    {
+      "text": "playing with recently I&#39;ve been leaning",
+      "duration": 4.88,
+      "offset": 1934.52,
+      "lang": "en"
+    },
+    {
+      "text": "into my four-year-olds conversations",
+      "duration": 7.0,
+      "offset": 1936.44,
+      "lang": "en"
+    },
+    {
+      "text": "like every night we do story time and",
+      "duration": 6.72,
+      "offset": 1939.4,
+      "lang": "en"
+    },
+    {
+      "text": "that has really helped me take a step",
+      "duration": 5.36,
+      "offset": 1943.44,
+      "lang": "en"
+    },
+    {
+      "text": "back from everything that I&#39;m just so",
+      "duration": 6.04,
+      "offset": 1946.12,
+      "lang": "en"
+    },
+    {
+      "text": "jaded about just like being an adult",
+      "duration": 5.56,
+      "offset": 1948.8,
+      "lang": "en"
+    },
+    {
+      "text": "working full-time at a company and",
+      "duration": 3.56,
+      "offset": 1952.16,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s certain I mean of course like my",
+      "duration": 4.24,
+      "offset": 1954.36,
+      "lang": "en"
+    },
+    {
+      "text": "job is fun but there&#39;s there&#39;s just",
+      "duration": 5.68,
+      "offset": 1955.72,
+      "lang": "en"
+    },
+    {
+      "text": "certain aspects of like being an adult",
+      "duration": 5.28,
+      "offset": 1958.6,
+      "lang": "en"
+    },
+    {
+      "text": "that sort of takes you away from like",
+      "duration": 6.4,
+      "offset": 1961.4,
+      "lang": "en"
+    },
+    {
+      "text": "that childlike curiosity and wonder and",
+      "duration": 6.76,
+      "offset": 1963.88,
+      "lang": "en"
+    },
+    {
+      "text": "just having conversations with him",
+      "duration": 4.76,
+      "offset": 1967.8,
+      "lang": "en"
+    },
+    {
+      "text": "asking him how his day was and helping",
+      "duration": 4.36,
+      "offset": 1970.64,
+      "lang": "en"
+    },
+    {
+      "text": "me understand like how he processed",
+      "duration": 5.92,
+      "offset": 1972.56,
+      "lang": "en"
+    },
+    {
+      "text": "things really inspires me to think about",
+      "duration": 5.64,
+      "offset": 1975.0,
+      "lang": "en"
+    },
+    {
+      "text": "like just even my own work cuz there",
+      "duration": 3.44,
+      "offset": 1978.48,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s just so many things that we&#39;re",
+      "duration": 3.36,
+      "offset": 1980.64,
+      "lang": "en"
+    },
+    {
+      "text": "just so biased about but with with a kid",
+      "duration": 3.08,
+      "offset": 1981.92,
+      "lang": "en"
+    },
+    {
+      "text": "when when you&#39;re asking them the",
+      "duration": 2.96,
+      "offset": 1984.0,
+      "lang": "en"
+    },
+    {
+      "text": "question they&#39;re just so like brutally",
+      "duration": 4.44,
+      "offset": 1985.0,
+      "lang": "en"
+    },
+    {
+      "text": "honest about it when I do take that",
+      "duration": 5.56,
+      "offset": 1986.96,
+      "lang": "en"
+    },
+    {
+      "text": "energy and I apply it to my work um I",
+      "duration": 4.8,
+      "offset": 1989.44,
+      "lang": "en"
+    },
+    {
+      "text": "will ultimately ask him what he thinks",
+      "duration": 3.68,
+      "offset": 1992.52,
+      "lang": "en"
+    },
+    {
+      "text": "about it because objectively like when",
+      "duration": 3.32,
+      "offset": 1994.24,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s looking at it he&#39;s just going to",
+      "duration": 3.16,
+      "offset": 1996.2,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s going to start like picking out all",
+      "duration": 3.36,
+      "offset": 1997.56,
+      "lang": "en"
+    },
+    {
+      "text": "the things that he&#39;s seeing he can&#39;t",
+      "duration": 3.72,
+      "offset": 1999.36,
+      "lang": "en"
+    },
+    {
+      "text": "read yet so I have to like read the text",
+      "duration": 4.84,
+      "offset": 2000.92,
+      "lang": "en"
+    },
+    {
+      "text": "for him and so there&#39;s this like this",
+      "duration": 4.96,
+      "offset": 2003.08,
+      "lang": "en"
+    },
+    {
+      "text": "back and forth almost this between us",
+      "duration": 4.0,
+      "offset": 2005.76,
+      "lang": "en"
+    },
+    {
+      "text": "too and then having having a",
+      "duration": 4.76,
+      "offset": 2008.04,
+      "lang": "en"
+    },
+    {
+      "text": "four-year-old critique my my designs is",
+      "duration": 5.28,
+      "offset": 2009.76,
+      "lang": "en"
+    },
+    {
+      "text": "is it&#39;s just so much fun because it just",
+      "duration": 4.84,
+      "offset": 2012.8,
+      "lang": "en"
+    },
+    {
+      "text": "boils down to how can I get out of my",
+      "duration": 4.04,
+      "offset": 2015.04,
+      "lang": "en"
+    },
+    {
+      "text": "own head of course we&#39;re sharing our",
+      "duration": 3.08,
+      "offset": 2017.64,
+      "lang": "en"
+    },
+    {
+      "text": "work with our own peers just to like",
+      "duration": 3.6,
+      "offset": 2019.08,
+      "lang": "en"
+    },
+    {
+      "text": "validate ourselves but then when when",
+      "duration": 3.68,
+      "offset": 2020.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re sharing it with like an innocent",
+      "duration": 3.68,
+      "offset": 2022.68,
+      "lang": "en"
+    },
+    {
+      "text": "human being like a young human being who",
+      "duration": 4.0,
+      "offset": 2024.4,
+      "lang": "en"
+    },
+    {
+      "text": "just like has no life experience at at",
+      "duration": 4.2,
+      "offset": 2026.36,
+      "lang": "en"
+    },
+    {
+      "text": "all I think that&#39;s what really drives a",
+      "duration": 4.16,
+      "offset": 2028.4,
+      "lang": "en"
+    },
+    {
+      "text": "lot of my experimentations and I know of",
+      "duration": 3.84,
+      "offset": 2030.56,
+      "lang": "en"
+    },
+    {
+      "text": "course like not everyone will have have",
+      "duration": 3.88,
+      "offset": 2032.56,
+      "lang": "en"
+    },
+    {
+      "text": "like a a four-year-old at their disposal",
+      "duration": 5.08,
+      "offset": 2034.4,
+      "lang": "en"
+    },
+    {
+      "text": "at all times but just to think about",
+      "duration": 5.28,
+      "offset": 2036.44,
+      "lang": "en"
+    },
+    {
+      "text": "what would your like 16-year-old self",
+      "duration": 4.04,
+      "offset": 2039.48,
+      "lang": "en"
+    },
+    {
+      "text": "think about this or S whatever like",
+      "duration": 3.0,
+      "offset": 2041.72,
+      "lang": "en"
+    },
+    {
+      "text": "whatever the age is like your your",
+      "duration": 2.72,
+      "offset": 2043.52,
+      "lang": "en"
+    },
+    {
+      "text": "younger self think about what you&#39;re",
+      "duration": 3.96,
+      "offset": 2044.72,
+      "lang": "en"
+    },
+    {
+      "text": "doing like would they be super excited",
+      "duration": 4.16,
+      "offset": 2046.24,
+      "lang": "en"
+    },
+    {
+      "text": "about what you&#39;re doing you know like",
+      "duration": 3.76,
+      "offset": 2048.68,
+      "lang": "en"
+    },
+    {
+      "text": "just just to be like introspective and",
+      "duration": 3.88,
+      "offset": 2050.4,
+      "lang": "en"
+    },
+    {
+      "text": "think about all those things that&#39;s",
+      "duration": 4.0,
+      "offset": 2052.44,
+      "lang": "en"
+    },
+    {
+      "text": "where I found myself back at working at",
+      "duration": 4.16,
+      "offset": 2054.28,
+      "lang": "en"
+    },
+    {
+      "text": "perplexity now like being able to reach",
+      "duration": 4.8,
+      "offset": 2056.44,
+      "lang": "en"
+    },
+    {
+      "text": "back and think about like the old work",
+      "duration": 5.92,
+      "offset": 2058.44,
+      "lang": "en"
+    },
+    {
+      "text": "that I&#39;ve produced and say like what",
+      "duration": 5.32,
+      "offset": 2061.24,
+      "lang": "en"
+    },
+    {
+      "text": "inspired that and then how can I take",
+      "duration": 3.92,
+      "offset": 2064.36,
+      "lang": "en"
+    },
+    {
+      "text": "that thing that I was proud of and then",
+      "duration": 4.52,
+      "offset": 2066.56,
+      "lang": "en"
+    },
+    {
+      "text": "like use that as again as feel to",
+      "duration": 5.6,
+      "offset": 2068.28,
+      "lang": "en"
+    },
+    {
+      "text": "continue to experiment and like remix",
+      "duration": 5.0,
+      "offset": 2071.08,
+      "lang": "en"
+    },
+    {
+      "text": "things that I&#39;ve made in the past or old",
+      "duration": 4.8,
+      "offset": 2073.88,
+      "lang": "en"
+    },
+    {
+      "text": "Concepts that have sort of died or",
+      "duration": 5.0,
+      "offset": 2076.08,
+      "lang": "en"
+    },
+    {
+      "text": "concepts I&#39;ve never shared before",
+      "duration": 4.24,
+      "offset": 2078.68,
+      "lang": "en"
+    },
+    {
+      "text": "because I was just too afraid to share",
+      "duration": 4.28,
+      "offset": 2081.08,
+      "lang": "en"
+    },
+    {
+      "text": "it of and and being worried about what",
+      "duration": 4.24,
+      "offset": 2082.92,
+      "lang": "en"
+    },
+    {
+      "text": "the rest of the world might think and",
+      "duration": 4.48,
+      "offset": 2085.36,
+      "lang": "en"
+    },
+    {
+      "text": "ultimately you get to drive what you",
+      "duration": 4.2,
+      "offset": 2087.16,
+      "lang": "en"
+    },
+    {
+      "text": "share with the world and I&#39;m just going",
+      "duration": 3.8,
+      "offset": 2089.84,
+      "lang": "en"
+    },
+    {
+      "text": "to go deep but it&#39;s it&#39;s one of those",
+      "duration": 5.0,
+      "offset": 2091.36,
+      "lang": "en"
+    },
+    {
+      "text": "things where like if I don&#39;t share it I",
+      "duration": 6.44,
+      "offset": 2093.64,
+      "lang": "en"
+    },
+    {
+      "text": "know that like when when I die like",
+      "duration": 5.64,
+      "offset": 2096.36,
+      "lang": "en"
+    },
+    {
+      "text": "those things would just come with me and",
+      "duration": 3.96,
+      "offset": 2100.08,
+      "lang": "en"
+    },
+    {
+      "text": "I would rather just either like Inspire",
+      "duration": 3.96,
+      "offset": 2102.0,
+      "lang": "en"
+    },
+    {
+      "text": "someone else who might have seen that",
+      "duration": 3.24,
+      "offset": 2104.04,
+      "lang": "en"
+    },
+    {
+      "text": "thing even though I might find it",
+      "duration": 3.44,
+      "offset": 2105.96,
+      "lang": "en"
+    },
+    {
+      "text": "insignificant it could like Inspire them",
+      "duration": 3.96,
+      "offset": 2107.28,
+      "lang": "en"
+    },
+    {
+      "text": "to make the next thing and I think",
+      "duration": 4.36,
+      "offset": 2109.4,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what drives me to like constantly",
+      "duration": 5.2,
+      "offset": 2111.24,
+      "lang": "en"
+    },
+    {
+      "text": "uh experiment and taste that dopamine of",
+      "duration": 4.6,
+      "offset": 2113.76,
+      "lang": "en"
+    },
+    {
+      "text": "like learning and enjoying that messy",
+      "duration": 3.96,
+      "offset": 2116.44,
+      "lang": "en"
+    },
+    {
+      "text": "middle which I know a lot of us have",
+      "duration": 4.16,
+      "offset": 2118.36,
+      "lang": "en"
+    },
+    {
+      "text": "heard before but like that is seriously",
+      "duration": 3.52,
+      "offset": 2120.4,
+      "lang": "en"
+    },
+    {
+      "text": "where like you should just start",
+      "duration": 3.52,
+      "offset": 2122.52,
+      "lang": "en"
+    },
+    {
+      "text": "capturing the that the the feelings you",
+      "duration": 4.04,
+      "offset": 2123.92,
+      "lang": "en"
+    },
+    {
+      "text": "get when you either made something that",
+      "duration": 3.72,
+      "offset": 2126.04,
+      "lang": "en"
+    },
+    {
+      "text": "like really sparked something or like",
+      "duration": 3.12,
+      "offset": 2127.96,
+      "lang": "en"
+    },
+    {
+      "text": "maybe there&#39;s like a I don&#39;t know like a",
+      "duration": 3.12,
+      "offset": 2129.76,
+      "lang": "en"
+    },
+    {
+      "text": "phrase or a word that you might not",
+      "duration": 3.64,
+      "offset": 2131.08,
+      "lang": "en"
+    },
+    {
+      "text": "necessarily use on that final output of",
+      "duration": 3.4,
+      "offset": 2132.88,
+      "lang": "en"
+    },
+    {
+      "text": "that thing that you&#39;re making now but",
+      "duration": 2.56,
+      "offset": 2134.72,
+      "lang": "en"
+    },
+    {
+      "text": "what if that&#39;s something that you can",
+      "duration": 3.92,
+      "offset": 2136.28,
+      "lang": "en"
+    },
+    {
+      "text": "revisit when the opportunity presents",
+      "duration": 5.04,
+      "offset": 2137.28,
+      "lang": "en"
+    },
+    {
+      "text": "itself again right it&#39;s like oh you know",
+      "duration": 4.68,
+      "offset": 2140.2,
+      "lang": "en"
+    },
+    {
+      "text": "like for for spaces we could have just",
+      "duration": 4.6,
+      "offset": 2142.32,
+      "lang": "en"
+    },
+    {
+      "text": "like took screenshots of the app because",
+      "duration": 3.84,
+      "offset": 2144.88,
+      "lang": "en"
+    },
+    {
+      "text": "it we we just had like a week to come up",
+      "duration": 3.92,
+      "offset": 2146.92,
+      "lang": "en"
+    },
+    {
+      "text": "with this it could have called it a day",
+      "duration": 4.12,
+      "offset": 2148.72,
+      "lang": "en"
+    },
+    {
+      "text": "but ultimately I just wanted to continue",
+      "duration": 3.36,
+      "offset": 2150.84,
+      "lang": "en"
+    },
+    {
+      "text": "to push that a little bit further and",
+      "duration": 3.76,
+      "offset": 2152.84,
+      "lang": "en"
+    },
+    {
+      "text": "like how do we tell that story that is",
+      "duration": 5.2,
+      "offset": 2154.2,
+      "lang": "en"
+    },
+    {
+      "text": "like my like how my brain operates is",
+      "duration": 5.4,
+      "offset": 2156.6,
+      "lang": "en"
+    },
+    {
+      "text": "like being just being open very very",
+      "duration": 4.96,
+      "offset": 2159.4,
+      "lang": "en"
+    },
+    {
+      "text": "open to new ideas and just beyond",
+      "duration": 4.68,
+      "offset": 2162.0,
+      "lang": "en"
+    },
+    {
+      "text": "consuming the content that I&#39;m seeing is",
+      "duration": 4.36,
+      "offset": 2164.36,
+      "lang": "en"
+    },
+    {
+      "text": "like understanding why that thing made",
+      "duration": 4.04,
+      "offset": 2166.68,
+      "lang": "en"
+    },
+    {
+      "text": "me stop scrolling oh it made me stop",
+      "duration": 3.68,
+      "offset": 2168.72,
+      "lang": "en"
+    },
+    {
+      "text": "scrolling because the composition was",
+      "duration": 4.24,
+      "offset": 2170.72,
+      "lang": "en"
+    },
+    {
+      "text": "just so good the type was just so good",
+      "duration": 4.48,
+      "offset": 2172.4,
+      "lang": "en"
+    },
+    {
+      "text": "how can I do that before I let you go I",
+      "duration": 4.92,
+      "offset": 2174.96,
+      "lang": "en"
+    },
+    {
+      "text": "want to talk about an experiment that",
+      "duration": 5.6,
+      "offset": 2176.88,
+      "lang": "en"
+    },
+    {
+      "text": "inspired someone pretty specific because",
+      "duration": 6.96,
+      "offset": 2179.88,
+      "lang": "en"
+    },
+    {
+      "text": "the founder of mid Journey David was in",
+      "duration": 6.48,
+      "offset": 2182.48,
+      "lang": "en"
+    },
+    {
+      "text": "your comment kind of just being like how",
+      "duration": 4.48,
+      "offset": 2186.84,
+      "lang": "en"
+    },
+    {
+      "text": "the heck did you do this so can you just",
+      "duration": 4.56,
+      "offset": 2188.96,
+      "lang": "en"
+    },
+    {
+      "text": "share a little bit about like some of",
+      "duration": 4.28,
+      "offset": 2191.32,
+      "lang": "en"
+    },
+    {
+      "text": "the technical things that you were doing",
+      "duration": 4.64,
+      "offset": 2193.52,
+      "lang": "en"
+    },
+    {
+      "text": "to bring that composition to life I",
+      "duration": 6.24,
+      "offset": 2195.6,
+      "lang": "en"
+    },
+    {
+      "text": "tweeted out a mockup of a phone and like",
+      "duration": 6.28,
+      "offset": 2198.16,
+      "lang": "en"
+    },
+    {
+      "text": "a really surreal scene and uh there was",
+      "duration": 4.4,
+      "offset": 2201.84,
+      "lang": "en"
+    },
+    {
+      "text": "like two versions of it and there was",
+      "duration": 4.8,
+      "offset": 2204.44,
+      "lang": "en"
+    },
+    {
+      "text": "like pretty vastly different but um it",
+      "duration": 4.92,
+      "offset": 2206.24,
+      "lang": "en"
+    },
+    {
+      "text": "was just like of our mobile app and so",
+      "duration": 3.88,
+      "offset": 2209.24,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re looking at it it it",
+      "duration": 3.8,
+      "offset": 2211.16,
+      "lang": "en"
+    },
+    {
+      "text": "literally looks like someone generated",
+      "duration": 4.64,
+      "offset": 2213.12,
+      "lang": "en"
+    },
+    {
+      "text": "in like a 3D environment um which is I",
+      "duration": 4.88,
+      "offset": 2214.96,
+      "lang": "en"
+    },
+    {
+      "text": "guess like the beauty of uh mid Journeys",
+      "duration": 3.88,
+      "offset": 2217.76,
+      "lang": "en"
+    },
+    {
+      "text": "like you can get to that level of",
+      "duration": 4.48,
+      "offset": 2219.84,
+      "lang": "en"
+    },
+    {
+      "text": "fidelity and polish um pretty quickly",
+      "duration": 5.28,
+      "offset": 2221.64,
+      "lang": "en"
+    },
+    {
+      "text": "when the retexture feature came out mid",
+      "duration": 4.16,
+      "offset": 2224.32,
+      "lang": "en"
+    },
+    {
+      "text": "journey and what that means with the",
+      "duration": 3.6,
+      "offset": 2226.92,
+      "lang": "en"
+    },
+    {
+      "text": "retexture features is really you can",
+      "duration": 4.72,
+      "offset": 2228.48,
+      "lang": "en"
+    },
+    {
+      "text": "take an existing image and you can",
+      "duration": 4.4,
+      "offset": 2230.52,
+      "lang": "en"
+    },
+    {
+      "text": "basically prompt it to look like",
+      "duration": 3.8,
+      "offset": 2233.2,
+      "lang": "en"
+    },
+    {
+      "text": "something else but it will it will keep",
+      "duration": 5.24,
+      "offset": 2234.92,
+      "lang": "en"
+    },
+    {
+      "text": "the Integrity of the composition of that",
+      "duration": 6.24,
+      "offset": 2237.0,
+      "lang": "en"
+    },
+    {
+      "text": "image so in this case it was just a",
+      "duration": 5.64,
+      "offset": 2240.16,
+      "lang": "en"
+    },
+    {
+      "text": "phone sort of sitting on a plane and",
+      "duration": 4.0,
+      "offset": 2243.24,
+      "lang": "en"
+    },
+    {
+      "text": "then there&#39;s like a background and then",
+      "duration": 2.96,
+      "offset": 2245.8,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a foreground and so I just",
+      "duration": 3.92,
+      "offset": 2247.24,
+      "lang": "en"
+    },
+    {
+      "text": "mocked that up in figma so I just like",
+      "duration": 5.36,
+      "offset": 2248.76,
+      "lang": "en"
+    },
+    {
+      "text": "drew some gray boxes and I just used one",
+      "duration": 5.12,
+      "offset": 2251.16,
+      "lang": "en"
+    },
+    {
+      "text": "of the figma plugins to like Drop in a",
+      "duration": 4.6,
+      "offset": 2254.12,
+      "lang": "en"
+    },
+    {
+      "text": "device U because I just I knew what the",
+      "duration": 4.48,
+      "offset": 2256.28,
+      "lang": "en"
+    },
+    {
+      "text": "composition like I wanted or at least",
+      "duration": 3.84,
+      "offset": 2258.72,
+      "lang": "en"
+    },
+    {
+      "text": "just wanted to experiment with and I",
+      "duration": 4.72,
+      "offset": 2260.76,
+      "lang": "en"
+    },
+    {
+      "text": "just threw it into uh into mid Journey U",
+      "duration": 5.04,
+      "offset": 2262.56,
+      "lang": "en"
+    },
+    {
+      "text": "the edit feature and then selected",
+      "duration": 4.52,
+      "offset": 2265.48,
+      "lang": "en"
+    },
+    {
+      "text": "retexture I just threw in an existing",
+      "duration": 4.28,
+      "offset": 2267.6,
+      "lang": "en"
+    },
+    {
+      "text": "image that I had already made as a",
+      "duration": 4.0,
+      "offset": 2270.0,
+      "lang": "en"
+    },
+    {
+      "text": "reference and it gave me this like",
+      "duration": 4.84,
+      "offset": 2271.88,
+      "lang": "en"
+    },
+    {
+      "text": "really really rich really high contrast",
+      "duration": 5.08,
+      "offset": 2274.0,
+      "lang": "en"
+    },
+    {
+      "text": "image uh and again like it looked like",
+      "duration": 4.24,
+      "offset": 2276.72,
+      "lang": "en"
+    },
+    {
+      "text": "pretty surreal so I just grabbed one of",
+      "duration": 3.96,
+      "offset": 2279.08,
+      "lang": "en"
+    },
+    {
+      "text": "the screenshots from our our mobile",
+      "duration": 3.64,
+      "offset": 2280.96,
+      "lang": "en"
+    },
+    {
+      "text": "designer was like Hey I&#39;m I&#39;m like",
+      "duration": 4.24,
+      "offset": 2283.04,
+      "lang": "en"
+    },
+    {
+      "text": "playing around with this aesthetic like",
+      "duration": 4.16,
+      "offset": 2284.6,
+      "lang": "en"
+    },
+    {
+      "text": "can can you give me the screenshots for",
+      "duration": 4.08,
+      "offset": 2287.28,
+      "lang": "en"
+    },
+    {
+      "text": "this or um just give me the the figma",
+      "duration": 4.28,
+      "offset": 2288.76,
+      "lang": "en"
+    },
+    {
+      "text": "file and I I just winning this figma",
+      "duration": 4.2,
+      "offset": 2291.36,
+      "lang": "en"
+    },
+    {
+      "text": "file grabbed it I went into Photoshop I",
+      "duration": 5.48,
+      "offset": 2293.04,
+      "lang": "en"
+    },
+    {
+      "text": "took that image and then I put dis",
+      "duration": 5.2,
+      "offset": 2295.56,
+      "lang": "en"
+    },
+    {
+      "text": "masking and played with blending modes",
+      "duration": 5.4,
+      "offset": 2298.52,
+      "lang": "en"
+    },
+    {
+      "text": "where I can just like see how the image",
+      "duration": 4.92,
+      "offset": 2300.76,
+      "lang": "en"
+    },
+    {
+      "text": "itself would just sit on the light with",
+      "duration": 3.2,
+      "offset": 2303.92,
+      "lang": "en"
+    },
+    {
+      "text": "the lighting and so I just kept playing",
+      "duration": 3.36,
+      "offset": 2305.68,
+      "lang": "en"
+    },
+    {
+      "text": "with it so it felt like all right this",
+      "duration": 5.2,
+      "offset": 2307.12,
+      "lang": "en"
+    },
+    {
+      "text": "screen looks like it was in the actual",
+      "duration": 6.64,
+      "offset": 2309.04,
+      "lang": "en"
+    },
+    {
+      "text": "scene itself there&#39;s just layers to my",
+      "duration": 5.8,
+      "offset": 2312.32,
+      "lang": "en"
+    },
+    {
+      "text": "madness uh or the exper the",
+      "duration": 4.88,
+      "offset": 2315.68,
+      "lang": "en"
+    },
+    {
+      "text": "experimentation aspect of it and it&#39;s",
+      "duration": 5.36,
+      "offset": 2318.12,
+      "lang": "en"
+    },
+    {
+      "text": "really um validating to to see the",
+      "duration": 5.08,
+      "offset": 2320.56,
+      "lang": "en"
+    },
+    {
+      "text": "creator of this tool sort of like",
+      "duration": 4.04,
+      "offset": 2323.48,
+      "lang": "en"
+    },
+    {
+      "text": "questioning like whether or not like his",
+      "duration": 3.92,
+      "offset": 2325.64,
+      "lang": "en"
+    },
+    {
+      "text": "own tool is able to produce this the",
+      "duration": 4.48,
+      "offset": 2327.52,
+      "lang": "en"
+    },
+    {
+      "text": "tool that he created like just gave",
+      "duration": 4.6,
+      "offset": 2329.56,
+      "lang": "en"
+    },
+    {
+      "text": "people like me the opportunity to just",
+      "duration": 4.44,
+      "offset": 2332.0,
+      "lang": "en"
+    },
+    {
+      "text": "experiment but also execute on these",
+      "duration": 4.92,
+      "offset": 2334.16,
+      "lang": "en"
+    },
+    {
+      "text": "types of images faster than ever before",
+      "duration": 4.48,
+      "offset": 2336.44,
+      "lang": "en"
+    },
+    {
+      "text": "can we add one more layer to the",
+      "duration": 3.56,
+      "offset": 2339.08,
+      "lang": "en"
+    },
+    {
+      "text": "creative Madness just so people have the",
+      "duration": 4.2,
+      "offset": 2340.92,
+      "lang": "en"
+    },
+    {
+      "text": "full picture because a lot of these",
+      "duration": 3.68,
+      "offset": 2342.64,
+      "lang": "en"
+    },
+    {
+      "text": "experiments that you&#39;ve been posting",
+      "duration": 4.04,
+      "offset": 2345.12,
+      "lang": "en"
+    },
+    {
+      "text": "recently have a video animation",
+      "duration": 5.24,
+      "offset": 2346.32,
+      "lang": "en"
+    },
+    {
+      "text": "component to it can you talk about that",
+      "duration": 4.0,
+      "offset": 2349.16,
+      "lang": "en"
+    },
+    {
+      "text": "tool stack how that fits into your",
+      "duration": 5.48,
+      "offset": 2351.56,
+      "lang": "en"
+    },
+    {
+      "text": "process when Runway came out with their",
+      "duration": 6.8,
+      "offset": 2353.16,
+      "lang": "en"
+    },
+    {
+      "text": "uh their tool it was an eye openening",
+      "duration": 5.8,
+      "offset": 2357.04,
+      "lang": "en"
+    },
+    {
+      "text": "moment where we can take the surreal",
+      "duration": 5.96,
+      "offset": 2359.96,
+      "lang": "en"
+    },
+    {
+      "text": "scenes like for me it it feels like a",
+      "duration": 5.0,
+      "offset": 2362.84,
+      "lang": "en"
+    },
+    {
+      "text": "like it&#39;s coming from a movie when they",
+      "duration": 5.16,
+      "offset": 2365.92,
+      "lang": "en"
+    },
+    {
+      "text": "released the image to video feature it",
+      "duration": 6.16,
+      "offset": 2367.84,
+      "lang": "en"
+    },
+    {
+      "text": "just gave me so much more room to think",
+      "duration": 5.68,
+      "offset": 2371.08,
+      "lang": "en"
+    },
+    {
+      "text": "about like now this changes everything",
+      "duration": 5.36,
+      "offset": 2374.0,
+      "lang": "en"
+    },
+    {
+      "text": "right now we can tell stories beyond the",
+      "duration": 6.12,
+      "offset": 2376.76,
+      "lang": "en"
+    },
+    {
+      "text": "static images now we can now we can like",
+      "duration": 6.6,
+      "offset": 2379.36,
+      "lang": "en"
+    },
+    {
+      "text": "tell full narratives about anything",
+      "duration": 4.72,
+      "offset": 2382.88,
+      "lang": "en"
+    },
+    {
+      "text": "right just there anything that we wanted",
+      "duration": 4.08,
+      "offset": 2385.96,
+      "lang": "en"
+    },
+    {
+      "text": "to no one really asked me to basically",
+      "duration": 5.08,
+      "offset": 2387.6,
+      "lang": "en"
+    },
+    {
+      "text": "post any videos about anything uh we",
+      "duration": 4.8,
+      "offset": 2390.04,
+      "lang": "en"
+    },
+    {
+      "text": "using these images it was like Hey I",
+      "duration": 6.4,
+      "offset": 2392.68,
+      "lang": "en"
+    },
+    {
+      "text": "want to show that we can do this now so",
+      "duration": 6.32,
+      "offset": 2394.84,
+      "lang": "en"
+    },
+    {
+      "text": "everything that we did for the campus",
+      "duration": 4.48,
+      "offset": 2399.08,
+      "lang": "en"
+    },
+    {
+      "text": "strategist program which is where we we",
+      "duration": 5.88,
+      "offset": 2401.16,
+      "lang": "en"
+    },
+    {
+      "text": "had students uh apply to be ambassadors",
+      "duration": 5.6,
+      "offset": 2403.56,
+      "lang": "en"
+    },
+    {
+      "text": "for perplexity on their campus that was",
+      "duration": 5.24,
+      "offset": 2407.04,
+      "lang": "en"
+    },
+    {
+      "text": "just an opportunity to use Runway fully",
+      "duration": 6.48,
+      "offset": 2409.16,
+      "lang": "en"
+    },
+    {
+      "text": "to take these images that we&#39;ve made for",
+      "duration": 6.76,
+      "offset": 2412.28,
+      "lang": "en"
+    },
+    {
+      "text": "just like our emails or social posts and",
+      "duration": 5.44,
+      "offset": 2415.64,
+      "lang": "en"
+    },
+    {
+      "text": "then taking that aesthetic and then like",
+      "duration": 3.68,
+      "offset": 2419.04,
+      "lang": "en"
+    },
+    {
+      "text": "now how do we like number one just",
+      "duration": 3.76,
+      "offset": 2421.08,
+      "lang": "en"
+    },
+    {
+      "text": "create a brand video that that I think",
+      "duration": 4.64,
+      "offset": 2422.72,
+      "lang": "en"
+    },
+    {
+      "text": "sort of resonated or to us like just",
+      "duration": 5.92,
+      "offset": 2424.84,
+      "lang": "en"
+    },
+    {
+      "text": "felt really uh fresh and uh and new and",
+      "duration": 6.44,
+      "offset": 2427.36,
+      "lang": "en"
+    },
+    {
+      "text": "so we didn&#39;t have to go that hard uh on",
+      "duration": 5.6,
+      "offset": 2430.76,
+      "lang": "en"
+    },
+    {
+      "text": "it but it was I don&#39;t know again it was",
+      "duration": 4.44,
+      "offset": 2433.8,
+      "lang": "en"
+    },
+    {
+      "text": "just like our our opportunity or our",
+      "duration": 4.24,
+      "offset": 2436.36,
+      "lang": "en"
+    },
+    {
+      "text": "ball game to lose if uh we didn&#39;t at",
+      "duration": 4.04,
+      "offset": 2438.24,
+      "lang": "en"
+    },
+    {
+      "text": "least just like try to put something out",
+      "duration": 3.76,
+      "offset": 2440.6,
+      "lang": "en"
+    },
+    {
+      "text": "there that just felt new with some like",
+      "duration": 3.8,
+      "offset": 2442.28,
+      "lang": "en"
+    },
+    {
+      "text": "some new techniques and old techniques",
+      "duration": 3.16,
+      "offset": 2444.36,
+      "lang": "en"
+    },
+    {
+      "text": "sort of just like blending blending",
+      "duration": 3.08,
+      "offset": 2446.08,
+      "lang": "en"
+    },
+    {
+      "text": "those those two worlds together so yeah",
+      "duration": 3.92,
+      "offset": 2447.52,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s Runway and then there&#39;s Loma",
+      "duration": 5.56,
+      "offset": 2449.16,
+      "lang": "en"
+    },
+    {
+      "text": "Labs thatai also another great tool it&#39;s",
+      "duration": 6.12,
+      "offset": 2451.44,
+      "lang": "en"
+    },
+    {
+      "text": "a lot less advanced than Runaway being",
+      "duration": 4.64,
+      "offset": 2454.72,
+      "lang": "en"
+    },
+    {
+      "text": "able to control camera movements and",
+      "duration": 3.24,
+      "offset": 2457.56,
+      "lang": "en"
+    },
+    {
+      "text": "things like that like there&#39;s so many",
+      "duration": 5.2,
+      "offset": 2459.36,
+      "lang": "en"
+    },
+    {
+      "text": "new features now that I now have to like",
+      "duration": 6.8,
+      "offset": 2460.8,
+      "lang": "en"
+    },
+    {
+      "text": "take a you know a day to just like learn",
+      "duration": 5.24,
+      "offset": 2464.56,
+      "lang": "en"
+    },
+    {
+      "text": "learn all these things but ultimately",
+      "duration": 4.0,
+      "offset": 2467.6,
+      "lang": "en"
+    },
+    {
+      "text": "Luma is just like another great tool",
+      "duration": 4.0,
+      "offset": 2469.8,
+      "lang": "en"
+    },
+    {
+      "text": "where you can just drag in an image and",
+      "duration": 3.8,
+      "offset": 2471.6,
+      "lang": "en"
+    },
+    {
+      "text": "then just have it it&#39;s sort of like a",
+      "duration": 3.96,
+      "offset": 2473.8,
+      "lang": "en"
+    },
+    {
+      "text": "slot machine with a lot of these uh",
+      "duration": 4.16,
+      "offset": 2475.4,
+      "lang": "en"
+    },
+    {
+      "text": "tools where you&#39;re just like I don&#39;t",
+      "duration": 3.16,
+      "offset": 2477.76,
+      "lang": "en"
+    },
+    {
+      "text": "know how it&#39;s going to interpret this",
+      "duration": 3.4,
+      "offset": 2479.56,
+      "lang": "en"
+    },
+    {
+      "text": "but I&#39;m just going to keep again",
+      "duration": 4.28,
+      "offset": 2480.92,
+      "lang": "en"
+    },
+    {
+      "text": "experimenting until I find that thing",
+      "duration": 5.0,
+      "offset": 2482.96,
+      "lang": "en"
+    },
+    {
+      "text": "that I saw in my head but maybe It",
+      "duration": 5.2,
+      "offset": 2485.2,
+      "lang": "en"
+    },
+    {
+      "text": "produced it like a lot better on screen",
+      "duration": 4.96,
+      "offset": 2487.96,
+      "lang": "en"
+    },
+    {
+      "text": "and so again this is with any of these",
+      "duration": 4.88,
+      "offset": 2490.4,
+      "lang": "en"
+    },
+    {
+      "text": "tools whether it&#39;s mid Journey Runway",
+      "duration": 7.52,
+      "offset": 2492.92,
+      "lang": "en"
+    },
+    {
+      "text": "Luma cray k ea. a it&#39;s another tool that",
+      "duration": 8.36,
+      "offset": 2495.28,
+      "lang": "en"
+    },
+    {
+      "text": "that I use um when the other two can&#39;t",
+      "duration": 4.84,
+      "offset": 2500.44,
+      "lang": "en"
+    },
+    {
+      "text": "do the thing that cray can do so I just",
+      "duration": 3.24,
+      "offset": 2503.64,
+      "lang": "en"
+    },
+    {
+      "text": "like really trying to figure out like",
+      "duration": 4.24,
+      "offset": 2505.28,
+      "lang": "en"
+    },
+    {
+      "text": "out of these three which one can give me",
+      "duration": 5.64,
+      "offset": 2506.88,
+      "lang": "en"
+    },
+    {
+      "text": "the output that I ultimately want to see",
+      "duration": 5.28,
+      "offset": 2509.52,
+      "lang": "en"
+    },
+    {
+      "text": "but with all these tools right like you",
+      "duration": 3.76,
+      "offset": 2512.52,
+      "lang": "en"
+    },
+    {
+      "text": "you sort of just have to keep keep",
+      "duration": 3.36,
+      "offset": 2514.8,
+      "lang": "en"
+    },
+    {
+      "text": "wrestling with it like molding it like",
+      "duration": 4.72,
+      "offset": 2516.28,
+      "lang": "en"
+    },
+    {
+      "text": "just like making Ceramics like it&#39;s",
+      "duration": 4.76,
+      "offset": 2518.16,
+      "lang": "en"
+    },
+    {
+      "text": "depends on the day like if it&#39;s you know",
+      "duration": 3.84,
+      "offset": 2521.0,
+      "lang": "en"
+    },
+    {
+      "text": "if it&#39;s like too humid outside it&#39;s just",
+      "duration": 3.24,
+      "offset": 2522.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to fall apart and so there&#39;s",
+      "duration": 2.84,
+      "offset": 2524.84,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s how I feel about a lot of these",
+      "duration": 4.04,
+      "offset": 2526.16,
+      "lang": "en"
+    },
+    {
+      "text": "tools too but you just kind of have to",
+      "duration": 4.28,
+      "offset": 2527.68,
+      "lang": "en"
+    },
+    {
+      "text": "keep sticking with it and I think that&#39;s",
+      "duration": 4.16,
+      "offset": 2530.2,
+      "lang": "en"
+    },
+    {
+      "text": "where my madness sort of comes in",
+      "duration": 5.16,
+      "offset": 2531.96,
+      "lang": "en"
+    },
+    {
+      "text": "because I will keep pushing it until I",
+      "duration": 4.32,
+      "offset": 2534.36,
+      "lang": "en"
+    },
+    {
+      "text": "can&#39;t and I&#39;ll probably spend way more",
+      "duration": 3.88,
+      "offset": 2537.12,
+      "lang": "en"
+    },
+    {
+      "text": "money my own money on some of these",
+      "duration": 4.6,
+      "offset": 2538.68,
+      "lang": "en"
+    },
+    {
+      "text": "experiments until like I feel like",
+      "duration": 4.2,
+      "offset": 2541.0,
+      "lang": "en"
+    },
+    {
+      "text": "really good about it that&#39;s how I work",
+      "duration": 4.4,
+      "offset": 2543.28,
+      "lang": "en"
+    },
+    {
+      "text": "those tools into my process does this",
+      "duration": 4.88,
+      "offset": 2545.2,
+      "lang": "en"
+    },
+    {
+      "text": "make sense to pull in a video and if if",
+      "duration": 5.04,
+      "offset": 2547.68,
+      "lang": "en"
+    },
+    {
+      "text": "it is then let&#39;s storyboard it uh let&#39;s",
+      "duration": 5.48,
+      "offset": 2550.08,
+      "lang": "en"
+    },
+    {
+      "text": "bring it into fig jam and think about",
+      "duration": 4.4,
+      "offset": 2552.72,
+      "lang": "en"
+    },
+    {
+      "text": "like what we want to say and then",
+      "duration": 3.64,
+      "offset": 2555.56,
+      "lang": "en"
+    },
+    {
+      "text": "ultimately use that and just even use",
+      "duration": 5.28,
+      "offset": 2557.12,
+      "lang": "en"
+    },
+    {
+      "text": "those Stills that we generate to then go",
+      "duration": 5.4,
+      "offset": 2559.2,
+      "lang": "en"
+    },
+    {
+      "text": "back and then start exporting them and",
+      "duration": 4.52,
+      "offset": 2562.4,
+      "lang": "en"
+    },
+    {
+      "text": "then throwing them into these tools to",
+      "duration": 5.72,
+      "offset": 2564.6,
+      "lang": "en"
+    },
+    {
+      "text": "then uh generate the video clips I want",
+      "duration": 5.52,
+      "offset": 2566.92,
+      "lang": "en"
+    },
+    {
+      "text": "to end by giving you the opportunity to",
+      "duration": 5.8,
+      "offset": 2570.32,
+      "lang": "en"
+    },
+    {
+      "text": "speak to a very specific listener that",
+      "duration": 6.2,
+      "offset": 2572.44,
+      "lang": "en"
+    },
+    {
+      "text": "maybe is trying to get a little bit more",
+      "duration": 4.36,
+      "offset": 2576.12,
+      "lang": "en"
+    },
+    {
+      "text": "confident and excited to put themselves",
+      "duration": 5.16,
+      "offset": 2578.64,
+      "lang": "en"
+    },
+    {
+      "text": "out there on social Twitter specifically",
+      "duration": 4.92,
+      "offset": 2580.48,
+      "lang": "en"
+    },
+    {
+      "text": "and you know I think you have a lot of",
+      "duration": 4.64,
+      "offset": 2583.8,
+      "lang": "en"
+    },
+    {
+      "text": "momentum behind you right now and I I",
+      "duration": 4.36,
+      "offset": 2585.4,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve seen all the growth you&#39;re always",
+      "duration": 3.16,
+      "offset": 2588.44,
+      "lang": "en"
+    },
+    {
+      "text": "on my timeline and what you&#39;re doing is",
+      "duration": 3.08,
+      "offset": 2589.76,
+      "lang": "en"
+    },
+    {
+      "text": "really resonating with people but it",
+      "duration": 4.28,
+      "offset": 2591.6,
+      "lang": "en"
+    },
+    {
+      "text": "wasn&#39;t always like that and before we",
+      "duration": 5.76,
+      "offset": 2592.84,
+      "lang": "en"
+    },
+    {
+      "text": "hit record you even said how Henry kind",
+      "duration": 4.72,
+      "offset": 2595.88,
+      "lang": "en"
+    },
+    {
+      "text": "of pulled you out of your shell a little",
+      "duration": 6.08,
+      "offset": 2598.6,
+      "lang": "en"
+    },
+    {
+      "text": "bit so can you talk a bit about your",
+      "duration": 6.84,
+      "offset": 2600.6,
+      "lang": "en"
+    },
+    {
+      "text": "journey growing that muscle as someone",
+      "duration": 4.68,
+      "offset": 2604.68,
+      "lang": "en"
+    },
+    {
+      "text": "who is regularly putting yourself out",
+      "duration": 4.16,
+      "offset": 2607.44,
+      "lang": "en"
+    },
+    {
+      "text": "there on the internet and what those",
+      "duration": 4.24,
+      "offset": 2609.36,
+      "lang": "en"
+    },
+    {
+      "text": "kind of ups and downs have been like I",
+      "duration": 4.96,
+      "offset": 2611.6,
+      "lang": "en"
+    },
+    {
+      "text": "think my journey with social media in",
+      "duration": 5.08,
+      "offset": 2613.6,
+      "lang": "en"
+    },
+    {
+      "text": "general has just always been like I I&#39;m",
+      "duration": 4.36,
+      "offset": 2616.56,
+      "lang": "en"
+    },
+    {
+      "text": "a lurker like I just like consume",
+      "duration": 3.92,
+      "offset": 2618.68,
+      "lang": "en"
+    },
+    {
+      "text": "whatever the big designers are putting",
+      "duration": 3.92,
+      "offset": 2620.92,
+      "lang": "en"
+    },
+    {
+      "text": "out there and I&#39;ve always felt like I",
+      "duration": 4.36,
+      "offset": 2622.6,
+      "lang": "en"
+    },
+    {
+      "text": "couldn&#39;t get there or like if I did like",
+      "duration": 3.48,
+      "offset": 2624.84,
+      "lang": "en"
+    },
+    {
+      "text": "it would be a close second because I&#39;m",
+      "duration": 3.64,
+      "offset": 2626.96,
+      "lang": "en"
+    },
+    {
+      "text": "just like my worst critic and I think a",
+      "duration": 4.08,
+      "offset": 2628.32,
+      "lang": "en"
+    },
+    {
+      "text": "lot of us are especially just the",
+      "duration": 3.92,
+      "offset": 2630.6,
+      "lang": "en"
+    },
+    {
+      "text": "creative people are just like constantly",
+      "duration": 3.6,
+      "offset": 2632.4,
+      "lang": "en"
+    },
+    {
+      "text": "thinking about like how is this going to",
+      "duration": 2.92,
+      "offset": 2634.52,
+      "lang": "en"
+    },
+    {
+      "text": "resonate with this person how would R",
+      "duration": 2.8,
+      "offset": 2636.0,
+      "lang": "en"
+    },
+    {
+      "text": "think about this or how would Dan Petty",
+      "duration": 3.08,
+      "offset": 2637.44,
+      "lang": "en"
+    },
+    {
+      "text": "think about this you know and like these",
+      "duration": 3.76,
+      "offset": 2638.8,
+      "lang": "en"
+    },
+    {
+      "text": "people are like the the people at the",
+      "duration": 4.12,
+      "offset": 2640.52,
+      "lang": "en"
+    },
+    {
+      "text": "top sort of already figured that out",
+      "duration": 3.8,
+      "offset": 2642.56,
+      "lang": "en"
+    },
+    {
+      "text": "right just like just doing reps right",
+      "duration": 3.2,
+      "offset": 2644.64,
+      "lang": "en"
+    },
+    {
+      "text": "when you work out enough there it just",
+      "duration": 3.96,
+      "offset": 2646.36,
+      "lang": "en"
+    },
+    {
+      "text": "becomes easy to like do that thing like",
+      "duration": 4.44,
+      "offset": 2647.84,
+      "lang": "en"
+    },
+    {
+      "text": "just again just to execute on top of it",
+      "duration": 4.28,
+      "offset": 2650.32,
+      "lang": "en"
+    },
+    {
+      "text": "and I think for me there was just a",
+      "duration": 4.72,
+      "offset": 2652.28,
+      "lang": "en"
+    },
+    {
+      "text": "point where I&#39;m seeing all this work and",
+      "duration": 4.12,
+      "offset": 2654.6,
+      "lang": "en"
+    },
+    {
+      "text": "it it all just started feeling like",
+      "duration": 3.6,
+      "offset": 2657.0,
+      "lang": "en"
+    },
+    {
+      "text": "started to feel the same when I started",
+      "duration": 3.44,
+      "offset": 2658.72,
+      "lang": "en"
+    },
+    {
+      "text": "at perplexity was just one of those",
+      "duration": 4.32,
+      "offset": 2660.6,
+      "lang": "en"
+    },
+    {
+      "text": "moments where because I&#39;ve been given",
+      "duration": 6.16,
+      "offset": 2662.16,
+      "lang": "en"
+    },
+    {
+      "text": "the green light to just do what I feel",
+      "duration": 5.24,
+      "offset": 2664.92,
+      "lang": "en"
+    },
+    {
+      "text": "is right that I just wanted I just",
+      "duration": 4.52,
+      "offset": 2668.32,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to share more of that and I think",
+      "duration": 5.56,
+      "offset": 2670.16,
+      "lang": "en"
+    },
+    {
+      "text": "working with someone like Henry or this",
+      "duration": 4.68,
+      "offset": 2672.84,
+      "lang": "en"
+    },
+    {
+      "text": "like if if you&#39;re thinking about if if",
+      "duration": 3.64,
+      "offset": 2675.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re listening and and you&#39;re thinking",
+      "duration": 4.56,
+      "offset": 2677.52,
+      "lang": "en"
+    },
+    {
+      "text": "about who&#39;s leading you if if you if",
+      "duration": 4.04,
+      "offset": 2679.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re working somewhere but ultimately",
+      "duration": 2.84,
+      "offset": 2682.08,
+      "lang": "en"
+    },
+    {
+      "text": "if you&#39;re a freelancer you have that",
+      "duration": 5.28,
+      "offset": 2683.4,
+      "lang": "en"
+    },
+    {
+      "text": "ability to to just shape how you want",
+      "duration": 6.28,
+      "offset": 2684.92,
+      "lang": "en"
+    },
+    {
+      "text": "the world or just even yourself like how",
+      "duration": 4.24,
+      "offset": 2688.68,
+      "lang": "en"
+    },
+    {
+      "text": "like what type of work do you want to be",
+      "duration": 3.84,
+      "offset": 2691.2,
+      "lang": "en"
+    },
+    {
+      "text": "putting out in the world so that more",
+      "duration": 3.96,
+      "offset": 2692.92,
+      "lang": "en"
+    },
+    {
+      "text": "people want more of that from you so",
+      "duration": 4.4,
+      "offset": 2695.04,
+      "lang": "en"
+    },
+    {
+      "text": "that you can just can like continue to",
+      "duration": 5.28,
+      "offset": 2696.88,
+      "lang": "en"
+    },
+    {
+      "text": "to grow and get signal from from from",
+      "duration": 4.68,
+      "offset": 2699.44,
+      "lang": "en"
+    },
+    {
+      "text": "other folks and I think it was just at",
+      "duration": 3.32,
+      "offset": 2702.16,
+      "lang": "en"
+    },
+    {
+      "text": "the time when when I first started out I",
+      "duration": 3.52,
+      "offset": 2704.12,
+      "lang": "en"
+    },
+    {
+      "text": "was just so focused on like man like I",
+      "duration": 3.72,
+      "offset": 2705.48,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t think this is going to go viral",
+      "duration": 3.36,
+      "offset": 2707.64,
+      "lang": "en"
+    },
+    {
+      "text": "you know and looking back at that and",
+      "duration": 3.2,
+      "offset": 2709.2,
+      "lang": "en"
+    },
+    {
+      "text": "like just even that mentality it&#39;s just",
+      "duration": 3.12,
+      "offset": 2711.0,
+      "lang": "en"
+    },
+    {
+      "text": "like it just doesn&#39;t matter right I",
+      "duration": 3.68,
+      "offset": 2712.4,
+      "lang": "en"
+    },
+    {
+      "text": "think what matters for me is holding",
+      "duration": 4.04,
+      "offset": 2714.12,
+      "lang": "en"
+    },
+    {
+      "text": "myself accountable to just put it just",
+      "duration": 3.76,
+      "offset": 2716.08,
+      "lang": "en"
+    },
+    {
+      "text": "to put it out there and if you put it",
+      "duration": 3.64,
+      "offset": 2718.16,
+      "lang": "en"
+    },
+    {
+      "text": "out there and and it resonates then",
+      "duration": 3.88,
+      "offset": 2719.84,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s awesome that means like you just",
+      "duration": 4.08,
+      "offset": 2721.8,
+      "lang": "en"
+    },
+    {
+      "text": "took a risk like putting your neck out",
+      "duration": 5.76,
+      "offset": 2723.72,
+      "lang": "en"
+    },
+    {
+      "text": "there um um and then someone appreciated",
+      "duration": 5.48,
+      "offset": 2725.88,
+      "lang": "en"
+    },
+    {
+      "text": "that you just did that that&#39;s where I",
+      "duration": 5.32,
+      "offset": 2729.48,
+      "lang": "en"
+    },
+    {
+      "text": "found success in my own Journey now is",
+      "duration": 5.32,
+      "offset": 2731.36,
+      "lang": "en"
+    },
+    {
+      "text": "just like all right when you&#39;re thinking",
+      "duration": 3.88,
+      "offset": 2734.8,
+      "lang": "en"
+    },
+    {
+      "text": "about posting that thing and you don&#39;t",
+      "duration": 3.6,
+      "offset": 2736.68,
+      "lang": "en"
+    },
+    {
+      "text": "want to because you&#39;re just afraid of",
+      "duration": 5.08,
+      "offset": 2738.68,
+      "lang": "en"
+    },
+    {
+      "text": "how like if it&#39;ll flop then maybe take a",
+      "duration": 5.24,
+      "offset": 2740.28,
+      "lang": "en"
+    },
+    {
+      "text": "breath or really think about that for a",
+      "duration": 4.0,
+      "offset": 2743.76,
+      "lang": "en"
+    },
+    {
+      "text": "second and say like well what happens if",
+      "duration": 4.68,
+      "offset": 2745.52,
+      "lang": "en"
+    },
+    {
+      "text": "I do post it and it does go out there",
+      "duration": 4.32,
+      "offset": 2747.76,
+      "lang": "en"
+    },
+    {
+      "text": "and and it does resonate then I don&#39;t",
+      "duration": 3.76,
+      "offset": 2750.2,
+      "lang": "en"
+    },
+    {
+      "text": "know you just like shorted yourself from",
+      "duration": 4.04,
+      "offset": 2752.08,
+      "lang": "en"
+    },
+    {
+      "text": "the ability to just share your work with",
+      "duration": 3.64,
+      "offset": 2753.96,
+      "lang": "en"
+    },
+    {
+      "text": "someone cuz who who knows who you&#39;re",
+      "duration": 3.52,
+      "offset": 2756.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to inspire you know and I feel",
+      "duration": 4.04,
+      "offset": 2757.6,
+      "lang": "en"
+    },
+    {
+      "text": "that way all the time when I&#39;m consuming",
+      "duration": 3.88,
+      "offset": 2759.64,
+      "lang": "en"
+    },
+    {
+      "text": "or or like seeing what other people are",
+      "duration": 4.12,
+      "offset": 2761.64,
+      "lang": "en"
+    },
+    {
+      "text": "sticking their necks out posting that&#39;s",
+      "duration": 4.2,
+      "offset": 2763.52,
+      "lang": "en"
+    },
+    {
+      "text": "where like the DMS come in I&#39;m like dude",
+      "duration": 4.44,
+      "offset": 2765.76,
+      "lang": "en"
+    },
+    {
+      "text": "I can&#39;t believe like how good this is",
+      "duration": 4.28,
+      "offset": 2767.72,
+      "lang": "en"
+    },
+    {
+      "text": "like this is so amazing and I&#39;ve always",
+      "duration": 3.92,
+      "offset": 2770.2,
+      "lang": "en"
+    },
+    {
+      "text": "been that person to DM people and to",
+      "duration": 3.56,
+      "offset": 2772.0,
+      "lang": "en"
+    },
+    {
+      "text": "like be on the other side of that where",
+      "duration": 3.28,
+      "offset": 2774.12,
+      "lang": "en"
+    },
+    {
+      "text": "people are dming me and I&#39;m like I don&#39;t",
+      "duration": 3.92,
+      "offset": 2775.56,
+      "lang": "en"
+    },
+    {
+      "text": "know how to handle this compliment like",
+      "duration": 5.0,
+      "offset": 2777.4,
+      "lang": "en"
+    },
+    {
+      "text": "thanks so much um and then and and like",
+      "duration": 4.28,
+      "offset": 2779.48,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s sort of it but at the same time",
+      "duration": 3.32,
+      "offset": 2782.4,
+      "lang": "en"
+    },
+    {
+      "text": "is like oh my gosh like if you just",
+      "duration": 3.92,
+      "offset": 2783.76,
+      "lang": "en"
+    },
+    {
+      "text": "continue to just be consistent and how",
+      "duration": 3.88,
+      "offset": 2785.72,
+      "lang": "en"
+    },
+    {
+      "text": "creative you&#39;re being and if you feel",
+      "duration": 3.56,
+      "offset": 2787.68,
+      "lang": "en"
+    },
+    {
+      "text": "proud of this thing whether or not",
+      "duration": 3.64,
+      "offset": 2789.6,
+      "lang": "en"
+    },
+    {
+      "text": "somebody else is proud of it or not like",
+      "duration": 4.0,
+      "offset": 2791.24,
+      "lang": "en"
+    },
+    {
+      "text": "you know just take that risk and like",
+      "duration": 4.16,
+      "offset": 2793.24,
+      "lang": "en"
+    },
+    {
+      "text": "and just jump because who like who knows",
+      "duration": 3.72,
+      "offset": 2795.24,
+      "lang": "en"
+    },
+    {
+      "text": "where you&#39;ll land and I sort of feel",
+      "duration": 3.52,
+      "offset": 2797.4,
+      "lang": "en"
+    },
+    {
+      "text": "that way about my like my whole career",
+      "duration": 3.64,
+      "offset": 2798.96,
+      "lang": "en"
+    },
+    {
+      "text": "just in general is the people you get to",
+      "duration": 3.92,
+      "offset": 2800.92,
+      "lang": "en"
+    },
+    {
+      "text": "meet because of the work that you brisk",
+      "duration": 5.16,
+      "offset": 2802.6,
+      "lang": "en"
+    },
+    {
+      "text": "your own ego for now resonates like you",
+      "duration": 5.24,
+      "offset": 2804.84,
+      "lang": "en"
+    },
+    {
+      "text": "you would be surprised how how far",
+      "duration": 3.96,
+      "offset": 2807.76,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll get well I think I could speak",
+      "duration": 3.8,
+      "offset": 2810.08,
+      "lang": "en"
+    },
+    {
+      "text": "for the entire design industry and say",
+      "duration": 4.64,
+      "offset": 2811.72,
+      "lang": "en"
+    },
+    {
+      "text": "thank you for you taking the leaf and",
+      "duration": 4.52,
+      "offset": 2813.88,
+      "lang": "en"
+    },
+    {
+      "text": "putting yourself out there because your",
+      "duration": 4.08,
+      "offset": 2816.36,
+      "lang": "en"
+    },
+    {
+      "text": "work really is inspiring and it&#39;s",
+      "duration": 3.84,
+      "offset": 2818.4,
+      "lang": "en"
+    },
+    {
+      "text": "something that I look forward to seeing",
+      "duration": 3.88,
+      "offset": 2820.44,
+      "lang": "en"
+    },
+    {
+      "text": "on a regular basis really really",
+      "duration": 3.88,
+      "offset": 2822.24,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate you coming on today and just",
+      "duration": 3.48,
+      "offset": 2824.32,
+      "lang": "en"
+    },
+    {
+      "text": "taking the time to share a little bit",
+      "duration": 4.2,
+      "offset": 2826.12,
+      "lang": "en"
+    },
+    {
+      "text": "about your journey how you operate",
+      "duration": 4.32,
+      "offset": 2827.8,
+      "lang": "en"
+    },
+    {
+      "text": "pulling back the curtain a little bit",
+      "duration": 3.44,
+      "offset": 2830.32,
+      "lang": "en"
+    },
+    {
+      "text": "big fan of everything that you&#39;re doing",
+      "duration": 3.44,
+      "offset": 2832.12,
+      "lang": "en"
+    },
+    {
+      "text": "at perplexity and I&#39;m excited to see",
+      "duration": 4.44,
+      "offset": 2833.76,
+      "lang": "en"
+    },
+    {
+      "text": "future Seasons come to life oh man",
+      "duration": 5.08,
+      "offset": 2835.56,
+      "lang": "en"
+    },
+    {
+      "text": "thanks for having me this has been great",
+      "duration": 4.92,
+      "offset": 2838.2,
+      "lang": "en"
+    },
+    {
+      "text": "hey it&#39;s red don&#39;t forget if you want to",
+      "duration": 5.2,
+      "offset": 2840.64,
+      "lang": "en"
+    },
+    {
+      "text": "go even deeper each week I send an email",
+      "duration": 5.72,
+      "offset": 2843.12,
+      "lang": "en"
+    },
+    {
+      "text": "out to over 10 ,000 designers with bonus",
+      "duration": 4.96,
+      "offset": 2845.84,
+      "lang": "en"
+    },
+    {
+      "text": "resources and key takeaways from these",
+      "duration": 6.2,
+      "offset": 2848.84,
+      "lang": "en"
+    },
+    {
+      "text": "conversations so head to dive. club/ to",
+      "duration": 8.96,
+      "offset": 2850.8,
+      "lang": "en"
+    },
+    {
+      "text": "sign up okay I&#39;ll see you next week",
+      "duration": 4.72,
+      "offset": 2855.04,
+      "lang": "en"
+    }
+  ]
+}

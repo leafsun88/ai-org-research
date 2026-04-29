@@ -1,0 +1,3279 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "Z2GZXYaV27k",
+  "url": "https://www.youtube.com/watch?v=Z2GZXYaV27k",
+  "title": "Surreal Minimalist Art Tutorial with MidJourney v7",
+  "channel": "Ai of Euphoria ",
+  "source_queries": [
+    "Midjourney V7 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:06",
+  "segments": [
+    {
+      "text": "Hello everybody and uh welcome back to",
+      "duration": 4.24,
+      "offset": 0.24,
+      "lang": "en"
+    },
+    {
+      "text": "AI Euphoria. Um in today&#39;s video I&#39;m",
+      "duration": 3.04,
+      "offset": 2.4,
+      "lang": "en"
+    },
+    {
+      "text": "going to talk you guys through how I&#39;m",
+      "duration": 2.96,
+      "offset": 4.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to go about making a minimalist",
+      "duration": 5.44,
+      "offset": 5.44,
+      "lang": "en"
+    },
+    {
+      "text": "surreal art video. Uh my goal is to make",
+      "duration": 4.72,
+      "offset": 7.44,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s about probably one or",
+      "duration": 3.52,
+      "offset": 10.88,
+      "lang": "en"
+    },
+    {
+      "text": "two minutes long and I want to make it",
+      "duration": 3.44,
+      "offset": 12.16,
+      "lang": "en"
+    },
+    {
+      "text": "very minimal. I want to, you know,",
+      "duration": 2.56,
+      "offset": 14.4,
+      "lang": "en"
+    },
+    {
+      "text": "experiment with how surreal we can get",
+      "duration": 3.68,
+      "offset": 15.6,
+      "lang": "en"
+    },
+    {
+      "text": "and how interesting things can get. And",
+      "duration": 3.92,
+      "offset": 16.96,
+      "lang": "en"
+    },
+    {
+      "text": "I like with this channel, I like to sort",
+      "duration": 2.96,
+      "offset": 19.28,
+      "lang": "en"
+    },
+    {
+      "text": "of push the boundaries to sort of see",
+      "duration": 4.24,
+      "offset": 20.88,
+      "lang": "en"
+    },
+    {
+      "text": "how unique I can make things look and",
+      "duration": 4.32,
+      "offset": 22.24,
+      "lang": "en"
+    },
+    {
+      "text": "also I guess experiment with different",
+      "duration": 3.52,
+      "offset": 25.12,
+      "lang": "en"
+    },
+    {
+      "text": "trends and things that are happening. So",
+      "duration": 3.6,
+      "offset": 26.56,
+      "lang": "en"
+    },
+    {
+      "text": "this is my journey. I&#39;m currently on",
+      "duration": 3.6,
+      "offset": 28.64,
+      "lang": "en"
+    },
+    {
+      "text": "their I think it&#39;s a $60 a month plan. I",
+      "duration": 4.16,
+      "offset": 30.16,
+      "lang": "en"
+    },
+    {
+      "text": "haven&#39;t signed up for the yearly plan. I",
+      "duration": 3.44,
+      "offset": 32.24,
+      "lang": "en"
+    },
+    {
+      "text": "just signed up for their monthly plan",
+      "duration": 4.24,
+      "offset": 34.32,
+      "lang": "en"
+    },
+    {
+      "text": "which is $60 USD um which is different",
+      "duration": 6.88,
+      "offset": 35.68,
+      "lang": "en"
+    },
+    {
+      "text": "down here in Australia. But um this is",
+      "duration": 5.44,
+      "offset": 38.56,
+      "lang": "en"
+    },
+    {
+      "text": "their explore page just sort of showing",
+      "duration": 2.48,
+      "offset": 42.56,
+      "lang": "en"
+    },
+    {
+      "text": "what other people are doing at the",
+      "duration": 3.12,
+      "offset": 44.0,
+      "lang": "en"
+    },
+    {
+      "text": "moment. Nothing really what I&#39;m after.",
+      "duration": 3.44,
+      "offset": 45.04,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m something a bit different. I do like",
+      "duration": 2.88,
+      "offset": 47.12,
+      "lang": "en"
+    },
+    {
+      "text": "that video. That&#39;s a very interesting",
+      "duration": 3.84,
+      "offset": 48.48,
+      "lang": "en"
+    },
+    {
+      "text": "looking this, you know, mirrored look.",
+      "duration": 3.84,
+      "offset": 50.0,
+      "lang": "en"
+    },
+    {
+      "text": "But I&#39;ve been experimenting with some",
+      "duration": 4.24,
+      "offset": 52.32,
+      "lang": "en"
+    },
+    {
+      "text": "surreal videos lately in Midjourney and",
+      "duration": 5.6,
+      "offset": 53.84,
+      "lang": "en"
+    },
+    {
+      "text": "also a lot of um you know crazy silly",
+      "duration": 5.52,
+      "offset": 56.56,
+      "lang": "en"
+    },
+    {
+      "text": "you know Bigfoot and alien stuff um in",
+      "duration": 6.0,
+      "offset": 59.44,
+      "lang": "en"
+    },
+    {
+      "text": "VO3. I find VO3 is incredible but Mid",
+      "duration": 5.28,
+      "offset": 62.08,
+      "lang": "en"
+    },
+    {
+      "text": "Journeys I guess has always had my heart",
+      "duration": 3.92,
+      "offset": 65.44,
+      "lang": "en"
+    },
+    {
+      "text": "over the years. And so we&#39;re going to go",
+      "duration": 4.08,
+      "offset": 67.36,
+      "lang": "en"
+    },
+    {
+      "text": "into the create tab over here and we&#39;re",
+      "duration": 4.48,
+      "offset": 69.36,
+      "lang": "en"
+    },
+    {
+      "text": "going to start doing some stuff. Now I",
+      "duration": 4.8,
+      "offset": 71.44,
+      "lang": "en"
+    },
+    {
+      "text": "guess with what I&#39;ve done so far is just",
+      "duration": 4.08,
+      "offset": 73.84,
+      "lang": "en"
+    },
+    {
+      "text": "some experiments. I&#39;ve just literally",
+      "duration": 4.0,
+      "offset": 76.24,
+      "lang": "en"
+    },
+    {
+      "text": "just written surreal minimalist art. Um,",
+      "duration": 4.08,
+      "offset": 77.92,
+      "lang": "en"
+    },
+    {
+      "text": "my current settings at the moment are",
+      "duration": 4.08,
+      "offset": 80.24,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m on sort of this 16 by9. I love that",
+      "duration": 4.16,
+      "offset": 82.0,
+      "lang": "en"
+    },
+    {
+      "text": "look for whatever reason. I always go",
+      "duration": 3.12,
+      "offset": 84.32,
+      "lang": "en"
+    },
+    {
+      "text": "with RAW. There&#39;s something a bit more",
+      "duration": 2.64,
+      "offset": 86.16,
+      "lang": "en"
+    },
+    {
+      "text": "interesting. I might experiment with",
+      "duration": 2.48,
+      "offset": 87.44,
+      "lang": "en"
+    },
+    {
+      "text": "standard today actually because I might",
+      "duration": 2.88,
+      "offset": 88.8,
+      "lang": "en"
+    },
+    {
+      "text": "get something a bit more interesting for",
+      "duration": 4.32,
+      "offset": 89.92,
+      "lang": "en"
+    },
+    {
+      "text": "this particular sort of video. Um,",
+      "duration": 5.44,
+      "offset": 91.68,
+      "lang": "en"
+    },
+    {
+      "text": "always in uh version uh 7. It&#39;s the",
+      "duration": 5.84,
+      "offset": 94.24,
+      "lang": "en"
+    },
+    {
+      "text": "latest version. Keep this as default for",
+      "duration": 5.44,
+      "offset": 97.12,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetics. Um, speed is currently fast",
+      "duration": 3.84,
+      "offset": 100.08,
+      "lang": "en"
+    },
+    {
+      "text": "cuz I&#39;ve got some, you know, my credits",
+      "duration": 2.88,
+      "offset": 102.56,
+      "lang": "en"
+    },
+    {
+      "text": "are up at the moment. I always keep",
+      "duration": 3.76,
+      "offset": 103.92,
+      "lang": "en"
+    },
+    {
+      "text": "stealth on. I could probably go SD. I",
+      "duration": 4.24,
+      "offset": 105.44,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t mind. I think HD uses up your",
+      "duration": 3.6,
+      "offset": 107.68,
+      "lang": "en"
+    },
+    {
+      "text": "credits a bit more. I could be wrong in",
+      "duration": 5.44,
+      "offset": 109.68,
+      "lang": "en"
+    },
+    {
+      "text": "saying that. Um, I might just do HD. It",
+      "duration": 5.04,
+      "offset": 111.28,
+      "lang": "en"
+    },
+    {
+      "text": "takes a bit longer, so I might just",
+      "duration": 2.96,
+      "offset": 115.12,
+      "lang": "en"
+    },
+    {
+      "text": "stick with SD today. It doesn&#39;t look too",
+      "duration": 3.6,
+      "offset": 116.32,
+      "lang": "en"
+    },
+    {
+      "text": "bad. And I guess most of these videos",
+      "duration": 3.44,
+      "offset": 118.08,
+      "lang": "en"
+    },
+    {
+      "text": "get watched on a on a film screen",
+      "duration": 3.92,
+      "offset": 119.92,
+      "lang": "en"
+    },
+    {
+      "text": "anyway. And I&#39;m going to do two",
+      "duration": 3.84,
+      "offset": 121.52,
+      "lang": "en"
+    },
+    {
+      "text": "variations. I&#39;m not going to bother with",
+      "duration": 3.2,
+      "offset": 123.84,
+      "lang": "en"
+    },
+    {
+      "text": "four. I was doing some stuff last night.",
+      "duration": 2.8,
+      "offset": 125.36,
+      "lang": "en"
+    },
+    {
+      "text": "I needed the four, but I think I&#39;m going",
+      "duration": 3.04,
+      "offset": 127.04,
+      "lang": "en"
+    },
+    {
+      "text": "to go back to two. Two usually gives you",
+      "duration": 4.8,
+      "offset": 128.16,
+      "lang": "en"
+    },
+    {
+      "text": "a pretty good option and pretty quickly.",
+      "duration": 4.32,
+      "offset": 130.08,
+      "lang": "en"
+    },
+    {
+      "text": "So this partic these particular ones",
+      "duration": 2.8,
+      "offset": 132.96,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve literally just written surreal",
+      "duration": 2.64,
+      "offset": 134.4,
+      "lang": "en"
+    },
+    {
+      "text": "minimalist art and it just give me",
+      "duration": 4.24,
+      "offset": 135.76,
+      "lang": "en"
+    },
+    {
+      "text": "whatever it thinks is good. Uh some of",
+      "duration": 4.88,
+      "offset": 137.04,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s okay. It&#39;s mostly hit and miss",
+      "duration": 4.96,
+      "offset": 140.0,
+      "lang": "en"
+    },
+    {
+      "text": "mostly miss I should say. Um but I like",
+      "duration": 4.96,
+      "offset": 141.92,
+      "lang": "en"
+    },
+    {
+      "text": "this. It tends to go for a lot of",
+      "duration": 4.8,
+      "offset": 144.96,
+      "lang": "en"
+    },
+    {
+      "text": "landscape sort of stuff like big things.",
+      "duration": 4.48,
+      "offset": 146.88,
+      "lang": "en"
+    },
+    {
+      "text": "Surreal always has these big things and",
+      "duration": 2.96,
+      "offset": 149.76,
+      "lang": "en"
+    },
+    {
+      "text": "I like to experiment with stuff that&#39;s",
+      "duration": 3.12,
+      "offset": 151.36,
+      "lang": "en"
+    },
+    {
+      "text": "completely different to that. So let&#39;s",
+      "duration": 3.28,
+      "offset": 152.72,
+      "lang": "en"
+    },
+    {
+      "text": "just try a prompt now and see what we",
+      "duration": 5.6,
+      "offset": 154.48,
+      "lang": "en"
+    },
+    {
+      "text": "get. I want to get like um a large moon",
+      "duration": 8.48,
+      "offset": 156.0,
+      "lang": "en"
+    },
+    {
+      "text": "inside a house surrounded by",
+      "duration": 7.6,
+      "offset": 160.08,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s say spiders on the wall. Try to",
+      "duration": 4.64,
+      "offset": 164.48,
+      "lang": "en"
+    },
+    {
+      "text": "come up with something that maybe hasn&#39;t",
+      "duration": 4.08,
+      "offset": 167.68,
+      "lang": "en"
+    },
+    {
+      "text": "been seen before and we&#39;ll type surreal",
+      "duration": 4.88,
+      "offset": 169.12,
+      "lang": "en"
+    },
+    {
+      "text": "art at the end of that. So it&#39;s a pretty",
+      "duration": 4.4,
+      "offset": 171.76,
+      "lang": "en"
+    },
+    {
+      "text": "simple sort of one. Um, I know some",
+      "duration": 5.52,
+      "offset": 174.0,
+      "lang": "en"
+    },
+    {
+      "text": "people really enjoy um, using chatbt to",
+      "duration": 5.36,
+      "offset": 176.16,
+      "lang": "en"
+    },
+    {
+      "text": "come up with their prompts. And I",
+      "duration": 4.4,
+      "offset": 179.52,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes that works quite well for, you",
+      "duration": 4.08,
+      "offset": 181.52,
+      "lang": "en"
+    },
+    {
+      "text": "know, I did some deep research the other",
+      "duration": 3.36,
+      "offset": 183.92,
+      "lang": "en"
+    },
+    {
+      "text": "day to try to figure out how to get",
+      "duration": 3.44,
+      "offset": 185.6,
+      "lang": "en"
+    },
+    {
+      "text": "Bigfoot to hold his camera in front of",
+      "duration": 4.24,
+      "offset": 187.28,
+      "lang": "en"
+    },
+    {
+      "text": "him. And that turned out to be quite a",
+      "duration": 3.6,
+      "offset": 189.04,
+      "lang": "en"
+    },
+    {
+      "text": "difficult thing to do. Just a simple",
+      "duration": 2.32,
+      "offset": 191.52,
+      "lang": "en"
+    },
+    {
+      "text": "thing like I want Bigfoot to hold his",
+      "duration": 2.8,
+      "offset": 192.64,
+      "lang": "en"
+    },
+    {
+      "text": "camera. So I did a deep research on chat",
+      "duration": 3.2,
+      "offset": 193.84,
+      "lang": "en"
+    },
+    {
+      "text": "GBT to find out how people have done",
+      "duration": 3.68,
+      "offset": 195.44,
+      "lang": "en"
+    },
+    {
+      "text": "that. We get some interesting stuff",
+      "duration": 3.92,
+      "offset": 197.04,
+      "lang": "en"
+    },
+    {
+      "text": "here. So this one here is not",
+      "duration": 3.36,
+      "offset": 199.12,
+      "lang": "en"
+    },
+    {
+      "text": "minimalist. So I&#39;ve kind of gone against",
+      "duration": 2.88,
+      "offset": 200.96,
+      "lang": "en"
+    },
+    {
+      "text": "the grain already and done something",
+      "duration": 3.12,
+      "offset": 202.48,
+      "lang": "en"
+    },
+    {
+      "text": "wrong. But I I like that. That is really",
+      "duration": 3.2,
+      "offset": 203.84,
+      "lang": "en"
+    },
+    {
+      "text": "cool. So, I&#39;ve got another video I&#39;m",
+      "duration": 2.8,
+      "offset": 205.6,
+      "lang": "en"
+    },
+    {
+      "text": "working on. So, I always I might chuck",
+      "duration": 3.68,
+      "offset": 207.04,
+      "lang": "en"
+    },
+    {
+      "text": "that in my dark, you know, dark and",
+      "duration": 4.4,
+      "offset": 208.4,
+      "lang": "en"
+    },
+    {
+      "text": "gritty surreal video thing later cuz",
+      "duration": 4.72,
+      "offset": 210.72,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s I like that look a lot. The rest",
+      "duration": 4.56,
+      "offset": 212.8,
+      "lang": "en"
+    },
+    {
+      "text": "of them are nothing special to me.",
+      "duration": 4.0,
+      "offset": 215.44,
+      "lang": "en"
+    },
+    {
+      "text": "They&#39;re sort of a bit bland. But, let&#39;s",
+      "duration": 3.36,
+      "offset": 217.36,
+      "lang": "en"
+    },
+    {
+      "text": "get back to this minimalist thing. I",
+      "duration": 2.72,
+      "offset": 219.44,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s what we need to to go for.",
+      "duration": 6.72,
+      "offset": 220.72,
+      "lang": "en"
+    },
+    {
+      "text": "So, let&#39;s say a large mooncape",
+      "duration": 7.52,
+      "offset": 222.16,
+      "lang": "en"
+    },
+    {
+      "text": "um underwater.",
+      "duration": 3.36,
+      "offset": 227.44,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s get rid of the word scape there.",
+      "duration": 2.48,
+      "offset": 229.68,
+      "lang": "en"
+    },
+    {
+      "text": "That makes not going to make any sense.",
+      "duration": 4.16,
+      "offset": 230.8,
+      "lang": "en"
+    },
+    {
+      "text": "A large moon underwater.",
+      "duration": 6.64,
+      "offset": 232.16,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s say under the ocean at night",
+      "duration": 8.0,
+      "offset": 234.96,
+      "lang": "en"
+    },
+    {
+      "text": "glowing in the depths",
+      "duration": 6.72,
+      "offset": 238.8,
+      "lang": "en"
+    },
+    {
+      "text": "of the blue water.",
+      "duration": 6.16,
+      "offset": 242.96,
+      "lang": "en"
+    },
+    {
+      "text": "I say minimalist surreal art. See what",
+      "duration": 6.88,
+      "offset": 245.52,
+      "lang": "en"
+    },
+    {
+      "text": "we get with that one. So, I I really do",
+      "duration": 5.6,
+      "offset": 249.12,
+      "lang": "en"
+    },
+    {
+      "text": "enjoy using uh Mid Journey when it&#39;s",
+      "duration": 4.16,
+      "offset": 252.4,
+      "lang": "en"
+    },
+    {
+      "text": "working fast. It It can be quite a",
+      "duration": 3.6,
+      "offset": 254.72,
+      "lang": "en"
+    },
+    {
+      "text": "downfall. I&#39;m sure very soon I&#39;m going",
+      "duration": 3.76,
+      "offset": 256.56,
+      "lang": "en"
+    },
+    {
+      "text": "to run out of my my fast credits and it",
+      "duration": 3.84,
+      "offset": 258.32,
+      "lang": "en"
+    },
+    {
+      "text": "will go back to being slow. which is",
+      "duration": 3.84,
+      "offset": 260.32,
+      "lang": "en"
+    },
+    {
+      "text": "always annoying. I never use the uh",
+      "duration": 4.08,
+      "offset": 262.16,
+      "lang": "en"
+    },
+    {
+      "text": "turbo mode. I It cuts through your fast",
+      "duration": 3.52,
+      "offset": 264.16,
+      "lang": "en"
+    },
+    {
+      "text": "ones way too quick. It is a little bit",
+      "duration": 3.36,
+      "offset": 266.24,
+      "lang": "en"
+    },
+    {
+      "text": "quicker, but it&#39;s not that much quicker.",
+      "duration": 4.0,
+      "offset": 267.68,
+      "lang": "en"
+    },
+    {
+      "text": "So, I keep it on on fast for now and",
+      "duration": 5.12,
+      "offset": 269.6,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll go to relax later. Um, now this is",
+      "duration": 5.68,
+      "offset": 271.68,
+      "lang": "en"
+    },
+    {
+      "text": "not what I was after at all. So, that&#39;s",
+      "duration": 4.0,
+      "offset": 274.72,
+      "lang": "en"
+    },
+    {
+      "text": "interesting. I&#39;ve given it some details",
+      "duration": 3.76,
+      "offset": 277.36,
+      "lang": "en"
+    },
+    {
+      "text": "of what to do, but it&#39;s even using the",
+      "duration": 4.08,
+      "offset": 278.72,
+      "lang": "en"
+    },
+    {
+      "text": "word minimalist hasn&#39;t given me anything",
+      "duration": 3.44,
+      "offset": 281.12,
+      "lang": "en"
+    },
+    {
+      "text": "near what I was after. These are great",
+      "duration": 3.36,
+      "offset": 282.8,
+      "lang": "en"
+    },
+    {
+      "text": "in their own minds. That one there could",
+      "duration": 4.24,
+      "offset": 284.56,
+      "lang": "en"
+    },
+    {
+      "text": "probably be interesting, but not what",
+      "duration": 4.88,
+      "offset": 286.16,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m after. Not not what my brain sees.",
+      "duration": 3.92,
+      "offset": 288.8,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to sort of, you know, not just",
+      "duration": 3.76,
+      "offset": 291.04,
+      "lang": "en"
+    },
+    {
+      "text": "use the first thing that pops up. I&#39;m",
+      "duration": 4.16,
+      "offset": 292.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to try something else here. Um, I",
+      "duration": 3.68,
+      "offset": 294.8,
+      "lang": "en"
+    },
+    {
+      "text": "like the idea of using a moon. I think",
+      "duration": 2.72,
+      "offset": 296.88,
+      "lang": "en"
+    },
+    {
+      "text": "putting a moon somewhere where it",
+      "duration": 2.48,
+      "offset": 298.48,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t belong, I think, can be quite",
+      "duration": 4.4,
+      "offset": 299.6,
+      "lang": "en"
+    },
+    {
+      "text": "surreal thing. What about a clock face",
+      "duration": 5.76,
+      "offset": 300.96,
+      "lang": "en"
+    },
+    {
+      "text": "on the moon",
+      "duration": 6.48,
+      "offset": 304.0,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;ll call that uh",
+      "duration": 6.24,
+      "offset": 306.72,
+      "lang": "en"
+    },
+    {
+      "text": "surreal art style. That&#39;s the sort of",
+      "duration": 4.32,
+      "offset": 310.48,
+      "lang": "en"
+    },
+    {
+      "text": "style I&#39;m after. I&#39;ve actually copied",
+      "duration": 3.2,
+      "offset": 312.96,
+      "lang": "en"
+    },
+    {
+      "text": "and pasted the word minimalist because",
+      "duration": 2.8,
+      "offset": 314.8,
+      "lang": "en"
+    },
+    {
+      "text": "it saves me having to try to type it",
+      "duration": 4.32,
+      "offset": 316.16,
+      "lang": "en"
+    },
+    {
+      "text": "every time because my uh my for whatever",
+      "duration": 4.16,
+      "offset": 317.6,
+      "lang": "en"
+    },
+    {
+      "text": "reason I must have skipped school that",
+      "duration": 2.48,
+      "offset": 320.48,
+      "lang": "en"
+    },
+    {
+      "text": "day when we learned how to spell that",
+      "duration": 3.84,
+      "offset": 321.76,
+      "lang": "en"
+    },
+    {
+      "text": "word minimalist which makes perfect",
+      "duration": 4.96,
+      "offset": 322.96,
+      "lang": "en"
+    },
+    {
+      "text": "sense. Okay, we&#39;re getting some Oh no,",
+      "duration": 4.8,
+      "offset": 325.6,
+      "lang": "en"
+    },
+    {
+      "text": "we got some Okay. Okay, some of these",
+      "duration": 4.08,
+      "offset": 327.92,
+      "lang": "en"
+    },
+    {
+      "text": "are interesting. Not exactly what I&#39;m",
+      "duration": 4.56,
+      "offset": 330.4,
+      "lang": "en"
+    },
+    {
+      "text": "after, but it&#39;s not.",
+      "duration": 4.48,
+      "offset": 332.0,
+      "lang": "en"
+    },
+    {
+      "text": "Well, this one I&#39;m liking this one here.",
+      "duration": 2.96,
+      "offset": 334.96,
+      "lang": "en"
+    },
+    {
+      "text": "This is cool. It&#39;s like a shattered moon",
+      "duration": 3.84,
+      "offset": 336.48,
+      "lang": "en"
+    },
+    {
+      "text": "in the the clocks inside. That&#39;s pretty",
+      "duration": 3.84,
+      "offset": 337.92,
+      "lang": "en"
+    },
+    {
+      "text": "awesome. That&#39;s See, this is the thing",
+      "duration": 3.52,
+      "offset": 340.32,
+      "lang": "en"
+    },
+    {
+      "text": "with AI. It&#39;s going to give you stuff",
+      "duration": 3.44,
+      "offset": 341.76,
+      "lang": "en"
+    },
+    {
+      "text": "that you didn&#39;t really think of, but",
+      "duration": 5.28,
+      "offset": 343.84,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s it&#39;s obscured by, you know, what",
+      "duration": 5.36,
+      "offset": 345.2,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve already put in. So, I like that",
+      "duration": 3.52,
+      "offset": 349.12,
+      "lang": "en"
+    },
+    {
+      "text": "one a lot. I will animate that one. And",
+      "duration": 3.6,
+      "offset": 350.56,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll do an auto animate. So, with these",
+      "duration": 3.04,
+      "offset": 352.64,
+      "lang": "en"
+    },
+    {
+      "text": "animations,",
+      "duration": 3.92,
+      "offset": 354.16,
+      "lang": "en"
+    },
+    {
+      "text": "um, it&#39;s making two animations for me.",
+      "duration": 4.56,
+      "offset": 355.68,
+      "lang": "en"
+    },
+    {
+      "text": "Um, most of the time I will just simply",
+      "duration": 3.68,
+      "offset": 358.08,
+      "lang": "en"
+    },
+    {
+      "text": "just right click and go to, you know,",
+      "duration": 3.44,
+      "offset": 360.24,
+      "lang": "en"
+    },
+    {
+      "text": "um, low motion. That&#39;s the auto one.",
+      "duration": 2.96,
+      "offset": 361.76,
+      "lang": "en"
+    },
+    {
+      "text": "Going to give you some sort of almost",
+      "duration": 3.36,
+      "offset": 363.68,
+      "lang": "en"
+    },
+    {
+      "text": "slow motion look. Sometimes I do high",
+      "duration": 3.36,
+      "offset": 364.72,
+      "lang": "en"
+    },
+    {
+      "text": "motion depending on the video. If it&#39;s",
+      "duration": 2.4,
+      "offset": 367.04,
+      "lang": "en"
+    },
+    {
+      "text": "like an, you know, a sports video or",
+      "duration": 2.56,
+      "offset": 368.08,
+      "lang": "en"
+    },
+    {
+      "text": "something a bit quicker, go to high",
+      "duration": 4.56,
+      "offset": 369.44,
+      "lang": "en"
+    },
+    {
+      "text": "motion. Uh, manual low motion I use a",
+      "duration": 4.88,
+      "offset": 370.64,
+      "lang": "en"
+    },
+    {
+      "text": "lot if I want to give a partic like I",
+      "duration": 3.12,
+      "offset": 374.0,
+      "lang": "en"
+    },
+    {
+      "text": "might I might get this back in a second",
+      "duration": 2.88,
+      "offset": 375.52,
+      "lang": "en"
+    },
+    {
+      "text": "and this might do something really weird",
+      "duration": 3.28,
+      "offset": 377.12,
+      "lang": "en"
+    },
+    {
+      "text": "and not what I even thought it was going",
+      "duration": 4.16,
+      "offset": 378.4,
+      "lang": "en"
+    },
+    {
+      "text": "to do. And so what I might like to do",
+      "duration": 4.32,
+      "offset": 380.4,
+      "lang": "en"
+    },
+    {
+      "text": "with this one is actually animate it the",
+      "duration": 3.52,
+      "offset": 382.56,
+      "lang": "en"
+    },
+    {
+      "text": "way I want it to. So I might sort of say",
+      "duration": 2.88,
+      "offset": 384.72,
+      "lang": "en"
+    },
+    {
+      "text": "like, you know, the rocks scatter off or",
+      "duration": 3.12,
+      "offset": 386.08,
+      "lang": "en"
+    },
+    {
+      "text": "the the clock ticks or whatever it&#39;s",
+      "duration": 2.96,
+      "offset": 387.6,
+      "lang": "en"
+    },
+    {
+      "text": "going to happen. I&#39;m hoping it",
+      "duration": 4.64,
+      "offset": 389.2,
+      "lang": "en"
+    },
+    {
+      "text": "automatically figures that out. Um, a",
+      "duration": 4.8,
+      "offset": 390.56,
+      "lang": "en"
+    },
+    {
+      "text": "lot of the time it&#39;ll do the same camera",
+      "duration": 3.04,
+      "offset": 393.84,
+      "lang": "en"
+    },
+    {
+      "text": "movement over and over again and that",
+      "duration": 3.84,
+      "offset": 395.36,
+      "lang": "en"
+    },
+    {
+      "text": "gets really kind of annoying. So this",
+      "duration": 5.52,
+      "offset": 396.88,
+      "lang": "en"
+    },
+    {
+      "text": "one. Okay. See. Okay. There you go. So",
+      "duration": 5.12,
+      "offset": 399.2,
+      "lang": "en"
+    },
+    {
+      "text": "the clock&#39;s moving on this one and the",
+      "duration": 4.56,
+      "offset": 402.4,
+      "lang": "en"
+    },
+    {
+      "text": "camera is moving on this one. It&#39;s not I",
+      "duration": 5.52,
+      "offset": 404.32,
+      "lang": "en"
+    },
+    {
+      "text": "like I will save that one. That will be",
+      "duration": 4.24,
+      "offset": 406.96,
+      "lang": "en"
+    },
+    {
+      "text": "an option, but it&#39;s not doing what I",
+      "duration": 2.72,
+      "offset": 409.84,
+      "lang": "en"
+    },
+    {
+      "text": "want it to do. So I want it changed to",
+      "duration": 3.28,
+      "offset": 411.2,
+      "lang": "en"
+    },
+    {
+      "text": "do what I want to do. So I&#39;m going to",
+      "duration": 3.6,
+      "offset": 412.56,
+      "lang": "en"
+    },
+    {
+      "text": "animate this image. I&#39;m going to go low",
+      "duration": 3.04,
+      "offset": 414.48,
+      "lang": "en"
+    },
+    {
+      "text": "motion. I don&#39;t want to move too fast.",
+      "duration": 3.04,
+      "offset": 416.16,
+      "lang": "en"
+    },
+    {
+      "text": "Manual. And I&#39;ll get rid of this up",
+      "duration": 3.76,
+      "offset": 417.52,
+      "lang": "en"
+    },
+    {
+      "text": "here. It&#39;s already put my starting frame",
+      "duration": 5.44,
+      "offset": 419.2,
+      "lang": "en"
+    },
+    {
+      "text": "as this. And I&#39;ll say uh the hands on",
+      "duration": 6.0,
+      "offset": 421.28,
+      "lang": "en"
+    },
+    {
+      "text": "the clock.",
+      "duration": 5.2,
+      "offset": 424.64,
+      "lang": "en"
+    },
+    {
+      "text": "the clock move.",
+      "duration": 10.4,
+      "offset": 427.28,
+      "lang": "en"
+    },
+    {
+      "text": "Um, rocks slowly fall away out of orbit.",
+      "duration": 9.84,
+      "offset": 429.84,
+      "lang": "en"
+    },
+    {
+      "text": "And let&#39;s hope that that gives us a bit",
+      "duration": 3.52,
+      "offset": 437.68,
+      "lang": "en"
+    },
+    {
+      "text": "of both cuz I would like I would have",
+      "duration": 3.68,
+      "offset": 439.68,
+      "lang": "en"
+    },
+    {
+      "text": "loved the clock to move cuz that that 3D",
+      "duration": 3.6,
+      "offset": 441.2,
+      "lang": "en"
+    },
+    {
+      "text": "element there of how the rocks are",
+      "duration": 4.88,
+      "offset": 443.36,
+      "lang": "en"
+    },
+    {
+      "text": "moving is pretty amazing.",
+      "duration": 5.84,
+      "offset": 444.8,
+      "lang": "en"
+    },
+    {
+      "text": "And the movement of the clock is great.",
+      "duration": 4.4,
+      "offset": 448.24,
+      "lang": "en"
+    },
+    {
+      "text": "Um,",
+      "duration": 4.32,
+      "offset": 450.64,
+      "lang": "en"
+    },
+    {
+      "text": "and that clock&#39;s pretty accurate, too.",
+      "duration": 6.16,
+      "offset": 452.64,
+      "lang": "en"
+    },
+    {
+      "text": "So, there you go. Um, okay. So, that&#39;s",
+      "duration": 5.6,
+      "offset": 454.96,
+      "lang": "en"
+    },
+    {
+      "text": "okay. So, and what&#39;s I could just type",
+      "duration": 4.48,
+      "offset": 458.8,
+      "lang": "en"
+    },
+    {
+      "text": "the word minimalist surreal art and this",
+      "duration": 4.08,
+      "offset": 460.56,
+      "lang": "en"
+    },
+    {
+      "text": "will give me something that&#39;s probably",
+      "duration": 3.36,
+      "offset": 463.28,
+      "lang": "en"
+    },
+    {
+      "text": "going to give me the right type of look",
+      "duration": 5.12,
+      "offset": 464.64,
+      "lang": "en"
+    },
+    {
+      "text": "that I&#39;m after, but not what I&#39;m after.",
+      "duration": 4.64,
+      "offset": 466.64,
+      "lang": "en"
+    },
+    {
+      "text": "And that&#39;s the difficult part of getting",
+      "duration": 3.28,
+      "offset": 469.76,
+      "lang": "en"
+    },
+    {
+      "text": "that particular look mixed with the",
+      "duration": 4.56,
+      "offset": 471.28,
+      "lang": "en"
+    },
+    {
+      "text": "directions you want. Um, so I could",
+      "duration": 4.48,
+      "offset": 473.04,
+      "lang": "en"
+    },
+    {
+      "text": "easily go into something like GPT and",
+      "duration": 3.28,
+      "offset": 475.84,
+      "lang": "en"
+    },
+    {
+      "text": "say, you know, come up with 20 different",
+      "duration": 3.76,
+      "offset": 477.52,
+      "lang": "en"
+    },
+    {
+      "text": "prompts for interesting, you know,",
+      "duration": 3.2,
+      "offset": 479.12,
+      "lang": "en"
+    },
+    {
+      "text": "surreal art things. And here we go",
+      "duration": 2.32,
+      "offset": 481.28,
+      "lang": "en"
+    },
+    {
+      "text": "again. We&#39;ve got four sort of, you know,",
+      "duration": 4.24,
+      "offset": 482.32,
+      "lang": "en"
+    },
+    {
+      "text": "big landscape images. Um, some of them",
+      "duration": 4.32,
+      "offset": 483.6,
+      "lang": "en"
+    },
+    {
+      "text": "work like the whale stuff&#39;s kind of",
+      "duration": 2.56,
+      "offset": 486.56,
+      "lang": "en"
+    },
+    {
+      "text": "cool. It&#39;s pretty popular at the moment.",
+      "duration": 2.96,
+      "offset": 487.92,
+      "lang": "en"
+    },
+    {
+      "text": "Putting like, you know, obscure fish in",
+      "duration": 4.48,
+      "offset": 489.12,
+      "lang": "en"
+    },
+    {
+      "text": "the sky. Um, we&#39;ve got this moon thing",
+      "duration": 5.76,
+      "offset": 490.88,
+      "lang": "en"
+    },
+    {
+      "text": "here, some mountains, and Okay. Yeah.",
+      "duration": 4.96,
+      "offset": 493.6,
+      "lang": "en"
+    },
+    {
+      "text": "You know, nothing that I&#39;m really after.",
+      "duration": 4.08,
+      "offset": 496.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m hoping that this animation here is",
+      "duration": 3.84,
+      "offset": 498.56,
+      "lang": "en"
+    },
+    {
+      "text": "There we go. Okay. This is better. So,",
+      "duration": 3.84,
+      "offset": 500.72,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve got the movement. The hands on the",
+      "duration": 4.0,
+      "offset": 502.4,
+      "lang": "en"
+    },
+    {
+      "text": "clock aren&#39;t moving the way I wanted to,",
+      "duration": 5.68,
+      "offset": 504.56,
+      "lang": "en"
+    },
+    {
+      "text": "but I like this one. So, it&#39;s all about",
+      "duration": 6.56,
+      "offset": 506.4,
+      "lang": "en"
+    },
+    {
+      "text": "what you like. So this can take hours,",
+      "duration": 4.16,
+      "offset": 510.24,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes days to sort of find, you",
+      "duration": 3.6,
+      "offset": 512.96,
+      "lang": "en"
+    },
+    {
+      "text": "know, a whole collection of videos that",
+      "duration": 4.24,
+      "offset": 514.4,
+      "lang": "en"
+    },
+    {
+      "text": "all work together in a family, in a",
+      "duration": 4.48,
+      "offset": 516.56,
+      "lang": "en"
+    },
+    {
+      "text": "symmetry, in an orchestra of just",
+      "duration": 4.8,
+      "offset": 518.64,
+      "lang": "en"
+    },
+    {
+      "text": "getting them to, you know, play side by",
+      "duration": 4.4,
+      "offset": 521.04,
+      "lang": "en"
+    },
+    {
+      "text": "side and have a running theme and an",
+      "duration": 3.44,
+      "offset": 523.44,
+      "lang": "en"
+    },
+    {
+      "text": "artistic expression of what you&#39;re",
+      "duration": 3.36,
+      "offset": 525.44,
+      "lang": "en"
+    },
+    {
+      "text": "looking for. Now, I mean, this is the",
+      "duration": 3.28,
+      "offset": 526.88,
+      "lang": "en"
+    },
+    {
+      "text": "thing with AI, like a lot of people are",
+      "duration": 3.12,
+      "offset": 528.8,
+      "lang": "en"
+    },
+    {
+      "text": "pretty funny about it at the moment. Um,",
+      "duration": 4.16,
+      "offset": 530.16,
+      "lang": "en"
+    },
+    {
+      "text": "which I get. Um, I think it&#39;s a complete",
+      "duration": 4.72,
+      "offset": 531.92,
+      "lang": "en"
+    },
+    {
+      "text": "revolution. I think it&#39;s incredible. Um,",
+      "duration": 3.84,
+      "offset": 534.32,
+      "lang": "en"
+    },
+    {
+      "text": "it gives someone like myself that",
+      "duration": 3.44,
+      "offset": 536.64,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t know how to animate, you know, I",
+      "duration": 3.6,
+      "offset": 538.16,
+      "lang": "en"
+    },
+    {
+      "text": "know how to edit videos and, you know,",
+      "duration": 4.8,
+      "offset": 540.08,
+      "lang": "en"
+    },
+    {
+      "text": "direct films, but to animate, um, you",
+      "duration": 5.36,
+      "offset": 541.76,
+      "lang": "en"
+    },
+    {
+      "text": "know, these CG",
+      "duration": 4.16,
+      "offset": 544.88,
+      "lang": "en"
+    },
+    {
+      "text": "artistic little vignettes, I wouldn&#39;t",
+      "duration": 3.52,
+      "offset": 547.12,
+      "lang": "en"
+    },
+    {
+      "text": "know where to start. And to get these",
+      "duration": 3.76,
+      "offset": 549.04,
+      "lang": "en"
+    },
+    {
+      "text": "results so quickly is such a breath of",
+      "duration": 4.24,
+      "offset": 550.64,
+      "lang": "en"
+    },
+    {
+      "text": "fresh air and such a creative flow that",
+      "duration": 4.72,
+      "offset": 552.8,
+      "lang": "en"
+    },
+    {
+      "text": "just, you know, I&#39;ve always had the",
+      "duration": 4.32,
+      "offset": 554.88,
+      "lang": "en"
+    },
+    {
+      "text": "creative thing in my brain and just to",
+      "duration": 3.2,
+      "offset": 557.52,
+      "lang": "en"
+    },
+    {
+      "text": "have this, you know, they&#39;ve we&#39;ve",
+      "duration": 2.96,
+      "offset": 559.2,
+      "lang": "en"
+    },
+    {
+      "text": "opened the tap now. We&#39;ve let it out.",
+      "duration": 3.84,
+      "offset": 560.72,
+      "lang": "en"
+    },
+    {
+      "text": "So, it&#39;s um, it&#39;s a very freeing thing.",
+      "duration": 4.8,
+      "offset": 562.16,
+      "lang": "en"
+    },
+    {
+      "text": "Um, is it a phase? I do not know. But",
+      "duration": 4.08,
+      "offset": 564.56,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s try one more here. Let&#39;s try uh",
+      "duration": 4.56,
+      "offset": 566.96,
+      "lang": "en"
+    },
+    {
+      "text": "minimalist um surreal art. Let&#39;s start",
+      "duration": 4.72,
+      "offset": 568.64,
+      "lang": "en"
+    },
+    {
+      "text": "with that. Maybe minimalist surreal art.",
+      "duration": 2.72,
+      "offset": 571.52,
+      "lang": "en"
+    },
+    {
+      "text": "Maybe that&#39;ll give us more of the",
+      "duration": 3.2,
+      "offset": 573.36,
+      "lang": "en"
+    },
+    {
+      "text": "direction. I know with V3 it will give",
+      "duration": 4.16,
+      "offset": 574.24,
+      "lang": "en"
+    },
+    {
+      "text": "you more of what you&#39;re after if you put",
+      "duration": 4.0,
+      "offset": 576.56,
+      "lang": "en"
+    },
+    {
+      "text": "it up first. So if you sort of add your",
+      "duration": 3.52,
+      "offset": 578.4,
+      "lang": "en"
+    },
+    {
+      "text": "details at the end, it might not give it",
+      "duration": 4.64,
+      "offset": 580.56,
+      "lang": "en"
+    },
+    {
+      "text": "to you. So minimalist surreal art. Um, a",
+      "duration": 5.2,
+      "offset": 581.92,
+      "lang": "en"
+    },
+    {
+      "text": "giant",
+      "duration": 3.52,
+      "offset": 585.2,
+      "lang": "en"
+    },
+    {
+      "text": "hand",
+      "duration": 4.8,
+      "offset": 587.12,
+      "lang": "en"
+    },
+    {
+      "text": "made of the surface",
+      "duration": 6.48,
+      "offset": 588.72,
+      "lang": "en"
+    },
+    {
+      "text": "of the moon is crawling",
+      "duration": 7.72,
+      "offset": 591.92,
+      "lang": "en"
+    },
+    {
+      "text": "along the beach at sunset.",
+      "duration": 4.44,
+      "offset": 595.2,
+      "lang": "en"
+    },
+    {
+      "text": "You know, it&#39;s a pretty, you know, it&#39;s",
+      "duration": 2.4,
+      "offset": 599.76,
+      "lang": "en"
+    },
+    {
+      "text": "whatever your brain can think of. This",
+      "duration": 2.64,
+      "offset": 600.88,
+      "lang": "en"
+    },
+    {
+      "text": "is the this is the thing, right? Like",
+      "duration": 3.68,
+      "offset": 602.16,
+      "lang": "en"
+    },
+    {
+      "text": "this is the the freedom of artistic",
+      "duration": 4.72,
+      "offset": 603.52,
+      "lang": "en"
+    },
+    {
+      "text": "expression. Um, as I said to a friend",
+      "duration": 5.6,
+      "offset": 605.84,
+      "lang": "en"
+    },
+    {
+      "text": "the other day, it&#39;s taken in in for for",
+      "duration": 4.96,
+      "offset": 608.24,
+      "lang": "en"
+    },
+    {
+      "text": "good or bad and maybe for bad, I don&#39;t",
+      "duration": 5.52,
+      "offset": 611.44,
+      "lang": "en"
+    },
+    {
+      "text": "know, but it&#39;s taken off um so many more",
+      "duration": 5.84,
+      "offset": 613.2,
+      "lang": "en"
+    },
+    {
+      "text": "hands on your paintbrush.",
+      "duration": 3.52,
+      "offset": 616.96,
+      "lang": "en"
+    },
+    {
+      "text": "Um cuz usually to make something like",
+      "duration": 3.6,
+      "offset": 619.04,
+      "lang": "en"
+    },
+    {
+      "text": "this and even I think this this whole",
+      "duration": 3.2,
+      "offset": 620.48,
+      "lang": "en"
+    },
+    {
+      "text": "thing with how films are going to get",
+      "duration": 2.48,
+      "offset": 622.64,
+      "lang": "en"
+    },
+    {
+      "text": "made shortly, it&#39;s just going to be a",
+      "duration": 3.44,
+      "offset": 623.68,
+      "lang": "en"
+    },
+    {
+      "text": "complete overhaul.",
+      "duration": 4.4,
+      "offset": 625.12,
+      "lang": "en"
+    },
+    {
+      "text": "And okay, so none of these that one&#39;s",
+      "duration": 4.56,
+      "offset": 627.12,
+      "lang": "en"
+    },
+    {
+      "text": "kind of cool,",
+      "duration": 3.6,
+      "offset": 629.52,
+      "lang": "en"
+    },
+    {
+      "text": "but none of them are to what I do.",
+      "duration": 2.64,
+      "offset": 631.68,
+      "lang": "en"
+    },
+    {
+      "text": "Sometimes I&#39;ll do just two more. I&#39;ll",
+      "duration": 3.2,
+      "offset": 633.12,
+      "lang": "en"
+    },
+    {
+      "text": "just click on the same prompt. Click on",
+      "duration": 3.28,
+      "offset": 634.32,
+      "lang": "en"
+    },
+    {
+      "text": "the same prompt and let&#39;s see if it",
+      "duration": 2.56,
+      "offset": 636.32,
+      "lang": "en"
+    },
+    {
+      "text": "gives me anything closer to what I&#39;m",
+      "duration": 3.28,
+      "offset": 637.6,
+      "lang": "en"
+    },
+    {
+      "text": "after. It&#39;s definitely giving more of",
+      "duration": 4.16,
+      "offset": 638.88,
+      "lang": "en"
+    },
+    {
+      "text": "the surreal look, but I wanted the hand",
+      "duration": 4.08,
+      "offset": 640.88,
+      "lang": "en"
+    },
+    {
+      "text": "to be crawling sort of solo. It&#39;s not",
+      "duration": 3.44,
+      "offset": 643.04,
+      "lang": "en"
+    },
+    {
+      "text": "really doing that. The hand made of",
+      "duration": 3.92,
+      "offset": 644.96,
+      "lang": "en"
+    },
+    {
+      "text": "surface of the moon is crawling",
+      "duration": 5.6,
+      "offset": 646.48,
+      "lang": "en"
+    },
+    {
+      "text": "solo along the beach at sunset. Um,",
+      "duration": 5.12,
+      "offset": 648.88,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll say pink skies. I like those pink",
+      "duration": 4.88,
+      "offset": 652.08,
+      "lang": "en"
+    },
+    {
+      "text": "sky looks. And I also want it to be like",
+      "duration": 5.68,
+      "offset": 654.0,
+      "lang": "en"
+    },
+    {
+      "text": "a macro shot. I want it to be small. I",
+      "duration": 4.0,
+      "offset": 656.96,
+      "lang": "en"
+    },
+    {
+      "text": "want the background to be really blurry.",
+      "duration": 2.88,
+      "offset": 659.68,
+      "lang": "en"
+    },
+    {
+      "text": "So,",
+      "duration": 4.4,
+      "offset": 660.96,
+      "lang": "en"
+    },
+    {
+      "text": "um, none of these are what I&#39;m after. So",
+      "duration": 5.52,
+      "offset": 662.56,
+      "lang": "en"
+    },
+    {
+      "text": "this is the trial and error of AI. I",
+      "duration": 5.92,
+      "offset": 665.36,
+      "lang": "en"
+    },
+    {
+      "text": "know with something like like you know",
+      "duration": 6.64,
+      "offset": 668.08,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney or even V3, you tend to get",
+      "duration": 5.12,
+      "offset": 671.28,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 3.04,
+      "offset": 674.72,
+      "lang": "en"
+    },
+    {
+      "text": "uh like there&#39;s like a pattern to how",
+      "duration": 2.4,
+      "offset": 676.4,
+      "lang": "en"
+    },
+    {
+      "text": "things are made. I know if you just type",
+      "duration": 2.72,
+      "offset": 677.76,
+      "lang": "en"
+    },
+    {
+      "text": "in some really simple things in V3 now",
+      "duration": 2.72,
+      "offset": 678.8,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to get sort of the same",
+      "duration": 3.76,
+      "offset": 680.48,
+      "lang": "en"
+    },
+    {
+      "text": "type of videos over and over. Um none of",
+      "duration": 4.72,
+      "offset": 681.52,
+      "lang": "en"
+    },
+    {
+      "text": "these are what I&#39;m after at all. The",
+      "duration": 3.44,
+      "offset": 684.24,
+      "lang": "en"
+    },
+    {
+      "text": "mood is in the shot. I didn&#39;t want the",
+      "duration": 2.4,
+      "offset": 686.24,
+      "lang": "en"
+    },
+    {
+      "text": "moon in the shot. I just wanted the",
+      "duration": 2.48,
+      "offset": 687.68,
+      "lang": "en"
+    },
+    {
+      "text": "surface of him. Like these craters are",
+      "duration": 2.8,
+      "offset": 688.64,
+      "lang": "en"
+    },
+    {
+      "text": "kind of cool. I&#39;ll animate that one. See",
+      "duration": 2.48,
+      "offset": 690.16,
+      "lang": "en"
+    },
+    {
+      "text": "what happens. But I don&#39;t think it&#39;s",
+      "duration": 3.04,
+      "offset": 691.44,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m after.",
+      "duration": 3.2,
+      "offset": 692.64,
+      "lang": "en"
+    },
+    {
+      "text": "Um, so anyway, I&#39;ve got yeah, there&#39;s a",
+      "duration": 2.96,
+      "offset": 694.48,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of videos here. So that&#39;s that&#39;s a",
+      "duration": 3.84,
+      "offset": 695.84,
+      "lang": "en"
+    },
+    {
+      "text": "start. That&#39;s a great start. So I&#39;ll",
+      "duration": 5.12,
+      "offset": 697.44,
+      "lang": "en"
+    },
+    {
+      "text": "crack open my um Da Vinci and I&#39;ll just",
+      "duration": 5.12,
+      "offset": 699.68,
+      "lang": "en"
+    },
+    {
+      "text": "copy these into Da Vinci at some point",
+      "duration": 3.76,
+      "offset": 702.56,
+      "lang": "en"
+    },
+    {
+      "text": "and really start to, you know, massage",
+      "duration": 2.96,
+      "offset": 704.8,
+      "lang": "en"
+    },
+    {
+      "text": "all the shots together and try to figure",
+      "duration": 3.44,
+      "offset": 706.32,
+      "lang": "en"
+    },
+    {
+      "text": "out what what different shots sing",
+      "duration": 4.72,
+      "offset": 707.76,
+      "lang": "en"
+    },
+    {
+      "text": "together, how the music can make it flow",
+      "duration": 4.8,
+      "offset": 709.76,
+      "lang": "en"
+    },
+    {
+      "text": "and give a really, you know, interesting",
+      "duration": 4.72,
+      "offset": 712.48,
+      "lang": "en"
+    },
+    {
+      "text": "perspective on how my brain sees things",
+      "duration": 4.8,
+      "offset": 714.56,
+      "lang": "en"
+    },
+    {
+      "text": "that maybe no one else&#39;s does, which it",
+      "duration": 3.68,
+      "offset": 717.2,
+      "lang": "en"
+    },
+    {
+      "text": "is, you know, tends to be the case with",
+      "duration": 4.48,
+      "offset": 719.36,
+      "lang": "en"
+    },
+    {
+      "text": "everyone&#39;s mind, I guess. Um, and it&#39;s a",
+      "duration": 4.56,
+      "offset": 720.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a process. It&#39;s definitely a big a",
+      "duration": 4.72,
+      "offset": 723.84,
+      "lang": "en"
+    },
+    {
+      "text": "big process. Um,",
+      "duration": 4.48,
+      "offset": 725.44,
+      "lang": "en"
+    },
+    {
+      "text": "and you know, I could probably spend a",
+      "duration": 4.64,
+      "offset": 728.56,
+      "lang": "en"
+    },
+    {
+      "text": "few days on this one getting it right.",
+      "duration": 4.72,
+      "offset": 729.92,
+      "lang": "en"
+    },
+    {
+      "text": "Um, the editing is usually quite quick.",
+      "duration": 2.88,
+      "offset": 733.2,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s it&#39;s the you know, it&#39;s coming up",
+      "duration": 2.96,
+      "offset": 734.64,
+      "lang": "en"
+    },
+    {
+      "text": "with the visuals, which always takes the",
+      "duration": 4.0,
+      "offset": 736.08,
+      "lang": "en"
+    },
+    {
+      "text": "longest for me. I can sort of edit one",
+      "duration": 5.6,
+      "offset": 737.6,
+      "lang": "en"
+    },
+    {
+      "text": "of these videos reasonably quick, but",
+      "duration": 4.88,
+      "offset": 740.08,
+      "lang": "en"
+    },
+    {
+      "text": "this is not doing what I wanted it to",
+      "duration": 3.92,
+      "offset": 743.2,
+      "lang": "en"
+    },
+    {
+      "text": "do. So, I might go back to explore for a",
+      "duration": 3.68,
+      "offset": 744.96,
+      "lang": "en"
+    },
+    {
+      "text": "bit of inspiration. See if anyone else",
+      "duration": 3.44,
+      "offset": 747.12,
+      "lang": "en"
+    },
+    {
+      "text": "has sort of, you know, thought of",
+      "duration": 3.44,
+      "offset": 748.64,
+      "lang": "en"
+    },
+    {
+      "text": "something that I&#39;ve never thought That&#39;s",
+      "duration": 3.12,
+      "offset": 750.56,
+      "lang": "en"
+    },
+    {
+      "text": "a really cool that UFO thing is great.",
+      "duration": 2.96,
+      "offset": 752.08,
+      "lang": "en"
+    },
+    {
+      "text": "What&#39;s the prompt for that? UFO",
+      "duration": 3.6,
+      "offset": 753.68,
+      "lang": "en"
+    },
+    {
+      "text": "operation pulse shine. Something simple.",
+      "duration": 4.16,
+      "offset": 755.04,
+      "lang": "en"
+    },
+    {
+      "text": "Really simple. I might even click on",
+      "duration": 3.84,
+      "offset": 757.28,
+      "lang": "en"
+    },
+    {
+      "text": "that and just make one of my own and see",
+      "duration": 4.08,
+      "offset": 759.2,
+      "lang": "en"
+    },
+    {
+      "text": "what it does. Um, so I&#39;m liking the",
+      "duration": 4.56,
+      "offset": 761.12,
+      "lang": "en"
+    },
+    {
+      "text": "moon. The moon thing&#39;s cool. I did some",
+      "duration": 3.68,
+      "offset": 763.28,
+      "lang": "en"
+    },
+    {
+      "text": "cool stuff with faces the other day, but",
+      "duration": 2.48,
+      "offset": 765.68,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not really getting the minimalist",
+      "duration": 3.6,
+      "offset": 766.96,
+      "lang": "en"
+    },
+    {
+      "text": "look at the moment. Minimalist surreal",
+      "duration": 4.4,
+      "offset": 768.16,
+      "lang": "en"
+    },
+    {
+      "text": "artist",
+      "duration": 4.8,
+      "offset": 770.56,
+      "lang": "en"
+    },
+    {
+      "text": "rendition of dreams. Let&#39;s see what that",
+      "duration": 5.04,
+      "offset": 772.56,
+      "lang": "en"
+    },
+    {
+      "text": "does. It&#39;s experimenting. It&#39;s all about",
+      "duration": 3.76,
+      "offset": 775.36,
+      "lang": "en"
+    },
+    {
+      "text": "experimenting.",
+      "duration": 3.04,
+      "offset": 777.6,
+      "lang": "en"
+    },
+    {
+      "text": "Um,",
+      "duration": 2.88,
+      "offset": 779.12,
+      "lang": "en"
+    },
+    {
+      "text": "okay. Okay, so that that prompt you get",
+      "duration": 2.8,
+      "offset": 780.64,
+      "lang": "en"
+    },
+    {
+      "text": "you get a different prompt every single",
+      "duration": 2.56,
+      "offset": 782.0,
+      "lang": "en"
+    },
+    {
+      "text": "time. This is what&#39;s interesting about",
+      "duration": 2.48,
+      "offset": 783.44,
+      "lang": "en"
+    },
+    {
+      "text": "AI. You can never really get the same",
+      "duration": 3.92,
+      "offset": 784.56,
+      "lang": "en"
+    },
+    {
+      "text": "look twice at all. Get something",
+      "duration": 4.08,
+      "offset": 785.92,
+      "lang": "en"
+    },
+    {
+      "text": "reasonably close, but okay, we got the",
+      "duration": 3.68,
+      "offset": 788.48,
+      "lang": "en"
+    },
+    {
+      "text": "hand. Oh, the hand opens.",
+      "duration": 3.68,
+      "offset": 790.0,
+      "lang": "en"
+    },
+    {
+      "text": "The camera&#39;s not moving too much. I",
+      "duration": 2.8,
+      "offset": 792.16,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t mind that. I&#39;ll download that. So,",
+      "duration": 3.04,
+      "offset": 793.68,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s",
+      "duration": 3.76,
+      "offset": 794.96,
+      "lang": "en"
+    },
+    {
+      "text": "moons. So, it&#39;s all about being",
+      "duration": 5.2,
+      "offset": 796.72,
+      "lang": "en"
+    },
+    {
+      "text": "creative. Um, and following. I&#39;ll just",
+      "duration": 4.4,
+      "offset": 798.72,
+      "lang": "en"
+    },
+    {
+      "text": "jump around like crazy a lot of the",
+      "duration": 3.68,
+      "offset": 801.92,
+      "lang": "en"
+    },
+    {
+      "text": "time. This one&#39;s interesting. Most of",
+      "duration": 4.88,
+      "offset": 803.12,
+      "lang": "en"
+    },
+    {
+      "text": "it. I like the clouds. The clouds. So,",
+      "duration": 3.52,
+      "offset": 805.6,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s giving me an idea. Just looking",
+      "duration": 3.36,
+      "offset": 808.0,
+      "lang": "en"
+    },
+    {
+      "text": "at this picture has given me an idea. So",
+      "duration": 5.44,
+      "offset": 809.12,
+      "lang": "en"
+    },
+    {
+      "text": "I might say minimalist um surreal",
+      "duration": 6.08,
+      "offset": 811.36,
+      "lang": "en"
+    },
+    {
+      "text": "artwork. We&#39;ll say and we want to call",
+      "duration": 4.96,
+      "offset": 814.56,
+      "lang": "en"
+    },
+    {
+      "text": "it um",
+      "duration": 5.8,
+      "offset": 817.44,
+      "lang": "en"
+    },
+    {
+      "text": "a giant",
+      "duration": 3.72,
+      "offset": 819.52,
+      "lang": "en"
+    },
+    {
+      "text": "uh we&#39;ll say burning cloud is holding up",
+      "duration": 5.6,
+      "offset": 823.36,
+      "lang": "en"
+    },
+    {
+      "text": "a",
+      "duration": 3.6,
+      "offset": 826.64,
+      "lang": "en"
+    },
+    {
+      "text": "balloon. What&#39;s what do they call it",
+      "duration": 2.72,
+      "offset": 828.96,
+      "lang": "en"
+    },
+    {
+      "text": "when you hop in a balloon of not a",
+      "duration": 6.52,
+      "offset": 830.24,
+      "lang": "en"
+    },
+    {
+      "text": "weather balloon, a hot air balloon.",
+      "duration": 5.08,
+      "offset": 831.68,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s see if that gives me what I&#39;m",
+      "duration": 4.16,
+      "offset": 836.88,
+      "lang": "en"
+    },
+    {
+      "text": "thinking in my mind.",
+      "duration": 4.24,
+      "offset": 838.16,
+      "lang": "en"
+    },
+    {
+      "text": "You know what&#39;s weird with AI? You can",
+      "duration": 3.04,
+      "offset": 841.04,
+      "lang": "en"
+    },
+    {
+      "text": "you can put in a sentence, you can put",
+      "duration": 3.92,
+      "offset": 842.4,
+      "lang": "en"
+    },
+    {
+      "text": "in 10 paragraphs,",
+      "duration": 4.96,
+      "offset": 844.08,
+      "lang": "en"
+    },
+    {
+      "text": "and I like to go sort of in between. I",
+      "duration": 5.84,
+      "offset": 846.32,
+      "lang": "en"
+    },
+    {
+      "text": "like to keep them short, not too long.",
+      "duration": 5.04,
+      "offset": 849.04,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So, that&#39;s Oh, we got one. We got",
+      "duration": 3.6,
+      "offset": 852.16,
+      "lang": "en"
+    },
+    {
+      "text": "some.",
+      "duration": 4.08,
+      "offset": 854.08,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So, it is",
+      "duration": 4.64,
+      "offset": 855.76,
+      "lang": "en"
+    },
+    {
+      "text": "Oh, some Okay.",
+      "duration": 4.0,
+      "offset": 858.16,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s not as minimalist as I would have",
+      "duration": 3.36,
+      "offset": 860.4,
+      "lang": "en"
+    },
+    {
+      "text": "hoping for. It&#39;s still not crazily",
+      "duration": 4.08,
+      "offset": 862.16,
+      "lang": "en"
+    },
+    {
+      "text": "detailed,",
+      "duration": 4.4,
+      "offset": 863.76,
+      "lang": "en"
+    },
+    {
+      "text": "but they&#39;re not. Oh, that&#39;s kind of",
+      "duration": 3.84,
+      "offset": 866.24,
+      "lang": "en"
+    },
+    {
+      "text": "really I like this one here. I&#39;ll",
+      "duration": 4.24,
+      "offset": 868.16,
+      "lang": "en"
+    },
+    {
+      "text": "animate that one.",
+      "duration": 4.0,
+      "offset": 870.08,
+      "lang": "en"
+    },
+    {
+      "text": "I might even just get rid of that and",
+      "duration": 3.6,
+      "offset": 872.4,
+      "lang": "en"
+    },
+    {
+      "text": "just do the giant I&#39;ve got a series on",
+      "duration": 3.2,
+      "offset": 874.08,
+      "lang": "en"
+    },
+    {
+      "text": "here called the um things you&#39;ve never",
+      "duration": 3.36,
+      "offset": 876.0,
+      "lang": "en"
+    },
+    {
+      "text": "seen before or things you&#39;ve never seen",
+      "duration": 4.16,
+      "offset": 877.28,
+      "lang": "en"
+    },
+    {
+      "text": "in your life. Um and that was a",
+      "duration": 3.76,
+      "offset": 879.36,
+      "lang": "en"
+    },
+    {
+      "text": "challenge to try to come up with stuff",
+      "duration": 3.76,
+      "offset": 881.44,
+      "lang": "en"
+    },
+    {
+      "text": "completely unique and original that no",
+      "duration": 5.04,
+      "offset": 883.12,
+      "lang": "en"
+    },
+    {
+      "text": "one had ever seen before. And that was a",
+      "duration": 4.88,
+      "offset": 885.2,
+      "lang": "en"
+    },
+    {
+      "text": "I did I think I did 10 of those videos",
+      "duration": 3.44,
+      "offset": 888.16,
+      "lang": "en"
+    },
+    {
+      "text": "and I honestly don&#39;t think I came",
+      "duration": 4.08,
+      "offset": 890.08,
+      "lang": "en"
+    },
+    {
+      "text": "anywhere close to finding something that",
+      "duration": 4.08,
+      "offset": 891.6,
+      "lang": "en"
+    },
+    {
+      "text": "no one&#39;s seen before. And that&#39;s I&#39;m",
+      "duration": 4.08,
+      "offset": 894.16,
+      "lang": "en"
+    },
+    {
+      "text": "still challenging myself to that to",
+      "duration": 3.68,
+      "offset": 895.68,
+      "lang": "en"
+    },
+    {
+      "text": "completely come up with something",
+      "duration": 2.72,
+      "offset": 898.24,
+      "lang": "en"
+    },
+    {
+      "text": "totally unique to something that doesn&#39;t",
+      "duration": 4.0,
+      "offset": 899.36,
+      "lang": "en"
+    },
+    {
+      "text": "exist in nature or anyone&#39;s imagination",
+      "duration": 4.88,
+      "offset": 900.96,
+      "lang": "en"
+    },
+    {
+      "text": "other than my own. And that&#39;s an ongoing",
+      "duration": 3.92,
+      "offset": 903.36,
+      "lang": "en"
+    },
+    {
+      "text": "challenge that one. So that&#39;s done",
+      "duration": 3.36,
+      "offset": 905.84,
+      "lang": "en"
+    },
+    {
+      "text": "nothing of what I wanted. Let&#39;s just say",
+      "duration": 4.4,
+      "offset": 907.28,
+      "lang": "en"
+    },
+    {
+      "text": "a hot",
+      "duration": 5.2,
+      "offset": 909.2,
+      "lang": "en"
+    },
+    {
+      "text": "hot air balloon.",
+      "duration": 5.92,
+      "offset": 911.68,
+      "lang": "en"
+    },
+    {
+      "text": "But the balloon",
+      "duration": 6.16,
+      "offset": 914.4,
+      "lang": "en"
+    },
+    {
+      "text": "itself",
+      "duration": 5.6,
+      "offset": 917.6,
+      "lang": "en"
+    },
+    {
+      "text": "is a cloud.",
+      "duration": 6.16,
+      "offset": 920.56,
+      "lang": "en"
+    },
+    {
+      "text": "If I can type today is a cloud. I&#39;ll see",
+      "duration": 4.8,
+      "offset": 923.2,
+      "lang": "en"
+    },
+    {
+      "text": "that one. But this one I&#39;m liking this",
+      "duration": 4.48,
+      "offset": 926.72,
+      "lang": "en"
+    },
+    {
+      "text": "like half cloud half. Oh, okay. I like",
+      "duration": 6.32,
+      "offset": 928.0,
+      "lang": "en"
+    },
+    {
+      "text": "that one. That&#39;s cool.",
+      "duration": 4.32,
+      "offset": 931.2,
+      "lang": "en"
+    },
+    {
+      "text": "So, this is the thing. Like you&#39;re",
+      "duration": 3.04,
+      "offset": 934.32,
+      "lang": "en"
+    },
+    {
+      "text": "working ideas, you looking at ideas and",
+      "duration": 5.28,
+      "offset": 935.52,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re constantly changing with it. See?",
+      "duration": 4.72,
+      "offset": 937.36,
+      "lang": "en"
+    },
+    {
+      "text": "Oh, hang on. We got one here. That&#39;s",
+      "duration": 3.36,
+      "offset": 940.8,
+      "lang": "en"
+    },
+    {
+      "text": "half a cloud. Once again, not what I&#39;m",
+      "duration": 4.24,
+      "offset": 942.08,
+      "lang": "en"
+    },
+    {
+      "text": "after. I might add I&#39;m going to add a",
+      "duration": 3.36,
+      "offset": 944.16,
+      "lang": "en"
+    },
+    {
+      "text": "really crazy long prompt for this and",
+      "duration": 5.76,
+      "offset": 946.32,
+      "lang": "en"
+    },
+    {
+      "text": "see what happens. Um, a hot air",
+      "duration": 8.16,
+      "offset": 947.52,
+      "lang": "en"
+    },
+    {
+      "text": "balloon alone in the",
+      "duration": 6.4,
+      "offset": 952.08,
+      "lang": "en"
+    },
+    {
+      "text": "empty sky.",
+      "duration": 7.12,
+      "offset": 955.68,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s say empty blue haze sky.",
+      "duration": 7.04,
+      "offset": 958.48,
+      "lang": "en"
+    },
+    {
+      "text": "Um, has",
+      "duration": 6.16,
+      "offset": 962.8,
+      "lang": "en"
+    },
+    {
+      "text": "clouds as the balloon",
+      "duration": 5.6,
+      "offset": 965.52,
+      "lang": "en"
+    },
+    {
+      "text": "itself.",
+      "duration": 7.52,
+      "offset": 968.96,
+      "lang": "en"
+    },
+    {
+      "text": "Uh it&#39;s minimalist uh surreal look.",
+      "duration": 8.88,
+      "offset": 971.12,
+      "lang": "en"
+    },
+    {
+      "text": "Um lonely.",
+      "duration": 7.68,
+      "offset": 976.48,
+      "lang": "en"
+    },
+    {
+      "text": "Um the cloud evaporates",
+      "duration": 8.32,
+      "offset": 980.0,
+      "lang": "en"
+    },
+    {
+      "text": "into the blue. It&#39;s not, you know, it&#39;s",
+      "duration": 5.84,
+      "offset": 984.16,
+      "lang": "en"
+    },
+    {
+      "text": "not a lot of detail, but it&#39;s a little",
+      "duration": 4.32,
+      "offset": 988.32,
+      "lang": "en"
+    },
+    {
+      "text": "bit more. And that&#39;s, you know, it&#39;s",
+      "duration": 3.92,
+      "offset": 990.0,
+      "lang": "en"
+    },
+    {
+      "text": "experiment. So this is a lot of stuff",
+      "duration": 3.12,
+      "offset": 992.64,
+      "lang": "en"
+    },
+    {
+      "text": "here I would never use. I do. I like",
+      "duration": 3.84,
+      "offset": 993.92,
+      "lang": "en"
+    },
+    {
+      "text": "that one. I&#39;d have to probably punch the",
+      "duration": 3.2,
+      "offset": 995.76,
+      "lang": "en"
+    },
+    {
+      "text": "contrast on that to get that to look",
+      "duration": 4.24,
+      "offset": 997.76,
+      "lang": "en"
+    },
+    {
+      "text": "different. But anyway, this is uh Oh, I",
+      "duration": 5.28,
+      "offset": 998.96,
+      "lang": "en"
+    },
+    {
+      "text": "like that one kind of. Here we go. Okay,",
+      "duration": 5.28,
+      "offset": 1002.0,
+      "lang": "en"
+    },
+    {
+      "text": "this is a bit more what I&#39;m after.",
+      "duration": 4.24,
+      "offset": 1004.24,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s a lot more what I&#39;m after. So, I&#39;ve",
+      "duration": 2.4,
+      "offset": 1007.28,
+      "lang": "en"
+    },
+    {
+      "text": "given it some more details in this one.",
+      "duration": 3.84,
+      "offset": 1008.48,
+      "lang": "en"
+    },
+    {
+      "text": "This has worked out well for me. I still",
+      "duration": 4.72,
+      "offset": 1009.68,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t like that you can see the balloon",
+      "duration": 4.16,
+      "offset": 1012.32,
+      "lang": "en"
+    },
+    {
+      "text": "under the clouds. So, I want it just to",
+      "duration": 3.76,
+      "offset": 1014.4,
+      "lang": "en"
+    },
+    {
+      "text": "be clouds,",
+      "duration": 3.6,
+      "offset": 1016.48,
+      "lang": "en"
+    },
+    {
+      "text": "but that&#39;s an interesting one, too. So,",
+      "duration": 3.92,
+      "offset": 1018.16,
+      "lang": "en"
+    },
+    {
+      "text": "all right. So, I&#39;ve got um I&#39;m straight",
+      "duration": 4.72,
+      "offset": 1020.08,
+      "lang": "en"
+    },
+    {
+      "text": "into uh Dinci Resolve here. I&#39;ve just",
+      "duration": 4.16,
+      "offset": 1022.08,
+      "lang": "en"
+    },
+    {
+      "text": "done a new bin. These are all my other",
+      "duration": 3.2,
+      "offset": 1024.8,
+      "lang": "en"
+    },
+    {
+      "text": "videos here. Right click on master and",
+      "duration": 4.96,
+      "offset": 1026.24,
+      "lang": "en"
+    },
+    {
+      "text": "just go to new bin. Uh wherever you are,",
+      "duration": 6.0,
+      "offset": 1028.0,
+      "lang": "en"
+    },
+    {
+      "text": "new bin. And I will call this one uh",
+      "duration": 6.32,
+      "offset": 1031.2,
+      "lang": "en"
+    },
+    {
+      "text": "minimalist surreal. Let&#39;s import the",
+      "duration": 5.6,
+      "offset": 1034.0,
+      "lang": "en"
+    },
+    {
+      "text": "ones I&#39;ve done today. Select them all.",
+      "duration": 4.96,
+      "offset": 1037.52,
+      "lang": "en"
+    },
+    {
+      "text": "Right click and go create new timeline.",
+      "duration": 4.16,
+      "offset": 1039.6,
+      "lang": "en"
+    },
+    {
+      "text": "Create. And that&#39;ll give me the shots",
+      "duration": 3.84,
+      "offset": 1042.48,
+      "lang": "en"
+    },
+    {
+      "text": "that I&#39;ve done today. And there&#39;s really",
+      "duration": 6.32,
+      "offset": 1043.76,
+      "lang": "en"
+    },
+    {
+      "text": "not much here, I have to say. But",
+      "duration": 6.32,
+      "offset": 1046.32,
+      "lang": "en"
+    },
+    {
+      "text": "h do I like that? The clouds are okay.",
+      "duration": 3.76,
+      "offset": 1050.08,
+      "lang": "en"
+    },
+    {
+      "text": "It doesn&#39;t look as good on a bigger",
+      "duration": 4.16,
+      "offset": 1052.64,
+      "lang": "en"
+    },
+    {
+      "text": "screen. That&#39;s interesting. that one.",
+      "duration": 5.52,
+      "offset": 1053.84,
+      "lang": "en"
+    },
+    {
+      "text": "I got two options. Do I have two options",
+      "duration": 4.48,
+      "offset": 1056.8,
+      "lang": "en"
+    },
+    {
+      "text": "with the same one? Might be the same",
+      "duration": 4.24,
+      "offset": 1059.36,
+      "lang": "en"
+    },
+    {
+      "text": "one, is it? So, that&#39;s that&#39;s a start.",
+      "duration": 3.52,
+      "offset": 1061.28,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s a very very small start. I",
+      "duration": 2.24,
+      "offset": 1063.6,
+      "lang": "en"
+    },
+    {
+      "text": "probably need about a hundred different",
+      "duration": 3.36,
+      "offset": 1064.8,
+      "lang": "en"
+    },
+    {
+      "text": "sort of options to cut it down to a",
+      "duration": 4.08,
+      "offset": 1065.84,
+      "lang": "en"
+    },
+    {
+      "text": "minute or two. So, this is my job for",
+      "duration": 3.92,
+      "offset": 1068.16,
+      "lang": "en"
+    },
+    {
+      "text": "today and I&#39;ll lay the music down later",
+      "duration": 3.6,
+      "offset": 1069.92,
+      "lang": "en"
+    },
+    {
+      "text": "and see how they&#39;re all talking to each",
+      "duration": 3.04,
+      "offset": 1072.08,
+      "lang": "en"
+    },
+    {
+      "text": "other, but I like to keep them",
+      "duration": 3.68,
+      "offset": 1073.52,
+      "lang": "en"
+    },
+    {
+      "text": "different. So, I don&#39;t like to have, you",
+      "duration": 3.44,
+      "offset": 1075.12,
+      "lang": "en"
+    },
+    {
+      "text": "know, a shot of like a landscape and",
+      "duration": 3.68,
+      "offset": 1077.2,
+      "lang": "en"
+    },
+    {
+      "text": "then cut straight to",
+      "duration": 4.72,
+      "offset": 1078.56,
+      "lang": "en"
+    },
+    {
+      "text": "um another landscape. So, I wouldn&#39;t do",
+      "duration": 3.44,
+      "offset": 1080.88,
+      "lang": "en"
+    },
+    {
+      "text": "like these two together wouldn&#39;t do.",
+      "duration": 2.72,
+      "offset": 1083.28,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;ve got a sky and a sky. To me, that",
+      "duration": 4.4,
+      "offset": 1084.32,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t sit right. I out of these ones,",
+      "duration": 4.56,
+      "offset": 1086.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;d probably put the moon between them",
+      "duration": 3.44,
+      "offset": 1088.72,
+      "lang": "en"
+    },
+    {
+      "text": "just to spread them out. But even with",
+      "duration": 3.68,
+      "offset": 1090.56,
+      "lang": "en"
+    },
+    {
+      "text": "that, it&#39;s still",
+      "duration": 4.24,
+      "offset": 1092.16,
+      "lang": "en"
+    },
+    {
+      "text": "they kind of talk. They kind of talk.",
+      "duration": 3.6,
+      "offset": 1094.24,
+      "lang": "en"
+    },
+    {
+      "text": "But it&#39;s I&#39;ll have to work on that a bit",
+      "duration": 2.64,
+      "offset": 1096.4,
+      "lang": "en"
+    },
+    {
+      "text": "later. But anyway, that&#39;s my video for",
+      "duration": 2.16,
+      "offset": 1097.84,
+      "lang": "en"
+    },
+    {
+      "text": "today. Just wanted to show you guys a",
+      "duration": 5.28,
+      "offset": 1099.04,
+      "lang": "en"
+    },
+    {
+      "text": "real quick um you know uh video of how I",
+      "duration": 6.08,
+      "offset": 1100.0,
+      "lang": "en"
+    },
+    {
+      "text": "go about making these particular videos.",
+      "duration": 4.64,
+      "offset": 1104.32,
+      "lang": "en"
+    },
+    {
+      "text": "At the moment, um I&#39;m working on um a",
+      "duration": 5.76,
+      "offset": 1106.08,
+      "lang": "en"
+    },
+    {
+      "text": "few other ones. I&#39;ve got my um what this",
+      "duration": 4.72,
+      "offset": 1108.96,
+      "lang": "en"
+    },
+    {
+      "text": "like X Files looking sort of Bigfoot",
+      "duration": 4.64,
+      "offset": 1111.84,
+      "lang": "en"
+    },
+    {
+      "text": "thing happening which is kind of fun. Um",
+      "duration": 4.24,
+      "offset": 1113.68,
+      "lang": "en"
+    },
+    {
+      "text": "and this is one from the other day. This",
+      "duration": 3.12,
+      "offset": 1116.48,
+      "lang": "en"
+    },
+    {
+      "text": "was my other surreal video which I I",
+      "duration": 3.52,
+      "offset": 1117.92,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t think is up yet but it might be",
+      "duration": 5.12,
+      "offset": 1119.6,
+      "lang": "en"
+    },
+    {
+      "text": "up. And then uh we&#39;ve got Bigfoot",
+      "duration": 4.8,
+      "offset": 1121.44,
+      "lang": "en"
+    },
+    {
+      "text": "drinking at Comic-Con and you know it&#39;s",
+      "duration": 3.28,
+      "offset": 1124.72,
+      "lang": "en"
+    },
+    {
+      "text": "just crazy stuff. Anything you can think",
+      "duration": 4.48,
+      "offset": 1126.24,
+      "lang": "en"
+    },
+    {
+      "text": "of that&#39;s actually quite funny. Um so",
+      "duration": 4.48,
+      "offset": 1128.0,
+      "lang": "en"
+    },
+    {
+      "text": "anyway, thank you for watching my",
+      "duration": 3.52,
+      "offset": 1130.72,
+      "lang": "en"
+    },
+    {
+      "text": "videos. I really appreciate it. This is",
+      "duration": 5.52,
+      "offset": 1132.48,
+      "lang": "en"
+    },
+    {
+      "text": "a become a very um fun venture for me",
+      "duration": 6.0,
+      "offset": 1134.24,
+      "lang": "en"
+    },
+    {
+      "text": "and very creative thing to sort of you",
+      "duration": 3.44,
+      "offset": 1138.0,
+      "lang": "en"
+    },
+    {
+      "text": "know you get a lot of a lot of rubbish",
+      "duration": 2.32,
+      "offset": 1140.24,
+      "lang": "en"
+    },
+    {
+      "text": "comes out a lot of interesting stuff",
+      "duration": 3.2,
+      "offset": 1141.44,
+      "lang": "en"
+    },
+    {
+      "text": "comes out too. So keep your eye out for",
+      "duration": 3.92,
+      "offset": 1142.56,
+      "lang": "en"
+    },
+    {
+      "text": "this one. This will be up shortly and um",
+      "duration": 4.72,
+      "offset": 1144.64,
+      "lang": "en"
+    },
+    {
+      "text": "thank you for watching.",
+      "duration": 2.88,
+      "offset": 1146.48,
+      "lang": "en"
+    }
+  ]
+}

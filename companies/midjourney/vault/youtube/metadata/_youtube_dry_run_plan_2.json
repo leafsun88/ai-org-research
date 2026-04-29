@@ -1,0 +1,42 @@
+{
+  "ticker": "MIDJOURNEY",
+  "generated_at": "2026-04-21T14:00:48",
+  "dry_run": true,
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/youtube/_youtube_query_map.md",
+  "queries": [
+    "David Holz Midjourney interview",
+    "Midjourney founder David Holz interview AI art",
+    "Midjourney office hours David Holz",
+    "Midjourney V7 V8 video model David Holz",
+    "Midjourney AI image generation founder",
+    "Midjourney lawsuit Disney Universal Warner Bros David Holz",
+    "Midjourney interview",
+    "Midjourney AI interview",
+    "Midjourney V7 interview",
+    "Midjourney V8 interview",
+    "Midjourney V8.1 interview",
+    "Midjourney Video interview",
+    "V1 Video Model interview",
+    "Niji interview",
+    "Niji 7 interview",
+    "Omni Reference interview",
+    "Style Reference interview",
+    "SREF interview",
+    "Moodboards interview",
+    "Draft Mode interview",
+    "Rooms interview",
+    "Midjourney Discord interview",
+    "David Holz interview"
+  ],
+  "search_provider_order": [
+    "rapidapi_metadata_search",
+    "yt_dlp_search"
+  ],
+  "transcript_provider_order": [
+    "rapidapi_transcript3",
+    "youtube_transcript_api",
+    "yt_dlp_subtitle"
+  ],
+  "rapidapi_key_present": true,
+  "note": "dry-run does not call RapidAPI, yt-dlp, or overwrite collection status"
+}

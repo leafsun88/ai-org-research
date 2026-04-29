@@ -1,0 +1,2866 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "V-piTfsxbww",
+  "url": "https://www.youtube.com/watch?v=V-piTfsxbww",
+  "title": "Lovable in 15 Minutes: Build an App, Pitch Deck AND Marketing (No Code)",
+  "channel": "Vaibhav Sisinty",
+  "source_queries": [
+    "Lovable AI app builder interview",
+    "Lovable Cloud interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:17:05",
+  "segments": [
+    {
+      "text": "This guy has no tech background, never",
+      "duration": 4.56,
+      "offset": 0.0,
+      "lang": "en"
+    },
+    {
+      "text": "learned to code, runs a business making",
+      "duration": 4.48,
+      "offset": 2.4,
+      "lang": "en"
+    },
+    {
+      "text": "over a hundred thousand dollars a month",
+      "duration": 4.52,
+      "offset": 4.56,
+      "lang": "en"
+    },
+    {
+      "text": "building software for clients. The skill",
+      "duration": 4.4,
+      "offset": 6.88,
+      "lang": "en"
+    },
+    {
+      "text": "that made it possible, he just describes",
+      "duration": 4.12,
+      "offset": 9.08,
+      "lang": "en"
+    },
+    {
+      "text": "what he wants in plain English and a",
+      "duration": 3.68,
+      "offset": 11.28,
+      "lang": "en"
+    },
+    {
+      "text": "tool builds it for him. The tool is",
+      "duration": 4.04,
+      "offset": 13.2,
+      "lang": "en"
+    },
+    {
+      "text": "called Lovable. I run three companies",
+      "duration": 4.08,
+      "offset": 14.96,
+      "lang": "en"
+    },
+    {
+      "text": "and I consult [music] founders. Whenever",
+      "duration": 3.6,
+      "offset": 17.24,
+      "lang": "en"
+    },
+    {
+      "text": "something is being done manually, we",
+      "duration": 3.68,
+      "offset": 19.04,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t hire for it, we build a software",
+      "duration": 3.64,
+      "offset": 20.84,
+      "lang": "en"
+    },
+    {
+      "text": "solution. Last [music] month we launched",
+      "duration": 3.8,
+      "offset": 22.72,
+      "lang": "en"
+    },
+    {
+      "text": "four internal products. But here&#39;s the",
+      "duration": 4.28,
+      "offset": 24.48,
+      "lang": "en"
+    },
+    {
+      "text": "thing, building a product today is",
+      "duration": 4.28,
+      "offset": 26.52,
+      "lang": "en"
+    },
+    {
+      "text": "easier than it&#39;s ever been. The hard",
+      "duration": 4.08,
+      "offset": 28.76,
+      "lang": "en"
+    },
+    {
+      "text": "part hasn&#39;t changed. Getting it into",
+      "duration": 3.68,
+      "offset": 30.8,
+      "lang": "en"
+    },
+    {
+      "text": "people&#39;s hands, getting [music] them to",
+      "duration": 3.64,
+      "offset": 32.84,
+      "lang": "en"
+    },
+    {
+      "text": "actually pay you, that&#39;s a completely",
+      "duration": 3.92,
+      "offset": 34.48,
+      "lang": "en"
+    },
+    {
+      "text": "different game. You need the product,",
+      "duration": 3.48,
+      "offset": 36.48,
+      "lang": "en"
+    },
+    {
+      "text": "the pitch deck, the marketing, the whole",
+      "duration": 3.32,
+      "offset": 38.4,
+      "lang": "en"
+    },
+    {
+      "text": "[music] launch and today I&#39;m going to do",
+      "duration": 3.77,
+      "offset": 39.95,
+      "lang": "en"
+    },
+    {
+      "text": "all of it from one tool. Build a working",
+      "duration": 4.0,
+      "offset": 41.72,
+      "lang": "en"
+    },
+    {
+      "text": "app with AI inside it, generate a",
+      "duration": 4.0,
+      "offset": 43.72,
+      "lang": "en"
+    },
+    {
+      "text": "PowerPoint pitch deck, create a product",
+      "duration": 4.44,
+      "offset": 45.72,
+      "lang": "en"
+    },
+    {
+      "text": "PDF, write LinkedIn launch post and this",
+      "duration": 4.36,
+      "offset": 47.72,
+      "lang": "en"
+    },
+    {
+      "text": "tool handles all of it and I&#39;m showing",
+      "duration": 4.72,
+      "offset": 50.16,
+      "lang": "en"
+    },
+    {
+      "text": "you the whole thing.",
+      "duration": 2.8,
+      "offset": 52.08,
+      "lang": "en"
+    },
+    {
+      "text": "One more thing, every prompt I use is in",
+      "duration": 4.56,
+      "offset": 56.04,
+      "lang": "en"
+    },
+    {
+      "text": "the free WhatsApp group. You can find",
+      "duration": 3.64,
+      "offset": 58.56,
+      "lang": "en"
+    },
+    {
+      "text": "the link in the description. [music]",
+      "duration": 3.32,
+      "offset": 60.6,
+      "lang": "en"
+    },
+    {
+      "text": "All right, so here&#39;s what we&#39;re doing.",
+      "duration": 3.88,
+      "offset": 62.2,
+      "lang": "en"
+    },
+    {
+      "text": "Imagine you&#39;re running a small business",
+      "duration": 3.92,
+      "offset": 63.92,
+      "lang": "en"
+    },
+    {
+      "text": "or you&#39;re freelancing. You&#39;ve got",
+      "duration": 4.16,
+      "offset": 66.08,
+      "lang": "en"
+    },
+    {
+      "text": "clients, you&#39;ve got deals happening and",
+      "duration": 4.52,
+      "offset": 67.84,
+      "lang": "en"
+    },
+    {
+      "text": "you want to manage all of it on one",
+      "duration": 4.04,
+      "offset": 70.24,
+      "lang": "en"
+    },
+    {
+      "text": "single dashboard. You don&#39;t want to buy",
+      "duration": 3.52,
+      "offset": 72.36,
+      "lang": "en"
+    },
+    {
+      "text": "some expensive subscription to",
+      "duration": 3.96,
+      "offset": 74.28,
+      "lang": "en"
+    },
+    {
+      "text": "Salesforce or HubSpot. You basically",
+      "duration": 4.36,
+      "offset": 75.88,
+      "lang": "en"
+    },
+    {
+      "text": "want to build what big companies use,",
+      "duration": 3.6,
+      "offset": 78.24,
+      "lang": "en"
+    },
+    {
+      "text": "but the small version that&#39;s",
+      "duration": 3.72,
+      "offset": 80.24,
+      "lang": "en"
+    },
+    {
+      "text": "specifically made for your use case.",
+      "duration": 3.56,
+      "offset": 81.84,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s what we&#39;re building today, a",
+      "duration": 2.48,
+      "offset": 83.96,
+      "lang": "en"
+    },
+    {
+      "text": "client tracker. [music]",
+      "duration": 2.36,
+      "offset": 85.4,
+      "lang": "en"
+    },
+    {
+      "text": "Whatever you want to build booking",
+      "duration": 3.64,
+      "offset": 86.44,
+      "lang": "en"
+    },
+    {
+      "text": "system, inventory tracker, project",
+      "duration": 5.36,
+      "offset": 87.76,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard, same process. I&#39;m using this",
+      "duration": 5.04,
+      "offset": 90.08,
+      "lang": "en"
+    },
+    {
+      "text": "because it touches every feature",
+      "duration": 3.88,
+      "offset": 93.12,
+      "lang": "en"
+    },
+    {
+      "text": "available in Lovable. So let&#39;s go to",
+      "duration": 4.56,
+      "offset": 95.12,
+      "lang": "en"
+    },
+    {
+      "text": "lovable.com. When you are here, this is",
+      "duration": 5.36,
+      "offset": 97.0,
+      "lang": "en"
+    },
+    {
+      "text": "how Lovable looks. You can log in or you",
+      "duration": 4.96,
+      "offset": 99.68,
+      "lang": "en"
+    },
+    {
+      "text": "can just start prompting directly. Let&#39;s",
+      "duration": 3.88,
+      "offset": 102.36,
+      "lang": "en"
+    },
+    {
+      "text": "write, [music] build me a client",
+      "duration": 4.04,
+      "offset": 104.64,
+      "lang": "en"
+    },
+    {
+      "text": "management app. I need a contacts page",
+      "duration": 5.48,
+      "offset": 106.24,
+      "lang": "en"
+    },
+    {
+      "text": "with name, company, email and status. A",
+      "duration": 5.04,
+      "offset": 108.68,
+      "lang": "en"
+    },
+    {
+      "text": "deals pipeline where I can drag deals",
+      "duration": 3.92,
+      "offset": 111.72,
+      "lang": "en"
+    },
+    {
+      "text": "between stages, [music] new lead,",
+      "duration": 4.52,
+      "offset": 113.72,
+      "lang": "en"
+    },
+    {
+      "text": "proposal sent, negotiating, did I win",
+      "duration": 5.08,
+      "offset": 115.64,
+      "lang": "en"
+    },
+    {
+      "text": "the sale, did I lose the sale. I also",
+      "duration": 4.6,
+      "offset": 118.24,
+      "lang": "en"
+    },
+    {
+      "text": "want a dashboard which shows total",
+      "duration": 4.92,
+      "offset": 120.72,
+      "lang": "en"
+    },
+    {
+      "text": "deals, conversion rate, total revenue",
+      "duration": 4.44,
+      "offset": 122.84,
+      "lang": "en"
+    },
+    {
+      "text": "and the design should be clean, [music]",
+      "duration": 4.12,
+      "offset": 125.64,
+      "lang": "en"
+    },
+    {
+      "text": "modern with sidebar navigation. Now,",
+      "duration": 4.16,
+      "offset": 127.28,
+      "lang": "en"
+    },
+    {
+      "text": "before it starts building, I&#39;ll turn on",
+      "duration": 3.8,
+      "offset": 129.76,
+      "lang": "en"
+    },
+    {
+      "text": "plan mode. What this does is it tells",
+      "duration": 4.48,
+      "offset": 131.44,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable to plan everything first, all",
+      "duration": 4.68,
+      "offset": 133.56,
+      "lang": "en"
+    },
+    {
+      "text": "the pages we need, all the data we need,",
+      "duration": 3.96,
+      "offset": 135.92,
+      "lang": "en"
+    },
+    {
+      "text": "all the design. It plans [music]",
+      "duration": 3.92,
+      "offset": 138.24,
+      "lang": "en"
+    },
+    {
+      "text": "everything and shows me the whole thing",
+      "duration": 4.28,
+      "offset": 139.88,
+      "lang": "en"
+    },
+    {
+      "text": "before it goes and writes the code and",
+      "duration": 3.88,
+      "offset": 142.16,
+      "lang": "en"
+    },
+    {
+      "text": "builds the software. So it&#39;s looking at",
+      "duration": 3.8,
+      "offset": 144.16,
+      "lang": "en"
+    },
+    {
+      "text": "the features, the UI structure, it&#39;s",
+      "duration": 4.64,
+      "offset": 146.04,
+      "lang": "en"
+    },
+    {
+      "text": "figured out we need a contacts page, a",
+      "duration": 5.64,
+      "offset": 147.96,
+      "lang": "en"
+    },
+    {
+      "text": "deals pipeline, a dashboard, sidebar",
+      "duration": 5.0,
+      "offset": 150.68,
+      "lang": "en"
+    },
+    {
+      "text": "navigation. If you&#39;re not technical,",
+      "duration": 3.92,
+      "offset": 153.6,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t worry about the specific names",
+      "duration": 3.68,
+      "offset": 155.68,
+      "lang": "en"
+    },
+    {
+      "text": "here. If you are technical, you can",
+      "duration": 4.04,
+      "offset": 157.52,
+      "lang": "en"
+    },
+    {
+      "text": "actually dig into the details and start",
+      "duration": 4.8,
+      "offset": 159.36,
+      "lang": "en"
+    },
+    {
+      "text": "customizing from here itself. Now, if I",
+      "duration": 4.96,
+      "offset": 161.56,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to change anything, add a page,",
+      "duration": 4.8,
+      "offset": 164.16,
+      "lang": "en"
+    },
+    {
+      "text": "remove a feature, change the layout, I",
+      "duration": 4.36,
+      "offset": 166.52,
+      "lang": "en"
+    },
+    {
+      "text": "would tell it right now before it starts",
+      "duration": 3.68,
+      "offset": 168.96,
+      "lang": "en"
+    },
+    {
+      "text": "building. That&#39;s the whole point of plan",
+      "duration": 3.96,
+      "offset": 170.88,
+      "lang": "en"
+    },
+    {
+      "text": "mode. You get to review and adjust",
+      "duration": 4.28,
+      "offset": 172.64,
+      "lang": "en"
+    },
+    {
+      "text": "before any code gets written. But this",
+      "duration": 4.0,
+      "offset": 174.84,
+      "lang": "en"
+    },
+    {
+      "text": "looks solid, so I&#39;ll approve the plan",
+      "duration": 3.64,
+      "offset": 176.92,
+      "lang": "en"
+    },
+    {
+      "text": "and now it&#39;s working like an actual",
+      "duration": 4.28,
+      "offset": 178.84,
+      "lang": "en"
+    },
+    {
+      "text": "developer. It&#39;s figured out on its own",
+      "duration": 4.52,
+      "offset": 180.56,
+      "lang": "en"
+    },
+    {
+      "text": "that it needs a design system, a",
+      "duration": 4.2,
+      "offset": 183.12,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard page, a contacts [music] page",
+      "duration": 4.28,
+      "offset": 185.08,
+      "lang": "en"
+    },
+    {
+      "text": "and a deals pipeline and it&#39;s building",
+      "duration": 4.32,
+      "offset": 187.32,
+      "lang": "en"
+    },
+    {
+      "text": "all of them at the same time. And there",
+      "duration": 4.64,
+      "offset": 189.36,
+      "lang": "en"
+    },
+    {
+      "text": "it is, it&#39;s built the basic dashboard,",
+      "duration": 4.08,
+      "offset": 191.64,
+      "lang": "en"
+    },
+    {
+      "text": "the basic contacts page [music] and the",
+      "duration": 3.76,
+      "offset": 194.0,
+      "lang": "en"
+    },
+    {
+      "text": "deals pipeline, all working from one",
+      "duration": 3.92,
+      "offset": 195.72,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. But if you look at this, it&#39;s",
+      "duration": 3.64,
+      "offset": 197.76,
+      "lang": "en"
+    },
+    {
+      "text": "looking pretty plain. I want to give it",
+      "duration": 3.68,
+      "offset": 199.64,
+      "lang": "en"
+    },
+    {
+      "text": "a different feel, I want to make it look",
+      "duration": 3.92,
+      "offset": 201.4,
+      "lang": "en"
+    },
+    {
+      "text": "like something someone would actually",
+      "duration": 4.72,
+      "offset": 203.32,
+      "lang": "en"
+    },
+    {
+      "text": "want to use, actually pay money to use.",
+      "duration": 4.04,
+      "offset": 205.32,
+      "lang": "en"
+    },
+    {
+      "text": "And we want to build software that you",
+      "duration": 2.84,
+      "offset": 208.04,
+      "lang": "en"
+    },
+    {
+      "text": "can sell to other people. So let&#39;s fix",
+      "duration": 3.72,
+      "offset": 209.36,
+      "lang": "en"
+    },
+    {
+      "text": "the design. So before designing, you",
+      "duration": 3.84,
+      "offset": 210.88,
+      "lang": "en"
+    },
+    {
+      "text": "need to have some design clarity in your",
+      "duration": 3.92,
+      "offset": 213.08,
+      "lang": "en"
+    },
+    {
+      "text": "mind. What kind of design do you want?",
+      "duration": 4.04,
+      "offset": 214.72,
+      "lang": "en"
+    },
+    {
+      "text": "And for that, you have to look over the",
+      "duration": 3.08,
+      "offset": 217.0,
+      "lang": "en"
+    },
+    {
+      "text": "internet for inspiration.",
+      "duration": 1.48,
+      "offset": 218.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 1.84,
+      "offset": 220.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Find the kind of design style you want",
+      "duration": 3.8,
+      "offset": 220.24,
+      "lang": "en"
+    },
+    {
+      "text": "to create. Here&#39;s what you can do. If",
+      "duration": 4.24,
+      "offset": 221.92,
+      "lang": "en"
+    },
+    {
+      "text": "there is any website or any app whose",
+      "duration": 3.8,
+      "offset": 224.04,
+      "lang": "en"
+    },
+    {
+      "text": "design you like and you want your app to",
+      "duration": 3.68,
+      "offset": 226.16,
+      "lang": "en"
+    },
+    {
+      "text": "look like that, then you can give the",
+      "duration": 4.48,
+      "offset": 227.84,
+      "lang": "en"
+    },
+    {
+      "text": "URL to Lovable as a reference and it",
+      "duration": 4.44,
+      "offset": 229.84,
+      "lang": "en"
+    },
+    {
+      "text": "will try to match the look and feel. So",
+      "duration": 3.96,
+      "offset": 232.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll go to another app which I like.",
+      "duration": 4.12,
+      "offset": 234.28,
+      "lang": "en"
+    },
+    {
+      "text": "There&#39;s this tool called Artio that has",
+      "duration": 3.68,
+      "offset": 236.28,
+      "lang": "en"
+    },
+    {
+      "text": "a [music] really clean, minimalist",
+      "duration": 3.8,
+      "offset": 238.4,
+      "lang": "en"
+    },
+    {
+      "text": "design. I&#39;ll grab the URL and tell",
+      "duration": 4.0,
+      "offset": 239.96,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, make the UI close to the",
+      "duration": 3.88,
+      "offset": 242.2,
+      "lang": "en"
+    },
+    {
+      "text": "elements of this page. So it&#39;s actually",
+      "duration": 4.12,
+      "offset": 243.96,
+      "lang": "en"
+    },
+    {
+      "text": "going to look at the page, analyze the",
+      "duration": 4.68,
+      "offset": 246.08,
+      "lang": "en"
+    },
+    {
+      "text": "layout, the spacing, the colors and try",
+      "duration": 5.24,
+      "offset": 248.08,
+      "lang": "en"
+    },
+    {
+      "text": "to match that design to our app. Now",
+      "duration": 4.64,
+      "offset": 250.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s taken the inspiration we gave it.",
+      "duration": 3.72,
+      "offset": 253.32,
+      "lang": "en"
+    },
+    {
+      "text": "If you look at the dashboard, clean,",
+      "duration": 3.68,
+      "offset": 255.4,
+      "lang": "en"
+    },
+    {
+      "text": "much better than before. The contacts",
+      "duration": 4.6,
+      "offset": 257.04,
+      "lang": "en"
+    },
+    {
+      "text": "page, minimal. The deals pipeline, same",
+      "duration": 4.48,
+      "offset": 259.08,
+      "lang": "en"
+    },
+    {
+      "text": "components but completely different",
+      "duration": 3.84,
+      "offset": 261.64,
+      "lang": "en"
+    },
+    {
+      "text": "feel. It&#39;s matching [music] the elements",
+      "duration": 4.32,
+      "offset": 263.56,
+      "lang": "en"
+    },
+    {
+      "text": "exactly the way we wanted. I wanted it",
+      "duration": 4.56,
+      "offset": 265.48,
+      "lang": "en"
+    },
+    {
+      "text": "minimalist and I&#39;m pretty happy with how",
+      "duration": 4.64,
+      "offset": 267.88,
+      "lang": "en"
+    },
+    {
+      "text": "this turned out. So whatever website or",
+      "duration": 4.48,
+      "offset": 270.04,
+      "lang": "en"
+    },
+    {
+      "text": "UI you like, you can use it as a",
+      "duration": 4.32,
+      "offset": 272.52,
+      "lang": "en"
+    },
+    {
+      "text": "reference for your own app. Now suppose",
+      "duration": 3.88,
+      "offset": 274.52,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s any particular element you want",
+      "duration": 4.04,
+      "offset": 276.84,
+      "lang": "en"
+    },
+    {
+      "text": "to change the name, the color, the font,",
+      "duration": 4.52,
+      "offset": 278.4,
+      "lang": "en"
+    },
+    {
+      "text": "you can go for visual edits. This is",
+      "duration": 4.12,
+      "offset": 280.88,
+      "lang": "en"
+    },
+    {
+      "text": "where the visual edits are. I click on",
+      "duration": 4.04,
+      "offset": 282.92,
+      "lang": "en"
+    },
+    {
+      "text": "the logo text and see a property panel",
+      "duration": 4.4,
+      "offset": 285.0,
+      "lang": "en"
+    },
+    {
+      "text": "opens up on the side. Highlight this and",
+      "duration": 5.2,
+      "offset": 286.96,
+      "lang": "en"
+    },
+    {
+      "text": "type Wizdeals. Hit send, confirm the",
+      "duration": 4.44,
+      "offset": 289.4,
+      "lang": "en"
+    },
+    {
+      "text": "change and done, the app now says",
+      "duration": 4.24,
+      "offset": 292.16,
+      "lang": "en"
+    },
+    {
+      "text": "Wizdeals. So any small visual change,",
+      "duration": 4.16,
+      "offset": 293.84,
+      "lang": "en"
+    },
+    {
+      "text": "you can do [music] it from here without",
+      "duration": 4.16,
+      "offset": 296.4,
+      "lang": "en"
+    },
+    {
+      "text": "writing a prompt. Now, before we move",
+      "duration": 4.08,
+      "offset": 298.0,
+      "lang": "en"
+    },
+    {
+      "text": "forward, this video is sponsored by",
+      "duration": 3.4,
+      "offset": 300.56,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. But I want to be honest with",
+      "duration": 4.4,
+      "offset": 302.08,
+      "lang": "en"
+    },
+    {
+      "text": "you. I took this sponsorship because I",
+      "duration": 4.52,
+      "offset": 303.96,
+      "lang": "en"
+    },
+    {
+      "text": "genuinely believe this is one of the",
+      "duration": 5.64,
+      "offset": 306.48,
+      "lang": "en"
+    },
+    {
+      "text": "most important AI tools of 2026. Whether",
+      "duration": 5.56,
+      "offset": 308.48,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re building a side project or a real",
+      "duration": 4.2,
+      "offset": 312.12,
+      "lang": "en"
+    },
+    {
+      "text": "business, this is wipe coding and this",
+      "duration": 3.72,
+      "offset": 314.04,
+      "lang": "en"
+    },
+    {
+      "text": "is something you should learn.",
+      "duration": 3.32,
+      "offset": 316.32,
+      "lang": "en"
+    },
+    {
+      "text": "Everything you just saw me build is",
+      "duration": 3.76,
+      "offset": 317.76,
+      "lang": "en"
+    },
+    {
+      "text": "[music] real, nothing is staged. Let&#39;s",
+      "duration": 3.84,
+      "offset": 319.64,
+      "lang": "en"
+    },
+    {
+      "text": "keep going. So now that we&#39;ve built",
+      "duration": 4.12,
+      "offset": 321.52,
+      "lang": "en"
+    },
+    {
+      "text": "everything, this is the time to test it.",
+      "duration": 4.24,
+      "offset": 323.48,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m teaching you this from how products",
+      "duration": 4.08,
+      "offset": 325.64,
+      "lang": "en"
+    },
+    {
+      "text": "are actually built, from how I built",
+      "duration": 3.6,
+      "offset": 327.72,
+      "lang": "en"
+    },
+    {
+      "text": "products in my companies. Once your",
+      "duration": 3.4,
+      "offset": 329.72,
+      "lang": "en"
+    },
+    {
+      "text": "product is built, your prototype is",
+      "duration": 4.12,
+      "offset": 331.32,
+      "lang": "en"
+    },
+    {
+      "text": "ready, you have to do testing. You check",
+      "duration": 3.76,
+      "offset": 333.12,
+      "lang": "en"
+    },
+    {
+      "text": "each and every thing that&#39;s available in",
+      "duration": 3.48,
+      "offset": 335.44,
+      "lang": "en"
+    },
+    {
+      "text": "your app, is it working, is it not",
+      "duration": 4.2,
+      "offset": 336.88,
+      "lang": "en"
+    },
+    {
+      "text": "working. So let&#39;s start. Let&#39;s check if",
+      "duration": 3.88,
+      "offset": 338.92,
+      "lang": "en"
+    },
+    {
+      "text": "we can actually add contacts and",
+      "duration": 4.11,
+      "offset": 341.08,
+      "lang": "en"
+    },
+    {
+      "text": "information. So let me add a contact.",
+      "duration": 4.32,
+      "offset": 342.8,
+      "lang": "en"
+    },
+    {
+      "text": "[music] My name, my details, Vaibhav,",
+      "duration": 4.93,
+      "offset": 345.19,
+      "lang": "en"
+    },
+    {
+      "text": "Growth School, email, status lead. Save",
+      "duration": 4.68,
+      "offset": 347.12,
+      "lang": "en"
+    },
+    {
+      "text": "it and there it is in the list. Now",
+      "duration": 3.92,
+      "offset": 350.12,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s check, can we change the status?",
+      "duration": 4.24,
+      "offset": 351.8,
+      "lang": "en"
+    },
+    {
+      "text": "Active, [music] can we save it? Does it",
+      "duration": 4.28,
+      "offset": 354.04,
+      "lang": "en"
+    },
+    {
+      "text": "update? Yes, it updates. Let&#39;s check the",
+      "duration": 4.24,
+      "offset": 356.04,
+      "lang": "en"
+    },
+    {
+      "text": "deals. I&#39;ll add a deal, website",
+      "duration": 4.56,
+      "offset": 358.32,
+      "lang": "en"
+    },
+    {
+      "text": "redesign, $15,000, linked to Vaibhav",
+      "duration": 4.44,
+      "offset": 360.28,
+      "lang": "en"
+    },
+    {
+      "text": "from Growth School and I can drag it",
+      "duration": 3.92,
+      "offset": 362.88,
+      "lang": "en"
+    },
+    {
+      "text": "from new lead to proposal sent.",
+      "duration": 2.16,
+      "offset": 364.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.16,
+      "offset": 366.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Dashboard updates automatically, total",
+      "duration": 4.6,
+      "offset": 366.88,
+      "lang": "en"
+    },
+    {
+      "text": "deals, pipeline value, everything syncs",
+      "duration": 4.48,
+      "offset": 368.96,
+      "lang": "en"
+    },
+    {
+      "text": "up. So more or less, everything is",
+      "duration": 3.8,
+      "offset": 371.48,
+      "lang": "en"
+    },
+    {
+      "text": "working seamlessly. We&#39;ve got our first",
+      "duration": 3.88,
+      "offset": 373.44,
+      "lang": "en"
+    },
+    {
+      "text": "part done, the basic app. Now from here",
+      "duration": 4.0,
+      "offset": 375.28,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s about adding more and more things",
+      "duration": 3.68,
+      "offset": 377.32,
+      "lang": "en"
+    },
+    {
+      "text": "because right now, if I close this",
+      "duration": 3.76,
+      "offset": 379.28,
+      "lang": "en"
+    },
+    {
+      "text": "browser, everything disappears. There&#39;s",
+      "duration": 4.32,
+      "offset": 381.0,
+      "lang": "en"
+    },
+    {
+      "text": "no database saving any of this. So let&#39;s",
+      "duration": 4.84,
+      "offset": 383.04,
+      "lang": "en"
+    },
+    {
+      "text": "fix that. But first, what is a database?",
+      "duration": 4.4,
+      "offset": 385.32,
+      "lang": "en"
+    },
+    {
+      "text": "I know, so many jargon words. Let me",
+      "duration": 3.96,
+      "offset": 387.88,
+      "lang": "en"
+    },
+    {
+      "text": "explain it simply. A database is",
+      "duration": 4.16,
+      "offset": 389.72,
+      "lang": "en"
+    },
+    {
+      "text": "basically a place where all the",
+      "duration": 4.52,
+      "offset": 391.84,
+      "lang": "en"
+    },
+    {
+      "text": "information gets saved. If a user comes",
+      "duration": 4.64,
+      "offset": 393.88,
+      "lang": "en"
+    },
+    {
+      "text": "and fills in your form, fills in their",
+      "duration": 4.44,
+      "offset": 396.36,
+      "lang": "en"
+    },
+    {
+      "text": "details in your client tracker, all of",
+      "duration": 4.44,
+      "offset": 398.52,
+      "lang": "en"
+    },
+    {
+      "text": "that data gets saved. So even if you",
+      "duration": 4.6,
+      "offset": 400.8,
+      "lang": "en"
+    },
+    {
+      "text": "close the app and reopen it, your data",
+      "duration": 4.2,
+      "offset": 402.96,
+      "lang": "en"
+    },
+    {
+      "text": "is still there. That&#39;s what a database",
+      "duration": 3.96,
+      "offset": 405.4,
+      "lang": "en"
+    },
+    {
+      "text": "does. And the other thing we need is",
+      "duration": 4.64,
+      "offset": 407.16,
+      "lang": "en"
+    },
+    {
+      "text": "user accounts logins. You know how when",
+      "duration": 4.2,
+      "offset": 409.36,
+      "lang": "en"
+    },
+    {
+      "text": "you go to any website, you have to log",
+      "duration": 3.92,
+      "offset": 411.8,
+      "lang": "en"
+    },
+    {
+      "text": "in, use your Google login or your email",
+      "duration": 3.76,
+      "offset": 413.56,
+      "lang": "en"
+    },
+    {
+      "text": "and password. That&#39;s what we&#39;re going to",
+      "duration": 3.44,
+      "offset": 415.72,
+      "lang": "en"
+    },
+    {
+      "text": "add. So if you log in with your email,",
+      "duration": 3.96,
+      "offset": 417.32,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll see your data. If I log in with",
+      "duration": 3.97,
+      "offset": 419.16,
+      "lang": "en"
+    },
+    {
+      "text": "my email, I&#39;ll only see my data.",
+      "duration": 1.96,
+      "offset": 421.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.15,
+      "offset": 423.13,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Everyone&#39;s stuff stays separate. We&#39;re",
+      "duration": 3.88,
+      "offset": 423.24,
+      "lang": "en"
+    },
+    {
+      "text": "going to connect both of these in one",
+      "duration": 4.32,
+      "offset": 425.28,
+      "lang": "en"
+    },
+    {
+      "text": "go. So let&#39;s type prompt, [music] add",
+      "duration": 5.28,
+      "offset": 427.12,
+      "lang": "en"
+    },
+    {
+      "text": "user accounts, email sign up and log in.",
+      "duration": 4.88,
+      "offset": 429.6,
+      "lang": "en"
+    },
+    {
+      "text": "Each user should only see their own",
+      "duration": 4.76,
+      "offset": 432.4,
+      "lang": "en"
+    },
+    {
+      "text": "contacts and deals. Save all data to the",
+      "duration": 4.6,
+      "offset": 434.48,
+      "lang": "en"
+    },
+    {
+      "text": "database so nothing disappears when I",
+      "duration": 3.0,
+      "offset": 437.16,
+      "lang": "en"
+    },
+    {
+      "text": "close the browser.",
+      "duration": 1.16,
+      "offset": 439.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.32,
+      "offset": 440.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And Lovable asks, do you want to enable",
+      "duration": 4.48,
+      "offset": 440.24,
+      "lang": "en"
+    },
+    {
+      "text": "cloud? Now, what is cloud? What is a",
+      "duration": 4.52,
+      "offset": 442.48,
+      "lang": "en"
+    },
+    {
+      "text": "backend? Let me break it down. Cloud",
+      "duration": 4.28,
+      "offset": 444.72,
+      "lang": "en"
+    },
+    {
+      "text": "basically gives you everything your app",
+      "duration": 4.88,
+      "offset": 447.0,
+      "lang": "en"
+    },
+    {
+      "text": "needs to work for real users. That means",
+      "duration": 5.48,
+      "offset": 449.0,
+      "lang": "en"
+    },
+    {
+      "text": "login and sign up, a database to store",
+      "duration": 4.64,
+      "offset": 451.88,
+      "lang": "en"
+    },
+    {
+      "text": "all your data. You can even [music] add",
+      "duration": 4.88,
+      "offset": 454.48,
+      "lang": "en"
+    },
+    {
+      "text": "AI to your app, chat, image generation,",
+      "duration": 4.72,
+      "offset": 456.52,
+      "lang": "en"
+    },
+    {
+      "text": "all built in. Plus [music] it handles",
+      "duration": 3.88,
+      "offset": 459.36,
+      "lang": "en"
+    },
+    {
+      "text": "hosting, which means your app will have",
+      "duration": 4.4,
+      "offset": 461.24,
+      "lang": "en"
+    },
+    {
+      "text": "a real URL that people can visit. So",
+      "duration": 4.16,
+      "offset": 463.24,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to enable this.",
+      "duration": 3.36,
+      "offset": 465.64,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s asking whether we need user",
+      "duration": 4.0,
+      "offset": 467.4,
+      "lang": "en"
+    },
+    {
+      "text": "profiles with display names and avatars",
+      "duration": 5.08,
+      "offset": 469.0,
+      "lang": "en"
+    },
+    {
+      "text": "or just basic email and password login.",
+      "duration": 5.04,
+      "offset": 471.4,
+      "lang": "en"
+    },
+    {
+      "text": "Basic profile is fine for us. Fair",
+      "duration": 4.88,
+      "offset": 474.08,
+      "lang": "en"
+    },
+    {
+      "text": "warning, normally adding login to an app",
+      "duration": 4.4,
+      "offset": 476.44,
+      "lang": "en"
+    },
+    {
+      "text": "is where everything breaks. You&#39;re",
+      "duration": 3.88,
+      "offset": 478.96,
+      "lang": "en"
+    },
+    {
+      "text": "setting up databases, configuring",
+      "duration": 4.4,
+      "offset": 480.84,
+      "lang": "en"
+    },
+    {
+      "text": "security rules, writing authentication",
+      "duration": 4.68,
+      "offset": 482.84,
+      "lang": "en"
+    },
+    {
+      "text": "code. In Lovable, it&#39;s all done with",
+      "duration": 4.92,
+      "offset": 485.24,
+      "lang": "en"
+    },
+    {
+      "text": "just one click. Now, it&#39;s creating",
+      "duration": 5.24,
+      "offset": 487.52,
+      "lang": "en"
+    },
+    {
+      "text": "database tables, setting up the security",
+      "duration": 5.48,
+      "offset": 490.16,
+      "lang": "en"
+    },
+    {
+      "text": "so each user only sees their own stuff",
+      "duration": 4.72,
+      "offset": 492.76,
+      "lang": "en"
+    },
+    {
+      "text": "and your data is not leaked to someone",
+      "duration": 4.2,
+      "offset": 495.64,
+      "lang": "en"
+    },
+    {
+      "text": "else. Building sign up and login pages",
+      "duration": 4.44,
+      "offset": 497.48,
+      "lang": "en"
+    },
+    {
+      "text": "and migrating the complete data storage.",
+      "duration": 4.2,
+      "offset": 499.84,
+      "lang": "en"
+    },
+    {
+      "text": "And there&#39;s our login page. So [music]",
+      "duration": 3.68,
+      "offset": 501.92,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s set up email and password",
+      "duration": 4.12,
+      "offset": 504.04,
+      "lang": "en"
+    },
+    {
+      "text": "authentication, database tables, auto",
+      "duration": 5.08,
+      "offset": 505.6,
+      "lang": "en"
+    },
+    {
+      "text": "created profiles, even a logout button.",
+      "duration": 4.56,
+      "offset": 508.16,
+      "lang": "en"
+    },
+    {
+      "text": "Let me sign up. Adding my ID and",
+      "duration": 4.32,
+      "offset": 510.68,
+      "lang": "en"
+    },
+    {
+      "text": "password and I&#39;m in. Dashboard is empty",
+      "duration": 3.92,
+      "offset": 512.72,
+      "lang": "en"
+    },
+    {
+      "text": "because this is a brand new account,",
+      "duration": 3.48,
+      "offset": 515.0,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re starting fresh. Everything from",
+      "duration": 3.84,
+      "offset": 516.64,
+      "lang": "en"
+    },
+    {
+      "text": "the earlier session is gone because that",
+      "duration": 4.2,
+      "offset": 518.48,
+      "lang": "en"
+    },
+    {
+      "text": "was before the database even existed.",
+      "duration": 4.48,
+      "offset": 520.48,
+      "lang": "en"
+    },
+    {
+      "text": "Now let me add a new contact. Vivian,",
+      "duration": 4.8,
+      "offset": 522.68,
+      "lang": "en"
+    },
+    {
+      "text": "Freedom Inc. Save. There she is in the",
+      "duration": 5.0,
+      "offset": 524.96,
+      "lang": "en"
+    },
+    {
+      "text": "contacts. And a deal, website redesign,",
+      "duration": 5.28,
+      "offset": 527.48,
+      "lang": "en"
+    },
+    {
+      "text": "$1,400, linked to Vivian. I can move it",
+      "duration": 4.88,
+      "offset": 529.96,
+      "lang": "en"
+    },
+    {
+      "text": "across stages just like before and this",
+      "duration": 3.96,
+      "offset": 532.76,
+      "lang": "en"
+    },
+    {
+      "text": "time it all saves to the database. I",
+      "duration": 3.56,
+      "offset": 534.84,
+      "lang": "en"
+    },
+    {
+      "text": "could close the browser, come back next",
+      "duration": 3.56,
+      "offset": 536.72,
+      "lang": "en"
+    },
+    {
+      "text": "month, everything is still there. So",
+      "duration": 3.16,
+      "offset": 538.4,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve got a working app with",
+      "duration": 3.16,
+      "offset": 540.28,
+      "lang": "en"
+    },
+    {
+      "text": "authentication, database, everything is",
+      "duration": 3.92,
+      "offset": 541.56,
+      "lang": "en"
+    },
+    {
+      "text": "available. Let me just run the security",
+      "duration": 3.72,
+      "offset": 543.44,
+      "lang": "en"
+    },
+    {
+      "text": "scan. Just one click and [music] it",
+      "duration": 3.6,
+      "offset": 545.48,
+      "lang": "en"
+    },
+    {
+      "text": "checks for all the vulnerabilities. One",
+      "duration": 3.84,
+      "offset": 547.16,
+      "lang": "en"
+    },
+    {
+      "text": "warning about password protection so you",
+      "duration": 3.6,
+      "offset": 549.08,
+      "lang": "en"
+    },
+    {
+      "text": "know about the issues before you even",
+      "duration": 3.56,
+      "offset": 551.0,
+      "lang": "en"
+    },
+    {
+      "text": "ship the product to your users. If",
+      "duration": 3.6,
+      "offset": 552.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re finding this useful, we do this",
+      "duration": 3.96,
+      "offset": 554.56,
+      "lang": "en"
+    },
+    {
+      "text": "every week. Different tools, same depth.",
+      "duration": 4.08,
+      "offset": 556.28,
+      "lang": "en"
+    },
+    {
+      "text": "Lot more on the channel so make sure to",
+      "duration": 4.0,
+      "offset": 558.52,
+      "lang": "en"
+    },
+    {
+      "text": "subscribe. Okay, so we&#39;ve got a basic",
+      "duration": 4.16,
+      "offset": 560.36,
+      "lang": "en"
+    },
+    {
+      "text": "app ready with accounts and database.",
+      "duration": 3.84,
+      "offset": 562.52,
+      "lang": "en"
+    },
+    {
+      "text": "Now I want to add something else,",
+      "duration": 3.84,
+      "offset": 564.52,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s actually really hard to",
+      "duration": 3.92,
+      "offset": 566.36,
+      "lang": "en"
+    },
+    {
+      "text": "build in real life. What if the app",
+      "duration": 3.46,
+      "offset": 568.36,
+      "lang": "en"
+    },
+    {
+      "text": "could understand plain English?",
+      "duration": 1.68,
+      "offset": 570.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.02,
+      "offset": 571.82,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Instead of filling out forms, you just",
+      "duration": 4.0,
+      "offset": 571.96,
+      "lang": "en"
+    },
+    {
+      "text": "tell it what to do. So let&#39;s type add an",
+      "duration": 4.28,
+      "offset": 573.84,
+      "lang": "en"
+    },
+    {
+      "text": "AI follow up feature. I will mention in",
+      "duration": 3.96,
+      "offset": 575.96,
+      "lang": "en"
+    },
+    {
+      "text": "English what I want and the action",
+      "duration": 3.64,
+      "offset": 578.12,
+      "lang": "en"
+    },
+    {
+      "text": "should happen, either adding a new",
+      "duration": 4.12,
+      "offset": 579.92,
+      "lang": "en"
+    },
+    {
+      "text": "contact, a new deal [music] or changing",
+      "duration": 4.88,
+      "offset": 581.76,
+      "lang": "en"
+    },
+    {
+      "text": "an existing deal like an AI assistant.",
+      "duration": 5.2,
+      "offset": 584.04,
+      "lang": "en"
+    },
+    {
+      "text": "The ideas is simple, anybody using the",
+      "duration": 4.88,
+      "offset": 586.64,
+      "lang": "en"
+    },
+    {
+      "text": "app can come to the AI assistant,",
+      "duration": 4.6,
+      "offset": 589.24,
+      "lang": "en"
+    },
+    {
+      "text": "explain what they need in plain English",
+      "duration": 4.32,
+      "offset": 591.52,
+      "lang": "en"
+    },
+    {
+      "text": "and the assistant takes care of it.",
+      "duration": 3.72,
+      "offset": 593.84,
+      "lang": "en"
+    },
+    {
+      "text": "There&#39;s now a floating button in the",
+      "duration": 3.84,
+      "offset": 595.84,
+      "lang": "en"
+    },
+    {
+      "text": "corner. Click it and type add [music]",
+      "duration": 4.6,
+      "offset": 597.56,
+      "lang": "en"
+    },
+    {
+      "text": "James from Disney as a new lead. James",
+      "duration": 5.12,
+      "offset": 599.68,
+      "lang": "en"
+    },
+    {
+      "text": "from Disney in the contacts. Didn&#39;t open",
+      "duration": 4.24,
+      "offset": 602.16,
+      "lang": "en"
+    },
+    {
+      "text": "any form, didn&#39;t click through any",
+      "duration": 4.04,
+      "offset": 604.8,
+      "lang": "en"
+    },
+    {
+      "text": "fields, just told it what I wanted. And",
+      "duration": 3.84,
+      "offset": 606.4,
+      "lang": "en"
+    },
+    {
+      "text": "if I go to the contacts page, there&#39;s",
+      "duration": 3.72,
+      "offset": 608.84,
+      "lang": "en"
+    },
+    {
+      "text": "James right [music] there. Disney, new",
+      "duration": 4.48,
+      "offset": 610.24,
+      "lang": "en"
+    },
+    {
+      "text": "lead, it&#39;s working. Now, let&#39;s test if",
+      "duration": 3.82,
+      "offset": 612.56,
+      "lang": "en"
+    },
+    {
+      "text": "it works for deals, too. Add a new",
+      "duration": 4.04,
+      "offset": 614.72,
+      "lang": "en"
+    },
+    {
+      "text": "[music] deal, $3,000 creative design for",
+      "duration": 4.1,
+      "offset": 616.38,
+      "lang": "en"
+    },
+    {
+      "text": "James. And if I check the deals page,",
+      "duration": 4.16,
+      "offset": 618.76,
+      "lang": "en"
+    },
+    {
+      "text": "creative design $3,000 linked to James.",
+      "duration": 4.52,
+      "offset": 620.48,
+      "lang": "en"
+    },
+    {
+      "text": "It figured out the contact, the amount,",
+      "duration": 4.0,
+      "offset": 622.92,
+      "lang": "en"
+    },
+    {
+      "text": "the title, and where to put it. From one",
+      "duration": 3.24,
+      "offset": 625.0,
+      "lang": "en"
+    },
+    {
+      "text": "sentence, you don&#39;t have to fill the",
+      "duration": 3.2,
+      "offset": 626.92,
+      "lang": "en"
+    },
+    {
+      "text": "form. Neither do your users. They",
+      "duration": 3.24,
+      "offset": 628.24,
+      "lang": "en"
+    },
+    {
+      "text": "[music] just type what they need, and",
+      "duration": 3.28,
+      "offset": 630.12,
+      "lang": "en"
+    },
+    {
+      "text": "the app understands and does it for",
+      "duration": 4.36,
+      "offset": 631.48,
+      "lang": "en"
+    },
+    {
+      "text": "them. Now, what is deployment? So, right",
+      "duration": 3.92,
+      "offset": 633.4,
+      "lang": "en"
+    },
+    {
+      "text": "now, whatever we&#39;ve been building, it",
+      "duration": 3.48,
+      "offset": 635.84,
+      "lang": "en"
+    },
+    {
+      "text": "only exists inside Lovable. It&#39;s not",
+      "duration": 4.12,
+      "offset": 637.32,
+      "lang": "en"
+    },
+    {
+      "text": "usable by other people yet. You know how",
+      "duration": 3.56,
+      "offset": 639.32,
+      "lang": "en"
+    },
+    {
+      "text": "you can go on your browser and type",
+      "duration": 3.48,
+      "offset": 641.44,
+      "lang": "en"
+    },
+    {
+      "text": "google.com and use Google. [music] In",
+      "duration": 3.6,
+      "offset": 642.88,
+      "lang": "en"
+    },
+    {
+      "text": "the same way, if you want someone to be",
+      "duration": 3.56,
+      "offset": 644.92,
+      "lang": "en"
+    },
+    {
+      "text": "able to search for your app and actually",
+      "duration": 3.48,
+      "offset": 646.48,
+      "lang": "en"
+    },
+    {
+      "text": "use it, you have to deploy it on the",
+      "duration": 3.32,
+      "offset": 648.48,
+      "lang": "en"
+    },
+    {
+      "text": "web. That&#39;s what deployment means,",
+      "duration": 3.8,
+      "offset": 649.96,
+      "lang": "en"
+    },
+    {
+      "text": "making it available for real people. To",
+      "duration": 4.12,
+      "offset": 651.8,
+      "lang": "en"
+    },
+    {
+      "text": "deploy, I just click publish. It gives",
+      "duration": 4.92,
+      "offset": 653.76,
+      "lang": "en"
+    },
+    {
+      "text": "me a URL. The app is live. Real people",
+      "duration": 4.6,
+      "offset": 655.92,
+      "lang": "en"
+    },
+    {
+      "text": "can actually sign up and use the piece",
+      "duration": 3.24,
+      "offset": 658.68,
+      "lang": "en"
+    },
+    {
+      "text": "of software you just made. [music] Now,",
+      "duration": 2.76,
+      "offset": 660.52,
+      "lang": "en"
+    },
+    {
+      "text": "if I want my own domain like",
+      "duration": 4.36,
+      "offset": 661.92,
+      "lang": "en"
+    },
+    {
+      "text": "vizdeals.com, I click add custom domain.",
+      "duration": 4.96,
+      "offset": 663.28,
+      "lang": "en"
+    },
+    {
+      "text": "Now, what&#39;s a domain? A domain is",
+      "duration": 4.16,
+      "offset": 666.28,
+      "lang": "en"
+    },
+    {
+      "text": "basically the address people type in the",
+      "duration": 4.45,
+      "offset": 668.24,
+      "lang": "en"
+    },
+    {
+      "text": "browser, google.com, facebook.com.",
+      "duration": 2.84,
+      "offset": 670.44,
+      "lang": "en"
+    },
+    {
+      "text": "[music]",
+      "duration": 2.35,
+      "offset": 672.69,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s a domain. You can connect an",
+      "duration": 4.12,
+      "offset": 673.28,
+      "lang": "en"
+    },
+    {
+      "text": "existing domain you already own, or you",
+      "duration": 4.72,
+      "offset": 675.04,
+      "lang": "en"
+    },
+    {
+      "text": "can purchase a new one right here inside",
+      "duration": 3.96,
+      "offset": 677.4,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. You don&#39;t have to go to any",
+      "duration": 3.76,
+      "offset": 679.76,
+      "lang": "en"
+    },
+    {
+      "text": "other place. Plus, I can sync the whole",
+      "duration": 4.6,
+      "offset": 681.36,
+      "lang": "en"
+    },
+    {
+      "text": "project to GitHub. What is GitHub? Think",
+      "duration": 4.36,
+      "offset": 683.52,
+      "lang": "en"
+    },
+    {
+      "text": "of it like a locker for your software.",
+      "duration": 4.12,
+      "offset": 685.96,
+      "lang": "en"
+    },
+    {
+      "text": "If you want a developer to pick it up",
+      "duration": 4.44,
+      "offset": 687.88,
+      "lang": "en"
+    },
+    {
+      "text": "and build on top of it later, they can",
+      "duration": 4.72,
+      "offset": 690.08,
+      "lang": "en"
+    },
+    {
+      "text": "get it from GitHub. Okay, so everything",
+      "duration": 4.4,
+      "offset": 692.32,
+      "lang": "en"
+    },
+    {
+      "text": "I showed you so far, that&#39;s what Lovable",
+      "duration": 4.08,
+      "offset": 694.8,
+      "lang": "en"
+    },
+    {
+      "text": "has been doing, the vibe coding part,",
+      "duration": 4.24,
+      "offset": 696.72,
+      "lang": "en"
+    },
+    {
+      "text": "building apps. But now, it&#39;s become",
+      "duration": 4.0,
+      "offset": 698.88,
+      "lang": "en"
+    },
+    {
+      "text": "something more, a complete end-to-end",
+      "duration": 4.08,
+      "offset": 700.96,
+      "lang": "en"
+    },
+    {
+      "text": "assistant. What I&#39;m about to show you,",
+      "duration": 4.04,
+      "offset": 702.88,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t have to switch to any other",
+      "duration": 4.12,
+      "offset": 705.04,
+      "lang": "en"
+    },
+    {
+      "text": "platform. You can do it all within",
+      "duration": 4.8,
+      "offset": 706.92,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable itself. Now, everybody thinks",
+      "duration": 4.28,
+      "offset": 709.16,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable is just a place where you can",
+      "duration": 3.88,
+      "offset": 711.72,
+      "lang": "en"
+    },
+    {
+      "text": "build websites and software, but it has",
+      "duration": 4.2,
+      "offset": 713.44,
+      "lang": "en"
+    },
+    {
+      "text": "become much more than that. Let me show",
+      "duration": 4.2,
+      "offset": 715.6,
+      "lang": "en"
+    },
+    {
+      "text": "you. Now, I&#39;m going to teach you how to",
+      "duration": 4.36,
+      "offset": 717.64,
+      "lang": "en"
+    },
+    {
+      "text": "use Lovable to build a proper PowerPoint",
+      "duration": 3.96,
+      "offset": 719.8,
+      "lang": "en"
+    },
+    {
+      "text": "presentation, a pitch [music] deck in",
+      "duration": 4.0,
+      "offset": 722.0,
+      "lang": "en"
+    },
+    {
+      "text": "minutes. Back on the Lovable dashboard.",
+      "duration": 4.2,
+      "offset": 723.76,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s enter the prompt, create a pitch",
+      "duration": 4.2,
+      "offset": 726.0,
+      "lang": "en"
+    },
+    {
+      "text": "deck for my AI-powered client management",
+      "duration": 4.44,
+      "offset": 727.96,
+      "lang": "en"
+    },
+    {
+      "text": "app. [music] Include problem slide,",
+      "duration": 4.12,
+      "offset": 730.2,
+      "lang": "en"
+    },
+    {
+      "text": "freelancers lose deals because they",
+      "duration": 4.6,
+      "offset": 732.4,
+      "lang": "en"
+    },
+    {
+      "text": "forget to follow up. Solution slide, an",
+      "duration": 5.0,
+      "offset": 734.32,
+      "lang": "en"
+    },
+    {
+      "text": "AI that reads meeting notes and suggests",
+      "duration": 4.48,
+      "offset": 737.0,
+      "lang": "en"
+    },
+    {
+      "text": "specific next actions. Product demo",
+      "duration": 4.16,
+      "offset": 739.32,
+      "lang": "en"
+    },
+    {
+      "text": "slide with screenshots from the app we",
+      "duration": 3.92,
+      "offset": 741.48,
+      "lang": "en"
+    },
+    {
+      "text": "just built. Target market, [music]",
+      "duration": 4.08,
+      "offset": 743.48,
+      "lang": "en"
+    },
+    {
+      "text": "freelancers, consultants, small",
+      "duration": 4.64,
+      "offset": 745.4,
+      "lang": "en"
+    },
+    {
+      "text": "agencies, 60 million plus globally.",
+      "duration": 5.0,
+      "offset": 747.56,
+      "lang": "en"
+    },
+    {
+      "text": "Business model, free for up to 50",
+      "duration": 5.92,
+      "offset": 750.04,
+      "lang": "en"
+    },
+    {
+      "text": "contacts, 1,500 rupees per month for",
+      "duration": 6.56,
+      "offset": 752.56,
+      "lang": "en"
+    },
+    {
+      "text": "unlimited. Traction/vision slide, call",
+      "duration": 5.56,
+      "offset": 755.96,
+      "lang": "en"
+    },
+    {
+      "text": "to action for investors. [music] And let",
+      "duration": 4.72,
+      "offset": 759.12,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable do its work. It asked what",
+      "duration": 4.88,
+      "offset": 761.52,
+      "lang": "en"
+    },
+    {
+      "text": "format, web-based slides, PowerPoint, or",
+      "duration": 4.24,
+      "offset": 763.84,
+      "lang": "en"
+    },
+    {
+      "text": "interactive web app. I&#39;ll go with",
+      "duration": 3.36,
+      "offset": 766.4,
+      "lang": "en"
+    },
+    {
+      "text": "PowerPoint because that&#39;s what you&#39;d",
+      "duration": 4.08,
+      "offset": 768.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually open and present in a meeting,",
+      "duration": 4.84,
+      "offset": 769.76,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what most of us use. Title slide,",
+      "duration": 5.2,
+      "offset": 772.16,
+      "lang": "en"
+    },
+    {
+      "text": "VizDeal&#39;s AI-powered client management.",
+      "duration": 4.16,
+      "offset": 774.6,
+      "lang": "en"
+    },
+    {
+      "text": "Then, the problem [music] slide,",
+      "duration": 3.88,
+      "offset": 777.36,
+      "lang": "en"
+    },
+    {
+      "text": "solution, target market with the 60",
+      "duration": 4.8,
+      "offset": 778.76,
+      "lang": "en"
+    },
+    {
+      "text": "million number, business model with the",
+      "duration": 4.72,
+      "offset": 781.24,
+      "lang": "en"
+    },
+    {
+      "text": "pricing tiers. And look at the product",
+      "duration": 5.0,
+      "offset": 783.56,
+      "lang": "en"
+    },
+    {
+      "text": "demo slide. Those are actual screenshots",
+      "duration": 5.04,
+      "offset": 785.96,
+      "lang": "en"
+    },
+    {
+      "text": "from the app we built 10 minutes ago.",
+      "duration": 4.16,
+      "offset": 788.56,
+      "lang": "en"
+    },
+    {
+      "text": "You don&#39;t have to do anything manually.",
+      "duration": 3.48,
+      "offset": 791.0,
+      "lang": "en"
+    },
+    {
+      "text": "The same tool built the product, took",
+      "duration": 3.6,
+      "offset": 792.72,
+      "lang": "en"
+    },
+    {
+      "text": "its own screenshots, and put them in the",
+      "duration": 3.68,
+      "offset": 794.48,
+      "lang": "en"
+    },
+    {
+      "text": "investor pitch. That&#39;s a downloadable",
+      "duration": 3.12,
+      "offset": 796.32,
+      "lang": "en"
+    },
+    {
+      "text": "PowerPoint, which you can actually",
+      "duration": 3.72,
+      "offset": 798.16,
+      "lang": "en"
+    },
+    {
+      "text": "present to investors as a pitch deck. I",
+      "duration": 4.64,
+      "offset": 799.44,
+      "lang": "en"
+    },
+    {
+      "text": "can open this, tweak a couple of slides,",
+      "duration": 3.84,
+      "offset": 801.88,
+      "lang": "en"
+    },
+    {
+      "text": "and actually present it tomorrow, or",
+      "duration": 3.72,
+      "offset": 804.08,
+      "lang": "en"
+    },
+    {
+      "text": "just share the file directly. And it",
+      "duration": 4.04,
+      "offset": 805.72,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t stop at presentations. You can",
+      "duration": 4.88,
+      "offset": 807.8,
+      "lang": "en"
+    },
+    {
+      "text": "build documents, PDFs, PPTs. Lovable has",
+      "duration": 5.16,
+      "offset": 809.76,
+      "lang": "en"
+    },
+    {
+      "text": "basically become a multi-format tool.",
+      "duration": 3.8,
+      "offset": 812.68,
+      "lang": "en"
+    },
+    {
+      "text": "Let me show you. Next, [music] a",
+      "duration": 3.76,
+      "offset": 814.92,
+      "lang": "en"
+    },
+    {
+      "text": "one-page product summary to send after a",
+      "duration": 4.56,
+      "offset": 816.48,
+      "lang": "en"
+    },
+    {
+      "text": "demo call. Write me a one-page product",
+      "duration": 4.56,
+      "offset": 818.68,
+      "lang": "en"
+    },
+    {
+      "text": "summary I can send after a demo call.",
+      "duration": 4.72,
+      "offset": 821.04,
+      "lang": "en"
+    },
+    {
+      "text": "Include key features, pricing, free tier",
+      "duration": 5.68,
+      "offset": 823.24,
+      "lang": "en"
+    },
+    {
+      "text": "plus 1,500 rupees per month pro plan, AI",
+      "duration": 5.04,
+      "offset": 825.76,
+      "lang": "en"
+    },
+    {
+      "text": "capability, [music] and sign up link.",
+      "duration": 4.68,
+      "offset": 828.92,
+      "lang": "en"
+    },
+    {
+      "text": "Format as a clean, professional PDF. And",
+      "duration": 4.48,
+      "offset": 830.8,
+      "lang": "en"
+    },
+    {
+      "text": "there it [music] is, the complete",
+      "duration": 4.24,
+      "offset": 833.6,
+      "lang": "en"
+    },
+    {
+      "text": "product summary. One page, features, AI",
+      "duration": 4.8,
+      "offset": 835.28,
+      "lang": "en"
+    },
+    {
+      "text": "assistant section, pricing, sign up",
+      "duration": 5.0,
+      "offset": 837.84,
+      "lang": "en"
+    },
+    {
+      "text": "link. Download it and ship it to whoever",
+      "duration": 4.64,
+      "offset": 840.08,
+      "lang": "en"
+    },
+    {
+      "text": "you had the meeting with. Now, for the",
+      "duration": 3.72,
+      "offset": 842.84,
+      "lang": "en"
+    },
+    {
+      "text": "marketing part. Let&#39;s say you want to",
+      "duration": 3.76,
+      "offset": 844.72,
+      "lang": "en"
+    },
+    {
+      "text": "announce this product on LinkedIn. You",
+      "duration": 3.96,
+      "offset": 846.56,
+      "lang": "en"
+    },
+    {
+      "text": "need posts, different angles, different",
+      "duration": 4.34,
+      "offset": 848.48,
+      "lang": "en"
+    },
+    {
+      "text": "hooks. So, let&#39;s write. Write five",
+      "duration": 4.28,
+      "offset": 850.52,
+      "lang": "en"
+    },
+    {
+      "text": "[music] LinkedIn post ideas to announce",
+      "duration": 4.42,
+      "offset": 852.82,
+      "lang": "en"
+    },
+    {
+      "text": "the launch of my AI-powered freelancer",
+      "duration": 4.68,
+      "offset": 854.8,
+      "lang": "en"
+    },
+    {
+      "text": "CRM app. Each post should have a",
+      "duration": 4.28,
+      "offset": 857.24,
+      "lang": "en"
+    },
+    {
+      "text": "different angle and a specific hook.",
+      "duration": 5.28,
+      "offset": 859.48,
+      "lang": "en"
+    },
+    {
+      "text": "One, personal story. Two, built in 30",
+      "duration": 5.0,
+      "offset": 861.52,
+      "lang": "en"
+    },
+    {
+      "text": "minutes angle. Three, [music]",
+      "duration": 5.48,
+      "offset": 864.76,
+      "lang": "en"
+    },
+    {
+      "text": "data angle. Four, hot take. Five, day in",
+      "duration": 6.44,
+      "offset": 866.52,
+      "lang": "en"
+    },
+    {
+      "text": "my life. Five formatted posts, each with",
+      "duration": 5.0,
+      "offset": 870.24,
+      "lang": "en"
+    },
+    {
+      "text": "a different angle. The personal story",
+      "duration": 3.68,
+      "offset": 872.96,
+      "lang": "en"
+    },
+    {
+      "text": "one talks [music] about building a",
+      "duration": 3.68,
+      "offset": 875.24,
+      "lang": "en"
+    },
+    {
+      "text": "product in an afternoon. The built in 30",
+      "duration": 4.72,
+      "offset": 876.64,
+      "lang": "en"
+    },
+    {
+      "text": "minutes angle is about speed. The data",
+      "duration": 4.8,
+      "offset": 878.92,
+      "lang": "en"
+    },
+    {
+      "text": "angle uses numbers. The hot take is",
+      "duration": 4.32,
+      "offset": 881.36,
+      "lang": "en"
+    },
+    {
+      "text": "about why small teams don&#39;t need",
+      "duration": 4.2,
+      "offset": 883.72,
+      "lang": "en"
+    },
+    {
+      "text": "enterprise software anymore. And the day",
+      "duration": 4.12,
+      "offset": 885.68,
+      "lang": "en"
+    },
+    {
+      "text": "in my life one walks through the whole",
+      "duration": 4.76,
+      "offset": 887.92,
+      "lang": "en"
+    },
+    {
+      "text": "journey. Each one has a hook, a body,",
+      "duration": 5.92,
+      "offset": 889.8,
+      "lang": "en"
+    },
+    {
+      "text": "and a CTA. Ready to copy, tweak, and",
+      "duration": 4.8,
+      "offset": 892.68,
+      "lang": "en"
+    },
+    {
+      "text": "post. So, you don&#39;t have to switch to",
+      "duration": 3.48,
+      "offset": 895.72,
+      "lang": "en"
+    },
+    {
+      "text": "any other platform for this. Your",
+      "duration": 3.76,
+      "offset": 897.48,
+      "lang": "en"
+    },
+    {
+      "text": "marketing content comes from the same",
+      "duration": 4.28,
+      "offset": 899.2,
+      "lang": "en"
+    },
+    {
+      "text": "place you built the product. And then,",
+      "duration": 3.96,
+      "offset": 901.24,
+      "lang": "en"
+    },
+    {
+      "text": "there are connectors. If I click view",
+      "duration": 3.48,
+      "offset": 903.48,
+      "lang": "en"
+    },
+    {
+      "text": "all, I&#39;ve got all of these connectors",
+      "duration": 3.88,
+      "offset": 905.2,
+      "lang": "en"
+    },
+    {
+      "text": "available. GitHub and A 10 for",
+      "duration": 4.76,
+      "offset": 906.96,
+      "lang": "en"
+    },
+    {
+      "text": "automation, Stripe for payments, Notion,",
+      "duration": 5.31,
+      "offset": 909.08,
+      "lang": "en"
+    },
+    {
+      "text": "Shopify, Miro for boards and diagrams.",
+      "duration": 4.04,
+      "offset": 911.72,
+      "lang": "en"
+    },
+    {
+      "text": "[music] And here&#39;s one that&#39;s really",
+      "duration": 3.73,
+      "offset": 914.39,
+      "lang": "en"
+    },
+    {
+      "text": "smart, Granola. That&#39;s a meeting notes",
+      "duration": 4.64,
+      "offset": 915.76,
+      "lang": "en"
+    },
+    {
+      "text": "tool. So, suppose you&#39;re building this",
+      "duration": 4.4,
+      "offset": 918.12,
+      "lang": "en"
+    },
+    {
+      "text": "for a client, your client has a meeting,",
+      "duration": 4.4,
+      "offset": 920.4,
+      "lang": "en"
+    },
+    {
+      "text": "Granola captures the notes, and Lovable",
+      "duration": 4.12,
+      "offset": 922.52,
+      "lang": "en"
+    },
+    {
+      "text": "can pull those notes in as feature",
+      "duration": 3.72,
+      "offset": 924.8,
+      "lang": "en"
+    },
+    {
+      "text": "requests, and you can automatically",
+      "duration": 4.0,
+      "offset": 926.64,
+      "lang": "en"
+    },
+    {
+      "text": "start building what the client asked for",
+      "duration": 4.36,
+      "offset": 928.52,
+      "lang": "en"
+    },
+    {
+      "text": "right within Lovable. Everything from",
+      "duration": 4.28,
+      "offset": 930.64,
+      "lang": "en"
+    },
+    {
+      "text": "building the application to doing all",
+      "duration": 4.16,
+      "offset": 932.88,
+      "lang": "en"
+    },
+    {
+      "text": "the launch-related activities happens",
+      "duration": 4.16,
+      "offset": 934.92,
+      "lang": "en"
+    },
+    {
+      "text": "within a single platform without leaving",
+      "duration": 4.16,
+      "offset": 937.04,
+      "lang": "en"
+    },
+    {
+      "text": "your screen. The full prompt sheet for",
+      "duration": 3.64,
+      "offset": 939.08,
+      "lang": "en"
+    },
+    {
+      "text": "everything I built today is in the",
+      "duration": 3.68,
+      "offset": 941.2,
+      "lang": "en"
+    },
+    {
+      "text": "WhatsApp group. Links in the description",
+      "duration": 4.04,
+      "offset": 942.72,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to build along. Now, here&#39;s",
+      "duration": 3.6,
+      "offset": 944.88,
+      "lang": "en"
+    },
+    {
+      "text": "what I want you to do. Go on Lovable",
+      "duration": 4.08,
+      "offset": 946.76,
+      "lang": "en"
+    },
+    {
+      "text": "right now and build a small app. Not a",
+      "duration": 4.68,
+      "offset": 948.48,
+      "lang": "en"
+    },
+    {
+      "text": "big idea, a small one. Something simple,",
+      "duration": 3.88,
+      "offset": 950.84,
+      "lang": "en"
+    },
+    {
+      "text": "something you&#39;ve been thinking about.",
+      "duration": 3.56,
+      "offset": 953.16,
+      "lang": "en"
+    },
+    {
+      "text": "And then, comment below which app you&#39;re",
+      "duration": 3.32,
+      "offset": 954.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to build. If you have any",
+      "duration": 2.96,
+      "offset": 956.72,
+      "lang": "en"
+    },
+    {
+      "text": "questions while building, ask me in the",
+      "duration": 3.72,
+      "offset": 958.04,
+      "lang": "en"
+    },
+    {
+      "text": "comments. I will help you out there.",
+      "duration": 4.08,
+      "offset": 959.68,
+      "lang": "en"
+    },
+    {
+      "text": "Because here&#39;s the truth. If you keep",
+      "duration": 3.88,
+      "offset": 961.76,
+      "lang": "en"
+    },
+    {
+      "text": "thinking and you don&#39;t move and build,",
+      "duration": 3.68,
+      "offset": 963.76,
+      "lang": "en"
+    },
+    {
+      "text": "you will never build at all. Don&#39;t",
+      "duration": 4.28,
+      "offset": 965.64,
+      "lang": "en"
+    },
+    {
+      "text": "overthink it. Just take the action.",
+      "duration": 4.44,
+      "offset": 967.44,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s the first thing. Second thing,",
+      "duration": 4.36,
+      "offset": 969.92,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable keeps adding more features every",
+      "duration": 4.64,
+      "offset": 971.88,
+      "lang": "en"
+    },
+    {
+      "text": "single week, and that is exactly what I",
+      "duration": 4.64,
+      "offset": 974.28,
+      "lang": "en"
+    },
+    {
+      "text": "cover in my weekly update series. So, if",
+      "duration": 4.16,
+      "offset": 976.52,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t want to miss anything, click",
+      "duration": 3.76,
+      "offset": 978.92,
+      "lang": "en"
+    },
+    {
+      "text": "on this playlist right here and keep",
+      "duration": 4.44,
+      "offset": 980.68,
+      "lang": "en"
+    },
+    {
+      "text": "watching the weekly updates. Subscribe",
+      "duration": 4.24,
+      "offset": 982.68,
+      "lang": "en"
+    },
+    {
+      "text": "so YouTube actually shows you the next",
+      "duration": 4.8,
+      "offset": 985.12,
+      "lang": "en"
+    },
+    {
+      "text": "one. See you there.",
+      "duration": 3.0,
+      "offset": 986.92,
+      "lang": "en"
+    }
+  ]
+}

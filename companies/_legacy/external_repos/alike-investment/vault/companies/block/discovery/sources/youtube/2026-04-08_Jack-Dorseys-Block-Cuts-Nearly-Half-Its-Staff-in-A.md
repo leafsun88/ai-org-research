@@ -1,0 +1,22 @@
+---
+ticker: XYZ
+type: youtube
+title: "Jack Dorsey's Block Cuts Nearly Half Its Staff in AI Bet"
+channel: "Bloomberg Podcasts"
+date: 2026-04-08
+url: https://www.youtube.com/watch?v=eml2imnhwZg
+transcript_method: yt-dlp_subtitle
+language: en
+chars: 3990
+---
+
+# Jack Dorsey's Block Cuts Nearly Half Its Staff in AI Bet
+
+## 视频信息
+- **频道**: Bloomberg Podcasts
+- **日期**: 2026-04-08
+- **链接**: https://www.youtube.com/watch?v=eml2imnhwZg
+
+## 转录全文
+
+block has invested in kind of their internal AI tools. So like goose is one of the things that they're really touting. &gt;&gt; Is it run on is it run on do we know if it's run on anthropic or open AI or is it it's &gt;&gt; they haven't shared that. Um they haven't shared. Yeah, I imagine what they're doing which is what a lot of companies is doing is probably plugging it into whatever works best for the moment and like constantly re-evaluating that. Um but Jack is a technologist, right? So he clearly has a thesis about how he can build the best products and he thinks that he can do it with fewer people leaning on on tools like Goose. So, does this mean that he's already been playing around with it and he's seeing the impact and so he's just saying I can let go of these folks? &gt;&gt; Absolutely. He's definitely like hands-on using it and and he must think that he can make this work. And I think one of the things that they're trying to communicate at this moment, which you can take with a grain of salt, as you always have to, is that this is kind of coming from a position of strength. Like they're really proud of their financial performance. &gt;&gt; Well, what's interesting too though, I mean, this is a stock that's down 80% since August of 2021. So, it's been under pressure, right, to do something. Um, is this enough in terms of cost cutting to keep this company going forward amid, it's safe to say, an environment that has changed a lot? &gt;&gt; They've made a ton of changes. I think one of the concerns that um, people watching them had was like they weren't shipping fast enough. Like their products were kind of evolving like more slowly than people would have liked. Um, so they've made a ton of changes like they've reorganized like how people report up in the business. They've kind of done rolling layoffs. Some of them were tied to performance reviews. Um, and then they're coming out with a really bold move. And I think I'm hoping that they don't have to let any other people go because it's never great when a company has to let people go. Um, but but we'll see if this is enough. &gt;&gt; And and as far as who is affected by the these layoffs, um, again, I mean, we're talking about human beings here, right? Like getting laid off is uh not great. Um, and you know, people being out of work is is obviously a challenge for those people. Are they people who are also technologists? Are they programmers whose jobs can be done with LLMs? Who do we know who they are? Is it across the organization? &gt;&gt; I would expect that it's likely across the organization, but I am waiting to get more details on the earnings call. I I mean I don't know what you found in in in your reporting Emily but for for me seeing this headline reading your story and thinking well if this is successful for block and you know Mandep made the point um of deep saying at Bloomer Intelligence he was on our he made the point that hey look at what Elon Musk did at X when he bought it formerly Twitter Jack Dorsey company he said it was the engineering team was over was bloated uh he cut you know 70% of its workforce or whatever and um it's still around. The site is still around. Say about it, you know, say what you will about it and look at the ad revenue and whatever, but it's a it's a private company now, so we don't have those details. But if this works for for Block, does that mean that other companies are going to do this? &gt;&gt; I mean, that's certainly their thesis. Like they are kind of saying like we think other companies are going to have to do this and we would rather do it proactively and on our own terms instead of waiting for a moment where we have to. Um you know, maybe other companies do I think you've seen some companies implement like caps. Like they'd be like, "Okay, we're not going to hire more people. We can do a lot more with the people we already have." Um, I think cutting such a significant amount of people is a pretty dramatic

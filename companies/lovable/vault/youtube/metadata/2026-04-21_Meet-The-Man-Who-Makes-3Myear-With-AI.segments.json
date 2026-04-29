@@ -1,0 +1,2061 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "tSKHHb0s7X4",
+  "url": "https://www.youtube.com/watch?v=tSKHHb0s7X4",
+  "title": "Meet The Man Who Makes $3M/year With AI",
+  "channel": "Lovable",
+  "source_queries": [
+    "Lovable Agent interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:18:56",
+  "segments": [
+    {
+      "text": "So, how much do you make?",
+      "duration": 2.72,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; We do about a4 million dollars a month",
+      "duration": 2.0,
+      "offset": 1.2,
+      "lang": "en"
+    },
+    {
+      "text": "right now.",
+      "duration": 1.28,
+      "offset": 2.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And how old are you?",
+      "duration": 1.44,
+      "offset": 3.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; 22.",
+      "duration": 1.36,
+      "offset": 4.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And what do you do?",
+      "duration": 3.36,
+      "offset": 4.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I run the largest lovable agency in the",
+      "duration": 4.56,
+      "offset": 5.44,
+      "lang": "en"
+    },
+    {
+      "text": "world. So, we build products on Lovable",
+      "duration": 3.68,
+      "offset": 8.0,
+      "lang": "en"
+    },
+    {
+      "text": "for clients, for startups, for",
+      "duration": 3.28,
+      "offset": 10.0,
+      "lang": "en"
+    },
+    {
+      "text": "enterprises, etc.",
+      "duration": 4.24,
+      "offset": 11.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, Jacob, what was the first service or",
+      "duration": 3.52,
+      "offset": 13.28,
+      "lang": "en"
+    },
+    {
+      "text": "thing you built?",
+      "duration": 3.44,
+      "offset": 15.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The first thing we ever built was a",
+      "duration": 4.96,
+      "offset": 16.8,
+      "lang": "en"
+    },
+    {
+      "text": "digital platform for like a karate",
+      "duration": 4.88,
+      "offset": 19.36,
+      "lang": "en"
+    },
+    {
+      "text": "studio. So, it was like during CO and uh",
+      "duration": 4.32,
+      "offset": 21.76,
+      "lang": "en"
+    },
+    {
+      "text": "obviously all the businesses went, you",
+      "duration": 4.16,
+      "offset": 24.24,
+      "lang": "en"
+    },
+    {
+      "text": "know, had to go digital. We had this one",
+      "duration": 4.72,
+      "offset": 26.08,
+      "lang": "en"
+    },
+    {
+      "text": "kind of local karate studio that wanted",
+      "duration": 4.16,
+      "offset": 28.4,
+      "lang": "en"
+    },
+    {
+      "text": "to build like a platform, think like",
+      "duration": 4.0,
+      "offset": 30.8,
+      "lang": "en"
+    },
+    {
+      "text": "Pelaton like platform, right, for their",
+      "duration": 4.8,
+      "offset": 32.56,
+      "lang": "en"
+    },
+    {
+      "text": "students. And so we used uh you know, no",
+      "duration": 4.4,
+      "offset": 34.8,
+      "lang": "en"
+    },
+    {
+      "text": "code at the time to to build it. And",
+      "duration": 3.6,
+      "offset": 37.36,
+      "lang": "en"
+    },
+    {
+      "text": "that was like my first moment of like",
+      "duration": 3.36,
+      "offset": 39.2,
+      "lang": "en"
+    },
+    {
+      "text": "interesting like you can actually like",
+      "duration": 3.6,
+      "offset": 40.96,
+      "lang": "en"
+    },
+    {
+      "text": "get paid to build software, which is",
+      "duration": 4.4,
+      "offset": 42.56,
+      "lang": "en"
+    },
+    {
+      "text": "like obviously a pretty normal idea now,",
+      "duration": 4.24,
+      "offset": 44.56,
+      "lang": "en"
+    },
+    {
+      "text": "but I think as a 17-year-old at the",
+      "duration": 3.6,
+      "offset": 46.96,
+      "lang": "en"
+    },
+    {
+      "text": "time, it was pretty it was pretty cool.",
+      "duration": 4.24,
+      "offset": 48.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So you began building stuff and creating",
+      "duration": 4.32,
+      "offset": 50.56,
+      "lang": "en"
+    },
+    {
+      "text": "platforms for various businesses. When",
+      "duration": 3.68,
+      "offset": 53.04,
+      "lang": "en"
+    },
+    {
+      "text": "did you realize that, oh like this",
+      "duration": 3.68,
+      "offset": 54.88,
+      "lang": "en"
+    },
+    {
+      "text": "is I can I can do this full time?",
+      "duration": 4.0,
+      "offset": 56.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I would say probably like 6 months later",
+      "duration": 4.0,
+      "offset": 58.56,
+      "lang": "en"
+    },
+    {
+      "text": "was like the moment of like, okay, let&#39;s",
+      "duration": 3.52,
+      "offset": 60.72,
+      "lang": "en"
+    },
+    {
+      "text": "actually double down on building",
+      "duration": 3.2,
+      "offset": 62.56,
+      "lang": "en"
+    },
+    {
+      "text": "products exclusively. And then we",
+      "duration": 3.52,
+      "offset": 64.24,
+      "lang": "en"
+    },
+    {
+      "text": "started kind of putting together a small",
+      "duration": 4.16,
+      "offset": 65.76,
+      "lang": "en"
+    },
+    {
+      "text": "team, hired a sales guy, hired some",
+      "duration": 4.48,
+      "offset": 67.76,
+      "lang": "en"
+    },
+    {
+      "text": "developers, hired some designers, etc. I",
+      "duration": 4.32,
+      "offset": 69.92,
+      "lang": "en"
+    },
+    {
+      "text": "would say by like 2021, we were like",
+      "duration": 4.08,
+      "offset": 72.24,
+      "lang": "en"
+    },
+    {
+      "text": "fully, you know, up and running as like",
+      "duration": 3.76,
+      "offset": 74.24,
+      "lang": "en"
+    },
+    {
+      "text": "a no code product studio. I think the",
+      "duration": 3.04,
+      "offset": 76.32,
+      "lang": "en"
+    },
+    {
+      "text": "funny thing about this whole thing is",
+      "duration": 3.84,
+      "offset": 78.0,
+      "lang": "en"
+    },
+    {
+      "text": "like I&#39;ve just ridden the wave of being",
+      "duration": 4.88,
+      "offset": 79.36,
+      "lang": "en"
+    },
+    {
+      "text": "non-technical. I&#39;m like the like golden",
+      "duration": 4.32,
+      "offset": 81.84,
+      "lang": "en"
+    },
+    {
+      "text": "example of like somebody that like has",
+      "duration": 3.52,
+      "offset": 84.24,
+      "lang": "en"
+    },
+    {
+      "text": "made a career for themselves in tech and",
+      "duration": 3.04,
+      "offset": 86.16,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not technical you know obviously I",
+      "duration": 3.04,
+      "offset": 87.76,
+      "lang": "en"
+    },
+    {
+      "text": "have like a baseline knowledge to be",
+      "duration": 3.6,
+      "offset": 89.2,
+      "lang": "en"
+    },
+    {
+      "text": "able to communicate with developers and",
+      "duration": 4.56,
+      "offset": 90.8,
+      "lang": "en"
+    },
+    {
+      "text": "stuff like that but I can&#39;t code like I",
+      "duration": 4.48,
+      "offset": 92.8,
+      "lang": "en"
+    },
+    {
+      "text": "would not be able to build like an app.",
+      "duration": 4.0,
+      "offset": 95.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So before lovable uh you were using",
+      "duration": 4.08,
+      "offset": 97.28,
+      "lang": "en"
+    },
+    {
+      "text": "other no code platforms but when did you",
+      "duration": 3.6,
+      "offset": 99.36,
+      "lang": "en"
+    },
+    {
+      "text": "decide to make the switch and what was",
+      "duration": 3.28,
+      "offset": 101.36,
+      "lang": "en"
+    },
+    {
+      "text": "the reasoning behind it and how did that",
+      "duration": 3.52,
+      "offset": 102.96,
+      "lang": "en"
+    },
+    {
+      "text": "kind of look like? Yeah. So before",
+      "duration": 3.92,
+      "offset": 104.64,
+      "lang": "en"
+    },
+    {
+      "text": "lovable, we were you using no code tools",
+      "duration": 5.04,
+      "offset": 106.48,
+      "lang": "en"
+    },
+    {
+      "text": "and um basically I got a text from a",
+      "duration": 4.48,
+      "offset": 108.56,
+      "lang": "en"
+    },
+    {
+      "text": "friend recommending me to check out",
+      "duration": 3.6,
+      "offset": 111.52,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable one night. Kind of skeptical at",
+      "duration": 4.0,
+      "offset": 113.04,
+      "lang": "en"
+    },
+    {
+      "text": "first. I&#39;ve heard of these AI tools and",
+      "duration": 3.28,
+      "offset": 115.12,
+      "lang": "en"
+    },
+    {
+      "text": "most of them I tried that weren&#39;t very",
+      "duration": 2.56,
+      "offset": 117.04,
+      "lang": "en"
+    },
+    {
+      "text": "good. But when I started playing around",
+      "duration": 2.64,
+      "offset": 118.4,
+      "lang": "en"
+    },
+    {
+      "text": "with lovable probably a couple days",
+      "duration": 3.28,
+      "offset": 119.6,
+      "lang": "en"
+    },
+    {
+      "text": "later I tried starting to build like a",
+      "duration": 3.68,
+      "offset": 121.04,
+      "lang": "en"
+    },
+    {
+      "text": "develop like a project for a client. I",
+      "duration": 3.76,
+      "offset": 122.88,
+      "lang": "en"
+    },
+    {
+      "text": "was just so impressed. Like it it was",
+      "duration": 3.44,
+      "offset": 124.72,
+      "lang": "en"
+    },
+    {
+      "text": "just immediately was like holy this",
+      "duration": 3.12,
+      "offset": 126.64,
+      "lang": "en"
+    },
+    {
+      "text": "is clearly different. And I was able to",
+      "duration": 3.6,
+      "offset": 128.16,
+      "lang": "en"
+    },
+    {
+      "text": "build that like client project just",
+      "duration": 4.0,
+      "offset": 129.76,
+      "lang": "en"
+    },
+    {
+      "text": "sitting there in in like the next like 2",
+      "duration": 4.0,
+      "offset": 131.76,
+      "lang": "en"
+    },
+    {
+      "text": "3 hours. a project that would have taken",
+      "duration": 3.92,
+      "offset": 133.76,
+      "lang": "en"
+    },
+    {
+      "text": "months, you know, and that we charged",
+      "duration": 4.08,
+      "offset": 135.76,
+      "lang": "en"
+    },
+    {
+      "text": "probably $50,000 for. And I was like,",
+      "duration": 4.32,
+      "offset": 137.68,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Shit, well, this is going to change",
+      "duration": 4.08,
+      "offset": 139.84,
+      "lang": "en"
+    },
+    {
+      "text": "everything.&quot; So, basically the next day,",
+      "duration": 3.68,
+      "offset": 142.0,
+      "lang": "en"
+    },
+    {
+      "text": "we got everybody in the conference room",
+      "duration": 3.52,
+      "offset": 143.92,
+      "lang": "en"
+    },
+    {
+      "text": "and on the team and uh we just",
+      "duration": 3.44,
+      "offset": 145.68,
+      "lang": "en"
+    },
+    {
+      "text": "brainstormed on how to kind of pivot the",
+      "duration": 2.08,
+      "offset": 147.44,
+      "lang": "en"
+    },
+    {
+      "text": "company",
+      "duration": 2.0,
+      "offset": 149.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; eventually. I I assume you had to like",
+      "duration": 4.0,
+      "offset": 149.52,
+      "lang": "en"
+    },
+    {
+      "text": "bring in more people and scale up. I&#39;m",
+      "duration": 3.6,
+      "offset": 151.12,
+      "lang": "en"
+    },
+    {
+      "text": "wondering how was that? How was it",
+      "duration": 2.88,
+      "offset": 153.52,
+      "lang": "en"
+    },
+    {
+      "text": "scaling up the agency and getting more",
+      "duration": 3.04,
+      "offset": 154.72,
+      "lang": "en"
+    },
+    {
+      "text": "customers? I mean at the beginning it",
+      "duration": 2.8,
+      "offset": 156.4,
+      "lang": "en"
+    },
+    {
+      "text": "was a lot of just honestly just using",
+      "duration": 3.68,
+      "offset": 157.76,
+      "lang": "en"
+    },
+    {
+      "text": "like contractors hiring people on a",
+      "duration": 4.48,
+      "offset": 159.2,
+      "lang": "en"
+    },
+    {
+      "text": "project basis because the thing is like",
+      "duration": 4.16,
+      "offset": 161.44,
+      "lang": "en"
+    },
+    {
+      "text": "with agencies the best thing about the",
+      "duration": 3.68,
+      "offset": 163.68,
+      "lang": "en"
+    },
+    {
+      "text": "business model is that it&#39;s a positive",
+      "duration": 3.84,
+      "offset": 165.6,
+      "lang": "en"
+    },
+    {
+      "text": "cash flow cycle meaning that you can",
+      "duration": 4.24,
+      "offset": 167.36,
+      "lang": "en"
+    },
+    {
+      "text": "take in money before you actually spend",
+      "duration": 3.36,
+      "offset": 169.44,
+      "lang": "en"
+    },
+    {
+      "text": "the money. It&#39;s one of the few",
+      "duration": 3.52,
+      "offset": 171.6,
+      "lang": "en"
+    },
+    {
+      "text": "businesses that is like that. So",
+      "duration": 3.92,
+      "offset": 172.8,
+      "lang": "en"
+    },
+    {
+      "text": "basically in the early days I was able",
+      "duration": 3.36,
+      "offset": 175.12,
+      "lang": "en"
+    },
+    {
+      "text": "to like collect money and then go give",
+      "duration": 3.52,
+      "offset": 176.72,
+      "lang": "en"
+    },
+    {
+      "text": "it to developers. Obviously now that&#39;s",
+      "duration": 3.2,
+      "offset": 178.48,
+      "lang": "en"
+    },
+    {
+      "text": "not what it is. Kind of more of a",
+      "duration": 3.2,
+      "offset": 180.24,
+      "lang": "en"
+    },
+    {
+      "text": "negative cash flow cycle or more of a",
+      "duration": 3.28,
+      "offset": 181.68,
+      "lang": "en"
+    },
+    {
+      "text": "break even cash flow cycle. you know,",
+      "duration": 2.88,
+      "offset": 183.44,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re starting off, you can kind",
+      "duration": 3.2,
+      "offset": 184.96,
+      "lang": "en"
+    },
+    {
+      "text": "of leverage and be scrappy like that.",
+      "duration": 3.36,
+      "offset": 186.32,
+      "lang": "en"
+    },
+    {
+      "text": "And so that&#39;s basically what we did for",
+      "duration": 3.04,
+      "offset": 188.16,
+      "lang": "en"
+    },
+    {
+      "text": "probably the first year or so. And then",
+      "duration": 3.12,
+      "offset": 189.68,
+      "lang": "en"
+    },
+    {
+      "text": "eventually you like actually find people",
+      "duration": 3.12,
+      "offset": 191.2,
+      "lang": "en"
+    },
+    {
+      "text": "that you like working with and you you",
+      "duration": 3.36,
+      "offset": 192.8,
+      "lang": "en"
+    },
+    {
+      "text": "you kind of strike more kind of like",
+      "duration": 3.44,
+      "offset": 194.32,
+      "lang": "en"
+    },
+    {
+      "text": "retainers and you know kind of bring",
+      "duration": 4.16,
+      "offset": 196.16,
+      "lang": "en"
+    },
+    {
+      "text": "them on as more like actual full-time",
+      "duration": 4.88,
+      "offset": 197.76,
+      "lang": "en"
+    },
+    {
+      "text": "part-time people and then eventually you",
+      "duration": 4.72,
+      "offset": 200.32,
+      "lang": "en"
+    },
+    {
+      "text": "just hire them like fully you know as an",
+      "duration": 2.8,
+      "offset": 202.64,
+      "lang": "en"
+    },
+    {
+      "text": "employee.",
+      "duration": 1.92,
+      "offset": 205.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; What is your number one tip when",
+      "duration": 2.48,
+      "offset": 205.44,
+      "lang": "en"
+    },
+    {
+      "text": "building with lowable?",
+      "duration": 2.96,
+      "offset": 206.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So, I think like if I were to give",
+      "duration": 4.48,
+      "offset": 207.92,
+      "lang": "en"
+    },
+    {
+      "text": "like an answer in the next 15 seconds,",
+      "duration": 4.08,
+      "offset": 209.92,
+      "lang": "en"
+    },
+    {
+      "text": "when building with AI, the biggest",
+      "duration": 3.2,
+      "offset": 212.4,
+      "lang": "en"
+    },
+    {
+      "text": "difference between good builders and bad",
+      "duration": 3.36,
+      "offset": 214.0,
+      "lang": "en"
+    },
+    {
+      "text": "ones are the ones that know how to use",
+      "duration": 4.4,
+      "offset": 215.6,
+      "lang": "en"
+    },
+    {
+      "text": "their time and credits effectively. This",
+      "duration": 4.96,
+      "offset": 217.36,
+      "lang": "en"
+    },
+    {
+      "text": "means like knowing first off like really",
+      "duration": 3.84,
+      "offset": 220.0,
+      "lang": "en"
+    },
+    {
+      "text": "strong prompts and how to prompt, but",
+      "duration": 3.36,
+      "offset": 222.32,
+      "lang": "en"
+    },
+    {
+      "text": "also like I see people a lot like really",
+      "duration": 3.28,
+      "offset": 223.84,
+      "lang": "en"
+    },
+    {
+      "text": "like junior developers, they&#39;ll just",
+      "duration": 3.12,
+      "offset": 225.68,
+      "lang": "en"
+    },
+    {
+      "text": "like prompt something, it won&#39;t work or",
+      "duration": 3.04,
+      "offset": 227.12,
+      "lang": "en"
+    },
+    {
+      "text": "it won&#39;t work the way they want it to",
+      "duration": 2.8,
+      "offset": 228.8,
+      "lang": "en"
+    },
+    {
+      "text": "and they&#39;ll just continue like going",
+      "duration": 3.92,
+      "offset": 230.16,
+      "lang": "en"
+    },
+    {
+      "text": "down the rabbit hole. Okay. I find that",
+      "duration": 4.16,
+      "offset": 231.6,
+      "lang": "en"
+    },
+    {
+      "text": "you need to kind of act in a more like",
+      "duration": 3.52,
+      "offset": 234.08,
+      "lang": "en"
+    },
+    {
+      "text": "problem solutionoriented way where is",
+      "duration": 3.28,
+      "offset": 235.76,
+      "lang": "en"
+    },
+    {
+      "text": "like you need to make a decision like if",
+      "duration": 3.28,
+      "offset": 237.6,
+      "lang": "en"
+    },
+    {
+      "text": "you prompt something and it comes out",
+      "duration": 3.28,
+      "offset": 239.04,
+      "lang": "en"
+    },
+    {
+      "text": "with like not what you&#39;re looking for.",
+      "duration": 3.52,
+      "offset": 240.88,
+      "lang": "en"
+    },
+    {
+      "text": "You can either invest more time into",
+      "duration": 4.4,
+      "offset": 242.32,
+      "lang": "en"
+    },
+    {
+      "text": "doubling down on that problem or you can",
+      "duration": 4.16,
+      "offset": 244.4,
+      "lang": "en"
+    },
+    {
+      "text": "say okay well clearly something was",
+      "duration": 3.68,
+      "offset": 246.72,
+      "lang": "en"
+    },
+    {
+      "text": "wrong. Let&#39;s revert back to you know",
+      "duration": 3.36,
+      "offset": 248.56,
+      "lang": "en"
+    },
+    {
+      "text": "history which levelable makes really",
+      "duration": 3.6,
+      "offset": 250.4,
+      "lang": "en"
+    },
+    {
+      "text": "easy and let&#39;s try that again. Let&#39;s",
+      "duration": 3.68,
+      "offset": 251.92,
+      "lang": "en"
+    },
+    {
+      "text": "change the prompt this way and let&#39;s you",
+      "duration": 3.52,
+      "offset": 254.0,
+      "lang": "en"
+    },
+    {
+      "text": "know maybe add more here and then do it",
+      "duration": 3.52,
+      "offset": 255.6,
+      "lang": "en"
+    },
+    {
+      "text": "again. Right? Because the thing with AI",
+      "duration": 3.2,
+      "offset": 257.52,
+      "lang": "en"
+    },
+    {
+      "text": "is like once you kind of like that",
+      "duration": 2.88,
+      "offset": 259.12,
+      "lang": "en"
+    },
+    {
+      "text": "initial prompt especially when you&#39;re",
+      "duration": 2.96,
+      "offset": 260.72,
+      "lang": "en"
+    },
+    {
+      "text": "first starting a project that sets so",
+      "duration": 3.12,
+      "offset": 262.0,
+      "lang": "en"
+    },
+    {
+      "text": "much of the groundwork that&#39;s the",
+      "duration": 3.68,
+      "offset": 263.68,
+      "lang": "en"
+    },
+    {
+      "text": "difference of like saving you like days",
+      "duration": 4.4,
+      "offset": 265.12,
+      "lang": "en"
+    },
+    {
+      "text": "just just that one prompt right and so",
+      "duration": 4.08,
+      "offset": 267.36,
+      "lang": "en"
+    },
+    {
+      "text": "you take that and you if you multiply it",
+      "duration": 4.0,
+      "offset": 269.52,
+      "lang": "en"
+    },
+    {
+      "text": "by okay like a branch of prompts right",
+      "duration": 4.0,
+      "offset": 271.44,
+      "lang": "en"
+    },
+    {
+      "text": "each prompt you know is you&#39;re investing",
+      "duration": 3.52,
+      "offset": 273.52,
+      "lang": "en"
+    },
+    {
+      "text": "more and more time based on how good it",
+      "duration": 3.2,
+      "offset": 275.44,
+      "lang": "en"
+    },
+    {
+      "text": "is and so you need to really be",
+      "duration": 3.52,
+      "offset": 277.04,
+      "lang": "en"
+    },
+    {
+      "text": "strategic on okay this worked this",
+      "duration": 3.44,
+      "offset": 278.64,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t work am I going to double down so",
+      "duration": 3.04,
+      "offset": 280.56,
+      "lang": "en"
+    },
+    {
+      "text": "yeah I think that&#39;s like the biggest",
+      "duration": 3.84,
+      "offset": 282.08,
+      "lang": "en"
+    },
+    {
+      "text": "like mistake I see like people getting",
+      "duration": 3.84,
+      "offset": 283.6,
+      "lang": "en"
+    },
+    {
+      "text": "started with is like they just like get",
+      "duration": 3.36,
+      "offset": 285.92,
+      "lang": "en"
+    },
+    {
+      "text": "caught in these rabbit holes and endless",
+      "duration": 3.44,
+      "offset": 287.44,
+      "lang": "en"
+    },
+    {
+      "text": "cycles and it cost them a lot of time",
+      "duration": 3.12,
+      "offset": 289.28,
+      "lang": "en"
+    },
+    {
+      "text": "and it cost them a lot of credits.",
+      "duration": 3.36,
+      "offset": 290.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Based on all of your like friends and",
+      "duration": 3.84,
+      "offset": 292.4,
+      "lang": "en"
+    },
+    {
+      "text": "stuff and your experience with",
+      "duration": 3.6,
+      "offset": 294.24,
+      "lang": "en"
+    },
+    {
+      "text": "distributing products, what do you think",
+      "duration": 3.04,
+      "offset": 296.24,
+      "lang": "en"
+    },
+    {
+      "text": "is like the best method? Let&#39;s say",
+      "duration": 2.88,
+      "offset": 297.84,
+      "lang": "en"
+    },
+    {
+      "text": "someone builds something with lovable",
+      "duration": 2.56,
+      "offset": 299.28,
+      "lang": "en"
+    },
+    {
+      "text": "and they want to make some money with",
+      "duration": 2.88,
+      "offset": 300.72,
+      "lang": "en"
+    },
+    {
+      "text": "it. Say it&#39;s a consumer app. What do you",
+      "duration": 2.64,
+      "offset": 301.84,
+      "lang": "en"
+    },
+    {
+      "text": "think is the best strategy?",
+      "duration": 2.8,
+      "offset": 303.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I would say high level. You need to pick",
+      "duration": 4.88,
+      "offset": 304.48,
+      "lang": "en"
+    },
+    {
+      "text": "an idea that is already validated. Often",
+      "duration": 4.48,
+      "offset": 306.4,
+      "lang": "en"
+    },
+    {
+      "text": "I see people trying to come up with",
+      "duration": 3.76,
+      "offset": 309.36,
+      "lang": "en"
+    },
+    {
+      "text": "these like revolutionary ideas and like",
+      "duration": 4.88,
+      "offset": 310.88,
+      "lang": "en"
+    },
+    {
+      "text": "request NDAs before even sharing the",
+      "duration": 4.32,
+      "offset": 313.12,
+      "lang": "en"
+    },
+    {
+      "text": "idea. I just want to say right now that",
+      "duration": 4.08,
+      "offset": 315.76,
+      "lang": "en"
+    },
+    {
+      "text": "if you think your idea requires an NDA,",
+      "duration": 4.16,
+      "offset": 317.44,
+      "lang": "en"
+    },
+    {
+      "text": "you have this backwards. If your idea is",
+      "duration": 3.76,
+      "offset": 319.84,
+      "lang": "en"
+    },
+    {
+      "text": "that new and revolutionary that like",
+      "duration": 4.24,
+      "offset": 321.6,
+      "lang": "en"
+    },
+    {
+      "text": "nobody has done it before, people think",
+      "duration": 3.52,
+      "offset": 323.6,
+      "lang": "en"
+    },
+    {
+      "text": "that that&#39;s a good thing. They&#39;re like,",
+      "duration": 2.72,
+      "offset": 325.84,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Oh, no one&#39;s thought about this.&quot; I",
+      "duration": 2.88,
+      "offset": 327.12,
+      "lang": "en"
+    },
+    {
+      "text": "think out of 8 billion people, if",
+      "duration": 3.12,
+      "offset": 328.56,
+      "lang": "en"
+    },
+    {
+      "text": "nobody&#39;s tried your idea or nobody&#39;s",
+      "duration": 3.2,
+      "offset": 330.0,
+      "lang": "en"
+    },
+    {
+      "text": "thought of it, that there&#39;s probably a",
+      "duration": 3.12,
+      "offset": 331.68,
+      "lang": "en"
+    },
+    {
+      "text": "reason. People like often mistake.",
+      "duration": 3.28,
+      "offset": 333.2,
+      "lang": "en"
+    },
+    {
+      "text": "They&#39;re like, &quot;Oh, well, you know,",
+      "duration": 3.36,
+      "offset": 334.8,
+      "lang": "en"
+    },
+    {
+      "text": "nobody has tried this or built this.&quot;",
+      "duration": 3.44,
+      "offset": 336.48,
+      "lang": "en"
+    },
+    {
+      "text": "Well, it&#39;s like you don&#39;t know that.",
+      "duration": 3.84,
+      "offset": 338.16,
+      "lang": "en"
+    },
+    {
+      "text": "Maybe they tried it and it failed. So",
+      "duration": 3.44,
+      "offset": 339.92,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the first thing is that you want",
+      "duration": 4.72,
+      "offset": 342.0,
+      "lang": "en"
+    },
+    {
+      "text": "to find ideas that are already actually",
+      "duration": 4.16,
+      "offset": 343.36,
+      "lang": "en"
+    },
+    {
+      "text": "in the market.",
+      "duration": 2.24,
+      "offset": 346.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; What do you think about raising money?",
+      "duration": 3.04,
+      "offset": 347.52,
+      "lang": "en"
+    },
+    {
+      "text": "Would you raise money if you were like",
+      "duration": 3.2,
+      "offset": 348.96,
+      "lang": "en"
+    },
+    {
+      "text": "starting off again and you were to build",
+      "duration": 2.08,
+      "offset": 350.56,
+      "lang": "en"
+    },
+    {
+      "text": "an app?",
+      "duration": 2.08,
+      "offset": 352.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I think first off it really depends on",
+      "duration": 2.96,
+      "offset": 352.64,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re building. I also think it",
+      "duration": 3.12,
+      "offset": 354.24,
+      "lang": "en"
+    },
+    {
+      "text": "depends on like who you are. I think you",
+      "duration": 3.36,
+      "offset": 355.6,
+      "lang": "en"
+    },
+    {
+      "text": "got to kind of know yourself which is",
+      "duration": 3.12,
+      "offset": 357.36,
+      "lang": "en"
+    },
+    {
+      "text": "like I mean there&#39;s a lot of different",
+      "duration": 3.44,
+      "offset": 358.96,
+      "lang": "en"
+    },
+    {
+      "text": "aspects to it. One is like obviously if",
+      "duration": 3.84,
+      "offset": 360.48,
+      "lang": "en"
+    },
+    {
+      "text": "you raise money like you are you are",
+      "duration": 3.76,
+      "offset": 362.4,
+      "lang": "en"
+    },
+    {
+      "text": "basically have a boss. I don&#39;t think",
+      "duration": 3.28,
+      "offset": 364.32,
+      "lang": "en"
+    },
+    {
+      "text": "people want to say that but that is the",
+      "duration": 3.28,
+      "offset": 366.16,
+      "lang": "en"
+    },
+    {
+      "text": "truth. If you raise money you are now",
+      "duration": 3.84,
+      "offset": 367.6,
+      "lang": "en"
+    },
+    {
+      "text": "obligated to make that money back. I",
+      "duration": 3.2,
+      "offset": 369.44,
+      "lang": "en"
+    },
+    {
+      "text": "think that the first thing is like",
+      "duration": 3.52,
+      "offset": 371.44,
+      "lang": "en"
+    },
+    {
+      "text": "raising money is a really hard process.",
+      "duration": 3.68,
+      "offset": 372.64,
+      "lang": "en"
+    },
+    {
+      "text": "And so I think you need to know first",
+      "duration": 3.44,
+      "offset": 374.96,
+      "lang": "en"
+    },
+    {
+      "text": "off, do you have any like leverage?",
+      "duration": 3.84,
+      "offset": 376.32,
+      "lang": "en"
+    },
+    {
+      "text": "Whether your personal brand, whether",
+      "duration": 4.0,
+      "offset": 378.4,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re some like technical genius that",
+      "duration": 4.4,
+      "offset": 380.16,
+      "lang": "en"
+    },
+    {
+      "text": "worked at Google, whether you&#39;re some",
+      "duration": 4.16,
+      "offset": 382.4,
+      "lang": "en"
+    },
+    {
+      "text": "special ability that like will make it",
+      "duration": 4.08,
+      "offset": 384.56,
+      "lang": "en"
+    },
+    {
+      "text": "slightly easier for you to raise money.",
+      "duration": 3.76,
+      "offset": 386.56,
+      "lang": "en"
+    },
+    {
+      "text": "Okay? Do you have some track record of",
+      "duration": 3.12,
+      "offset": 388.64,
+      "lang": "en"
+    },
+    {
+      "text": "building successful businesses? If the",
+      "duration": 3.2,
+      "offset": 390.32,
+      "lang": "en"
+    },
+    {
+      "text": "answer is yes to those, I think then",
+      "duration": 3.44,
+      "offset": 391.76,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s more of a case. The answer is no",
+      "duration": 3.36,
+      "offset": 393.52,
+      "lang": "en"
+    },
+    {
+      "text": "to those, you&#39;re going to be spending",
+      "duration": 3.44,
+      "offset": 395.2,
+      "lang": "en"
+    },
+    {
+      "text": "way too much time to like actually raise",
+      "duration": 3.28,
+      "offset": 396.88,
+      "lang": "en"
+    },
+    {
+      "text": "the money. you have no leverage and",
+      "duration": 2.72,
+      "offset": 398.64,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just going to be kind of fighting",
+      "duration": 2.96,
+      "offset": 400.16,
+      "lang": "en"
+    },
+    {
+      "text": "for the bottom of the barrel. And so I",
+      "duration": 2.96,
+      "offset": 401.36,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s the first kind of thing you",
+      "duration": 2.72,
+      "offset": 403.12,
+      "lang": "en"
+    },
+    {
+      "text": "need to ask yourself and then it kind of",
+      "duration": 3.2,
+      "offset": 404.32,
+      "lang": "en"
+    },
+    {
+      "text": "becomes okay well do I actually need",
+      "duration": 3.04,
+      "offset": 405.84,
+      "lang": "en"
+    },
+    {
+      "text": "money to build what I&#39;m trying to do or",
+      "duration": 2.88,
+      "offset": 407.52,
+      "lang": "en"
+    },
+    {
+      "text": "am I just trying to raise for the flex",
+      "duration": 3.44,
+      "offset": 408.88,
+      "lang": "en"
+    },
+    {
+      "text": "of it and like being able to have some",
+      "duration": 4.24,
+      "offset": 410.4,
+      "lang": "en"
+    },
+    {
+      "text": "some cash. I think you can go pretty far",
+      "duration": 5.04,
+      "offset": 412.32,
+      "lang": "en"
+    },
+    {
+      "text": "honestly with like 10020k. You could do",
+      "duration": 5.2,
+      "offset": 414.64,
+      "lang": "en"
+    },
+    {
+      "text": "a lot with $100,000 right? You could go",
+      "duration": 4.96,
+      "offset": 417.36,
+      "lang": "en"
+    },
+    {
+      "text": "do a launch video. You could go run a",
+      "duration": 4.72,
+      "offset": 419.84,
+      "lang": "en"
+    },
+    {
+      "text": "you know funnel paid ads. So, I don&#39;t",
+      "duration": 3.68,
+      "offset": 422.32,
+      "lang": "en"
+    },
+    {
+      "text": "think you need to go raise like a",
+      "duration": 3.36,
+      "offset": 424.56,
+      "lang": "en"
+    },
+    {
+      "text": "million dollars even if you do go raise",
+      "duration": 3.44,
+      "offset": 426.0,
+      "lang": "en"
+    },
+    {
+      "text": "cuz you&#39;re also going to get diluted",
+      "duration": 3.76,
+      "offset": 427.92,
+      "lang": "en"
+    },
+    {
+      "text": "heavily. I think it&#39;s it&#39;s more possible",
+      "duration": 4.72,
+      "offset": 429.44,
+      "lang": "en"
+    },
+    {
+      "text": "than ever and probably better than ever",
+      "duration": 4.24,
+      "offset": 431.68,
+      "lang": "en"
+    },
+    {
+      "text": "to build a company without raising",
+      "duration": 3.36,
+      "offset": 434.16,
+      "lang": "en"
+    },
+    {
+      "text": "money. I do think that like if you",
+      "duration": 3.52,
+      "offset": 435.92,
+      "lang": "en"
+    },
+    {
+      "text": "really are in the camp of like I want to",
+      "duration": 3.92,
+      "offset": 437.52,
+      "lang": "en"
+    },
+    {
+      "text": "take a moonshot swing. The pros for",
+      "duration": 3.44,
+      "offset": 439.44,
+      "lang": "en"
+    },
+    {
+      "text": "raising money aren&#39;t just the money.",
+      "duration": 2.88,
+      "offset": 441.44,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s the fact that like you&#39;re once",
+      "duration": 2.4,
+      "offset": 442.88,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re in the bubble, you&#39;re in the",
+      "duration": 2.48,
+      "offset": 444.32,
+      "lang": "en"
+    },
+    {
+      "text": "bubble kind of and like you know these",
+      "duration": 3.04,
+      "offset": 445.28,
+      "lang": "en"
+    },
+    {
+      "text": "investors, they know people who know",
+      "duration": 3.28,
+      "offset": 446.8,
+      "lang": "en"
+    },
+    {
+      "text": "people and it&#39;ll just make it easier. I",
+      "duration": 3.04,
+      "offset": 448.32,
+      "lang": "en"
+    },
+    {
+      "text": "think a lot of people they don&#39;t think",
+      "duration": 3.12,
+      "offset": 450.08,
+      "lang": "en"
+    },
+    {
+      "text": "about the fact that that as you",
+      "duration": 3.04,
+      "offset": 451.36,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned you kind of will have a boss",
+      "duration": 2.64,
+      "offset": 453.2,
+      "lang": "en"
+    },
+    {
+      "text": "when you raise money right like the",
+      "duration": 3.28,
+      "offset": 454.4,
+      "lang": "en"
+    },
+    {
+      "text": "investors have expectations on you I",
+      "duration": 3.44,
+      "offset": 455.84,
+      "lang": "en"
+    },
+    {
+      "text": "wonder how the future is going to look",
+      "duration": 3.52,
+      "offset": 457.68,
+      "lang": "en"
+    },
+    {
+      "text": "like do you have any any visions for the",
+      "duration": 3.36,
+      "offset": 459.28,
+      "lang": "en"
+    },
+    {
+      "text": "future how do you think the markets will",
+      "duration": 3.6,
+      "offset": 461.2,
+      "lang": "en"
+    },
+    {
+      "text": "have evolved I think the way to build uh",
+      "duration": 4.32,
+      "offset": 462.64,
+      "lang": "en"
+    },
+    {
+      "text": "startups MVPs is like super different",
+      "duration": 4.0,
+      "offset": 464.8,
+      "lang": "en"
+    },
+    {
+      "text": "there used to be like a clear playbook",
+      "duration": 4.56,
+      "offset": 466.96,
+      "lang": "en"
+    },
+    {
+      "text": "for building software and basically the",
+      "duration": 5.36,
+      "offset": 468.8,
+      "lang": "en"
+    },
+    {
+      "text": "ideology was build something super super",
+      "duration": 4.48,
+      "offset": 471.52,
+      "lang": "en"
+    },
+    {
+      "text": "scrappy even maybe like just a weight",
+      "duration": 3.68,
+      "offset": 474.16,
+      "lang": "en"
+    },
+    {
+      "text": "list get it out as fast as possible you",
+      "duration": 3.52,
+      "offset": 476.0,
+      "lang": "en"
+    },
+    {
+      "text": "know iterate on it get user feedback",
+      "duration": 3.28,
+      "offset": 477.84,
+      "lang": "en"
+    },
+    {
+      "text": "back and and validate it and then just",
+      "duration": 3.12,
+      "offset": 479.52,
+      "lang": "en"
+    },
+    {
+      "text": "keep doing that until eventually you",
+      "duration": 3.2,
+      "offset": 481.12,
+      "lang": "en"
+    },
+    {
+      "text": "have enough validation to just go build",
+      "duration": 3.44,
+      "offset": 482.64,
+      "lang": "en"
+    },
+    {
+      "text": "the entire product. I think that my",
+      "duration": 3.68,
+      "offset": 484.32,
+      "lang": "en"
+    },
+    {
+      "text": "model is completely outdated now. I",
+      "duration": 4.56,
+      "offset": 486.08,
+      "lang": "en"
+    },
+    {
+      "text": "think the new strategy is that you use",
+      "duration": 5.04,
+      "offset": 488.0,
+      "lang": "en"
+    },
+    {
+      "text": "these tools to build a product which",
+      "duration": 3.92,
+      "offset": 490.64,
+      "lang": "en"
+    },
+    {
+      "text": "obviously is like basically now is just",
+      "duration": 3.12,
+      "offset": 493.04,
+      "lang": "en"
+    },
+    {
+      "text": "as easy as putting up a weight list.",
+      "duration": 3.04,
+      "offset": 494.56,
+      "lang": "en"
+    },
+    {
+      "text": "Essentially, the real way to kind of",
+      "duration": 3.44,
+      "offset": 496.16,
+      "lang": "en"
+    },
+    {
+      "text": "distinguish in in this new market is",
+      "duration": 3.92,
+      "offset": 497.6,
+      "lang": "en"
+    },
+    {
+      "text": "going to be like who actually thinks the",
+      "duration": 4.88,
+      "offset": 499.6,
+      "lang": "en"
+    },
+    {
+      "text": "most about the app experience and who",
+      "duration": 4.8,
+      "offset": 501.52,
+      "lang": "en"
+    },
+    {
+      "text": "thinks the most about distribution.",
+      "duration": 2.96,
+      "offset": 504.48,
+      "lang": "en"
+    },
+    {
+      "text": "Basically, what I&#39;m trying to say is",
+      "duration": 2.8,
+      "offset": 506.32,
+      "lang": "en"
+    },
+    {
+      "text": "like the moat is no longer being able to",
+      "duration": 3.2,
+      "offset": 507.44,
+      "lang": "en"
+    },
+    {
+      "text": "build a product. The moat is now being",
+      "duration": 3.36,
+      "offset": 509.12,
+      "lang": "en"
+    },
+    {
+      "text": "able to build a good product. Everything",
+      "duration": 3.44,
+      "offset": 510.64,
+      "lang": "en"
+    },
+    {
+      "text": "that you would do, you can now just do",
+      "duration": 3.12,
+      "offset": 512.48,
+      "lang": "en"
+    },
+    {
+      "text": "it faster and cheaper, but the people",
+      "duration": 2.88,
+      "offset": 514.08,
+      "lang": "en"
+    },
+    {
+      "text": "that will win are going to be the ones",
+      "duration": 2.96,
+      "offset": 515.6,
+      "lang": "en"
+    },
+    {
+      "text": "that really think about product, really",
+      "duration": 2.96,
+      "offset": 516.96,
+      "lang": "en"
+    },
+    {
+      "text": "think about marketing and really think",
+      "duration": 2.96,
+      "offset": 518.56,
+      "lang": "en"
+    },
+    {
+      "text": "about branding and distribution as a",
+      "duration": 1.76,
+      "offset": 519.92,
+      "lang": "en"
+    },
+    {
+      "text": "whole.",
+      "duration": 1.6,
+      "offset": 521.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The moment has kind of shifted towards",
+      "duration": 3.76,
+      "offset": 521.68,
+      "lang": "en"
+    },
+    {
+      "text": "just care. You can no longer just like",
+      "duration": 4.16,
+      "offset": 523.12,
+      "lang": "en"
+    },
+    {
+      "text": "get an idea and be the quickest one to",
+      "duration": 3.36,
+      "offset": 525.44,
+      "lang": "en"
+    },
+    {
+      "text": "make like a shitty version of it. If",
+      "duration": 3.44,
+      "offset": 527.28,
+      "lang": "en"
+    },
+    {
+      "text": "someone has a job right now and wants to",
+      "duration": 3.68,
+      "offset": 528.8,
+      "lang": "en"
+    },
+    {
+      "text": "get into entrepreneurship, what is your",
+      "duration": 2.72,
+      "offset": 530.72,
+      "lang": "en"
+    },
+    {
+      "text": "what is your advice to them?",
+      "duration": 2.72,
+      "offset": 532.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, I have a I have a couple a couple",
+      "duration": 4.08,
+      "offset": 533.44,
+      "lang": "en"
+    },
+    {
+      "text": "random thoughts. The first thing is um",
+      "duration": 4.08,
+      "offset": 535.2,
+      "lang": "en"
+    },
+    {
+      "text": "do what you&#39;re good at, not necessarily",
+      "duration": 3.6,
+      "offset": 537.52,
+      "lang": "en"
+    },
+    {
+      "text": "what you like. What you like may not",
+      "duration": 3.44,
+      "offset": 539.28,
+      "lang": "en"
+    },
+    {
+      "text": "give you the life you want. The caveat",
+      "duration": 3.44,
+      "offset": 541.12,
+      "lang": "en"
+    },
+    {
+      "text": "is that what you&#39;re good at is probably",
+      "duration": 3.6,
+      "offset": 542.72,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re eventually going to enjoy.",
+      "duration": 3.6,
+      "offset": 544.56,
+      "lang": "en"
+    },
+    {
+      "text": "You may just not know it yet. So, if",
+      "duration": 4.08,
+      "offset": 546.32,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re really good at sales, but maybe",
+      "duration": 4.0,
+      "offset": 548.16,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not like you&#39;re maybe your passion",
+      "duration": 3.84,
+      "offset": 550.4,
+      "lang": "en"
+    },
+    {
+      "text": "is like, I don&#39;t know, marine biology.",
+      "duration": 4.56,
+      "offset": 552.16,
+      "lang": "en"
+    },
+    {
+      "text": "Okay? Now, marine biology, you know, may",
+      "duration": 4.08,
+      "offset": 554.24,
+      "lang": "en"
+    },
+    {
+      "text": "be great, but if you&#39;re really good at",
+      "duration": 3.2,
+      "offset": 556.72,
+      "lang": "en"
+    },
+    {
+      "text": "sales, maybe you don&#39;t like it as much,",
+      "duration": 2.8,
+      "offset": 558.32,
+      "lang": "en"
+    },
+    {
+      "text": "but eventually you&#39;re going to start",
+      "duration": 3.28,
+      "offset": 559.92,
+      "lang": "en"
+    },
+    {
+      "text": "liking it cuz like momentum is fun. It&#39;s",
+      "duration": 3.84,
+      "offset": 561.12,
+      "lang": "en"
+    },
+    {
+      "text": "fun to win. When you just obsess over",
+      "duration": 3.12,
+      "offset": 563.2,
+      "lang": "en"
+    },
+    {
+      "text": "something for a long period of time,",
+      "duration": 2.88,
+      "offset": 564.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll eventually learn to like it,",
+      "duration": 2.64,
+      "offset": 566.32,
+      "lang": "en"
+    },
+    {
+      "text": "especially if you&#39;re good at it. That&#39;s",
+      "duration": 2.64,
+      "offset": 567.84,
+      "lang": "en"
+    },
+    {
+      "text": "my first advice. I would say like don&#39;t",
+      "duration": 2.64,
+      "offset": 568.96,
+      "lang": "en"
+    },
+    {
+      "text": "do what you like, but do what you&#39;re",
+      "duration": 2.4,
+      "offset": 570.48,
+      "lang": "en"
+    },
+    {
+      "text": "good at, and you will probably learn to",
+      "duration": 1.68,
+      "offset": 571.6,
+      "lang": "en"
+    },
+    {
+      "text": "like it.",
+      "duration": 2.24,
+      "offset": 572.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay. But Jacob, I appreciate having you",
+      "duration": 5.2,
+      "offset": 573.28,
+      "lang": "en"
+    },
+    {
+      "text": "on and people can check you out on X, on",
+      "duration": 4.64,
+      "offset": 575.12,
+      "lang": "en"
+    },
+    {
+      "text": "YouTube, on Instagram.",
+      "duration": 2.96,
+      "offset": 578.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Awesome. Yeah, appreciate it. If anyone",
+      "duration": 3.68,
+      "offset": 579.76,
+      "lang": "en"
+    },
+    {
+      "text": "is like interested in working with even,",
+      "duration": 3.52,
+      "offset": 581.44,
+      "lang": "en"
+    },
+    {
+      "text": "you know, myself or the agency or the",
+      "duration": 4.0,
+      "offset": 583.44,
+      "lang": "en"
+    },
+    {
+      "text": "cohort, crime.digital is our our agency",
+      "duration": 4.0,
+      "offset": 584.96,
+      "lang": "en"
+    },
+    {
+      "text": "name and uh you can find us on the",
+      "duration": 2.96,
+      "offset": 587.44,
+      "lang": "en"
+    },
+    {
+      "text": "lovable partner page. We&#39;re the only",
+      "duration": 3.44,
+      "offset": 588.96,
+      "lang": "en"
+    },
+    {
+      "text": "gold agency. So Isaac, really appreciate",
+      "duration": 3.92,
+      "offset": 590.4,
+      "lang": "en"
+    },
+    {
+      "text": "your time and uh definitely I&#39;ll be",
+      "duration": 3.68,
+      "offset": 592.4,
+      "lang": "en"
+    },
+    {
+      "text": "talking a lot about Lovable in the",
+      "duration": 3.6,
+      "offset": 594.32,
+      "lang": "en"
+    },
+    {
+      "text": "future and obviously continue to do so.",
+      "duration": 3.36,
+      "offset": 596.08,
+      "lang": "en"
+    },
+    {
+      "text": "So if you just want any general like",
+      "duration": 3.68,
+      "offset": 597.92,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable tips, tricks, etc., Um, you",
+      "duration": 3.44,
+      "offset": 599.44,
+      "lang": "en"
+    },
+    {
+      "text": "know, Twitter, LinkedIn&#39;s a great place",
+      "duration": 3.92,
+      "offset": 601.6,
+      "lang": "en"
+    },
+    {
+      "text": "to find me as",
+      "duration": 2.64,
+      "offset": 602.88,
+      "lang": "en"
+    }
+  ]
+}

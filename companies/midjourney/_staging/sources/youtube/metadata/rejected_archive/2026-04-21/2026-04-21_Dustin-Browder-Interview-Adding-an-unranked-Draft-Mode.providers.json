@@ -1,0 +1,16 @@
+{
+  "video_id": "OrA2JP-FAwc",
+  "title": "► Dustin Browder Interview: \"Adding an unranked Draft Mode\" - Heroes of the Storm",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:04:47",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:04:47"
+}

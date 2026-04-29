@@ -1,0 +1,16 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "podcasts",
+  "status": "scaffolded",
+  "queries": [
+    "Sandisk David Goeckeler podcast",
+    "SNDK earnings podcast",
+    "Western Digital Sandisk spin-off podcast",
+    "NAND flash cycle podcast Sandisk",
+    "AI storage demand Sandisk podcast"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": "python3 scripts/discovery/collect_target.py SNDK --channels podcasts --skip-transcript --web-max-queries 8",
+  "updated_at": "2026-04-26T09:39:55"
+}

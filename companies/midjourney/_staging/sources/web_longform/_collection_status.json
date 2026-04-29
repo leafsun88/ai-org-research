@@ -1,0 +1,67 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "web_longform",
+  "generated_at": "2026-04-20T18:02:56",
+  "total_records": 8,
+  "success_records": 2,
+  "failure_records": 6,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+      "title": "ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+      "chars": 27966,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/web_longform/unknown_ai-image-generation-art-midjourney-multiverse-interview-david-holz.md"
+    },
+    {
+      "status": "success",
+      "url": "https://venturebeat.com/ai/midjourney-founder-says-the-world-needs-more-imagination/",
+      "title": "midjourney-founder-says-the-world-needs-more-imagination",
+      "chars": 10488,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/web_longform/unknown_midjourney-founder-says-the-world-needs-more-imagination.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+      "title": "midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-V1/",
+      "title": "midjourney-launches-its-first-ai-video-generation-model-V1",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://apnews.com/article/722b1b892192e7e1628f7ae5da8cc427",
+      "title": "722b1b892192e7e1628f7ae5da8cc427",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://apnews.com/article/b87d80d7b4a4dfdcf0ee149d30830551",
+      "title": "b87d80d7b4a4dfdcf0ee149d30830551",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://copyrightalliance.org/wp-content/uploads/2025/09/WBE-v.-Midjourney.pdf",
+      "title": "WBE-v.-Midjourney.pdf",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://news.justia.com/wp-content/uploads/2025/06/Disney-Universal-v.-Midjourney-Complaint.pdf",
+      "title": "Disney-Universal-v.-Midjourney-Complaint.pdf",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

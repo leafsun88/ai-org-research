@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://ramp.com/leading-indicators/ai-index-march-2026",
+    "title": "ai-index-march-2026",
+    "source": "ramp.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/research/economic-index-march-2026-report/",
+    "title": "economic-index-march-2026-report",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/impact-software-development",
+    "title": "impact-software-development",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2511.15080",
+    "title": "2511.15080",
+    "source": "arxiv.org",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.technology.org/2025/08/02/anthropic-claude-models-capture-32-enterprise-market-share-overtaking-openai-in-business-ai-adoption/",
+    "title": "anthropic-claude-models-capture-32-enterprise-market-share-overtaking-openai-in-business-ai-adoption",
+    "source": "www.technology.org",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://scottarmbruster.com/articles/chatgpt-built-market-claude-winning-enterprise-2026/",
+    "title": "chatgpt-built-market-claude-winning-enterprise-2026",
+    "source": "scottarmbruster.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.techradar.com/pro/claude-cowork-is-now-available-for-enterprise-use-adds-analytics-access-controls-and-more",
+    "title": "claude-cowork-is-now-available-for-enterprise-use-adds-analytics-access-controls-and-more",
+    "source": "www.techradar.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.itpro.com/security/ai-agents-using-anthropic-mcp-supply-chain-attacks-claim-researchers",
+    "title": "ai-agents-using-anthropic-mcp-supply-chain-attacks-claim-researchers",
+    "source": "www.itpro.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2601.17549",
+    "title": "2601.17549",
+    "source": "arxiv.org",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://arxiv.org/abs/2603.20847",
+    "title": "2603.20847",
+    "source": "arxiv.org",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  }
+]

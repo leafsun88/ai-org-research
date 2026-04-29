@@ -1,0 +1,22 @@
+---
+ticker: BYTEDANCE
+type: youtube
+title: "Most Americans don't appreciate how big Bytedance's business really is: Lead Edge Capital's Green"
+channel: "CNBC Television"
+date: 2026-04-07
+url: https://www.youtube.com/watch?v=R2gDP9v_2hY
+transcript_method: yt-dlp_subtitle
+language: en
+chars: 3884
+---
+
+# Most Americans don't appreciate how big Bytedance's business really is: Lead Edge Capital's Green
+
+## 视频信息
+- **频道**: CNBC Television
+- **日期**: 2026-04-07
+- **链接**: https://www.youtube.com/watch?v=R2gDP9v_2hY
+
+## 转录全文
+
+you know I I do Wonder as a bite dance investor what would be the best outcome here for you after the Supreme Court ruling that the law stands which would effectively shut down Tik tock on Sunday unless there's some intervention by President Biden or Trump Sarah thanks for having me on really appreciate it boy did we uh did we this has this been an interesting uh journey in getting here I I think you know our base case has always Ben that there will be it will be banned uh and we've always assumed you know it would be banned now now you're seeing you know I am not a I am not a politician I am not an expert on politics we've always said that you know it'll be interesting how that if if and when do the Chinese retaliate will it actually even be banned you know a huge amount of the business is obviously based in in China and you know is kind of IM material for a financial perspective for it but now you're seeing the people that actually banned the thing say they don't want to ban it so it's actually it's quite interesting did the Chinese just call a bluff and just say like fine we're turning it off on on Sunday but I do find it quite fascinating the fact that you know they have this there's this big Chinese company they built a truly Global business they're in you know how many X number of countries around the world they've always wanted to have this the ch our US Government wants to now shut it down now who knows if they actually do want to shut it down what you're seeing both sides of the party and yet like I wouldn't be you know why won't the Chinese retaliate and do something else to you know some of our companies over there like because if I was a big American company wait there's no Facebook in China I mean they've already done it it's not like they it's not like there's a lot in in that that would be parallel to what Tik Tock is that China would do as far as I'm concerned no no I'm not saying there's not other vulnerable companies my point is that they've already restricted uh this type of platform in China the but the other piece of it is as a bite dance investor you can be almost indifferent to this because Tik Tock us is a relatively small piece of bite dance as a financial uh entity right correct exactly the there over the last six to nine months there have been a lot of investors us included who have bought additional stock and and just given the overall scope of the business and size of the business which I think most Americans do not fully appreciate and how big of business that is over there the American Business while it I think it does present a lot of optionality long term is not a core part of our investment thesis today now it's a shame because you know I think there are huge numbers of Americans and people globally you know making and building livings and you know you know where Tik Tok is providing jobs to and I I do think this is kind of a a shame what we're watching uh you know happen on politics and all this happening it but it'll be fascinating how how fascinating how it plays out uh you've got to wonder what Mark Zuckerberg is you know is thinking and I got to believe that you know he would love if he had less competition in the United States it probably is like I actually think there's a bigger thing that people should be focused on in the US is I I think social media needs to be regulated and it sounds silly from somebody that owns white dance but remember in China it's highly regulated you know I have I have young kids I'm sure a lot of viewers have young kids you can't go on you can't go on CNBC and say whatever you want you know it's it's the media industry is highly regulated in the United States or it's regulated I I I we strongly believe the social media industry as a whole should also be regulated I think it's going to take a lot of time but um hopefully we will see that over time

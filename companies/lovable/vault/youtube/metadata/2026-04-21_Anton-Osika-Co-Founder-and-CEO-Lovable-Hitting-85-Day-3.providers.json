@@ -1,0 +1,16 @@
+{
+  "video_id": "DHLczPQj9rA",
+  "title": "Anton Osika, Co-Founder and CEO @ Lovable: Hitting 85% Day 30 Retention - Better than ChatGPT",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:12:48",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:12:48"
+}

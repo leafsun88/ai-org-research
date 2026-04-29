@@ -1,0 +1,2615 @@
+OpenAI Codex v0.122.0-alpha.13 (research preview)
+--------
+workdir: /Users/leafsun/Desktop/AI Org研究
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: workspace-write [workdir, /tmp, $TMPDIR, /Users/leafsun/.codex/memories]
+reasoning effort: xhigh
+reasoning summaries: none
+session id: 019dae9b-34e9-7b22-a776-aafb31c19cbd
+--------
+user
+你负责并行完成 Perplexity 所有 podcast transcript 的 essence 生成。请先读四大文档：/Users/leafsun/Desktop/AI Org研究/Agent.md、/Users/leafsun/Desktop/AI Org研究/progress.md、/Users/leafsun/Desktop/AI Org研究/core-principles-and-lessons.md、/Users/leafsun/Desktop/AI Org研究/project-structure.md；再读 /Users/leafsun/Desktop/AI Org研究/学习/skills/collect/SKILL.md 里 essence 规则，以及 /Users/leafsun/Desktop/AI Org研究/学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md 的风格要求。
+
+任务：对 Perplexity 当前已有的所有 podcast transcript 生成 essence。优先输入目录：/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/；如果该目录缺失或不完整，再参考 /Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/。去重规则：按 canonical title/date/url 或 transcript frontmatter 去重，不要对同一 transcript 重复写 essence。
+
+输出目录只允许写：/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/。你不是独自在代码库里工作，不要修改 scripts、config、四大文档或其他公司文件；不要删除任何已有文件。
+
+Essence 要求：
+- 每个高相关或中高相关 transcript 对应一份 essence markdown；低相关 transcript 不生成长 essence，但要写入总 status。
+- 格式遵守 collect skill：frontmatter、Relevance Review、Insight Blocks、Source-Level Takeaways。
+- 采用 sequential pass：从 transcript 开头往后逐段读，每读到有价值的机制、动作、数字、管理层判断、组织信号、产品策略、用户反馈、商业模式、竞争信息或可投资化证据，就新增 insight block 或并入同一机制 block。
+- 不能写成“一篇一条总结”。长访谈可以有十几条到几十条 insight blocks。
+- Insight block 标题下直接写详实判断自然段，不加“判断段 / 关键引用 / 近原文证据 / 原文定位 / 可用于哪些分析角度”。判断段后直接贴 quote pack。
+- 每个 insight block 默认保留 3-8 条高信息密度原文摘录，允许完整长句，给后续手动调整留空间。
+- 语言像人写的研究 memo，少黑话，避免“不是...而是...”这类二元模板句。核心概念可以保留英文，如 workflow、feedback loop、context、cadence、owner。
+- 重点保留：Founder/CEO 对 AI 组织的判断、Perplexity 的组织结构和产品速度、招聘/人才标准、AI 在内部如何协作、管理工具和 workflow、业务模式/广告/订阅/API、搜索/浏览器/agent 战略、竞争格局、用户或客户证据、可投资化数据。
+
+请额外生成一个总状态文件：/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/_perplexity_podcast_essence_status_2026-04-21.md，列出：输入 transcript 数、去重后数、高/中/低相关数、已生成 essence 文件清单、低相关跳过清单、未处理原因（如果有）。
+
+完成后在最终回复里列出你写了哪些文件，以及任何失败/跳过原因。
+
+2026-04-21T05:55:01.200611Z  WARN codex_core::shell_snapshot: Failed to delete shell snapshot at AbsolutePathBuf("/Users/leafsun/.codex/shell_snapshots/019dae9b-34e9-7b22-a776-aafb31c19cbd.tmp-1776750900457871000"): Os { code: 2, kind: NotFound, message: "No such file or directory" }
+2026-04-21T05:55:01.267446Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:01.269336Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:55:01.576836Z  WARN codex_core::plugins::manager: failed to warm featured plugin ids cache error=remote plugin sync request to https://chatgpt.com/backend-api/plugins/featured failed with status 403 Forbidden: <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style global>body{font-family:Arial,Helvetica,sans-serif}.container{align-items:center;display:flex;flex-direction:column;gap:2rem;height:100%;justify-content:center;width:100%}@keyframes enlarge-appear{0%{opacity:0;transform:scale(75%) rotate(-90deg)}to{opacity:1;transform:scale(100%) rotate(0deg)}}.logo{color:#8e8ea0}.scale-appear{animation:enlarge-appear .4s ease-out}@media (min-width:768px){.scale-appear{height:48px;width:48px}}.data:empty{display:none}.data{border-radius:5px;color:#8e8ea0;text-align:center}@media (prefers-color-scheme:dark){body{background-color:#343541}.logo{color:#acacbe}}</style>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <svg
+          width="41"
+          height="41"
+          viewBox="0 0 41 41"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          strokeWidth="2"
+          class="scale-appear"
+        >
+          <path
+            d="M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+      <div class="data"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'Ip34qbrif2JyutPSQGWNWpZWu_iWg6O2K9fCK7ww4SU-1776750901-1.2.1.1-geZcCMGLfeGgIW0eTfaJpqyWYZJlkEd.WAUWm94WfX2qkxeiJCW0KKLmCpYZjAyu',cITimeS: '1776750901',cRay: '9efa232e8ad92c67',cTplB: '0',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/backend-api/plugins/featured?platform=codex&__cf_chl_tk=O6Ybm2rWG5WtugqMF.7NEvGRGJchwnxpQHtiSfKWl8w-1776750901-1.0.1.1-IZHg6rt1dakWtsg75iAQiOBWTVkfsXNBf07oRRy7cZo",cvId: '3',cZone: 'chatgpt.com',fa:"/backend-api/plugins/featured?platform=codex&__cf_chl_f_tk=O6Ybm2rWG5WtugqMF.7NEvGRGJchwnxpQHtiSfKWl8w-1776750901-1.0.1.1-IZHg6rt1dakWtsg75iAQiOBWTVkfsXNBf07oRRy7cZo",md: 'kWL6cLEda.OYNeFKF3ppcNdnNzXoW9cpn1flaW8o51c-1776750901-1.2.1.1-xosxm6RdMutD_0N.58FtODa55VPSy_2luYlsI.Y5F8XcxVXKydyS7TU9cVd4azqpjPJaEWMlSlDfiR8Nh8cZYz99uEGQeo8rC3vg6HNguCMwxKlUsUn6oYHY8AeqrLue9zHIfxA6LTVfI7pjHgnkKX4gSgmfcGUbCPQiR59HG_y3wxDwe7I45p8WLcl0PY2MsfJNShKq3AyRzUlbP8oTxs057LmtGeQ35FNM3DCL.rM_SJcipn2.W2uzLz2m0VxdLsiQ4wuiofi3Ejzrw75tdr3r89FIsW01diR3WOXoGw2lqUaabZ6s.uSzLT50oC3LUwRuhZwkkiIwIDebJ4wCPanQyb5RbpEJPjKwiNEiMB4XpDw.3XPRaX45WsTLLfb748wPft3lXxtK.z6QqCvVF15rNI9kPRgvA7MT.iIVmGRhOc4LG27uW5nPZ283DlIrZaPOfSfCJkKMFFuOW4JGKM51zRpSlvyLVd2ViHhDhWyQb_KSeJrOqczvXybKNnB9Mu7LNyNNFLaMm73gkrQzdFjCeBzCdFPh5o_UHq4pUykFaW2C1P.AmpzgZR4Ba.jsxNucw3hcRAACvqjym9HwxYJtRzyLHwMzGSUvhoCeDGKhW2CxCKSByLYSmwSPMmJsaMLljJkb0ULWOdh9OEYjfWQN2ftPkZmZw1qhBOVfs3yXVVg77GNOtfAe_mr91PqEe1Zkl9I8WGtQHYr.m3v4Dg.L2g416WudTfxUOKibXVr6SIsmqC7pHBNrrdoJfWoLNSDu9tZoD7FR1V7NMWYE5WZ0QNOaLYvEMLRfBKIqh5ieKq63IihStPdWtmX6irpjzjYa53IFpvqKuhRCHI9s79KX2DZ9AFXzsI1CVcl8XIxkrykUawgDGajKSb6HzD.c45ydT9qBy1bkM26k2yC_PO9UpY5hxIKnU4DD0CjIchS4u_Q7ueW8CojEXscVC1MMQybEcbG84I.07vL3Vucl3_9W5HlQpKAGGkyZKy_gi6HVyf.wlnZvaXls9JEkTrcCcU7z_JIT4ZWfGlqbVunKlIAz.lhelQsUpvpUyiLr8KPMLa3if6LY8KK0VZ0_B7ARneqcuMUCFz62m6oxoZs0KA',mdrd: 'H6Tdq6KLsiltfESeUGpl_JUZ1xGreMvNjD4zzTCUOCA-1776750901-1.2.1.1-Va1NbYBSr5tu2FWhearTqbXpxPzeFMLQ1ZVmrC2O03K4xHsA08yMbR6DOqVF0ytptLn__bPfvtMR3La0pXZZbS4S2CIXX_G4lT5E7tSpt..5qMKGnfk.1.lRoG_m2y.phAgnW1aCNYmOTbtaEknTO0HtxqDxM2oJ53ZFecdUlO2Ee1ZJro3h62uEOrRohawxKlB1RHYP1k7y0_utC0AKpsfRuy4D5_sgTB5qNwqvscI9yqsD_zKpwSsF4to3NHC16S3Sp3KVHKCe5uzJdaSCdvxwH6ShmgdF0TdwPEuYpmrk_18EDR85Tkwv1FTh6wLDSAXsrNJ.Ra7evNMRDb1QHHgIL9SfxyjbPiUeYq9SvYXkUl6Mskt.jOR6Yf7NGSkuis1kv_Huj0htQ4k8OcVDq0Ya8_OGoHIMmK2zqjSHseSZsCTnxmvBd3F06VGQtj41Pojy8EEB2.hOjVd7n7jD5e8W2HLGUj5RpjCMP2Roy_0TgS7dIuWqi8WAnU1Tf6A01jajorhyTctkQ5TM1QyLcGCMygjqqW2sv_MgMPwHBfmCcYPcMbG8AVmRsNTXe9i3Ypw_9ezRhxaLu1rVuGQ31kY6Ch4OPiuX5VOoAuEnVInzBONz_iA5Q5w14aiHqsgzk6CAeOEnz3J.0pLHTp.Wmd_JQQvZX6NHA4wqeejPnmrSAhSa6VOXswxCumJ.ou.VFjaiUp7tR3E6wC_mYHm5v0s8SKWFytoRufsmFsP0fMj38ElMg.oR4DpYX62WWiif1V2KY8h9aK4VIIOY2MeT4f0rZ_wEwsHAywDOwN4Z59RmAZj.OtvIB2oUgOHkmhWJas_AyWpnPlHCN5Q14l3sE19.m5pw4Cftn99elMQ7qKLDzmujTJJY4DOsddLHBe8eShh_S701w6doOylqpnPGVVBdW_KDHTNvZKtOplVeJmP07NRO_7Wz5VRPJtaXgAYpm6WxmBnUjubf3QKVK8f41Cre7trL2ku8Bp3oYxP0X88S48jvLRRuGKdnhZ8PqLtm.x2BrWAFeWGlAlR5COkA4TrQgEellfiwT5jcQ6Yq.FOxnPutWJzDf.hQAY..Wwn1WJ_l8f1dqER38GrvaL1VvfsZOOCRAzIxhOcSoetYrUteYrEuyUScIEPQFXnJjKuS_1dhPHCA2EjKA5jLhX6lDTMkl4pJj_lImgFxebPL_2TTan.UUj3ovn8GFwp9jAmulRXpiisih3_5IxOjy3i82DPly1lklh2NLE.6IoTuCycdoBOMpkm2X_vqkWmLzKITmND0ONJYI9f.0HO_E6LvcB_z_TfLEzD2CDZKdmR.Pb7NW3y9TsSd9xwZiR.Yhkt1vhOz7bdQ9DCPUlu4n8SbXriGIwyHK3xxGYV45zx35.0E0yiAhJ438rj41jI45p6dBUfcQlSkl4L1ntU.9C.KTLE2mQBz.wIFKCdlm.KHuj4UBSBvvOux1H3B6MLTXjR02kgTmOeQkvXDvqLr..I2siiK4gKhjwU.ve2ZqtJLeP4LfCGLZ.9_aGz2GRbIfumUvgMKs_vrVfjdMZBIhy4OejM1BdPBX7vN47VtEYcIlxkpisnGI_kHmNkcIRFJzGPCWUhI2YSjzuChgeOU3Rt5ORl_W1gIqoyc0ucPFwvXLSt3o_XxUgPJ72.VdT6XScWKLmdIzLxt7P7E5_Gab9U2P5WkaiQ7qt8Vb0Epbx_TRLqyGP8Ac1ZPdRBMOeSt.z2avTuTOcXWHUwf.VU3CwraEel2AvMQWuQRLcw7_x7nzFaBI_YiIRQd57JFAj1L7HIQ37xeagIhiYQ87U5Wx3XmLwqZqW3np0m71M1jNxO0tsj0Dg0E6qtLrsiHQ_mDtfh8BbKMvXOyIVd9KFM60NUgR45F9ajqWnczPsWviJY_hZDSiluw74qtsXPs3X5fzROljYGlUenjAVy2FzwtEi4d_1WabHbYS3kr.FL9FKBbQwjxkb8S8KRy4.hmjqIzjQRuljpZpebMfyNiPGlBd5T1ZjK_BykuJycfB_rMsJ6v57PIQD9JyPjO4OTE.oPj9_KacIxJJQe.GBXVz3.p9kxzvkrVSiqT2uwGqELHNkMJI2j61TCZtPX9n88dKy5i.oOKQKRcVPfjIpyBvghpBufbTRRnId1rxBOlOUel_R8OkevFxnyICle8oUuPZE6EHEyMqZckpXzxqLUBYiP40OuXkAYYh8NJkFRvXbTngufkugxihIAMD8j0yGSMXM1r6tIcoOCoG3tmmkYR55B2W.dpo6O1UdYhpxN39syHqUaCUGrZh9S1Rk3VfeSX5PAj4Cp4jSofn9nvzq0eNEGE6oV1OmaRpYOxR9kpyFtfc5.ivm8lptPPEDvcPPXAP8qIAaerl4giECGZbvGuHIT0bHQviw',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9efa232e8ad92c67';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/backend-api/plugins/featured?platform=codex&__cf_chl_rt_tk=O6Ybm2rWG5WtugqMF.7NEvGRGJchwnxpQHtiSfKWl8w-1776750901-1.0.1.1-IZHg6rt1dakWtsg75iAQiOBWTVkfsXNBf07oRRy7cZo"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>
+    </div>
+  </body>
+</html>
+
+2026-04-21T05:55:01.877304Z  WARN codex_analytics::client: events failed with status 403 Forbidden: <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style global>body{font-family:Arial,Helvetica,sans-serif}.container{align-items:center;display:flex;flex-direction:column;gap:2rem;height:100%;justify-content:center;width:100%}@keyframes enlarge-appear{0%{opacity:0;transform:scale(75%) rotate(-90deg)}to{opacity:1;transform:scale(100%) rotate(0deg)}}.logo{color:#8e8ea0}.scale-appear{animation:enlarge-appear .4s ease-out}@media (min-width:768px){.scale-appear{height:48px;width:48px}}.data:empty{display:none}.data{border-radius:5px;color:#8e8ea0;text-align:center}@media (prefers-color-scheme:dark){body{background-color:#343541}.logo{color:#acacbe}}</style>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <svg
+          width="41"
+          height="41"
+          viewBox="0 0 41 41"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          strokeWidth="2"
+          class="scale-appear"
+        >
+          <path
+            d="M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+      <div class="data"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'bzY6vLbpvBxnPdYwxl5.jSdEpy2tXlPXzihgFUSbIcE-1776750901-1.2.1.1-wJ3SjzEbfi9lS4P27QYj.PjZ1UrmJnjgC9AI_cUGRIOqPEAWO8AAk4hWyCR1i3xd',cITimeS: '1776750901',cRay: '9efa23301fd82b0c',cTplB: '0',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/backend-api/codex/analytics-events/events?__cf_chl_tk=UBu38uuXlCuoM1JCHueBweM_DzADfY6fS2IcyMLiEDg-1776750901-1.0.1.1-.d54ofh6Dq006ah8ABBdCgzdgN3_5egibz2QGC0OFuE",cvId: '3',cZone: 'chatgpt.com',fa:"/backend-api/codex/analytics-events/events?__cf_chl_f_tk=UBu38uuXlCuoM1JCHueBweM_DzADfY6fS2IcyMLiEDg-1776750901-1.0.1.1-.d54ofh6Dq006ah8ABBdCgzdgN3_5egibz2QGC0OFuE",md: 'wSZzrkh.WwVISkoveL0Kw7oXu_kHX.EHX116sEvBTT8-1776750901-1.2.1.1-uAF9aNXOYahvacd7dyaNuEW2.w4upLm7.zY6w.zfO0x96AOqSGfi0aR0HAI_3ffwKeCNPCxRkOlO4_wQ5eMJo0bStpd94vwPz5TI6lcdQ31KKPqF0A9VlI26cH6UHTanRcmjCcw7C5IJKaUbFSKLVn23IPArFK1IGrXawFTcrD1WPCWACTHiBWMPvK0PpD_JtkF.jOtYUyPgdQJmr06aU4OjEuXVSylT6hF4IhFboLtyGJa3Jsj._cu4YMC0r5zLapEZY_gzRNUPT8brE7TGSTJlZ4__r8pjpiQlQk6XCWgNjWLBpSfbYaUjtIwBwK.wOQVO7olWsSmyfm8QWSzlihSE72pidsc39rFOP.BlXG365VQzouMjXymwMH9m5J85RFL8WpR6w_NYjQexzT_ZlEJdgeSOUY4badqJEq4qIELD7ImC4QgqD4zWeIl1TuzP0mAwuVdDIqF.537HhW7mDJ.8BbtDtWZqviq4uK_8TVDg8MniMWJ5ebuAc4jyhA.zHmpP9lPaBOyvaylP6sZnVfOcJaIXH2rW19O7yih.CbJ6ewlKLFSCHycqVEUWqYwSoZGa7.BECLq5Jzv7CDdiY5UzeEjB15_HRj30hgt_FX9ezbCTe.kTWKNeXgRBFbZqsLGeLHV05b9mUnAdXfbnX2JQMDXDGtAI0StjjyRRhZheOnzpDEftFyi1NA_Z4WB5p3NmHrGl0twmMrvvSojc.wM.MBNfIJagIHJXQ.hSvI9jGFrjlsKB5INX.xF4qSvCsNvx2v2t7ciU6df9DWUfdBzNJS50zWKfcFLxxOtZnIy_.M84Rb4zEQ1C6_QMdFmCiBzWg2OgcdqUxShXxCoHjtkfQqlTo4TYtCfKaQQrRFcaZyWHpoYttp_hHr.YD_D6X5rtZYfvEyRFYH9JpFgexD4PMaduMf2kJNJPnMqAchnuhgxCze5lQ1gWJxZ2qjo28OvksWW8RO76KwQrCOK9ge1VAQvchv7LInRXgHQY8n8S9BryTvykBc9b8DCwwy0GfQCbV.ztIbcu97xuftD.42yZjpT06A0UG84jIdc9cEIoSTxkOO5gUXXVVF.X0wxk',mdrd: 'fER9rEhhe8dNTrgcPWtFqBNr4dZ4ahJq40diWnRa5AE-1776750901-1.2.1.1-vOZX3uyt8i07Py2z0i1YnlpvEotHBvdNgZIHRtsNtvrwnNJU8AMC8vpmz4uyMu7WOHsvrqYtOrQ3AxX62gBLTib.jrt2AHT93kF9NXLnCwtGqsoyl.TIjZ_u.T1PkhKr9tCWadkRKT8ePGyORA7RSP4a1jHhw56XZOWb_7loOoFYhoPXozG_j3hnNbrL.0PGkYyE54Zuijl9BU3xl1ClVvTISgGmZN38I4.PUBvTUZJ7Jh1Rj3hCieB7mEmxUuYClEPLwXITyMLQlbRGZllanQ09U0ucCBx8widOajRnmi6GUklLbhSWbWRmZ9geYgk_YbcGg8mUngMq1h4DhHbfdBim5.pHPz5p00oMvUYLOp4nlM._OeqeroJfdUITKL9ndzcIvZX3i34IjUKIsDP7FIoJHUrf.481S562wzIsXUfV6a.GDKr5GEgURt4IQ_NQQ0dyp3kWbh380jk3YPy0MEMeh6NncgfB7Xw9EUY8F7FaHRYDEyHzrTh43znMMGo7QhTyLAwv_OGMGJxCyeK3KGcv4ifrJftzTPQcEcOBU2gSCw1AnnTTcT9cbRlmzCWGkasbaTglIn629mVlBM9XBlVdy8trqIPYe.DH28Cx.C9clJeYbRGXXBiczNM8kVxfTOcwbWlEqNPhz6r0yOELfyl1uv3J2vBA7Gfavi1V8.A.9xUKShRqDXm5eqWbJ7rY1rO2NNIi9Kxnt2z_Fx7nnMhc1dWslhPCfKZIJVBQ2eZOKzMdEVVc6wmcSgGiIiZugDa.qsdWbomT1nfvRynQmZpz6rc_h1VRyucUIKyMMQr5BJnjQ5dZVxB4B8QyVVW6NBr7qTlTLkkXSNCZoOaZ5bgwlKyMQnq4kv1Lux8dpkiryNmhonSGncvNW3VcBq3X_Awi5otIqCo0HbkOeyk.2ESRiaRD5NO1ay_B_21AVYFSR3dB8h8OedtXG54hEARsURY78OdOS0GZTMTLxj9I9nVuGTL4TeU73CTN8F.zkVd67imQWEQ3hUp_QPmrIKzu9RdiwfBDplexEq6.8Ad45mEStMVwFpmNw9JH9Ts60Pu.038WACWMGJsNSAN7szyFR6LxMnMQmWgrEkAjEf0JHsS.EqTdsCGLy7RMHH1FjUDUQ1QDuSunqTADHL9ksyTuZ.I41RpSBEaH6BQcvkxi_SCnd49MpKlyiOsmI2yvusOWmHPeLewRGvUl74dnyNgaHc2bK9JpLbUmT0h1uPDjuFEPVbUe5YWjDV2RVS0SjRQvLdiU6iXp5QGZ8FMqOIsq8jAI5tycBP.DpkO3SXI1F61zMO.rUTR7vNdh7blXUYhe1CLrz1aG_llTILVuJbsXrCU9KHwTbmKlo.u5vkV_TOf.f6e53MLl8bt68p9FjwY.deTMQsiPQvCGlINPRWQwgAJ4a3b0oMY9PXVmelmdvn0HfjXOxDxK1U.cmGw8pn1kQIbb11GMYc.N6W7ufVN9.53cQR.iuLdbfhm4g4l_.Qixpl4HPU8w8j3j.Wl5KsJcJoWBgA71mHdLkHSfiHZ5EKvdQD8IklGkp.0l4h1cUMdXLgknZ12QP1JBq0ppvo4ECnENYjabflETyHXp4n085YcEuq7JCmZse6DeyPpiVCi6X1CwRoUeSfpM0RzfM1RZBjuFkrhJDfPU2IoZBGsBEnBKZKgqn9WbqwNP1_1UvrLFAflcBTiIvN1dEu5tnGYtfJXvOPAtc6k_G5t.5U7eZOwl9wqVofz6qVyKvz7aZASWyss.pPxzXpqciCowB62cEZSBqbOp7dHCCUQMM6.Aik0rdCM_Ac5LQi3dv3sgDKgdUl7hL_WOJ5vNIWTRnmvemO9.dPbLzpoJ30gXwG5ooDOVRn5Tq2iIkJOmLb9BlntcbO0Lxyxwp8HakJTfUAAHvSodpeGlsvGEcqkMBs8cVIB5DqmjSuV53gIyNfAUR4Edfph.0qicKTmJyDdv6801E1LiDkTqGWC5zNFafT55CONFcjenr42_mpRtLyMEugnhwA65lSOdfIC44dgkwyy94gqr6MZ9JdqStspFzd8w_9QRB26INEZTgHO1YxNs6tICrzP325rygun3QRreCtalP7fUjrU7olSSXLof1D0XuvHEb6wqv7H4URZsDYDFDqa5rztOB4K9VYJkmTNKnCpgebqrWEWHPQjekTiobGewTPFjTTlwPU4bmnpqfDRHFmjndcUZRcuodAmUWsBD5DKQHR7Ct0URKsRLuYDrvRKpkHx_ql9d5hZfs_my_dn_7qhZKVv.JwokCSf5CDNCplG6ih.Z8791qyfvLOY_gk4ddggQT3jNSk4ir_r8NvnPhgZd..col26bEl8rT2JsaF91idVGwFTqvklih663F76c9UO4El0xX.tkANMKxFQ1Ry_IkF0luzGOZgFtDABcpryYjxYvczCZ2WmV7O4jk4lJ06OrVkRZhaZUoo3acHS.2W6EozJVmWb2T5s8r4YnluO0dVJqc9O7Xw.4C_9BdDWb.dy.HYQZIdQxXk0yb16eFs7tMp6WLJ7Xo94rqXky67Fj341OoPm5UnhK4LVgOZ8I0g9jTf.0IuEYiJk5XQ5CTYcIO5hhEBRzcWR8vIecfDn1trg1BZu6kobSXKNUy7jpmoMEwPXyCBMoJILQRCn.LYn7G_Vee8hAx6e9Ww5IJvgXEpiKjD4uUU6xiICVpnn6r.EjPdhDve15KnpQJhQWRrfogO9WqZwCJoXYbg_hqfGCyqlgcXCCHnLeHjmufu3cboG0zbIJ7QFFgQrRkGyPJvXSxwm5cegH5nxWt6Us9J4zqLEUnNP_gc1LCLZCuMte1wfIi8CPabNsKu34r0M_dUF_7x9ifEjDaDtXQNtHgSo',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9efa23301fd82b0c';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/backend-api/codex/analytics-events/events?__cf_chl_rt_tk=UBu38uuXlCuoM1JCHueBweM_DzADfY6fS2IcyMLiEDg-1776750901-1.0.1.1-.d54ofh6Dq006ah8ABBdCgzdgN3_5egibz2QGC0OFuE"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>
+    </div>
+  </body>
+</html>
+
+2026-04-21T05:55:03.113912Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:03.114739Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:55:06.764048Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:06.764393Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+我会先按要求读取项目约束和 essence 规则，再把 transcript 去重分批处理。因为你明确要求并行，我会在确认输入规模后把互不重叠的 transcript 批次分给并行 worker。
+2026-04-21T05:55:17.626827Z  WARN codex_otel::events::session_telemetry: metrics counter [codex.skill.injected] failed: tag value contains invalid characters: superpowers:using-superpowers
+exec
+/bin/zsh -lc "sed -n '1,220p' /Users/leafsun/.codex/superpowers/skills/using-superpowers/SKILL.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+---
+name: using-superpowers
+description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
+---
+
+<SUBAGENT-STOP>
+If you were dispatched as a subagent to execute a specific task, skip this skill.
+</SUBAGENT-STOP>
+
+<EXTREMELY-IMPORTANT>
+If you think there is even a 1% chance a skill might apply to what you are doing, you ABSOLUTELY MUST invoke the skill.
+
+IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
+
+This is not negotiable. This is not optional. You cannot rationalize your way out of this.
+</EXTREMELY-IMPORTANT>
+
+## Instruction Priority
+
+Superpowers skills override default system prompt behavior, but **user instructions always take precedence**:
+
+1. **User's explicit instructions** (CLAUDE.md, GEMINI.md, AGENTS.md, direct requests) — highest priority
+2. **Superpowers skills** — override default system behavior where they conflict
+3. **Default system prompt** — lowest priority
+
+If CLAUDE.md, GEMINI.md, or AGENTS.md says "don't use TDD" and a skill says "always use TDD," follow the user's instructions. The user is in control.
+
+## How to Access Skills
+
+**In Claude Code:** Use the `Skill` tool. When you invoke a skill, its content is loaded and presented to you—follow it directly. Never use the Read tool on skill files.
+
+**In Copilot CLI:** Use the `skill` tool. Skills are auto-discovered from installed plugins. The `skill` tool works the same as Claude Code's `Skill` tool.
+
+**In Gemini CLI:** Skills activate via the `activate_skill` tool. Gemini loads skill metadata at session start and activates the full content on demand.
+
+**In other environments:** Check your platform's documentation for how skills are loaded.
+
+## Platform Adaptation
+
+Skills use Claude Code tool names. Non-CC platforms: see `references/copilot-tools.md` (Copilot CLI), `references/codex-tools.md` (Codex) for tool equivalents. Gemini CLI users get the tool mapping loaded automatically via GEMINI.md.
+
+# Using Skills
+
+## The Rule
+
+**Invoke relevant or requested skills BEFORE any response or action.** Even a 1% chance a skill might apply means that you should invoke the skill to check. If an invoked skill turns out to be wrong for the situation, you don't need to use it.
+
+```dot
+digraph skill_flow {
+    "User message received" [shape=doublecircle];
+    "About to EnterPlanMode?" [shape=doublecircle];
+    "Already brainstormed?" [shape=diamond];
+    "Invoke brainstorming skill" [shape=box];
+    "Might any skill apply?" [shape=diamond];
+    "Invoke Skill tool" [shape=box];
+    "Announce: 'Using [skill] to [purpose]'" [shape=box];
+    "Has checklist?" [shape=diamond];
+    "Create TodoWrite todo per item" [shape=box];
+    "Follow skill exactly" [shape=box];
+    "Respond (including clarifications)" [shape=doublecircle];
+
+    "About to EnterPlanMode?" -> "Already brainstormed?";
+    "Already brainstormed?" -> "Invoke brainstorming skill" [label="no"];
+    "Already brainstormed?" -> "Might any skill apply?" [label="yes"];
+    "Invoke brainstorming skill" -> "Might any skill apply?";
+
+    "User message received" -> "Might any skill apply?";
+    "Might any skill apply?" -> "Invoke Skill tool" [label="yes, even 1%"];
+    "Might any skill apply?" -> "Respond (including clarifications)" [label="definitely not"];
+    "Invoke Skill tool" -> "Announce: 'Using [skill] to [purpose]'";
+    "Announce: 'Using [skill] to [purpose]'" -> "Has checklist?";
+    "Has checklist?" -> "Create TodoWrite todo per item" [label="yes"];
+    "Has checklist?" -> "Follow skill exactly" [label="no"];
+    "Create TodoWrite todo per item" -> "Follow skill exactly";
+}
+```
+
+## Red Flags
+
+These thoughts mean STOP—you're rationalizing:
+
+| Thought | Reality |
+|---------|---------|
+| "This is just a simple question" | Questions are tasks. Check for skills. |
+| "I need more context first" | Skill check comes BEFORE clarifying questions. |
+| "Let me explore the codebase first" | Skills tell you HOW to explore. Check first. |
+| "I can check git/files quickly" | Files lack conversation context. Check for skills. |
+| "Let me gather information first" | Skills tell you HOW to gather information. |
+| "This doesn't need a formal skill" | If a skill exists, use it. |
+| "I remember this skill" | Skills evolve. Read current version. |
+| "This doesn't count as a task" | Action = task. Check for skills. |
+| "The skill is overkill" | Simple things become complex. Use it. |
+| "I'll just do this one thing first" | Check BEFORE doing anything. |
+| "This feels productive" | Undisciplined action wastes time. Skills prevent this. |
+| "I know what that means" | Knowing the concept ≠ using the skill. Invoke it. |
+
+## Skill Priority
+
+When multiple skills could apply, use this order:
+
+1. **Process skills first** (brainstorming, debugging) - these determine HOW to approach the task
+2. **Implementation skills second** (frontend-design, mcp-builder) - these guide execution
+
+"Let's build X" → brainstorming first, then implementation skills.
+"Fix this bug" → debugging first, then domain-specific skills.
+
+## Skill Types
+
+**Rigid** (TDD, debugging): Follow exactly. Don't adapt away discipline.
+
+**Flexible** (patterns): Adapt principles to context.
+
+The skill itself tells you which.
+
+## User Instructions
+
+Instructions say WHAT, not HOW. "Add X" or "Fix Y" doesn't mean skip workflows.
+
+2026-04-21T05:55:17.719860Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:17.720104Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+Using `superpowers:dispatching-parallel-agents` for the batch split, plus the local collect skill/style notes because they define the required output format and voice.
+2026-04-21T05:55:31.318113Z  WARN codex_otel::events::session_telemetry: metrics counter [codex.skill.injected] failed: tag value contains invalid characters: superpowers:dispatching-parallel-agents
+exec
+/bin/zsh -lc "sed -n '1,240p' /Users/leafsun/.codex/superpowers/skills/dispatching-parallel-agents/SKILL.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+---
+name: dispatching-parallel-agents
+description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+---
+
+# Dispatching Parallel Agents
+
+## Overview
+
+You delegate tasks to specialized agents with isolated context. By precisely crafting their instructions and context, you ensure they stay focused and succeed at their task. They should never inherit your session's context or history — you construct exactly what they need. This also preserves your own context for coordination work.
+
+When you have multiple unrelated failures (different test files, different subsystems, different bugs), investigating them sequentially wastes time. Each investigation is independent and can happen in parallel.
+
+**Core principle:** Dispatch one agent per independent problem domain. Let them work concurrently.
+
+## When to Use
+
+```dot
+digraph when_to_use {
+    "Multiple failures?" [shape=diamond];
+    "Are they independent?" [shape=diamond];
+    "Single agent investigates all" [shape=box];
+    "One agent per problem domain" [shape=box];
+    "Can they work in parallel?" [shape=diamond];
+    "Sequential agents" [shape=box];
+    "Parallel dispatch" [shape=box];
+
+    "Multiple failures?" -> "Are they independent?" [label="yes"];
+    "Are they independent?" -> "Single agent investigates all" [label="no - related"];
+    "Are they independent?" -> "Can they work in parallel?" [label="yes"];
+    "Can they work in parallel?" -> "Parallel dispatch" [label="yes"];
+    "Can they work in parallel?" -> "Sequential agents" [label="no - shared state"];
+}
+```
+
+**Use when:**
+- 3+ test files failing with different root causes
+- Multiple subsystems broken independently
+- Each problem can be understood without context from others
+- No shared state between investigations
+
+**Don't use when:**
+- Failures are related (fix one might fix others)
+- Need to understand full system state
+- Agents would interfere with each other
+
+## The Pattern
+
+### 1. Identify Independent Domains
+
+Group failures by what's broken:
+- File A tests: Tool approval flow
+- File B tests: Batch completion behavior
+- File C tests: Abort functionality
+
+Each domain is independent - fixing tool approval doesn't affect abort tests.
+
+### 2. Create Focused Agent Tasks
+
+Each agent gets:
+- **Specific scope:** One test file or subsystem
+- **Clear goal:** Make these tests pass
+- **Constraints:** Don't change other code
+- **Expected output:** Summary of what you found and fixed
+
+### 3. Dispatch in Parallel
+
+```typescript
+// In Claude Code / AI environment
+Task("Fix agent-tool-abort.test.ts failures")
+Task("Fix batch-completion-behavior.test.ts failures")
+Task("Fix tool-approval-race-conditions.test.ts failures")
+// All three run concurrently
+```
+
+### 4. Review and Integrate
+
+When agents return:
+- Read each summary
+- Verify fixes don't conflict
+- Run full test suite
+- Integrate all changes
+
+## Agent Prompt Structure
+
+Good agent prompts are:
+1. **Focused** - One clear problem domain
+2. **Self-contained** - All context needed to understand the problem
+3. **Specific about output** - What should the agent return?
+
+```markdown
+Fix the 3 failing tests in src/agents/agent-tool-abort.test.ts:
+
+1. "should abort tool with partial output capture" - expects 'interrupted at' in message
+2. "should handle mixed completed and aborted tools" - fast tool aborted instead of completed
+3. "should properly track pendingToolCount" - expects 3 results but gets 0
+
+These are timing/race condition issues. Your task:
+
+1. Read the test file and understand what each test verifies
+2. Identify root cause - timing issues or actual bugs?
+3. Fix by:
+   - Replacing arbitrary timeouts with event-based waiting
+   - Fixing bugs in abort implementation if found
+   - Adjusting test expectations if testing changed behavior
+
+Do NOT just increase timeouts - find the real issue.
+
+Return: Summary of what you found and what you fixed.
+```
+
+## Common Mistakes
+
+**❌ Too broad:** "Fix all the tests" - agent gets lost
+**✅ Specific:** "Fix agent-tool-abort.test.ts" - focused scope
+
+**❌ No context:** "Fix the race condition" - agent doesn't know where
+**✅ Context:** Paste the error messages and test names
+
+**❌ No constraints:** Agent might refactor everything
+**✅ Constraints:** "Do NOT change production code" or "Fix tests only"
+
+**❌ Vague output:** "Fix it" - you don't know what changed
+**✅ Specific:** "Return summary of root cause and changes"
+
+## When NOT to Use
+
+**Related failures:** Fixing one might fix others - investigate together first
+**Need full context:** Understanding requires seeing entire system
+**Exploratory debugging:** You don't know what's broken yet
+**Shared state:** Agents would interfere (editing same files, using same resources)
+
+## Real Example from Session
+
+**Scenario:** 6 test failures across 3 files after major refactoring
+
+**Failures:**
+- agent-tool-abort.test.ts: 3 failures (timing issues)
+- batch-completion-behavior.test.ts: 2 failures (tools not executing)
+- tool-approval-race-conditions.test.ts: 1 failure (execution count = 0)
+
+**Decision:** Independent domains - abort logic separate from batch completion separate from race conditions
+
+**Dispatch:**
+```
+Agent 1 → Fix agent-tool-abort.test.ts
+Agent 2 → Fix batch-completion-behavior.test.ts
+Agent 3 → Fix tool-approval-race-conditions.test.ts
+```
+
+**Results:**
+- Agent 1: Replaced timeouts with event-based waiting
+- Agent 2: Fixed event structure bug (threadId in wrong place)
+- Agent 3: Added wait for async tool execution to complete
+
+**Integration:** All fixes independent, no conflicts, full suite green
+
+**Time saved:** 3 problems solved in parallel vs sequentially
+
+## Key Benefits
+
+1. **Parallelization** - Multiple investigations happen simultaneously
+2. **Focus** - Each agent has narrow scope, less context to track
+3. **Independence** - Agents don't interfere with each other
+4. **Speed** - 3 problems solved in time of 1
+
+## Verification
+
+After agents return:
+1. **Review each summary** - Understand what changed
+2. **Check for conflicts** - Did agents edit same code?
+3. **Run full suite** - Verify all fixes work together
+4. **Spot check** - Agents can make systematic errors
+
+## Real-World Impact
+
+From debugging session (2025-10-03):
+- 6 failures across 3 files
+- 3 agents dispatched in parallel
+- All investigations completed concurrently
+- All fixes integrated successfully
+- Zero conflicts between agent changes
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md" in /Users/leafsun/Desktop/AI Org研究
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/学习/skills/collect/SKILL.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+---
+type: style_notes
+date: 2026-04-21
+source_reference: 学习/style_references/anthropic_org_investment_style_reference_2026-04-21.md
+status: current
+---
+
+# Anthropic 组织投资文章风格拆解
+
+## 核心风格
+
+这篇文章的写法像一份高密度投资 memo：每个小标题先给判断，正文立刻解释机制，再用访谈原话、数字或具体 case 把判断钉住。它不追求文学化，也不写研究报告式的背景铺垫；读者一眼能看到观点、变量、证据和投资含义。
+
+最值得迁移到 essence 的，是这篇文章的写作动作：
+- 小标题就是 topic sentence，直接给结论，不写空泛分类名。
+- 第一段先讲机制，少讲背景。开场直接回答“为什么这条材料重要”，少复述 source 里发生了什么。
+- 每段至少有一个可落地名词：`feedback loop`、`recipe`、`FDE`、`ARR`、`workflow`、`culture interview`、`RSU`、`agentic RL`。
+- 中文判断和英文关键词混写。英文词只在概念更精确时出现，不为了显得科技感。
+- 数字要嵌进判断里，不单独堆表：1000 人到两三千人、85% enterprise API、18% Claude Code、4000 万美金/月，都服务一个更大的判断。
+- 证据写法贴近人话：原话可以长一点，保留说话人的语气和犹豫，方便之后手动剪裁。
+- 竞争判断要敢压缩：谁强、谁弱、强在哪里、弱在哪里，直接写。
+- 风险也写成机制，不写“存在不确定性”这种空话。
+
+## Essence 写法迁移
+
+### 标题
+
+标题要像一句投资判断，不能只是主题标签。
+
+好的标题：
+- `Pass/No Pass 的绩效设计，把内耗压到最低`
+- `Post-training 工作流的 agentic 化，是 Anthropic ARR 爆炸增长的核心驱动`
+- `Meta 是 Anthropic 最大的客户，每月 API 消耗约 4000 万美金`
+- `Codex 由 PM Tibo 全闭环 lead，赛马机制跑出来的，是 Anthropic 最强竞争信号`
+
+弱标题：
+- `组织文化`
+- `产品开发`
+- `客户案例`
+- `竞争格局`
+
+### 判断段
+
+判断段要先把机制讲出来，再补背景和含义。不要写成“这段材料说明了……”。更好的顺序是：
+
+`结论 / 机制 -> 具体动作 -> 为什么重要 -> 对组织或业务的含义`
+
+句子可以长，但必须有信息密度。允许一段里同时放中文判断、英文关键词和数字。
+
+### Quote Pack
+
+quote pack 是素材池，不是装饰证据。每个 insight 后保留 3-8 条原文摘录，优先覆盖：
+- 说话人怎么定义问题
+- 具体机制如何运行
+- 数字、时间、比例、组织变化
+- 竞争对手或客户的真实反馈
+- 能体现语气的原话
+
+## 硬编码样例
+
+### E01 — Cowork 用 Claude 写 Cowork，速度来自闭环本身
+
+Claude Cowork 从去年 3 月开始做，速度来自一套很短的 iteration loop：内部员工自己就是核心用户，idea 先做成 prototype，再用 feedback 和 data 往回打。从写到发布只隔一两天，没人 complain 就 push，产品和组织之间没有很厚的翻译层。内部 Claude Code 比外部版本快 10 倍后，这套闭环开始变成 compounding：更强的工具写出更强的工具，模型训练和产品迭代互相加速。
+
+“Claude Cowork 从去年 3 月开始做，能做这么快就是因为一套极紧的迭代 loop：内部员工就是核心用户，有 idea 直接做，做完立刻拿到 feedback 和 data，再继续迭代。”
+
+“从写到发布，内部测试一两天，没有人 complain 就直接 push。”
+
+“Anthropic 内部的 Claude Code 比外部版本快 10 倍。”
+
+“内部用的模型远比市面上好，用这个模型来构建下一代模型，就是 compounding，就能一直领先。”
+
+### E02 — Pass/No Pass 把绩效从抢功劳里拆出来
+
+Anthropic 的绩效设计把内部政治压到很低：只有 pass / no pass，没有 3 档、5 档排名。这个设计鼓励员工去做对公司重要、短期不一定帮自己升职的 project，也让晋升从 review cycle 里解耦。manager 看到一个人的工作已经亮到无法忽视，就可以直接提拔。包装 impact 的空间被压小，能把事情做成的人更容易浮出来。
+
+“Anthropic 的绩效评估只有 pass / no pass，故意没有 3 档、5 档的层级。”
+
+“细分层级会让人去抢功劳、去规避那些‘对公司重要但不帮我升职’的 project。”
+
+“晋升的决定权从绩效周期解绑——manager 看你的工作耀眼到无法忽视，直接提拔，不需要等任何 review cycle。”
+
+“他自己建了好几个组，建了好几个完全不同、完全没有人想要的方向……他做这些东西不是为了 promote 而 promote，而是为了把这件事做成。在这里，做成是最重要的事情。”
+
+## 禁止项
+
+- 不写“这段材料说明了”这种机械摘要。
+- 不写“AI 赋能”“组织升级”“深度协同”这类空词。
+- 不用二元对照模板撑句子。
+- 不把一篇 source 压成一条 insight。
+- 不把 quote pack 缩成一句象征性引用。
+- 不在每个 block 后加工具性尾巴。
+
+ succeeded in 0ms:
+---
+name: collect
+description: 一键启动全量数据采集 — 输入公司代码即可自动采集所有财务、SEC年报、YouTube、播客、社交媒体数据
+argument-hint: TICKER [CompanyName] [--cn 中文名]
+---
+
+## 路径约定（Alike Investment集成）
+
+本skill的输出路径已适配Alike Investment的vault结构：
+- 输出根目录：`vault/companies/{slug}/discovery/`（不再是 `discovery_database/{TICKER}/`）
+- slug = kebab-case公司名（如 applovin, duolingo, pop-mart）
+- TICKER→slug映射：查询 `vault/_index.json` 的 `tickerMap` 字段
+- 如果_index.json中没有该TICKER，创建新目录并更新_index.json
+
+所有输出路径中的 `discovery_database/{TICKER}/` 或 `{TICKER}/` 替换为 `vault/companies/{slug}/discovery/`。
+例如：`APP/sources/youtube/` → `vault/companies/applovin/discovery/sources/youtube/`
+
+所有采集数据的YAML frontmatter必须包含 `credibility: S?` 和 `evidence: E?` 字段。
+
+# Discovery Database — 全量数据采集
+
+你是数据采集调度中心。用户输入一个公司代码，你需要执行完整的数据采集流程。
+
+## 输入解析
+
+用户输入: `$ARGUMENTS`
+
+解析规则:
+- 第一个参数是 TICKER（如 APP, NVDA, GOOG）
+- 第二个参数（可选）是英文公司名
+- `--cn` 后面是中文公司名
+- 如果只给了TICKER，从内置字典自动查找公司名
+
+## 信源置信度标签（本skill涉及的来源）
+
+所有采集的数据在YAML frontmatter中必须包含 `credibility` 和 `evidence` 字段。
+参见 CLAUDE.md 中的"信源置信度标签系统"完整定义。
+
+| 模块 | 默认S标签 | 默认E标签 |
+|------|-----------|-----------|
+| financials (yfinance) | S5 | E3 |
+| xbrl (SEC EDGAR) | S5 | E4 |
+| full_dump | S5 | E3-E4 |
+| sec_filings (10-K/10-Q) | S5 | E4 |
+| youtube | S1-S3 | E1-E2 |
+| podcasts | S2-S3 | E2 |
+| xiaoyuzhou | S2-S3 | E2 |
+| social-search (Twitter) | S1-S3 | E1-E2 |
+| social-search (Substack) | S2 | E2 |
+| social-search (Reddit) | S1 | E1 |
+| perplexity research | S1-S2 | E1-E2 |
+| org-scan (SEC DEF 14A) | S5 | E4 |
+| org-scan (LinkedIn) | S4 | E2 |
+
+## 执行流程
+
+### Step 1: 运行统一采集脚本
+
+```bash
+cd /Users/leafsun/Desktop/AI\ Org研究 && python3 scripts/discovery/collect.py $ARGUMENTS
+```
+
+这个脚本会并行执行以下模块:
+1. **financials** — yfinance基础财务 → profile.md, financials.md
+2. **xbrl** — SEC EDGAR XBRL详细指标 → financials_detailed.md
+3. **full_dump** — 全量数据dump（XBRL全371指标+yfinance全报表+完整价格+持股）
+4. **sec_filings** — SEC年报/季报全文下载（10-K, 10-Q）
+5. **youtube** — YouTube搜索+字幕提取（20个视频）
+6. **podcasts** — Apple Podcasts搜索（中英文）
+7. **xiaoyuzhou** — 小宇宙播客搜索
+
+### Step 1.1: 播客转录闭环（必须执行到可解释收口）
+
+播客采集不是拿到 metadata 就结束。每次完成 podcast metadata 抓取后，必须继续跑转录，并把失败处理到最大化：
+
+#### Step 1.1.0: 播客搜索前元思考
+
+搜索前先写清楚关键词宇宙，并确认脚本已输出 `_podcast_query_map.md`：
+- 公司名、简称、旧名、产品名、核心协议/技术名
+- Founder、CEO、C-level、关键产品/研究/商业负责人
+- 公司对应行业关键词和行业访谈关键词
+- 重要客户、伙伴、竞争对手
+- 组织与 AI 转型相关词，如 hiring、org、culture、AI transformation、agent、workflow、developer productivity
+
+不要只搜公司名。搜索完整性本身就是研究质量的一部分。
+
+YouTube / Substack / web longform 搜索必须复用这份关键词宇宙：
+- Podcast 阶段形成的 `_podcast_query_map.md` 是后续 YouTube、Substack、X、Reddit、web longform 的基础 query map，不能每个 source 重新临时想关键词。
+- 每个关键词都要至少跑一遍对应 source 搜索；如果关键词过宽，再追加 source-specific 限定词，而不是丢弃这个关键词。
+- YouTube 追加限定词：`interview`、`podcast`、`talk`、`keynote`、`demo`、`founder`、`CEO`、`engineering`、`AI workflow`、`product update`、`office hours`。
+- Substack / longform 追加限定词：`analysis`、`deep dive`、`memo`、`investment`、`strategy`、`organization`、`founder mode`、`revenue`、`ARR`、`enterprise`、`product-market fit`。
+- 每个 source 要输出自己的 query coverage 文件，例如 `_youtube_query_map.md`、`_substack_query_map.md`，并标明它们继承自 `_podcast_query_map.md`。
+- 搜索结果要记录 `query -> returned urls -> selected urls -> rejected urls/reason`，否则后面无法判断是“没有材料”，还是“搜得不完整”。
+- 如果某个关键词在 YouTube / Substack 上噪音过大，先用 source-specific 限定词、时间范围、人物名、产品名、站点限定收窄；不能直接跳过。
+
+```bash
+cd /Users/leafsun/Desktop/AI\ Org研究 && python3 scripts/discovery/fetch_podcast_transcript.py {TICKER} 50 auto
+```
+
+硬规则：
+- podcast metadata 抓取默认跳过已知时长小于 10 分钟的 episode；未知时长不直接丢弃
+- 转录脚本跑完后，必须检查 `_podcast_transcription_status.json` 和 `_podcast_transcription_failures.json`
+- `skipped_short` 与 `deferred_max_limit` 只算可解释跳过，不算真实转录失败；真实 failure list 应只保留需要重试或修脚本的条目
+- 只要存在失败条目，先重新转录失败项；不要把“部分成功”写成“完成”
+- 如果同一条多轮失败，先判断是音频 URL 过期、RSS 未匹配、DashScope 拉取失败、网络瞬时错误，还是脚本字段兼容问题
+- Provider 顺序固定为：Groq Whisper URL -> DashScope/百炼 URL -> 本地下载 + DashScope OSS -> 标准音频 + DashScope REST
+- 优先使用 RSS enclosure / episode metadata 中的原始 `audio_url` 作为公网 URL 直接提交 Groq；Groq 失败、额度不足、rate limit、远程 URL 拉取失败、文件过大或转录空结果时，再提交 DashScope/百炼
+- Groq 的 `url` 请求必须使用 `multipart/form-data`；普通 form-urlencoded 会失败
+- 如果远程 URL 可访问但 DashScope 拉取失败，必须尝试本地下载音频，再上传到百炼 OSS 后转录
+- 如果 URL 预检失败，也不要立刻放弃；只要原始链接看起来仍是音频源，就继续尝试本地下载、缓存、上传百炼 OSS，再用 OSS 地址转录
+- 如果本机下载成功、OSS 上传没有直接失败，但 DashScope 子任务仍报 `FILE_DOWNLOAD_FAILED`，必须升级为标准音频重试：
+  - 原始下载音频放 `_audio_cache/`，标准化音频放 `_standard_audio/`
+  - 优先转成标准 `mp3`；如果本机没有 `ffmpeg` 或 MP3 编码不可用，转成官方同样支持且兼容更稳的 `wav`，建议 `16kHz / mono / 16-bit PCM`
+  - 标准化音频上传 OSS 后，用 Paraformer RESTful API 提交；不要用 Python SDK 处理 `oss://` 临时 URL或需要 `X-DashScope-OssResourceResolve` 的场景
+  - transcript 写出后必须校验 markdown 非空、包含 `## Transcript`、状态 JSON 对应条目为 success，再删除原始 `_audio_cache` 音频
+  - `_audio_cache/` 和 `_standard_audio/` 绝不进 vault，只保留 transcript、status、failures
+- 每条 transcript frontmatter 必须记录 `transcription_provider` 和 `transcription_engine`；status JSON 必须保留 provider attempts，方便复盘 Groq / DashScope / OSS 哪一层起效
+- 若失败原因可能来自脚本，必须先修脚本，再重跑；修完脚本后重新生成 status / failures
+- 最终如果仍无法全部成功，必须留下失败条目、URL、失败原因、已尝试的修复动作，作为可追溯残差，而不是静默跳过
+
+#### Step 1.1.1: Transcript relevance review 和 essence
+
+所有 podcast / YouTube / Substack / web transcript 抓完后，必须先做 relevance review，再写 essence，不要直接进入最终分析。
+
+固定流程：
+- 先淘汰低相关 transcript：和公司、行业、管理层、产品、组织或投资主题相关性太低的，标记为 low relevance，不进入 essence。
+- 对高相关 transcript / article 逐条提炼，做到一个 source 对应一个 essence 文档；但 essence 文档内部必须包含多条 insight blocks。
+- Essence 提炼必须采用 sequential pass：从 source 开头往后顺序读，一段一段判断，不能先预设一个高层角度再从全文里挑材料。用户确认的角度只能作为优先级提示，不能作为过滤器。
+- 每读完一段或一个自然语义 chunk，都要问：这里有没有新的机制、动作、数字、管理层判断、组织信号、产品策略、用户反馈、商业模式、竞争信息或可投资化证据？有就新增 insight block 或追加到正在形成的 block；没有就跳过。
+- 如果连续几段都在讲同一个机制，可以合并成一个 block，但要保留 source 顺序和核心 quote pack；如果主题变化，就开新 block。
+- 一篇长文或长播客不能压成“一句话 insight”。长材料出现十几条到几十条 insight blocks 是正常结果。
+- 不同主题不要强行合并：组织、招聘、产品、商业模式、行业判断、风险、用户体验、财务数据应拆成不同 block。
+- 每个 insight block 的判断文字要写成可以直接进入研究报告的详实自然段，语气接近记者/投资 memo。它必须解释清楚：这段材料在讲什么、为什么值得留下、它说明了哪种组织/产品/商业机制；不要写成一句机械摘要、标签、或“这段说明了……”。
+- 标题下面直接写判断自然段，不加 `**判断段**` 这类标签，避免模板感。
+- 语言风格要像人写的研究笔记：句子要有判断、有细节、有语气，但不要堆黑话。避免二元对照模板句；能正面说清楚就正面说。核心概念可以保留英文，如 `workflow`、`feedback loop`、`cadence`、`owner`、`context`，但英文词必须帮助表达，不要当装饰。
+- 当前风格基准来自 `学习/style_references/anthropic_org_investment_style_reference_2026-04-21.md` 和 `学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md`。后续用户提供新风格文章时，必须先原文保存到 `学习/style_references/`，再提炼语言风格和一两段可复用样例，并更新到本 Essence 写作样例中。
+- 判断自然段后面必须直接给出 quote pack，不再使用“关键引用 / 近原文证据”这类标题。quote pack 要保留足够多的原文素材，给后续手动改写和剪裁留空间，不能只贴一句最短证据。
+- 每个 insight block 默认摘 3-8 条原文；每条可以是一句完整长句，也可以是连续几句，只要确实支撑同一个判断。优先覆盖：机制解释、管理动作、数字、创始人原话语气、反身性评价、和判断段中最关键的因果链。
+- 如果一句原文很长，但它本身承载完整逻辑，可以保留完整长句；不要为了“短”把因果关系切碎。公开播客、YouTube、长文等材料仍避免整段无选择地搬运，保留高信息密度摘录。
+- insight block 里不要再加 `可用于哪些分析角度`、`原文定位` 等工具性尾巴；source 路径已经在 frontmatter 里，quote pack 自身承担证据功能。
+- 不允许用“近原文”冒充引用；如果是转录噪音较多的文本，可以保留原始转录句子，同时在判断段里解释其含义。
+- Podcast essence 放入 `companies/{company}/vault/podcasts/podcast-essence/`。
+- YouTube essence 放入 `companies/{company}/vault/youtube/youtube-essence/`。
+- Substack / web essence 放入 `companies/{company}/vault/web/source-essence/`。
+- 后续正式分析优先基于 essence；raw transcript 只用于追溯核验。
+
+Essence 格式：
+```markdown
+---
+company: Company
+research_key: TARGET
+type: podcast_essence
+source_transcript: /abs/path/to/transcript.md
+relevance: high
+status: current
+---
+
+# Source Title
+
+## Relevance Review
+
+- relevance: high / medium / low
+- 保留原因：
+- 淘汰原因（如适用）：
+
+## Insight Blocks
+
+### E01 — 短标题
+
+用一段更详实的文字写出这一处材料真正值得留下的 insight。它应该像研究报告里的自然段，不能停留在“摘要一句话”。这里分析的是一个具体片段，不承担整篇 source 的唯一总结；要写清楚机制、背景、指向和可投资化含义。
+
+“完整原文短句，直接贴在判断自然段后面，不加‘关键引用’标题。” —— speaker/source, date
+
+“继续贴第二条原文。这里要保留后续写作可以剪裁的 quote pack，不能象征性给一句证据就结束。” —— speaker/source, date
+
+“如果第三条原文能补足机制、数字或创始人的语气，也继续贴在这里。” —— speaker/source, date
+
+“长句可以保留完整，只要它确实有信息密度，不是整段无差别搬运。” —— speaker/source, date
+
+### E02 — 短标题
+
+这里直接写第二条 insight 的判断自然段，不加标签，也不要写成一句话摘要。
+
+“完整原文短句。” —— speaker/source, date
+
+“同一 insight 下面继续补充第二、第三条原文，方便后期手动调整。” —— speaker/source, date
+
+## Source-Level Takeaways
+
+- 这篇材料整体说明了什么，但只能放在所有 insight blocks 之后，不能替代逐段提炼。
+```
+
+Essence 写作样例（风格基准，来自 Anthropic style reference）：
+```markdown
+### E01 — Cowork 用 Claude 写 Cowork，速度来自闭环本身
+
+Claude Cowork 从去年 3 月开始做，速度来自一套很短的 iteration loop：内部员工自己就是核心用户，idea 先做成 prototype，再用 feedback 和 data 往回打。从写到发布只隔一两天，没人 complain 就 push，产品和组织之间没有很厚的翻译层。内部 Claude Code 比外部版本快 10 倍后，这套闭环开始变成 compounding：更强的工具写出更强的工具，模型训练和产品迭代互相加速。
+
+“Claude Cowork 从去年 3 月开始做，能做这么快就是因为一套极紧的迭代 loop：内部员工就是核心用户，有 idea 直接做，做完立刻拿到 feedback 和 data，再继续迭代。”
+
+“从写到发布，内部测试一两天，没有人 complain 就直接 push。”
+
+“Anthropic 内部的 Claude Code 比外部版本快 10 倍。”
+
+“内部用的模型远比市面上好，用这个模型来构建下一代模型，就是 compounding，就能一直领先。”
+
+### E02 — Pass/No Pass 把绩效从抢功劳里拆出来
+
+Anthropic 的绩效设计把内部政治压到很低：只有 pass / no pass，没有 3 档、5 档排名。这个设计鼓励员工去做对公司重要、短期不一定帮自己升职的 project，也让晋升从 review cycle 里解耦。manager 看到一个人的工作已经亮到无法忽视，就可以直接提拔。包装 impact 的空间被压小，能把事情做成的人更容易浮出来。
+
+“Anthropic 的绩效评估只有 pass / no pass，故意没有 3 档、5 档的层级。”
+
+“细分层级会让人去抢功劳、去规避那些‘对公司重要但不帮我升职’的 project。”
+
+“晋升的决定权从绩效周期解绑——manager 看你的工作耀眼到无法忽视，直接提拔，不需要等任何 review cycle。”
+
+“他自己建了好几个组，建了好几个完全不同、完全没有人想要的方向……他做这些东西不是为了 promote 而 promote，而是为了把这件事做成。在这里，做成是最重要的事情。”
+```
+
+写 essence 前必须先问用户确认本轮提炼角度，但角度只决定“哪些内容更值得优先保留”，不改变 sequential pass。默认候选角度包括：组织结构相关核心信息、管理层的思考、组织形态与业务的关系、招聘技巧、内部 AI 转型、AI 管理工具、过去管理工具如何变化、AI 与人协作、管理产品、工具体系、管理产品背后的世界观、商业模式、行业结构、业务数据、CEO 对行业的哲学判断。
+
+官方依据：
+- Paraformer RESTful API 要求输入为公网可访问 URL，REST 场景支持 `oss://` 临时 URL；必要时可在 header 加 `X-DashScope-OssResourceResolve: enable`。
+- Paraformer Python SDK 不支持本地文件直传，不支持 `oss://` 临时 URL，也不支持配置上述 header。
+- 官方支持 `mp3`、`m4a`、`wav` 等格式，但明确说明格式变种无法穷尽测试，不能保证所有变种都能正确识别；所以标准化音频是 ASR 失败重试的必要步骤。
+- 文档链接：
+  - https://help.aliyun.com/zh/model-studio/paraformer-recorded-speech-recognition-restful-api
+  - https://help.aliyun.com/zh/model-studio/paraformer-recorded-speech-recognition-python-sdk
+
+### Step 1.5: Perplexity深度研究
+
+```bash
+cd /Users/leafsun/Desktop/AI\ Org研究 && python3 scripts/discovery/fetch_perplexity.py {TICKER} "{CompanyName}" "{CEO Name}"
+```
+
+这个脚本会用Perplexity sonar-pro模型进行7个维度的深度研究:
+1. **twitter_discussions** — Twitter/X上的全面讨论汇总
+2. **reddit_discussions** — Reddit DD帖子和讨论全文
+3. **independent_analysis** — Substack/独立分析师的深度文章
+4. **management_interviews** — CEO/管理层所有公开访谈和播客出场
+5. **product_technology** — 产品和技术深度分析
+6. **controversies_short_reports** — 做空报告、SEC调查、争议事件
+7. **competitive_landscape** — 竞争格局和行业分析
+8. **financial_deep_dive** — 五年财务深度分析
+
+输出到 `vault/companies/{slug}/discovery/sources/perplexity/` 目录。
+
+### Step 2: 全平台社交媒体搜索
+
+脚本执行完后，调用 `/social-search {TICKER} "{CompanyName}" "{CEO Name}"` skill，覆盖:
+- Twitter/X — CEO动态、市场讨论（优先Chrome MCP，备选WebSearch）
+- Substack — 深度分析文章（WebFetch全文提取）
+- Reddit — 散户情绪和DD帖子（WebFetch全文提取）
+- LinkedIn — 管理层职业动态
+
+社媒与长文搜索的默认 query 来源：
+- 先读取 `companies/{company}/vault/podcasts/_podcast_query_map.md` 或 `scripts/{TICKER}/_podcast_query_map.md`。
+- 如果没有 podcast query map，必须先补一份通用 `_source_query_map.md`，内容等同 Step 1.1.0 的关键词宇宙。
+- YouTube、Substack、X、Reddit、LinkedIn 都继承同一份关键词宇宙，再按平台加限定词。
+- 不能只搜公司名、CEO 名、产品名中的一两个；必须覆盖 founder/C-level、产品、行业、客户/伙伴/竞品、组织/AI 转型这几组关键词。
+
+2026-04-21T05:55:31.419539Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:31.419809Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:55:32.661068Z  WARN codex_analytics::client: events failed with status 403 Forbidden: <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style global>body{font-family:Arial,Helvetica,sans-serif}.container{align-items:center;display:flex;flex-direction:column;gap:2rem;height:100%;justify-content:center;width:100%}@keyframes enlarge-appear{0%{opacity:0;transform:scale(75%) rotate(-90deg)}to{opacity:1;transform:scale(100%) rotate(0deg)}}.logo{color:#8e8ea0}.scale-appear{animation:enlarge-appear .4s ease-out}@media (min-width:768px){.scale-appear{height:48px;width:48px}}.data:empty{display:none}.data{border-radius:5px;color:#8e8ea0;text-align:center}@media (prefers-color-scheme:dark){body{background-color:#343541}.logo{color:#acacbe}}</style>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <svg
+          width="41"
+          height="41"
+          viewBox="0 0 41 41"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          strokeWidth="2"
+          class="scale-appear"
+        >
+          <path
+            d="M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+      <div class="data"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'TtK1ZdliWLd4A87N_1tFtiNzAQVMnVyf3GOgLF6JA8o-1776750932-1.2.1.1-btrnrNK4I2gbfxgR1pE7q7MghWLnZeqVrkx1LiXu0r2RnEqA39u7ep6aKhGrpf5j',cITimeS: '1776750932',cRay: '9efa23f0effc2c7f',cTplB: '0',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/backend-api/codex/analytics-events/events?__cf_chl_tk=fNWO1lUSMSMmud32CcwYQ6dX.q.KGFQLe2w4UIzZG.U-1776750932-1.0.1.1-Rmygr3FvRU2irSdezuypUVtkWLuaPz_Ed_JqRXHAa2w",cvId: '3',cZone: 'chatgpt.com',fa:"/backend-api/codex/analytics-events/events?__cf_chl_f_tk=fNWO1lUSMSMmud32CcwYQ6dX.q.KGFQLe2w4UIzZG.U-1776750932-1.0.1.1-Rmygr3FvRU2irSdezuypUVtkWLuaPz_Ed_JqRXHAa2w",md: 'vcfisEvlBewKc.twqnjuknb5H9XKZSI3DdianChdbN4-1776750932-1.2.1.1-WdEwohJmxakemk004CTVarih2vQz2YQR0bLZUXDSbpB2IkwHgYr277QD5iC.enSg5RSvNXhwwPmZBZV6n3chb_8plCPOpjEp0P4a22w3JV7kJDBqHgfu_U_ecdgLY.tU9mIyAw6w2YGnd0gfEfckMiwTIxfMcvzzf_vn8IwtQLaI5ceXKKhBtlxdwsLAMW4f7Xj.XSVvkaKpfl4qOZuRMqBv7isvCzb3lVRDD40giYluGmd3ba6DTwxxoLurv2P95L_oO5rznaLOVknjKA6ZGEzNXV0l2ijaIKWSOXvvbopsoRm.KyNUCJojEhJLousTj.ZVLcQ_nOLm_YLuhjdvl22ea_JyLDgN1w.vqePeNyghCOfh97QXeHBs.M13_bV1zbOdSg9Ka5teJvAYr2BL52moiKCTL6bl9x.F1eh8kAdLHtPLTXkxXqBxGfK8w53S8JHbB6AsOTgFgXFbo5voUEX76w6.ShhzKwao15qsLMC2KvT20G9_po86O.jp13rzhk_yVYB5LWRZ_RZMPwRlLAVT1cuP6R.csfPvleKqsumFeNUnjODj8HAdlIKe6I7anfx7GcMYROSnNpZtbbQ6K4wH38JGcmnbcWS6zVnuMJ2y9mhgYPwrSqKvgt7HCcYlJYrjH5ul0di7ubVcdOMvTDu2qrEihxvcs0jSwWUzo3VYRnd17FceH5WtX6qgnGBLLPl5GHOBjecds7LFCQAmKXqg88MvZkSSGMUUFpacW9DFxJAP.pgzYLLD04hBbnXk7WuF7CFfTRcJE7AykFe9srUFJC8vwO.IIxuxwwiei2C3Za98hnsPouPlK2cl7JTf9mCp5HegTx0gFW7eJGJ.pA5nWM.CzBptJAT631jntZZasgL_VjxdB7dJ5lxYLMxVrWg4LfPN1eYCuVFaxtWdP3BiffSqiHdekNQ_.H88fu7Jgt93gwa82xcOju8YG8wK23ZXI9_sMuaRv2vGnAJaJDzqjESyxz6.us9peQJrrfvxLxcO_azhwmZMQDaFHU3aKN9YliuoHro5wbZk6M89wuHMp_JNj.p.GwwU1yfLgfs.hHBm0wHhKa1qoaIZdamH',mdrd: 'ervS3E_lEX7zmzVwOnLfIT9zpgQxyq.w7cO_f5SmxJA-1776750932-1.2.1.1-IKB3blHUWJYFqK7sld0BoW9DIWklROWJoti1l15z.CMLOOzKFzjd1s2rYwnX6.TRQeYQsBowupUKBagk14Cy5ntSVnLuMToGtUi.QUGwzVFsTCTSph3KgXHMVG9Z7e4GqAc_UWZqvF582JjOVEymozKa40AL..YSSZLn1au1AExGDR.I4x5WaNl0qd9h5wZfzydvRIDAzT.YawoJsr5DSc.vfaGgxVMR6wcImfJ6kA8LRYivtA2h9otnvDuSnhsvcLAV_pwNDdg0RkJra.g_wLhdrOW7zD.kDeKh.yPgUPhytJ.mKc58G008QHh3TaAq7SVfJqtGYjaIwRavrsKs9eoNgbVsrd7CtnhgdcGNmGIIOaZiHRyk5IYXX6.Bu.3_zzv5nVfTqVOSIpPJvmeCg7i_6NguVmjJkeInlrZXLyIw7ZBUtUEvXL0UIe9AJocs70KzMaYNHa_Y75PhLTYhKuUIVn.5vC9FStVL5E0MYpK04xBv4egoHhUJ8GEc9aU_O8wXRPejSwN8ZGTzsu6HtQBngaUMrwD0yuSqZgZB8wm86lmKYSj710pCq8TIL5K6xvzDX3xA5iMCwyhhAQFT6.RBltn5Kj.jArciTYDWOAbY21sYeXdkrdCOwxDxt4ZFdxlsmpbSlRQab.DJVgEH.4clXj6mpVWRuS.ql.usbJFxICB3JQjvr9LWrl.K1yYizzv6dnfZMmonnK.ySxu61YGNZTraqJ_ybmwmZLznrET9C3aRYvO0lNhKZ2nuMW9jDt711W.PDO4stNf6lNfIWy4xjZ9nwCf3maVGjdz0wDAdWqqnp9sL2DgZ87wzXpVFHmt9Cj6A7URDj.DC2_Ay3tx0k20CBPFDjYhBc.nl09bO244PWvAGEWI8lJCIUr7eGtaC1h_iaSyYhm6fDySIRWBA_HfvK_jQXMdghQ3hJqXFf2apSm2TrPwkWY5klIWm1BUMdtVcDbwiSGqL3eMvEGBgQhfp4N6gxzhQqglTh_AV3hO7nkq0WvFOd7J3xDDoTenP4_hj680aW10c_pzOhYX6a2ptaC3zlEPDuVL.bBms_T8hSjmGTkh_188pcypd31UpGcjEtRqkIghDKM3bzK8TmG.x_QD0g6ljAFLD.nqewU_hX2JIaZPlym7XgyE7hQivnJpg7R9lYwfnauTff_sxf6IrtwAjMXBPnxN0a36BhjFyLTYp64V.P6wk74Y37ZcefxWOMdYBg_cnvg7M7laANgSS8cpg6CyLm_ibgUX2KSKhljjR9o05QiWRIQNGqeo3KUX1u7pCQJz_reKJFGloE86y0STMcuG1WZW9kAJCQK7lF_eOeyhNtteR6Mi6erZPnKRNJ5NyhBTo4I8vHMpUkq7RJdRKVETiF7dfJj_OYcsgQKGxAgDSOMkFVW.4S71AykpxV1rnO18kUoTxmEkCtAaHsmqRrZ71s8OCQsqofyj6jI5zfN2YoLZeyE4_cgmhE27yoid2NFMPrP59YLg1o7PH65_h55yi6.ojs.zft5J4Ky6s5iioQFP2ILxq0rZFHvTx8MLV5Je2QKsNl6KnryW4PrL8hxO8uL3Id5xjOAbLpHPs_eDkEohNfonNNSQ6JT1AMMJXzGP33XD4Sx4BRAWJMY5TtZRZOmC_ev3jL5cvP7n5cBPar4vN9uEhIk_WpRmzAiiPUeTn9MmJajLVYHkfuHm1r52dDc6iibcSF4A19rdj4u6A0pN87De3DAIxowjfLDUFsbgI8Lc.x3Y2eB8vzEy1asLn0AMhmNQe4sd5Wd.eS12n0AH430TztMSjs4R.nsx5M9P5NniqStcmtYKmWCWIp3tVbhT7Y6H4Tcpvz7qy8cl_IjZ6abpke.0euXJG_UfzxtS1uVcmEo9pxg.kqWCO67rAs1seSqkq7ZcS3POaYvTbC_keO4OE0IhTuROJAzmqM2z3PjptKBK6nz20Q1m5MwrUgIisODltPZJIdcobeo3E83qQL8Up4wpJIJQOO.k4XZxC3EtpiQqcLn7SaaULa.ztppnot8TIDtjLPzcESlOUjqOx1FBqaur82D99qxomFYqkSYpHXOsbEq6V0gXUeRfD2mbFfzhZUgGtLalYWa5.lu6TUa7ZP5D.uGpgfwTGzyhRylZViPMrjy9M4uDrGOhgtf6tpnAOrjax2VO9.t5fzvLrL7iKZnmAWjvgL0HV2IGeCDg2FPjrcPAfmarDgUcojuM6dgdWN1V7H1zkgLsVuGobhKIgWwJa5xq2PKp9eoGrXTdVLfXdjMVBDoYuv9FDiAQw9bMEF3yRinuN7WADYkrW6w1YTZqMqH69ut9R3I0JDxebOTc6sluSge0Ts7lGNgYbZ_LYGk.u7VvYdmgW91klIT.8WleMYiqZpyfYKmwSsg2Awoa1MhSSlKsjz.iGbaQToTW.pmhhNgKXlbnedClyoybelKYaJhWiNqgQ2F3YtuPCBoYr9I7WRMJr5R3yy7L_fR8CLwSkUf0TvFxEkmOhz_bmk05ofPJXJfhceTu3E75wyIMNkdvkHglivur_utDRNwDIhnTQnTbzGK0zNMD.ewOOG74fTT4Nm4dP2PAWck.i9ai37zHGCOijbpygsmDKIDLpDz4pV8DXDZyM.i9NSMjbyK2fVfTHES.P98qfTkl365Gd9jVy3.BNBfMdVj0G3RmquojL28p.te87Z65d1ZiaJZIqqhwC4F6WqrMytNH4hmB2m4gxSKtKR8IwTFEL1QAGLTEmPXpbDcEyf01oOfCJaaa484R6hWrFJue7YzmsKA',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9efa23f0effc2c7f';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/backend-api/codex/analytics-events/events?__cf_chl_rt_tk=fNWO1lUSMSMmud32CcwYQ6dX.q.KGFQLe2w4UIzZG.U-1776750932-1.0.1.1-Rmygr3FvRU2irSdezuypUVtkWLuaPz_Ed_JqRXHAa2w"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>
+    </div>
+  </body>
+</html>
+
+codex
+我已经拿到 collect 里的格式规则：需要先做 relevance review，再按 source 顺序拆成多个 insight blocks，低相关只进状态文件。接下来读项目四大文档，确认目录边界、命名和协作约束。
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/Agent.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+# Agent 协作操作系统
+
+> 这是本项目的最高优先级工作规范。只要任务进入“认真 plan / 多步骤执行 / 研究产出”阶段，必须先参考本文件与另外三个核心文件。
+
+## 0. 四个核心文件
+
+每次进入认真 planning 前，必须先快速重读这四个文件：
+
+1. `Agent.md`
+   作用：定义协作协议、任务节奏、执行标准、文档维护规则。
+2. `progress.md`
+   作用：记录当前任务状态、已完成、进行中、风险、下一步。
+3. `core-principles-and-lessons.md`
+   作用：沉淀稳定准则、方法论、踩坑教训、可复用判断框架。
+4. `project-structure.md`
+   作用：说明目录结构、脚本职责、输出路径、命名与落盘约定。
+
+**硬规则**：
+- 不允许在没看这四个文件的情况下直接展开复杂 plan。
+- 如果这四个文件之间出现冲突，优先顺序为：
+  `Agent.md` > `progress.md` > `core-principles-and-lessons.md` > `project-structure.md`
+- 每次复杂任务结束后，至少检查是否需要更新 `progress.md` 和 `core-principles-and-lessons.md`。
+
+---
+
+## 1. 什么叫“认真 plan”
+
+以下任一情况都算进入“认真 plan”阶段：
+- 任务涉及多步骤执行
+- 任务涉及多文件或多模块
+- 任务需要抓数、转录、清洗、分析、写结论的链路
+- 任务需要做投资判断，而不只是搬运信息
+- 任务要产出可复用文档、模板或项目规范
+- 任务存在明显的依赖、风险、决策分叉或验证要求
+- 任务里有长音频转录、批量抓取、失败重试等慢速可并行环节
+
+一旦进入这个阶段，必须先做第 2 节的 Pre-Plan Protocol。
+
+---
+
+## 2. Pre-Plan Protocol
+
+正式 plan 前固定执行以下步骤：
+
+### Step 1. 刷新四个核心文件
+- 重读 `Agent.md`
+- 检查 `progress.md` 当前状态是否过期
+- 检查 `core-principles-and-lessons.md` 是否有适用于本任务的准则/教训
+- 检查 `project-structure.md` 是否有脚本、路径、输出约定需要遵守
+
+### Step 2. 明确任务四件套
+必须写清楚或在脑中明确：
+- `Goal`：最终交付物是什么
+- `Context`：现有材料、脚本、目录、信源、已有研究有哪些
+- `Constraints`：边界、不可做、风格、时效、来源、格式要求
+- `Done when`：做到什么程度才算完成
+
+### Step 3. 更新 `progress.md`
+至少刷新这些内容：
+- 当前目标
+- 当前状态
+- 当前 plan
+- 已知风险/缺口
+- 下一步动作
+
+### Step 4. 再输出正式 plan
+plan 必须：
+- 步骤少而清晰
+- 每一步都有可观察产出
+- 尽量能并行
+- 有验证点
+- 有失败后的回退方式
+- 明确哪些慢任务应该交给 sub agent，主线程继续推进非阻塞工作
+
+---
+
+## 3. 默认工作流
+
+### A. Intake
+- 先理解用户真实目标，不急着动手
+- 能从本地环境确认的，不把问题抛回给用户
+- 只有在缺少关键参数且无法安全假设时才提问
+
+### B. Context Build
+- 优先读代码、脚本、已有数据、项目文档
+- 优先看原始材料，而不是二手摘要
+- 先建立路径感和数据流，再开始执行
+
+### C. Plan
+- 给出可执行 plan
+- 计划必须与现有项目结构和脚本能力对齐
+- 如果脚本已有 80% 能力，优先复用，不重复造轮子
+
+### D. Execute
+- 边做边更新用户进展
+- 执行链路中出现新事实后，要及时修正 plan
+- 不因早期假设错误而硬做到底
+- 长音频 ASR、批量网页抓取等慢任务应交给 sub agent 持续执行，不阻塞主线程
+
+### E. Verify
+- 验证脚本是否真的跑通
+- 验证输出是否落到正确路径
+- 验证结果是否满足任务要求，而不是只看“命令成功”
+
+### F. Synthesize
+- 先区分“已确认”和“推断”
+- 先组织证据，再写结论
+- 结论必须能回到原始材料与行动证据
+
+### G. Retrospect
+- 把通用规则写回 `core-principles-and-lessons.md`
+- 把当前状态写回 `progress.md`
+- 必要时更新 `project-structure.md` 和 `Agent.md`
+
+---
+
+## 4. 文档维护分工
+
+### `Agent.md`
+记录：
+- 工作协议
+- planning 规则
+- 执行规则
+- 协作习惯
+- 文档维护规则
+
+何时更新：
+- 用户对工作方式提出新要求
+- 现有协议不够规范
+- 出现反复犯错、反复提醒的问题
+
+### `progress.md`
+记录：
+- 当前活跃任务
+- 已完成
+- 进行中
+- 风险/阻塞
+- 决策
+- 下一步
+
+何时更新：
+- 开始认真 plan 前
+- 完成关键阶段后
+- 发现新阻塞或新决策后
+- 每次大块执行结束后
+
+### `core-principles-and-lessons.md`
+记录：
+- 稳定方法论
+- 研究和投资判断准则
+- 抓数与转录的经验规则
+- 失败案例与修正教训
+
+何时更新：
+- 出现可复用方法
+- 某次踩坑值得沉淀
+- 某类判断标准被验证有效
+
+### `project-structure.md`
+记录：
+- 目录说明
+- 关键脚本与职责
+- 输出路径
+- 命名规则
+- 数据流与依赖关系
+
+何时更新：
+- 新增目录/脚本
+- 输出路径变化
+- 执行约定变化
+
+---
+
+## 5. 研究与抓数执行准则
+
+### 5.1 原始材料优先
+- 优先 Founder 原声、播客、访谈、财报、产品原文、组织原始证据
+- 不以 AI 摘要代替原文
+- 如果只能拿到摘要，要明确标注其性质和限制
+
+### 5.1.0 播客搜索前的元思考
+- 搜 podcast 前必须先做关键词地图，不允许只搜公司名。
+- 关键词地图至少包含：
+  - 公司名、简称、旧名、产品名、核心协议/技术名
+  - Founder、CEO、C-level、关键产品/研究/商业负责人
+  - 公司对应行业关键词和行业访谈关键词
+  - 重要客户、伙伴、竞争对手
+  - 组织与 AI 转型相关词，如 hiring、org、culture、AI transformation、agent、workflow、developer productivity
+- 关键词地图必须落盘为 `_podcast_query_map.md` 或同等文件，后续 source inventory 要能解释“为什么搜这些词”。
+- YouTube、Substack、web longform、X、Reddit、LinkedIn 搜索必须继承 podcast 阶段形成的关键词地图，不能每个平台重新临时想关键词。
+- 每个 source 都要逐个关键词搜索，并在自己的 `_query_map.md` / `_search_status.json` 里记录 `query -> returned urls/posts -> selected -> rejected/reason`。
+- 如果某个关键词在 YouTube / Substack / X 上太宽，先追加 source-specific 限定词、人物名、产品名、时间范围或站点限定收窄；不能直接跳过。
+- YouTube 默认 provider 顺序是：Search `rapidapi_metadata_search` -> `yt_dlp_search`；Transcript `rapidapi_transcript3` -> `youtube_transcript_api` -> `yt_dlp_subtitle`。RapidAPI key 只读 `RAPIDAPI_KEY` 环境变量；缺 key、401/403、429、空 transcript 都要写入 status，再切 fallback，不能静默跳过。
+- YouTube 抓取必须输出 `_youtube_query_map.md`、`_youtube_search_status.json`、`_youtube_candidates.json`、`_youtube_collection_status.json`、`_youtube_collection_failures.json`；RapidAPI transcript 成功时还要保留 `.segments.json` sidecar。
+- 已知时长小于 10 分钟的 podcast episode 默认不抓、不转录；未知时长不直接丢弃，后续 relevance review 再判断。
+- `skipped_short` 与 `deferred_max_limit` 是可解释跳过，不应混入真实失败清单；真实失败只保留需要重试、修脚本或标准音频兜底的条目。
+
+### 5.1.1 播客 ASR provider 顺序与标准音频兜底
+- 播客转录失败不能停在单一 provider 报错。默认 ASR 顺序是：`Groq Whisper URL` -> `DashScope/百炼 URL` -> `本地下载 + DashScope OSS` -> `标准音频 + DashScope REST`。
+- Groq 作为第一 provider：
+  1. 先使用 RSS enclosure / metadata 里的原始 `audio_url` 作为公网 URL 直接提交 Groq Whisper；这一步最快，也不需要 OSS。
+  2. Groq 请求必须使用 `multipart/form-data`；即使传的是 `url` 字段，也不能用普通 form-urlencoded。
+  3. 如果 Groq 返回额度不足、rate limit、远程 URL 拉取失败、文件过大、转录空结果或其他错误，记录 provider attempt，然后切到 DashScope/百炼，不要卡住。
+- DashScope/百炼作为第二 provider：
+  1. Groq 失败后，再把同一批候选 `audio_url` 提交给 DashScope/百炼 Paraformer。
+  2. 如果 RSS 原始音频 URL 失败、过期、403、云端读取失败或转录空结果，才下载音频到 `_audio_cache/` 或同级临时目录。
+  3. 本地下载成功后，优先上传到百炼 OSS，再用 OSS 地址转录。
+  4. 如果本地下载和 OSS 上传都成功，但 DashScope 仍报 `FILE_DOWNLOAD_FAILED`，进入标准音频兜底：优先 `mp3`；如果本机没有 `ffmpeg` 或 MP3 编码不可用，使用百炼同样支持且更稳的 `wav`，推荐 `16kHz / mono / 16-bit PCM`。
+  5. 标准化音频放到 `_standard_audio/`，不要和原始缓存混在一起。
+  6. 上传标准化音频到 OSS 后，用 RESTful API 提交转录；需要 `oss://` 临时 URL 或 `X-DashScope-OssResourceResolve` header 时，不要走 Python SDK，因为 SDK 不支持这些 header / `oss://` 场景。
+  7. 写出 transcript 后，必须检查 markdown 非空、包含 `## Transcript`、状态 JSON 中对应条目为 success，再删除原始下载音频。
+  8. `_audio_cache/` 和 `_standard_audio/` 不同步到 company vault，vault 只保留 transcript、status、failures。
+- 每份 transcript frontmatter 应记录 `transcription_provider` 和 `transcription_engine`，状态 JSON 应记录 provider attempts，方便追踪 Groq / DashScope / OSS 哪一层成功或失败。
+- 参考官方文档：
+  - Groq Speech to Text: https://console.groq.com/docs/speech-to-text
+  - Paraformer RESTful API: https://help.aliyun.com/zh/model-studio/paraformer-recorded-speech-recognition-restful-api
+  - Paraformer Python SDK: https://help.aliyun.com/zh/model-studio/paraformer-recorded-speech-recognition-python-sdk
+
+### 5.1.2 Transcript 后处理与 Essence 层
+- 每次抓完 podcast / YouTube / Substack / web transcript 后，不能直接进入最终分析。
+- 固定后处理顺序：
+  1. 先做 relevance review。和公司、行业、管理层、产品、组织或投资主题相关性太低的材料，标为淘汰，不进入 essence。
+  2. 对高相关材料逐条提炼 essence。每条 transcript / article 必须一一对应一份 essence 文档。
+  3. Essence 提炼必须采用 sequential pass：从 source 开头往后顺序读，一段一段判断是否值得保留。用户确认的角度只作为优先级提示，不能先预设一个高层角度再俯瞰式摘材料。
+  4. 每份 essence 必须包含多条 insight blocks，不能做成“一篇一条总结”：每读到一个重要段落、机制、业务数据、管理层判断、组织动作、产品战略、用户反馈或可投资化证据，就新增一条 block。
+  5. 每条 insight block 的基本格式是：短标题 + 一段可直接进入报告的详实判断自然段 + 紧贴判断自然段的 quote pack。标题下面直接进入判断自然段，不加 `**判断段**` 这类标签；不要使用“关键引用 / 近原文证据”标题，不要用“近原文”冒充引用，也不要加 `可用于哪些分析角度`、`原文定位` 这类工具性尾巴。quote pack 不是象征性的一句证据，默认保留 3-8 条高信息密度原文，允许完整长句，给后续手动改写留出剪裁空间。判断自然段要像研究 memo 的自然段，不要写成机械摘要。
+  6. Essence 语言要像人写的研究笔记：有判断、有细节、有语气，少黑话。避免二元对照模板句；核心概念可以保留英文，如 `workflow`、`feedback loop`、`cadence`、`owner`、`context`，但英文词必须服务判断。当前风格基准是 `学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md`。
+  7. 长访谈和长文出现十几条到几十条 insight blocks 是正常结果；不要为了简洁把不同主题强行合并。
+  8. 进入正式分析前，优先读 essence；raw transcript 只用于追溯核验，不作为主要阅读入口。
+- Essence 写作前必须先向用户确认本次提炼角度。默认候选角度包括：
+  - 组织结构相关核心信息
+  - 管理层的思考
+  - 组织形态与业务的关系
+  - 招聘技巧、人才标准、人才密度
+  - 内部如何进行 AI 转型
+  - AI 相关管理工具、agent、workflow
+  - 过去使用哪些管理工具，现在发生了什么工具变化
+  - AI 如何和人协作
+  - 每家公司的管理产品是什么
+  - 工具体系如何构成
+  - 管理产品背后的世界观是什么
+  - 商业模式、行业结构、业务数据、CEO 对行业的哲学判断
+- 默认输出目录：
+  - podcast essence: `companies/{company}/vault/podcasts/podcast-essence/`
+  - YouTube essence: `companies/{company}/vault/youtube/youtube-essence/`
+  - Substack / web essence: `companies/{company}/vault/web/source-essence/`
+
+### 5.2 证据分层
+- 一手高价值：Founder/高管原话、财报电话会、官方文档、原始转录
+- 二手支持：媒体采访、行业分析、研究文章
+- 低置信补充：社媒讨论、论坛情绪、非结构化点评
+
+### 5.3 组织研究默认三问
+对每家公司默认回答：
+1. Founder 对 AI 组织的独到见解是什么？
+2. Founder 在组织落地上做了哪些具体动作？
+3. 这些动作对业务产生了什么影响？
+
+### 5.4 组织到业务的传导链
+默认判断顺序：
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/core-principles-and-lessons.md" in /Users/leafsun/Desktop/AI Org研究
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/progress.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+# Progress
+
+> 这是当前活跃任务的唯一进度面板。每次认真 plan 前、每个关键阶段完成后，都要先更新这里。
+
+## 文档使用规则
+
+- serious planning 前先读本文件
+- 当前任务变化后立即刷新，不允许长期过期
+- 这里写“真实状态”，不写理想状态
+- 如果 plan、风险、下一步变了，优先更新这里
+
+---
+
+## 当前任务
+
+- 名称：YouTube RapidAPI transcript provider 集成
+- 日期：2026-04-21
+- 状态：已完成 `scripts/discovery/fetch_youtube.py` 的 RapidAPI provider 集成；已通过 normalize 单测、py_compile、Midjourney dry-run 与真实 RapidAPI smoke test。`RAPIDAPI_KEY` 已写入本地 `.env`；metadata search 成功，transcript3 加上 curl-style `User-Agent` 后成功返回 711 个 segments、约 27.5k chars。
+
+## Goal
+
+把 RapidAPI 接入 YouTube 抓取链路：Search 用 `youtube-transcript-metadata-search.p.rapidapi.com` 做候选发现，Transcript 用 `youtube-transcript3.p.rapidapi.com` 拉全文；失败时保留 `youtube_transcript_api` 和 `yt-dlp` fallback，并把 query map、candidates、provider attempts、failures 全部状态化。
+
+## Active Plan
+
+- [x] 修正 `学习/skills/collect/SKILL.md` 的 essence 模板，加入用户给定的 Claude Cowork 示例
+- [x] 统计当前所有已有 transcript，区分 company vault 与 scripts cache，识别重复同步件
+- [x] 生成 transcript inventory 文件：`companies/_meta/transcripts/_transcript_inventory_2026-04-21.md`
+- [x] 生成 transcript essence queue 文件：`companies/_meta/transcripts/_transcript_essence_queue_2026-04-21.json` 与 `companies/_meta/transcripts/_transcript_essence_queue_2026-04-21.md`
+- [x] 按用户更正收窄执行范围：当前只处理 Lovable 和 Midjourney
+- [x] 生成首批 sample essence：Lovable 2 份，Midjourney 2 份
+- [x] 每批生成后做 relevance review 与格式检查
+- [x] 按用户最新更正修改 essence 标准：block 标题下直接进入详实判断自然段；引用紧贴判断段；不加 `**判断段**`、`关键引用`、`近原文证据` 等模板标签
+- [x] 按用户二次更正修改 quote 标准：每个 insight 后默认保留 3-8 条高信息密度原文摘录，允许完整长句，给后续手动调整留空间
+- [x] 按用户截图更正删除 essence 工具性尾巴：不再输出 `可用于哪些分析角度` 和 `原文定位`
+- [x] 按用户语言反馈写入即时风格规则：避免“不是...而是...”二元模板句，少黑话，核心概念可保留英文但必须服务判断
+- [x] 保存用户提供的 Anthropic 风格文章，并提炼为 essence 写作风格基准
+- [x] 生成 4 条新格式测试样例：`学习/style_references/essence_format_tests_2026-04-21.md`
+- [x] 清理 `companies/` 根目录：全局 transcript 文件迁入 `_meta/transcripts/`，跨公司 500 字稿迁入 `_meta/cross_company/`，essence 格式测试迁入 `学习/style_references/`
+- [x] 归档历史 public-company sample：`crm`、`ddog`、`hubs`、`meli`、`net`、`now`、`pltr`、`se`、`snow` 已移至 `companies/_legacy/public_company_samples/`
+- [x] 将 essence workflow 改为 sequential pass：从 source 开头逐段读，角度只做优先级提示，不作为过滤器
+- [x] 将 YouTube / Substack / web longform / X / Reddit / LinkedIn 搜索改为继承 `_podcast_query_map.md` 的关键词宇宙
+- [x] 要求每个 source 对每个关键词至少搜索一次，并输出自己的 `_query_map.md` / `_search_status.json`
+- [x] 新增 YouTube RapidAPI search/transcript provider，默认 provider 顺序为 `rapidapi_metadata_search -> yt_dlp_search` 和 `rapidapi_transcript3 -> youtube_transcript_api -> yt_dlp_subtitle`
+- [x] 新增 YouTube 结构化产物：`_youtube_query_map.md`、`_youtube_search_status.json`、`_youtube_candidates.json`、`_youtube_collection_status.json`、`_youtube_collection_failures.json`、`.segments.json`、`.providers.json`
+- [x] 新增 `scripts/discovery/test_fetch_youtube_rapidapi.py`，覆盖 RapidAPI search / transcript normalize 与 provider order parse
+- [x] 将 Midjourney `channels.youtube` 补充 RapidAPI provider 与筛选字段，其他 target 未配置时走脚本默认值
+- [x] 更新 `Agent.md`、`core-principles-and-lessons.md`、`project-structure.md`、`学习/skills/collect/SKILL.md`
+- [ ] 完成 Grok / Groq / X API 搜索能力与费用/申请方式对比
+- [ ] 决定是否新增通用 X 搜索脚本与 manifest 字段
+- [ ] 等用户确认 sample 格式后，再继续铺开 Lovable / Midjourney 剩余 transcript
+- [x] 建立 `companies/midjourney/vault/` 与 `companies/midjourney/analysis/`
+- [x] 在 `config/company_targets.json` 新增 `MIDJOURNEY`
+- [x] 完成 target manifest dry-run
+- [x] 完成首轮 official / founder_voice / web_longform / partnerships / jobs / social / funding 抓取尝试并同步 vault
+- [x] 完成 podcast metadata 抓取：76 条，已同步 `companies/midjourney/vault/podcasts/`
+- [x] 完成 YouTube transcript 首轮抓取：3 条成功，约 259k 字符，已同步 vault
+- [ ] 补官方 / docs / updates / careers 等 JS 或反爬页面的 source notes，明确仅 indexed、未抓全文的限制
+- [ ] 检查 podcast ASR 子任务失败原因；当前标准音频 REST fallback 已救回大部分失败项，全量 curated ASR 仍有一个后台进程在继续跑
+- [x] 重写 source inventory 和 fact pack，明确已确认事实、估算、低置信线索与下一步抓取建议
+- [x] 将 DashScope / 百炼标准音频 fallback 经验写入四大文档与 `学习/skills/collect/SKILL.md`
+- [x] 根据用户补充修正 ASR 优先级：先用 RSS enclosure / 原始 `audio_url` 直接提交；失败后再下载、标准化和 OSS 重传
+- [x] 将 podcast 时长过滤、搜索前元思考、transcript relevance review、podcast-essence 工作流写入四大文档和 collect skill
+- [x] 修改播客脚本：metadata 默认跳过已知短于 10 分钟的 episode；转录脚本默认最小时长 10 分钟；metadata 阶段输出 `_podcast_query_map.md`；`skipped_short` / `deferred_max_limit` 不再污染真实 failure list
+- [x] 将 podcast ASR provider 顺序改为 Groq 优先：Groq URL -> DashScope URL -> 本地下载 + DashScope OSS；`.env` 已保存 `GROQ_API_KEY`，转录脚本已实测 Groq 成功
+
+## Progress Log
+
+### 已完成
+
+- Transcript inventory / essence 准备：
+  - 已将 essence 模板改成“逐段 insight block + 判断段 + 引用紧贴”的格式，并把用户给定的 Claude Cowork 示例写入 `学习/skills/collect/SKILL.md`
+  - 已按用户最新要求进一步去掉 `**判断段**` 标签：每条 insight block 现在是短标题后直接写详实判断自然段，然后紧跟完整原文短句引用
+  - 已按用户反馈把引用从“最小证据”改为 quote pack：一个 insight 后保留多条更有上下文的原文摘录，避免后续写作时没有可剪裁素材
+  - 已按用户截图反馈删除 sample 与模板里的 `可用于哪些分析角度` / `原文定位` 尾部字段
+  - 已保存用户提供的风格文章：`学习/style_references/anthropic_org_investment_style_reference_2026-04-21.md`
+  - 已生成风格拆解笔记：`学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md`
+  - 已把 Anthropic 风格基准和两段硬编码样例写入 `学习/skills/collect/SKILL.md`
+  - 已生成新格式测试文件：`学习/style_references/essence_format_tests_2026-04-21.md`，当前包含 4 条样例：Lovable planning、Midjourney 多线探索、Lovable hiring filter、Midjourney community onboarding
+  - 已生成当前 transcript inventory：raw transcript markdown 398 个；按 canonical company/source/date/title 去重后约 240 条；其中 podcast 197 条、YouTube 42 条、web 1 条
+  - inventory 文件位于 `companies/_meta/transcripts/_transcript_inventory_2026-04-21.md`
+  - 已生成 essence queue：240 条 unique transcript；其中 Lovable 16 条、Midjourney 78 条
+  - essence queue 位于 `companies/_meta/transcripts/_transcript_essence_queue_2026-04-21.json` 与 `companies/_meta/transcripts/_transcript_essence_queue_2026-04-21.md`
+  - 已按用户反馈清理 `companies/` 根目录：历史 public-company sample 进入 `companies/_legacy/public_company_samples/`；跨公司稿进入 `companies/_meta/cross_company/`；全局 transcript 辅助文件进入 `companies/_meta/transcripts/`
+  - 已把 sequential pass 写入 `Agent.md`、`core-principles-and-lessons.md`、`project-structure.md`、`companies/README.md` 与 `学习/skills/collect/SKILL.md`
+  - 已完成 sample essence：
+    - `companies/lovable/vault/youtube/youtube-essence/2025-03-09_Building-Lovable-10M-ARR-in-60-days-with-15-people_essence.md`
+    - `companies/lovable/vault/youtube/youtube-essence/2026-04-16_A-conversation-with-Lovable-CEO-Anton-Osika_essence.md`
+    - `companies/midjourney/vault/podcasts/podcast-essence/2023-06-20_David-Holz-Midjourney_essence.md`
+    - `companies/midjourney/vault/youtube/youtube-essence/2026-04-20_Discord-Open-Office-Hours-with-MidJourney-Founder_essence.md`
+  - 当前 queue 状态：Lovable 2/16 done；Midjourney 2/78 done
+
+- Podcast ASR provider 链路：
+  - 已确认 Groq key 可用，`whisper-large-v3-turbo` 小样本 URL 与本地文件上传均转录成功
+  - 已发现并记录 Groq `url` 请求必须使用 `multipart/form-data`
+  - 已新增本项目 `.env`，并用 `.gitignore` 保护
+  - 已修改 `scripts/discovery/fetch_podcast_transcript.py`：默认先 Groq URL，再 DashScope URL，再本地下载 + DashScope OSS；transcript frontmatter 写入 `transcription_provider` / `transcription_engine`，status JSON 记录 provider attempts
+  - 已修复转录脚本在 Python 3.9 下导入时报错的 `Path | None` 类型注解问题
+  - 已用 JFK 11 秒公开音频跑通 smoke test：provider=`groq`，engine=`groq_whisper-large-v3-turbo`
+
+- Midjourney：
+  - 已暂停 Cursor 主动采集；Cursor 播客转录 worker 已关闭，避免继续占用资源
+  - 已完成四个核心文件前置复核：`Agent.md`、`progress.md`、`core-principles-and-lessons.md`、`project-structure.md`
+  - 已确认首轮采集边界：私有公司，不跑 SEC / yfinance；重点抓 official / docs / founder voice / team / jobs / product releases / community / web longform / podcast / YouTube / funding revenue estimates
+  - 已建立 `MIDJOURNEY` target，配置位于 `config/company_targets.json` 的 `targets.MIDJOURNEY`
+  - 已建立 `companies/midjourney/vault/` 与 `companies/midjourney/analysis/`
+  - 已跑 `collect_target.py MIDJOURNEY --dry-run`，manifest 输出路径验证正常
+  - 首轮 web source fetch 已完成：founder_voice 2/4 成功、web_longform 2/8 成功、enterprise_partnerships 1/3 成功；official / products / jobs / social / funding 多数因页面渲染、反爬或 Perplexity 401 仅保留 URL index
+  - Podcast metadata 已完成：76 条 episode
+  - Podcast ASR 经验已更新：前 30 条里 `FILE_DOWNLOAD_FAILED` 不是本机下载失败，而是 DashScope 云端读取失败；通过本地标准化音频（`_standard_audio/`，16kHz / mono / 16-bit PCM WAV）+ OSS + RESTful API + `X-DashScope-OssResourceResolve` 兜底，第一批失败项已批量救回
+  - 已按用户补充修正流程顺序：RSS enclosure / 原始 `audio_url` 是第一选择；下载、转码、OSS 重传是失败后的 fallback，不作为默认起手式
+  - 已按用户新增要求修正播客规则：
+    - 已知短于 10 分钟的 episode 默认不抓 / 不转录
+    - podcast 搜索前必须先做关键词元思考并落 `_podcast_query_map.md`
+    - transcript 抓完后必须做 relevance review，低相关淘汰，高相关逐条生成 essence
+    - 后续分析优先基于 `podcast-essence` / `youtube-essence` / `source-essence`，raw transcript 只做追溯核验
+  - 已按用户更正修正 essence 粒度：一个 source 对应一份 essence 文档，但文档内部必须拆成多条 insight blocks；每读到重要段落、机制、业务数据、管理层判断、组织动作、产品战略、用户反馈或可投资化证据，就新增一条 block，长材料可以有十几条到几十条
+  - 当前脚本目录与 vault 已同步 33 条 transcript；vault 中没有 `_audio_cache/` 或 `_standard_audio/` 音频目录
+  - 当前仍有一个 `fetch_podcast_transcript.py MIDJOURNEY 0 auto ...` 后台进程在继续跑全量 curated；最新状态文件显示 33 条成功、1 条失败、1 条 running，状态仍可能继续变化
+  - YouTube transcript 已完成 3 条，约 259k 字符；其中包括 David Holz office hours / Midjourney 使用相关长转录
+  - 已同步一条高价值 podcast transcript：`David Holz (Midjourney)` / Power Law with John Coogan
+  - 已补写 source notes：
+    - `companies/midjourney/vault/official/official_source_note_2026-04-20.md`
+    - `companies/midjourney/vault/products/product_updates_source_note_2026-04-20.md`
+    - `companies/midjourney/vault/jobs/careers_source_note_2026-04-20.md`
+    - `companies/midjourney/vault/funding/funding_revenue_source_note_2026-04-20.md`
+    - `companies/midjourney/vault/web/legal_source_note_2026-04-20.md`
+    - `companies/midjourney/vault/social/social_community_source_note_2026-04-20.md`
+  - 已重写 source inventory / evidence map：
+    - `companies/midjourney/analysis/Midjourney_source_inventory_2026-04-20.md`
+    - `companies/midjourney/analysis/Midjourney_evidence_map_2026-04-20.md`
+  - 已新增首版 fact pack：
+    - `companies/midjourney/analysis/Midjourney_fact_pack_2026-04-20.md`
+  - 验证通过：`config/company_targets.json` 可解析；Midjourney analysis 三份 md 均非空；vault 当前约 119 个文件
+
+### 当前缺口
+
+- Podcast ASR 尚未完全闭环：标准音频 REST fallback 已验证有效，当前脚本目录与 vault 已有 33 条 transcript；全量 curated 后台进程仍在运行，后续需要等进程结束后再检查 final status / failures
+- Official / products / jobs 多数由浏览器核验后补 source notes，脚本仍未能直接全文抓取这些 JS/反爬页面
+- 收入、估值、员工数均无公司披露，只能引用 Sacra / Contrary / ProductGrowth / Andrew 等第三方估算，并清楚标注置信度
+- 社区材料目前只到 Reddit / Discord URL index 和搜索片段，未做登录/深抓
+
+---
+
+## 暂停任务：Cursor / Anysphere 公开信息采集
+
+- 日期：2026-04-20
+- 状态：按用户指示暂停；首轮采集已有 `CURSOR` target、`companies/cursor/` 目录、145 个 vault 文件、68 条 podcast metadata、7 条 YouTube transcript；source inventory / fact pack 尚未收口
+
+### 已完成
+
+- Cursor / Anysphere：
+  - 已完成四个核心文件前置复核：`Agent.md`、`progress.md`、`core-principles-and-lessons.md`、`project-structure.md`
+  - 已确认首轮采集边界：私有公司，不跑 SEC / yfinance；重点抓 official / products / founder voice / jobs org / funding / media / community / podcast / YouTube
+  - 已通过公开网页初步定位官方 Series A/B/C/D、pricing、enterprise、security、careers、founder interview、team blog、changelog 等核心源
+  - 已停止 Cursor 播客 ASR worker；当前 ASR 状态为 0 成功、2 失败、1 running 被关闭、38 条因 max episode limit 延后
+
+---
+
+## 上一阶段任务：群核科技公开信息与年报/招股书采集
+
+- 日期：2026-04-18
+- 状态：首轮公开信息采集完成；已建立 `companies/qunhe/` 与 `QUNHE` target，已收集招股书、配发结果、会计师报告、经审计合并财务报表、备考财务资料、行业报告、官网与媒体 HTML；已确认 2025 年度不会另行发布完整年报，年度财务资料先以招股书及展示文件为主
+
+### 已完成
+
+- 群核科技：
+  - 新增 `QUNHE` target，ticker 标记为 `00068.HK`
+  - 建立 `companies/qunhe/vault/` 与 `companies/qunhe/analysis/`
+  - 下载港交所官方英文/中文招股书、配发结果、展示文件页面
+  - 下载展示文件中的会计师报告、经审计合并财务报表、未经审计备考财务资料、弗若斯特沙利文行业报告
+  - 将核心 PDF 转为 txt 便于后续检索
+  - 保存 Manycore / Kujiale / Coohom / Coohom Blog / PRNewswire 官方 HTML
+  - 保存新浪、经济观察网、杭州网、每经网等媒体 HTML
+  - 通用 web fetcher 已跑，Perplexity query 因 quota 401 受限；seed URL 与失败状态已落盘
+  - 生成 `companies/qunhe/analysis/Qunhe_source_inventory_2026-04-18.md`
+  - 生成 `companies/qunhe/analysis/Qunhe_fact_pack_2026-04-18.md`
+
+---
+
+## 上一阶段任务
+
+- 名称：Anthropic 全网采集与通用化抓取代码
+- 日期：2026-04-17
+- 状态：正在把抓取系统改为 target manifest 驱动，并用 `ANTHROPIC` 做首个私有 AI Lab 全网最大化采集
+
+## Goal
+
+把现有抓取系统升级为 `config/company_targets.json` 驱动，避免把公司名写死在脚本里；随后用同一套链路为 Anthropic 收集 official / founder voice / podcast / YouTube / web longform / enterprise partnership / jobs org / social community / funding compute 材料。
+
+## Context
+
+- 四个核心 md 已建立，本轮进入项目结构重整与 Perplexity / Block 重新研究
+- 仓库内已有播客、YouTube、补充搜索脚本：
+  - `scripts/discovery/fetch_podcasts.py`
+  - `scripts/discovery/fetch_podcast_transcript.py`
+  - `scripts/discovery/fetch_youtube.py`
+  - `scripts/discovery/fetch_perplexity.py`
+- 用户反馈：Lovable 的组织分析明显更深，Perplexity / Block 需要按类似深度重新拆开分析
+- 重新分析前先完成项目结构重整：
+  - `codeX.md` 改名为 `Agent.md`
+  - 每家公司建立 `companies/{company}/vault/`
+  - 每家公司建立 `companies/{company}/analysis/`
+- 已有 Perplexity / Block / Lovable 脚本输出需要同步到新 company vault
+- 新目标：Anthropic，按私有 AI Lab 处理，研究 key 为 `ANTHROPIC`，目标目录为 `companies/anthropic/`
+- 用户已确认：
+  - 采集范围：全网最大化
+  - 配置形态：JSON manifest
+
+## Constraints
+
+- 先参考四个核心 md，再进入正式研究
+- 优先复用现有 scripts，不重复造轮子
+- 抓取应优先落原始材料与转录，不用 AI 摘要替代原文
+- 播客转录必须闭环：跑完后检查状态和失败清单；失败要重试；脚本有问题先修脚本再重试；不能把部分成功说成完成
+- 音频 URL 预检失败或百炼远程拉取失败时，不能直接放弃；先下载到本地 `_audio_cache/`，再上传百炼 OSS 后重试转录
+- 长音频 ASR 属于慢速可并行任务；本轮起拆给 sub agent，主线程继续做 Substack/长文和分析框架
+- 本阶段优先级：
+  1. 先完成项目结构
+  2. 再重新抓 Perplexity / Block podcast
+  3. 再补 Substack / 长文
+  4. 最后分别重写两家公司组织分析
+- 写作风格继续贴近 old friends：记者笔法、判断明确、少解释腔
+- 成稿避免“不是 X，而是 Y”模板句，改用正向判断和证据压缩
+- Anthropic 不跑 SEC / yfinance；重点抓 careers、founder voice、product docs、policy/safety、funding/compute、enterprise partnerships、developer/community adoption
+- 新增抓取代码必须通用化，公司名、aliases、founder、channels 从 JSON manifest 读取
+
+## Done when
+
+- [x] 完成四个核心 md 前置检查
+- [x] `codeX.md` 改名为 `Agent.md`
+- [x] 建立 `companies/perplexity/`
+- [x] 建立 `companies/block/`
+- [x] 建立 `companies/lovable/`
+- [x] 每家公司建立 `vault/` 与 `analysis/`
+- [x] 已有原始数据同步进 company vault
+- [x] Perplexity / Block 初版分析拆成独立 analysis 文件
+- [ ] 重新完成 Perplexity / Block podcast 抓取与转录
+- [ ] 播客失败项完成重试、脚本修复和最终状态记录
+- [x] 已将 Perplexity / Block 播客转录拆给 sub agent 并行处理
+- [x] 已修正转录脚本：URL 预检失败也进入本地下载 / 百炼 OSS fallback，而非直接失败
+- [ ] 补抓 Perplexity / Block Substack / 长文
+- [ ] 分别重写 Perplexity / Block 深度组织分析
+- [x] 基于当前材料完成 Perplexity / Block / Lovable 三家公司长版复杂报告
+- [x] 完成三家公司 Open Evidence 扩展提交版，按三问 bullet point 组织
+- [x] Lovable 提交版按用户新重心重写：招聘筛选器、轻 cadence、office/lunch 信息密度、founder mode protective layer、enterprise muscle、controllable speed
+- [x] Block 提交版二次压缩：删除泛泛 AI 流程/uncertainty，保留 company self-query、money signal、IC/DRI/player-coach、capability-gap roadmap、P&L 硬验证
+- [x] 新增 `config/company_targets.json`，首个 target 为 `ANTHROPIC`
+- [x] 新增 `scripts/discovery/target_config.py`
+- [x] 新增 `scripts/discovery/fetch_web_sources.py`
+- [x] 新增 `scripts/discovery/collect_target.py`
+- [x] 改造 `fetch_youtube.py` 支持 `--target`
+- [x] 改造 `fetch_podcasts.py` 支持 `--target` 并生成 curated episode list
+- [x] 完成 Anthropic dry-run 验证
+- [x] 完成 Anthropic 首轮 official / web / jobs / partnerships / funding 抓取
+- [x] 完成 Anthropic YouTube 抓取：20 条候选中 12 条 transcript 成功，8 条无字幕失败可追踪
+- [x] 完成 Anthropic podcast metadata 抓取：179 条独立相关 episode，已生成 curated list
+- [ ] Anthropic podcast ASR 转录闭环进行中：已拆给 sub agent 跑前 80 条 curated episode
+- [x] 生成 Anthropic source inventory 和 evidence map
+- [x] 基于当前 Anthropic 全量材料与已同步播客转录，完成长版 AI 组织复杂报告
+
+ succeeded in 0ms:
+# Core Principles And Lessons
+
+> 这里沉淀的是能跨任务复用的稳定准则，不是一次性进度。每次 serious plan 前先扫一遍。
+
+## 一、核心准则
+
+### 1. 先搭系统，再堆内容
+- 如果流程还不稳定，先修流程
+- 如果目录、输出、命名不清楚，先修结构
+- 如果规范不够支撑任务，先写规范再执行
+
+### 2. 复杂任务先看四个核心文件
+- `Agent.md`
+- `progress.md`
+- `core-principles-and-lessons.md`
+- `project-structure.md`
+
+没有完成这一步，不进入 serious planning。
+
+### 3. 原始证据优先于摘要
+- Founder 原声 > 二手媒体总结
+- 播客/访谈转录 > 节目简介
+- 官方文档/财报 > 三方复述
+- AI 生成总结不能替代原文
+
+### 4. 投资研究先看组织，再看业务映射
+默认分析链条：
+
+`Founder认知 -> 组织机制 -> 执行动作 -> 业务结果 -> 投资意义`
+
+### 5. 组织研究默认回答三问
+1. Founder 对 AI 组织有什么独到见解？
+2. Founder 在 AI 组织落地上做了哪些具体动作？
+3. AI 组织变革对业务有什么影响？
+
+### 6. 事实与推断必须分开
+- 能被原始材料直接支持的是事实
+- 跨证据拼出来的是推断
+- 没有足够支撑的只能列为待验证问题
+
+### 7. 复用已有脚本，少造新轮子
+- 先看仓库里有没有现成链路
+- 能 patch 就不重写
+- 能配置就不重构
+
+### 8. 慢速抓取任务要并行代理化
+- 播客转录、长音频 ASR、批量网页抓取这类慢任务，不应该阻塞主线程
+- 一旦用户允许使用 sub agent，慢任务应拆给子 agent 持续跑
+- 主线程继续做不依赖该结果的工作，比如 Substack/长文补抓、证据框架搭建、目录同步
+- 子 agent 必须交付状态文件、失败清单、重试记录，而不是只说“跑了”
+
+### 9. 输出必须可追踪
+- 结果要能回到路径
+- 结论要能回到材料
+- 失败要能回到原因
+
+### 10. `companies/` 是研究主目录
+- `scripts/` 负责采集和历史输出，不再承担最终研究归档职责
+- 每家公司用 `companies/{company}/vault/` 存原始证据
+- 每家公司用 `companies/{company}/analysis/` 存最终分析
+- 重抓数据后必须同步到对应 company vault，避免材料散在 `scripts/` 里
+- `companies/` 根目录只放当前公司目录、`_meta/`、`_legacy/` 和说明文件；不要把临时 inventory、queue、format test 或历史 sample company 直接铺在根目录
+
+### 11. 成稿避免模板化转折
+- 投资 memo 和提交版里避免二元对照类 AI 腔模板
+- 优先写正向判断：`X > Y`、`核心变量是 X`、`动作指向 X`
+- 需要对比时压成短标题或并列判断，不靠转折句撑结构
+
+### 12. 私有 AI Lab 走 target manifest
+- Anthropic / Lovable / Perplexity 这类私有或非标准 ticker 标的，不应靠脚本内置 ticker 字典或命令行临时参数维持
+- 公司名、别名、founder、executive、渠道、seed URL、输出路径统一写进 `config/company_targets.json`
+- 脚本只读 manifest，不把公司名硬编码进 Python
+- 私有 AI Lab 默认跳过 SEC / yfinance，重点抓 careers、founder voice、product docs、policy/safety、funding/compute、enterprise partnerships、developer/community adoption
+
+---
+
+## 二、当前项目适用的方法论
+
+### A. 抓播客的默认顺序
+1. 先做 podcast 搜索元思考，列出公司名、别名、Founder/C-level、产品、行业、客户/伙伴/竞品、组织/AI 转型关键词
+2. 保存 `_podcast_query_map.md`，让搜索完整性可追溯
+3. 再抓 podcast metadata
+4. 默认跳过已知短于 10 分钟的 episode；未知时长不直接丢弃
+5. 再筛可转录长音频
+6. 再跑 transcript
+7. 检查转录状态文件和失败清单
+8. 对失败条目重试；如果仍失败，检查并修正脚本后再重试
+9. `skipped_short` 与 `deferred_max_limit` 是可解释跳过，不算真实失败；真实 failure list 只放需要重试或修脚本的条目
+10. 再人工筛 relevance
+11. 高相关材料逐条提炼为 essence，后续分析优先基于 essence，而不是直接啃 raw transcript
+
+播客任务只有在“全部成功”或“剩余失败均有明确原因、URL、已尝试修复动作”后才算收口。
+
+YouTube / Substack / web longform / X / Reddit / LinkedIn 搜索必须继承 podcast 阶段的 `_podcast_query_map.md`。Podcast query map 是整家公司公开材料搜索的关键词底座，不是播客专用文件。每个 source 都要逐个关键词搜索，再按平台加限定词；如果关键词太宽，先收窄，不直接跳过。每个平台必须留下 query coverage，记录每个关键词是否搜索、返回了什么、选了什么、为什么拒绝其他结果。
+
+YouTube 默认把 RapidAPI 作为反爬增强路径，不替代可追溯的状态记录。Search 顺序是 `rapidapi_metadata_search` -> `yt_dlp_search`；Transcript 顺序是 `rapidapi_transcript3` -> `youtube_transcript_api` -> `yt_dlp_subtitle`。`RAPIDAPI_KEY` 只放环境变量，脚本和 markdown 不保存真实 key。401/403 要停止 RapidAPI provider 并切 fallback；429/quota 要把剩余候选标记为 deferred；无结果、空 transcript、无字幕都必须进入 `_youtube_search_status.json` 或 `_youtube_collection_failures.json`。
+
+Podcast / YouTube / Substack / web transcript 抓完后，必须先做 relevance review。相关性太低的材料要标记淘汰；相关性高的材料必须一一对应生成 essence 文档，但 essence 不能压成“一篇一条总结”。每个高相关 source 内部应拆成多条 insight blocks：每读到一个重要段落、机制、业务数据、管理层判断、组织动作、产品战略、用户反馈或可投资化证据，就新增一条 block。标题下面直接进入详实判断自然段，不加 `**判断段**` 这类标签；判断自然段后面直接贴 quote pack，不再使用“关键引用 / 近原文证据”标题。quote pack 默认保留 3-8 条高信息密度原文摘录，允许完整长句，给后续手动改写留出剪裁空间。insight block 不再加 `可用于哪些分析角度`、`原文定位` 这类工具性尾巴。正式分析优先读 essence，raw transcript 只做追溯核验。
+
+Essence 提炼必须采用 sequential pass：从 source 开头往后顺序读，一段一段判断是否值得保留。用户确认的角度只作为优先级提示，不能先预设一个高层角度再俯瞰式摘材料。每一段都问一次：这里有没有新的机制、动作、数字、管理层判断、组织信号、产品策略、用户反馈、商业模式、竞争信息或可投资化证据？有，就新增 insight block 或并入正在形成的同一机制 block；没有，才跳过。这样做是为了防止高层框架先行导致细节漏掉。
+
+Essence 语言风格要像人写的研究笔记，有判断、有细节、有语气，避免二元对照模板句，少用黑话。核心概念可以保留英文，如 `workflow`、`feedback loop`、`cadence`、`owner`、`context`，但英文词必须服务判断，不要当装饰。当前风格基准是 `学习/style_references/anthropic_org_investment_style_notes_2026-04-21.md`。
+
+做 essence 前要先问用户确认本轮提炼角度。默认角度库：组织结构、管理层思考、组织形态与业务关系、招聘技巧、AI 转型、AI 管理工具、旧管理工具如何变化、AI 与人协作、管理产品、工具体系、管理产品世界观、商业模式、行业结构、业务数据、CEO 行业哲学。
+
+默认先走轻路径，但 provider 顺序已调整为 Groq 优先：优先使用 RSS enclosure / episode metadata 里的原始 `audio_url` 作为公网 URL 直接提交 Groq Whisper。Groq 失败、额度不足、rate limit、远程 URL 拉取失败、文件过大或转录空结果时，再把同一批候选 URL 交给 DashScope/百炼。只有 Groq 与 DashScope URL 路径都失败，才进入本地下载、OSS 上传或标准音频兜底。不要一上来就下载和转码所有音频。
+
+Groq 的一个实现细节必须记住：即使传的是 `url` 字段，也要用 `multipart/form-data` 请求；普通 form-urlencoded 会返回 `request Content-Type isn't multipart/form-data`。Groq URL 拉取遇到 307 redirect 时可能失败，这种情况直接进入 DashScope URL 或本地下载兜底。
+
+如果远程音频 URL 对浏览器/curl 可访问，但百炼 ASR 报 `FILE_403_FORBIDDEN`、`FILE_DOWNLOAD_FAILED` 或长时间超时，要升级为本地音频 fallback：先下载到 `_audio_cache/`，再上传到百炼 OSS，最后用 OSS 地址转录。
+
+如果脚本的 URL 预检失败，也不能马上把 episode 判死刑。预检只是节省 API 调用的保护层，不是最终裁判；只要链接仍像音频源，就继续走本地下载和 OSS 上传兜底。
+
+如果本机下载成功、OSS 上传也没有直接失败，但 DashScope 子任务仍报 `FILE_DOWNLOAD_FAILED`，要继续升级为“标准音频 + REST API”兜底：
+- 先把本地音频转成标准格式。优先 `mp3`；如果本机没有 `ffmpeg` 或 MP3 编码不可用，用百炼同样支持且更稳的 `wav`，建议 `16kHz / mono / 16-bit PCM`。
+- 标准音频统一放入 `_standard_audio/`，不要和 `_audio_cache/` 混放。
+- 上传标准音频到 OSS 后，使用 Paraformer RESTful API 提交；需要 `oss://` 临时 URL或 `X-DashScope-OssResourceResolve: enable` 时不要用 Python SDK，因为官方文档说明 SDK 不支持 `oss://` 临时 URL，也不支持配置该 header。
+- 转录成功后先校验 markdown transcript 非空、包含正文、状态 JSON 成功，再删除原始 `_audio_cache` 文件；标准化音频可短期保留复查，但不得同步进 company vault。
+- 官方依据：
+  - RESTful API 支持 HTTP/HTTPS URL，REST 场景支持 `oss://` 临时 URL，并可在 header 中启用 `X-DashScope-OssResourceResolve`。
+  - Python SDK 不支持 `oss://` 临时 URL，也不支持配置该 header。
+  - 官方支持 `mp3`、`m4a`、`wav` 等格式，但也明确说格式变种无法穷尽测试，不能保证所有变种都能正确识别。
+
+每条 transcript 的 frontmatter 要写 `transcription_provider` 和 `transcription_engine`；状态 JSON 要保留 provider attempts，方便之后判断是 Groq、DashScope URL、DashScope OSS 还是标准音频兜底起效。
+
+### B. Founder 研究的高价值内容类型
+- 解释组织设计的段落
+- 解释招聘标准的段落
+- 解释绩效/考核/激励的段落
+- 解释 AI 如何改变组织边界的段落
+- 解释 headcount、人才密度、速度、流程、产品开发的段落
+- 解释管理产品、内部工具体系、AI agent 如何参与管理和协作的段落
+- 解释业务模式、行业结构、CEO 对行业哲学判断、关键业务数据的段落
+
+### C. 组织动作的高价值证据
+- headcount 政策
+- AI-before-hiring 之类的硬要求
+- 组织重组
+- 考核机制改动
+- 关键岗位任命与授权
+- 决策流程和信息流变化
+- 私有 AI 应用公司尤其要看 careers / job description：
+  - open roles 暴露公司正在补的能力
+  - 岗位要求暴露真实工作方式与人才标准
+  - values 页面如果写到绩效、kickoff、feedback、award，通常比媒体报道更接近组织事实
+
+### D. 业务影响的识别方式
+- 管理层是否把组织变化和产品速度/客户结果直接挂钩
+- 是否出现更快发布、更低成本、更高毛利、更强产品迭代
+- 是否出现新业务线但没有等比例扩招
+- 是否出现经营指标改善与组织动作的时间先后关系
+
+---
+
+## 三、当前已确认的经验
+
+### 经验 1
+只保留一个 `Agent.md` 不够，项目需要至少四个核心文件共同运转。
+
+### 经验 2
+播客链路不能只抓 episode 列表，真正有价值的是能落成全文 transcript 的那部分。
+
+### 经验 3
+目录结构不写清楚，后面会在 root 脚本和 `scripts/discovery/` 版本之间反复混淆。
+
+### 经验 4
+在目标公司未明确时，不应盲目抓取；先完成规范和链路确认，再补一个最小必要问题。
+
+### 经验 5
+对 Lovable 这类非上市、快速变化的 AI 应用公司，组织判断不能只看融资新闻和 ARR。Founder 长访谈、careers 页面、关键岗位 JD、官方 governance/security 文章，往往比二手报道更能说明组织正在如何从 founder mode 走向可规模化组织。
+
+### 经验 6
+当同一项目进入多公司研究阶段，必须尽早拆成公司级目录。`scripts/{TICKER}` 适合作为采集缓存，但不适合作为长期研究主目录；长期研究应进入 `companies/{company}/vault` 和 `companies/{company}/analysis`。
+
+### 经验 7
+长音频 ASR 是典型慢任务，不能绑死主线程。只要用户允许 sub agent，应把每家公司或每组音频拆给子 agent 并行跑；主线程继续推进网页、Substack、证据拆解和写作框架。
+
+### 经验 8
+长音频转录脚本不能只在 episode 完成后写状态。每个 episode 开始前也要写 `running` heartbeat，并在状态里保留 attempt round、stage、audio URL；否则百炼轮询 10-20 分钟时，主线程无法区分“正常等待”和“脚本卡死”。
+
+### 经验 9
+metadata 落盘不能只靠标题生成文件名。同一家公司、同一天、相似标题会发生碰撞；保存 markdown 时必须追加 `_2` / `_3` 这类后缀，保证 JSON 记录数和 vault 文件数可对齐。
+
+### 经验 10
+写 markdown frontmatter 时，标题、节目名、URL 这类外部字符串必须用 `json.dumps` 或等价方式转义。播客标题里经常自带引号；直接写 `title: "{title}"` 会生成不可解析的 YAML。
+
+### 经验 11
+判断 transcript 是否已存在，不能靠标题前缀模糊匹配。Founder 访谈标题高度相似，必须读取现有 transcript frontmatter，用 `title + date` 精确匹配；否则会把多条相近 episode 误判成同一条完成记录。
+
+### 经验 12
+DashScope / 百炼播客失败经常不是“本机拿不到音频”，而是云端读取远程文件或 OSS 临时文件失败。Midjourney 案例里，失败项本地全部可下载，OSS 上传也没有明显失败，但 SDK 路径仍大量 `FILE_DOWNLOAD_FAILED`；将音频标准化为 `16kHz / mono / 16-bit PCM WAV` 后，改用 REST API + OSS 资源解析，失败项可以被批量救回。以后不要把 `FILE_DOWNLOAD_FAILED` 当终局错误，它通常意味着需要切换传输路径和音频封装。
+
+### 经验 13
+Transcript 不是分析入口，essence 才是。原始 transcript 太长、噪音太多，直接基于 transcript 写分析会被材料拖散。正确流程是：先做 relevance review，淘汰低相关材料；再把每条高相关 transcript / article 提炼成一份 essence；essence 内部按重要片段拆成多条 insight blocks，长材料可以有十几条到几十条 block；最终分析优先读 essence，只有需要核验原文时才回到 transcript。
+
+### 经验 14
+播客搜索的召回率取决于搜索前的元思考。只搜公司名会漏掉大量 Founder/C-level 访谈、行业主题访谈、产品名访谈和客户/竞品语境。每次搜索前必须先写 query map，把公司、人物、产品、行业、组织、AI 转型关键词摊开，再执行搜索。
+
+### 经验 15
+`companies/` 根目录一旦混入临时文件和历史 sample company，很快会误导后续研究。全局 inventory / queue 放 `companies/_meta/`，旧分析稿和历史 public-company sample 放 `companies/_legacy/`，当前研究公司才留在根目录第一层。看起来是洁癖，实际是在保护检索和判断。
+
+### 经验 16
+YouTube、Substack、X 这类 source 的召回率不能靠临场关键词。正确做法是先把 podcast 阶段的关键词宇宙当作全局 query map，再派生平台限定词。这样能避免“播客搜得很完整，长文/视频/社媒又退回只搜公司名”的断层。
+
+### 经验 17
+YouTube 反爬变强后，不要把 `yt-dlp` 当唯一入口。更稳的结构是双 provider：用 RapidAPI metadata search 先找到 transcript/caption 命中的候选，再用 RapidAPI transcript 拉全文；失败再切 `youtube_transcript_api` 和 `yt-dlp` 字幕。RapidAPI search snippets 只能当候选证据，不能假装是完整 transcript；完整 transcript 成功后要写 `.segments.json`，方便后续 essence 按时间片追溯。
+
+---
+
+## 四、教训区
+
+### 教训 1：规范写得太像“说明”，不够像“执行协议”
+修正：
+- 增加硬规则
+- 增加前置检查
+- 增加何时更新哪份文档
+
+### 教训 2：只写模板，不写当前状态，团队会失去节奏
+修正：
+- `progress.md` 必须预填当前任务
+- 不是只给空模板
+
+### 教训 3：脚本存在不等于链路清晰
+修正：
+- 要把脚本职责、输出路径、推荐使用版本写进 `project-structure.md`
+
+---
+
+## 五、后续更新规则
+
+出现以下情况时，必须回写本文件：
+- 同类任务做了两次以上，有稳定套路
+- 某次错误值得防止再次发生
+- 某类证据特别有效或特别误导
+- 某条方法论被实际执行验证
+
+exec
+/bin/zsh -lc "sed -n '1,260p' /Users/leafsun/Desktop/AI\\ Org研究/project-structure.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+# Project Structure
+
+> 这是本项目的路径地图和脚本说明。每次 serious plan 前先确认本文件，避免路径和输出搞混。
+
+## 1. 根目录概览
+
+### 核心文档
+- `Agent.md`
+  项目级协作协议
+- `progress.md`
+  当前活跃任务进度面板
+- `core-principles-and-lessons.md`
+  稳定准则与教训沉淀
+- `project-structure.md`
+  当前这份结构说明
+
+### 配置
+- `config/company_targets.json`
+  公司/标的级通用采集配置。私有公司、非标准 ticker、aliases、founders、channels、seed URLs、输出路径都放这里，脚本不再把公司名硬编码进 Python。
+- `.env`
+  本地 secret 文件，当前用于 `GROQ_API_KEY` 等 API key。该文件必须被 `.gitignore` 保护，脚本只读环境变量，不在代码里写死 key。
+
+### 学习与方法论
+- `学习/`
+  存放 skill、old friends、组织投资框架等学习材料
+
+### 执行脚本
+- `scripts/`
+  存放抓数、转录、采集、批处理脚本，以及脚本默认输出/历史样本
+
+### 公司研究目录
+- `companies/`
+  当前研究主目录。每家公司一个文件夹，内部统一分为 `vault/` 和 `analysis/`。
+
+当前已建立：
+- `companies/perplexity/`
+- `companies/block/`
+- `companies/lovable/`
+- `companies/anthropic/`
+- `companies/cursor/`
+- `companies/midjourney/`
+- `companies/_legacy/`
+  旧根目录分析稿和历史 sample company 归档，不再作为主线文件
+- `companies/_meta/`
+  跨公司、全局 inventory、全局 transcript queue 等项目级辅助文件；不放单家公司原始证据或最终分析
+
+---
+
+## 2. 学习目录说明
+
+### `学习/_skill-guide.md`
+skill 总览和 pipeline 入口说明
+
+### `学习/skills/`
+具体抓数与分析 skill
+
+重点包括：
+- `collect`
+- `founder`
+- `org-scan`
+- `social-search`
+- `private-search`
+- `deepsearch`
+- `pipeline`
+
+### `学习/org-as-alpha/`
+投资方法论与组织到业务映射框架
+
+### `学习/old-friends/`
+历史标杆公司样本，用于校准组织判断与写作方式
+
+### `学习/style_references/`
+用户提供的写作风格样本与拆解笔记。当前 essence 写作风格基准：
+- `anthropic_org_investment_style_reference_2026-04-21.md`
+- `anthropic_org_investment_style_notes_2026-04-21.md`
+
+---
+
+## 3. scripts 目录说明
+
+### 抓播客相关
+- `scripts/fetch_podcasts.py`
+  root 版本播客 metadata 抓取脚本
+- `scripts/fetch_podcast_transcript.py`
+  root 版本播客 transcript 转录脚本
+- `scripts/discovery/fetch_podcasts.py`
+  discovery 版本播客 metadata 抓取脚本
+- `scripts/discovery/fetch_podcast_transcript.py`
+  discovery 版本播客 transcript 转录脚本
+
+### 其他抓数脚本
+- `fetch_youtube.py`
+- `fetch_youtube_vault.py`
+- `fetch_financials.py`
+- `fetch_xbrl.py`
+- `fetch_sec_edgar.py`
+- `fetch_xiaoyuzhou.py`
+- `fetch_perplexity.py`
+- `collect.py`
+- `collect_lite.py`
+- `target_config.py`
+  读取 `config/company_targets.json` 的通用配置层
+- `fetch_web_sources.py`
+  target manifest 驱动的通用网页/长文/官方/社媒 URL discovery 与全文抓取脚本
+- `collect_target.py`
+  target manifest 驱动的统一编排脚本，负责按 channel 抓取、同步到 `companies/{slug}/vault/`、生成 source inventory 和 evidence map
+
+---
+
+## 4. 当前推荐使用约定
+
+### 推荐使用 `companies/{company}/` 作为研究主目录
+原因：
+- 每家公司原始材料和最终分析放在同一棵树下
+- 避免 `scripts/` 同时承担“执行脚本”和“研究仓库”两种职责
+- 后续拆公司、补证据、重写分析时更容易定位
+- `companies/` 根目录只保留当前研究公司、`_meta/`、`_legacy/` 和 README；不要把临时测试文件、全局 queue 或历史 sample company 直接放在第一层
+
+### `scripts/discovery/` 仍作为默认采集入口
+原因：
+- 与当前仓库里已有样本路径一致
+- 历史输出主要已经落在 `scripts/{TICKER}/...`
+- 可以减少 root 版本和 discovery 版本混用造成的混乱
+
+处理方式：
+- 脚本先输出到 `scripts/{TICKER}/...`
+- 每个抓取阶段结束后，同步到 `companies/{company}/vault/...`
+- 分析稿只写入或同步到 `companies/{company}/analysis/...`
+
+### 当前推荐播客链路
+1. 先写或由脚本生成 `_podcast_query_map.md`，记录公司名、别名、Founder/C-level、产品、行业、客户/伙伴/竞品、组织/AI 转型关键词
+2. `python3 scripts/discovery/fetch_podcasts.py TICKER "Company Name" ["中文名"] ["别名1|别名2|Founder Name"]`
+3. metadata 抓取默认跳过已知短于 10 分钟的 episode；未知时长保留
+4. `python3 scripts/discovery/fetch_podcast_transcript.py TICKER 50 auto`
+5. 检查 `scripts/{TICKER}/sources/podcasts_transcripts/_podcast_transcription_status.json`
+6. `skipped_short` 与 `deferred_max_limit` 是可解释跳过，不算真实失败；失败清单只放需要重试或修脚本的条目
+7. 如果存在失败，优先重跑失败项；若失败来自字段兼容、URL刷新、网络重试策略等脚本问题，先修脚本再重跑
+8. 默认优先使用 RSS enclosure / metadata 中的原始 `audio_url` 直接提交 Groq Whisper；不要一开始就下载和转码
+9. Groq 失败、额度不足、rate limit、远程 URL 拉取失败、文件过大或转录空结果时，再把同一批候选 URL 提交 DashScope / 百炼
+10. 如果音频 URL 本身可访问但百炼拉取失败，走本地音频缓存 `_audio_cache/` -> 百炼 OSS 上传 -> ASR 转录 fallback
+11. 如果 URL 预检失败但原始链接仍像音频源，也不要直接放弃；继续尝试本地下载、缓存、上传百炼 OSS 后转录
+12. 如果本机下载与 OSS 上传都成功，但 DashScope / 百炼仍报 `FILE_DOWNLOAD_FAILED`，进入标准音频 fallback：`_audio_cache/` 原始文件 -> `_standard_audio/` 标准 `mp3` 或 `wav`（推荐 `16kHz / mono / 16-bit PCM`）-> OSS -> Paraformer RESTful API。需要 `oss://` 临时 URL或 `X-DashScope-OssResourceResolve` 时必须用 REST API，不走 Python SDK
+13. 标准音频转录成功后，先校验 transcript markdown 与 status JSON，再删除原始 `_audio_cache` 音频；`_audio_cache/` 和 `_standard_audio/` 不同步进 `companies/{company}/vault/`
+14. 每条 transcript frontmatter 应记录 `transcription_provider` 和 `transcription_engine`；status JSON 应记录 provider attempts
+15. 所有 transcript 抓完后先做 relevance review，再逐条生成 essence；正式分析优先基于 essence
+
+### 当前推荐 YouTube / Substack / X 搜索链路
+1. 先读取 `scripts/{TICKER}/_podcast_query_map.md` 或 `companies/{company}/vault/podcasts/_podcast_query_map.md`
+2. 如果不存在，先补一份 `_source_query_map.md`，字段等同 podcast 搜索前元思考
+3. YouTube / Substack / web longform / X / Reddit / LinkedIn 都继承这份关键词宇宙
+4. 每个 source 对每个关键词至少搜索一次；关键词过宽时追加平台限定词、人物名、产品名、时间范围或站点限定
+5. 每个 source 输出自己的 query coverage：
+   - YouTube: `_youtube_query_map.md`、`_youtube_search_status.json`、`_youtube_candidates.json`
+   - Substack / web: `_substack_query_map.md` 或 `_web_query_map.md`、对应 `_search_status.json`
+   - X: `_x_query_map.md`、`_x_search_status.json`
+6. query coverage 必须记录 `query -> returned urls/posts -> selected -> rejected/reason`
+7. 搜索结束后进入 relevance review；高相关材料写入对应 essence 目录，X 高相关材料可放 `companies/{company}/vault/social/social-essence/`
+
+YouTube 当前默认 provider：
+- Search: `rapidapi_metadata_search` -> `yt_dlp_search`
+- Transcript: `rapidapi_transcript3` -> `youtube_transcript_api` -> `yt_dlp_subtitle`
+- 环境变量：`RAPIDAPI_KEY`、`YOUTUBE_RAPIDAPI_SEARCH_HOST`、`YOUTUBE_RAPIDAPI_TRANSCRIPT_HOST`
+- RapidAPI search 只用于发现和排序候选；只有 full transcript 成功才生成 transcript markdown。segments sidecar 命名为 `{transcript}.segments.json`。
+
+### 当前推荐 target manifest 链路
+适合 Anthropic / Perplexity / Lovable 这类私有或非标准 ticker 标的：
+1. 在 `config/company_targets.json` 新增或更新 target
+2. `python3 scripts/discovery/collect_target.py TARGET_KEY --dry-run`
+3. `python3 scripts/discovery/collect_target.py TARGET_KEY --channels official,web_longform,jobs_org`
+4. `python3 scripts/discovery/fetch_podcasts.py --target TARGET_KEY`
+5. `python3 scripts/discovery/fetch_podcast_transcript.py TARGET_KEY 0 auto scripts/TARGET_KEY/_podcast_episodes_org_curated.json`
+6. `python3 scripts/discovery/fetch_youtube.py --target TARGET_KEY`
+7. 检查 `scripts/TARGET_KEY/**/_collection_status.json` 与失败清单，再同步或重跑
+8. podcast transcript 是慢任务时，优先交给 sub agent；主线程只在状态文件出现成功/失败后同步到 `companies/{company}/vault/podcasts/transcripts/`
+
+---
+
+## 5. 输出路径约定
+
+### 公司目录标准结构
+每家公司统一使用：
+- `companies/{company}/vault/`
+  存放原始数据、转录、网页、财务、社媒等材料
+- `companies/{company}/analysis/`
+  存放最终分析、阶段性 memo、500 字提交版
+
+项目级辅助文件统一使用：
+- `companies/_meta/transcripts/`
+  全局 transcript inventory、essence queue、跨公司 transcript 统计
+- `companies/_meta/cross_company/`
+  跨公司提交版、横向比较稿、三家公司合并稿
+- `companies/_legacy/public_company_samples/`
+  历史 public-company sample 目录，例如 `crm`、`snow`、`pltr`、`ddog` 等；这些不是当前研究对象，只作为历史痕迹保留
+- `学习/style_references/`
+  essence 格式测试、用户给定风格样本、风格拆解笔记；不要放在 `companies/` 根目录
+
+目录总说明见：
+- `companies/README.md`
+
+`vault/` 下固定分层：
+- `podcasts/metadata/`
+  Apple Podcasts / podcast episode 元数据 markdown
+- `podcasts/transcripts/`
+  podcast transcript markdown
+- `podcasts/podcast-essence/`
+  podcast transcript 的逐条精华提炼。每个高相关 transcript 必须有一份对应 essence；低相关 transcript 在 relevance review 中标记淘汰。后续分析优先读 essence。
+- `youtube/`
+  YouTube transcript markdown
+- `youtube/youtube-essence/`
+  YouTube transcript 的逐条精华提炼。
+- `web/`
+  官网、博客、Substack、媒体文章等网页原文或摘录
+- `web/source-essence/`
+  Substack、长文、访谈、网页 transcript 的逐条精华提炼。
+- `social/`
+  Twitter/X、LinkedIn、Reddit 等社媒材料
+- `financials/`
+  财务、profile、上市公司数据
+
+当前公司映射：
+- `PERPLEXITY` -> `companies/perplexity/`
+- `SQ` / `Block` -> `companies/block/`
+- `LOVABLE` -> `companies/lovable/`
+- `ANTHROPIC` -> `companies/anthropic/`
+- `QUNHE` / `00068.HK` -> `companies/qunhe/`
+- `CURSOR` / `Anysphere` -> `companies/cursor/`
+- `MIDJOURNEY` -> `companies/midjourney/`
+
+上市公司或拟上市公司可额外使用：
+- `vault/regulatory/`
+  招股书、配发结果、交易所公告、上市展示文件、行业报告、法律意见等正式监管材料
+- `vault/products/`
+  产品官网、产品文档、发布页、用户案例
+- `vault/team/`
+  管理层、董事会、创始人、组织架构、招聘补充材料
+
+### 使用 `scripts/discovery/fetch_podcasts.py` 时
+输出默认落在：
+- `scripts/{TICKER}/sources/podcasts/`
+- `scripts/{TICKER}/_podcast_episodes.json`
+- `scripts/{TICKER}/_podcast_query_map.md`
+  搜索前元思考与 query 覆盖说明
+
+同步到：
+- `companies/{company}/vault/podcasts/metadata/`
+- `companies/{company}/vault/podcasts/_podcast_episodes.json`
+- `companies/{company}/vault/podcasts/_podcast_query_map.md`
+
+### 使用 `scripts/discovery/fetch_podcast_transcript.py` 时
+输出默认落在：
+- `scripts/{TICKER}/sources/podcasts_transcripts/`
+
+同步到：
+- `companies/{company}/vault/podcasts/transcripts/`
+
+### Transcript Essence 输出
+抓完 podcast / YouTube / Substack / web transcript 后，必须新增：
+- `companies/{company}/vault/podcasts/podcast-essence/`
+- `companies/{company}/vault/youtube/youtube-essence/`
+- `companies/{company}/vault/web/source-essence/`
+
+2026-04-21T05:55:39.498571Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:39.498818Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+四大文档确认了两个约束点：`companies/perplexity/vault` 是最终研究归档，`scripts` 只能作为缺失时的候补；本轮用户又明确禁止改四大文档和 scripts，所以我会只在指定 `podcast-essence` 目录写入 essence 和总状态文件。
+exec
+/bin/zsh -lc "wc -l /Users/leafsun/Desktop/AI\\ Org研究/Agent.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+     324 /Users/leafsun/Desktop/AI Org研究/Agent.md
+
+exec
+/bin/zsh -lc "wc -l /Users/leafsun/Desktop/AI\\ Org研究/progress.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+     423 /Users/leafsun/Desktop/AI Org研究/progress.md
+
+exec
+/bin/zsh -lc "wc -l /Users/leafsun/Desktop/AI\\ Org研究/core-principles-and-lessons.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+     235 /Users/leafsun/Desktop/AI Org研究/core-principles-and-lessons.md
+
+exec
+/bin/zsh -lc "wc -l /Users/leafsun/Desktop/AI\\ Org研究/project-structure.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+     379 /Users/leafsun/Desktop/AI Org研究/project-structure.md
+
+2026-04-21T05:55:49.444468Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:49.444687Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+exec
+/bin/zsh -lc "sed -n '261,460p' /Users/leafsun/Desktop/AI\\ Org研究/progress.md" in /Users/leafsun/Desktop/AI Org研究
+exec
+/bin/zsh -lc "sed -n '261,340p' /Users/leafsun/Desktop/AI\\ Org研究/Agent.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+`Founder认知 -> 组织动作 -> 机制变化 -> 执行结果 -> 业务影响 -> 市场/投资意义`
+
+### 5.5 明确区分
+- 已验证事实
+- 强推断
+- 弱推断
+- 待验证问题
+
+---
+
+## 6. 输出标准
+
+### 对外输出
+- 先说结论，再给依据
+- 不堆砌资料
+- 让每一段都服务于任务目标
+
+### 对内文档
+- 优先可维护、可复用、可追踪
+- 模板不要空泛，要能直接拿来用
+- 任务进行中允许不完美，但必须真实反映状态
+
+---
+
+## 7. 失败与修正规则
+
+如果执行过程中出现以下情况，必须修正而不是硬推进：
+- 目标公司不明确
+- 输出路径不对
+- 脚本能跑但结果不对
+- 抓到了元数据但没抓到可用原文/转录
+- 结论建立在低质量证据之上
+- 当前规范不足以支撑任务
+
+修正动作优先顺序：
+1. 先更新 `progress.md`
+2. 再修正 plan
+3. 必要时补充到 `core-principles-and-lessons.md`
+4. 如果属于流程层面问题，回写 `Agent.md`
+
+---
+
+## 8. 当前阶段特别规则
+
+本项目当前处于“研究工作流搭建 + 播客原始材料沉淀”阶段，因此：
+- 优先完善流程，不急着写最终结论
+- 优先沉淀可反复使用的规范和结构
+- 优先抓 Founder/管理层的原始播客与转录
+- 每次 serious plan 前先看四个核心 md，这一条必须执行
+
+---
+
+## 9. 执行口令
+
+每次准备认真开工时，默认按以下顺序走：
+
+1. 看四个核心文件
+2. 更新 `progress.md`
+3. 输出计划
+4. 执行
+5. 验证
+6. 回填文档
+
+如果没走完这六步，不算完整执行。
+
+ succeeded in 0ms:
+- [x] 新增 Anthropic live fact check，固定 2026-04-17 核验过的融资、run-rate、compute、enterprise partnership 动态事实
+- [x] 按 `一页分析` PDF 风格完成 Anthropic 项目推荐版，压成公司简介 / 事 / 人 / 好公司 / 业务影响 / 好价格 / 竞争 / 风险指标结构
+
+## Active Plan
+
+- [x] 将 Anthropic 采集系统改为 `config/company_targets.json` 驱动
+- [x] 完成通用 loader / web fetcher / orchestrator
+- [x] 完成 Anthropic dry-run 与首轮抓取
+- [x] 同步首轮产物到 `companies/anthropic/vault/`
+- [x] 生成 Anthropic source inventory 与 evidence map
+- [x] 补强 podcast metadata 文件名防碰撞
+- [x] 补强 podcast ASR 状态文件：后续每个 episode 开始时先写 `running` heartbeat
+- [ ] 等待 Anthropic podcast ASR sub agent 收口，检查 status/failures 后同步 transcript vault
+- [ ] 对 ASR 失败项重试；如果失败来自脚本问题，先修脚本再重跑
+- [x] 同步当前 Anthropic podcast ASR 成功产物：18 条 transcript 已进入 `companies/anthropic/vault/podcasts/transcripts/`
+- [x] 撰写 `companies/anthropic/analysis/Anthropic_AI组织复杂报告_2026-04-17.md`
+- [x] 撰写 `companies/anthropic/analysis/Anthropic_一页分析_2026-04-17.md`
+
+## Progress Log
+
+### 已完成
+
+- Lovable 新任务：
+  - podcast metadata 抓取完成，9 条落在 `scripts/LOVABLE/sources/podcasts/`
+  - YouTube 抓取完成，15 条视频中 14 条成功落字幕，约 528k 字符
+  - 定点补抓 Lenny 访谈原始 YouTube transcript：`Building Lovable: $10M ARR in 60 days with 15 people`
+  - 复用并迁移此前已转录的 20VC Lovable podcast transcript 到 `scripts/LOVABLE/sources/podcasts_transcripts/`
+  - 完成 Lovable AI 组织分析文稿：`Lovable_AI组织分析.md`
+- 项目结构重整：
+  - `codeX.md` 已改名为 `Agent.md`
+  - 新增 `companies/perplexity/`
+  - 新增 `companies/block/`
+  - 新增 `companies/lovable/`
+  - 三家公司均已建立 `vault/` 与 `analysis/`
+  - 已把现有 podcast / transcript / YouTube / financials 同步进对应 company vault
+  - 已将 `Perplexity_Block_AI组织分析.md` 拆成公司级分析稿
+  - 已将旧根目录分析稿归档到 `companies/_legacy/`
+  - 已新增 `companies/README.md` 作为公司目录使用说明
+- 本轮 Perplexity / Block 重抓：
+  - 已增强 podcast metadata 脚本，支持公司别名和短 ticker 精确匹配
+  - 已增强 podcast transcript 脚本，支持 curated episode JSON、状态文件、失败文件、多轮重试和行缓冲 checkpoint
+  - 已继续增强 podcast transcript 脚本：远程 URL 被百炼拒拉时，自动下载到 `_audio_cache/` 并上传到百炼 OSS 后重试转录
+  - 已再次增强 podcast transcript 脚本：URL 预检失败不再直接放弃，而是继续进入本地下载 / 百炼 OSS 兜底；长音频百炼轮询时间改为 `PODCAST_MAX_POLL_SECONDS` 可配置
+  - 已重新抓取 Perplexity podcast metadata：72 条
+  - 已重新抓取 Block podcast metadata：17 条
+  - 已生成组织分析用 curated podcast 清单：Perplexity 8 条，Block 12 条
+  - 已将 Perplexity / Block 音频转录分别拆给 sub agent 并行处理
+  - 已新增 Perplexity / Block web source notes，记录 Substack/长文/官方材料抓取结果
+  - 已新增 Perplexity / Block evidence map，先拆组织证据和待验证缺口
+  - 已新增 Perplexity / Block v2 working draft，明确标注等待剩余 podcast transcript
+  - 已按用户给的字节样文结构，完成 Perplexity / Block / Lovable 三家公司复杂报告
+  - 已新增三家公司 Open Evidence 扩展提交版，每家公司分别回答 founder 洞见、组织动作、业务影响三问
+  - 已根据用户新反馈回翻 Lovable 组织分析、Lenny 访谈、20VC、Stripe 对话，将 Lovable 提交版改成更强调招聘模式、轻 cadence、线下信息密度、protective layer 和企业化组织补课
+  - Block 播客转录子 agent 回报：12 条 curated 中 8 条成功、4 条失败；失败原因集中为 `FILE_DOWNLOAD_FAILED`，已同步状态与失败清单到 `companies/block/vault/podcasts/transcripts/`
+  - 已根据用户反馈二次压缩 Block 提交版：去掉“AI 进入核心流程”和泛泛 uncertainty，改为围绕 company intelligence、money signal、role redesign、capability-driven roadmap 和 P&L 验证写
+  - Anthropic 通用抓取代码已实现：
+    - 新增 `config/company_targets.json`
+    - 新增 `scripts/discovery/target_config.py`
+    - 新增 `scripts/discovery/fetch_web_sources.py`
+    - 新增 `scripts/discovery/collect_target.py`
+    - `fetch_youtube.py` / `fetch_podcasts.py` 支持 `--target`
+  - Anthropic 首轮采集已跑：
+    - official：9/10 成功
+    - founder_voice：8/50 成功，失败多为页面太短/不可抓全文，但 URL 已保留
+    - enterprise_partnerships：2/5 成功
+    - jobs_org：1/1 成功
+    - web_longform：3/10 成功
+    - funding_compute：1/6 成功
+    - social_community：0/9 全部 indexed/fetch failed，仍保留 URL index
+    - youtube：12/20 transcript 成功，约 1.52M 字符
+    - podcasts：179 条 metadata，curated list 已生成
+  - Perplexity API 已出现 quota 401，后续 web discovery 需优先靠 seed URLs / 官方源 / web search 工具补足
+  - Anthropic podcast ASR 已交给 sub agent 跑前 80 条 curated episode；当前不能算 transcript 闭环完成
+  - Anthropic podcast ASR 当前已有 2 条成功 transcript（Jared Kaplan / Life with Machines 等）并已同步到 `companies/anthropic/vault/podcasts/transcripts/`
+  - Anthropic podcast ASR 当前 3 条失败，失败原因均为远程拉取与 OSS 兜底后仍 `FILE_DOWNLOAD_FAILED`；脚本仍在继续处理后续 episode
+  - 已补强 podcast metadata 文件名防碰撞，避免同名 episode 覆盖导致 JSON 数量与落盘 markdown 数量不一致
+  - 已补强 podcast transcript 状态文件：后续每个 episode 开始前先写 `running` heartbeat，避免长音频轮询时外部无法判断是否卡住
+  - 已补强 YouTube / podcast / transcript frontmatter 转义，避免标题自带引号时生成不可解析 YAML
+  - 已修正 transcript existing 检查：从标题前缀模糊匹配改为 frontmatter `title + date` 精确匹配，避免相近标题被误判为已完成
+  - 已修正 `collect_target.py`：如果当天 evidence map 已经存在，后续重跑不再用占位模板覆盖人工整理过的证据地图
+  - Anthropic podcast ASR 已由新 sub agent 接管继续跑，当前进程 PID 28680，状态文件能看到 `running` heartbeat
+  - 已同步 Anthropic 当前 ASR 成功产物到 company vault：18 条 podcast transcript 可用于写作；后台 ASR 进程仍在继续，尚未闭环
+  - 已新增 `companies/anthropic/analysis/Anthropic_live_fact_check_2026-04-17.md`，记录 Series G、run-rate revenue、Google/Broadcom compute、Salesforce/Cognizant/IBM partnership 等动态事实来源
+  - 已新增 `companies/anthropic/analysis/Anthropic_AI组织复杂报告_2026-04-17.md`，按 Founder 认知、组织动作、业务影响、对比视角和关键不确定性写成长版报告
+  - 已新增 `companies/anthropic/analysis/Anthropic_一页分析_2026-04-17.md`，参照 `一页分析` PDF 写成项目推荐页风格，保留估值、收入、组织动作、业务影响、竞争和风险跟踪指标
+- 读完 `Agent.md`、学习目录、抓数 skill、投资框架
+- 定位到播客抓取与转录脚本
+- 验证本地环境可 import `dashscope`
+- 确认转录脚本中已有 DashScope / 百炼配置
+- 确认当前历史输出主要落在 `scripts/{TICKER}/sources/podcasts_transcripts/`
+- 完成四个核心 md 的初版搭建
+- 明确本轮目标公司为 `Perplexity` 与 `Block`
+- 完成两家公司播客 metadata 抓取：
+  - `Block`: 17 条
+  - `Perplexity`: 15 条
+- 完成第一轮播客转录：
+  - `Block`: 4/5 条长音频成功
+  - `Perplexity`: 3/9 条长音频成功
+- 已补强 `scripts/discovery/fetch_podcast_transcript.py`：
+  - DashScope 瞬时网络错误自动重试
+  - 同一条播客按多个 URL 形态重试
+- 已补强 `scripts/discovery/fetch_youtube.py`，但用户已明确当前先收口 podcast 线
+- 补充收获：定向 YouTube 抓取已落部分高价值视频，但当前仍以 podcast 为主线
+- 已完成一版 `Perplexity / Block` 的可提交 md 文稿，并补入更多 podcast / founder 原话
+- 已将 `Perplexity` 的重心从“产品定义”改回“组织变革”：
+  - 当前最关键的判断是：Perplexity 已明显改变工作节奏、激励方向与反馈链条
+  - 但这套 AI 组织仍更像 founder mode，而非已经制度化完成
+
+### 进行中
+
+- 准备按新结构重做 Perplexity / Block 的播客抓取、拆解和 Substack 补充
+
+### 待处理
+
+- 重新跑 Perplexity / Block podcast metadata 与 transcript
+- 将新抓取结果同步到 `companies/perplexity/vault/` 和 `companies/block/vault/`
+- 补抓 Perplexity / Block 的 Substack / 独立长文 / 高质量报道
+- 分别重写 `companies/perplexity/analysis/Perplexity_AI组织分析.md`
+- 分别重写 `companies/block/analysis/Block_AI组织分析.md`
+
+## Decisions
+
+- serious planning 前必须先读四个核心 md，其中最高优先级文件为 `Agent.md`
+- 当前优先使用 `scripts/discovery/` 版本脚本，与历史输出路径保持一致
+- 抓播客时先抓 metadata，再跑 transcript
+- 用户当前要求：先完成 podcast + 阿里云 transcript，再继续
+- `Perplexity` 按非上市公司处理，优先原始内容；`Block` 后续再扩财务与其他源
+- 当前交付文稿优先写得像“记者/old friends”，而不是解释型摘要
+- 写 `Perplexity` 时，优先写“工作单元 / 激励 / 信息流 / founder 依赖”，避免滑向产品定义
+- 写 `Lovable` 时，核心不是“AI app builder 产品定义”，而是“产品团队的组织重构”：工程瓶颈下降后，taste、用户理解、端到端判断和 governance 成为新组织重心
+- `scripts/` 只作为采集 staging；长期研究材料以 `companies/{company}/vault/` 为准
+- 最终分析以 `companies/{company}/analysis/` 为准
+
+## Risks / Open Questions
+
+- Apple Podcasts 搜索存在噪音，后续仍需人工筛 relevance
+- 一部分播客音频 URL 会出现 DashScope `FILE_DOWNLOAD_FAILED`
+- 一部分任务在 DashScope 轮询阶段会出现 SSL / RemoteDisconnected 类瞬时错误
+- 当前判断：
+  - `Block` 剩余 1 条大概率属于可重试网络类问题
+  - `Perplexity` 剩余条目里，部分是可重试网络问题，部分是 DashScope 对某些音频源拉取失败
+- 当前写作风险：
+  - 组织洞见容易滑向空泛管理话术
+  - 原话引用过多会牺牲成稿密度
+- Lovable 本轮限制：
+  - podcast 整批 DashScope 转录曾启动，但长时间无中间落盘，已中断改为高相关优先
+  - YouTube 泛搜索抓到部分教程噪音，分析只采用 Founder / 投资人 / 官方材料
+  - 官网资料对业务影响更强，对内部组织细节仍需 Founder 访谈交叉验证
+
+## Validation
+
+- [x] 核心脚本存在
+- [x] 关键依赖存在
+- [x] 核心文档体系完成
+- [x] 抓取路径与命名符合项目约定
+- [x] 实际生成播客元数据
+- [x] 实际生成播客转录（部分成功）
+- [ ] 失败条目完成最大化补救
+- [x] Lovable 分析文稿完成
+
+## Next Action
+
+按新结构重新抓取与拆解 Perplexity / Block podcast，并补充 Substack / 长文材料。
+
+exec
+/bin/zsh -lc "sed -n '261,420p' /Users/leafsun/Desktop/AI\\ Org研究/project-structure.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+
+每个高相关 source 对应一份 essence 文件；一份 essence 文件内部应包含多条 insight blocks，不是只写一条总括。读到一个重要段落、机制、业务数据、管理层判断、组织动作、产品战略、用户反馈或可投资化证据，就新增一条 block。
+
+每个 essence 文件建议包含：
+- frontmatter: `company/research_key/type/source_transcript/relevance/status/date`
+- `## Relevance Review`
+- `## Insight Blocks`
+- `### E01 — 短标题`
+- 标题下直接写详实判断自然段，不加 `**判断段**` 这类标签
+- 判断自然段后直接贴 quote pack，不加 `关键引用 / 近原文证据` 标题
+- 每个 insight block 默认保留 3-8 条高信息密度原文摘录；允许完整长句，方便后续手动剪裁
+- `## Source-Level Takeaways`
+
+Essence 提炼方式：
+- 从 source 开头往后做 sequential pass，一段一段判断是否值得保留
+- 用户确认的分析角度只作为优先级提示，不能作为过滤器
+- 读到新的机制、动作、数字、管理层判断、组织信号、产品策略、用户反馈、商业模式、竞争信息或可投资化证据，就新增 insight block 或并入同一机制 block
+- 保持 source order，避免先用高层框架俯瞰全文后只摘少数“符合预设”的材料
+
+### 使用 `scripts/discovery/fetch_youtube.py` 时
+输出默认落在：
+- `scripts/{TICKER}/sources/youtube/`
+
+同步到：
+- `companies/{company}/vault/youtube/`
+
+主要产物：
+- `_youtube_query_map.md`
+- `_youtube_search_status.json`
+- `_youtube_candidates.json`
+- `_youtube_dry_run_plan.json`（仅 dry-run 时生成，不覆盖真实 collection status）
+- `_youtube_collection_status.json`
+- `_youtube_collection_failures.json`
+- `{date}_{title}.md`
+- `{date}_{title}.segments.json`（RapidAPI transcript 有分段时）
+- `{date}_{title}.providers.json`（记录 transcript provider attempts）
+
+### 历史样本已确认存在于
+- `scripts/SNOW/sources/podcasts_transcripts/`
+- `scripts/CRM/sources/podcasts_transcripts/`
+- `scripts/PLTR/sources/podcasts_transcripts/`
+- 以及其他 `scripts/{TICKER}/sources/podcasts_transcripts/`
+
+---
+
+## 6. 播客链路的输入输出理解
+
+### 输入
+- `TICKER`
+- `Company Name`
+- 可选中文名
+
+### 中间产物
+- `_podcast_episodes.json`
+  存 episode 元数据、音频 URL、feed URL、日期等
+
+### 最终产物
+- `sources/podcasts/`
+  episode metadata markdown
+- `sources/podcasts_transcripts/`
+  transcript markdown
+- `sources/podcasts_transcripts/_audio_cache/`
+  远程 URL 无法被百炼直接拉取时的本地音频缓存
+- `sources/podcasts_transcripts/_standard_audio/`
+  DashScope 云端读取失败时的标准化音频目录。通常由 `_audio_cache/` 原始音频转为标准 `mp3` 或 `wav`；若无 `ffmpeg`，可用 macOS `afconvert` 转为 `16kHz / mono / 16-bit PCM WAV`。该目录只用于 ASR 重试与复查，不同步到 vault。
+- `sources/podcasts_transcripts/_podcast_transcription_status.json`
+  本轮转录状态与覆盖率
+- `sources/podcasts_transcripts/_podcast_transcription_failures.json`
+  仍未成功的条目、URL、失败原因和重试残差
+- 转录进行中时，状态文件应出现 `running` 记录；如果长时间没有变化，需要检查百炼轮询、OSS fallback 或音频下载阶段
+
+---
+
+## 7. 现阶段的结构风险
+
+### 风险 1：root 版本与 discovery 版本并存
+影响：
+- 容易把输出写到不同目录
+- 后续研究时不容易统一检索
+
+当前处理：
+- 默认优先使用 `scripts/discovery/` 版本
+- 研究材料最终同步进 `companies/{company}/vault/`
+
+### 风险 2：目标公司未明确
+影响：
+- 无法进入正式抓取
+
+当前处理：
+- 先完成规范、结构、进度面板
+- 再向用户补一个最小必要问题
+
+### 风险 3：脚本会抓到噪音播客
+影响：
+- episode 看似很多，但高价值 Founder 原声可能很少
+
+当前处理：
+- 先全抓 metadata
+- 再靠 transcript 与 relevance 人工筛
+
+### 风险 4：`scripts/` 和 `companies/` 出现双份材料
+影响：
+- 可能不知道哪份是研究主线
+- 脚本重跑后可能只更新 `scripts/`，忘记同步 `companies/`
+
+当前处理：
+- `scripts/` 是采集 staging
+- `companies/` 是研究 canonical
+- 每轮抓取结束后，必须把高价值材料同步到 `companies/{company}/vault/`
+- 最终分析只认 `companies/{company}/analysis/`
+
+---
+
+## 8. 文档与结构维护规则
+
+- 新增关键脚本时，要更新本文件
+- 输出路径改变时，要更新本文件
+- 推荐使用版本改变时，要更新本文件
+- 公司目录或 vault 分类改变时，要更新本文件
+
+2026-04-21T05:55:58.015943Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:55:58.016217Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+用户已在任务里给出本轮提炼角度，因此不再额外打断确认。Agent.md 要求更新 progress.md，但本轮用户明确禁止修改四大文档，我会只使用本计划面板记录过程。
+  ✓ 读取项目规则与 essence 风格要求
+  → 盘点 Perplexity transcript 输入并按 frontmatter/canonical 去重
+  • 并行逐份做 relevance review 和 sequential essence
+  • 写入 podcast-essence 文件和总状态文件
+  • 验证输出路径、数量、格式与跳过原因
+2026-04-21T05:56:12.857748Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:56:12.859713Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:56:23.722228Z  WARN codex_core::session::turn: stream disconnected - retrying sampling request (1/5 in 187ms)...
+codex
+我现在开始盘点 Perplexity 的 transcript：先以 company vault 为主，只有发现缺失或数量明显不完整时才对比 scripts cache。去重会优先看 frontmatter 的 title/date/url，再退回文件名。
+exec
+/bin/zsh -lc "find /Users/leafsun/Desktop/AI\\ Org研究/companies/perplexity/vault/podcasts/transcripts -maxdepth 1 -type f -name '*.md' -print" in /Users/leafsun/Desktop/AI Org研究
+exec
+/bin/zsh -lc "find /Users/leafsun/Desktop/AI\\ Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts -maxdepth 1 -type f -name '*.md' -print" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-29_AI-Stock-Tools-Unleashed-TrendSpider-Sidekick-Perplexity-Po.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md
+/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md
+
+ succeeded in 0ms:
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-29_AI-Stock-Tools-Unleashed-TrendSpider-Sidekick-Perplexity-Po.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/_transcription_fallbacks.md
+
+exec
+/bin/zsh -lc "find /Users/leafsun/Desktop/AI\\ Org研究/companies/perplexity/vault/podcasts/podcast-essence -maxdepth 1 -type f -name '*.md' -print" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+2026-04-21T05:56:33.075221Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:56:33.076590Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+exec
+/bin/zsh -lc "python3 - <<'PY'
+from pathlib import Path
+import re, json
+base=Path('/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts')
+for p in sorted(base.glob('*.md')):
+    text=p.read_text(errors='ignore')
+    lines=text.splitlines()
+    fm={}
+    if lines[:1]==['---']:
+        for line in lines[1:80]:
+            if line.strip()=='---': break
+            if ':' in line:
+                k,v=line.split(':',1); fm[k.strip()]=v.strip().strip('\"')
+    body=text.split('## Transcript',1)[-1] if '## Transcript' in text else text
+    wc=len(re.findall(r'\\w+', body))
+    print(json.dumps({
+        'file':p.name,'title':fm.get('title') or fm.get('episode_title'), 'date':fm.get('date') or fm.get('published'), 'url':fm.get('url') or fm.get('episode_url'), 'podcast':fm.get('podcast') or fm.get('show'), 'words':wc, 'has_transcript':'## Transcript' in text
+    }, ensure_ascii=False))
+PY" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+{"file": "2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md", "title": "Perplexity CEO Aravind Srinivas & Cleveland Fed President Beth Hammack 4/24/25", "date": "2025-04-24", "url": null, "podcast": "Squawk Pod", "words": 8928, "has_transcript": true}
+{"file": "2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md", "title": "Levered 401k Portfolios; Airbnb's Grand Ambitions; PayPal and Perplexity's AI Shopping (NU, CART)", "date": "2025-05-16", "url": null, "podcast": null, "words": 10322, "has_transcript": true}
+{"file": "2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md", "title": "AI Will Make Browsers Autonomous - Perplexity CEO Aravind Srinivas", "date": "2025-07-09", "url": null, "podcast": "Superhuman AI: Decoding the Future", "words": 10086, "has_transcript": true}
+{"file": "2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md", "title": "20VC: Lovable Raises at $2BN & Hits $100M ARR | Is Cursor Worth $28BN at $1BN in ARR | How Do All Providers Deal with Anthropic Dependency Risk | Are Seed Funds F******: Have Mega Funds Won | Figma IPO Breakdown: Where Does it Price?", "date": "2025-07-24", "url": null, "podcast": null, "words": 18270, "has_transcript": true}
+{"file": "2025-07-29_AI-Stock-Tools-Unleashed-TrendSpider-Sidekick-Perplexity-Po.md", "title": "🚀 AI Stock Tools Unleashed: TrendSpider Sidekick, Perplexity Portfolio Wins, & Explosive Market Moves! 🔮💡 | $CLS $CRDO $UNH $NVO $TSLA $SMCI $YMAX 🚦 Earnings, Strategies & Wild Yields!", "date": "2025-07-29", "url": null, "podcast": null, "words": 6979, "has_transcript": true}
+{"file": "2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl.md", "title": "Stocks Jump After CPI Data… Plus Perplexity’s Bid To Buy Google’s Chrome Browser 8/12/25", "date": "2025-08-12", "url": null, "podcast": null, "words": 9445, "has_transcript": true}
+{"file": "2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal.md", "title": "20VC: GPT5: Sam Altman's Masterplan or a Gift To Anthropic | Palantir & Shopify Crush Earnings | Monday & Datadog Perform But Hit Hard by Wall St | Should Perplexity Buy Chrome for $34.5BN |", "date": "2025-08-14", "url": null, "podcast": null, "words": 17795, "has_transcript": true}
+{"file": "2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md", "title": "Perplexity CEO: AI Is About to Change the Internet Forever | Aravind Srinivas", "date": "2025-09-26", "url": null, "podcast": "Silicon Valley Girl", "words": 7640, "has_transcript": true}
+{"file": "2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614.md", "title": "Amazon vs. Perplexity, Bubble oder nicht #monthlyHeinemann (K#614)", "date": "2025-11-13", "url": null, "podcast": null, "words": 10257, "has_transcript": true}
+{"file": "2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md", "title": "Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN", "date": "2026-03-23", "url": null, "podcast": "All-In with Chamath, Jason, Sacks & Friedberg", "words": 18048, "has_transcript": true}
+{"file": "_transcription_fallbacks.md", "title": null, "date": null, "url": null, "podcast": null, "words": 538, "has_transcript": false}
+
+2026-04-21T05:56:42.949288Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:56:42.950659Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+Vault 和 scripts cache 对齐：当前有效 transcript 是 10 份，另有 `_transcription_fallbacks.md` 不是单条转录，不进入 essence。下一步我会按相关性和主题分三批并行处理，文件写入同一个 `podcast-essence` 目录但每个 worker 只负责自己的文件名。
+  ✓ 读取项目规则与 essence 风格要求
+  ✓ 盘点 Perplexity transcript 输入并按 frontmatter/canonical 去重
+  → 并行逐份做 relevance review 和 sequential essence
+  • 写入 podcast-essence 文件和总状态文件
+  • 验证输出路径、数量、格式与跳过原因
+2026-04-21T05:56:59.037154Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:56:59.038626Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+并行计划如下：A 处理 Aravind 长访谈与 All-In CEO panel，B 处理 Chrome/browser 相关讨论，C 处理购物/投资工具/20VC 泛 AI 讨论，主线程会抽查输出、统一补状态文件和数量核对。每个批次会独立去判 relevance，低相关只回报跳过原因。
+collab: SpawnAgent
+2026-04-21T05:57:26.698205Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:26.699599Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:26.702123Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:26.702289Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:28.655239Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:28.655556Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:34.626772Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:34.648195Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:34.648414Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:37.914761Z ERROR codex_core::tools::router: error=request_user_input can only be used by the root thread
+2026-04-21T05:57:37.931402Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:37.963535Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:37.963849Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:40.885176Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+collab: SpawnAgent
+2026-04-21T05:57:41.680858Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:41.681133Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:41.699342Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:41.699560Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:44.740819Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:44.741165Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+collab: SendInput
+2026-04-21T05:57:46.635074Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:46.635393Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:46.664116Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:46.664566Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:50.322541Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:50.344681Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:50.344907Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:50.886133Z  WARN codex_otel::events::session_telemetry: metrics counter [codex.skill.injected] failed: tag value contains invalid characters: superpowers:using-superpowers
+2026-04-21T05:57:50.908787Z  WARN codex_otel::events::session_telemetry: metrics counter [codex.skill.injected] failed: tag value contains invalid characters: superpowers:writing-plans
+2026-04-21T05:57:50.951932Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:50.971043Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:50.971248Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:52.373107Z  WARN codex_analytics::client: events failed with status 403 Forbidden: <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style global>body{font-family:Arial,Helvetica,sans-serif}.container{align-items:center;display:flex;flex-direction:column;gap:2rem;height:100%;justify-content:center;width:100%}@keyframes enlarge-appear{0%{opacity:0;transform:scale(75%) rotate(-90deg)}to{opacity:1;transform:scale(100%) rotate(0deg)}}.logo{color:#8e8ea0}.scale-appear{animation:enlarge-appear .4s ease-out}@media (min-width:768px){.scale-appear{height:48px;width:48px}}.data:empty{display:none}.data{border-radius:5px;color:#8e8ea0;text-align:center}@media (prefers-color-scheme:dark){body{background-color:#343541}.logo{color:#acacbe}}</style>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <svg
+          width="41"
+          height="41"
+          viewBox="0 0 41 41"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          strokeWidth="2"
+          class="scale-appear"
+        >
+          <path
+            d="M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+      <div class="data"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'EuB7NKesg97Zct6QbZzyk8S6gb5DZNjI9W6JxAFMmwI-1776751072-1.2.1.1-LssjDhUOiQ5yXpaXRJhKSLA7tJD.LRlDJ9iq.Zf_chdnunclxM.iRzcLvovIMrN_',cITimeS: '1776751072',cRay: '9efa2759ff565305',cTplB: '0',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/backend-api/codex/analytics-events/events?__cf_chl_tk=TdrGoAT7Y8VoR1rSUXcOAtF0BMQucW3U9tVr2bdY724-1776751072-1.0.1.1-stPnp.3gkSe4Zk_Ko0o6TCXMrlD5F7dj6pEoY_Imzio",cvId: '3',cZone: 'chatgpt.com',fa:"/backend-api/codex/analytics-events/events?__cf_chl_f_tk=TdrGoAT7Y8VoR1rSUXcOAtF0BMQucW3U9tVr2bdY724-1776751072-1.0.1.1-stPnp.3gkSe4Zk_Ko0o6TCXMrlD5F7dj6pEoY_Imzio",md: 'Qtk.sYzFdBg3MSQ65oom9wztm0iDKUxc_waCbToahzQ-1776751072-1.2.1.1-IZc4ncEumi00ikchiJJLM2P29M4Lav._kqX7HdKXlo6AjqKFA9Pv3IzvSJby1bsCS02Zg3o.E_dQyoOmFL0V0vnkhJCd5zIvHoK2BzocBJxEepv44uvEVabZQ8LTyFhHFMiwHZr.HfcaV3OWjoGFDQRz9M1lF4hHzn7.I9VJrhY.dDeRxTXWpp2JO1bhM62AJvFk5khg9LVKntY88o5h_wpVwIt08x5j4rxrae.S5CONT5kZ_Q3vuX06tTv24sFeEUjKbDO4zMg.nhezIeKYMpYozylIq9Ng7_rAGf_TysS6oiXhvcPVVgcvpDPMqbEq4YvA5KbyxYaOCOx3tyPwSqzxyxVfjq8L6lzOc5KzyInaqfTiD1knq1lVt2xpmdqJ9OQ1R1eqfPeNe4zvwB.9.hDL2SfWGXcL7F3PhoUEshtpjrbM4KSwvMOFKHeVnD9BFD6HuqmQf2xOqDsnpOH8CXJ3oswQ1ftLWb5SPuEZj1eI1un1m8I2mEV58Z3fCAd3wEeSJn1O7plXk5WDQW2.voOgfYf7orWRR7PjwPLNal1swLjCo7feeJe8ZoxRMeKUmU8MOiCwhceX0Kl5QshMaSluhXDtThVqWfAZnYPrwuQ03Mh73mBl7A8epSytMINXIHfKjRLbptrJlvhU9O2YRYBRIdD94lcRtt3_X0QBUZlkS_2EdiMuJBvZLxAvRpQA65Rjq9MNJptprhFL3wJBey3dHm1rpGk5RRxvfmb0e85DmbMjuIrgl8M1LdLTUpP0Vp9KzKKm_hffbt.QG_ulHfXeeiuO_56LY7zjZpUtGfNwwQXjaScgt_E7fNjKwwK_NA1GwkxrpkGg3kovKIrwlBsuYt1i_qi2iw4BJCvDxoH6ZRKwvPcywejhSZyoB7.ju9kKzycjJJyTSc8FTpMaJm_H9153vLYDi8XWVL7WPnGZ9YHF4XottGmMJADS0YhwVsY2yvYn55cPcLqdxhOQcL_nst.nTFkmx2KWaViSBstkS0cSQpOhPlVDduBnkms2cmzS2Tacr6qNPD_sJB_YW2tq0rxntqTm0Mw.GR56RyRpNEwIxPuIVd0lS.K6X_nn',mdrd: 'Pjz5PdZDv4kwK6mLkcMRZTKaOd4y4ZimdJFY24lOJpk-1776751072-1.2.1.1-dp7BRc0rNCWpumRy0jaVJpSV3ql1KqUd_8xIY4Jpn47FqYGFyukes_ElzcGo40AgF8OWEbPe1qNtVfh01_T3m6BY89c1qn0jKRE2R3Pk_pG1uWqUor8zLNwdWT4NFTEN7nJCLJi23y0UO9mZ5iajxuWAZRMEUSeERFtS6fJtXj2cvP93ybNaeSRvOxRZVuEwz2jGveeanoGQvgNa3cVb7RO8X0eT8E65czXjBui89xg_xK4q3Lf5BbnQ.o15e.4Slkck3AzC_CVNVlgFHqCUfdGzDC3sUbMGo4c59Uf5u5ChTkIsymFmEUSULK1DWR3uS2H1t8124w4TpFhHO0GNBcRWxjFlYZDmFxr0eqheuXkhODFs3EWONcZBDMvrU7Gj8GHTuZi2_Tvxi2qPGHgio.qz_g88tPW0oPp2M5ymbppUHtS7qn7MBCdn5tSJ9ngJld1bPDbU7k1hDF_nMI2f_mfxPQ.A9_49iaeIhVI9tZjRwUOcrELrkdl8DGb1zCUeK1SpFuu4Wyi1kEQUzf338RRisXnI7oQHjumOXkRQEvVhpeI0vIpVW5qq1M.m3ECFqimKp0wTD6e3wiB9i34H3C9RdACwjafZlAVdpWFi1s4.PaUetxIDc9OO06wA.sUjtk.qiKxyB.TuXagHZcRAyH2kGSRjkD46bSH4u9CBkMGTyz1lz0RMrwWYVw6slqSPDKJFU_VI_65EtH8rIqH_rbOfGicpo.u7MOIVVIDH2kYY0Rm2fuhC1u_RBw91f19xvU627UMjPpTFB7N.dh6OcnztbZrtazsgDmcJQ3y_wWG4LTq_dG_7z3kGx.5tysPz6AATJmAyCircaqZRs9Rwd6NIPpz1czuuQfSWVbO2LeBnsfVV7inoeKQw4ULbFm9R4efaZ5b4YOYXZlOn29t9_s3YKw8ROUhV2HbLcjrpXQk.3C3Gml4_qrIOl6ufnJaYESu0ShG91rVxoVywwP6mXEu93nKfdvtzbvg2EYZBYZx0eccNkycz8YM4dDNUYhgSWCyMgFGeN31Xt54XuON5EaDnoYlqrIT1TIsMTGthyNNXvzkH2_fafJ5r7gaHW_RVVgtEK8F2tlAzyizdOVjjXO6jkOOYm1xveDRLBVppb0_5jgWNDEQMXylNjNrasESBWOylXGYWzS4.tOUBuqMVFrx1vy7WumzcCvHaEu8xsJQg6iOnrYAuCejGEpQsMGoFgXdSsFnTg5.JkyBKZ8pduzB4zj7PVta743ru2W7RHwPAPvrNpfriU4MxlFjGd_jdsRVjQK6ooUOqSSE.T.2c_gNNVaiIIA4trFJB4C7ymHaY5buGLX7BvcAmZ7HI9D0YahUj1Hw_wgIKfdy4vrESsODESCJLVRJg1QknP21aIqXdvMCSctuLCFCPg1cTCRi.rzN772bz6Lz5qUB3cLy_R92HIPVZyrOaHGrgwzfdgqjH4CFIQTIANOqmFyIvgoAvU9OhztcSHa1cJb815.nSNtUsV381pnRGy8n5puV687HWseIKJQpeDw2kp5tXTI_TNGUPBNsitB.hhHsFATxsJp1OtbklhHqJBNbOji8erEptSfNahHzPRezr9mHJjII_jRDfafbwlMQ7YzOdQnoEmve9nTV2DvyYXHTBrAenv1FltMDp0Hx5eV4ZJrE1LuOT_cv_NU8N0JnwSVggaTYB2CauS46V7hbQXmxuyYphVEUMjjUrVVTnaKNl4InUlJtzW5uc3uvqMBZHvDlcgAfNt6aXfyd5aoYNN3aPQ.4yHroZBq9hXpKCWcpfvV86xZp0.nSbGRnogxGybN7KPhs5VrWGf63vn.DtQwcLQrIAtQvHG0nLloeJpbiYLpUv3d3tVL2g55wkiuCOndoWyU_K.O_dZPIQsEBqGtG3QFY2_vrzN5bJ8eS5U0WyGgpX6Xw5jzzHcNSsUk0.6TFz_IEwd9JkAkAcZw2WatbEJB1kyGsH1XPwNAmld3Os5ifaRqJrFmRQ6obOiQ3BAS9oSYQOq3AXzJXHJUCm1BJf.jUuLjY.vYBFDV7_nSicphTC5s4Uo87MR2kZW7ZvzoBUg_hSWB14RdOE1ler6t6J3_KdBKKqmQ4dqPpq_0zWvImjB_Ti5cfOmWWFQliXymE6tLPgPZNxEFFYAHq.qXWrRBGzCXaDbmS_7EVpWaiIcSZ0O6IsIWDZrrYDHcpbXvHZmWE5ISOBg8IflpKnwsI_lIAFhkAfYjakTt9OLoA.djARjMiIl99Smy1fxQJHHe921WlYsPlpqvCr2Bc0j86azFIkUdBumAQ7UqdafnZ2csjYj1PDf0am78s1NXBxLqeO9yIPYX_Fk63W7XbMh9EaxqiI4f8Pj0tBnzaQa_APF6IoLC5g_TlPAepLCU6AcYwU2PKH2zMEs5589bf96hjdqbylYzSLhUyCOwZWxBm8YVEbBLUGhqS.4rcS3TIDuGjYG_nGTjiUV.GteNkFRy.gbz.QPh94cDbX7xAURcQmicOXySEBz1IXD_x.aM9lJwDct74uDIwJ5p7MmIY8fulSj_UTveWrw0M28Jf9h7CsHZmgK8toAQmM98y_gJQIQPakmiIs9vSMQVrpFN3U.kbTQTJ.A3XWiL7sjkZigf85ddDfhSMWJp5SrApm3TzGY5FfKWt7DSM4Qm.HVEDkGQOwKHnTBXoo_tgm9Q5hlF6DeGqgvQ7AGXm4VVV5wnysfXyRo5_7utcf6Loq1IsCmtDwEdKhtzk1e4wHHmWcAFWJfau8Z2sgXONPfa_M0UrHMRvHu0TJEA',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9efa2759ff565305';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/backend-api/codex/analytics-events/events?__cf_chl_rt_tk=TdrGoAT7Y8VoR1rSUXcOAtF0BMQucW3U9tVr2bdY724-1776751072-1.0.1.1-stPnp.3gkSe4Zk_Ko0o6TCXMrlD5F7dj6pEoY_Imzio"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>
+    </div>
+  </body>
+</html>
+
+2026-04-21T05:57:54.066670Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:54.097265Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:54.097588Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:57:55.869432Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:57:55.889373Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:57:55.889578Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+collab: SpawnAgent
+2026-04-21T05:58:00.831538Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:00.831780Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:00.845999Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:00.846225Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:01.016213Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:01.036493Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:01.036747Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:04.403136Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:04.403351Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:07.652871Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:07.674315Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:07.674567Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:11.888033Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:11.908676Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:11.908957Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:12.545116Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:12.567598Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:12.567829Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+collab: SpawnAgent
+2026-04-21T05:58:15.161692Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:15.161923Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:15.167567Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:15.167776Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:16.406828Z  WARN codex_analytics::client: events failed with status 403 Forbidden: <html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style global>body{font-family:Arial,Helvetica,sans-serif}.container{align-items:center;display:flex;flex-direction:column;gap:2rem;height:100%;justify-content:center;width:100%}@keyframes enlarge-appear{0%{opacity:0;transform:scale(75%) rotate(-90deg)}to{opacity:1;transform:scale(100%) rotate(0deg)}}.logo{color:#8e8ea0}.scale-appear{animation:enlarge-appear .4s ease-out}@media (min-width:768px){.scale-appear{height:48px;width:48px}}.data:empty{display:none}.data{border-radius:5px;color:#8e8ea0;text-align:center}@media (prefers-color-scheme:dark){body{background-color:#343541}.logo{color:#acacbe}}</style>
+  <meta http-equiv="refresh" content="360"></head>
+  <body>
+    <div class="container">
+      <div class="logo">
+        <svg
+          width="41"
+          height="41"
+          viewBox="0 0 41 41"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          strokeWidth="2"
+          class="scale-appear"
+        >
+          <path
+            d="M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+      <div class="data"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'bIFHilJfyueuq9Wzcvl1y6wEkKobJAMP.VuShjeZwJk-1776751096-1.2.1.1-C1bKneFK_.m9GEwysKA4c7EyMhSHnqXskVSYjW6cwDK3_7TXPVEKGfJvYXIaAdQG',cITimeS: '1776751096',cRay: '9efa27f039da209b',cTplB: '0',cTplC:1,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:"/backend-api/codex/analytics-events/events?__cf_chl_tk=Y_tm356NSRaoJ3h9fOlQfF84BSu9hbMymOBsNWzaKcc-1776751096-1.0.1.1-5iQP79ydZeUJ9D_vu1JcdREd7oJcAfM3sobmqCLt7hQ",cvId: '3',cZone: 'chatgpt.com',fa:"/backend-api/codex/analytics-events/events?__cf_chl_f_tk=Y_tm356NSRaoJ3h9fOlQfF84BSu9hbMymOBsNWzaKcc-1776751096-1.0.1.1-5iQP79ydZeUJ9D_vu1JcdREd7oJcAfM3sobmqCLt7hQ",md: 'XDv31nhYUGf9FiPihoQ8wkQ7wqOUrBdMuANdGc__s9s-1776751096-1.2.1.1-F8.pMdauugDHhcbyD7..V_uLNKikKXN8Ou.h3HsKGVvhmXXDDGEHWnLtt00zhdqgnHVei8EsxgiWwBd1eRey5k4PSHNIN5QbCEdqGh8CvndK_XbBJ92MQFtw80nkqiVZ5_z5NIm7FD1dnlgKxIX5.EF79y1xgzlbSZZTimRdnd0vZCUGav2FHIWY_NIYIFFJXxNzp94qTPPvsaqTS7ObTSNdBNR0.SYB8gTJVtCJmV2Ddb8UHIOmIJaaOfXCGPe9EvhVcpWPHu89KcBpc8Bb_ccCxeyWZO4IbV1Qd6a.c1nJty4ybV.WCcm0KwxBxv27AXEdA81Ylr.WU_BSJ.LhuAKPY2P7yE3sGl1WYy.hWl9Dy07JY3r02Wao4uyQXyNE3CHK3ccJcY4dvJQFUNFeDQDc7kzuf9VHYHhOgIcq_gFiLr6ZvbJMdzeXIoSorfhKdnMRrGfY45DXmVrcxd1Ta1MS2CVmwPMzjAYEUZw4GBuBIUvkbqtXADWNO_N2APTwXP0FqHdcOrR9VU41FdhTQ7FaSkgw3kY9OdCGwhydXpvgX9ReMofw.6sDdtBBBG0i7xtIXZXw2qO5i2cqwS8oFkaLqp_WQFu5Yl6mI9QBwb0CZgGfEOmLm5jFbfUB1hj08I7ey4xg7TOFmbWTLubPTo5CQgu8mzaxuJSuXZ_GbuJ7hbv32xWWBQA7_Kc9BKPi8Gff5xVrzNFjXySOKDOLN6ocRiM2HjxDy4FsuCcJvATZHH9dZwWkziTSwOpFI1Dmfi6mUt5gi5EzF2Vvui_JImIWv4_V2hFsfXc8iX9NGLnCqq0iINUVDYilOL0mtppuz1gT9XCkoriT7L6XxSFtLZ_JN0O0yKtOWkCPnaoXCwS3xq8iyjBrC4WGEviXcE4iQr5t4uv0Lf2CypZubaOtGW5MaZalKWt.5xMyFS3.TLjmku1ECLIgxo52uPCAQWtk1LYNLVtYDuYlDNwZjav53AHyl9c9qM6FZeDAB7r1D1_q9h_jaWoYwW_JpG.ja1qkmYaKGgRDWG7rCy.zlbnbzoBUr9kfOJiCi26fuHDvKd3h2JWRmTylji4d78PP1DvJ',mdrd: '3C5ZdNmglvLFP1gUe7LXosSpPN6If_r7YHsq3lo65H8-1776751096-1.2.1.1-HKrHKBW7qJNGfz3XDD549K5nfqnNsQT_8K1JZ3gmFcnH84T70hMPLzZSVL7rX.lJzPaN.0Z8bWdWFW2rCKVS32TCII5iN1q8f2Iv0kgXtajqxguGo8tJYVaboMCWamq7LZgqBpy4mKQ_iN8Y.Tpr40futfc0q9lxKHzAXjzzjGHowHRSjC4rai6Tle3d5G2r9IWpZJYIW8N5j._hz8v6A8S86Kle8CEotLMUB.Dx9cM4Z5QBRYYhKarsEfBvVKQm9gema7CAZGBLxtsM9VvqLOYyBMK_o8B3yT6nKyI4TpFKrVsuuRpXPTqhtyRyBw5.mvMRd8LAo5P5DxNo06CbUeKjyraJSrGR.mQOE95Nr93O063cHzBfXA0aNxu1QWt2EX3Htwygi9jiRmAxuBJY4UyMbmqwXDS8jbWMhPPtOlpJkxkebDKr5agqH3yq2teu0yVEPm6Lo6a8Xjwy_zb1n2xcEqhhv.PINI.tqQxJaOtXzTGu7agvdI0_cEdYqisw59OWvR2H.o8DL2y0dWHSEGjgJqe.3A37L4uWW25voob5.6tiJMRM6Pf4A6ta2eY6ZEpE8VqnkM116EsC51_TwyfXTD8q0Kr6GRRJd.kQNcMB7LeO2D15yXbVEXe_aeJ.f4LgUeLX3wtpusRp46DDouhNNkUFlXWyJNMcmJDglRgPcGqO0gq.Lyh8wm2z9X0yZ3ZerRKNFKZz0CfcnAIRpXdbXZXDvahin8aBy3dcsOhwNFU8CQgWDYtl0G1PhDqixNVCDRAzlL6wGdKsAQwadc3GwZdaWK1vxbuzfR0VRtStcOFKuL8ZUiFmjgR9YJMqfAGwa513O2PRbjIgMSPQLGz9JjiZGM6lunvQV3q7MPu8mqFVNibVLeQuMyhXbyZ1jdXgagD8xgv498.3O7f1c1pnwo1EUHFWiTSBwWT6ZJQ46sJmjb8Eo863GtevVCUTXbLaebvgudLyAMDKwQcS_HZ2gpQ4Ydh3K4Cqnu4BwQXQJ0tVTSZxQjxNm0XqbCUjczG9QjZWaZL94I0XYghnFBDBxsjpSKNwRq3.i8XRLk1RK1pP.F64uaXD5N8dHWK5FIAJt0VgI6hRsuPtJ9aHWj2dSnjI0k24IZVQWiLL8SJL5AMSwFfUm5kE1lqlCBKQHC7KS4BloyeAecvXQMuciu_QteddhJV_udbec7iKHJ6tbaTijuhXx6bCAAXbA29dRt7TS8Z.Rx.qUiATyk07MlY0Vr47HtcuNEjJuEHv0j1XNBtXIdmuk4If9YrapK1K_CKYkHIpuhnau5Q1dq1ZxL3uZ3DnoAgKbyRwnDgAmwe1lwyC3d.Bpsm5pTTrg9URwLORq0gH3y71rnhTHLzNy2QkJ8CXv5s_npsGmCp4mki.g5bSb_ZW7X2Y2Xbf7O12w23fxHPzr_oKwa9y9b4BgdiDkw.YuYguiZfRsjp7zLeamaj3_dcF8qiRupRA5YyEuoQr.k6oQIlHoIOd7GENoYLNv.Eu94uvMPFXJGVhAM9f9cTBmHWc17tsOswiMulNBm3rKz6D9WdUfIS2YEZ93cOvChhL5aWl87_3bWlc5yYEAWbXuQAF4X.1zY_x8bk3K8E78OymSpO.9l9K8IoZhk1.zoSDMI3HU9Vs4z9MhlzeMJfkgtJ5MOIqjvVlqw3f7apqGO7ObJ_OT2gVPsl1xydvPZrKVkxW_a7fpxCp9RT_O6u4T1sBmLO3PqPbQV5onyvs0QciJAmhLWW5rHwEFxzCD_vaNDf0xRzGH7dZGL_6dQE9pkVmZHHr8PJAuxPfG0Yi2_NfHddMJ2ckfJjVtT0Y4PfNvzJ9LpogVwGbbJTkKtKmZFhU6II.mTuYdToAIvrqJeYToL.sxAZzCWUkyvkFisag7TAo8KSbl7Hs9d_52KnMqSGB5wNokVhmd3x5PSs9BIDn2B1UMOwi.WZTNtZRwhwL.GJLonzp.xX7Z_49DcrOB2Uv3rMPdu.PqJfezonlJMVBVXpDQ7gppnA9_tCD6Jo.55vPvhwyH1UkwuL1f4fi4wIvupaWKt8kdmhqF4jdvnrkEg_darcYeM7PRHY4OEJ5bLp9sMK8WGlFVBuCIRu1VQWj1h19h5.Bh5KBtKAr8Q1OwEtLR0jR8sDTdvGzsJCf2QEKH_e9gY1vpnv.yk3WN0Avfe2sB.pXGwsU2DSzDnez8edpUk8kVCVSgpG5fBPyeUlJTFegAZ_hsc6heKOWSKcE07W.UCdhxIITVFUSaSv_caLCjH4JCWJvqDYl3hrwWJDB_5Wv5JonPDQ4ZbdfmX_eJNUlkpAHoCP2tBM5XCX1FwAa3Krb7jcA77UOqvSDNmv6YH0oNZTGVF4fduqwYZLqojPrwCB1zqlYfGCLHcFaJ1ZThTYft1N8Wx9f6C9InJFX8lk7DjL8zdunHvWQfbNRVj0Xc3sCe.XbZA.W7YUXUOG1.DKhQ9y9RqrRl9jCxUbzmQ8At6IgTbX8um4Bsv1G5DN.zImgl2vr1hBMIj5f9vk7Z8HHHdX_WZDxnXqD.33CntvAGiqVM9wqkBW0mop1WSYfh5Aq9.l.F67PyBSGGeIVo77poLwA37fXrlRawEQz.QUxq4.Wnd3fawueRD0w4mXykIV34JKGDz7MYmxnG3HSf5OWt8PGDbJcVyHPO4Dn9RhEBalJ.Ln2LRPJ5EJSUuLnZ2iwY5ws0rxgk9K.7GJtY15bdpTbyYrOlRI7p.GX61DC0yWogEPqSZzMpOGA5ba9wrPFNt1fkyTPm_7XOwlpMQH4CtCX8HbZn7Tjmtgdk74316WfsrxxagyqcEyG0TxCk7qpW2gPqFgzFbxtguj.SeTmB8VjAta3tlf120RFo1pnng_HubOx0H9WAohrMXC2GlRRnrbRUz2OSjFSgqvHPGNfne3FSg',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9efa27f039da209b';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"/backend-api/codex/analytics-events/events?__cf_chl_rt_tk=Y_tm356NSRaoJ3h9fOlQfF84BSu9hbMymOBsNWzaKcc-1776751096-1.0.1.1-5iQP79ydZeUJ9D_vu1JcdREd7oJcAfM3sobmqCLt7hQ"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></div>
+    </div>
+  </body>
+</html>
+
+2026-04-21T05:58:17.032841Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:17.033044Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:17.354847Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:17.377621Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:17.377858Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:17.590589Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:17.610026Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:17.610217Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:20.360875Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:20.379331Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:20.379544Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:22.657300Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:22.680086Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:22.680297Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+并行 worker 已启动；我先在主线程做不重叠的工作：核对 vault/scripts 两处是否存在内容差异、提取 canonical key，后面状态文件会明确写“输入数、去重后数、低相关跳过原因”。
+2026-04-21T05:58:23.289863Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:23.308404Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:23.308606Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:25.455634Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:25.478094Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:25.478372Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:26.285869Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:26.309526Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:26.309744Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:27.229254Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:27.247529Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:27.247726Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:29.552929Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:29.572759Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:29.573006Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:58:29.832659Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:31.761710Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:58:31.787824Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:31.788123Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+exec
+/bin/zsh -lc "python3 - <<'PY'
+from pathlib import Path
+import hashlib, json, re
+paths=[Path('/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts'), Path('/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts')]
+items=[]
+for root in paths:
+    if not root.exists():
+        print(json.dumps({'root':str(root),'exists':False},ensure_ascii=False)); continue
+    for p in sorted(root.glob('*.md')):
+        if p.name.startswith('_'):
+            continue
+        text=p.read_text(errors='ignore')
+        lines=text.splitlines()
+        fm={}
+        if lines[:1]==['---']:
+            for line in lines[1:120]:
+                if line.strip()=='---': break
+                if ':' in line:
+                    k,v=line.split(':',1); fm[k.strip()]=v.strip().strip('\"')
+        title=fm.get('title') or fm.get('episode_title') or p.stem
+        date=fm.get('date') or fm.get('published') or p.name[:10]
+        url=fm.get('url') or fm.get('episode_url') or fm.get('audio_url') or ''
+        key='|'.join([date.lower(), re.sub(r'\\s+',' ',title.lower()).strip(), url.lower().strip()])
+        items.append({'root':root.name,'path':str(p),'file':p.name,'date':date,'title':title,'url':url,'sha':hashlib.sha256(text.encode('utf-8','ignore')).hexdigest()[:16],'key':key})
+print(json.dumps({'total_md_inputs_excluding_underscore':len(items)}, ensure_ascii=False))
+by_key={}
+for it in items:
+    by_key.setdefault(it['key'],[]).append(it)
+print(json.dumps({'unique_by_canonical':len(by_key)}, ensure_ascii=False))
+for key, vals in by_key.items():
+    print(json.dumps({'canonical':key[:180], 'copies':len(vals), 'files':[v['path'] for v in vals], 'same_sha':len({v['sha'] for v in vals})==1}, ensure_ascii=False))
+PY" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+{"total_md_inputs_excluding_underscore": 20}
+{"unique_by_canonical": 10}
+{"canonical": "2025-04-24|perplexity ceo aravind srinivas & cleveland fed president beth hammack 4/24/25|https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/2abef7ca-625f-4c74-9157-968d", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-04-24_Perplexity-CEO-Aravind-Srinivas--Cleveland-Fed-President-Bet.md"], "same_sha": true}
+{"canonical": "2025-05-16|levered 401k portfolios; airbnb's grand ambitions; paypal and perplexity's ai shopping (nu, cart)|https://traffic.megaphone.fm/apo6528583960.mp3", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md"], "same_sha": true}
+{"canonical": "2025-07-09|ai will make browsers autonomous - perplexity ceo aravind srinivas|https://audio.transistor.fm/m/shows/55093/a7463eb64c039df5bd70c9932605d6c7.mp3", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-09_AI-Will-Make-Browsers-Autonomous---Perplexity-CEO-Aravind-Sr.md"], "same_sha": true}
+{"canonical": "2025-07-24|20vc: lovable raises at $2bn & hits $100m arr | is cursor worth $28bn at $1bn in arr | how do all providers deal with anthropic dependency risk | are seed funds f******:", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md"], "same_sha": true}
+{"canonical": "2025-07-29|🚀 ai stock tools unleashed: trendspider sidekick, perplexity portfolio wins, & explosive market moves! 🔮💡 | $cls $crdo $unh $nvo $tsla $smci $ymax 🚦 earnings, strategies", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-07-29_AI-Stock-Tools-Unleashed-TrendSpider-Sidekick-Perplexity-Po.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-07-29_AI-Stock-Tools-Unleashed-TrendSpider-Sidekick-Perplexity-Po.md"], "same_sha": true}
+{"canonical": "2025-08-12|stocks jump after cpi data… plus perplexity’s bid to buy google’s chrome browser 8/12/25|https://dts.podtrac.com/redirect.mp3/cnbc.simplecastaudio.com/b7b89f33-e5b5-46a6", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl.md"], "same_sha": true}
+{"canonical": "2025-08-14|20vc: gpt5: sam altman's masterplan or a gift to anthropic | palantir & shopify crush earnings | monday & datadog perform but hit hard by wall st | should perplexity buy", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal.md"], "same_sha": true}
+{"canonical": "2025-09-26|perplexity ceo: ai is about to change the internet forever | aravind srinivas|https://traffic.megaphone.fm/apo1481386632.mp3", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-09-26_Perplexity-CEO-AI-Is-About-to-Change-the-Internet-Forever--A.md"], "same_sha": true}
+{"canonical": "2025-11-13|amazon vs. perplexity, bubble oder nicht #monthlyheinemann (k#614)|https://adswizz.podigee-cdn.net/media/podcast_53039_kassenzone_ceo_interviews_episode_2203003_amazon_v", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614.md"], "same_sha": true}
+{"canonical": "2026-03-23|four ceos on the future of ai: coreweave, perplexity, mistral, and iren|https://content.libsyn.com/p/9/6/5/96517a9ff8488097/gtc_ceos_f1audio_ch.mp3?c_id=199929735&cs_id=", "copies": 2, "files": ["/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md", "/Users/leafsun/Desktop/AI Org研究/scripts/PERPLEXITY/sources/podcasts_transcripts/2026-03-23_Four-CEOs-on-the-Future-of-AI-CoreWeave-Perplexity-Mistral-a.md"], "same_sha": true}
+
+2026-04-21T05:58:33.012086Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:33.012274Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+去重结果已经清楚：vault 和 scripts 各 10 份，canonical 去重后 10 份，内容 SHA 一致，所以本轮只按 vault 里的 10 份处理。已有一个 worker 判定 2025-07-24 的 20VC 泛 AI 讨论低相关，不生成 essence，我会把它放进总状态跳过清单。
+exec
+/bin/zsh -lc "find /Users/leafsun/Desktop/AI\\ Org研究/companies/perplexity/vault/podcasts/podcast-essence -maxdepth 1 -type f -name '*.md' -print" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+2026-04-21T05:58:42.747278Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:58:42.749308Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+collab: Wait
+2026-04-21T05:59:02.836477Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:02.865416Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:02.866690Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:08.608357Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:08.627066Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:08.627250Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:09.704473Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:09.722763Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:09.722968Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:13.581401Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:13.603748Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:13.604000Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:16.062537Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:16.082205Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:16.082396Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:18.064804Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+2026-04-21T05:59:18.092626Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:18.092885Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-04-21T05:59:23.998294Z  WARN codex_protocol::openai_models: Model personality requested but model_messages is missing, falling back to base instructions. model=gpt-5.4-mini personality=pragmatic
+codex
+第三批已经收口：PayPal + Perplexity shopping 生成 medium relevance essence；AI stock tools 那条被判低相关跳过。剩下两个批次还在处理 CEO/Chrome/browser 材料，我继续等待并同时抽查已落文件格式。
+exec
+/bin/zsh -lc "find /Users/leafsun/Desktop/AI\\ Org研究/companies/perplexity/vault/podcasts/podcast-essence -maxdepth 1 -type f -name '*.md' -print" in /Users/leafsun/Desktop/AI Org研究
+exec
+/bin/zsh -lc "sed -n '1,220p' /Users/leafsun/Desktop/AI\\ Org研究/companies/perplexity/vault/podcasts/podcast-essence/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P_essence.md" in /Users/leafsun/Desktop/AI Org研究
+ succeeded in 0ms:
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/2025-08-14_20VC-GPT5-Sam-Altmans-Masterplan-or-a-Gift-To-Anthropic--Pal_essence.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/2025-08-12_Stocks-Jump-After-CPI-Data-Plus-Perplexitys-Bid-To-Buy-Googl_essence.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P_essence.md
+/Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/podcast-essence/2025-11-13_Amazon-vs-Perplexity-Bubble-oder-nicht-monthlyHeinemann-K614_essence.md
+
+ succeeded in 0ms:
+---
+company: PERPLEXITY
+research_key: PERPLEXITY
+type: podcast_essence
+source_transcript: /Users/leafsun/Desktop/AI Org研究/companies/perplexity/vault/podcasts/transcripts/2025-05-16_Levered-401k-Portfolios-Airbnbs-Grand-Ambitions-PayPal-and-P.md
+relevance: medium
+status: current
+---
+
+# Levered 401k Portfolios; Airbnb's Grand Ambitions; PayPal and Perplexity's AI Shopping (NU, CART)
+
+## Relevance Review
+
+- relevance: medium
+- 保留原因：这期不是围绕 Perplexity 本身展开，但它明确给出了两条有用信号：一是 Perplexity 被当作日常研究和浏览工具来使用，二是 PayPal x Perplexity 的合作把 chat 内购买、支付、物流追踪和发票处理串成了一条具体 workflow。对判断 Perplexity 的产品分发、agent commerce 方向和支付合作价值，仍然值得留档。
+- 淘汰原因（如适用）：整期 80% 以上是股票、估值和大盘 chatter，没有组织结构、招聘、内部管理或经营数据。对 Perplexity 的公司机制来说，信息密度有限。
+
+## Insight Blocks
+
+### E01 — Perplexity 在这里被当作研究入口，而不是聊天玩具
+
+这段材料里最有价值的不是“Perplexity 出现了”，而是它被自然地放进了一个高频投资 workflow：主持人先用 Perplexity browser 看市场，再把它当作 stock picking 和 portfolio triage 的入口。这个用法说明 Perplexity 的位置已经不是单次查询工具，而是更接近一个跨页面、跨任务的 research layer。对投资者来说，这类信号的重要性在于，它显示产品价值正在从“回答问题”转向“缩短决策链路”，这比纯粹的功能演示更接近可变现的使用场景。
+
+“built on top of chrome” —— chitchat stocks, 2025-05-16
+
+“I found a stock using perplexity” —— chitchat stocks, 2025-05-16
+
+### E02 — 这期最像样的产品证据，是 Perplexity 被拿来做组合体检
+
+主持人说自己用 Perplexity 做了 full portfolio analysis，而且结果不是泛泛而谈，而是直接指出他仓位里 Apple、Amazon、Microsoft 过重，再追问一句“有没有国际配置”。这比单点问答更说明问题：Perplexity 在用户心里开始承担“先给我一个结构化诊断，再让我继续追问”的角色。换句话说，它在做的不是搜索结果页，而是把信息压缩成可以继续操作的投资输入，这种 usage pattern 对后续订阅和高价值专业用户很关键。
+
+“full portfolio analysis” —— chitchat stocks, 2025-05-16
+
+“you have too much apple” —— chitchat stocks, 2025-05-16
+
+### E03 — PayPal x Perplexity 把 agent commerce 说得很完整，但主持人并不买账
+
+PayPal 这段把合作路径说得很清楚：在 Perplexity 的 chat 界面里直接买东西，支付、shipping、tracking、invoicing 都放到后台处理，用户只需要 query 或 click。这个架构本身说明 Perplexity 已经在往“浏览 + 决策 + 下单”一体化走，而不是停在回答层。但播客的判断很克制，核心意思是：这更像一条演示顺畅的交易链路，不一定等于真实需求很强，尤其在普通购物上，用户未必愿意把最后一步交给 agent。
+
+“process purchases on perplexity” —— chitchat stocks, 2025-05-16
+
+“tracking invoicing” —— chitchat stocks, 2025-05-16
+
+### E04 — 购物型 agent 被认为适合处理 chores，不太像会重塑支付
+
+主持人的态度很明确：他愿意让 AI 代办保险、文件这类 busy work，但购物本身更像浏览和比较的过程，不像需要 agent 直接替你完成的任务。这个判断很重要，因为它把 Perplexity 的潜在商业化边界划得比较窄。这里真正可投资化的点，不是“AI 会不会颠覆支付”，而是 Perplexity 能不能把浏览、筛选和下单之间的摩擦降到足够低，让用户在更高频、低风险的消费场景里形成习惯。
+
+“would you trust an AI” —— chitchat stocks, 2025-05-16
+
+“I would not trust an AI” —— chitchat stocks, 2025-05-16
+
+## Source-Level Takeaways
+
+- 这期对 Perplexity 的最大贡献，是给出了两个真实使用面：浏览器型 research workflow 和 chat 内 agent commerce。
+- PayPal 合作把“看、问、买、追踪”串成一条链，但播客并不认为这已经证明支付侧会被重写。
+- Perplexity 在这里更像一个分发很强的用户层产品，不是组织治理或内部运营模式的样本。
+- 没有看到招聘标准、组织结构、管理工具或内部协作机制的可用信息。
+
+2026-04-21T05:59:27.532317Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/Users/leafsun/.codex/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-04-21T05:59:27.533640Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/Users/leafsun/.codex/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json

@@ -1,0 +1,48 @@
+{
+  "research_key": "LOVABLE",
+  "company": "Lovable",
+  "channel": "substack",
+  "generated_at": "2026-04-22T00:29:29",
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/substack/metadata/_substack_query_map.md",
+  "inherited_podcast_query_map": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/podcasts/metadata/_podcast_query_map.md",
+  "query_count": 6,
+  "total_returned_urls": 0,
+  "statuses": [
+    {
+      "query": "Lovable Anton Osika podcast",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Lovable Anton Osika interview",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Lovable 20VC Anton Osika",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Lovable Lenny 10M ARR",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Lovable AI app builder podcast",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Lovable vibe coding podcast",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    }
+  ]
+}

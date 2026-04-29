@@ -1,0 +1,8344 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "2RD3FP5iWJY",
+  "url": "https://www.youtube.com/watch?v=2RD3FP5iWJY",
+  "title": "5 steps to generate consistent brand images with Midjourney",
+  "channel": "How I AI",
+  "source_queries": [
+    "Midjourney interview",
+    "Midjourney AI interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:52",
+  "segments": [
+    {
+      "text": "It all comes down to having a very tight",
+      "duration": 4.64,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "and manicured process, which thankfully",
+      "duration": 4.72,
+      "offset": 2.64,
+      "lang": "en"
+    },
+    {
+      "text": "I have spent my 10 gajillion hours in",
+      "duration": 4.4,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "mid Journey and an banana and everything",
+      "duration": 3.84,
+      "offset": 7.36,
+      "lang": "en"
+    },
+    {
+      "text": "to figure out exactly what that is so",
+      "duration": 3.04,
+      "offset": 9.12,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not pulling your hair out",
+      "duration": 1.76,
+      "offset": 11.2,
+      "lang": "en"
+    },
+    {
+      "text": "prompting all day.",
+      "duration": 2.32,
+      "offset": 12.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; One of the things I like about the mood",
+      "duration": 4.24,
+      "offset": 12.96,
+      "lang": "en"
+    },
+    {
+      "text": "board is it&#39;s a visual language to",
+      "duration": 4.64,
+      "offset": 14.48,
+      "lang": "en"
+    },
+    {
+      "text": "explain to midjourney what you&#39;re trying",
+      "duration": 3.6,
+      "offset": 17.2,
+      "lang": "en"
+    },
+    {
+      "text": "to do. The picture is worth a thousand",
+      "duration": 3.76,
+      "offset": 19.12,
+      "lang": "en"
+    },
+    {
+      "text": "words. Like literally a picture to an",
+      "duration": 4.4,
+      "offset": 20.8,
+      "lang": "en"
+    },
+    {
+      "text": "LLM is worth a thousand words.",
+      "duration": 5.04,
+      "offset": 22.88,
+      "lang": "en"
+    },
+    {
+      "text": "mentioning like Vogue or high fashion or",
+      "duration": 4.64,
+      "offset": 25.2,
+      "lang": "en"
+    },
+    {
+      "text": "even like a different artist name is a",
+      "duration": 4.0,
+      "offset": 27.92,
+      "lang": "en"
+    },
+    {
+      "text": "great way to tell the model a ton of",
+      "duration": 3.52,
+      "offset": 29.84,
+      "lang": "en"
+    },
+    {
+      "text": "stuff without actually having to tell a",
+      "duration": 1.92,
+      "offset": 31.92,
+      "lang": "en"
+    },
+    {
+      "text": "ton of stuff.",
+      "duration": 2.8,
+      "offset": 33.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; In the past, brand and creative",
+      "duration": 4.24,
+      "offset": 33.84,
+      "lang": "en"
+    },
+    {
+      "text": "directors or agencies will give you",
+      "duration": 4.08,
+      "offset": 36.16,
+      "lang": "en"
+    },
+    {
+      "text": "these photos and be like, cool, call us",
+      "duration": 4.56,
+      "offset": 38.08,
+      "lang": "en"
+    },
+    {
+      "text": "and reup when you want more photos. What",
+      "duration": 4.4,
+      "offset": 40.24,
+      "lang": "en"
+    },
+    {
+      "text": "I love is that you&#39;re like, look, you&#39;re",
+      "duration": 3.68,
+      "offset": 42.64,
+      "lang": "en"
+    },
+    {
+      "text": "going to value me for all this upfront",
+      "duration": 3.52,
+      "offset": 44.64,
+      "lang": "en"
+    },
+    {
+      "text": "work that I&#39;m going to do to find the",
+      "duration": 4.08,
+      "offset": 46.32,
+      "lang": "en"
+    },
+    {
+      "text": "space, give you these codes, really give",
+      "duration": 4.32,
+      "offset": 48.16,
+      "lang": "en"
+    },
+    {
+      "text": "you reference images, and then now you",
+      "duration": 3.76,
+      "offset": 50.4,
+      "lang": "en"
+    },
+    {
+      "text": "can go do this for yourself. It&#39;s just",
+      "duration": 4.4,
+      "offset": 52.48,
+      "lang": "en"
+    },
+    {
+      "text": "like a very different model of providing",
+      "duration": 5.12,
+      "offset": 54.16,
+      "lang": "en"
+    },
+    {
+      "text": "service and I think it creates a really",
+      "duration": 4.08,
+      "offset": 56.88,
+      "lang": "en"
+    },
+    {
+      "text": "positive collaboration between the",
+      "duration": 4.25,
+      "offset": 59.28,
+      "lang": "en"
+    },
+    {
+      "text": "client and the creative director.",
+      "duration": 4.59,
+      "offset": 60.96,
+      "lang": "en"
+    },
+    {
+      "text": "[music]",
+      "duration": 2.02,
+      "offset": 63.53,
+      "lang": "en"
+    },
+    {
+      "text": "Welcome to how I AI. I&#39;m Clarvo product",
+      "duration": 5.2,
+      "offset": 66.32,
+      "lang": "en"
+    },
+    {
+      "text": "leader and AI obsessive here on a",
+      "duration": 3.28,
+      "offset": 69.44,
+      "lang": "en"
+    },
+    {
+      "text": "mission to help you build better with",
+      "duration": 2.4,
+      "offset": 71.52,
+      "lang": "en"
+    },
+    {
+      "text": "these new tools. [music]",
+      "duration": 3.92,
+      "offset": 72.72,
+      "lang": "en"
+    },
+    {
+      "text": "Today we have an aesthetic episode with",
+      "duration": 5.2,
+      "offset": 73.92,
+      "lang": "en"
+    },
+    {
+      "text": "Jamie Ganon who is an AI creative",
+      "duration": 4.64,
+      "offset": 76.64,
+      "lang": "en"
+    },
+    {
+      "text": "director and is going to show us how to",
+      "duration": 5.28,
+      "offset": 79.12,
+      "lang": "en"
+    },
+    {
+      "text": "create consistent, beautiful, and unique",
+      "duration": 5.6,
+      "offset": 81.28,
+      "lang": "en"
+    },
+    {
+      "text": "brand assets using Midjourney,",
+      "duration": 4.64,
+      "offset": 84.4,
+      "lang": "en"
+    },
+    {
+      "text": "Nanobanana, Flora, and [music] more.",
+      "duration": 4.16,
+      "offset": 86.88,
+      "lang": "en"
+    },
+    {
+      "text": "This is a workflow we haven&#39;t seen yet",
+      "duration": 5.12,
+      "offset": 89.04,
+      "lang": "en"
+    },
+    {
+      "text": "and goes into incredible depth on how to",
+      "duration": 5.84,
+      "offset": 91.04,
+      "lang": "en"
+    },
+    {
+      "text": "create awesome brand assets that you can",
+      "duration": 4.24,
+      "offset": 94.16,
+      "lang": "en"
+    },
+    {
+      "text": "use to uplevel all of your [music]",
+      "duration": 4.48,
+      "offset": 96.88,
+      "lang": "en"
+    },
+    {
+      "text": "designs. Let&#39;s get to it. As an AI",
+      "duration": 4.8,
+      "offset": 98.4,
+      "lang": "en"
+    },
+    {
+      "text": "founder, you&#39;re used to sprinting",
+      "duration": 3.84,
+      "offset": 101.36,
+      "lang": "en"
+    },
+    {
+      "text": "towards product market fit, your next",
+      "duration": 4.08,
+      "offset": 103.2,
+      "lang": "en"
+    },
+    {
+      "text": "round, or that [music] first enterprise",
+      "duration": 5.2,
+      "offset": 105.2,
+      "lang": "en"
+    },
+    {
+      "text": "contract. But speed isn&#39;t enough for AI",
+      "duration": 4.96,
+      "offset": 107.28,
+      "lang": "en"
+    },
+    {
+      "text": "startups. Buyers [music] expect",
+      "duration": 4.56,
+      "offset": 110.4,
+      "lang": "en"
+    },
+    {
+      "text": "security, compliance, and transparency",
+      "duration": 5.92,
+      "offset": 112.24,
+      "lang": "en"
+    },
+    {
+      "text": "from day one. That&#39;s why serious AI",
+      "duration": 5.84,
+      "offset": 114.96,
+      "lang": "en"
+    },
+    {
+      "text": "startups use Vanta. With deep [music]",
+      "duration": 4.64,
+      "offset": 118.16,
+      "lang": "en"
+    },
+    {
+      "text": "integrations and automated workflows",
+      "duration": 4.96,
+      "offset": 120.8,
+      "lang": "en"
+    },
+    {
+      "text": "built for fastm moving AI teams, Vanta",
+      "duration": 5.68,
+      "offset": 122.8,
+      "lang": "en"
+    },
+    {
+      "text": "gets you audit ready fast and keeps you",
+      "duration": 4.24,
+      "offset": 125.76,
+      "lang": "en"
+    },
+    {
+      "text": "secure with [music] continuous",
+      "duration": 4.24,
+      "offset": 128.48,
+      "lang": "en"
+    },
+    {
+      "text": "monitoring as your models, infra, and",
+      "duration": 5.68,
+      "offset": 130.0,
+      "lang": "en"
+    },
+    {
+      "text": "customers evolve. AI innovators like",
+      "duration": 5.6,
+      "offset": 132.72,
+      "lang": "en"
+    },
+    {
+      "text": "Langchain, Writer, and Cursor scaled",
+      "duration": 5.04,
+      "offset": 135.68,
+      "lang": "en"
+    },
+    {
+      "text": "faster and closed bigger deals by",
+      "duration": 5.13,
+      "offset": 138.32,
+      "lang": "en"
+    },
+    {
+      "text": "getting security right early with Vanta.",
+      "duration": 4.88,
+      "offset": 140.72,
+      "lang": "en"
+    },
+    {
+      "text": "[music] Listeners can claim a special",
+      "duration": 5.27,
+      "offset": 143.45,
+      "lang": "en"
+    },
+    {
+      "text": "offer of $1,000 off Vanta at [music]",
+      "duration": 6.0,
+      "offset": 145.6,
+      "lang": "en"
+    },
+    {
+      "text": "vanta.comhowi",
+      "duration": 4.64,
+      "offset": 148.72,
+      "lang": "en"
+    },
+    {
+      "text": "aai.",
+      "duration": 6.48,
+      "offset": 151.6,
+      "lang": "en"
+    },
+    {
+      "text": "Jamie, thanks for joining How I AI. I am",
+      "duration": 7.28,
+      "offset": 153.36,
+      "lang": "en"
+    },
+    {
+      "text": "having you on the show for a very",
+      "duration": 4.96,
+      "offset": 158.08,
+      "lang": "en"
+    },
+    {
+      "text": "selfish reason, which is I think I&#39;m the",
+      "duration": 8.16,
+      "offset": 160.64,
+      "lang": "en"
+    },
+    {
+      "text": "only pink AI brand in all of SAS. And",
+      "duration": 7.92,
+      "offset": 163.04,
+      "lang": "en"
+    },
+    {
+      "text": "when I saw your work, I was like, &quot;Oh my",
+      "duration": 4.88,
+      "offset": 168.8,
+      "lang": "en"
+    },
+    {
+      "text": "god, I need this lady to teach me how to",
+      "duration": 5.76,
+      "offset": 170.96,
+      "lang": "en"
+    },
+    {
+      "text": "create brand imagery that is beautiful",
+      "duration": 5.68,
+      "offset": 173.68,
+      "lang": "en"
+    },
+    {
+      "text": "and fun and girly and whatever magic she",
+      "duration": 7.44,
+      "offset": 176.72,
+      "lang": "en"
+    },
+    {
+      "text": "has, I need.&quot; So, talk to me about",
+      "duration": 7.2,
+      "offset": 179.36,
+      "lang": "en"
+    },
+    {
+      "text": "how we can get amazing images like what",
+      "duration": 4.16,
+      "offset": 184.16,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re showing us right now. I think",
+      "duration": 3.36,
+      "offset": 186.56,
+      "lang": "en"
+    },
+    {
+      "text": "consistently is is the most important",
+      "duration": 3.2,
+      "offset": 188.32,
+      "lang": "en"
+    },
+    {
+      "text": "part because I can get a one-off image",
+      "duration": 3.52,
+      "offset": 189.92,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s this great, but I can&#39;t get this",
+      "duration": 3.44,
+      "offset": 191.52,
+      "lang": "en"
+    },
+    {
+      "text": "brand portfolio. So, you got to tell me",
+      "duration": 3.04,
+      "offset": 193.44,
+      "lang": "en"
+    },
+    {
+      "text": "your sorcery.",
+      "duration": 3.76,
+      "offset": 194.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. I mean, it all comes down to like",
+      "duration": 4.72,
+      "offset": 196.48,
+      "lang": "en"
+    },
+    {
+      "text": "unfortunately having a very tight and",
+      "duration": 4.88,
+      "offset": 198.72,
+      "lang": "en"
+    },
+    {
+      "text": "manicured process. Um, which thankfully",
+      "duration": 5.44,
+      "offset": 201.2,
+      "lang": "en"
+    },
+    {
+      "text": "I have spent my 10 gajillion hours in",
+      "duration": 5.12,
+      "offset": 203.6,
+      "lang": "en"
+    },
+    {
+      "text": "mid journey and banana and everything to",
+      "duration": 3.84,
+      "offset": 206.64,
+      "lang": "en"
+    },
+    {
+      "text": "figure out exactly what that is so",
+      "duration": 3.2,
+      "offset": 208.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not pulling your hair out",
+      "duration": 3.76,
+      "offset": 210.48,
+      "lang": "en"
+    },
+    {
+      "text": "prompting all day and yeah, I would I",
+      "duration": 4.32,
+      "offset": 211.92,
+      "lang": "en"
+    },
+    {
+      "text": "would love to show you. Great. So, where",
+      "duration": 4.08,
+      "offset": 214.24,
+      "lang": "en"
+    },
+    {
+      "text": "do we where do we start when you teach",
+      "duration": 4.24,
+      "offset": 216.24,
+      "lang": "en"
+    },
+    {
+      "text": "people how to do this? You know, where",
+      "duration": 4.56,
+      "offset": 218.32,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s what&#39;s step one? So, first thing",
+      "duration": 5.68,
+      "offset": 220.48,
+      "lang": "en"
+    },
+    {
+      "text": "that I always do is I&#39;m going to start",
+      "duration": 7.12,
+      "offset": 222.88,
+      "lang": "en"
+    },
+    {
+      "text": "in either Pinterest or Cosmos. And I&#39;m",
+      "duration": 6.08,
+      "offset": 226.16,
+      "lang": "en"
+    },
+    {
+      "text": "going to create a mood board that is the",
+      "duration": 6.32,
+      "offset": 230.0,
+      "lang": "en"
+    },
+    {
+      "text": "general vibe of what I want. So, for",
+      "duration": 7.2,
+      "offset": 232.24,
+      "lang": "en"
+    },
+    {
+      "text": "this exercise, I wanted to have like a",
+      "duration": 5.68,
+      "offset": 236.32,
+      "lang": "en"
+    },
+    {
+      "text": "very pink and cute but still kind of",
+      "duration": 6.0,
+      "offset": 239.44,
+      "lang": "en"
+    },
+    {
+      "text": "like not super girly, very internet kind",
+      "duration": 6.16,
+      "offset": 242.0,
+      "lang": "en"
+    },
+    {
+      "text": "of coded aesthetic. Um, I like",
+      "duration": 4.72,
+      "offset": 245.44,
+      "lang": "en"
+    },
+    {
+      "text": "especially with AI doing like",
+      "duration": 4.8,
+      "offset": 248.16,
+      "lang": "en"
+    },
+    {
+      "text": "juxiposition. I think that&#39;s really fun.",
+      "duration": 4.72,
+      "offset": 250.16,
+      "lang": "en"
+    },
+    {
+      "text": "So, we have like an orange with",
+      "duration": 3.76,
+      "offset": 252.96,
+      "lang": "en"
+    },
+    {
+      "text": "piercing. We have like a fluorescent",
+      "duration": 4.88,
+      "offset": 254.88,
+      "lang": "en"
+    },
+    {
+      "text": "fruit dog on a computer. Things where",
+      "duration": 4.72,
+      "offset": 256.72,
+      "lang": "en"
+    },
+    {
+      "text": "they shouldn&#39;t be. We have like a grungy",
+      "duration": 4.8,
+      "offset": 259.76,
+      "lang": "en"
+    },
+    {
+      "text": "unicorn. Um, so this is like a really",
+      "duration": 5.92,
+      "offset": 261.44,
+      "lang": "en"
+    },
+    {
+      "text": "cool aesthetic to start with. And I",
+      "duration": 4.64,
+      "offset": 264.56,
+      "lang": "en"
+    },
+    {
+      "text": "typically start, there&#39;s two ways that I",
+      "duration": 4.96,
+      "offset": 267.36,
+      "lang": "en"
+    },
+    {
+      "text": "usually start. I will either go in with",
+      "duration": 5.52,
+      "offset": 269.2,
+      "lang": "en"
+    },
+    {
+      "text": "a mood board in MidJourney. And you can",
+      "duration": 5.44,
+      "offset": 272.32,
+      "lang": "en"
+    },
+    {
+      "text": "basically just copy and paste your",
+      "duration": 5.44,
+      "offset": 274.72,
+      "lang": "en"
+    },
+    {
+      "text": "images in or you can start by adding",
+      "duration": 5.92,
+      "offset": 277.76,
+      "lang": "en"
+    },
+    {
+      "text": "them as SRFs as you can see here. So",
+      "duration": 6.72,
+      "offset": 280.16,
+      "lang": "en"
+    },
+    {
+      "text": "estrs basically are style references and",
+      "duration": 4.96,
+      "offset": 283.68,
+      "lang": "en"
+    },
+    {
+      "text": "they kind of do exactly what they sound",
+      "duration": 4.56,
+      "offset": 286.88,
+      "lang": "en"
+    },
+    {
+      "text": "like. It just tells Midourney to take",
+      "duration": 5.6,
+      "offset": 288.64,
+      "lang": "en"
+    },
+    {
+      "text": "the overall style and coloring and",
+      "duration": 6.16,
+      "offset": 291.44,
+      "lang": "en"
+    },
+    {
+      "text": "camera treatment and vibe if you will",
+      "duration": 7.36,
+      "offset": 294.24,
+      "lang": "en"
+    },
+    {
+      "text": "and it like tells it to apply that. Now,",
+      "duration": 6.4,
+      "offset": 297.6,
+      "lang": "en"
+    },
+    {
+      "text": "one of the first prompts that I tried to",
+      "duration": 4.64,
+      "offset": 301.6,
+      "lang": "en"
+    },
+    {
+      "text": "create this aesthetic is I use that mood",
+      "duration": 4.56,
+      "offset": 304.0,
+      "lang": "en"
+    },
+    {
+      "text": "board that you saw that I made. And in",
+      "duration": 4.16,
+      "offset": 306.24,
+      "lang": "en"
+    },
+    {
+      "text": "this part of my process, in the create",
+      "duration": 3.68,
+      "offset": 308.56,
+      "lang": "en"
+    },
+    {
+      "text": "part of my process, I&#39;m just trying to",
+      "duration": 4.0,
+      "offset": 310.4,
+      "lang": "en"
+    },
+    {
+      "text": "get information. I&#39;m trying to figure",
+      "duration": 4.16,
+      "offset": 312.24,
+      "lang": "en"
+    },
+    {
+      "text": "out like what what are the images",
+      "duration": 5.36,
+      "offset": 314.4,
+      "lang": "en"
+    },
+    {
+      "text": "telling AI? What is my prompting telling",
+      "duration": 5.44,
+      "offset": 316.4,
+      "lang": "en"
+    },
+    {
+      "text": "AI? What&#39;s the mood board telling AI?",
+      "duration": 3.6,
+      "offset": 319.76,
+      "lang": "en"
+    },
+    {
+      "text": "And I just want to generate very fast.",
+      "duration": 3.84,
+      "offset": 321.84,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m not very precious when I&#39;m doing",
+      "duration": 4.4,
+      "offset": 323.36,
+      "lang": "en"
+    },
+    {
+      "text": "these prompts. Like right here, I just",
+      "duration": 3.92,
+      "offset": 325.68,
+      "lang": "en"
+    },
+    {
+      "text": "have beautiful female model. I have",
+      "duration": 4.0,
+      "offset": 327.76,
+      "lang": "en"
+    },
+    {
+      "text": "astronaut. You can see I&#39;m using that",
+      "duration": 4.4,
+      "offset": 329.6,
+      "lang": "en"
+    },
+    {
+      "text": "mood board here. But if we remember like",
+      "duration": 5.52,
+      "offset": 331.76,
+      "lang": "en"
+    },
+    {
+      "text": "the original mood board and those final",
+      "duration": 4.56,
+      "offset": 334.0,
+      "lang": "en"
+    },
+    {
+      "text": "images that you guys have a sneak peek",
+      "duration": 4.0,
+      "offset": 337.28,
+      "lang": "en"
+    },
+    {
+      "text": "of, we can see that we&#39;re like very far",
+      "duration": 5.44,
+      "offset": 338.56,
+      "lang": "en"
+    },
+    {
+      "text": "off from where we want to be. And I",
+      "duration": 4.88,
+      "offset": 341.28,
+      "lang": "en"
+    },
+    {
+      "text": "think where a lot of people that are",
+      "duration": 4.0,
+      "offset": 344.0,
+      "lang": "en"
+    },
+    {
+      "text": "starting to use AI get kind of tripped",
+      "duration": 4.24,
+      "offset": 346.16,
+      "lang": "en"
+    },
+    {
+      "text": "up is like if you&#39;ve ever just like raw",
+      "duration": 4.4,
+      "offset": 348.0,
+      "lang": "en"
+    },
+    {
+      "text": "dogged generated something in like mid",
+      "duration": 4.16,
+      "offset": 350.4,
+      "lang": "en"
+    },
+    {
+      "text": "Journey or trackt like this might be",
+      "duration": 4.0,
+      "offset": 352.4,
+      "lang": "en"
+    },
+    {
+      "text": "like great to you and like some of these",
+      "duration": 4.24,
+      "offset": 354.56,
+      "lang": "en"
+    },
+    {
+      "text": "images stand alone are really cool to me",
+      "duration": 4.08,
+      "offset": 356.4,
+      "lang": "en"
+    },
+    {
+      "text": "but if we&#39;re working for like a client",
+      "duration": 3.6,
+      "offset": 358.8,
+      "lang": "en"
+    },
+    {
+      "text": "or we&#39;re trying to be consistent with",
+      "duration": 3.52,
+      "offset": 360.48,
+      "lang": "en"
+    },
+    {
+      "text": "the brand style we need to be like",
+      "duration": 3.12,
+      "offset": 362.4,
+      "lang": "en"
+    },
+    {
+      "text": "really really honest with ourselves on",
+      "duration": 2.88,
+      "offset": 364.0,
+      "lang": "en"
+    },
+    {
+      "text": "like does this actually look like that",
+      "duration": 4.08,
+      "offset": 365.52,
+      "lang": "en"
+    },
+    {
+      "text": "vibe and truthfully it does not. So, I",
+      "duration": 4.4,
+      "offset": 366.88,
+      "lang": "en"
+    },
+    {
+      "text": "think that there&#39;s going to be a better",
+      "duration": 3.6,
+      "offset": 369.6,
+      "lang": "en"
+    },
+    {
+      "text": "approach to get things going.",
+      "duration": 3.44,
+      "offset": 371.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; One thing I want to call out, if you",
+      "duration": 4.32,
+      "offset": 373.2,
+      "lang": "en"
+    },
+    {
+      "text": "could go go back, is I think one of the",
+      "duration": 4.88,
+      "offset": 374.72,
+      "lang": "en"
+    },
+    {
+      "text": "things people lack when they&#39;re working",
+      "duration": 3.84,
+      "offset": 377.52,
+      "lang": "en"
+    },
+    {
+      "text": "with more of these truly creative",
+      "duration": 4.16,
+      "offset": 379.6,
+      "lang": "en"
+    },
+    {
+      "text": "generative AI tools is they lack",
+      "duration": 4.88,
+      "offset": 381.36,
+      "lang": "en"
+    },
+    {
+      "text": "language. And so, one of the things I",
+      "duration": 4.56,
+      "offset": 383.76,
+      "lang": "en"
+    },
+    {
+      "text": "like about the mood board is it&#39;s a",
+      "duration": 5.36,
+      "offset": 386.24,
+      "lang": "en"
+    },
+    {
+      "text": "visual language to explain to MidJourney",
+      "duration": 5.2,
+      "offset": 388.32,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re trying to do. What I like",
+      "duration": 3.84,
+      "offset": 391.6,
+      "lang": "en"
+    },
+    {
+      "text": "about the style references, which we&#39;ve",
+      "duration": 3.76,
+      "offset": 393.52,
+      "lang": "en"
+    },
+    {
+      "text": "done a couple episodes um that have",
+      "duration": 4.0,
+      "offset": 395.44,
+      "lang": "en"
+    },
+    {
+      "text": "referenced style style references in in",
+      "duration": 4.24,
+      "offset": 397.28,
+      "lang": "en"
+    },
+    {
+      "text": "terms of midjourney. We&#39;ve done one with",
+      "duration": 4.48,
+      "offset": 399.44,
+      "lang": "en"
+    },
+    {
+      "text": "Zach um the creative and design lead at",
+      "duration": 4.32,
+      "offset": 401.52,
+      "lang": "en"
+    },
+    {
+      "text": "Gamma. We&#39;ve done one where we were",
+      "duration": 4.16,
+      "offset": 403.92,
+      "lang": "en"
+    },
+    {
+      "text": "looking at style rest for more",
+      "duration": 5.6,
+      "offset": 405.84,
+      "lang": "en"
+    },
+    {
+      "text": "photography styles. So these are just l",
+      "duration": 6.72,
+      "offset": 408.08,
+      "lang": "en"
+    },
+    {
+      "text": "alternative languages to tell midjourney",
+      "duration": 5.84,
+      "offset": 411.44,
+      "lang": "en"
+    },
+    {
+      "text": "or another tool something specific about",
+      "duration": 4.96,
+      "offset": 414.8,
+      "lang": "en"
+    },
+    {
+      "text": "a visual aesthetic which I feel like a",
+      "duration": 4.48,
+      "offset": 417.28,
+      "lang": "en"
+    },
+    {
+      "text": "lot of people just aren&#39;t trained if",
+      "duration": 3.28,
+      "offset": 419.76,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not trained as a designer if",
+      "duration": 3.76,
+      "offset": 421.76,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not trained as a photographer you",
+      "duration": 3.76,
+      "offset": 423.04,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have and so I love this a picture",
+      "duration": 3.12,
+      "offset": 425.52,
+      "lang": "en"
+    },
+    {
+      "text": "is worth a thousand words like literally",
+      "duration": 5.12,
+      "offset": 426.8,
+      "lang": "en"
+    },
+    {
+      "text": "a picture to an LLM is worth a thousand",
+      "duration": 5.44,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "words. Uh, the other thing that I want",
+      "duration": 4.48,
+      "offset": 431.92,
+      "lang": "en"
+    },
+    {
+      "text": "to do, if you go to your mood board",
+      "duration": 4.72,
+      "offset": 434.08,
+      "lang": "en"
+    },
+    {
+      "text": "versus what was generated, one of the",
+      "duration": 3.92,
+      "offset": 436.4,
+      "lang": "en"
+    },
+    {
+      "text": "things I want to call out about this",
+      "duration": 4.64,
+      "offset": 438.8,
+      "lang": "en"
+    },
+    {
+      "text": "where you&#39;re comparing the mood board to",
+      "duration": 5.92,
+      "offset": 440.32,
+      "lang": "en"
+    },
+    {
+      "text": "the images is somebody who has been a",
+      "duration": 4.72,
+      "offset": 443.44,
+      "lang": "en"
+    },
+    {
+      "text": "designer and has been around",
+      "duration": 3.28,
+      "offset": 446.24,
+      "lang": "en"
+    },
+    {
+      "text": "photographers, I bet you can see this",
+      "duration": 3.12,
+      "offset": 448.16,
+      "lang": "en"
+    },
+    {
+      "text": "and say, okay, like the saturation and",
+      "duration": 4.24,
+      "offset": 449.52,
+      "lang": "en"
+    },
+    {
+      "text": "the contrast on these photos is not as",
+      "duration": 6.32,
+      "offset": 451.28,
+      "lang": "en"
+    },
+    {
+      "text": "high as they are in the generated",
+      "duration": 6.8,
+      "offset": 453.76,
+      "lang": "en"
+    },
+    {
+      "text": "images. um there&#39;s this like washed out",
+      "duration": 6.08,
+      "offset": 457.6,
+      "lang": "en"
+    },
+    {
+      "text": "vibe on some of the photography on the",
+      "duration": 4.96,
+      "offset": 460.56,
+      "lang": "en"
+    },
+    {
+      "text": "generated images. And so one of the",
+      "duration": 4.64,
+      "offset": 463.68,
+      "lang": "en"
+    },
+    {
+      "text": "tricks that I wonder if people um might",
+      "duration": 5.2,
+      "offset": 465.52,
+      "lang": "en"
+    },
+    {
+      "text": "think about is you could actually upload",
+      "duration": 5.68,
+      "offset": 468.32,
+      "lang": "en"
+    },
+    {
+      "text": "this to like a like a chat or claude and",
+      "duration": 4.8,
+      "offset": 470.72,
+      "lang": "en"
+    },
+    {
+      "text": "you could say explain to me why the",
+      "duration": 4.48,
+      "offset": 474.0,
+      "lang": "en"
+    },
+    {
+      "text": "photos don&#39;t match the mood board. And",
+      "duration": 5.44,
+      "offset": 475.52,
+      "lang": "en"
+    },
+    {
+      "text": "so uh you know you are probably an",
+      "duration": 4.56,
+      "offset": 478.48,
+      "lang": "en"
+    },
+    {
+      "text": "expert at this and have language to",
+      "duration": 4.4,
+      "offset": 480.96,
+      "lang": "en"
+    },
+    {
+      "text": "figure out why it doesn&#39;t match. But if",
+      "duration": 3.44,
+      "offset": 483.04,
+      "lang": "en"
+    },
+    {
+      "text": "for folks that are trying to teach",
+      "duration": 2.48,
+      "offset": 485.36,
+      "lang": "en"
+    },
+    {
+      "text": "themselves language, that&#39;s just one",
+      "duration": 3.36,
+      "offset": 486.48,
+      "lang": "en"
+    },
+    {
+      "text": "trick I think is really useful is throw",
+      "duration": 4.4,
+      "offset": 487.84,
+      "lang": "en"
+    },
+    {
+      "text": "this in and say, &quot;Hey, chat GBT, explain",
+      "duration": 4.4,
+      "offset": 489.84,
+      "lang": "en"
+    },
+    {
+      "text": "to me why these top four images aren&#39;t",
+      "duration": 3.84,
+      "offset": 492.24,
+      "lang": "en"
+    },
+    {
+      "text": "in the same style as the bottom.&quot; And",
+      "duration": 3.84,
+      "offset": 494.24,
+      "lang": "en"
+    },
+    {
+      "text": "that can sort of give you a seed seed to",
+      "duration": 4.64,
+      "offset": 496.08,
+      "lang": "en"
+    },
+    {
+      "text": "start. I try and avoid prompting at all",
+      "duration": 5.6,
+      "offset": 498.08,
+      "lang": "en"
+    },
+    {
+      "text": "costs in my process. But um like for",
+      "duration": 4.24,
+      "offset": 500.72,
+      "lang": "en"
+    },
+    {
+      "text": "this example, we&#39;re going to go like",
+      "duration": 3.76,
+      "offset": 503.68,
+      "lang": "en"
+    },
+    {
+      "text": "super super simple with like using and",
+      "duration": 4.32,
+      "offset": 504.96,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards. But yeah, if I&#39;m in one of",
+      "duration": 4.16,
+      "offset": 507.44,
+      "lang": "en"
+    },
+    {
+      "text": "these like I&#39;m doing some insane",
+      "duration": 4.32,
+      "offset": 509.28,
+      "lang": "en"
+    },
+    {
+      "text": "editorial work for clients, it needs to",
+      "duration": 3.52,
+      "offset": 511.6,
+      "lang": "en"
+    },
+    {
+      "text": "be consistent across like a hundred",
+      "duration": 4.64,
+      "offset": 513.6,
+      "lang": "en"
+    },
+    {
+      "text": "images and like foolproof to like a",
+      "duration": 5.44,
+      "offset": 515.12,
+      "lang": "en"
+    },
+    {
+      "text": "consumer eye. That&#39;s when like getting",
+      "duration": 4.08,
+      "offset": 518.24,
+      "lang": "en"
+    },
+    {
+      "text": "really into the details, especially with",
+      "duration": 3.36,
+      "offset": 520.56,
+      "lang": "en"
+    },
+    {
+      "text": "models like [clears throat] Nano Banana",
+      "duration": 3.44,
+      "offset": 522.32,
+      "lang": "en"
+    },
+    {
+      "text": "can be super helpful.",
+      "duration": 4.0,
+      "offset": 523.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Great. Okay, so this doesn&#39;t match. What",
+      "duration": 4.32,
+      "offset": 525.76,
+      "lang": "en"
+    },
+    {
+      "text": "do we do? Basically, what I kind of",
+      "duration": 3.68,
+      "offset": 527.92,
+      "lang": "en"
+    },
+    {
+      "text": "gleaned from this is like the mood board",
+      "duration": 3.36,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "is not doing its job. It&#39;s not",
+      "duration": 4.72,
+      "offset": 531.6,
+      "lang": "en"
+    },
+    {
+      "text": "communicating uh the vibe properly. Um",
+      "duration": 3.92,
+      "offset": 533.44,
+      "lang": "en"
+    },
+    {
+      "text": "this is something that happens a lot",
+      "duration": 2.72,
+      "offset": 536.32,
+      "lang": "en"
+    },
+    {
+      "text": "with midjourney mood boards. There&#39;s not",
+      "duration": 3.36,
+      "offset": 537.36,
+      "lang": "en"
+    },
+    {
+      "text": "a ton of like documentation from",
+      "duration": 3.92,
+      "offset": 539.04,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney on exactly how it works. But",
+      "duration": 4.8,
+      "offset": 540.72,
+      "lang": "en"
+    },
+    {
+      "text": "as creatives, you can tell like the more",
+      "duration": 4.4,
+      "offset": 542.96,
+      "lang": "en"
+    },
+    {
+      "text": "kind of consistent a mood board is.",
+      "duration": 3.92,
+      "offset": 545.52,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s say it&#39;s like five images of like",
+      "duration": 4.72,
+      "offset": 547.36,
+      "lang": "en"
+    },
+    {
+      "text": "fuzzy 3D cats, you&#39;re more likely to get",
+      "duration": 4.64,
+      "offset": 549.44,
+      "lang": "en"
+    },
+    {
+      "text": "an image of like a fuzzy whatever you",
+      "duration": 3.52,
+      "offset": 552.08,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Um, when we&#39;re doing more",
+      "duration": 3.52,
+      "offset": 554.08,
+      "lang": "en"
+    },
+    {
+      "text": "generalized vibe stuff like this,",
+      "duration": 3.76,
+      "offset": 555.6,
+      "lang": "en"
+    },
+    {
+      "text": "Midourney can tend to average things out",
+      "duration": 3.92,
+      "offset": 557.6,
+      "lang": "en"
+    },
+    {
+      "text": "with the mood board. And I find that",
+      "duration": 5.68,
+      "offset": 559.36,
+      "lang": "en"
+    },
+    {
+      "text": "using SRFS as the mood board instead",
+      "duration": 5.44,
+      "offset": 561.52,
+      "lang": "en"
+    },
+    {
+      "text": "essentially can give much better",
+      "duration": 4.32,
+      "offset": 565.04,
+      "lang": "en"
+    },
+    {
+      "text": "results. So, this was sort of the next",
+      "duration": 5.2,
+      "offset": 566.96,
+      "lang": "en"
+    },
+    {
+      "text": "step in my process. I wanted to try the",
+      "duration": 5.2,
+      "offset": 569.36,
+      "lang": "en"
+    },
+    {
+      "text": "SEFS and see if that made it better. And",
+      "duration": 4.24,
+      "offset": 572.16,
+      "lang": "en"
+    },
+    {
+      "text": "you can tell we&#39;re definitely getting",
+      "duration": 3.76,
+      "offset": 574.56,
+      "lang": "en"
+    },
+    {
+      "text": "better contrast. We&#39;re getting a little",
+      "duration": 5.04,
+      "offset": 576.4,
+      "lang": "en"
+    },
+    {
+      "text": "bit more kind of aesthetic and edgy. a",
+      "duration": 5.52,
+      "offset": 578.32,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more of that like 2025",
+      "duration": 4.56,
+      "offset": 581.44,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic that we want, but it&#39;s pulling",
+      "duration": 5.04,
+      "offset": 583.84,
+      "lang": "en"
+    },
+    {
+      "text": "really really green for me. Um, so what",
+      "duration": 6.32,
+      "offset": 586.0,
+      "lang": "en"
+    },
+    {
+      "text": "I ended up doing is I just removed that",
+      "duration": 5.68,
+      "offset": 588.88,
+      "lang": "en"
+    },
+    {
+      "text": "green eye sruff. Um, this is something",
+      "duration": 4.0,
+      "offset": 592.32,
+      "lang": "en"
+    },
+    {
+      "text": "that comes with intuition. You know,",
+      "duration": 3.36,
+      "offset": 594.56,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been using majour for like 3 years,",
+      "duration": 3.84,
+      "offset": 596.32,
+      "lang": "en"
+    },
+    {
+      "text": "so I kind of can like understand like",
+      "duration": 3.52,
+      "offset": 597.92,
+      "lang": "en"
+    },
+    {
+      "text": "where I don&#39;t know, it feels like",
+      "duration": 2.96,
+      "offset": 600.16,
+      "lang": "en"
+    },
+    {
+      "text": "sorcery to me, but I can understand like",
+      "duration": 3.6,
+      "offset": 601.44,
+      "lang": "en"
+    },
+    {
+      "text": "where the LLM is pulling certain things.",
+      "duration": 4.4,
+      "offset": 603.12,
+      "lang": "en"
+    },
+    {
+      "text": "And I knew that if I removed this green,",
+      "duration": 4.64,
+      "offset": 605.04,
+      "lang": "en"
+    },
+    {
+      "text": "it would solve a lot of my problems. Um,",
+      "duration": 4.0,
+      "offset": 607.52,
+      "lang": "en"
+    },
+    {
+      "text": "so I did. And as you can see, we&#39;re",
+      "duration": 3.92,
+      "offset": 609.68,
+      "lang": "en"
+    },
+    {
+      "text": "starting to get a little bit more",
+      "duration": 4.8,
+      "offset": 611.52,
+      "lang": "en"
+    },
+    {
+      "text": "neutral in tone. We&#39;re also like a",
+      "duration": 5.2,
+      "offset": 613.6,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more zoomed out, too,",
+      "duration": 4.24,
+      "offset": 616.32,
+      "lang": "en"
+    },
+    {
+      "text": "especially with like the people photos.",
+      "duration": 4.64,
+      "offset": 618.8,
+      "lang": "en"
+    },
+    {
+      "text": "So now I know I am on the right",
+      "duration": 4.8,
+      "offset": 620.56,
+      "lang": "en"
+    },
+    {
+      "text": "direction. Can I ask a question real",
+      "duration": 4.48,
+      "offset": 623.44,
+      "lang": "en"
+    },
+    {
+      "text": "quick? When you say I&#39;m using the SRFs,",
+      "duration": 4.24,
+      "offset": 625.36,
+      "lang": "en"
+    },
+    {
+      "text": "where are you getting those from your",
+      "duration": 3.92,
+      "offset": 627.92,
+      "lang": "en"
+    },
+    {
+      "text": "mood board or how do you actually",
+      "duration": 4.16,
+      "offset": 629.6,
+      "lang": "en"
+    },
+    {
+      "text": "deciding what the SREFs are? just for",
+      "duration": 3.2,
+      "offset": 631.84,
+      "lang": "en"
+    },
+    {
+      "text": "people who are less familiar with",
+      "duration": 4.0,
+      "offset": 633.76,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney. I&#39;m just using literally the",
+      "duration": 5.6,
+      "offset": 635.04,
+      "lang": "en"
+    },
+    {
+      "text": "ones that were on that original",
+      "duration": 4.88,
+      "offset": 637.76,
+      "lang": "en"
+    },
+    {
+      "text": "Pinterest mood board. So, you can just",
+      "duration": 5.12,
+      "offset": 640.64,
+      "lang": "en"
+    },
+    {
+      "text": "copy and paste that image and put it in",
+      "duration": 5.28,
+      "offset": 642.64,
+      "lang": "en"
+    },
+    {
+      "text": "there and then as you copy and paste",
+      "duration": 4.0,
+      "offset": 645.76,
+      "lang": "en"
+    },
+    {
+      "text": "things in, it&#39;ll like save in a library",
+      "duration": 4.72,
+      "offset": 647.92,
+      "lang": "en"
+    },
+    {
+      "text": "for you like forever. So, if I wanted to",
+      "duration": 4.8,
+      "offset": 649.76,
+      "lang": "en"
+    },
+    {
+      "text": "bring that green one back in to keep",
+      "duration": 3.44,
+      "offset": 652.64,
+      "lang": "en"
+    },
+    {
+      "text": "trying stuff, it&#39;s like already there",
+      "duration": 4.32,
+      "offset": 654.56,
+      "lang": "en"
+    },
+    {
+      "text": "for me. Got it. So instead of the SRF",
+      "duration": 4.64,
+      "offset": 656.08,
+      "lang": "en"
+    },
+    {
+      "text": "codes that a lot of people and we&#39;ve",
+      "duration": 3.44,
+      "offset": 658.88,
+      "lang": "en"
+    },
+    {
+      "text": "talked about in the past, you&#39;re using",
+      "duration": 4.72,
+      "offset": 660.72,
+      "lang": "en"
+    },
+    {
+      "text": "literally the UI to just drag in images",
+      "duration": 6.16,
+      "offset": 662.32,
+      "lang": "en"
+    },
+    {
+      "text": "as style references and that for you",
+      "duration": 4.8,
+      "offset": 665.44,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes gets you better results than",
+      "duration": 4.0,
+      "offset": 668.48,
+      "lang": "en"
+    },
+    {
+      "text": "just using the general mood board",
+      "duration": 3.6,
+      "offset": 670.24,
+      "lang": "en"
+    },
+    {
+      "text": "process.",
+      "duration": 2.08,
+      "offset": 672.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 0.96,
+      "offset": 673.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 1.04,
+      "offset": 674.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Cool.",
+      "duration": 2.4,
+      "offset": 674.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And then I have one more question which",
+      "duration": 4.48,
+      "offset": 675.6,
+      "lang": "en"
+    },
+    {
+      "text": "is do you have some goto like test",
+      "duration": 5.04,
+      "offset": 677.2,
+      "lang": "en"
+    },
+    {
+      "text": "prompts? Like I love the astronaut as a",
+      "duration": 4.48,
+      "offset": 680.08,
+      "lang": "en"
+    },
+    {
+      "text": "prompt um because there&#39;s a lot of ways",
+      "duration": 4.24,
+      "offset": 682.24,
+      "lang": "en"
+    },
+    {
+      "text": "you could generate an astronaut. Do you",
+      "duration": 3.52,
+      "offset": 684.56,
+      "lang": "en"
+    },
+    {
+      "text": "have some like go-tos that you run",
+      "duration": 2.8,
+      "offset": 686.48,
+      "lang": "en"
+    },
+    {
+      "text": "through when you&#39;re doing a mood board",
+      "duration": 3.36,
+      "offset": 688.08,
+      "lang": "en"
+    },
+    {
+      "text": "or does it really depend on your client",
+      "duration": 3.6,
+      "offset": 689.28,
+      "lang": "en"
+    },
+    {
+      "text": "and what you&#39;re working on?",
+      "duration": 3.6,
+      "offset": 691.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I would say I love doing like",
+      "duration": 6.16,
+      "offset": 692.88,
+      "lang": "en"
+    },
+    {
+      "text": "ethereal female model for some reason. I",
+      "duration": 7.12,
+      "offset": 695.04,
+      "lang": "en"
+    },
+    {
+      "text": "do like I do that a lot.",
+      "duration": 6.32,
+      "offset": 699.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, this is like a crazy silver one",
+      "duration": 5.2,
+      "offset": 702.16,
+      "lang": "en"
+    },
+    {
+      "text": "that I was doing. It tends to just like",
+      "duration": 5.28,
+      "offset": 705.36,
+      "lang": "en"
+    },
+    {
+      "text": "give sort of like a a more elevated vibe",
+      "duration": 5.28,
+      "offset": 707.36,
+      "lang": "en"
+    },
+    {
+      "text": "than just regular model. I think I do",
+      "duration": 3.76,
+      "offset": 710.64,
+      "lang": "en"
+    },
+    {
+      "text": "cats a lot because there&#39;s just a lot of",
+      "duration": 4.48,
+      "offset": 712.64,
+      "lang": "en"
+    },
+    {
+      "text": "like texture to work with.",
+      "duration": 4.88,
+      "offset": 714.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The other thing I would say is that",
+      "duration": 4.4,
+      "offset": 717.12,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s probably a lot of training data",
+      "duration": 4.16,
+      "offset": 719.28,
+      "lang": "en"
+    },
+    {
+      "text": "of cat pictures on [laughter] the",
+      "duration": 4.4,
+      "offset": 721.52,
+      "lang": "en"
+    },
+    {
+      "text": "internet. So, Midney could probably do a",
+      "duration": 4.16,
+      "offset": 723.44,
+      "lang": "en"
+    },
+    {
+      "text": "pretty good job with a cat.",
+      "duration": 5.2,
+      "offset": 725.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Running to I feel like I do that a",
+      "duration": 5.12,
+      "offset": 727.6,
+      "lang": "en"
+    },
+    {
+      "text": "lot. Oh god, this is like my first",
+      "duration": 3.6,
+      "offset": 731.12,
+      "lang": "en"
+    },
+    {
+      "text": "generation. Isn&#39;t that crazy?",
+      "duration": 5.36,
+      "offset": 732.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um scrolled all the way down there. But",
+      "duration": 5.52,
+      "offset": 734.72,
+      "lang": "en"
+    },
+    {
+      "text": "uh yeah, I&#39;ll do running a lot or like",
+      "duration": 4.4,
+      "offset": 738.08,
+      "lang": "en"
+    },
+    {
+      "text": "runner. Yeah. Anything with like",
+      "duration": 3.84,
+      "offset": 740.24,
+      "lang": "en"
+    },
+    {
+      "text": "astronaut&#39;s fun too. Anything that&#39;s",
+      "duration": 3.76,
+      "offset": 742.48,
+      "lang": "en"
+    },
+    {
+      "text": "like specific enough to kind of like",
+      "duration": 5.84,
+      "offset": 744.08,
+      "lang": "en"
+    },
+    {
+      "text": "give you the vibe. I&#39;d say like vibe",
+      "duration": 5.28,
+      "offset": 746.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s like kind of nonsense",
+      "duration": 3.52,
+      "offset": 749.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; broad enough that those different styles",
+      "duration": 4.64,
+      "offset": 751.52,
+      "lang": "en"
+    },
+    {
+      "text": "kind of apply. Okay. So, so you&#39;ve used",
+      "duration": 5.28,
+      "offset": 753.44,
+      "lang": "en"
+    },
+    {
+      "text": "these style references. You&#39;re getting a",
+      "duration": 4.56,
+      "offset": 756.16,
+      "lang": "en"
+    },
+    {
+      "text": "little closer. What&#39;s the next step?",
+      "duration": 3.76,
+      "offset": 758.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So, I consider this part of my",
+      "duration": 4.24,
+      "offset": 760.72,
+      "lang": "en"
+    },
+    {
+      "text": "like create step. And again, the goal is",
+      "duration": 4.64,
+      "offset": 762.48,
+      "lang": "en"
+    },
+    {
+      "text": "just to like get some like information.",
+      "duration": 3.76,
+      "offset": 764.96,
+      "lang": "en"
+    },
+    {
+      "text": "Take like this should take like 10 or 15",
+      "duration": 3.6,
+      "offset": 767.12,
+      "lang": "en"
+    },
+    {
+      "text": "minutes to start the create process. And",
+      "duration": 3.52,
+      "offset": 768.72,
+      "lang": "en"
+    },
+    {
+      "text": "then what I&#39;m going to do next is I&#39;m",
+      "duration": 3.76,
+      "offset": 770.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to move on to iterating. And",
+      "duration": 3.44,
+      "offset": 772.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s where we&#39;re going to start like",
+      "duration": 2.72,
+      "offset": 774.48,
+      "lang": "en"
+    },
+    {
+      "text": "getting a little bit more specific with",
+      "duration": 3.12,
+      "offset": 775.68,
+      "lang": "en"
+    },
+    {
+      "text": "our process, maybe slightly more",
+      "duration": 4.24,
+      "offset": 777.2,
+      "lang": "en"
+    },
+    {
+      "text": "technical, and then starting to combine",
+      "duration": 5.44,
+      "offset": 778.8,
+      "lang": "en"
+    },
+    {
+      "text": "more styles to get like your own unique",
+      "duration": 5.36,
+      "offset": 781.44,
+      "lang": "en"
+    },
+    {
+      "text": "style and get better consistency. Um, so",
+      "duration": 3.84,
+      "offset": 784.24,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m going to do particularly in",
+      "duration": 2.56,
+      "offset": 786.8,
+      "lang": "en"
+    },
+    {
+      "text": "this process is I&#39;m going to start to",
+      "duration": 3.12,
+      "offset": 788.08,
+      "lang": "en"
+    },
+    {
+      "text": "bring in some personalization codes and",
+      "duration": 4.16,
+      "offset": 789.36,
+      "lang": "en"
+    },
+    {
+      "text": "other mood boards. So what ended up",
+      "duration": 5.28,
+      "offset": 791.2,
+      "lang": "en"
+    },
+    {
+      "text": "helping me get these results is um my",
+      "duration": 4.56,
+      "offset": 793.52,
+      "lang": "en"
+    },
+    {
+      "text": "personalization code that I call late",
+      "duration": 4.32,
+      "offset": 796.48,
+      "lang": "en"
+    },
+    {
+      "text": "2025 aesthetic. Um, now personalization",
+      "duration": 4.72,
+      "offset": 798.08,
+      "lang": "en"
+    },
+    {
+      "text": "codes, again, it&#39;s kind of like a little",
+      "duration": 3.36,
+      "offset": 800.8,
+      "lang": "en"
+    },
+    {
+      "text": "bit of a mystery how it works exactly",
+      "duration": 2.72,
+      "offset": 802.8,
+      "lang": "en"
+    },
+    {
+      "text": "under the hood, but when you&#39;re creating",
+      "duration": 3.2,
+      "offset": 804.16,
+      "lang": "en"
+    },
+    {
+      "text": "a personalization code, Mag is going to",
+      "duration": 4.48,
+      "offset": 805.52,
+      "lang": "en"
+    },
+    {
+      "text": "put you through this like endless flop",
+      "duration": 4.48,
+      "offset": 807.36,
+      "lang": "en"
+    },
+    {
+      "text": "matrix of images that you&#39;re either",
+      "duration": 4.16,
+      "offset": 810.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to vote one or two or skip. Um,",
+      "duration": 3.76,
+      "offset": 811.84,
+      "lang": "en"
+    },
+    {
+      "text": "and basically it you&#39;re just telling it",
+      "duration": 3.12,
+      "offset": 814.16,
+      "lang": "en"
+    },
+    {
+      "text": "what you like. And you can have like as",
+      "duration": 4.4,
+      "offset": 815.6,
+      "lang": "en"
+    },
+    {
+      "text": "many profiles as you want. So for like",
+      "duration": 4.48,
+      "offset": 817.28,
+      "lang": "en"
+    },
+    {
+      "text": "this profile in particular, I was trying",
+      "duration": 3.76,
+      "offset": 820.0,
+      "lang": "en"
+    },
+    {
+      "text": "to think I was trying to rate images",
+      "duration": 4.96,
+      "offset": 821.76,
+      "lang": "en"
+    },
+    {
+      "text": "that were of a 2025 aesthetic. So like",
+      "duration": 5.92,
+      "offset": 823.76,
+      "lang": "en"
+    },
+    {
+      "text": "more iPhone style. And we can see here",
+      "duration": 3.84,
+      "offset": 826.72,
+      "lang": "en"
+    },
+    {
+      "text": "like",
+      "duration": 2.64,
+      "offset": 829.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; you&#39;d pick that one.",
+      "duration": 5.52,
+      "offset": 830.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Or I I skip a lot. Um that&#39;s",
+      "duration": 5.12,
+      "offset": 832.32,
+      "lang": "en"
+    },
+    {
+      "text": "another thing when I&#39;m giving like",
+      "duration": 2.88,
+      "offset": 836.08,
+      "lang": "en"
+    },
+    {
+      "text": "advice to people on personalization",
+      "duration": 4.0,
+      "offset": 837.44,
+      "lang": "en"
+    },
+    {
+      "text": "codes is like there&#39;s a lot out there on",
+      "duration": 4.88,
+      "offset": 838.96,
+      "lang": "en"
+    },
+    {
+      "text": "you know like Mr. says like don&#39;t skip",
+      "duration": 4.24,
+      "offset": 841.44,
+      "lang": "en"
+    },
+    {
+      "text": "that much but some people are like skip",
+      "duration": 3.76,
+      "offset": 843.84,
+      "lang": "en"
+    },
+    {
+      "text": "as much as possible. Some people like",
+      "duration": 3.44,
+      "offset": 845.68,
+      "lang": "en"
+    },
+    {
+      "text": "skip a medium amount. I tend to skip",
+      "duration": 3.28,
+      "offset": 847.6,
+      "lang": "en"
+    },
+    {
+      "text": "like a medium amount and only pick",
+      "duration": 3.68,
+      "offset": 849.12,
+      "lang": "en"
+    },
+    {
+      "text": "things that I would like if I generated",
+      "duration": 4.0,
+      "offset": 850.88,
+      "lang": "en"
+    },
+    {
+      "text": "it. Um but I do find there&#39;s kind of",
+      "duration": 4.4,
+      "offset": 852.8,
+      "lang": "en"
+    },
+    {
+      "text": "like style bleeding. So, for example,",
+      "duration": 3.76,
+      "offset": 854.88,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s say I like like the quality and",
+      "duration": 3.04,
+      "offset": 857.2,
+      "lang": "en"
+    },
+    {
+      "text": "the colors of this image. If I like a",
+      "duration": 3.28,
+      "offset": 858.64,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of images that look like this, I",
+      "duration": 4.32,
+      "offset": 860.24,
+      "lang": "en"
+    },
+    {
+      "text": "might get a heavily influenced style",
+      "duration": 5.04,
+      "offset": 861.92,
+      "lang": "en"
+    },
+    {
+      "text": "that like wants to be painted",
+      "duration": 4.24,
+      "offset": 864.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; or wants to be like this like vintage or",
+      "duration": 3.44,
+      "offset": 866.96,
+      "lang": "en"
+    },
+    {
+      "text": "renaissance, whatever aesthetic.",
+      "duration": 3.36,
+      "offset": 868.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, that&#39;s something to consider as",
+      "duration": 3.12,
+      "offset": 870.4,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going through this. One thing I",
+      "duration": 3.36,
+      "offset": 872.16,
+      "lang": "en"
+    },
+    {
+      "text": "want to call out for folks um that is a",
+      "duration": 3.84,
+      "offset": 873.52,
+      "lang": "en"
+    },
+    {
+      "text": "little bit of a side of this this",
+      "duration": 4.24,
+      "offset": 875.52,
+      "lang": "en"
+    },
+    {
+      "text": "particular flow, which is when you&#39;re",
+      "duration": 6.4,
+      "offset": 877.36,
+      "lang": "en"
+    },
+    {
+      "text": "building an AI tool yourself, I have I",
+      "duration": 6.4,
+      "offset": 879.76,
+      "lang": "en"
+    },
+    {
+      "text": "have not seen this like this or that",
+      "duration": 5.12,
+      "offset": 883.76,
+      "lang": "en"
+    },
+    {
+      "text": "personalization flow in a lot of AI",
+      "duration": 5.2,
+      "offset": 886.16,
+      "lang": "en"
+    },
+    {
+      "text": "tools. And I think it&#39;s such a good way",
+      "duration": 5.84,
+      "offset": 888.88,
+      "lang": "en"
+    },
+    {
+      "text": "to like fine-tune whatever you&#39;re going",
+      "duration": 6.24,
+      "offset": 891.36,
+      "lang": "en"
+    },
+    {
+      "text": "to provide to your end user. And so a",
+      "duration": 4.72,
+      "offset": 894.72,
+      "lang": "en"
+    },
+    {
+      "text": "lot of times we get these like end AB",
+      "duration": 5.04,
+      "offset": 897.6,
+      "lang": "en"
+    },
+    {
+      "text": "tests and like a Chad GBT prompt, but",
+      "duration": 4.56,
+      "offset": 899.44,
+      "lang": "en"
+    },
+    {
+      "text": "this is so interesting to kind of put",
+      "duration": 2.64,
+      "offset": 902.64,
+      "lang": "en"
+    },
+    {
+      "text": "this up front and say, &quot;Okay, let&#39;s",
+      "duration": 3.36,
+      "offset": 904.0,
+      "lang": "en"
+    },
+    {
+      "text": "spend five minutes telling me what you",
+      "duration": 4.16,
+      "offset": 905.28,
+      "lang": "en"
+    },
+    {
+      "text": "like. Then",
+      "duration": 3.84,
+      "offset": 907.36,
+      "lang": "en"
+    },
+    {
+      "text": "we can be more confident that when you",
+      "duration": 3.76,
+      "offset": 909.44,
+      "lang": "en"
+    },
+    {
+      "text": "have downstream experience in my in my",
+      "duration": 3.28,
+      "offset": 911.2,
+      "lang": "en"
+    },
+    {
+      "text": "AI tool, it&#39;s going to look great.&quot;",
+      "duration": 2.72,
+      "offset": 913.2,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. And you can create as many I&#39;ve",
+      "duration": 3.12,
+      "offset": 914.48,
+      "lang": "en"
+    },
+    {
+      "text": "never again I have not used mood boards",
+      "duration": 3.6,
+      "offset": 915.92,
+      "lang": "en"
+    },
+    {
+      "text": "or personalized. I&#39;m just like yolo up",
+      "duration": 2.64,
+      "offset": 917.6,
+      "lang": "en"
+    },
+    {
+      "text": "in the",
+      "duration": 2.24,
+      "offset": 919.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; in the main chat. So and you can create",
+      "duration": 3.76,
+      "offset": 920.24,
+      "lang": "en"
+    },
+    {
+      "text": "as many of these as you want",
+      "duration": 5.12,
+      "offset": 921.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; um to to use. Cool. Yeah, unfortunately",
+      "duration": 4.64,
+      "offset": 924.0,
+      "lang": "en"
+    },
+    {
+      "text": "you can&#39;t like go in and like edit them",
+      "duration": 3.12,
+      "offset": 926.88,
+      "lang": "en"
+    },
+    {
+      "text": "the same way that you can with mood",
+      "duration": 2.8,
+      "offset": 928.64,
+      "lang": "en"
+    },
+    {
+      "text": "boards, which is why you got to be good",
+      "duration": 3.28,
+      "offset": 930.0,
+      "lang": "en"
+    },
+    {
+      "text": "at like naming and trying to understand",
+      "duration": 3.44,
+      "offset": 931.44,
+      "lang": "en"
+    },
+    {
+      "text": "like what you were doing six months ago",
+      "duration": 4.48,
+      "offset": 933.28,
+      "lang": "en"
+    },
+    {
+      "text": "when you spent two hours ranking images.",
+      "duration": 6.0,
+      "offset": 934.88,
+      "lang": "en"
+    },
+    {
+      "text": "Um, but I have my own crazy system.",
+      "duration": 4.8,
+      "offset": 937.76,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s just a quick brief on like what",
+      "duration": 3.36,
+      "offset": 940.88,
+      "lang": "en"
+    },
+    {
+      "text": "personation codes are. So, what I",
+      "duration": 3.52,
+      "offset": 942.56,
+      "lang": "en"
+    },
+    {
+      "text": "started to do, let me go back to these",
+      "duration": 3.68,
+      "offset": 944.24,
+      "lang": "en"
+    },
+    {
+      "text": "like other images. I I just felt like",
+      "duration": 5.76,
+      "offset": 946.08,
+      "lang": "en"
+    },
+    {
+      "text": "these could use more of my own style and",
+      "duration": 6.32,
+      "offset": 947.92,
+      "lang": "en"
+    },
+    {
+      "text": "I felt that they were a little bit",
+      "duration": 5.12,
+      "offset": 951.84,
+      "lang": "en"
+    },
+    {
+      "text": "overstylized. Like I do enjoy the pink,",
+      "duration": 4.8,
+      "offset": 954.24,
+      "lang": "en"
+    },
+    {
+      "text": "but I was curious to see if like maybe",
+      "duration": 4.4,
+      "offset": 956.96,
+      "lang": "en"
+    },
+    {
+      "text": "we can get some like other influences in",
+      "duration": 5.12,
+      "offset": 959.04,
+      "lang": "en"
+    },
+    {
+      "text": "there. So by adding my personalization",
+      "duration": 4.8,
+      "offset": 961.36,
+      "lang": "en"
+    },
+    {
+      "text": "code, I was able to just get like more",
+      "duration": 5.2,
+      "offset": 964.16,
+      "lang": "en"
+    },
+    {
+      "text": "of a depth, I would say. Also, because I",
+      "duration": 6.32,
+      "offset": 966.16,
+      "lang": "en"
+    },
+    {
+      "text": "wanted it to be like very crisp and like",
+      "duration": 6.0,
+      "offset": 969.36,
+      "lang": "en"
+    },
+    {
+      "text": "modern, you know, um you start to see",
+      "duration": 4.96,
+      "offset": 972.48,
+      "lang": "en"
+    },
+    {
+      "text": "like better skin.",
+      "duration": 5.44,
+      "offset": 975.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That one to me looks like very a good",
+      "duration": 4.88,
+      "offset": 977.44,
+      "lang": "en"
+    },
+    {
+      "text": "match for some of your earlier ones.",
+      "duration": 2.96,
+      "offset": 980.8,
+      "lang": "en"
+    },
+    {
+      "text": "That one&#39;s the one that stands out to",
+      "duration": 1.92,
+      "offset": 982.32,
+      "lang": "en"
+    },
+    {
+      "text": "me.",
+      "duration": 2.24,
+      "offset": 983.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I mean, it&#39;s kind of it&#39;s it&#39;s nuanced,",
+      "duration": 3.92,
+      "offset": 984.24,
+      "lang": "en"
+    },
+    {
+      "text": "but I&#39;m liking where this is going now.",
+      "duration": 3.92,
+      "offset": 986.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Well done. And side note, it&#39;s just you",
+      "duration": 3.36,
+      "offset": 988.16,
+      "lang": "en"
+    },
+    {
+      "text": "and me and little astronauts in the",
+      "duration": 2.64,
+      "offset": 989.92,
+      "lang": "en"
+    },
+    {
+      "text": "middle.",
+      "duration": 2.8,
+      "offset": 991.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 2.96,
+      "offset": 992.56,
+      "lang": "en"
+    },
+    {
+      "text": "Yeah.",
+      "duration": 3.92,
+      "offset": 994.32,
+      "lang": "en"
+    },
+    {
+      "text": "So you are combining some of your style",
+      "duration": 5.76,
+      "offset": 995.52,
+      "lang": "en"
+    },
+    {
+      "text": "refs and this like personalization",
+      "duration": 4.8,
+      "offset": 998.24,
+      "lang": "en"
+    },
+    {
+      "text": "model on top of each other. You&#39;re",
+      "duration": 3.76,
+      "offset": 1001.28,
+      "lang": "en"
+    },
+    {
+      "text": "getting way closer to what you want in",
+      "duration": 3.28,
+      "offset": 1003.04,
+      "lang": "en"
+    },
+    {
+      "text": "terms of iteration.",
+      "duration": 3.44,
+      "offset": 1005.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So how do we take this to the next step?",
+      "duration": 3.76,
+      "offset": 1006.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So I want to show you guys some",
+      "duration": 3.68,
+      "offset": 1008.48,
+      "lang": "en"
+    },
+    {
+      "text": "like of the other midjourney techniques",
+      "duration": 5.2,
+      "offset": 1010.08,
+      "lang": "en"
+    },
+    {
+      "text": "and ways um again to like start",
+      "duration": 5.28,
+      "offset": 1012.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompting and kind of like upping the",
+      "duration": 3.92,
+      "offset": 1015.28,
+      "lang": "en"
+    },
+    {
+      "text": "ante on like what we&#39;re making. So as",
+      "duration": 3.12,
+      "offset": 1017.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can see here, these prompts are no",
+      "duration": 3.28,
+      "offset": 1019.2,
+      "lang": "en"
+    },
+    {
+      "text": "longer just like woman or astronaut. are",
+      "duration": 3.52,
+      "offset": 1020.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually starting to give some like",
+      "duration": 3.36,
+      "offset": 1022.48,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic thought. So, one prompt, I",
+      "duration": 3.12,
+      "offset": 1024.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually found this on like the explore",
+      "duration": 3.28,
+      "offset": 1025.84,
+      "lang": "en"
+    },
+    {
+      "text": "page a couple weeks ago. Um, but it&#39;s",
+      "duration": 4.32,
+      "offset": 1027.2,
+      "lang": "en"
+    },
+    {
+      "text": "days editorial photo shoot. So, days is",
+      "duration": 4.88,
+      "offset": 1029.12,
+      "lang": "en"
+    },
+    {
+      "text": "like this really hip magazine if you&#39;re",
+      "duration": 4.4,
+      "offset": 1031.52,
+      "lang": "en"
+    },
+    {
+      "text": "not familiar. So, doing stuff like that,",
+      "duration": 3.6,
+      "offset": 1034.0,
+      "lang": "en"
+    },
+    {
+      "text": "like mentioning like Vogue or high",
+      "duration": 3.76,
+      "offset": 1035.92,
+      "lang": "en"
+    },
+    {
+      "text": "fashion or even like a different artist",
+      "duration": 5.44,
+      "offset": 1037.6,
+      "lang": "en"
+    },
+    {
+      "text": "name is again a great way kind of in the",
+      "duration": 4.72,
+      "offset": 1039.68,
+      "lang": "en"
+    },
+    {
+      "text": "same line of like a picture is worth a",
+      "duration": 3.68,
+      "offset": 1043.04,
+      "lang": "en"
+    },
+    {
+      "text": "thousand words to tell the model a ton",
+      "duration": 3.68,
+      "offset": 1044.4,
+      "lang": "en"
+    },
+    {
+      "text": "of stuff without actually having to tell",
+      "duration": 3.52,
+      "offset": 1046.72,
+      "lang": "en"
+    },
+    {
+      "text": "a ton of stuff. So with like a day&#39;s",
+      "duration": 4.4,
+      "offset": 1048.08,
+      "lang": "en"
+    },
+    {
+      "text": "editorial is like a really famous like",
+      "duration": 4.88,
+      "offset": 1050.24,
+      "lang": "en"
+    },
+    {
+      "text": "ASAP rocky cover. Um it&#39;s like super",
+      "duration": 5.28,
+      "offset": 1052.48,
+      "lang": "en"
+    },
+    {
+      "text": "gritty, high contrast, all these words",
+      "duration": 4.64,
+      "offset": 1055.12,
+      "lang": "en"
+    },
+    {
+      "text": "that like are really hard to find even",
+      "duration": 2.96,
+      "offset": 1057.76,
+      "lang": "en"
+    },
+    {
+      "text": "if you are like a professional",
+      "duration": 2.56,
+      "offset": 1059.76,
+      "lang": "en"
+    },
+    {
+      "text": "photographer. But when you just say days",
+      "duration": 3.36,
+      "offset": 1060.72,
+      "lang": "en"
+    },
+    {
+      "text": "editorial depending on how like famous",
+      "duration": 3.84,
+      "offset": 1062.32,
+      "lang": "en"
+    },
+    {
+      "text": "the publication is mid is going to know",
+      "duration": 4.64,
+      "offset": 1064.08,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re talking about or you know uh",
+      "duration": 4.96,
+      "offset": 1066.16,
+      "lang": "en"
+    },
+    {
+      "text": "Vogue especially it&#39;s going to know kind",
+      "duration": 4.24,
+      "offset": 1068.72,
+      "lang": "en"
+    },
+    {
+      "text": "of like the level of the highlights and",
+      "duration": 3.28,
+      "offset": 1071.12,
+      "lang": "en"
+    },
+    {
+      "text": "okay we&#39;re going to be doing fashion",
+      "duration": 3.04,
+      "offset": 1072.96,
+      "lang": "en"
+    },
+    {
+      "text": "stuff. So I love doing that. Same thing",
+      "duration": 3.76,
+      "offset": 1074.4,
+      "lang": "en"
+    },
+    {
+      "text": "with the word editorial. In this case, I",
+      "duration": 4.8,
+      "offset": 1076.0,
+      "lang": "en"
+    },
+    {
+      "text": "say a woman a woman in her mid20s deep",
+      "duration": 5.84,
+      "offset": 1078.16,
+      "lang": "en"
+    },
+    {
+      "text": "in thought up close macro photo. So, not",
+      "duration": 5.44,
+      "offset": 1080.8,
+      "lang": "en"
+    },
+    {
+      "text": "the most crazy prompt. I think everybody",
+      "duration": 4.8,
+      "offset": 1084.0,
+      "lang": "en"
+    },
+    {
+      "text": "knows what a macro photo is. Up close is",
+      "duration": 4.72,
+      "offset": 1086.24,
+      "lang": "en"
+    },
+    {
+      "text": "not like, you know, center frame zoomed",
+      "duration": 4.08,
+      "offset": 1088.8,
+      "lang": "en"
+    },
+    {
+      "text": "in. It&#39;s very human language that I&#39;m",
+      "duration": 3.84,
+      "offset": 1090.96,
+      "lang": "en"
+    },
+    {
+      "text": "using. Um, so what I did for this prompt",
+      "duration": 5.12,
+      "offset": 1092.88,
+      "lang": "en"
+    },
+    {
+      "text": "is I wanted it to really have the vibe",
+      "duration": 5.52,
+      "offset": 1094.8,
+      "lang": "en"
+    },
+    {
+      "text": "of this original SRF we have here. I",
+      "duration": 3.36,
+      "offset": 1098.0,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to make sure it was like the same",
+      "duration": 2.72,
+      "offset": 1100.32,
+      "lang": "en"
+    },
+    {
+      "text": "composition. So, what I did is I used an",
+      "duration": 4.32,
+      "offset": 1101.36,
+      "lang": "en"
+    },
+    {
+      "text": "image reference. Image references are",
+      "duration": 6.0,
+      "offset": 1103.04,
+      "lang": "en"
+    },
+    {
+      "text": "kind of tricky because definitionally",
+      "duration": 5.6,
+      "offset": 1105.68,
+      "lang": "en"
+    },
+    {
+      "text": "they just structure your composition,",
+      "duration": 5.12,
+      "offset": 1109.04,
+      "lang": "en"
+    },
+    {
+      "text": "but a lot of the times like the",
+      "duration": 4.24,
+      "offset": 1111.28,
+      "lang": "en"
+    },
+    {
+      "text": "structure of an image and the",
+      "duration": 4.56,
+      "offset": 1114.16,
+      "lang": "en"
+    },
+    {
+      "text": "composition kind of is the style. So I",
+      "duration": 4.96,
+      "offset": 1115.52,
+      "lang": "en"
+    },
+    {
+      "text": "kind of don&#39;t like to separate style",
+      "duration": 3.68,
+      "offset": 1118.72,
+      "lang": "en"
+    },
+    {
+      "text": "references and image references. If you",
+      "duration": 4.08,
+      "offset": 1120.48,
+      "lang": "en"
+    },
+    {
+      "text": "have a woman posing like really sexily",
+      "duration": 3.84,
+      "offset": 1122.4,
+      "lang": "en"
+    },
+    {
+      "text": "and you use that as an image prompt,",
+      "duration": 3.68,
+      "offset": 1124.56,
+      "lang": "en"
+    },
+    {
+      "text": "that stylistically is going to influence",
+      "duration": 3.52,
+      "offset": 1126.24,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of what&#39;s happening in your image.",
+      "duration": 3.44,
+      "offset": 1128.24,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to immediately be more",
+      "duration": 5.76,
+      "offset": 1129.76,
+      "lang": "en"
+    },
+    {
+      "text": "editorial or sensual, etc. But anyway, I",
+      "duration": 5.28,
+      "offset": 1131.68,
+      "lang": "en"
+    },
+    {
+      "text": "use this as an image reference cuz I",
+      "duration": 3.6,
+      "offset": 1135.52,
+      "lang": "en"
+    },
+    {
+      "text": "want that profile. But obviously, as you",
+      "duration": 4.64,
+      "offset": 1136.96,
+      "lang": "en"
+    },
+    {
+      "text": "can tell, we&#39;re getting immediately,",
+      "duration": 4.08,
+      "offset": 1139.12,
+      "lang": "en"
+    },
+    {
+      "text": "which I don&#39;t hate some of these, but my",
+      "duration": 3.68,
+      "offset": 1141.6,
+      "lang": "en"
+    },
+    {
+      "text": "intention was uh more of like a thinking",
+      "duration": 4.16,
+      "offset": 1143.2,
+      "lang": "en"
+    },
+    {
+      "text": "photo. So, what I did is I literally",
+      "duration": 3.44,
+      "offset": 1145.28,
+      "lang": "en"
+    },
+    {
+      "text": "just zoomed in like in the mid journey",
+      "duration": 4.64,
+      "offset": 1147.36,
+      "lang": "en"
+    },
+    {
+      "text": "UI. I cropped it",
+      "duration": 5.68,
+      "offset": 1148.72,
+      "lang": "en"
+    },
+    {
+      "text": "and then I just like dragged it back in",
+      "duration": 5.36,
+      "offset": 1152.0,
+      "lang": "en"
+    },
+    {
+      "text": "and then I ran the prompt again and then",
+      "duration": 5.92,
+      "offset": 1154.4,
+      "lang": "en"
+    },
+    {
+      "text": "we got something very similar to what we",
+      "duration": 4.24,
+      "offset": 1157.36,
+      "lang": "en"
+    },
+    {
+      "text": "were working with here. Especially in",
+      "duration": 4.4,
+      "offset": 1160.32,
+      "lang": "en"
+    },
+    {
+      "text": "terms of like image quality, the colors",
+      "duration": 4.8,
+      "offset": 1161.6,
+      "lang": "en"
+    },
+    {
+      "text": "um for better or worse. It&#39;s also kind",
+      "duration": 3.12,
+      "offset": 1164.72,
+      "lang": "en"
+    },
+    {
+      "text": "of like mimicking her like bone",
+      "duration": 3.68,
+      "offset": 1166.4,
+      "lang": "en"
+    },
+    {
+      "text": "structure. Um especially this one you",
+      "duration": 3.36,
+      "offset": 1167.84,
+      "lang": "en"
+    },
+    {
+      "text": "can see like we have like these",
+      "duration": 4.0,
+      "offset": 1170.08,
+      "lang": "en"
+    },
+    {
+      "text": "contours. So image references will give",
+      "duration": 5.2,
+      "offset": 1171.2,
+      "lang": "en"
+    },
+    {
+      "text": "you a lot in terms of style. One thing I",
+      "duration": 3.6,
+      "offset": 1174.08,
+      "lang": "en"
+    },
+    {
+      "text": "want to call out that I&#39;ve noticed in",
+      "duration": 3.2,
+      "offset": 1176.4,
+      "lang": "en"
+    },
+    {
+      "text": "two year flows is on the we&#39;re getting",
+      "duration": 4.64,
+      "offset": 1177.68,
+      "lang": "en"
+    },
+    {
+      "text": "too much green. There was just such a",
+      "duration": 4.96,
+      "offset": 1179.6,
+      "lang": "en"
+    },
+    {
+      "text": "compelling element in that green",
+      "duration": 4.16,
+      "offset": 1182.32,
+      "lang": "en"
+    },
+    {
+      "text": "eyeshadow photo, which was like half of",
+      "duration": 3.84,
+      "offset": 1184.56,
+      "lang": "en"
+    },
+    {
+      "text": "the eye was just very green. It was",
+      "duration": 4.24,
+      "offset": 1186.48,
+      "lang": "en"
+    },
+    {
+      "text": "clearly the most obvious thing about the",
+      "duration": 4.88,
+      "offset": 1188.4,
+      "lang": "en"
+    },
+    {
+      "text": "photo. And with this image, the most",
+      "duration": 4.96,
+      "offset": 1190.72,
+      "lang": "en"
+    },
+    {
+      "text": "obvious thing about the photo is she&#39;s",
+      "duration": 6.32,
+      "offset": 1193.28,
+      "lang": "en"
+    },
+    {
+      "text": "blowing a a bubble of gum. And so what I",
+      "duration": 5.52,
+      "offset": 1195.68,
+      "lang": "en"
+    },
+    {
+      "text": "like is in both of those you&#39;re like",
+      "duration": 4.8,
+      "offset": 1199.6,
+      "lang": "en"
+    },
+    {
+      "text": "just boot the thing that is so obvious",
+      "duration": 4.72,
+      "offset": 1201.2,
+      "lang": "en"
+    },
+    {
+      "text": "and so overwhelming. And you can either",
+      "duration": 3.44,
+      "offset": 1204.4,
+      "lang": "en"
+    },
+    {
+      "text": "do that by kicking out the image or you",
+      "duration": 4.4,
+      "offset": 1205.92,
+      "lang": "en"
+    },
+    {
+      "text": "could do that by cropping out um the",
+      "duration": 5.12,
+      "offset": 1207.84,
+      "lang": "en"
+    },
+    {
+      "text": "part of the image that is pulling the",
+      "duration": 4.72,
+      "offset": 1210.32,
+      "lang": "en"
+    },
+    {
+      "text": "rest of the generations down. So that&#39;s",
+      "duration": 3.36,
+      "offset": 1212.96,
+      "lang": "en"
+    },
+    {
+      "text": "a really clever technique. And I love",
+      "duration": 2.72,
+      "offset": 1215.04,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;re just like like I&#39;m just",
+      "duration": 2.96,
+      "offset": 1216.32,
+      "lang": "en"
+    },
+    {
+      "text": "going to screenshot and drag it over.",
+      "duration": 3.6,
+      "offset": 1217.76,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not going to like try to prompt it",
+      "duration": 4.24,
+      "offset": 1219.28,
+      "lang": "en"
+    },
+    {
+      "text": "to say like remove the bubble gum or",
+      "duration": 2.96,
+      "offset": 1221.36,
+      "lang": "en"
+    },
+    {
+      "text": "whatever.",
+      "duration": 2.8,
+      "offset": 1223.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Oh my god. you will spend all day",
+      "duration": 3.6,
+      "offset": 1224.32,
+      "lang": "en"
+    },
+    {
+      "text": "in majourney. You know, even if you&#39;re",
+      "duration": 3.92,
+      "offset": 1226.32,
+      "lang": "en"
+    },
+    {
+      "text": "using like something you can do is like",
+      "duration": 4.24,
+      "offset": 1227.92,
+      "lang": "en"
+    },
+    {
+      "text": "the no feature and you can say no bubble",
+      "duration": 4.8,
+      "offset": 1230.24,
+      "lang": "en"
+    },
+    {
+      "text": "gum. Um, you know, you can try and like",
+      "duration": 5.28,
+      "offset": 1232.16,
+      "lang": "en"
+    },
+    {
+      "text": "say like lips are showing. Sometimes",
+      "duration": 4.32,
+      "offset": 1235.04,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll work. Most of the time it won&#39;t.",
+      "duration": 4.16,
+      "offset": 1237.44,
+      "lang": "en"
+    },
+    {
+      "text": "If you really want to get specific, you",
+      "duration": 4.16,
+      "offset": 1239.36,
+      "lang": "en"
+    },
+    {
+      "text": "could take this into Nano Banana and say",
+      "duration": 4.08,
+      "offset": 1241.6,
+      "lang": "en"
+    },
+    {
+      "text": "like remove her bubble gum, but I don&#39;t",
+      "duration": 3.76,
+      "offset": 1243.52,
+      "lang": "en"
+    },
+    {
+      "text": "think it&#39;s going to get",
+      "duration": 2.48,
+      "offset": 1245.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Well, that&#39;s what I was going to say.",
+      "duration": 1.92,
+      "offset": 1247.28,
+      "lang": "en"
+    },
+    {
+      "text": "And I know we&#39;re going to get to Nano",
+      "duration": 2.64,
+      "offset": 1248.16,
+      "lang": "en"
+    },
+    {
+      "text": "Banana in a minute, but then also if you",
+      "duration": 3.28,
+      "offset": 1249.2,
+      "lang": "en"
+    },
+    {
+      "text": "move it into Nano Banana, you are going",
+      "duration": 4.64,
+      "offset": 1250.8,
+      "lang": "en"
+    },
+    {
+      "text": "to wait like 45 minutes for that photo",
+      "duration": 4.08,
+      "offset": 1252.48,
+      "lang": "en"
+    },
+    {
+      "text": "to come back",
+      "duration": 3.2,
+      "offset": 1255.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; and like waste a bunch of credits and",
+      "duration": 3.6,
+      "offset": 1256.56,
+      "lang": "en"
+    },
+    {
+      "text": "stuff that you just don&#39;t need, right,",
+      "duration": 3.04,
+      "offset": 1258.64,
+      "lang": "en"
+    },
+    {
+      "text": "to do this.",
+      "duration": 2.8,
+      "offset": 1260.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, that&#39;s another thing too, like",
+      "duration": 3.84,
+      "offset": 1261.68,
+      "lang": "en"
+    },
+    {
+      "text": "avoid doing all this SRF and this like",
+      "duration": 5.44,
+      "offset": 1262.96,
+      "lang": "en"
+    },
+    {
+      "text": "this um the profile codes. I I don&#39;t",
+      "duration": 5.76,
+      "offset": 1265.52,
+      "lang": "en"
+    },
+    {
+      "text": "have to prompt like 2025 aesthetic uh",
+      "duration": 4.64,
+      "offset": 1268.4,
+      "lang": "en"
+    },
+    {
+      "text": "you know, like modelesque. like it",
+      "duration": 3.44,
+      "offset": 1271.28,
+      "lang": "en"
+    },
+    {
+      "text": "already knows that I&#39;m going to have",
+      "duration": 3.12,
+      "offset": 1273.04,
+      "lang": "en"
+    },
+    {
+      "text": "like a very conventionally attractive",
+      "duration": 4.08,
+      "offset": 1274.72,
+      "lang": "en"
+    },
+    {
+      "text": "blonde woman because I gave it a",
+      "duration": 4.32,
+      "offset": 1276.16,
+      "lang": "en"
+    },
+    {
+      "text": "conventionally attractive blonde woman.",
+      "duration": 3.36,
+      "offset": 1278.8,
+      "lang": "en"
+    },
+    {
+      "text": "Um or vice versa. I don&#39;t have to type",
+      "duration": 3.2,
+      "offset": 1280.48,
+      "lang": "en"
+    },
+    {
+      "text": "in the colors and the grading every",
+      "duration": 2.8,
+      "offset": 1282.16,
+      "lang": "en"
+    },
+    {
+      "text": "time. I don&#39;t have to do those horrible",
+      "duration": 3.68,
+      "offset": 1283.68,
+      "lang": "en"
+    },
+    {
+      "text": "JSON prompts that no one can use. Um so",
+      "duration": 5.52,
+      "offset": 1284.96,
+      "lang": "en"
+    },
+    {
+      "text": "this is like the laziest way ever",
+      "duration": 5.84,
+      "offset": 1287.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; to do prompting. Okay, let&#39;s go into",
+      "duration": 5.6,
+      "offset": 1290.48,
+      "lang": "en"
+    },
+    {
+      "text": "some like more specifically prompting my",
+      "duration": 5.6,
+      "offset": 1293.2,
+      "lang": "en"
+    },
+    {
+      "text": "arch nemesis. So, one thing I wanted to",
+      "duration": 5.2,
+      "offset": 1296.08,
+      "lang": "en"
+    },
+    {
+      "text": "do, um, again, I like the juxosition of",
+      "duration": 4.0,
+      "offset": 1298.8,
+      "lang": "en"
+    },
+    {
+      "text": "like the images on the original mood",
+      "duration": 3.04,
+      "offset": 1301.28,
+      "lang": "en"
+    },
+    {
+      "text": "board. I thought it might be fun to have",
+      "duration": 3.6,
+      "offset": 1302.8,
+      "lang": "en"
+    },
+    {
+      "text": "like a deer in a New York City apartment",
+      "duration": 3.36,
+      "offset": 1304.32,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like bringing like the forest",
+      "duration": 3.28,
+      "offset": 1306.4,
+      "lang": "en"
+    },
+    {
+      "text": "into the city and that could be cute. I",
+      "duration": 4.0,
+      "offset": 1307.68,
+      "lang": "en"
+    },
+    {
+      "text": "got these images like they&#39;re definitely",
+      "duration": 6.0,
+      "offset": 1309.68,
+      "lang": "en"
+    },
+    {
+      "text": "on par in terms of like general style,",
+      "duration": 5.76,
+      "offset": 1311.68,
+      "lang": "en"
+    },
+    {
+      "text": "but I was kind of missing like the New",
+      "duration": 4.32,
+      "offset": 1315.68,
+      "lang": "en"
+    },
+    {
+      "text": "York aspect of it. So instead of like",
+      "duration": 4.4,
+      "offset": 1317.44,
+      "lang": "en"
+    },
+    {
+      "text": "going and maybe finding like a New York",
+      "duration": 4.16,
+      "offset": 1320.0,
+      "lang": "en"
+    },
+    {
+      "text": "City esph or like finding an image of an",
+      "duration": 4.48,
+      "offset": 1321.84,
+      "lang": "en"
+    },
+    {
+      "text": "apartment um and putting it as an image",
+      "duration": 3.76,
+      "offset": 1324.16,
+      "lang": "en"
+    },
+    {
+      "text": "reference, which potentially could have",
+      "duration": 3.52,
+      "offset": 1326.32,
+      "lang": "en"
+    },
+    {
+      "text": "worked, this is one time that I do",
+      "duration": 4.56,
+      "offset": 1327.92,
+      "lang": "en"
+    },
+    {
+      "text": "actually do some prompting. So all I",
+      "duration": 5.28,
+      "offset": 1329.84,
+      "lang": "en"
+    },
+    {
+      "text": "said was like New York skyline can be",
+      "duration": 5.28,
+      "offset": 1332.48,
+      "lang": "en"
+    },
+    {
+      "text": "seen in the window behind it. So again,",
+      "duration": 4.8,
+      "offset": 1335.12,
+      "lang": "en"
+    },
+    {
+      "text": "not doing anything super crazy with the",
+      "duration": 4.32,
+      "offset": 1337.76,
+      "lang": "en"
+    },
+    {
+      "text": "language. I&#39;m literally just saying what",
+      "duration": 4.64,
+      "offset": 1339.92,
+      "lang": "en"
+    },
+    {
+      "text": "I want to see. Um another example, I",
+      "duration": 3.84,
+      "offset": 1342.08,
+      "lang": "en"
+    },
+    {
+      "text": "thought the pink couch was a little bit",
+      "duration": 4.56,
+      "offset": 1344.56,
+      "lang": "en"
+    },
+    {
+      "text": "too fantastical. So instead, I just said",
+      "duration": 5.76,
+      "offset": 1345.92,
+      "lang": "en"
+    },
+    {
+      "text": "on a matte black leather couch. And now",
+      "duration": 4.4,
+      "offset": 1349.12,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re starting to get We know it&#39;s in",
+      "duration": 4.32,
+      "offset": 1351.68,
+      "lang": "en"
+    },
+    {
+      "text": "New York. It&#39;s a little bit more kind of",
+      "duration": 4.72,
+      "offset": 1353.52,
+      "lang": "en"
+    },
+    {
+      "text": "like realistic, I guess. Couple other",
+      "duration": 5.68,
+      "offset": 1356.0,
+      "lang": "en"
+    },
+    {
+      "text": "things I tried was uh I said at night, I",
+      "duration": 4.8,
+      "offset": 1358.24,
+      "lang": "en"
+    },
+    {
+      "text": "think it&#39;s kind of giving me at night,",
+      "duration": 4.24,
+      "offset": 1361.68,
+      "lang": "en"
+    },
+    {
+      "text": "maybe sunset vibes. And then one the",
+      "duration": 6.08,
+      "offset": 1363.04,
+      "lang": "en"
+    },
+    {
+      "text": "craziest I&#39;ll ever get is I have a list",
+      "duration": 5.28,
+      "offset": 1365.92,
+      "lang": "en"
+    },
+    {
+      "text": "uh this is included in my course of like",
+      "duration": 4.48,
+      "offset": 1369.12,
+      "lang": "en"
+    },
+    {
+      "text": "all these different cameras. Um, so I",
+      "duration": 4.48,
+      "offset": 1371.2,
+      "lang": "en"
+    },
+    {
+      "text": "have like DSLR, I have mirrorless, I",
+      "duration": 3.76,
+      "offset": 1373.6,
+      "lang": "en"
+    },
+    {
+      "text": "have digital, I have film as kind of",
+      "duration": 4.48,
+      "offset": 1375.68,
+      "lang": "en"
+    },
+    {
+      "text": "like quick shortcuts. Um, because that&#39;s",
+      "duration": 4.0,
+      "offset": 1377.36,
+      "lang": "en"
+    },
+    {
+      "text": "really hard to remember all them and the",
+      "duration": 2.64,
+      "offset": 1380.16,
+      "lang": "en"
+    },
+    {
+      "text": "aperture and stuff. I barely know what",
+      "duration": 3.92,
+      "offset": 1381.36,
+      "lang": "en"
+    },
+    {
+      "text": "aperture means. Um, so sometimes when I",
+      "duration": 5.04,
+      "offset": 1382.8,
+      "lang": "en"
+    },
+    {
+      "text": "just want to try changing up the vibe or",
+      "duration": 4.56,
+      "offset": 1385.28,
+      "lang": "en"
+    },
+    {
+      "text": "make things more realistic, um, make",
+      "duration": 3.52,
+      "offset": 1387.84,
+      "lang": "en"
+    },
+    {
+      "text": "them have like a more 90s aesthetic,",
+      "duration": 4.0,
+      "offset": 1389.84,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll just paste in like a camera, um,",
+      "duration": 6.0,
+      "offset": 1391.36,
+      "lang": "en"
+    },
+    {
+      "text": "that mimics that. Um, so the Sony RX100,",
+      "duration": 5.04,
+      "offset": 1393.84,
+      "lang": "en"
+    },
+    {
+      "text": "I think I probably generated this with",
+      "duration": 3.76,
+      "offset": 1397.36,
+      "lang": "en"
+    },
+    {
+      "text": "like shot. I&#39;m assuming that this is a",
+      "duration": 4.16,
+      "offset": 1398.88,
+      "lang": "en"
+    },
+    {
+      "text": "&#39;90s digital camera. And this is kind of",
+      "duration": 3.2,
+      "offset": 1401.12,
+      "lang": "en"
+    },
+    {
+      "text": "like what I would consider the final",
+      "duration": 3.36,
+      "offset": 1403.04,
+      "lang": "en"
+    },
+    {
+      "text": "image. So, we know maybe the legs need",
+      "duration": 3.76,
+      "offset": 1404.32,
+      "lang": "en"
+    },
+    {
+      "text": "to be fixed, but we know it&#39;s in New",
+      "duration": 3.2,
+      "offset": 1406.4,
+      "lang": "en"
+    },
+    {
+      "text": "York. We can see it&#39;s in like a",
+      "duration": 3.76,
+      "offset": 1408.08,
+      "lang": "en"
+    },
+    {
+      "text": "high-rise. We have that couch. It&#39;s a",
+      "duration": 5.36,
+      "offset": 1409.6,
+      "lang": "en"
+    },
+    {
+      "text": "deer. Oh, another thing to to know what",
+      "duration": 5.52,
+      "offset": 1411.84,
+      "lang": "en"
+    },
+    {
+      "text": "the prompt is like saying luxury New",
+      "duration": 4.8,
+      "offset": 1414.96,
+      "lang": "en"
+    },
+    {
+      "text": "York City apartment. Uh, instead of",
+      "duration": 4.24,
+      "offset": 1417.36,
+      "lang": "en"
+    },
+    {
+      "text": "saying on the fourth floor of a",
+      "duration": 4.88,
+      "offset": 1419.76,
+      "lang": "en"
+    },
+    {
+      "text": "high-rise in a new post-war New York",
+      "duration": 5.2,
+      "offset": 1421.6,
+      "lang": "en"
+    },
+    {
+      "text": "City apartment, you just say luxury",
+      "duration": 4.72,
+      "offset": 1424.64,
+      "lang": "en"
+    },
+    {
+      "text": "because like everybody knows and the LM",
+      "duration": 5.12,
+      "offset": 1426.8,
+      "lang": "en"
+    },
+    {
+      "text": "knows or not the AI knows luxury is",
+      "duration": 4.32,
+      "offset": 1429.36,
+      "lang": "en"
+    },
+    {
+      "text": "going to be like a big metal wig thing",
+      "duration": 4.16,
+      "offset": 1431.92,
+      "lang": "en"
+    },
+    {
+      "text": "super high up and rich people live on",
+      "duration": 5.12,
+      "offset": 1433.68,
+      "lang": "en"
+    },
+    {
+      "text": "the top. So that one word luxury just",
+      "duration": 4.96,
+      "offset": 1436.08,
+      "lang": "en"
+    },
+    {
+      "text": "gives us everything that we need to know",
+      "duration": 4.56,
+      "offset": 1438.8,
+      "lang": "en"
+    },
+    {
+      "text": "about the scene which is very fun. What",
+      "duration": 4.0,
+      "offset": 1441.04,
+      "lang": "en"
+    },
+    {
+      "text": "is great about this particular prompt is",
+      "duration": 4.4,
+      "offset": 1443.36,
+      "lang": "en"
+    },
+    {
+      "text": "it reminds me of what Ravi in an earlier",
+      "duration": 5.6,
+      "offset": 1445.04,
+      "lang": "en"
+    },
+    {
+      "text": "episode did talking about midjourney for",
+      "duration": 5.2,
+      "offset": 1447.76,
+      "lang": "en"
+    },
+    {
+      "text": "um generating images again and he&#39;s like",
+      "duration": 4.4,
+      "offset": 1450.64,
+      "lang": "en"
+    },
+    {
+      "text": "you need the subject and you need the",
+      "duration": 3.76,
+      "offset": 1452.96,
+      "lang": "en"
+    },
+    {
+      "text": "setting and you need the style and so",
+      "duration": 3.76,
+      "offset": 1455.04,
+      "lang": "en"
+    },
+    {
+      "text": "you have the subject which is the deer,",
+      "duration": 3.84,
+      "offset": 1456.72,
+      "lang": "en"
+    },
+    {
+      "text": "you have the setting which is this",
+      "duration": 4.0,
+      "offset": 1458.8,
+      "lang": "en"
+    },
+    {
+      "text": "luxury apartment at night and you have",
+      "duration": 4.32,
+      "offset": 1460.56,
+      "lang": "en"
+    },
+    {
+      "text": "the style and he did a very similar",
+      "duration": 4.72,
+      "offset": 1462.8,
+      "lang": "en"
+    },
+    {
+      "text": "thing which is like cameras are cheat",
+      "duration": 5.76,
+      "offset": 1464.88,
+      "lang": "en"
+    },
+    {
+      "text": "codes for styling and again what I",
+      "duration": 4.48,
+      "offset": 1467.52,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate about what you&#39;re doing and",
+      "duration": 3.44,
+      "offset": 1470.64,
+      "lang": "en"
+    },
+    {
+      "text": "we love to here on how AI is everybody",
+      "duration": 3.68,
+      "offset": 1472.0,
+      "lang": "en"
+    },
+    {
+      "text": "just wants to be lazier with their",
+      "duration": 3.68,
+      "offset": 1474.08,
+      "lang": "en"
+    },
+    {
+      "text": "prompting. No one want I mean if you go",
+      "duration": 5.04,
+      "offset": 1475.68,
+      "lang": "en"
+    },
+    {
+      "text": "to the explore page on midjourney and",
+      "duration": 5.76,
+      "offset": 1477.76,
+      "lang": "en"
+    },
+    {
+      "text": "you look through people&#39;s prompts like",
+      "duration": 5.92,
+      "offset": 1480.72,
+      "lang": "en"
+    },
+    {
+      "text": "people need a job man like this is too",
+      "duration": 6.16,
+      "offset": 1483.52,
+      "lang": "en"
+    },
+    {
+      "text": "long [laughter] and so I love the idea",
+      "duration": 4.8,
+      "offset": 1486.64,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just trying to find shortcuts for",
+      "duration": 3.68,
+      "offset": 1489.68,
+      "lang": "en"
+    },
+    {
+      "text": "yourself to make these shorter and",
+      "duration": 3.44,
+      "offset": 1491.44,
+      "lang": "en"
+    },
+    {
+      "text": "shorter and shorter but still get the",
+      "duration": 3.6,
+      "offset": 1493.36,
+      "lang": "en"
+    },
+    {
+      "text": "same quality because you&#39;re generating a",
+      "duration": 3.76,
+      "offset": 1494.88,
+      "lang": "en"
+    },
+    {
+      "text": "lot a lot of images.",
+      "duration": 4.32,
+      "offset": 1496.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Oh yeah. Oh yeah. like sometimes like",
+      "duration": 4.56,
+      "offset": 1498.64,
+      "lang": "en"
+    },
+    {
+      "text": "thousands a day depending on what I&#39;m",
+      "duration": 3.68,
+      "offset": 1501.28,
+      "lang": "en"
+    },
+    {
+      "text": "doing. If I&#39;m lucky, I like nail things",
+      "duration": 3.84,
+      "offset": 1503.2,
+      "lang": "en"
+    },
+    {
+      "text": "really fast like like this aesthetic I",
+      "duration": 3.76,
+      "offset": 1504.96,
+      "lang": "en"
+    },
+    {
+      "text": "happen to get like very quickly. Um",
+      "duration": 3.6,
+      "offset": 1507.04,
+      "lang": "en"
+    },
+    {
+      "text": "whole point of it being 30 minutes. But",
+      "duration": 3.12,
+      "offset": 1508.72,
+      "lang": "en"
+    },
+    {
+      "text": "yeah, if you&#39;re trying to do something",
+      "duration": 3.6,
+      "offset": 1510.64,
+      "lang": "en"
+    },
+    {
+      "text": "that needs like a lot of different",
+      "duration": 4.4,
+      "offset": 1511.84,
+      "lang": "en"
+    },
+    {
+      "text": "aspects like I was doing a stock photo",
+      "duration": 4.88,
+      "offset": 1514.24,
+      "lang": "en"
+    },
+    {
+      "text": "project recently. I&#39;m doing like nature",
+      "duration": 4.56,
+      "offset": 1516.24,
+      "lang": "en"
+    },
+    {
+      "text": "stuff. I&#39;m doing people stuff. I&#39;m doing",
+      "duration": 4.24,
+      "offset": 1519.12,
+      "lang": "en"
+    },
+    {
+      "text": "skin. So like in this case like I can&#39;t",
+      "duration": 4.56,
+      "offset": 1520.8,
+      "lang": "en"
+    },
+    {
+      "text": "really have just like one mood board cuz",
+      "duration": 3.12,
+      "offset": 1523.36,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot of different things that",
+      "duration": 3.6,
+      "offset": 1525.36,
+      "lang": "en"
+    },
+    {
+      "text": "we need to do in terms of treatment. So,",
+      "duration": 5.2,
+      "offset": 1526.48,
+      "lang": "en"
+    },
+    {
+      "text": "like being able to get like super like",
+      "duration": 5.04,
+      "offset": 1528.96,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s prompt do I have here? Like CMYK",
+      "duration": 3.76,
+      "offset": 1531.68,
+      "lang": "en"
+    },
+    {
+      "text": "highlights for me has been a big one",
+      "duration": 3.76,
+      "offset": 1534.0,
+      "lang": "en"
+    },
+    {
+      "text": "that I&#39;ve been using. Deep blacks, high",
+      "duration": 4.4,
+      "offset": 1535.44,
+      "lang": "en"
+    },
+    {
+      "text": "contrast, and then we have just a really",
+      "duration": 4.0,
+      "offset": 1537.76,
+      "lang": "en"
+    },
+    {
+      "text": "powerful SRF which actually came from a",
+      "duration": 4.4,
+      "offset": 1539.84,
+      "lang": "en"
+    },
+    {
+      "text": "previous midjourney um generation I did",
+      "duration": 4.48,
+      "offset": 1541.76,
+      "lang": "en"
+    },
+    {
+      "text": "that day. And then we get all this like",
+      "duration": 3.76,
+      "offset": 1544.24,
+      "lang": "en"
+    },
+    {
+      "text": "cool stuff. I think yeah, the prompt&#39;s",
+      "duration": 3.68,
+      "offset": 1546.24,
+      "lang": "en"
+    },
+    {
+      "text": "experiencing music. So, we&#39;re starting",
+      "duration": 4.56,
+      "offset": 1548.0,
+      "lang": "en"
+    },
+    {
+      "text": "to see like ears and like you know maybe",
+      "duration": 4.72,
+      "offset": 1549.92,
+      "lang": "en"
+    },
+    {
+      "text": "body sensations. That&#39;s another tip too",
+      "duration": 4.48,
+      "offset": 1552.56,
+      "lang": "en"
+    },
+    {
+      "text": "is like when you&#39;re uh in especially the",
+      "duration": 3.76,
+      "offset": 1554.64,
+      "lang": "en"
+    },
+    {
+      "text": "create phase maybe even iterating phase",
+      "duration": 3.2,
+      "offset": 1557.04,
+      "lang": "en"
+    },
+    {
+      "text": "they kind of blend together sometimes",
+      "duration": 3.12,
+      "offset": 1558.4,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll literally if I&#39;m doing like a",
+      "duration": 2.96,
+      "offset": 1560.24,
+      "lang": "en"
+    },
+    {
+      "text": "startup deck or something like a VC deck",
+      "duration": 2.88,
+      "offset": 1561.52,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes I&#39;ll literally just like paste",
+      "duration": 2.48,
+      "offset": 1563.2,
+      "lang": "en"
+    },
+    {
+      "text": "in the sentence and just like see what",
+      "duration": 3.2,
+      "offset": 1564.4,
+      "lang": "en"
+    },
+    {
+      "text": "it gives me like the full sentence like",
+      "duration": 4.08,
+      "offset": 1565.68,
+      "lang": "en"
+    },
+    {
+      "text": "this is our business model just to get",
+      "duration": 3.92,
+      "offset": 1567.6,
+      "lang": "en"
+    },
+    {
+      "text": "me thinking just get the model thinking",
+      "duration": 3.28,
+      "offset": 1569.76,
+      "lang": "en"
+    },
+    {
+      "text": "um same thing like I&#39;ll just do like",
+      "duration": 4.88,
+      "offset": 1571.52,
+      "lang": "en"
+    },
+    {
+      "text": "financial markets really vague stuff um",
+      "duration": 5.52,
+      "offset": 1573.04,
+      "lang": "en"
+    },
+    {
+      "text": "mid journey is like very poetic I would",
+      "duration": 4.08,
+      "offset": 1576.4,
+      "lang": "en"
+    },
+    {
+      "text": "say you can like write little poems to",
+      "duration": 4.96,
+      "offset": 1578.56,
+      "lang": "en"
+    },
+    {
+      "text": "it and it&#39;ll actually give you Um, it",
+      "duration": 5.36,
+      "offset": 1580.48,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll it&#39;ll do what you want it to do.",
+      "duration": 4.16,
+      "offset": 1583.52,
+      "lang": "en"
+    },
+    {
+      "text": "Like this is experiencing music to me.",
+      "duration": 3.04,
+      "offset": 1585.84,
+      "lang": "en"
+    },
+    {
+      "text": "You know what I mean? You feel like the",
+      "duration": 3.52,
+      "offset": 1587.68,
+      "lang": "en"
+    },
+    {
+      "text": "vibrations through your body versus, you",
+      "duration": 4.16,
+      "offset": 1588.88,
+      "lang": "en"
+    },
+    {
+      "text": "know, if you were to describe this",
+      "duration": 3.6,
+      "offset": 1591.2,
+      "lang": "en"
+    },
+    {
+      "text": "image, it&#39;s going to say like a whole",
+      "duration": 3.04,
+      "offset": 1593.04,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of nonsense.",
+      "duration": 3.92,
+      "offset": 1594.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Even worse, even worse, if you do it in",
+      "duration": 5.12,
+      "offset": 1596.08,
+      "lang": "en"
+    },
+    {
+      "text": "like uh Gemini or something, ask it to",
+      "duration": 3.6,
+      "offset": 1598.72,
+      "lang": "en"
+    },
+    {
+      "text": "give you",
+      "duration": 2.4,
+      "offset": 1601.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; you&#39;re just never going to be able to",
+      "duration": 3.68,
+      "offset": 1602.32,
+      "lang": "en"
+    },
+    {
+      "text": "get this, which is why I love Midourney",
+      "duration": 4.4,
+      "offset": 1603.6,
+      "lang": "en"
+    },
+    {
+      "text": "so much cuz it just feels like an",
+      "duration": 4.56,
+      "offset": 1606.0,
+      "lang": "en"
+    },
+    {
+      "text": "extension of your of yourself,",
+      "duration": 4.4,
+      "offset": 1608.0,
+      "lang": "en"
+    },
+    {
+      "text": "basically. Every time I see Midjourney,",
+      "duration": 3.76,
+      "offset": 1610.56,
+      "lang": "en"
+    },
+    {
+      "text": "I have to tell people, you know, now I&#39;m",
+      "duration": 4.24,
+      "offset": 1612.4,
+      "lang": "en"
+    },
+    {
+      "text": "this host of this AI podcast. I get to",
+      "duration": 4.64,
+      "offset": 1614.32,
+      "lang": "en"
+    },
+    {
+      "text": "see a lot of tools and I do a lot of",
+      "duration": 5.2,
+      "offset": 1616.64,
+      "lang": "en"
+    },
+    {
+      "text": "things every day. And I MidJourney was",
+      "duration": 5.76,
+      "offset": 1618.96,
+      "lang": "en"
+    },
+    {
+      "text": "the first tool that just switched my",
+      "duration": 5.76,
+      "offset": 1621.84,
+      "lang": "en"
+    },
+    {
+      "text": "mind about what was possible with AI. It",
+      "duration": 5.44,
+      "offset": 1624.72,
+      "lang": "en"
+    },
+    {
+      "text": "really is an inspirational tool. It&#39;s",
+      "duration": 5.12,
+      "offset": 1627.6,
+      "lang": "en"
+    },
+    {
+      "text": "fun. It&#39;s accessible to not just people",
+      "duration": 4.0,
+      "offset": 1630.16,
+      "lang": "en"
+    },
+    {
+      "text": "like you that are building a business",
+      "duration": 3.44,
+      "offset": 1632.72,
+      "lang": "en"
+    },
+    {
+      "text": "off of this, but my kids love",
+      "duration": 4.56,
+      "offset": 1634.16,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney. It&#39;s such a creative space",
+      "duration": 5.28,
+      "offset": 1636.16,
+      "lang": "en"
+    },
+    {
+      "text": "and I feel like it&#39;s one of the more,",
+      "duration": 4.96,
+      "offset": 1638.72,
+      "lang": "en"
+    },
+    {
+      "text": "you know, dare I say it like soulful AI",
+      "duration": 5.68,
+      "offset": 1641.44,
+      "lang": "en"
+    },
+    {
+      "text": "experiences. Um, and so I love the idea",
+      "duration": 5.68,
+      "offset": 1643.68,
+      "lang": "en"
+    },
+    {
+      "text": "of just getting out of like the tactical",
+      "duration": 3.92,
+      "offset": 1647.12,
+      "lang": "en"
+    },
+    {
+      "text": "and practical prompting of like I want",
+      "duration": 3.04,
+      "offset": 1649.36,
+      "lang": "en"
+    },
+    {
+      "text": "this thing and this camera blah blah",
+      "duration": 3.44,
+      "offset": 1651.04,
+      "lang": "en"
+    },
+    {
+      "text": "blah and just playing in a space with it",
+      "duration": 4.88,
+      "offset": 1652.4,
+      "lang": "en"
+    },
+    {
+      "text": "to see if it can inspire inspire things",
+      "duration": 5.2,
+      "offset": 1654.48,
+      "lang": "en"
+    },
+    {
+      "text": "for you. This episode is brought to you",
+      "duration": 4.88,
+      "offset": 1657.28,
+      "lang": "en"
+    },
+    {
+      "text": "by Lovable. If you&#39;ve ever had an idea",
+      "duration": 3.84,
+      "offset": 1659.68,
+      "lang": "en"
+    },
+    {
+      "text": "for an [music] app but didn&#39;t know where",
+      "duration": 4.08,
+      "offset": 1662.16,
+      "lang": "en"
+    },
+    {
+      "text": "to start, Lovable is for you. Lovable",
+      "duration": 4.72,
+      "offset": 1663.52,
+      "lang": "en"
+    },
+    {
+      "text": "lets you build working apps and websites",
+      "duration": 4.32,
+      "offset": 1666.24,
+      "lang": "en"
+    },
+    {
+      "text": "by [music] simply chatting with AI. Then",
+      "duration": 4.4,
+      "offset": 1668.24,
+      "lang": "en"
+    },
+    {
+      "text": "you can customize it, add automations,",
+      "duration": 4.24,
+      "offset": 1670.56,
+      "lang": "en"
+    },
+    {
+      "text": "and deploy it to a live domain. [music]",
+      "duration": 4.16,
+      "offset": 1672.64,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s perfect for marketers spinning up",
+      "duration": 4.16,
+      "offset": 1674.8,
+      "lang": "en"
+    },
+    {
+      "text": "tools, product managers prototyping new",
+      "duration": 4.48,
+      "offset": 1676.8,
+      "lang": "en"
+    },
+    {
+      "text": "ideas, or founders launching their next",
+      "duration": 3.28,
+      "offset": 1678.96,
+      "lang": "en"
+    },
+    {
+      "text": "business. [music]",
+      "duration": 3.28,
+      "offset": 1681.28,
+      "lang": "en"
+    },
+    {
+      "text": "Unlike no code tools, Lovable isn&#39;t",
+      "duration": 5.44,
+      "offset": 1682.24,
+      "lang": "en"
+    },
+    {
+      "text": "about static pages. It builds full apps",
+      "duration": 4.96,
+      "offset": 1684.56,
+      "lang": "en"
+    },
+    {
+      "text": "with real functionality. [music] And",
+      "duration": 4.32,
+      "offset": 1687.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s fast. What used to take weeks,",
+      "duration": 4.8,
+      "offset": 1689.52,
+      "lang": "en"
+    },
+    {
+      "text": "months, or even years, you can now do",
+      "duration": 4.24,
+      "offset": 1692.0,
+      "lang": "en"
+    },
+    {
+      "text": "over the weekend. So, if you&#39;ve been",
+      "duration": 4.48,
+      "offset": 1694.32,
+      "lang": "en"
+    },
+    {
+      "text": "sitting on an idea, now&#39;s the time to",
+      "duration": 4.48,
+      "offset": 1696.24,
+      "lang": "en"
+    },
+    {
+      "text": "bring it to life. [music] Get started",
+      "duration": 4.88,
+      "offset": 1698.8,
+      "lang": "en"
+    },
+    {
+      "text": "for free at lovable.dev.",
+      "duration": 6.24,
+      "offset": 1700.72,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s lovable.dev.",
+      "duration": 5.68,
+      "offset": 1703.68,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so just to recap really quickly on",
+      "duration": 5.2,
+      "offset": 1706.96,
+      "lang": "en"
+    },
+    {
+      "text": "our midjourney journey, we have done",
+      "duration": 4.48,
+      "offset": 1709.36,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards. We have used those mood",
+      "duration": 5.2,
+      "offset": 1712.16,
+      "lang": "en"
+    },
+    {
+      "text": "boards to kind of um create some and get",
+      "duration": 4.8,
+      "offset": 1713.84,
+      "lang": "en"
+    },
+    {
+      "text": "a sense of what&#39;s working well with the",
+      "duration": 2.88,
+      "offset": 1717.36,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards or not. We&#39;ve pulled in",
+      "duration": 3.6,
+      "offset": 1718.64,
+      "lang": "en"
+    },
+    {
+      "text": "those mood boards via um style",
+      "duration": 3.52,
+      "offset": 1720.24,
+      "lang": "en"
+    },
+    {
+      "text": "references. We&#39;ve also pulled in",
+      "duration": 4.64,
+      "offset": 1722.24,
+      "lang": "en"
+    },
+    {
+      "text": "specific images as image references.",
+      "duration": 4.64,
+      "offset": 1723.76,
+      "lang": "en"
+    },
+    {
+      "text": "You&#39;ve shown us how to go from like the",
+      "duration": 4.0,
+      "offset": 1726.88,
+      "lang": "en"
+    },
+    {
+      "text": "most generic astronaut prompt to",
+      "duration": 4.32,
+      "offset": 1728.4,
+      "lang": "en"
+    },
+    {
+      "text": "slightly more specific but still pretty",
+      "duration": 5.36,
+      "offset": 1730.88,
+      "lang": "en"
+    },
+    {
+      "text": "lazy dear New York City luxury prompt.",
+      "duration": 5.36,
+      "offset": 1732.72,
+      "lang": "en"
+    },
+    {
+      "text": "Now you&#39;re starting to get stuff that",
+      "duration": 3.52,
+      "offset": 1736.24,
+      "lang": "en"
+    },
+    {
+      "text": "you want. How do you kind of like",
+      "duration": 3.68,
+      "offset": 1738.08,
+      "lang": "en"
+    },
+    {
+      "text": "package this up and and scale it out?",
+      "duration": 4.64,
+      "offset": 1739.76,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll basically just keep going with this",
+      "duration": 5.2,
+      "offset": 1741.76,
+      "lang": "en"
+    },
+    {
+      "text": "same srf stat and just continue to",
+      "duration": 4.96,
+      "offset": 1744.4,
+      "lang": "en"
+    },
+    {
+      "text": "generate images across um you know the",
+      "duration": 5.52,
+      "offset": 1746.96,
+      "lang": "en"
+    },
+    {
+      "text": "subject matter. Um so for like this one,",
+      "duration": 4.88,
+      "offset": 1749.36,
+      "lang": "en"
+    },
+    {
+      "text": "you know, I&#39;m thinking about AI bubbles.",
+      "duration": 3.28,
+      "offset": 1752.48,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m thinking about uh talking about",
+      "duration": 2.64,
+      "offset": 1754.24,
+      "lang": "en"
+    },
+    {
+      "text": "technology. I&#39;m thinking about talking",
+      "duration": 2.8,
+      "offset": 1755.76,
+      "lang": "en"
+    },
+    {
+      "text": "about culture. So I literally just",
+      "duration": 3.2,
+      "offset": 1756.88,
+      "lang": "en"
+    },
+    {
+      "text": "prompted AI bubble using the same",
+      "duration": 3.2,
+      "offset": 1758.56,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. But as you can see, we&#39;re",
+      "duration": 3.28,
+      "offset": 1760.08,
+      "lang": "en"
+    },
+    {
+      "text": "getting the dreaded like five finger",
+      "duration": 4.08,
+      "offset": 1761.76,
+      "lang": "en"
+    },
+    {
+      "text": "thing. So, in this case, I&#39;ll hit very",
+      "duration": 5.6,
+      "offset": 1763.36,
+      "lang": "en"
+    },
+    {
+      "text": "subtle or very strong and it&#39;ll help me",
+      "duration": 4.88,
+      "offset": 1765.84,
+      "lang": "en"
+    },
+    {
+      "text": "like come up with a couple more",
+      "duration": 3.44,
+      "offset": 1768.96,
+      "lang": "en"
+    },
+    {
+      "text": "generations of that aesthetic. So,",
+      "duration": 3.36,
+      "offset": 1770.72,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s one technique I&#39;ll use kind of",
+      "duration": 4.16,
+      "offset": 1772.4,
+      "lang": "en"
+    },
+    {
+      "text": "like fight those. I will also go and",
+      "duration": 4.24,
+      "offset": 1774.08,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll like steal prompts or get",
+      "duration": 4.4,
+      "offset": 1776.56,
+      "lang": "en"
+    },
+    {
+      "text": "inspiration for prompts from the explore",
+      "duration": 4.0,
+      "offset": 1778.32,
+      "lang": "en"
+    },
+    {
+      "text": "page, especially when I&#39;m generating",
+      "duration": 4.08,
+      "offset": 1780.96,
+      "lang": "en"
+    },
+    {
+      "text": "like really large kind of like stock",
+      "duration": 4.48,
+      "offset": 1782.32,
+      "lang": "en"
+    },
+    {
+      "text": "photo sets of images. So, like here&#39;s",
+      "duration": 3.44,
+      "offset": 1785.04,
+      "lang": "en"
+    },
+    {
+      "text": "like an edgy man. I don&#39;t have any edgy",
+      "duration": 3.36,
+      "offset": 1786.8,
+      "lang": "en"
+    },
+    {
+      "text": "man photos yet. I thought the",
+      "duration": 3.28,
+      "offset": 1788.48,
+      "lang": "en"
+    },
+    {
+      "text": "basketballs could be a cool motif in",
+      "duration": 3.44,
+      "offset": 1790.16,
+      "lang": "en"
+    },
+    {
+      "text": "this aesthetic. So then I kind of like",
+      "duration": 4.88,
+      "offset": 1791.76,
+      "lang": "en"
+    },
+    {
+      "text": "pick apart those prompts and I use them",
+      "duration": 6.16,
+      "offset": 1793.6,
+      "lang": "en"
+    },
+    {
+      "text": "here. And then eventually I get to kind",
+      "duration": 4.72,
+      "offset": 1796.64,
+      "lang": "en"
+    },
+    {
+      "text": "of like what we saw at the beginning,",
+      "duration": 3.6,
+      "offset": 1799.76,
+      "lang": "en"
+    },
+    {
+      "text": "all these images that I&#39;m very very",
+      "duration": 4.56,
+      "offset": 1801.36,
+      "lang": "en"
+    },
+    {
+      "text": "happy with and I&#39;ll move on to sort of",
+      "duration": 5.92,
+      "offset": 1803.36,
+      "lang": "en"
+    },
+    {
+      "text": "reinforcing my prompts if need be me and",
+      "duration": 5.92,
+      "offset": 1805.92,
+      "lang": "en"
+    },
+    {
+      "text": "editing images. Um so one thing that I",
+      "duration": 4.8,
+      "offset": 1809.28,
+      "lang": "en"
+    },
+    {
+      "text": "always try especially once I have like",
+      "duration": 4.32,
+      "offset": 1811.84,
+      "lang": "en"
+    },
+    {
+      "text": "the exact outputs that I want already,",
+      "duration": 4.32,
+      "offset": 1814.08,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll go ahead and I&#39;ll make another mood",
+      "duration": 4.8,
+      "offset": 1816.16,
+      "lang": "en"
+    },
+    {
+      "text": "board again. Um, so you can literally",
+      "duration": 5.68,
+      "offset": 1818.4,
+      "lang": "en"
+    },
+    {
+      "text": "just add from your gallery. You can just",
+      "duration": 5.44,
+      "offset": 1820.96,
+      "lang": "en"
+    },
+    {
+      "text": "click. So I selected I think this is",
+      "duration": 4.8,
+      "offset": 1824.08,
+      "lang": "en"
+    },
+    {
+      "text": "about like 30 images that I liked. And",
+      "duration": 6.64,
+      "offset": 1826.4,
+      "lang": "en"
+    },
+    {
+      "text": "then what you can do is you can use this",
+      "duration": 8.24,
+      "offset": 1828.88,
+      "lang": "en"
+    },
+    {
+      "text": "again. Um, so what should we prompt",
+      "duration": 6.72,
+      "offset": 1833.04,
+      "lang": "en"
+    },
+    {
+      "text": "like turtle and the sea?",
+      "duration": 5.28,
+      "offset": 1837.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I was thinking turtle. This is weird.",
+      "duration": 4.4,
+      "offset": 1839.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You were thinking turtle. We&#39;re floating",
+      "duration": 3.44,
+      "offset": 1842.4,
+      "lang": "en"
+    },
+    {
+      "text": "through mid journey together. I was like",
+      "duration": 3.62,
+      "offset": 1844.16,
+      "lang": "en"
+    },
+    {
+      "text": "maybe she&#39;ll do like a turtle.",
+      "duration": 2.24,
+      "offset": 1845.84,
+      "lang": "en"
+    },
+    {
+      "text": "[laughter]",
+      "duration": 1.98,
+      "offset": 1847.78,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yes. Very funny.",
+      "duration": 3.84,
+      "offset": 1848.08,
+      "lang": "en"
+    },
+    {
+      "text": "So, this is like one again kind of back",
+      "duration": 3.28,
+      "offset": 1849.76,
+      "lang": "en"
+    },
+    {
+      "text": "to the beginning. We&#39;re going to try the",
+      "duration": 2.4,
+      "offset": 1851.92,
+      "lang": "en"
+    },
+    {
+      "text": "mood board, see if it works. If it",
+      "duration": 3.04,
+      "offset": 1853.04,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t, um, the good thing is we",
+      "duration": 3.6,
+      "offset": 1854.32,
+      "lang": "en"
+    },
+    {
+      "text": "already know this SRF stuff works.",
+      "duration": 3.6,
+      "offset": 1856.08,
+      "lang": "en"
+    },
+    {
+      "text": "Something else that I was trying, um,",
+      "duration": 3.6,
+      "offset": 1857.92,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll take that new mood board with the",
+      "duration": 4.88,
+      "offset": 1859.68,
+      "lang": "en"
+    },
+    {
+      "text": "images. Uh, and then I&#39;ll try with a",
+      "duration": 4.16,
+      "offset": 1861.52,
+      "lang": "en"
+    },
+    {
+      "text": "different mood board that I have. So,",
+      "duration": 3.2,
+      "offset": 1864.56,
+      "lang": "en"
+    },
+    {
+      "text": "this one&#39;s called real skin. Um, this is",
+      "duration": 5.12,
+      "offset": 1865.68,
+      "lang": "en"
+    },
+    {
+      "text": "just when I&#39;m trying to make like really",
+      "duration": 5.44,
+      "offset": 1867.76,
+      "lang": "en"
+    },
+    {
+      "text": "realistic images of of skin or of",
+      "duration": 4.72,
+      "offset": 1870.8,
+      "lang": "en"
+    },
+    {
+      "text": "models. Um, obviously it influences a",
+      "duration": 3.44,
+      "offset": 1873.2,
+      "lang": "en"
+    },
+    {
+      "text": "little bit of like what they look like,",
+      "duration": 4.48,
+      "offset": 1875.52,
+      "lang": "en"
+    },
+    {
+      "text": "too. So I will use both mood boards at",
+      "duration": 5.84,
+      "offset": 1876.64,
+      "lang": "en"
+    },
+    {
+      "text": "the top at the same time. I might just",
+      "duration": 5.04,
+      "offset": 1880.0,
+      "lang": "en"
+    },
+    {
+      "text": "say model and then we&#39;re able to kind of",
+      "duration": 6.16,
+      "offset": 1882.48,
+      "lang": "en"
+    },
+    {
+      "text": "like play with using most aesthetics. Um",
+      "duration": 5.76,
+      "offset": 1885.04,
+      "lang": "en"
+    },
+    {
+      "text": "now I will say so these are generated",
+      "duration": 4.72,
+      "offset": 1888.64,
+      "lang": "en"
+    },
+    {
+      "text": "with the mood board. Definitely like",
+      "duration": 4.8,
+      "offset": 1890.8,
+      "lang": "en"
+    },
+    {
+      "text": "closer than like if we hadn&#39;t used it",
+      "duration": 4.64,
+      "offset": 1893.36,
+      "lang": "en"
+    },
+    {
+      "text": "but I still think the sruff is going to",
+      "duration": 5.28,
+      "offset": 1895.6,
+      "lang": "en"
+    },
+    {
+      "text": "like be supreme here.",
+      "duration": 4.48,
+      "offset": 1898.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So, what I&#39;ll do is I&#39;ll just take",
+      "duration": 4.56,
+      "offset": 1900.88,
+      "lang": "en"
+    },
+    {
+      "text": "that um this mood board here and I&#39;ll",
+      "duration": 4.88,
+      "offset": 1902.48,
+      "lang": "en"
+    },
+    {
+      "text": "click that run the same prompt again but",
+      "duration": 4.8,
+      "offset": 1905.44,
+      "lang": "en"
+    },
+    {
+      "text": "using the srf and using the mood board",
+      "duration": 4.64,
+      "offset": 1907.36,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;ll see what I give this. Yeah.",
+      "duration": 4.24,
+      "offset": 1910.24,
+      "lang": "en"
+    },
+    {
+      "text": "So, same for this like closer to what we",
+      "duration": 6.56,
+      "offset": 1912.0,
+      "lang": "en"
+    },
+    {
+      "text": "want but like not as like stylistically",
+      "duration": 6.0,
+      "offset": 1914.48,
+      "lang": "en"
+    },
+    {
+      "text": "consistent as these which sometimes",
+      "duration": 3.92,
+      "offset": 1918.56,
+      "lang": "en"
+    },
+    {
+      "text": "depending on what you&#39;re making like in",
+      "duration": 3.44,
+      "offset": 1920.48,
+      "lang": "en"
+    },
+    {
+      "text": "my opinion like all these images are",
+      "duration": 3.84,
+      "offset": 1922.48,
+      "lang": "en"
+    },
+    {
+      "text": "great but like over time it might start",
+      "duration": 5.12,
+      "offset": 1923.92,
+      "lang": "en"
+    },
+    {
+      "text": "to look a little bit um flat or like too",
+      "duration": 5.76,
+      "offset": 1926.32,
+      "lang": "en"
+    },
+    {
+      "text": "much pink. So like weaving in a couple",
+      "duration": 5.04,
+      "offset": 1929.04,
+      "lang": "en"
+    },
+    {
+      "text": "images that are like not the exact same",
+      "duration": 4.08,
+      "offset": 1932.08,
+      "lang": "en"
+    },
+    {
+      "text": "style can also be good too as long as",
+      "duration": 4.32,
+      "offset": 1934.08,
+      "lang": "en"
+    },
+    {
+      "text": "you have this kind of like through line.",
+      "duration": 4.32,
+      "offset": 1936.16,
+      "lang": "en"
+    },
+    {
+      "text": "Um so like good example here is like",
+      "duration": 5.2,
+      "offset": 1938.4,
+      "lang": "en"
+    },
+    {
+      "text": "this turtle our mood board and our SRFs",
+      "duration": 5.2,
+      "offset": 1940.48,
+      "lang": "en"
+    },
+    {
+      "text": "is like not super optimized for animals.",
+      "duration": 4.88,
+      "offset": 1943.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, that&#39;s more Yeah, it&#39;s way more",
+      "duration": 5.6,
+      "offset": 1945.68,
+      "lang": "en"
+    },
+    {
+      "text": "optimized for like editorial stuff. So,",
+      "duration": 5.6,
+      "offset": 1948.48,
+      "lang": "en"
+    },
+    {
+      "text": "what I might do here, I do have like a",
+      "duration": 6.56,
+      "offset": 1951.28,
+      "lang": "en"
+    },
+    {
+      "text": "nature moon board that I have adventure",
+      "duration": 6.0,
+      "offset": 1954.08,
+      "lang": "en"
+    },
+    {
+      "text": "core. Um, and I never delete my mood",
+      "duration": 3.92,
+      "offset": 1957.84,
+      "lang": "en"
+    },
+    {
+      "text": "boards, so I&#39;ll just like keep them",
+      "duration": 3.92,
+      "offset": 1960.08,
+      "lang": "en"
+    },
+    {
+      "text": "around and we&#39;ll see.",
+      "duration": 4.4,
+      "offset": 1961.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, we&#39;ll see what this gives us. Um,",
+      "duration": 5.52,
+      "offset": 1964.0,
+      "lang": "en"
+    },
+    {
+      "text": "using the suffra getting a sexy lady.",
+      "duration": 4.24,
+      "offset": 1966.16,
+      "lang": "en"
+    },
+    {
+      "text": "Um, naturally,",
+      "duration": 2.48,
+      "offset": 1969.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; that is one of the downsides of",
+      "duration": 3.28,
+      "offset": 1970.4,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney is you&#39;re going to get a lot",
+      "duration": 3.04,
+      "offset": 1972.0,
+      "lang": "en"
+    },
+    {
+      "text": "sexy ladies.",
+      "duration": 5.2,
+      "offset": 1973.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. So, again, cool. Not so realistic.",
+      "duration": 5.44,
+      "offset": 1975.04,
+      "lang": "en"
+    },
+    {
+      "text": "So this might be a part of the process",
+      "duration": 3.84,
+      "offset": 1978.88,
+      "lang": "en"
+    },
+    {
+      "text": "where we kind of go back to square one",
+      "duration": 5.12,
+      "offset": 1980.48,
+      "lang": "en"
+    },
+    {
+      "text": "in a sense and think like okay maybe we",
+      "duration": 6.48,
+      "offset": 1982.72,
+      "lang": "en"
+    },
+    {
+      "text": "need to find reference photos of vintage",
+      "duration": 6.4,
+      "offset": 1985.6,
+      "lang": "en"
+    },
+    {
+      "text": "National Geographic that kind of have",
+      "duration": 6.24,
+      "offset": 1989.2,
+      "lang": "en"
+    },
+    {
+      "text": "this like print aesthetic but it&#39;s of",
+      "duration": 5.2,
+      "offset": 1992.0,
+      "lang": "en"
+    },
+    {
+      "text": "animals to give majour a little bit",
+      "duration": 4.4,
+      "offset": 1995.44,
+      "lang": "en"
+    },
+    {
+      "text": "better information to work with. What I",
+      "duration": 5.12,
+      "offset": 1997.2,
+      "lang": "en"
+    },
+    {
+      "text": "I want to say is I love this process of",
+      "duration": 4.8,
+      "offset": 1999.84,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just like finding the right two",
+      "duration": 4.72,
+      "offset": 2002.32,
+      "lang": "en"
+    },
+    {
+      "text": "or three things to mix in midjourney.",
+      "duration": 4.08,
+      "offset": 2004.64,
+      "lang": "en"
+    },
+    {
+      "text": "And sometimes it&#39;s a style reference and",
+      "duration": 3.52,
+      "offset": 2007.04,
+      "lang": "en"
+    },
+    {
+      "text": "a prompt. Sometimes it&#39;s a prompt and a",
+      "duration": 3.2,
+      "offset": 2008.72,
+      "lang": "en"
+    },
+    {
+      "text": "mood board. Sometimes it&#39;s a mood board",
+      "duration": 2.64,
+      "offset": 2010.56,
+      "lang": "en"
+    },
+    {
+      "text": "and image reference,",
+      "duration": 3.04,
+      "offset": 2011.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; you know, and so you can just combine",
+      "duration": 4.64,
+      "offset": 2013.2,
+      "lang": "en"
+    },
+    {
+      "text": "all these things and ultimately iterate",
+      "duration": 5.6,
+      "offset": 2014.96,
+      "lang": "en"
+    },
+    {
+      "text": "to a package that you want to want to",
+      "duration": 4.0,
+      "offset": 2017.84,
+      "lang": "en"
+    },
+    {
+      "text": "send to clients.",
+      "duration": 3.36,
+      "offset": 2020.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. And then I&#39;ll just deliver this.",
+      "duration": 4.0,
+      "offset": 2021.84,
+      "lang": "en"
+    },
+    {
+      "text": "Usually um in Figma, the only thing with",
+      "duration": 4.0,
+      "offset": 2023.92,
+      "lang": "en"
+    },
+    {
+      "text": "me, they don&#39;t have any sort of like",
+      "duration": 3.84,
+      "offset": 2025.84,
+      "lang": "en"
+    },
+    {
+      "text": "sharing. I think I&#39;ve literally seen",
+      "duration": 3.12,
+      "offset": 2027.92,
+      "lang": "en"
+    },
+    {
+      "text": "designers like if they&#39;re on a big",
+      "duration": 3.04,
+      "offset": 2029.68,
+      "lang": "en"
+    },
+    {
+      "text": "enough project, they will like literally",
+      "duration": 4.48,
+      "offset": 2031.04,
+      "lang": "en"
+    },
+    {
+      "text": "create a majourney account just for",
+      "duration": 6.24,
+      "offset": 2032.72,
+      "lang": "en"
+    },
+    {
+      "text": "that. And then what I usually do, I&#39;ll",
+      "duration": 7.12,
+      "offset": 2035.52,
+      "lang": "en"
+    },
+    {
+      "text": "literally just paste in in Figma what",
+      "duration": 6.56,
+      "offset": 2038.96,
+      "lang": "en"
+    },
+    {
+      "text": "that like final prompt is. So the most",
+      "duration": 4.08,
+      "offset": 2042.64,
+      "lang": "en"
+    },
+    {
+      "text": "important stuff is like the profiles",
+      "duration": 2.4,
+      "offset": 2045.52,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;re using. For this one, I",
+      "duration": 2.56,
+      "offset": 2046.72,
+      "lang": "en"
+    },
+    {
+      "text": "happen to go like very crazy with the",
+      "duration": 3.6,
+      "offset": 2047.92,
+      "lang": "en"
+    },
+    {
+      "text": "profiles, stylization if necessary, and",
+      "duration": 3.44,
+      "offset": 2049.28,
+      "lang": "en"
+    },
+    {
+      "text": "then I just say like these are the",
+      "duration": 3.44,
+      "offset": 2051.52,
+      "lang": "en"
+    },
+    {
+      "text": "reference photos. So for like all of",
+      "duration": 4.72,
+      "offset": 2052.72,
+      "lang": "en"
+    },
+    {
+      "text": "these images that you see here, I think",
+      "duration": 5.28,
+      "offset": 2054.96,
+      "lang": "en"
+    },
+    {
+      "text": "like 100% of them, if not like 90% of",
+      "duration": 4.96,
+      "offset": 2057.44,
+      "lang": "en"
+    },
+    {
+      "text": "them were generated with like this exact",
+      "duration": 4.72,
+      "offset": 2060.24,
+      "lang": "en"
+    },
+    {
+      "text": "setup right here. So I just give the",
+      "duration": 4.48,
+      "offset": 2062.4,
+      "lang": "en"
+    },
+    {
+      "text": "clients this. Um I&#39;ll give them a set of",
+      "duration": 4.16,
+      "offset": 2064.96,
+      "lang": "en"
+    },
+    {
+      "text": "images. Um also these images are going",
+      "duration": 5.44,
+      "offset": 2066.88,
+      "lang": "en"
+    },
+    {
+      "text": "to be like in context, but yeah, it&#39;s",
+      "duration": 5.04,
+      "offset": 2069.12,
+      "lang": "en"
+    },
+    {
+      "text": "still kind of the wild west. What I",
+      "duration": 3.92,
+      "offset": 2072.32,
+      "lang": "en"
+    },
+    {
+      "text": "think is really cool about this and the",
+      "duration": 3.76,
+      "offset": 2074.16,
+      "lang": "en"
+    },
+    {
+      "text": "reason why you&#39;re leaning into it I",
+      "duration": 3.76,
+      "offset": 2076.24,
+      "lang": "en"
+    },
+    {
+      "text": "really appreciate is you know in the",
+      "duration": 3.44,
+      "offset": 2077.92,
+      "lang": "en"
+    },
+    {
+      "text": "past and we&#39;ve talked about this a",
+      "duration": 3.04,
+      "offset": 2080.0,
+      "lang": "en"
+    },
+    {
+      "text": "little bit in our episode with Zach at",
+      "duration": 3.44,
+      "offset": 2081.36,
+      "lang": "en"
+    },
+    {
+      "text": "Gamma who got a very similar package",
+      "duration": 4.48,
+      "offset": 2083.04,
+      "lang": "en"
+    },
+    {
+      "text": "like this from their their brand team is",
+      "duration": 6.0,
+      "offset": 2084.8,
+      "lang": "en"
+    },
+    {
+      "text": "in the past brand and creative um",
+      "duration": 5.68,
+      "offset": 2087.52,
+      "lang": "en"
+    },
+    {
+      "text": "directors or agencies would like give",
+      "duration": 4.16,
+      "offset": 2090.8,
+      "lang": "en"
+    },
+    {
+      "text": "you these photos and be like cool call",
+      "duration": 5.2,
+      "offset": 2093.2,
+      "lang": "en"
+    },
+    {
+      "text": "us and reup when you want more photos.",
+      "duration": 5.68,
+      "offset": 2094.96,
+      "lang": "en"
+    },
+    {
+      "text": "And what I love is that you&#39;re like,",
+      "duration": 3.76,
+      "offset": 2098.4,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Look, I put in all this. You&#39;re going",
+      "duration": 3.04,
+      "offset": 2100.64,
+      "lang": "en"
+    },
+    {
+      "text": "to you&#39;re going to value me for all this",
+      "duration": 3.2,
+      "offset": 2102.16,
+      "lang": "en"
+    },
+    {
+      "text": "upfront work that I&#39;m going to do.&quot;",
+      "duration": 1.92,
+      "offset": 2103.68,
+      "lang": "en"
+    },
+    {
+      "text": "Yeah.",
+      "duration": 2.4,
+      "offset": 2105.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; To define the space, give you these",
+      "duration": 3.92,
+      "offset": 2105.6,
+      "lang": "en"
+    },
+    {
+      "text": "codes, like really give you reference",
+      "duration": 4.48,
+      "offset": 2107.76,
+      "lang": "en"
+    },
+    {
+      "text": "images, and then now you can go do this",
+      "duration": 4.4,
+      "offset": 2109.52,
+      "lang": "en"
+    },
+    {
+      "text": "for yourself. And if you want to evolve",
+      "duration": 3.04,
+      "offset": 2112.24,
+      "lang": "en"
+    },
+    {
+      "text": "the brand or you&#39;re not quite getting",
+      "duration": 2.72,
+      "offset": 2113.92,
+      "lang": "en"
+    },
+    {
+      "text": "what you want, great. Come back to me",
+      "duration": 2.64,
+      "offset": 2115.28,
+      "lang": "en"
+    },
+    {
+      "text": "and I can give you another package and",
+      "duration": 2.96,
+      "offset": 2116.64,
+      "lang": "en"
+    },
+    {
+      "text": "we can go forward. But it&#39;s just like a",
+      "duration": 4.32,
+      "offset": 2117.92,
+      "lang": "en"
+    },
+    {
+      "text": "very different model of providing",
+      "duration": 5.36,
+      "offset": 2119.6,
+      "lang": "en"
+    },
+    {
+      "text": "service. And I think it creates a really",
+      "duration": 4.8,
+      "offset": 2122.24,
+      "lang": "en"
+    },
+    {
+      "text": "positive create uh collaboration between",
+      "duration": 3.68,
+      "offset": 2124.96,
+      "lang": "en"
+    },
+    {
+      "text": "the client and and the creative",
+      "duration": 2.24,
+      "offset": 2127.04,
+      "lang": "en"
+    },
+    {
+      "text": "director.",
+      "duration": 2.16,
+      "offset": 2128.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I know sometimes I&#39;m kicking myself. I&#39;m",
+      "duration": 3.44,
+      "offset": 2129.28,
+      "lang": "en"
+    },
+    {
+      "text": "like, gosh, I probably should just not",
+      "duration": 4.0,
+      "offset": 2130.8,
+      "lang": "en"
+    },
+    {
+      "text": "get to them and just continue charging",
+      "duration": 3.68,
+      "offset": 2132.72,
+      "lang": "en"
+    },
+    {
+      "text": "them. But I&#39;m kind of allergic to",
+      "duration": 3.52,
+      "offset": 2134.8,
+      "lang": "en"
+    },
+    {
+      "text": "retainers. I like I like doing this",
+      "duration": 3.6,
+      "offset": 2136.4,
+      "lang": "en"
+    },
+    {
+      "text": "beginning process so much that I don&#39;t",
+      "duration": 3.28,
+      "offset": 2138.32,
+      "lang": "en"
+    },
+    {
+      "text": "want my old clients to bother me. I just",
+      "duration": 3.04,
+      "offset": 2140.0,
+      "lang": "en"
+    },
+    {
+      "text": "want to keep making new stuff.",
+      "duration": 3.12,
+      "offset": 2141.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Well, I I love it and I&#39;m sure people",
+      "duration": 2.8,
+      "offset": 2143.04,
+      "lang": "en"
+    },
+    {
+      "text": "are going to see this and you might have",
+      "duration": 4.8,
+      "offset": 2144.72,
+      "lang": "en"
+    },
+    {
+      "text": "a few more for new new clients. Okay, so",
+      "duration": 5.6,
+      "offset": 2145.84,
+      "lang": "en"
+    },
+    {
+      "text": "you showed us kind of end to end how we",
+      "duration": 3.12,
+      "offset": 2149.52,
+      "lang": "en"
+    },
+    {
+      "text": "get through these packages. What are",
+      "duration": 3.44,
+      "offset": 2151.44,
+      "lang": "en"
+    },
+    {
+      "text": "just a couple other workflows that you",
+      "duration": 3.28,
+      "offset": 2152.64,
+      "lang": "en"
+    },
+    {
+      "text": "find yourself using?",
+      "duration": 4.08,
+      "offset": 2154.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I guess to continue on with this one, I",
+      "duration": 4.8,
+      "offset": 2155.92,
+      "lang": "en"
+    },
+    {
+      "text": "can show some that I already have done.",
+      "duration": 3.12,
+      "offset": 2158.96,
+      "lang": "en"
+    },
+    {
+      "text": "So, for some of the images in Mid",
+      "duration": 3.6,
+      "offset": 2160.72,
+      "lang": "en"
+    },
+    {
+      "text": "Journey, I&#39;m sure you have all seen the",
+      "duration": 4.64,
+      "offset": 2162.08,
+      "lang": "en"
+    },
+    {
+      "text": "terrible hands. Um, often times too,",
+      "duration": 3.76,
+      "offset": 2164.32,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re doing kind of like more",
+      "duration": 3.92,
+      "offset": 2166.72,
+      "lang": "en"
+    },
+    {
+      "text": "vintage aesthetics, if it ever can give",
+      "duration": 4.16,
+      "offset": 2168.08,
+      "lang": "en"
+    },
+    {
+      "text": "you an Apple logo, it might give you",
+      "duration": 3.84,
+      "offset": 2170.64,
+      "lang": "en"
+    },
+    {
+      "text": "like some weird old computer. Um, so",
+      "duration": 4.08,
+      "offset": 2172.24,
+      "lang": "en"
+    },
+    {
+      "text": "something I do a lot of the time, even",
+      "duration": 3.84,
+      "offset": 2174.48,
+      "lang": "en"
+    },
+    {
+      "text": "just for my personal stuff, I post on X.",
+      "duration": 3.68,
+      "offset": 2176.32,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, I&#39;ll take my midourney images and",
+      "duration": 4.96,
+      "offset": 2178.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll take them into uh, Flora uh, or",
+      "duration": 5.04,
+      "offset": 2180.0,
+      "lang": "en"
+    },
+    {
+      "text": "Hicksfield sometimes and I&#39;ll just use",
+      "duration": 5.44,
+      "offset": 2183.28,
+      "lang": "en"
+    },
+    {
+      "text": "Nano Banana as Photoshop. Nano Banana",
+      "duration": 5.44,
+      "offset": 2185.04,
+      "lang": "en"
+    },
+    {
+      "text": "uh, literally is just Photoshop. That&#39;s",
+      "duration": 3.44,
+      "offset": 2188.72,
+      "lang": "en"
+    },
+    {
+      "text": "exactly how you should think of it. Um,",
+      "duration": 3.76,
+      "offset": 2190.48,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just able to speak to Photoshop",
+      "duration": 4.24,
+      "offset": 2192.16,
+      "lang": "en"
+    },
+    {
+      "text": "essentially for most people. So, what I",
+      "duration": 3.68,
+      "offset": 2194.24,
+      "lang": "en"
+    },
+    {
+      "text": "have here is this image that I really",
+      "duration": 3.44,
+      "offset": 2196.4,
+      "lang": "en"
+    },
+    {
+      "text": "like that we generated it. U, but I want",
+      "duration": 4.08,
+      "offset": 2197.92,
+      "lang": "en"
+    },
+    {
+      "text": "to upscale it so I get more texture in",
+      "duration": 4.0,
+      "offset": 2199.84,
+      "lang": "en"
+    },
+    {
+      "text": "her shirt and stuff. And then I want",
+      "duration": 4.24,
+      "offset": 2202.0,
+      "lang": "en"
+    },
+    {
+      "text": "this to be like a real computer. Nana",
+      "duration": 4.16,
+      "offset": 2203.84,
+      "lang": "en"
+    },
+    {
+      "text": "Banana does require a little bit more",
+      "duration": 5.2,
+      "offset": 2206.24,
+      "lang": "en"
+    },
+    {
+      "text": "prompting than major, but it&#39;s much more",
+      "duration": 5.04,
+      "offset": 2208.0,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t want to say forgiving. It&#39;s much",
+      "duration": 4.0,
+      "offset": 2211.44,
+      "lang": "en"
+    },
+    {
+      "text": "less complicated, like if you&#39;re a",
+      "duration": 4.8,
+      "offset": 2213.04,
+      "lang": "en"
+    },
+    {
+      "text": "beginner in some ways, depending on what",
+      "duration": 4.32,
+      "offset": 2215.44,
+      "lang": "en"
+    },
+    {
+      "text": "side of the line you stand on, whether",
+      "duration": 4.0,
+      "offset": 2217.84,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re more like technical or or more",
+      "duration": 4.64,
+      "offset": 2219.76,
+      "lang": "en"
+    },
+    {
+      "text": "artistic. But anyway, I just said",
+      "duration": 4.64,
+      "offset": 2221.84,
+      "lang": "en"
+    },
+    {
+      "text": "replace the computer she&#39;s typing on on",
+      "duration": 5.44,
+      "offset": 2224.4,
+      "lang": "en"
+    },
+    {
+      "text": "a 2026 Midnight Black MacBook Pro. Um,",
+      "duration": 5.84,
+      "offset": 2226.48,
+      "lang": "en"
+    },
+    {
+      "text": "so Nano Banana uh is like a reasoning",
+      "duration": 4.56,
+      "offset": 2229.84,
+      "lang": "en"
+    },
+    {
+      "text": "model, so it like actually knows what",
+      "duration": 3.76,
+      "offset": 2232.32,
+      "lang": "en"
+    },
+    {
+      "text": "things are. So you don&#39;t have to give it",
+      "duration": 2.96,
+      "offset": 2234.4,
+      "lang": "en"
+    },
+    {
+      "text": "a reference photo all the time,",
+      "duration": 3.44,
+      "offset": 2236.08,
+      "lang": "en"
+    },
+    {
+      "text": "especially for stuff that&#39;s in like the",
+      "duration": 3.44,
+      "offset": 2237.36,
+      "lang": "en"
+    },
+    {
+      "text": "public mind sphere.",
+      "duration": 1.68,
+      "offset": 2239.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Mhm.",
+      "duration": 2.16,
+      "offset": 2240.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I also usually mention like don&#39;t change",
+      "duration": 3.76,
+      "offset": 2241.2,
+      "lang": "en"
+    },
+    {
+      "text": "anything else. I say keep the position",
+      "duration": 3.6,
+      "offset": 2242.96,
+      "lang": "en"
+    },
+    {
+      "text": "and the size of the computer exactly the",
+      "duration": 3.68,
+      "offset": 2244.96,
+      "lang": "en"
+    },
+    {
+      "text": "same. And then just because I&#39;ve done",
+      "duration": 3.76,
+      "offset": 2246.56,
+      "lang": "en"
+    },
+    {
+      "text": "this so many times, I know sometimes the",
+      "duration": 3.6,
+      "offset": 2248.64,
+      "lang": "en"
+    },
+    {
+      "text": "banana might, you know, change the angle",
+      "duration": 4.56,
+      "offset": 2250.32,
+      "lang": "en"
+    },
+    {
+      "text": "slightly. So I just say exactly I say",
+      "duration": 5.2,
+      "offset": 2252.24,
+      "lang": "en"
+    },
+    {
+      "text": "exactly what it&#39;s seeing. So like only",
+      "duration": 4.72,
+      "offset": 2254.88,
+      "lang": "en"
+    },
+    {
+      "text": "the left side and the keyboard is",
+      "duration": 4.24,
+      "offset": 2257.44,
+      "lang": "en"
+    },
+    {
+      "text": "visible. And yeah, and then if I were to",
+      "duration": 3.6,
+      "offset": 2259.6,
+      "lang": "en"
+    },
+    {
+      "text": "download this photo, it&#39;s going to be",
+      "duration": 4.16,
+      "offset": 2261.68,
+      "lang": "en"
+    },
+    {
+      "text": "like 4,000 x 4,000 versus like 800 by",
+      "duration": 6.24,
+      "offset": 2263.2,
+      "lang": "en"
+    },
+    {
+      "text": "800. Kept the style pretty much exactly",
+      "duration": 5.2,
+      "offset": 2265.84,
+      "lang": "en"
+    },
+    {
+      "text": "the same. We just slotted like a real",
+      "duration": 4.48,
+      "offset": 2269.44,
+      "lang": "en"
+    },
+    {
+      "text": "computer. So it would be relevant to",
+      "duration": 5.04,
+      "offset": 2271.04,
+      "lang": "en"
+    },
+    {
+      "text": "like use now on social media. I just",
+      "duration": 5.36,
+      "offset": 2273.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to behind the scenes at Howa AI,",
+      "duration": 6.8,
+      "offset": 2276.08,
+      "lang": "en"
+    },
+    {
+      "text": "we use a very similar process to upscale",
+      "duration": 6.88,
+      "offset": 2279.28,
+      "lang": "en"
+    },
+    {
+      "text": "screen caps from the podcast for our",
+      "duration": 6.08,
+      "offset": 2282.88,
+      "lang": "en"
+    },
+    {
+      "text": "YouTube thumbnails. And so, you know, I",
+      "duration": 5.04,
+      "offset": 2286.16,
+      "lang": "en"
+    },
+    {
+      "text": "like make make these faces and then we",
+      "duration": 3.92,
+      "offset": 2288.96,
+      "lang": "en"
+    },
+    {
+      "text": "want to clip them for the podcast, but",
+      "duration": 3.12,
+      "offset": 2291.2,
+      "lang": "en"
+    },
+    {
+      "text": "just screen capping from the video is",
+      "duration": 4.0,
+      "offset": 2292.88,
+      "lang": "en"
+    },
+    {
+      "text": "really low resolution. And so, we use a",
+      "duration": 5.12,
+      "offset": 2294.32,
+      "lang": "en"
+    },
+    {
+      "text": "very similar prompt to upscale and",
+      "duration": 4.48,
+      "offset": 2296.88,
+      "lang": "en"
+    },
+    {
+      "text": "improve the lighting on on our photos,",
+      "duration": 3.04,
+      "offset": 2299.44,
+      "lang": "en"
+    },
+    {
+      "text": "and then we drop those into our",
+      "duration": 2.24,
+      "offset": 2301.36,
+      "lang": "en"
+    },
+    {
+      "text": "thumbnails.",
+      "duration": 3.04,
+      "offset": 2302.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Oh, I got to show you. Um, you don&#39;t",
+      "duration": 3.12,
+      "offset": 2303.6,
+      "lang": "en"
+    },
+    {
+      "text": "actually have to take thumbnails",
+      "duration": 3.36,
+      "offset": 2305.52,
+      "lang": "en"
+    },
+    {
+      "text": "anymore.",
+      "duration": 4.96,
+      "offset": 2306.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Uh, hey, show me live",
+      "duration": 4.16,
+      "offset": 2308.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; live demo.",
+      "duration": 3.76,
+      "offset": 2311.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Have you been seeing my like articles?",
+      "duration": 5.28,
+      "offset": 2313.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; No. Show me detour.",
+      "duration": 5.6,
+      "offset": 2315.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, this is a really like kind of for",
+      "duration": 4.88,
+      "offset": 2318.32,
+      "lang": "en"
+    },
+    {
+      "text": "all these like nodes and stuff. So, uh,",
+      "duration": 4.24,
+      "offset": 2321.04,
+      "lang": "en"
+    },
+    {
+      "text": "my profile photo is AI. I think I got",
+      "duration": 3.84,
+      "offset": 2323.2,
+      "lang": "en"
+    },
+    {
+      "text": "quite attention for doing that. I think",
+      "duration": 3.36,
+      "offset": 2325.28,
+      "lang": "en"
+    },
+    {
+      "text": "I ended up making in Higsville at some",
+      "duration": 4.0,
+      "offset": 2327.04,
+      "lang": "en"
+    },
+    {
+      "text": "point. But basically what I do is I&#39;ll",
+      "duration": 3.84,
+      "offset": 2328.64,
+      "lang": "en"
+    },
+    {
+      "text": "take a bunch of selfies of me that are",
+      "duration": 4.08,
+      "offset": 2331.04,
+      "lang": "en"
+    },
+    {
+      "text": "like more realistic looking. Um cuz",
+      "duration": 4.24,
+      "offset": 2332.48,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes like you know you&#39;ll take like",
+      "duration": 2.8,
+      "offset": 2335.12,
+      "lang": "en"
+    },
+    {
+      "text": "the best selfie and like doesn&#39;t look",
+      "duration": 2.72,
+      "offset": 2336.72,
+      "lang": "en"
+    },
+    {
+      "text": "like you at all. I also like show my",
+      "duration": 2.64,
+      "offset": 2337.92,
+      "lang": "en"
+    },
+    {
+      "text": "teeth. I don&#39;t have like perfectly",
+      "duration": 2.4,
+      "offset": 2339.44,
+      "lang": "en"
+    },
+    {
+      "text": "straight teeth. I&#39;ll take a couple",
+      "duration": 3.28,
+      "offset": 2340.56,
+      "lang": "en"
+    },
+    {
+      "text": "reference photos and then I can just",
+      "duration": 4.0,
+      "offset": 2341.84,
+      "lang": "en"
+    },
+    {
+      "text": "make me do whatever I want.",
+      "duration": 3.68,
+      "offset": 2343.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Um it",
+      "duration": 3.2,
+      "offset": 2345.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; this was another one. I had a mid",
+      "duration": 3.84,
+      "offset": 2347.52,
+      "lang": "en"
+    },
+    {
+      "text": "journey photo that was this and I wanted",
+      "duration": 4.96,
+      "offset": 2349.04,
+      "lang": "en"
+    },
+    {
+      "text": "her to be annoyed. Uh I I I kind of",
+      "duration": 4.16,
+      "offset": 2351.36,
+      "lang": "en"
+    },
+    {
+      "text": "already had this process in my head. I I",
+      "duration": 3.44,
+      "offset": 2354.0,
+      "lang": "en"
+    },
+    {
+      "text": "knew I wanted a photo of me in this vibe",
+      "duration": 4.72,
+      "offset": 2355.52,
+      "lang": "en"
+    },
+    {
+      "text": "but angry. So, I took this photo, made",
+      "duration": 6.24,
+      "offset": 2357.44,
+      "lang": "en"
+    },
+    {
+      "text": "her angry, and then I replaced my face,",
+      "duration": 6.08,
+      "offset": 2360.24,
+      "lang": "en"
+    },
+    {
+      "text": "which like me on my best day, this 100%",
+      "duration": 5.04,
+      "offset": 2363.68,
+      "lang": "en"
+    },
+    {
+      "text": "looks like me. I have like multiple",
+      "duration": 3.6,
+      "offset": 2366.32,
+      "lang": "en"
+    },
+    {
+      "text": "reference photos to make sure it&#39;s like",
+      "duration": 3.6,
+      "offset": 2368.72,
+      "lang": "en"
+    },
+    {
+      "text": "actually getting my vibe. And then from",
+      "duration": 5.04,
+      "offset": 2369.92,
+      "lang": "en"
+    },
+    {
+      "text": "there, I&#39;m able to, you know, I was",
+      "duration": 4.16,
+      "offset": 2372.32,
+      "lang": "en"
+    },
+    {
+      "text": "thinking about like an anti- agency",
+      "duration": 3.36,
+      "offset": 2374.96,
+      "lang": "en"
+    },
+    {
+      "text": "post. Uh, I think I just ended up using",
+      "duration": 4.32,
+      "offset": 2376.48,
+      "lang": "en"
+    },
+    {
+      "text": "this photo. This was one took me a",
+      "duration": 4.56,
+      "offset": 2378.32,
+      "lang": "en"
+    },
+    {
+      "text": "couple tries. This is where again, like",
+      "duration": 3.92,
+      "offset": 2380.8,
+      "lang": "en"
+    },
+    {
+      "text": "reference photos kind of really come in.",
+      "duration": 3.84,
+      "offset": 2382.88,
+      "lang": "en"
+    },
+    {
+      "text": "And sometimes, especially with Nana",
+      "duration": 4.08,
+      "offset": 2384.72,
+      "lang": "en"
+    },
+    {
+      "text": "Banana, sometimes you just got to like",
+      "duration": 4.32,
+      "offset": 2386.72,
+      "lang": "en"
+    },
+    {
+      "text": "write that prompt, uh, you know, like",
+      "duration": 4.0,
+      "offset": 2388.8,
+      "lang": "en"
+    },
+    {
+      "text": "with the actual camera angles, with the",
+      "duration": 3.76,
+      "offset": 2391.04,
+      "lang": "en"
+    },
+    {
+      "text": "background, but I ended up just finding",
+      "duration": 4.88,
+      "offset": 2392.8,
+      "lang": "en"
+    },
+    {
+      "text": "these on Pinterest, I believe, of like",
+      "duration": 4.8,
+      "offset": 2394.8,
+      "lang": "en"
+    },
+    {
+      "text": "the aesthetic reference and the actual",
+      "duration": 3.36,
+      "offset": 2397.68,
+      "lang": "en"
+    },
+    {
+      "text": "pose reference. And then this was for my",
+      "duration": 3.92,
+      "offset": 2399.6,
+      "lang": "en"
+    },
+    {
+      "text": "article on",
+      "duration": 5.76,
+      "offset": 2401.04,
+      "lang": "en"
+    },
+    {
+      "text": "AI legal stuff. What else have I done?",
+      "duration": 5.68,
+      "offset": 2403.52,
+      "lang": "en"
+    },
+    {
+      "text": "This is one recently. Funny enough, I",
+      "duration": 4.48,
+      "offset": 2406.8,
+      "lang": "en"
+    },
+    {
+      "text": "could not get it to give me extra",
+      "duration": 4.32,
+      "offset": 2409.2,
+      "lang": "en"
+    },
+    {
+      "text": "fingers, which is hilarious because",
+      "duration": 3.36,
+      "offset": 2411.28,
+      "lang": "en"
+    },
+    {
+      "text": "there [clears throat] were years of my",
+      "duration": 2.56,
+      "offset": 2413.52,
+      "lang": "en"
+    },
+    {
+      "text": "life where I was trying to do the",
+      "duration": 4.0,
+      "offset": 2414.64,
+      "lang": "en"
+    },
+    {
+      "text": "opposite. So, I was like 15 minutes I",
+      "duration": 4.72,
+      "offset": 2416.08,
+      "lang": "en"
+    },
+    {
+      "text": "was able to get it to give me uh like AI",
+      "duration": 3.84,
+      "offset": 2418.64,
+      "lang": "en"
+    },
+    {
+      "text": "fingers. That was a recent article I",
+      "duration": 4.48,
+      "offset": 2420.8,
+      "lang": "en"
+    },
+    {
+      "text": "did, too. Uh again, we&#39;re like using",
+      "duration": 4.32,
+      "offset": 2422.48,
+      "lang": "en"
+    },
+    {
+      "text": "SRFs. This one didn&#39;t actually kind of",
+      "duration": 3.6,
+      "offset": 2425.28,
+      "lang": "en"
+    },
+    {
+      "text": "like carry through. Uh but in earlier",
+      "duration": 4.24,
+      "offset": 2426.8,
+      "lang": "en"
+    },
+    {
+      "text": "references, it did. So, I just want to",
+      "duration": 3.6,
+      "offset": 2428.88,
+      "lang": "en"
+    },
+    {
+      "text": "call out for people who are listening,",
+      "duration": 2.96,
+      "offset": 2431.04,
+      "lang": "en"
+    },
+    {
+      "text": "not watching because I&#39;m making a face,",
+      "duration": 4.32,
+      "offset": 2432.48,
+      "lang": "en"
+    },
+    {
+      "text": "which is Jamie basically dragged in a",
+      "duration": 5.2,
+      "offset": 2434.0,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of like realistic",
+      "duration": 4.24,
+      "offset": 2436.8,
+      "lang": "en"
+    },
+    {
+      "text": "um but still my face, which is really",
+      "duration": 2.88,
+      "offset": 2439.2,
+      "lang": "en"
+    },
+    {
+      "text": "hard as somebody who&#39;s trying to",
+      "duration": 2.64,
+      "offset": 2441.04,
+      "lang": "en"
+    },
+    {
+      "text": "generate images of himself. Realistic",
+      "duration": 4.48,
+      "offset": 2442.08,
+      "lang": "en"
+    },
+    {
+      "text": "but still my face selfies and then has",
+      "duration": 5.68,
+      "offset": 2443.68,
+      "lang": "en"
+    },
+    {
+      "text": "used Flora to generate a bunch of mix",
+      "duration": 5.52,
+      "offset": 2446.56,
+      "lang": "en"
+    },
+    {
+      "text": "and match remixed versions for articles",
+      "duration": 4.8,
+      "offset": 2449.36,
+      "lang": "en"
+    },
+    {
+      "text": "and thumbnails. Y&#39;all, my YouTube",
+      "duration": 4.48,
+      "offset": 2452.08,
+      "lang": "en"
+    },
+    {
+      "text": "thumbnails are about to get real real",
+      "duration": 5.12,
+      "offset": 2454.16,
+      "lang": "en"
+    },
+    {
+      "text": "good. I&#39;m so excited. This is very very",
+      "duration": 4.64,
+      "offset": 2456.56,
+      "lang": "en"
+    },
+    {
+      "text": "helpful. And if I could throw back to",
+      "duration": 5.36,
+      "offset": 2459.28,
+      "lang": "en"
+    },
+    {
+      "text": "probably three, two or three years ago,",
+      "duration": 5.36,
+      "offset": 2461.2,
+      "lang": "en"
+    },
+    {
+      "text": "it had to be three years ago. One of the",
+      "duration": 4.72,
+      "offset": 2464.64,
+      "lang": "en"
+    },
+    {
+      "text": "first things that I did um was back in",
+      "duration": 4.08,
+      "offset": 2466.56,
+      "lang": "en"
+    },
+    {
+      "text": "the day when you actually didn&#39;t have",
+      "duration": 4.48,
+      "offset": 2469.36,
+      "lang": "en"
+    },
+    {
+      "text": "these beautiful UIs is I fine-tuned",
+      "duration": 6.0,
+      "offset": 2470.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; a model on directly on my face that I",
+      "duration": 5.6,
+      "offset": 2473.84,
+      "lang": "en"
+    },
+    {
+      "text": "could call like a it was like a light I",
+      "duration": 4.08,
+      "offset": 2476.64,
+      "lang": "en"
+    },
+    {
+      "text": "forget what it was called.",
+      "duration": 3.84,
+      "offset": 2479.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, it&#39;s a Laura I think. Laura. So, I",
+      "duration": 5.52,
+      "offset": 2480.72,
+      "lang": "en"
+    },
+    {
+      "text": "I fine-tuned it on my face and then um I",
+      "duration": 5.36,
+      "offset": 2483.28,
+      "lang": "en"
+    },
+    {
+      "text": "generated a bunch a bunch of images and",
+      "duration": 4.16,
+      "offset": 2486.24,
+      "lang": "en"
+    },
+    {
+      "text": "it was so useful to have this specific",
+      "duration": 3.12,
+      "offset": 2488.64,
+      "lang": "en"
+    },
+    {
+      "text": "one and now we&#39;re all spoiled. We can",
+      "duration": 3.68,
+      "offset": 2490.4,
+      "lang": "en"
+    },
+    {
+      "text": "just do this in this UI and I never want",
+      "duration": 6.0,
+      "offset": 2491.76,
+      "lang": "en"
+    },
+    {
+      "text": "to see this um Chad Steve Jobs ever",
+      "duration": 6.24,
+      "offset": 2494.08,
+      "lang": "en"
+    },
+    {
+      "text": "again. But I love the idea of dragging",
+      "duration": 5.84,
+      "offset": 2497.76,
+      "lang": "en"
+    },
+    {
+      "text": "these two notes together um into into an",
+      "duration": 4.64,
+      "offset": 2500.32,
+      "lang": "en"
+    },
+    {
+      "text": "image.",
+      "duration": 2.88,
+      "offset": 2503.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, people people struggle with it.",
+      "duration": 3.76,
+      "offset": 2504.96,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s hard to get to nail it. I think I",
+      "duration": 4.08,
+      "offset": 2506.48,
+      "lang": "en"
+    },
+    {
+      "text": "have like a really kind of like strange",
+      "duration": 3.84,
+      "offset": 2508.72,
+      "lang": "en"
+    },
+    {
+      "text": "face. say have like big eyes and stuff",
+      "duration": 3.68,
+      "offset": 2510.56,
+      "lang": "en"
+    },
+    {
+      "text": "that it like just latches on to me",
+      "duration": 3.36,
+      "offset": 2512.56,
+      "lang": "en"
+    },
+    {
+      "text": "really well. Like I have an Asian",
+      "duration": 3.92,
+      "offset": 2514.24,
+      "lang": "en"
+    },
+    {
+      "text": "boyfriend and it just like refuses. Like",
+      "duration": 3.84,
+      "offset": 2515.92,
+      "lang": "en"
+    },
+    {
+      "text": "every generation I make of him is just",
+      "duration": 3.44,
+      "offset": 2518.16,
+      "lang": "en"
+    },
+    {
+      "text": "like generic Asian guy.",
+      "duration": 4.4,
+      "offset": 2519.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; We can we can do the aside of like the",
+      "duration": 4.56,
+      "offset": 2521.6,
+      "lang": "en"
+    },
+    {
+      "text": "bi like the bias of what goes into these",
+      "duration": 3.92,
+      "offset": 2524.16,
+      "lang": "en"
+    },
+    {
+      "text": "training training sets. I mean we can",
+      "duration": 4.48,
+      "offset": 2526.16,
+      "lang": "en"
+    },
+    {
+      "text": "get a lot of convention, as you said,",
+      "duration": 4.64,
+      "offset": 2528.08,
+      "lang": "en"
+    },
+    {
+      "text": "conventionally attractive blonde women.",
+      "duration": 2.56,
+      "offset": 2530.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah.",
+      "duration": 2.24,
+      "offset": 2532.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; We can generate all day all night",
+      "duration": 3.52,
+      "offset": 2533.2,
+      "lang": "en"
+    },
+    {
+      "text": "because they&#39;re all over the internet.",
+      "duration": 3.68,
+      "offset": 2534.96,
+      "lang": "en"
+    },
+    {
+      "text": "Um fingers crossed. Well, every every",
+      "duration": 3.76,
+      "offset": 2536.72,
+      "lang": "en"
+    },
+    {
+      "text": "athlete if you if you want an athlete in",
+      "duration": 3.2,
+      "offset": 2538.64,
+      "lang": "en"
+    },
+    {
+      "text": "Mid Journey, it&#39;s going to be a very",
+      "duration": 3.36,
+      "offset": 2540.48,
+      "lang": "en"
+    },
+    {
+      "text": "large black man. It&#39;s going to be a very",
+      "duration": 4.32,
+      "offset": 2541.84,
+      "lang": "en"
+    },
+    {
+      "text": "strong, beautiful black man. Oh my god,",
+      "duration": 3.6,
+      "offset": 2543.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; you cannot get a white you can you",
+      "duration": 3.12,
+      "offset": 2546.16,
+      "lang": "en"
+    },
+    {
+      "text": "cannot get a white athlete in",
+      "duration": 3.12,
+      "offset": 2547.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I mean this is what&#39;s really interesting",
+      "duration": 2.56,
+      "offset": 2549.28,
+      "lang": "en"
+    },
+    {
+      "text": "is as you start to play with these",
+      "duration": 3.6,
+      "offset": 2550.56,
+      "lang": "en"
+    },
+    {
+      "text": "models you really start to understand",
+      "duration": 5.12,
+      "offset": 2551.84,
+      "lang": "en"
+    },
+    {
+      "text": "they are trained on the internet and I",
+      "duration": 4.48,
+      "offset": 2554.16,
+      "lang": "en"
+    },
+    {
+      "text": "was mentioning recently in some like",
+      "duration": 4.4,
+      "offset": 2556.96,
+      "lang": "en"
+    },
+    {
+      "text": "chitchat about um molt book which is",
+      "duration": 5.12,
+      "offset": 2558.64,
+      "lang": "en"
+    },
+    {
+      "text": "where all the open claw lobsters are",
+      "duration": 3.36,
+      "offset": 2561.36,
+      "lang": "en"
+    },
+    {
+      "text": "together and people are like why are",
+      "duration": 3.2,
+      "offset": 2563.76,
+      "lang": "en"
+    },
+    {
+      "text": "they weird and I was like they&#39;re weird",
+      "duration": 4.88,
+      "offset": 2564.72,
+      "lang": "en"
+    },
+    {
+      "text": "because it&#39;s a fake Reddit trained on",
+      "duration": 5.04,
+      "offset": 2566.96,
+      "lang": "en"
+    },
+    {
+      "text": "Reddit data and people on Reddit",
+      "duration": 4.4,
+      "offset": 2569.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; are weird and so I think one of the",
+      "duration": 3.44,
+      "offset": 2572.0,
+      "lang": "en"
+    },
+    {
+      "text": "things you have to know about using",
+      "duration": 3.2,
+      "offset": 2574.0,
+      "lang": "en"
+    },
+    {
+      "text": "these models is like where is the",
+      "duration": 4.0,
+      "offset": 2575.44,
+      "lang": "en"
+    },
+    {
+      "text": "training data come from and therefore",
+      "duration": 3.68,
+      "offset": 2577.2,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s it going to generate for you and",
+      "duration": 3.44,
+      "offset": 2579.44,
+      "lang": "en"
+    },
+    {
+      "text": "what isn&#39;t and I and I the more you",
+      "duration": 3.44,
+      "offset": 2580.88,
+      "lang": "en"
+    },
+    {
+      "text": "explore it the more you more you hit",
+      "duration": 3.92,
+      "offset": 2582.88,
+      "lang": "en"
+    },
+    {
+      "text": "those edges Jamie I love all this this",
+      "duration": 4.08,
+      "offset": 2584.32,
+      "lang": "en"
+    },
+    {
+      "text": "is all super useful I&#39;m going to be able",
+      "duration": 3.28,
+      "offset": 2586.8,
+      "lang": "en"
+    },
+    {
+      "text": "to go put this into practice literally",
+      "duration": 3.12,
+      "offset": 2588.4,
+      "lang": "en"
+    },
+    {
+      "text": "today because we&#39;re working on a on a",
+      "duration": 3.28,
+      "offset": 2590.08,
+      "lang": "en"
+    },
+    {
+      "text": "thumbnail today prompts",
+      "duration": 4.08,
+      "offset": 2591.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; so let&#39;s let&#39;s skip over to lightning",
+      "duration": 3.68,
+      "offset": 2593.36,
+      "lang": "en"
+    },
+    {
+      "text": "round and then I will get you out to",
+      "duration": 4.56,
+      "offset": 2595.6,
+      "lang": "en"
+    },
+    {
+      "text": "generating another thousand images so my",
+      "duration": 6.24,
+      "offset": 2597.04,
+      "lang": "en"
+    },
+    {
+      "text": "first question is where do you go for",
+      "duration": 4.8,
+      "offset": 2600.16,
+      "lang": "en"
+    },
+    {
+      "text": "inspiration I think one of the things",
+      "duration": 3.2,
+      "offset": 2603.28,
+      "lang": "en"
+    },
+    {
+      "text": "that you sort of like pass through is",
+      "duration": 3.04,
+      "offset": 2604.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re like, &quot;Oh, if you know this",
+      "duration": 3.44,
+      "offset": 2606.48,
+      "lang": "en"
+    },
+    {
+      "text": "magazine or that editorial style, that",
+      "duration": 4.16,
+      "offset": 2608.0,
+      "lang": "en"
+    },
+    {
+      "text": "camera, and I feel like people aren&#39;t",
+      "duration": 4.32,
+      "offset": 2609.92,
+      "lang": "en"
+    },
+    {
+      "text": "cultivating their visual taste and",
+      "duration": 4.0,
+      "offset": 2612.16,
+      "lang": "en"
+    },
+    {
+      "text": "language enough.&quot; So, what are some of",
+      "duration": 3.44,
+      "offset": 2614.24,
+      "lang": "en"
+    },
+    {
+      "text": "your, you know, other than Pinterest,",
+      "duration": 2.88,
+      "offset": 2616.16,
+      "lang": "en"
+    },
+    {
+      "text": "what are your some of your sources where",
+      "duration": 3.92,
+      "offset": 2617.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re um continually improving your",
+      "duration": 4.64,
+      "offset": 2619.04,
+      "lang": "en"
+    },
+    {
+      "text": "language and your aesthetic taste",
+      "duration": 4.08,
+      "offset": 2621.6,
+      "lang": "en"
+    },
+    {
+      "text": "through exposure to other things?",
+      "duration": 4.64,
+      "offset": 2623.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Um, one thing that I recommend to",
+      "duration": 6.08,
+      "offset": 2625.68,
+      "lang": "en"
+    },
+    {
+      "text": "everyone is to start a list on Twitter.",
+      "duration": 5.76,
+      "offset": 2628.32,
+      "lang": "en"
+    },
+    {
+      "text": "There&#39;s tons of like basically Tumblr",
+      "duration": 4.64,
+      "offset": 2631.76,
+      "lang": "en"
+    },
+    {
+      "text": "accounts still to this day that post",
+      "duration": 4.32,
+      "offset": 2634.08,
+      "lang": "en"
+    },
+    {
+      "text": "like really aesthetic images. So like",
+      "duration": 3.92,
+      "offset": 2636.4,
+      "lang": "en"
+    },
+    {
+      "text": "some of these are like uh this account",
+      "duration": 3.52,
+      "offset": 2638.4,
+      "lang": "en"
+    },
+    {
+      "text": "is literally called pink glitter. So she",
+      "duration": 4.4,
+      "offset": 2640.32,
+      "lang": "en"
+    },
+    {
+      "text": "posts a lot of like 2000 stuff. Um so",
+      "duration": 4.0,
+      "offset": 2641.92,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s really great to use for",
+      "duration": 4.32,
+      "offset": 2644.72,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney fashion accounts. A lot of",
+      "duration": 5.04,
+      "offset": 2645.92,
+      "lang": "en"
+    },
+    {
+      "text": "fashion is what I follow. So I have like",
+      "duration": 3.76,
+      "offset": 2649.04,
+      "lang": "en"
+    },
+    {
+      "text": "a Twitter list of like really aesthetic",
+      "duration": 3.68,
+      "offset": 2650.96,
+      "lang": "en"
+    },
+    {
+      "text": "photos. Like this is obviously great if",
+      "duration": 3.92,
+      "offset": 2652.8,
+      "lang": "en"
+    },
+    {
+      "text": "you again want more sexy ladies. So",
+      "duration": 5.12,
+      "offset": 2654.64,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s what I do. Also, Cosmos, of",
+      "duration": 8.16,
+      "offset": 2656.72,
+      "lang": "en"
+    },
+    {
+      "text": "course, is superb. So, let&#39;s do like the",
+      "duration": 7.28,
+      "offset": 2659.76,
+      "lang": "en"
+    },
+    {
+      "text": "real model here. One of your favorite",
+      "duration": 3.28,
+      "offset": 2664.88,
+      "lang": "en"
+    },
+    {
+      "text": "images.",
+      "duration": 3.44,
+      "offset": 2667.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Um, so obviously this is just like",
+      "duration": 5.12,
+      "offset": 2668.16,
+      "lang": "en"
+    },
+    {
+      "text": "a treasure trove of estraps, especially",
+      "duration": 5.12,
+      "offset": 2670.48,
+      "lang": "en"
+    },
+    {
+      "text": "for like specific moods and vibes. I",
+      "duration": 4.48,
+      "offset": 2673.28,
+      "lang": "en"
+    },
+    {
+      "text": "feel like as a designer, I still, as",
+      "duration": 4.56,
+      "offset": 2675.6,
+      "lang": "en"
+    },
+    {
+      "text": "much as I love Cosmos for like branding",
+      "duration": 4.32,
+      "offset": 2677.76,
+      "lang": "en"
+    },
+    {
+      "text": "stuff, like logos and like website",
+      "duration": 3.76,
+      "offset": 2680.16,
+      "lang": "en"
+    },
+    {
+      "text": "inspiration, I still use Pinterest a ton",
+      "duration": 3.84,
+      "offset": 2682.08,
+      "lang": "en"
+    },
+    {
+      "text": "as like my home base. But I will still",
+      "duration": 4.08,
+      "offset": 2683.92,
+      "lang": "en"
+    },
+    {
+      "text": "use Cosmos for like art direction",
+      "duration": 3.44,
+      "offset": 2685.92,
+      "lang": "en"
+    },
+    {
+      "text": "things. The great thing about both of",
+      "duration": 4.16,
+      "offset": 2688.0,
+      "lang": "en"
+    },
+    {
+      "text": "these is like Pinterest has a plugin.",
+      "duration": 4.32,
+      "offset": 2689.36,
+      "lang": "en"
+    },
+    {
+      "text": "Um, so you can literally save from like",
+      "duration": 3.6,
+      "offset": 2692.16,
+      "lang": "en"
+    },
+    {
+      "text": "any page, especially like again if",
+      "duration": 4.96,
+      "offset": 2693.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re on like X, you can go save to",
+      "duration": 4.8,
+      "offset": 2695.76,
+      "lang": "en"
+    },
+    {
+      "text": "Pinterest. Cosmos I believe has the same",
+      "duration": 3.04,
+      "offset": 2698.64,
+      "lang": "en"
+    },
+    {
+      "text": "thing, but I don&#39;t have it turned on",
+      "duration": 3.2,
+      "offset": 2700.56,
+      "lang": "en"
+    },
+    {
+      "text": "right now. So that&#39;s what I do. And then",
+      "duration": 6.0,
+      "offset": 2701.68,
+      "lang": "en"
+    },
+    {
+      "text": "anytime I&#39;m like shopping online again,",
+      "duration": 7.12,
+      "offset": 2703.76,
+      "lang": "en"
+    },
+    {
+      "text": "X Instagram, um, something I teach in my",
+      "duration": 4.96,
+      "offset": 2707.68,
+      "lang": "en"
+    },
+    {
+      "text": "course as well is a daily taste",
+      "duration": 4.88,
+      "offset": 2710.88,
+      "lang": "en"
+    },
+    {
+      "text": "practice. So, just like get really on",
+      "duration": 5.84,
+      "offset": 2712.64,
+      "lang": "en"
+    },
+    {
+      "text": "top of saving and archiving stuff. My",
+      "duration": 4.72,
+      "offset": 2715.76,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards on Pinterest are actually",
+      "duration": 4.4,
+      "offset": 2718.48,
+      "lang": "en"
+    },
+    {
+      "text": "shockingly simple because I realized if",
+      "duration": 6.16,
+      "offset": 2720.48,
+      "lang": "en"
+    },
+    {
+      "text": "I had too many, I was like uh getting",
+      "duration": 5.36,
+      "offset": 2722.88,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like decision fatigue, which is",
+      "duration": 3.6,
+      "offset": 2726.64,
+      "lang": "en"
+    },
+    {
+      "text": "why my design inspiration board is 7,000",
+      "duration": 3.92,
+      "offset": 2728.24,
+      "lang": "en"
+    },
+    {
+      "text": "pins. It&#39;s probably time to like switch",
+      "duration": 3.68,
+      "offset": 2730.24,
+      "lang": "en"
+    },
+    {
+      "text": "that up. But I have like I don&#39;t know",
+      "duration": 4.24,
+      "offset": 2732.16,
+      "lang": "en"
+    },
+    {
+      "text": "what is this like 20 mood boards. So",
+      "duration": 4.32,
+      "offset": 2733.92,
+      "lang": "en"
+    },
+    {
+      "text": "like instead of having like ethereal",
+      "duration": 4.24,
+      "offset": 2736.4,
+      "lang": "en"
+    },
+    {
+      "text": "model mood board with like 10 images, I",
+      "duration": 4.4,
+      "offset": 2738.24,
+      "lang": "en"
+    },
+    {
+      "text": "just have like one that&#39;s like ass. And",
+      "duration": 4.0,
+      "offset": 2740.64,
+      "lang": "en"
+    },
+    {
+      "text": "anytime I see anything on Pinterest that",
+      "duration": 4.24,
+      "offset": 2742.64,
+      "lang": "en"
+    },
+    {
+      "text": "I would like love to bring in to my",
+      "duration": 4.48,
+      "offset": 2744.64,
+      "lang": "en"
+    },
+    {
+      "text": "journey one day, I just save it. And",
+      "duration": 4.16,
+      "offset": 2746.88,
+      "lang": "en"
+    },
+    {
+      "text": "then when I need inspiration for like",
+      "duration": 4.0,
+      "offset": 2749.12,
+      "lang": "en"
+    },
+    {
+      "text": "any project, even like client projects,",
+      "duration": 4.4,
+      "offset": 2751.04,
+      "lang": "en"
+    },
+    {
+      "text": "like I&#39;m doing a sock brand soon, so I",
+      "duration": 4.0,
+      "offset": 2753.12,
+      "lang": "en"
+    },
+    {
+      "text": "have a lot of running stuff. I just save",
+      "duration": 3.68,
+      "offset": 2755.44,
+      "lang": "en"
+    },
+    {
+      "text": "it all here. And then it&#39;s really easy",
+      "duration": 4.64,
+      "offset": 2757.12,
+      "lang": "en"
+    },
+    {
+      "text": "for me to go through and just like copy",
+      "duration": 4.48,
+      "offset": 2759.12,
+      "lang": "en"
+    },
+    {
+      "text": "and paste into mood boards. As you can",
+      "duration": 3.84,
+      "offset": 2761.76,
+      "lang": "en"
+    },
+    {
+      "text": "see here, like these are images that",
+      "duration": 3.15,
+      "offset": 2763.6,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve saved. I don&#39;t know what",
+      "duration": 2.0,
+      "offset": 2765.6,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat] the hell I was looking",
+      "duration": 2.53,
+      "offset": 2766.75,
+      "lang": "en"
+    },
+    {
+      "text": "up.",
+      "duration": 3.36,
+      "offset": 2767.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You were looking at that. It&#39;s like",
+      "duration": 4.16,
+      "offset": 2769.28,
+      "lang": "en"
+    },
+    {
+      "text": "shells and it seems like very",
+      "duration": 4.88,
+      "offset": 2770.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; it was like a website for like",
+      "duration": 4.8,
+      "offset": 2773.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; technical 3D scans, but this is like a",
+      "duration": 4.56,
+      "offset": 2775.84,
+      "lang": "en"
+    },
+    {
+      "text": "grain of rice or something. But it was",
+      "duration": 5.36,
+      "offset": 2778.24,
+      "lang": "en"
+    },
+    {
+      "text": "sick. So, I like saved this and then I",
+      "duration": 5.44,
+      "offset": 2780.4,
+      "lang": "en"
+    },
+    {
+      "text": "really need someone to do this for me.",
+      "duration": 4.0,
+      "offset": 2783.6,
+      "lang": "en"
+    },
+    {
+      "text": "But I get like millions of views on",
+      "duration": 4.56,
+      "offset": 2785.84,
+      "lang": "en"
+    },
+    {
+      "text": "Pinterest a month now because every time",
+      "duration": 4.72,
+      "offset": 2787.6,
+      "lang": "en"
+    },
+    {
+      "text": "I see something and I save it like",
+      "duration": 3.6,
+      "offset": 2790.4,
+      "lang": "en"
+    },
+    {
+      "text": "images I was already gonna save anyway.",
+      "duration": 3.2,
+      "offset": 2792.32,
+      "lang": "en"
+    },
+    {
+      "text": "Like this is just from like high fashion",
+      "duration": 3.28,
+      "offset": 2794.0,
+      "lang": "en"
+    },
+    {
+      "text": "Twitter. I just saved it and it has like",
+      "duration": 4.32,
+      "offset": 2795.52,
+      "lang": "en"
+    },
+    {
+      "text": "200,000 impressions. So not only this",
+      "duration": 4.08,
+      "offset": 2797.28,
+      "lang": "en"
+    },
+    {
+      "text": "this is a kind of like source of",
+      "duration": 2.64,
+      "offset": 2799.84,
+      "lang": "en"
+    },
+    {
+      "text": "inspiration for you, it could actually",
+      "duration": 2.4,
+      "offset": 2801.36,
+      "lang": "en"
+    },
+    {
+      "text": "be a source of business for you because",
+      "duration": 2.64,
+      "offset": 2802.48,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re sharing out and making these",
+      "duration": 3.92,
+      "offset": 2803.76,
+      "lang": "en"
+    },
+    {
+      "text": "resources useful to people. Jamie, uh my",
+      "duration": 4.08,
+      "offset": 2805.12,
+      "lang": "en"
+    },
+    {
+      "text": "last question I have to ask you ask",
+      "duration": 3.52,
+      "offset": 2807.68,
+      "lang": "en"
+    },
+    {
+      "text": "everybody which is",
+      "duration": 3.84,
+      "offset": 2809.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; you know you you have seemed to your",
+      "duration": 3.36,
+      "offset": 2811.2,
+      "lang": "en"
+    },
+    {
+      "text": "prompting technique is keep it dead",
+      "duration": 2.96,
+      "offset": 2813.04,
+      "lang": "en"
+    },
+    {
+      "text": "simple. We also talked a little bit",
+      "duration": 3.92,
+      "offset": 2814.56,
+      "lang": "en"
+    },
+    {
+      "text": "before the show about how you don&#39;t love",
+      "duration": 4.88,
+      "offset": 2816.0,
+      "lang": "en"
+    },
+    {
+      "text": "to prompt a lot and you&#39;re not like, you",
+      "duration": 3.6,
+      "offset": 2818.48,
+      "lang": "en"
+    },
+    {
+      "text": "know, you don&#39;t want to spend a bunch of",
+      "duration": 2.48,
+      "offset": 2820.88,
+      "lang": "en"
+    },
+    {
+      "text": "time in Claude. But",
+      "duration": 2.32,
+      "offset": 2822.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; yeah,",
+      "duration": 3.04,
+      "offset": 2823.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; if AI is not giving you what you want,",
+      "duration": 4.32,
+      "offset": 2824.4,
+      "lang": "en"
+    },
+    {
+      "text": "if we&#39;re getting to ugly stuff here,",
+      "duration": 4.24,
+      "offset": 2826.4,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s your pro what&#39;s your prompting or",
+      "duration": 5.12,
+      "offset": 2828.72,
+      "lang": "en"
+    },
+    {
+      "text": "personal technique to just get it going",
+      "duration": 4.4,
+      "offset": 2830.64,
+      "lang": "en"
+    },
+    {
+      "text": "in the right direction? Whether it&#39;s",
+      "duration": 5.12,
+      "offset": 2833.84,
+      "lang": "en"
+    },
+    {
+      "text": "images or text, are you mean? Firstly,",
+      "duration": 6.32,
+      "offset": 2835.04,
+      "lang": "en"
+    },
+    {
+      "text": "take a break always. like you&#39;re never",
+      "duration": 5.76,
+      "offset": 2838.96,
+      "lang": "en"
+    },
+    {
+      "text": "gonna be able to like see properly if",
+      "duration": 5.68,
+      "offset": 2841.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re kind of like in it. Um so like",
+      "duration": 4.16,
+      "offset": 2844.72,
+      "lang": "en"
+    },
+    {
+      "text": "sleeping on it or just like walking away",
+      "duration": 3.28,
+      "offset": 2847.04,
+      "lang": "en"
+    },
+    {
+      "text": "and then sometimes I come back and I",
+      "duration": 4.96,
+      "offset": 2848.88,
+      "lang": "en"
+    },
+    {
+      "text": "just like new SRF different prompt like",
+      "duration": 5.12,
+      "offset": 2850.32,
+      "lang": "en"
+    },
+    {
+      "text": "grab this reference use this camera and",
+      "duration": 3.6,
+      "offset": 2853.84,
+      "lang": "en"
+    },
+    {
+      "text": "then it immediately works. Um so I would",
+      "duration": 5.36,
+      "offset": 2855.44,
+      "lang": "en"
+    },
+    {
+      "text": "say walking away and then part of my",
+      "duration": 6.24,
+      "offset": 2857.44,
+      "lang": "en"
+    },
+    {
+      "text": "process too is just like during that",
+      "duration": 4.8,
+      "offset": 2860.8,
+      "lang": "en"
+    },
+    {
+      "text": "walk away when you come back be like",
+      "duration": 3.84,
+      "offset": 2863.68,
+      "lang": "en"
+    },
+    {
+      "text": "okay what is actually the problem? Like",
+      "duration": 3.36,
+      "offset": 2865.6,
+      "lang": "en"
+    },
+    {
+      "text": "for some of these generations I&#39;m like",
+      "duration": 2.8,
+      "offset": 2867.52,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s just too busy. It&#39;s too mid",
+      "duration": 3.36,
+      "offset": 2868.96,
+      "lang": "en"
+    },
+    {
+      "text": "journey. I&#39;m using like 18 SRFs. Like",
+      "duration": 3.92,
+      "offset": 2870.32,
+      "lang": "en"
+    },
+    {
+      "text": "this is just not going to work. So, I&#39;m",
+      "duration": 3.12,
+      "offset": 2872.32,
+      "lang": "en"
+    },
+    {
+      "text": "gonna like take a step back. I&#39;m gonna",
+      "duration": 2.64,
+      "offset": 2874.24,
+      "lang": "en"
+    },
+    {
+      "text": "read the mood board and I&#39;m gonna figure",
+      "duration": 3.04,
+      "offset": 2875.44,
+      "lang": "en"
+    },
+    {
+      "text": "out what exactly from these images is",
+      "duration": 3.28,
+      "offset": 2876.88,
+      "lang": "en"
+    },
+    {
+      "text": "important. And it&#39;s like, all right, I",
+      "duration": 3.52,
+      "offset": 2878.48,
+      "lang": "en"
+    },
+    {
+      "text": "keep getting this like stupid red color.",
+      "duration": 3.68,
+      "offset": 2880.16,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to take out this red color.",
+      "duration": 4.24,
+      "offset": 2882.0,
+      "lang": "en"
+    },
+    {
+      "text": "Like even though I love this image and I",
+      "duration": 4.32,
+      "offset": 2883.84,
+      "lang": "en"
+    },
+    {
+      "text": "would love for I would love for it to",
+      "duration": 3.76,
+      "offset": 2886.24,
+      "lang": "en"
+    },
+    {
+      "text": "like come through, it&#39;s not giving me",
+      "duration": 3.28,
+      "offset": 2888.16,
+      "lang": "en"
+    },
+    {
+      "text": "what I want. Money is not listening to",
+      "duration": 3.6,
+      "offset": 2890.0,
+      "lang": "en"
+    },
+    {
+      "text": "me. So, again, like I think I talked",
+      "duration": 3.36,
+      "offset": 2891.44,
+      "lang": "en"
+    },
+    {
+      "text": "about this in the beginning, like brutal",
+      "duration": 3.84,
+      "offset": 2893.6,
+      "lang": "en"
+    },
+    {
+      "text": "honesty on like what&#39;s going on and",
+      "duration": 4.8,
+      "offset": 2894.8,
+      "lang": "en"
+    },
+    {
+      "text": "trying to like not",
+      "duration": 4.4,
+      "offset": 2897.44,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know, make AI work the way you",
+      "duration": 3.44,
+      "offset": 2899.6,
+      "lang": "en"
+    },
+    {
+      "text": "want it to work and actually",
+      "duration": 3.36,
+      "offset": 2901.84,
+      "lang": "en"
+    },
+    {
+      "text": "understanding how it works in general,",
+      "duration": 4.16,
+      "offset": 2903.04,
+      "lang": "en"
+    },
+    {
+      "text": "but I think time away is probably",
+      "duration": 4.72,
+      "offset": 2905.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I I love it. Time away and seeing things",
+      "duration": 4.72,
+      "offset": 2907.2,
+      "lang": "en"
+    },
+    {
+      "text": "from the AI&#39;s point of view.",
+      "duration": 4.08,
+      "offset": 2909.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Well, Jamie, this was great. How",
+      "duration": 3.6,
+      "offset": 2911.92,
+      "lang": "en"
+    },
+    {
+      "text": "can we find you and where can we be",
+      "duration": 2.48,
+      "offset": 2914.0,
+      "lang": "en"
+    },
+    {
+      "text": "helpful?",
+      "duration": 3.84,
+      "offset": 2915.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. Um, so I spend all my time on X.",
+      "duration": 6.72,
+      "offset": 2916.48,
+      "lang": "en"
+    },
+    {
+      "text": "So, uh, XJamie Ganon or TechBimbo is my",
+      "duration": 5.6,
+      "offset": 2919.36,
+      "lang": "en"
+    },
+    {
+      "text": "name. And yeah, I have an AI course",
+      "duration": 4.4,
+      "offset": 2923.2,
+      "lang": "en"
+    },
+    {
+      "text": "coming out. It&#39;s called, um, the AI",
+      "duration": 5.36,
+      "offset": 2924.96,
+      "lang": "en"
+    },
+    {
+      "text": "creative director. It&#39;s on Maven. Um,",
+      "duration": 4.48,
+      "offset": 2927.6,
+      "lang": "en"
+    },
+    {
+      "text": "you can find that on my X or my website",
+      "duration": 4.72,
+      "offset": 2930.32,
+      "lang": "en"
+    },
+    {
+      "text": "as well. So, if you are interested in",
+      "duration": 4.64,
+      "offset": 2932.08,
+      "lang": "en"
+    },
+    {
+      "text": "like really deep diving into this and",
+      "duration": 3.68,
+      "offset": 2935.04,
+      "lang": "en"
+    },
+    {
+      "text": "getting live coaching from me and",
+      "duration": 5.12,
+      "offset": 2936.72,
+      "lang": "en"
+    },
+    {
+      "text": "hearing more of my by yapping on AI, I",
+      "duration": 5.44,
+      "offset": 2938.72,
+      "lang": "en"
+    },
+    {
+      "text": "would highly recommend you do it. Um,",
+      "duration": 5.36,
+      "offset": 2941.84,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s meant to be able to make you create",
+      "duration": 5.28,
+      "offset": 2944.16,
+      "lang": "en"
+    },
+    {
+      "text": "consistent client level work like I",
+      "duration": 4.88,
+      "offset": 2947.2,
+      "lang": "en"
+    },
+    {
+      "text": "showed today. So, join the course.",
+      "duration": 4.0,
+      "offset": 2949.44,
+      "lang": "en"
+    },
+    {
+      "text": "Awesome. We&#39;ll link to that in the show",
+      "duration": 2.88,
+      "offset": 2952.08,
+      "lang": "en"
+    },
+    {
+      "text": "notes. Well, Jamie, thank you so much",
+      "duration": 3.6,
+      "offset": 2953.44,
+      "lang": "en"
+    },
+    {
+      "text": "for sharing this and I&#39;m going to go",
+      "duration": 3.52,
+      "offset": 2954.96,
+      "lang": "en"
+    },
+    {
+      "text": "dive into Mid Journey.",
+      "duration": 4.8,
+      "offset": 2957.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Awesome. Cool. Thanks, Claire.",
+      "duration": 5.2,
+      "offset": 2958.48,
+      "lang": "en"
+    },
+    {
+      "text": "Thanks so much for watching. If you",
+      "duration": 3.6,
+      "offset": 2961.84,
+      "lang": "en"
+    },
+    {
+      "text": "enjoyed this show, please like and",
+      "duration": 3.44,
+      "offset": 2963.68,
+      "lang": "en"
+    },
+    {
+      "text": "subscribe here on YouTube, or even",
+      "duration": 3.12,
+      "offset": 2965.44,
+      "lang": "en"
+    },
+    {
+      "text": "better, leave us a comment with your",
+      "duration": 3.84,
+      "offset": 2967.12,
+      "lang": "en"
+    },
+    {
+      "text": "thoughts. You can also find this podcast",
+      "duration": 5.36,
+      "offset": 2968.56,
+      "lang": "en"
+    },
+    {
+      "text": "on Apple Podcasts, Spotify, or your",
+      "duration": 4.64,
+      "offset": 2970.96,
+      "lang": "en"
+    },
+    {
+      "text": "favorite podcast app. [music]",
+      "duration": 3.52,
+      "offset": 2973.92,
+      "lang": "en"
+    },
+    {
+      "text": "Please consider leaving us a rating and",
+      "duration": 3.92,
+      "offset": 2975.6,
+      "lang": "en"
+    },
+    {
+      "text": "review, which will help others find the",
+      "duration": 5.04,
+      "offset": 2977.44,
+      "lang": "en"
+    },
+    {
+      "text": "show. You can see all our episodes and",
+      "duration": 4.4,
+      "offset": 2979.52,
+      "lang": "en"
+    },
+    {
+      "text": "learn more about the show at",
+      "duration": 4.16,
+      "offset": 2982.48,
+      "lang": "en"
+    },
+    {
+      "text": "howiaipod.com.",
+      "duration": 6.28,
+      "offset": 2983.92,
+      "lang": "en"
+    },
+    {
+      "text": "See you next time.",
+      "duration": 3.56,
+      "offset": 2986.64,
+      "lang": "en"
+    }
+  ]
+}

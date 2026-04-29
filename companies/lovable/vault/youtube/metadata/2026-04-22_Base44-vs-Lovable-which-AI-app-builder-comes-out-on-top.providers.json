@@ -1,0 +1,24 @@
+{
+  "video_id": "0UCWNYd3Heg",
+  "title": "Base44 vs Lovable: which AI app builder comes out on top?",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-22T16:27:11",
+      "ok": false,
+      "status": "rapidapi_quota_or_rate_limit",
+      "status_code": 429,
+      "body_preview": "{\"message\":\"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\\/\\/rapidapi.com\\/solid-api-solid-api-default\\/api\\/youtube-transcript3\"}",
+      "stop_provider": true
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:27:13",
+      "chars": 26304
+    }
+  ],
+  "fetched_at": "2026-04-22T16:27:13"
+}

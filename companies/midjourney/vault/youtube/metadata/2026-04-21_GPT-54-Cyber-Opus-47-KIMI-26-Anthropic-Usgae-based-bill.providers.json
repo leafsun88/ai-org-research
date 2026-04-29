@@ -1,0 +1,16 @@
+{
+  "video_id": "5SWYQAzGdPA",
+  "title": "GPT-5.4 Cyber, Opus 4.7, KIMI 2.6, Anthropic Usgae based bill, Gemini Robot, Midjourney : Tech News",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:06:51",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:06:51"
+}

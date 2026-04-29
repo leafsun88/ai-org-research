@@ -1,0 +1,143 @@
+{
+  "company": "Spotify",
+  "slug": "Spotify",
+  "signal_engine": {
+    "date": "2026-04-01",
+    "company": "Spotify",
+    "old_friend": "Netflix",
+    "auto_applied": [
+      {
+        "id": "sig_spot_001",
+        "signal": "联席CEO架构首个完整季度平稳运行：Ek转执行董事长+双CEO分权模式成功过渡",
+        "confidence": 85,
+        "significance": "HIGH",
+        "dimensions": [
+          "D1",
+          "D2",
+          "D4"
+        ],
+        "delta": {
+          "D1": 0.5,
+          "D2": 0.3,
+          "D4": 0.2
+        },
+        "key_question": "Ek作为执行董事长的边界在哪？首次战略分歧时谁拍板？",
+        "applied_at": "2026-04-01T12:00:00Z"
+      }
+    ],
+    "proposals": [
+      {
+        "id": "sig_spot_003",
+        "signal": "AI工程革命：最优秀开发者自12月起未写一行代码（Honk + Claude Code）",
+        "confidence": 70.1,
+        "significance": "HIGH",
+        "dimensions": [
+          "D4",
+          "D5"
+        ],
+        "delta": {
+          "D4": 0.5,
+          "D5": 0.4
+        },
+        "key_question": "AI效率是否体现在产品发布节奏加速？Honk系统产出指标？",
+        "validation_trigger": "Q2 2026产品发布频率"
+      }
+    ],
+    "watch": [],
+    "discard": [
+      {
+        "signal": "SPOT $485 vs 分析师目标$726（50%背离）",
+        "reason": "股价/市场反应，非组织信号"
+      },
+      {
+        "signal": "Q1 2026财报定档4/28",
+        "reason": "日历事件，非信号"
+      }
+    ],
+    "key_questions": [
+      {
+        "id": "kq_spot_001",
+        "question": "Q1涨价后churn率和Basic层降级量？",
+        "resolves_by": "2026-04-28",
+        "author": "ai",
+        "evolving_answer": "历史数据：150+市场三轮提价后流失率稳定，但美国$12.99是心理关口",
+        "sources": [
+          "FY2025 Earnings",
+          "Pricing strategy analysis"
+        ],
+        "evidence_trail": [
+          {
+            "date": "2026-04-01",
+            "source": "ai_init",
+            "content": "历史数据：150+市场三轮提价后流失率稳定，但美国$12.99是心理关口",
+            "impact": "neutral"
+          },
+          {
+            "date": "2026-04-01",
+            "source": "ai_scan",
+            "content": "[从信号迁移] 美国涨价+Premium视频推出，三年三轮提价后流失率稳定。原auto_applied信号sig_spot_002，属于定价变更+产品功能发布。",
+            "impact": "neutral"
+          },
+          {
+            "date": "2026-04-01",
+            "source": "ai_scan",
+            "content": "[从信号迁移] 联席CEO架构首季业绩指标：付费用户+10%至290M，MAU净增38M创纪录。原sig_spot_001中的财务/用户增长指标部分。",
+            "impact": "supportive"
+          }
+        ]
+      },
+      {
+        "id": "kq_spot_002",
+        "question": "联席CEO+执行董事长架构的决策边界？首次分歧时机制？",
+        "resolves_by": "ongoing",
+        "author": "ai",
+        "evolving_answer": "Morningstar警告治理摩擦风险，但首季数据反驳不稳定叙事",
+        "sources": [
+          "Morningstar",
+          "Q4 2025 results"
+        ],
+        "evidence_trail": [
+          {
+            "date": "2026-04-01",
+            "source": "ai_init",
+            "content": "Morningstar警告治理摩擦风险，但首季数据反驳不稳定叙事",
+            "impact": "neutral"
+          }
+        ]
+      },
+      {
+        "id": "kq_spot_003",
+        "question": "AI工程革命（Honk/Claude Code）的产品发布节奏是否加速？",
+        "resolves_by": "2026-Q2",
+        "author": "ai",
+        "evolving_answer": "Soderstrom称2026为'提升野心之年'，人均营收已从EUR1.45K升至EUR2.43K",
+        "sources": [
+          "TechCrunch",
+          "Revenue per employee data"
+        ],
+        "evidence_trail": [
+          {
+            "date": "2026-04-01",
+            "source": "ai_init",
+            "content": "Soderstrom称2026为'提升野心之年'，人均营收已从EUR1.45K升至EUR2.43K",
+            "impact": "neutral"
+          },
+          {
+            "date": "2026-04-01",
+            "source": "ai_scan",
+            "content": "[从信号迁移] Artist Profile Protection反AI冒充工具Beta上线。原proposal信号sig_spot_004，属于产品功能发布。侧面反映AI工程能力在产品层的输出。",
+            "impact": "supportive"
+          },
+          {
+            "date": "2026-04-01",
+            "source": "ai_scan",
+            "content": "[从信号迁移] ChatGPT集成上线（opt-in）。原watch信号sig_spot_007，属于产品功能/合作发布。",
+            "impact": "neutral"
+          }
+        ]
+      }
+    ],
+    "next_catalyst": "2026-04-28 Q1财报"
+  },
+  "dim_analysis": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Palantir Technologies, Inc.",
+  "ticker": "PLTR",
+  "sector": "Enterprise AI / Government Software",
+  "founded": "2003",
+  "hq": "Denver, CO, USA",
+  "ceo": "Alexander Karp",
+  "employees": 4000,
+  "market_cap": "~$313B",
+  "description": "政府+企业级AI操作系统，Ontology为核心壁垒，AIP驱动商业化爆发。创始人三角(Karp+Cohen+Thiel)通过Class F股份锁定控制权。",
+  "business_essence": "把AI植入客户的实际决策工作流，卖的不是数据分析而是'决策基础设施'。FDE模式+Ontology锁定=极高切换成本。",
+  "old_friends_mapping": {
+    "NVIDIA": "平台级基础设施公司，从专业/细分市场向更大市场爆发性扩张，conviction-driven创始人CEO长期任职"
+  }
+}

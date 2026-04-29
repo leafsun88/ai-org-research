@@ -1,0 +1,5788 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "N7NsveOiG-g",
+  "url": "https://www.youtube.com/watch?v=N7NsveOiG-g",
+  "title": "Lovable AI: How to Build an App & Upload to App Store (Tutorial)",
+  "channel": "Mikey No Code",
+  "source_queries": [
+    "Lovable AI app builder podcast",
+    "Lovable enterprise AI app builder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:16:42",
+  "segments": [
+    {
+      "text": "Have you ever wondered how apps like",
+      "duration": 4.8,
+      "offset": 0.0,
+      "lang": "en"
+    },
+    {
+      "text": "this one are making over $20,000 per",
+      "duration": 5.12,
+      "offset": 2.0,
+      "lang": "en"
+    },
+    {
+      "text": "month while you&#39;re still stuck trying to",
+      "duration": 4.76,
+      "offset": 4.8,
+      "lang": "en"
+    },
+    {
+      "text": "learn code? Well, I just built this",
+      "duration": 5.28,
+      "offset": 7.12,
+      "lang": "en"
+    },
+    {
+      "text": "exact same app without writing a single",
+      "duration": 4.76,
+      "offset": 9.56,
+      "lang": "en"
+    },
+    {
+      "text": "line of code. So, in this screenshot,",
+      "duration": 3.8,
+      "offset": 12.4,
+      "lang": "en"
+    },
+    {
+      "text": "you can see proof that the original",
+      "duration": 4.2,
+      "offset": 14.32,
+      "lang": "en"
+    },
+    {
+      "text": "Picture Fish app, which identifies fish",
+      "duration": 4.84,
+      "offset": 16.2,
+      "lang": "en"
+    },
+    {
+      "text": "species through AI and provides us with",
+      "duration": 4.72,
+      "offset": 18.52,
+      "lang": "en"
+    },
+    {
+      "text": "detailed marine life information, is",
+      "duration": 4.96,
+      "offset": 21.04,
+      "lang": "en"
+    },
+    {
+      "text": "generating massive revenue. And now,",
+      "duration": 5.12,
+      "offset": 23.24,
+      "lang": "en"
+    },
+    {
+      "text": "most people think that you need years of",
+      "duration": 5.04,
+      "offset": 26.0,
+      "lang": "en"
+    },
+    {
+      "text": "programming experience, but nowadays,",
+      "duration": 5.44,
+      "offset": 28.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s completely wrong. I used just one",
+      "duration": 5.0,
+      "offset": 31.04,
+      "lang": "en"
+    },
+    {
+      "text": "AI tool where you literally prompt your",
+      "duration": 4.92,
+      "offset": 33.8,
+      "lang": "en"
+    },
+    {
+      "text": "idea, and then it builds your entire app",
+      "duration": 4.52,
+      "offset": 36.04,
+      "lang": "en"
+    },
+    {
+      "text": "for you. So, in this video, I&#39;m going to",
+      "duration": 4.24,
+      "offset": 38.72,
+      "lang": "en"
+    },
+    {
+      "text": "show you my complete step-by-step",
+      "duration": 6.36,
+      "offset": 40.56,
+      "lang": "en"
+    },
+    {
+      "text": "process of how I recreated this $20,000",
+      "duration": 6.6,
+      "offset": 42.96,
+      "lang": "en"
+    },
+    {
+      "text": "per month app using AI, the exact",
+      "duration": 4.68,
+      "offset": 46.92,
+      "lang": "en"
+    },
+    {
+      "text": "prompts that I used, and how to get it",
+      "duration": 4.24,
+      "offset": 49.56,
+      "lang": "en"
+    },
+    {
+      "text": "live on the App Store without any",
+      "duration": 4.24,
+      "offset": 51.6,
+      "lang": "en"
+    },
+    {
+      "text": "coding. Let&#39;s go ahead and dive in. I",
+      "duration": 3.6,
+      "offset": 53.8,
+      "lang": "en"
+    },
+    {
+      "text": "also added a special link in the",
+      "duration": 3.44,
+      "offset": 55.84,
+      "lang": "en"
+    },
+    {
+      "text": "description below to all the AI tools",
+      "duration": 3.08,
+      "offset": 57.4,
+      "lang": "en"
+    },
+    {
+      "text": "that we&#39;re going to use today in this",
+      "duration": 2.68,
+      "offset": 59.28,
+      "lang": "en"
+    },
+    {
+      "text": "video, so please do go ahead and check",
+      "duration": 3.04,
+      "offset": 60.48,
+      "lang": "en"
+    },
+    {
+      "text": "them out. And if you&#39;ve ever been out",
+      "duration": 3.88,
+      "offset": 61.96,
+      "lang": "en"
+    },
+    {
+      "text": "fishing or even just strolling along the",
+      "duration": 4.92,
+      "offset": 63.52,
+      "lang": "en"
+    },
+    {
+      "text": "shoreline, and maybe you spotted a fish",
+      "duration": 4.56,
+      "offset": 65.84,
+      "lang": "en"
+    },
+    {
+      "text": "you couldn&#39;t just name off the top of",
+      "duration": 3.52,
+      "offset": 68.44,
+      "lang": "en"
+    },
+    {
+      "text": "your head, you know that feeling of",
+      "duration": 3.72,
+      "offset": 70.4,
+      "lang": "en"
+    },
+    {
+      "text": "wanting an instant answer. Well, that",
+      "duration": 4.24,
+      "offset": 71.96,
+      "lang": "en"
+    },
+    {
+      "text": "curiosity is exactly what makes fish",
+      "duration": 4.56,
+      "offset": 74.12,
+      "lang": "en"
+    },
+    {
+      "text": "identifier apps so valuable. Before the",
+      "duration": 5.2,
+      "offset": 76.2,
+      "lang": "en"
+    },
+    {
+      "text": "app can recognize anything, though, it",
+      "duration": 5.84,
+      "offset": 78.68,
+      "lang": "en"
+    },
+    {
+      "text": "does need a clean, modern layout that&#39;s",
+      "duration": 6.24,
+      "offset": 81.4,
+      "lang": "en"
+    },
+    {
+      "text": "easy to navigate on mobile. So, the very",
+      "duration": 5.88,
+      "offset": 84.52,
+      "lang": "en"
+    },
+    {
+      "text": "first step is getting Lovable to set up",
+      "duration": 5.08,
+      "offset": 87.64,
+      "lang": "en"
+    },
+    {
+      "text": "that foundation for us. Now, I&#39;m going",
+      "duration": 4.56,
+      "offset": 90.4,
+      "lang": "en"
+    },
+    {
+      "text": "to prompt Lovable with this. Hey",
+      "duration": 5.24,
+      "offset": 92.72,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, please build a fish identifier",
+      "duration": 5.12,
+      "offset": 94.96,
+      "lang": "en"
+    },
+    {
+      "text": "application. Please first build the",
+      "duration": 4.8,
+      "offset": 97.96,
+      "lang": "en"
+    },
+    {
+      "text": "application&#39;s UI. Use mock data for now",
+      "duration": 4.88,
+      "offset": 100.08,
+      "lang": "en"
+    },
+    {
+      "text": "as we&#39;ll build the actual functionality",
+      "duration": 4.92,
+      "offset": 102.76,
+      "lang": "en"
+    },
+    {
+      "text": "later. Build this as a web-based mobile",
+      "duration": 5.32,
+      "offset": 104.96,
+      "lang": "en"
+    },
+    {
+      "text": "app in mind. And with that, once Lovable",
+      "duration": 4.8,
+      "offset": 107.68,
+      "lang": "en"
+    },
+    {
+      "text": "processes that request, it immediately",
+      "duration": 4.56,
+      "offset": 110.28,
+      "lang": "en"
+    },
+    {
+      "text": "starts assembling the structure of the",
+      "duration": 5.12,
+      "offset": 112.48,
+      "lang": "en"
+    },
+    {
+      "text": "app, giving us a polished interface to",
+      "duration": 4.24,
+      "offset": 114.84,
+      "lang": "en"
+    },
+    {
+      "text": "work from. And as you can see, a few",
+      "duration": 3.84,
+      "offset": 117.6,
+      "lang": "en"
+    },
+    {
+      "text": "moments later, the UI is fully",
+      "duration": 5.48,
+      "offset": 119.08,
+      "lang": "en"
+    },
+    {
+      "text": "generated, and we now have a simple, yet",
+      "duration": 5.4,
+      "offset": 121.44,
+      "lang": "en"
+    },
+    {
+      "text": "modern-looking application. And yes,",
+      "duration": 4.88,
+      "offset": 124.56,
+      "lang": "en"
+    },
+    {
+      "text": "everything is still using placeholders",
+      "duration": 5.16,
+      "offset": 126.84,
+      "lang": "en"
+    },
+    {
+      "text": "for now, which is exactly what we want",
+      "duration": 5.04,
+      "offset": 129.44,
+      "lang": "en"
+    },
+    {
+      "text": "at this stage because all the real",
+      "duration": 5.0,
+      "offset": 132.0,
+      "lang": "en"
+    },
+    {
+      "text": "features will come in the latter part.",
+      "duration": 4.08,
+      "offset": 134.48,
+      "lang": "en"
+    },
+    {
+      "text": "But the app already includes four main",
+      "duration": 4.36,
+      "offset": 137.0,
+      "lang": "en"
+    },
+    {
+      "text": "sections here: home, identify, library,",
+      "duration": 4.88,
+      "offset": 138.56,
+      "lang": "en"
+    },
+    {
+      "text": "and profile, which provides a clear",
+      "duration": 4.92,
+      "offset": 141.36,
+      "lang": "en"
+    },
+    {
+      "text": "layout that sets the tone for the entire",
+      "duration": 4.76,
+      "offset": 143.44,
+      "lang": "en"
+    },
+    {
+      "text": "project. And since the visual framework",
+      "duration": 3.96,
+      "offset": 146.28,
+      "lang": "en"
+    },
+    {
+      "text": "is ready, we can now start turning this",
+      "duration": 4.92,
+      "offset": 148.2,
+      "lang": "en"
+    },
+    {
+      "text": "into a fully functioning AI-powered fish",
+      "duration": 5.04,
+      "offset": 150.24,
+      "lang": "en"
+    },
+    {
+      "text": "identifier. All right. So, this is where",
+      "duration": 4.56,
+      "offset": 153.12,
+      "lang": "en"
+    },
+    {
+      "text": "things really start to get exciting for",
+      "duration": 4.72,
+      "offset": 155.28,
+      "lang": "en"
+    },
+    {
+      "text": "us. Anyone can build a camera page or an",
+      "duration": 4.76,
+      "offset": 157.68,
+      "lang": "en"
+    },
+    {
+      "text": "upload button, but giving the app the",
+      "duration": 5.4,
+      "offset": 160.0,
+      "lang": "en"
+    },
+    {
+      "text": "ability to actually recognize a fish and",
+      "duration": 4.68,
+      "offset": 162.44,
+      "lang": "en"
+    },
+    {
+      "text": "then describe it in detail is what turns",
+      "duration": 3.72,
+      "offset": 165.4,
+      "lang": "en"
+    },
+    {
+      "text": "it into something special. And I get it,",
+      "duration": 3.88,
+      "offset": 167.12,
+      "lang": "en"
+    },
+    {
+      "text": "though. Most people assume that you need",
+      "duration": 4.4,
+      "offset": 169.12,
+      "lang": "en"
+    },
+    {
+      "text": "machine learning experience or a whole",
+      "duration": 4.92,
+      "offset": 171.0,
+      "lang": "en"
+    },
+    {
+      "text": "full team to build image recognition,",
+      "duration": 4.52,
+      "offset": 173.52,
+      "lang": "en"
+    },
+    {
+      "text": "but Lovable makes it surprisingly",
+      "duration": 4.96,
+      "offset": 175.92,
+      "lang": "en"
+    },
+    {
+      "text": "accessible, especially once we bring in",
+      "duration": 5.6,
+      "offset": 178.04,
+      "lang": "en"
+    },
+    {
+      "text": "our own OpenAI API key. Before we",
+      "duration": 4.84,
+      "offset": 180.88,
+      "lang": "en"
+    },
+    {
+      "text": "connect anything inside Lovable, we will",
+      "duration": 4.32,
+      "offset": 183.64,
+      "lang": "en"
+    },
+    {
+      "text": "start by setting up our access on the",
+      "duration": 4.68,
+      "offset": 185.72,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI side. So, let&#39;s head over to the",
+      "duration": 5.2,
+      "offset": 187.96,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI platform, create a new project,",
+      "duration": 5.32,
+      "offset": 190.4,
+      "lang": "en"
+    },
+    {
+      "text": "and generate a fresh secret API key. And",
+      "duration": 4.84,
+      "offset": 193.16,
+      "lang": "en"
+    },
+    {
+      "text": "now that the key is copied and ready,",
+      "duration": 4.12,
+      "offset": 195.72,
+      "lang": "en"
+    },
+    {
+      "text": "the rest of the process will happen",
+      "duration": 4.08,
+      "offset": 198.0,
+      "lang": "en"
+    },
+    {
+      "text": "directly inside of Lovable. Now, to",
+      "duration": 4.44,
+      "offset": 199.84,
+      "lang": "en"
+    },
+    {
+      "text": "activate the feature, we are going to",
+      "duration": 5.0,
+      "offset": 202.08,
+      "lang": "en"
+    },
+    {
+      "text": "give Lovable the exact prompt, and it",
+      "duration": 4.6,
+      "offset": 204.28,
+      "lang": "en"
+    },
+    {
+      "text": "defines how the entire system should",
+      "duration": 3.64,
+      "offset": 207.08,
+      "lang": "en"
+    },
+    {
+      "text": "behave. Something like this: Please",
+      "duration": 4.6,
+      "offset": 208.88,
+      "lang": "en"
+    },
+    {
+      "text": "enable cloud and integrate OpenAI for",
+      "duration": 4.78,
+      "offset": 210.72,
+      "lang": "en"
+    },
+    {
+      "text": "the image recognition process.",
+      "duration": 2.04,
+      "offset": 213.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.98,
+      "offset": 215.5,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Whenever a user takes a photo or uploads",
+      "duration": 5.48,
+      "offset": 215.52,
+      "lang": "en"
+    },
+    {
+      "text": "a photo of a fish, scan it with OpenAI",
+      "duration": 4.08,
+      "offset": 218.48,
+      "lang": "en"
+    },
+    {
+      "text": "and have it return with detailed",
+      "duration": 3.76,
+      "offset": 221.0,
+      "lang": "en"
+    },
+    {
+      "text": "information, such [music] as its",
+      "duration": 4.76,
+      "offset": 222.56,
+      "lang": "en"
+    },
+    {
+      "text": "biological characteristics, behavioral",
+      "duration": 5.24,
+      "offset": 224.76,
+      "lang": "en"
+    },
+    {
+      "text": "traits, dietary habits, breeding",
+      "duration": 4.72,
+      "offset": 227.32,
+      "lang": "en"
+    },
+    {
+      "text": "information, potential environmental",
+      "duration": 4.8,
+      "offset": 230.0,
+      "lang": "en"
+    },
+    {
+      "text": "impact, and similar species comparison.",
+      "duration": 5.36,
+      "offset": 232.04,
+      "lang": "en"
+    },
+    {
+      "text": "Enable cloud, then ask me for the API",
+      "duration": 4.84,
+      "offset": 234.8,
+      "lang": "en"
+    },
+    {
+      "text": "key to be used for OpenAI. And once",
+      "duration": 4.56,
+      "offset": 237.4,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable processes the instruction, it is",
+      "duration": 4.2,
+      "offset": 239.64,
+      "lang": "en"
+    },
+    {
+      "text": "going to ask us to enable cloud.",
+      "duration": 3.88,
+      "offset": 241.96,
+      "lang": "en"
+    },
+    {
+      "text": "Enabling cloud allows Lovable to use",
+      "duration": 4.92,
+      "offset": 243.84,
+      "lang": "en"
+    },
+    {
+      "text": "SDKs and external APIs. So, when the",
+      "duration": 5.48,
+      "offset": 245.84,
+      "lang": "en"
+    },
+    {
+      "text": "prompt appears, I&#39;ll just simply click",
+      "duration": 5.12,
+      "offset": 248.76,
+      "lang": "en"
+    },
+    {
+      "text": "allow. And after that, Lovable requests",
+      "duration": 5.12,
+      "offset": 251.32,
+      "lang": "en"
+    },
+    {
+      "text": "the OpenAI API key. Here, I&#39;m going to",
+      "duration": 4.88,
+      "offset": 253.88,
+      "lang": "en"
+    },
+    {
+      "text": "paste the secret key we created earlier,",
+      "duration": 4.24,
+      "offset": 256.44,
+      "lang": "en"
+    },
+    {
+      "text": "and then just submit it. After that,",
+      "duration": 4.0,
+      "offset": 258.76,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable takes care of the full",
+      "duration": 4.2,
+      "offset": 260.68,
+      "lang": "en"
+    },
+    {
+      "text": "implementation all on its own, writing",
+      "duration": 3.83,
+      "offset": 262.76,
+      "lang": "en"
+    },
+    {
+      "text": "up the back end so the app can analyze",
+      "duration": 4.32,
+      "offset": 264.88,
+      "lang": "en"
+    },
+    {
+      "text": "[music] photos and then return detailed",
+      "duration": 4.89,
+      "offset": 266.59,
+      "lang": "en"
+    },
+    {
+      "text": "fish information. When the integration",
+      "duration": 4.32,
+      "offset": 269.2,
+      "lang": "en"
+    },
+    {
+      "text": "is complete, the feature is ready to",
+      "duration": 4.28,
+      "offset": 271.48,
+      "lang": "en"
+    },
+    {
+      "text": "test. So, let&#39;s go ahead and upload a",
+      "duration": 4.0,
+      "offset": 273.52,
+      "lang": "en"
+    },
+    {
+      "text": "photo of a fish, and within a few",
+      "duration": 4.08,
+      "offset": 275.76,
+      "lang": "en"
+    },
+    {
+      "text": "seconds here, the app returns a full",
+      "duration": 4.56,
+      "offset": 277.52,
+      "lang": "en"
+    },
+    {
+      "text": "breakdown of the species. And the",
+      "duration": 4.16,
+      "offset": 279.84,
+      "lang": "en"
+    },
+    {
+      "text": "response includes all the details that",
+      "duration": 3.48,
+      "offset": 282.08,
+      "lang": "en"
+    },
+    {
+      "text": "we requested: biological",
+      "duration": 3.84,
+      "offset": 284.0,
+      "lang": "en"
+    },
+    {
+      "text": "characteristics, behavior patterns,",
+      "duration": 4.68,
+      "offset": 285.56,
+      "lang": "en"
+    },
+    {
+      "text": "diet, breeding info, environmental",
+      "duration": 4.92,
+      "offset": 287.84,
+      "lang": "en"
+    },
+    {
+      "text": "notes, and even a comparison to similar",
+      "duration": 5.4,
+      "offset": 290.24,
+      "lang": "en"
+    },
+    {
+      "text": "species. And better yet, we&#39;re also able",
+      "duration": 5.8,
+      "offset": 292.76,
+      "lang": "en"
+    },
+    {
+      "text": "to save the identified fish into our own",
+      "duration": 5.16,
+      "offset": 295.64,
+      "lang": "en"
+    },
+    {
+      "text": "collection directly from the results.",
+      "duration": 3.8,
+      "offset": 298.56,
+      "lang": "en"
+    },
+    {
+      "text": "And at this point, the app officially",
+      "duration": 4.4,
+      "offset": 300.8,
+      "lang": "en"
+    },
+    {
+      "text": "steps into true AI territory. With",
+      "duration": 5.08,
+      "offset": 302.36,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI fully integrated and image",
+      "duration": 4.44,
+      "offset": 305.2,
+      "lang": "en"
+    },
+    {
+      "text": "recognition responding exactly the way",
+      "duration": 4.84,
+      "offset": 307.44,
+      "lang": "en"
+    },
+    {
+      "text": "we designed it, the core intelligence of",
+      "duration": 4.64,
+      "offset": 309.64,
+      "lang": "en"
+    },
+    {
+      "text": "the app is now [music] in place, and",
+      "duration": 4.28,
+      "offset": 312.28,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s all built from a single structured",
+      "duration": 5.52,
+      "offset": 314.28,
+      "lang": "en"
+    },
+    {
+      "text": "prompt and one API key. Now, one thing",
+      "duration": 5.8,
+      "offset": 316.56,
+      "lang": "en"
+    },
+    {
+      "text": "is for sure, because once the app can",
+      "duration": 4.72,
+      "offset": 319.8,
+      "lang": "en"
+    },
+    {
+      "text": "identify a fish, most people start",
+      "duration": 4.08,
+      "offset": 322.36,
+      "lang": "en"
+    },
+    {
+      "text": "wanting a little bit more. Anyone who",
+      "duration": 3.96,
+      "offset": 324.52,
+      "lang": "en"
+    },
+    {
+      "text": "fishes knows that the hobby isn&#39;t just",
+      "duration": 4.64,
+      "offset": 326.44,
+      "lang": "en"
+    },
+    {
+      "text": "about recognizing what you caught, but",
+      "duration": 5.24,
+      "offset": 328.48,
+      "lang": "en"
+    },
+    {
+      "text": "also about knowing the seasons, the",
+      "duration": 5.28,
+      "offset": 331.08,
+      "lang": "en"
+    },
+    {
+      "text": "rules, the best practices, and the",
+      "duration": 4.84,
+      "offset": 333.72,
+      "lang": "en"
+    },
+    {
+      "text": "environment you&#39;re fishing in. Now,",
+      "duration": 5.24,
+      "offset": 336.36,
+      "lang": "en"
+    },
+    {
+      "text": "here, I want the app to start to evolve",
+      "duration": 5.96,
+      "offset": 338.56,
+      "lang": "en"
+    },
+    {
+      "text": "from a simple scanner into a real",
+      "duration": 5.12,
+      "offset": 341.6,
+      "lang": "en"
+    },
+    {
+      "text": "fishing companion. I want to give my",
+      "duration": 4.08,
+      "offset": 344.52,
+      "lang": "en"
+    },
+    {
+      "text": "users tools that help them plan their",
+      "duration": 4.24,
+      "offset": 346.72,
+      "lang": "en"
+    },
+    {
+      "text": "trips, to understand regulations, and",
+      "duration": 5.24,
+      "offset": 348.6,
+      "lang": "en"
+    },
+    {
+      "text": "learn more about the ecosystems that",
+      "duration": 4.92,
+      "offset": 350.96,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re exploring. And in order to build",
+      "duration": 4.0,
+      "offset": 353.84,
+      "lang": "en"
+    },
+    {
+      "text": "that out, I&#39;m just going to ask Lovable",
+      "duration": 3.6,
+      "offset": 355.88,
+      "lang": "en"
+    },
+    {
+      "text": "something like this. Build additional",
+      "duration": 3.4,
+      "offset": 357.84,
+      "lang": "en"
+    },
+    {
+      "text": "features, such as fishing and marine",
+      "duration": 3.8,
+      "offset": 359.48,
+      "lang": "en"
+    },
+    {
+      "text": "utilities. Give the app some fishing",
+      "duration": 4.68,
+      "offset": 361.24,
+      "lang": "en"
+    },
+    {
+      "text": "season recommendations, local fishing",
+      "duration": 5.56,
+      "offset": 363.28,
+      "lang": "en"
+    },
+    {
+      "text": "regulations, size and weight guidelines,",
+      "duration": 5.8,
+      "offset": 365.92,
+      "lang": "en"
+    },
+    {
+      "text": "catch and release recommendations, and",
+      "duration": 6.2,
+      "offset": 368.84,
+      "lang": "en"
+    },
+    {
+      "text": "marine ecosystem insights. Make this as",
+      "duration": 5.68,
+      "offset": 371.72,
+      "lang": "en"
+    },
+    {
+      "text": "comprehensive as possible to give the",
+      "duration": 4.6,
+      "offset": 375.04,
+      "lang": "en"
+    },
+    {
+      "text": "user more tools for their fishing",
+      "duration": 4.0,
+      "offset": 377.4,
+      "lang": "en"
+    },
+    {
+      "text": "journey. So, after sending in that",
+      "duration": 4.52,
+      "offset": 379.64,
+      "lang": "en"
+    },
+    {
+      "text": "prompt, Lovable expands the application",
+      "duration": 5.92,
+      "offset": 381.4,
+      "lang": "en"
+    },
+    {
+      "text": "with a brand new tools section. And here",
+      "duration": 5.36,
+      "offset": 384.16,
+      "lang": "en"
+    },
+    {
+      "text": "inside, we&#39;ll find organized topics",
+      "duration": 4.36,
+      "offset": 387.32,
+      "lang": "en"
+    },
+    {
+      "text": "covering everything that we asked for.",
+      "duration": 4.56,
+      "offset": 389.52,
+      "lang": "en"
+    },
+    {
+      "text": "Seasonal fishing recommendations, we",
+      "duration": 5.36,
+      "offset": 391.68,
+      "lang": "en"
+    },
+    {
+      "text": "have local regulations, size and weight",
+      "duration": 5.44,
+      "offset": 394.08,
+      "lang": "en"
+    },
+    {
+      "text": "guidelines, and even catch and release",
+      "duration": 5.12,
+      "offset": 397.04,
+      "lang": "en"
+    },
+    {
+      "text": "tips, and deeper educational insights",
+      "duration": 5.68,
+      "offset": 399.52,
+      "lang": "en"
+    },
+    {
+      "text": "about marine ecosystems. And each topic",
+      "duration": 5.56,
+      "offset": 402.16,
+      "lang": "en"
+    },
+    {
+      "text": "opens into its own detailed content, and",
+      "duration": 5.0,
+      "offset": 405.2,
+      "lang": "en"
+    },
+    {
+      "text": "I went through the different sections to",
+      "duration": 4.24,
+      "offset": 407.72,
+      "lang": "en"
+    },
+    {
+      "text": "make sure that everything loaded",
+      "duration": 4.2,
+      "offset": 410.2,
+      "lang": "en"
+    },
+    {
+      "text": "properly. And with this update, the app",
+      "duration": 5.28,
+      "offset": 411.96,
+      "lang": "en"
+    },
+    {
+      "text": "feels much richer and far more useful",
+      "duration": 4.68,
+      "offset": 414.4,
+      "lang": "en"
+    },
+    {
+      "text": "for pretty much anyone who wants",
+      "duration": 4.48,
+      "offset": 417.24,
+      "lang": "en"
+    },
+    {
+      "text": "guidance beyond just identifying a fish.",
+      "duration": 4.52,
+      "offset": 419.08,
+      "lang": "en"
+    },
+    {
+      "text": "So, a big part of fishing is the",
+      "duration": 4.32,
+      "offset": 421.72,
+      "lang": "en"
+    },
+    {
+      "text": "storytelling, logging what you caught,",
+      "duration": 5.16,
+      "offset": 423.6,
+      "lang": "en"
+    },
+    {
+      "text": "sharing interesting finds, and checking",
+      "duration": 5.04,
+      "offset": 426.04,
+      "lang": "en"
+    },
+    {
+      "text": "out what other people are also pulling",
+      "duration": 4.76,
+      "offset": 428.76,
+      "lang": "en"
+    },
+    {
+      "text": "in. And most anglers love comparing",
+      "duration": 4.72,
+      "offset": 431.08,
+      "lang": "en"
+    },
+    {
+      "text": "notes, and having a place to do that",
+      "duration": 4.48,
+      "offset": 433.52,
+      "lang": "en"
+    },
+    {
+      "text": "right inside our app makes the",
+      "duration": 5.12,
+      "offset": 435.8,
+      "lang": "en"
+    },
+    {
+      "text": "experience feel a lot more personal. So,",
+      "duration": 5.76,
+      "offset": 438.0,
+      "lang": "en"
+    },
+    {
+      "text": "the next step is to create a community",
+      "duration": 5.0,
+      "offset": 440.92,
+      "lang": "en"
+    },
+    {
+      "text": "space where our users can post their",
+      "duration": 4.72,
+      "offset": 443.76,
+      "lang": "en"
+    },
+    {
+      "text": "catches, get feedback, and keep their",
+      "duration": 5.32,
+      "offset": 445.92,
+      "lang": "en"
+    },
+    {
+      "text": "own private journal of sightings and",
+      "duration": 5.32,
+      "offset": 448.48,
+      "lang": "en"
+    },
+    {
+      "text": "memorable fishing moments. So, to set",
+      "duration": 4.08,
+      "offset": 451.24,
+      "lang": "en"
+    },
+    {
+      "text": "this up, I&#39;m just going to prompt",
+      "duration": 4.04,
+      "offset": 453.8,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable with create a dedicated",
+      "duration": 5.48,
+      "offset": 455.32,
+      "lang": "en"
+    },
+    {
+      "text": "community section where users can submit",
+      "duration": 6.24,
+      "offset": 457.84,
+      "lang": "en"
+    },
+    {
+      "text": "fish sightings, tag posts, and have the",
+      "duration": 6.08,
+      "offset": 460.8,
+      "lang": "en"
+    },
+    {
+      "text": "community help verify their catches.",
+      "duration": 5.28,
+      "offset": 464.08,
+      "lang": "en"
+    },
+    {
+      "text": "Create a fish spotting journal and the",
+      "duration": 4.44,
+      "offset": 466.88,
+      "lang": "en"
+    },
+    {
+      "text": "ability to share their catches through",
+      "duration": 4.08,
+      "offset": 469.36,
+      "lang": "en"
+    },
+    {
+      "text": "social media. Once Lovable starts",
+      "duration": 4.48,
+      "offset": 471.32,
+      "lang": "en"
+    },
+    {
+      "text": "working on this, it may come back with a",
+      "duration": 4.64,
+      "offset": 473.44,
+      "lang": "en"
+    },
+    {
+      "text": "few follow-up questions to better",
+      "duration": 4.48,
+      "offset": 475.8,
+      "lang": "en"
+    },
+    {
+      "text": "understand how the feature should",
+      "duration": 5.0,
+      "offset": 478.08,
+      "lang": "en"
+    },
+    {
+      "text": "function. And in my case, it&#39;s asking me",
+      "duration": 5.48,
+      "offset": 480.28,
+      "lang": "en"
+    },
+    {
+      "text": "how the verification system should work,",
+      "duration": 5.0,
+      "offset": 483.08,
+      "lang": "en"
+    },
+    {
+      "text": "whether the journal should be private,",
+      "duration": 5.36,
+      "offset": 485.76,
+      "lang": "en"
+    },
+    {
+      "text": "and what method to use for social",
+      "duration": 4.72,
+      "offset": 488.08,
+      "lang": "en"
+    },
+    {
+      "text": "sharing. So, let&#39;s respond that",
+      "duration": 3.64,
+      "offset": 491.12,
+      "lang": "en"
+    },
+    {
+      "text": "verification could simply be shown with",
+      "duration": 4.84,
+      "offset": 492.8,
+      "lang": "en"
+    },
+    {
+      "text": "a badge, the journal should be private",
+      "duration": 6.08,
+      "offset": 494.76,
+      "lang": "en"
+    },
+    {
+      "text": "by default, and social sharing can use a",
+      "duration": 6.04,
+      "offset": 497.64,
+      "lang": "en"
+    },
+    {
+      "text": "generic share mechanism. After Lovable",
+      "duration": 5.16,
+      "offset": 500.84,
+      "lang": "en"
+    },
+    {
+      "text": "processes all of that, then new features",
+      "duration": 4.6,
+      "offset": 503.68,
+      "lang": "en"
+    },
+    {
+      "text": "begin appearing inside of our app.",
+      "duration": 4.12,
+      "offset": 506.0,
+      "lang": "en"
+    },
+    {
+      "text": "You&#39;ll see a fishing journal widget",
+      "duration": 4.0,
+      "offset": 508.28,
+      "lang": "en"
+    },
+    {
+      "text": "right here on the dashboard, and you can",
+      "duration": 4.08,
+      "offset": 510.12,
+      "lang": "en"
+    },
+    {
+      "text": "open it to log an entry right here on",
+      "duration": 3.88,
+      "offset": 512.28,
+      "lang": "en"
+    },
+    {
+      "text": "the spot. And once you save it, the",
+      "duration": 4.6,
+      "offset": 514.2,
+      "lang": "en"
+    },
+    {
+      "text": "entry immediately shows up, confirming",
+      "duration": 5.08,
+      "offset": 516.16,
+      "lang": "en"
+    },
+    {
+      "text": "that the journal works exactly the way",
+      "duration": 4.6,
+      "offset": 518.8,
+      "lang": "en"
+    },
+    {
+      "text": "it should. And now, from there, let&#39;s",
+      "duration": 5.12,
+      "offset": 521.24,
+      "lang": "en"
+    },
+    {
+      "text": "head into the community section. Let&#39;s",
+      "duration": 5.44,
+      "offset": 523.4,
+      "lang": "en"
+    },
+    {
+      "text": "open up any post and tap the verify",
+      "duration": 4.48,
+      "offset": 526.36,
+      "lang": "en"
+    },
+    {
+      "text": "badge to help confirm someone&#39;s catch.",
+      "duration": 3.96,
+      "offset": 528.84,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s also try to scroll through the",
+      "duration": 4.32,
+      "offset": 530.84,
+      "lang": "en"
+    },
+    {
+      "text": "comments to leave our own and then",
+      "duration": 4.96,
+      "offset": 532.8,
+      "lang": "en"
+    },
+    {
+      "text": "interact with others, just like you",
+      "duration": 5.12,
+      "offset": 535.16,
+      "lang": "en"
+    },
+    {
+      "text": "would in a real fishing community. All I",
+      "duration": 4.72,
+      "offset": 537.76,
+      "lang": "en"
+    },
+    {
+      "text": "can say is, this app is now a space",
+      "duration": 3.72,
+      "offset": 540.28,
+      "lang": "en"
+    },
+    {
+      "text": "where people can get together and",
+      "duration": 3.84,
+      "offset": 542.48,
+      "lang": "en"
+    },
+    {
+      "text": "connect to share their experiences and",
+      "duration": 4.56,
+      "offset": 544.0,
+      "lang": "en"
+    },
+    {
+      "text": "keep track of their fishing journey. At",
+      "duration": 4.6,
+      "offset": 546.32,
+      "lang": "en"
+    },
+    {
+      "text": "this point, all the features inside of",
+      "duration": 4.24,
+      "offset": 548.56,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, they&#39;re ready to go. So, the",
+      "duration": 4.4,
+      "offset": 550.92,
+      "lang": "en"
+    },
+    {
+      "text": "final step here is to make the project",
+      "duration": 5.64,
+      "offset": 552.8,
+      "lang": "en"
+    },
+    {
+      "text": "publicly accessible, so Despia can then",
+      "duration": 5.16,
+      "offset": 555.32,
+      "lang": "en"
+    },
+    {
+      "text": "package it into a native app. And this",
+      "duration": 4.28,
+      "offset": 558.44,
+      "lang": "en"
+    },
+    {
+      "text": "part is simple, but essential. So, all",
+      "duration": 3.56,
+      "offset": 560.48,
+      "lang": "en"
+    },
+    {
+      "text": "right, we&#39;ll start with clicking the",
+      "duration": 4.0,
+      "offset": 562.72,
+      "lang": "en"
+    },
+    {
+      "text": "publish button, then we are going to set",
+      "duration": 5.92,
+      "offset": 564.04,
+      "lang": "en"
+    },
+    {
+      "text": "who can access to anyone, update the URL",
+      "duration": 5.36,
+      "offset": 566.72,
+      "lang": "en"
+    },
+    {
+      "text": "ID to something cleaner, and then we&#39;ll",
+      "duration": 4.56,
+      "offset": 569.96,
+      "lang": "en"
+    },
+    {
+      "text": "publish the project. Once the app is",
+      "duration": 4.56,
+      "offset": 572.08,
+      "lang": "en"
+    },
+    {
+      "text": "live, we do need to copy the generated",
+      "duration": 4.32,
+      "offset": 574.52,
+      "lang": "en"
+    },
+    {
+      "text": "link. And that link is what we&#39;ll bring",
+      "duration": 4.64,
+      "offset": 576.64,
+      "lang": "en"
+    },
+    {
+      "text": "into Despia in the next video as we move",
+      "duration": 5.0,
+      "offset": 578.84,
+      "lang": "en"
+    },
+    {
+      "text": "into the iOS build process. Now that the",
+      "duration": 5.08,
+      "offset": 581.28,
+      "lang": "en"
+    },
+    {
+      "text": "app is published on Lovable, it&#39;s time",
+      "duration": 5.6,
+      "offset": 583.84,
+      "lang": "en"
+    },
+    {
+      "text": "to bring everything into Despia so that",
+      "duration": 5.16,
+      "offset": 586.36,
+      "lang": "en"
+    },
+    {
+      "text": "we can turn our web build into a full",
+      "duration": 4.0,
+      "offset": 589.44,
+      "lang": "en"
+    },
+    {
+      "text": "iOS app. And I&#39;ll start by heading over",
+      "duration": 4.16,
+      "offset": 591.52,
+      "lang": "en"
+    },
+    {
+      "text": "to Despia and creating a new project.",
+      "duration": 3.84,
+      "offset": 593.44,
+      "lang": "en"
+    },
+    {
+      "text": "After that, let&#39;s fill in the basic",
+      "duration": 4.12,
+      "offset": 595.68,
+      "lang": "en"
+    },
+    {
+      "text": "details, including the app name, in this",
+      "duration": 5.2,
+      "offset": 597.28,
+      "lang": "en"
+    },
+    {
+      "text": "case, fish identifier, and then paste",
+      "duration": 5.64,
+      "offset": 599.8,
+      "lang": "en"
+    },
+    {
+      "text": "the web app start URL that I copied from",
+      "duration": 5.48,
+      "offset": 602.48,
+      "lang": "en"
+    },
+    {
+      "text": "Novable. And once the project is",
+      "duration": 4.72,
+      "offset": 605.44,
+      "lang": "en"
+    },
+    {
+      "text": "created, we can now move to the left",
+      "duration": 4.56,
+      "offset": 607.96,
+      "lang": "en"
+    },
+    {
+      "text": "panel here and scroll down until we",
+      "duration": 5.44,
+      "offset": 610.16,
+      "lang": "en"
+    },
+    {
+      "text": "reach the iOS icon upload section. Here,",
+      "duration": 5.28,
+      "offset": 612.52,
+      "lang": "en"
+    },
+    {
+      "text": "we are going to upload the app&#39;s main",
+      "duration": 5.0,
+      "offset": 615.6,
+      "lang": "en"
+    },
+    {
+      "text": "icon, and just below that is the upload",
+      "duration": 5.32,
+      "offset": 617.8,
+      "lang": "en"
+    },
+    {
+      "text": "area for the splash screen. So, I&#39;ll go",
+      "duration": 4.76,
+      "offset": 620.6,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and drop in the splash image as",
+      "duration": 4.48,
+      "offset": 623.12,
+      "lang": "en"
+    },
+    {
+      "text": "well. And as soon as those assets are",
+      "duration": 4.84,
+      "offset": 625.36,
+      "lang": "en"
+    },
+    {
+      "text": "uploaded, the Despia project is now",
+      "duration": 5.36,
+      "offset": 627.6,
+      "lang": "en"
+    },
+    {
+      "text": "fully set up and ready to move forward.",
+      "duration": 5.28,
+      "offset": 630.2,
+      "lang": "en"
+    },
+    {
+      "text": "And everything is now in place for the",
+      "duration": 4.96,
+      "offset": 632.96,
+      "lang": "en"
+    },
+    {
+      "text": "next step, where we&#39;ll connect the Apple",
+      "duration": 5.2,
+      "offset": 635.48,
+      "lang": "en"
+    },
+    {
+      "text": "developer account, so Despia can handle",
+      "duration": 4.96,
+      "offset": 637.92,
+      "lang": "en"
+    },
+    {
+      "text": "building and submitting the app to the",
+      "duration": 5.36,
+      "offset": 640.68,
+      "lang": "en"
+    },
+    {
+      "text": "App Store. Now, before Despia can build",
+      "duration": 5.44,
+      "offset": 642.88,
+      "lang": "en"
+    },
+    {
+      "text": "and submit our app to the App Store, it",
+      "duration": 5.84,
+      "offset": 646.04,
+      "lang": "en"
+    },
+    {
+      "text": "does need permission to communicate with",
+      "duration": 6.36,
+      "offset": 648.32,
+      "lang": "en"
+    },
+    {
+      "text": "our Apple developer account. So, this",
+      "duration": 4.96,
+      "offset": 651.88,
+      "lang": "en"
+    },
+    {
+      "text": "step is all about just connecting those",
+      "duration": 4.6,
+      "offset": 654.68,
+      "lang": "en"
+    },
+    {
+      "text": "two systems so that everything can work",
+      "duration": 4.56,
+      "offset": 656.84,
+      "lang": "en"
+    },
+    {
+      "text": "together behind the scenes. And we&#39;re",
+      "duration": 4.72,
+      "offset": 659.28,
+      "lang": "en"
+    },
+    {
+      "text": "going to start by opening up my Apple",
+      "duration": 5.32,
+      "offset": 661.4,
+      "lang": "en"
+    },
+    {
+      "text": "developer dashboard here, and then going",
+      "duration": 5.24,
+      "offset": 664.0,
+      "lang": "en"
+    },
+    {
+      "text": "to certificates, to identifiers, and",
+      "duration": 5.12,
+      "offset": 666.72,
+      "lang": "en"
+    },
+    {
+      "text": "then to profiles. So, here at the top",
+      "duration": 4.48,
+      "offset": 669.24,
+      "lang": "en"
+    },
+    {
+      "text": "right, let&#39;s go ahead and grab my",
+      "duration": 4.4,
+      "offset": 671.84,
+      "lang": "en"
+    },
+    {
+      "text": "development team ID, and then paste it",
+      "duration": 4.96,
+      "offset": 673.72,
+      "lang": "en"
+    },
+    {
+      "text": "into the development team ID field",
+      "duration": 4.64,
+      "offset": 676.24,
+      "lang": "en"
+    },
+    {
+      "text": "inside of Despia. Next, we&#39;ll switch",
+      "duration": 4.64,
+      "offset": 678.68,
+      "lang": "en"
+    },
+    {
+      "text": "over to App Store Connect, and then open",
+      "duration": 5.32,
+      "offset": 680.88,
+      "lang": "en"
+    },
+    {
+      "text": "users and access. Under the integrations",
+      "duration": 5.52,
+      "offset": 683.32,
+      "lang": "en"
+    },
+    {
+      "text": "tab, copy the account issuer ID and",
+      "duration": 4.96,
+      "offset": 686.2,
+      "lang": "en"
+    },
+    {
+      "text": "paste that into Despia as well. For the",
+      "duration": 4.48,
+      "offset": 688.84,
+      "lang": "en"
+    },
+    {
+      "text": "final part, we do need to generate an",
+      "duration": 4.28,
+      "offset": 691.16,
+      "lang": "en"
+    },
+    {
+      "text": "API key that Despia will use for",
+      "duration": 4.36,
+      "offset": 693.32,
+      "lang": "en"
+    },
+    {
+      "text": "submitting builds. Now, still inside",
+      "duration": 4.88,
+      "offset": 695.44,
+      "lang": "en"
+    },
+    {
+      "text": "users and access, we&#39;ll also create a",
+      "duration": 5.12,
+      "offset": 697.68,
+      "lang": "en"
+    },
+    {
+      "text": "new App Store Connect API key, give it a",
+      "duration": 5.36,
+      "offset": 700.32,
+      "lang": "en"
+    },
+    {
+      "text": "name like Despia fish finder, and then",
+      "duration": 5.96,
+      "offset": 702.8,
+      "lang": "en"
+    },
+    {
+      "text": "set the access level to app manager. So,",
+      "duration": 4.92,
+      "offset": 705.68,
+      "lang": "en"
+    },
+    {
+      "text": "after generating the key, let&#39;s copy the",
+      "duration": 4.4,
+      "offset": 708.76,
+      "lang": "en"
+    },
+    {
+      "text": "key ID, download the .p8 file, and then",
+      "duration": 5.6,
+      "offset": 710.6,
+      "lang": "en"
+    },
+    {
+      "text": "upload both into Despia. Once all three",
+      "duration": 5.24,
+      "offset": 713.16,
+      "lang": "en"
+    },
+    {
+      "text": "sections are filled in, we can now click",
+      "duration": 5.28,
+      "offset": 716.2,
+      "lang": "en"
+    },
+    {
+      "text": "the link with Apple button. After that,",
+      "duration": 5.36,
+      "offset": 718.4,
+      "lang": "en"
+    },
+    {
+      "text": "Despia connects everything together, and",
+      "duration": 5.16,
+      "offset": 721.48,
+      "lang": "en"
+    },
+    {
+      "text": "we have to make sure to select our newly",
+      "duration": 5.08,
+      "offset": 723.76,
+      "lang": "en"
+    },
+    {
+      "text": "linked account, so the app is ready for",
+      "duration": 3.96,
+      "offset": 726.64,
+      "lang": "en"
+    },
+    {
+      "text": "the next step. All right, so keep in",
+      "duration": 4.28,
+      "offset": 728.84,
+      "lang": "en"
+    },
+    {
+      "text": "mind that an app can&#39;t go anywhere near",
+      "duration": 5.0,
+      "offset": 730.6,
+      "lang": "en"
+    },
+    {
+      "text": "the App Store without being properly",
+      "duration": 5.12,
+      "offset": 733.12,
+      "lang": "en"
+    },
+    {
+      "text": "registered inside Apple&#39;s system. And",
+      "duration": 4.92,
+      "offset": 735.6,
+      "lang": "en"
+    },
+    {
+      "text": "that means we need to give your app its",
+      "duration": 4.8,
+      "offset": 738.24,
+      "lang": "en"
+    },
+    {
+      "text": "official identity card. Apple wants to",
+      "duration": 4.84,
+      "offset": 740.52,
+      "lang": "en"
+    },
+    {
+      "text": "know exactly what the app is, what",
+      "duration": 4.44,
+      "offset": 743.04,
+      "lang": "en"
+    },
+    {
+      "text": "features it plans [music] to use, and",
+      "duration": 4.36,
+      "offset": 745.36,
+      "lang": "en"
+    },
+    {
+      "text": "what components belong to it. And that&#39;s",
+      "duration": 4.6,
+      "offset": 747.48,
+      "lang": "en"
+    },
+    {
+      "text": "why configuring the app project and",
+      "duration": 5.2,
+      "offset": 749.72,
+      "lang": "en"
+    },
+    {
+      "text": "creating bundle identifiers is such an",
+      "duration": 4.76,
+      "offset": 752.08,
+      "lang": "en"
+    },
+    {
+      "text": "important part of the process here.",
+      "duration": 4.44,
+      "offset": 754.92,
+      "lang": "en"
+    },
+    {
+      "text": "These identifiers act like anchors that",
+      "duration": 4.4,
+      "offset": 756.84,
+      "lang": "en"
+    },
+    {
+      "text": "tie everything together. Push",
+      "duration": 4.68,
+      "offset": 759.36,
+      "lang": "en"
+    },
+    {
+      "text": "notifications, app groups, widgets, app",
+      "duration": 5.24,
+      "offset": 761.24,
+      "lang": "en"
+    },
+    {
+      "text": "clips, share extensions, all of it. And",
+      "duration": 4.48,
+      "offset": 764.04,
+      "lang": "en"
+    },
+    {
+      "text": "without them, Despia won&#39;t be able to",
+      "duration": 4.16,
+      "offset": 766.48,
+      "lang": "en"
+    },
+    {
+      "text": "build or sign the app correctly. So,",
+      "duration": 4.32,
+      "offset": 768.52,
+      "lang": "en"
+    },
+    {
+      "text": "this may not be the most glamorously",
+      "duration": 5.04,
+      "offset": 770.64,
+      "lang": "en"
+    },
+    {
+      "text": "visual part of the build, but it is the",
+      "duration": 5.16,
+      "offset": 772.84,
+      "lang": "en"
+    },
+    {
+      "text": "foundation that allows every feature",
+      "duration": 5.2,
+      "offset": 775.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve added so far to actually function",
+      "duration": 4.6,
+      "offset": 778.0,
+      "lang": "en"
+    },
+    {
+      "text": "on a real iPhone. So, to begin",
+      "duration": 4.0,
+      "offset": 780.88,
+      "lang": "en"
+    },
+    {
+      "text": "configuring everything, let&#39;s go to the",
+      "duration": 4.6,
+      "offset": 782.6,
+      "lang": "en"
+    },
+    {
+      "text": "identifier section here inside",
+      "duration": 5.44,
+      "offset": 784.88,
+      "lang": "en"
+    },
+    {
+      "text": "certificates, identifiers, and profiles",
+      "duration": 5.24,
+      "offset": 787.2,
+      "lang": "en"
+    },
+    {
+      "text": "in my Apple developer account. So, the",
+      "duration": 4.36,
+      "offset": 790.32,
+      "lang": "en"
+    },
+    {
+      "text": "first item that we need to create here",
+      "duration": 4.2,
+      "offset": 792.44,
+      "lang": "en"
+    },
+    {
+      "text": "is the app bundle ID. I&#39;ll take the",
+      "duration": 4.68,
+      "offset": 794.68,
+      "lang": "en"
+    },
+    {
+      "text": "bundle ID that Despia generated for our",
+      "duration": 5.32,
+      "offset": 796.64,
+      "lang": "en"
+    },
+    {
+      "text": "project, and then head back into the",
+      "duration": 4.8,
+      "offset": 799.36,
+      "lang": "en"
+    },
+    {
+      "text": "Apple developer dashboard. And from",
+      "duration": 5.36,
+      "offset": 801.96,
+      "lang": "en"
+    },
+    {
+      "text": "there, we will create a new identifier,",
+      "duration": 6.0,
+      "offset": 804.16,
+      "lang": "en"
+    },
+    {
+      "text": "choose app IDs, select app, and paste",
+      "duration": 5.76,
+      "offset": 807.32,
+      "lang": "en"
+    },
+    {
+      "text": "the bundle ID into the field. I&#39;m also",
+      "duration": 4.4,
+      "offset": 810.16,
+      "lang": "en"
+    },
+    {
+      "text": "adding the app&#39;s name in the",
+      "duration": 3.52,
+      "offset": 813.08,
+      "lang": "en"
+    },
+    {
+      "text": "description, and enable the required",
+      "duration": 4.8,
+      "offset": 814.56,
+      "lang": "en"
+    },
+    {
+      "text": "capabilities: app attest, app groups,",
+      "duration": 5.6,
+      "offset": 816.6,
+      "lang": "en"
+    },
+    {
+      "text": "associated domains, iCloud with CloudKit",
+      "duration": 5.16,
+      "offset": 819.36,
+      "lang": "en"
+    },
+    {
+      "text": "support, and push notifications with",
+      "duration": 5.08,
+      "offset": 822.2,
+      "lang": "en"
+    },
+    {
+      "text": "broadcast capabilities. And then, we",
+      "duration": 4.8,
+      "offset": 824.52,
+      "lang": "en"
+    },
+    {
+      "text": "need to save the identifier to lock it",
+      "duration": 4.28,
+      "offset": 827.28,
+      "lang": "en"
+    },
+    {
+      "text": "in. So, next we&#39;re going to set up the",
+      "duration": 5.12,
+      "offset": 829.32,
+      "lang": "en"
+    },
+    {
+      "text": "OneSignal target, which is responsible",
+      "duration": 5.56,
+      "offset": 831.56,
+      "lang": "en"
+    },
+    {
+      "text": "for handling push notifications for our",
+      "duration": 4.96,
+      "offset": 834.44,
+      "lang": "en"
+    },
+    {
+      "text": "app. Now, Despia provides a separate",
+      "duration": 5.28,
+      "offset": 837.12,
+      "lang": "en"
+    },
+    {
+      "text": "bundle ID specifically for this, so I",
+      "duration": 5.56,
+      "offset": 839.4,
+      "lang": "en"
+    },
+    {
+      "text": "will copy the OneSignal bundle ID, and",
+      "duration": 4.56,
+      "offset": 842.4,
+      "lang": "en"
+    },
+    {
+      "text": "then head back into the Apple developer",
+      "duration": 4.88,
+      "offset": 844.96,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard to create a new identifier.",
+      "duration": 4.6,
+      "offset": 846.96,
+      "lang": "en"
+    },
+    {
+      "text": "Here, I&#39;m going to create a new",
+      "duration": 4.96,
+      "offset": 849.84,
+      "lang": "en"
+    },
+    {
+      "text": "identifier, choose app IDs, select app,",
+      "duration": 5.52,
+      "offset": 851.56,
+      "lang": "en"
+    },
+    {
+      "text": "and paste the bundle ID into the field.",
+      "duration": 4.08,
+      "offset": 854.8,
+      "lang": "en"
+    },
+    {
+      "text": "For the description, I&#39;ll just write the",
+      "duration": 4.04,
+      "offset": 857.08,
+      "lang": "en"
+    },
+    {
+      "text": "app&#39;s name followed by OneSignal, so",
+      "duration": 4.48,
+      "offset": 858.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s easy to identify later. Then, I&#39;ll",
+      "duration": 4.4,
+      "offset": 861.12,
+      "lang": "en"
+    },
+    {
+      "text": "enable the necessary capabilities like",
+      "duration": 4.8,
+      "offset": 863.36,
+      "lang": "en"
+    },
+    {
+      "text": "app groups, associated domains, and push",
+      "duration": 4.48,
+      "offset": 865.52,
+      "lang": "en"
+    },
+    {
+      "text": "notifications with broadcast",
+      "duration": 3.96,
+      "offset": 868.16,
+      "lang": "en"
+    },
+    {
+      "text": "capabilities. And then, after that, I&#39;m",
+      "duration": 3.68,
+      "offset": 870.0,
+      "lang": "en"
+    },
+    {
+      "text": "just going to save the identifier. And",
+      "duration": 3.36,
+      "offset": 872.12,
+      "lang": "en"
+    },
+    {
+      "text": "since we are done with those now, we",
+      "duration": 4.12,
+      "offset": 873.68,
+      "lang": "en"
+    },
+    {
+      "text": "will now create the corresponding app",
+      "duration": 5.48,
+      "offset": 875.48,
+      "lang": "en"
+    },
+    {
+      "text": "group that OneSignal needs. I&#39;m going to",
+      "duration": 5.8,
+      "offset": 877.8,
+      "lang": "en"
+    },
+    {
+      "text": "create another identifier, but this",
+      "duration": 4.72,
+      "offset": 880.96,
+      "lang": "en"
+    },
+    {
+      "text": "time, I&#39;m just going to select app",
+      "duration": 4.24,
+      "offset": 883.6,
+      "lang": "en"
+    },
+    {
+      "text": "group. So, I&#39;ll copy the group ID from",
+      "duration": 4.28,
+      "offset": 885.68,
+      "lang": "en"
+    },
+    {
+      "text": "Despia, paste it into the identifier",
+      "duration": 4.08,
+      "offset": 887.84,
+      "lang": "en"
+    },
+    {
+      "text": "field, and then name it using the app&#39;s",
+      "duration": 4.92,
+      "offset": 889.96,
+      "lang": "en"
+    },
+    {
+      "text": "name plus OneSignal app group. So, after",
+      "duration": 5.0,
+      "offset": 891.92,
+      "lang": "en"
+    },
+    {
+      "text": "saving this, we need to return to the",
+      "duration": 3.96,
+      "offset": 894.88,
+      "lang": "en"
+    },
+    {
+      "text": "OneSignal identifier that we just",
+      "duration": 4.48,
+      "offset": 896.92,
+      "lang": "en"
+    },
+    {
+      "text": "created earlier. And under the app",
+      "duration": 4.88,
+      "offset": 898.84,
+      "lang": "en"
+    },
+    {
+      "text": "groups capability, let&#39;s open the",
+      "duration": 4.28,
+      "offset": 901.4,
+      "lang": "en"
+    },
+    {
+      "text": "configuration settings here, and then",
+      "duration": 4.24,
+      "offset": 903.72,
+      "lang": "en"
+    },
+    {
+      "text": "add the newly created app group. And",
+      "duration": 3.92,
+      "offset": 905.68,
+      "lang": "en"
+    },
+    {
+      "text": "after saving those changes, the",
+      "duration": 4.16,
+      "offset": 907.96,
+      "lang": "en"
+    },
+    {
+      "text": "OneSignal target is now fully linked and",
+      "duration": 4.36,
+      "offset": 909.6,
+      "lang": "en"
+    },
+    {
+      "text": "ready for Despia to use. After",
+      "duration": 3.92,
+      "offset": 912.12,
+      "lang": "en"
+    },
+    {
+      "text": "completing the OneSignal setup, we&#39;re",
+      "duration": 4.52,
+      "offset": 913.96,
+      "lang": "en"
+    },
+    {
+      "text": "going to register the app clip version",
+      "duration": 5.08,
+      "offset": 916.04,
+      "lang": "en"
+    },
+    {
+      "text": "of the app. So, an app clip is a",
+      "duration": 4.64,
+      "offset": 918.48,
+      "lang": "en"
+    },
+    {
+      "text": "lightweight mini version of the app that",
+      "duration": 4.12,
+      "offset": 921.12,
+      "lang": "en"
+    },
+    {
+      "text": "users can access quickly without",
+      "duration": 4.68,
+      "offset": 923.12,
+      "lang": "en"
+    },
+    {
+      "text": "installing the full application. And",
+      "duration": 5.2,
+      "offset": 925.24,
+      "lang": "en"
+    },
+    {
+      "text": "Apple requires its own identifier and",
+      "duration": 5.28,
+      "offset": 927.8,
+      "lang": "en"
+    },
+    {
+      "text": "app group for it to function properly.",
+      "duration": 4.64,
+      "offset": 930.44,
+      "lang": "en"
+    },
+    {
+      "text": "Now, again, to set this up, I&#39;m going to",
+      "duration": 4.4,
+      "offset": 933.08,
+      "lang": "en"
+    },
+    {
+      "text": "create a new identifier in the Apple",
+      "duration": 4.56,
+      "offset": 935.08,
+      "lang": "en"
+    },
+    {
+      "text": "developer dashboard here, and I&#39;m going",
+      "duration": 4.48,
+      "offset": 937.48,
+      "lang": "en"
+    },
+    {
+      "text": "to choose app IDs. From there, I will",
+      "duration": 4.36,
+      "offset": 939.64,
+      "lang": "en"
+    },
+    {
+      "text": "select app clip as the type, and in the",
+      "duration": 4.28,
+      "offset": 941.96,
+      "lang": "en"
+    },
+    {
+      "text": "product name, I&#39;ll just write clip. And",
+      "duration": 4.72,
+      "offset": 944.0,
+      "lang": "en"
+    },
+    {
+      "text": "in the parent app ID field, I&#39;ll also",
+      "duration": 4.88,
+      "offset": 946.24,
+      "lang": "en"
+    },
+    {
+      "text": "choose our main app bundle ID, so the",
+      "duration": 5.0,
+      "offset": 948.72,
+      "lang": "en"
+    },
+    {
+      "text": "clip is correctly tied to the full app.",
+      "duration": 4.52,
+      "offset": 951.12,
+      "lang": "en"
+    },
+    {
+      "text": "After clicking continue, I&#39;ll give it a",
+      "duration": 4.12,
+      "offset": 953.72,
+      "lang": "en"
+    },
+    {
+      "text": "clear description using the app&#39;s name,",
+      "duration": 4.64,
+      "offset": 955.64,
+      "lang": "en"
+    },
+    {
+      "text": "and again, followed by app clip. Then,",
+      "duration": 4.4,
+      "offset": 957.84,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll enable the required capabilities",
+      "duration": 4.28,
+      "offset": 960.28,
+      "lang": "en"
+    },
+    {
+      "text": "for this one: app groups, associated",
+      "duration": 4.88,
+      "offset": 962.24,
+      "lang": "en"
+    },
+    {
+      "text": "domains, and push notifications. And",
+      "duration": 4.76,
+      "offset": 964.56,
+      "lang": "en"
+    },
+    {
+      "text": "then, I&#39;m going to save the identifier.",
+      "duration": 4.56,
+      "offset": 967.12,
+      "lang": "en"
+    },
+    {
+      "text": "Once the app clip identifier is created,",
+      "duration": 4.88,
+      "offset": 969.32,
+      "lang": "en"
+    },
+    {
+      "text": "we will set up the app group it needs to",
+      "duration": 5.24,
+      "offset": 971.68,
+      "lang": "en"
+    },
+    {
+      "text": "access shared data. I&#39;m going to create",
+      "duration": 5.12,
+      "offset": 974.2,
+      "lang": "en"
+    },
+    {
+      "text": "another identifier, then I&#39;ll select app",
+      "duration": 4.72,
+      "offset": 976.92,
+      "lang": "en"
+    },
+    {
+      "text": "group, and paste in the group ID",
+      "duration": 4.92,
+      "offset": 979.32,
+      "lang": "en"
+    },
+    {
+      "text": "provided by Despia. For the description,",
+      "duration": 4.56,
+      "offset": 981.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll write the app&#39;s name followed by",
+      "duration": 4.52,
+      "offset": 984.24,
+      "lang": "en"
+    },
+    {
+      "text": "app clip app group. After saving that",
+      "duration": 4.76,
+      "offset": 986.2,
+      "lang": "en"
+    },
+    {
+      "text": "group, I will return to the app clip",
+      "duration": 4.48,
+      "offset": 988.76,
+      "lang": "en"
+    },
+    {
+      "text": "identifier that we created earlier.",
+      "duration": 4.68,
+      "offset": 990.96,
+      "lang": "en"
+    },
+    {
+      "text": "Under the app groups capability, I&#39;ll",
+      "duration": 4.48,
+      "offset": 993.24,
+      "lang": "en"
+    },
+    {
+      "text": "open the configuration settings and",
+      "duration": 4.48,
+      "offset": 995.64,
+      "lang": "en"
+    },
+    {
+      "text": "attach the app clip app group that we",
+      "duration": 4.4,
+      "offset": 997.72,
+      "lang": "en"
+    },
+    {
+      "text": "just registered. And once it&#39;s saved,",
+      "duration": 4.4,
+      "offset": 1000.12,
+      "lang": "en"
+    },
+    {
+      "text": "the app clip setup is complete and ready",
+      "duration": 4.52,
+      "offset": 1002.12,
+      "lang": "en"
+    },
+    {
+      "text": "for Despia to use. Next up, we&#39;re going",
+      "duration": 4.36,
+      "offset": 1004.52,
+      "lang": "en"
+    },
+    {
+      "text": "to set up the share target, which allows",
+      "duration": 4.4,
+      "offset": 1006.64,
+      "lang": "en"
+    },
+    {
+      "text": "the app to receive shared content",
+      "duration": 5.36,
+      "offset": 1008.88,
+      "lang": "en"
+    },
+    {
+      "text": "directly from other apps on iOS. So, to",
+      "duration": 5.16,
+      "offset": 1011.04,
+      "lang": "en"
+    },
+    {
+      "text": "begin, I will copy the share target",
+      "duration": 4.36,
+      "offset": 1014.24,
+      "lang": "en"
+    },
+    {
+      "text": "bundle ID provided by Despia and head",
+      "duration": 4.56,
+      "offset": 1016.2,
+      "lang": "en"
+    },
+    {
+      "text": "back to the Apple developer dashboard to",
+      "duration": 4.56,
+      "offset": 1018.6,
+      "lang": "en"
+    },
+    {
+      "text": "create a new identifier. It&#39;s the same",
+      "duration": 4.48,
+      "offset": 1020.76,
+      "lang": "en"
+    },
+    {
+      "text": "process here. I&#39;m just going to choose",
+      "duration": 4.76,
+      "offset": 1023.16,
+      "lang": "en"
+    },
+    {
+      "text": "app IDs, select app, and paste the",
+      "duration": 5.24,
+      "offset": 1025.24,
+      "lang": "en"
+    },
+    {
+      "text": "bundle ID into the bundle ID field. So,",
+      "duration": 4.12,
+      "offset": 1027.92,
+      "lang": "en"
+    },
+    {
+      "text": "for the description, let&#39;s write the",
+      "duration": 4.64,
+      "offset": 1030.48,
+      "lang": "en"
+    },
+    {
+      "text": "app&#39;s name followed by share target, so",
+      "duration": 5.68,
+      "offset": 1032.04,
+      "lang": "en"
+    },
+    {
+      "text": "it is easy to recognize later. And since",
+      "duration": 4.96,
+      "offset": 1035.12,
+      "lang": "en"
+    },
+    {
+      "text": "this feature only needs shared data",
+      "duration": 5.12,
+      "offset": 1037.72,
+      "lang": "en"
+    },
+    {
+      "text": "access, we do need to enable the app",
+      "duration": 4.88,
+      "offset": 1040.08,
+      "lang": "en"
+    },
+    {
+      "text": "groups capability and save the",
+      "duration": 4.52,
+      "offset": 1042.84,
+      "lang": "en"
+    },
+    {
+      "text": "identifier. After that, we will create",
+      "duration": 4.6,
+      "offset": 1044.96,
+      "lang": "en"
+    },
+    {
+      "text": "the app group that the share target will",
+      "duration": 4.6,
+      "offset": 1047.36,
+      "lang": "en"
+    },
+    {
+      "text": "use. And we need to create another",
+      "duration": 5.0,
+      "offset": 1049.56,
+      "lang": "en"
+    },
+    {
+      "text": "identifier, so select app group, and",
+      "duration": 5.12,
+      "offset": 1051.96,
+      "lang": "en"
+    },
+    {
+      "text": "paste the group ID from Despia into the",
+      "duration": 4.88,
+      "offset": 1054.56,
+      "lang": "en"
+    },
+    {
+      "text": "identifier field. I&#39;ll name it using the",
+      "duration": 5.04,
+      "offset": 1057.08,
+      "lang": "en"
+    },
+    {
+      "text": "app&#39;s name followed by share target app",
+      "duration": 4.52,
+      "offset": 1059.44,
+      "lang": "en"
+    },
+    {
+      "text": "group. Then, I&#39;m going to save the",
+      "duration": 3.92,
+      "offset": 1062.12,
+      "lang": "en"
+    },
+    {
+      "text": "group. And now, let&#39;s go back to the",
+      "duration": 4.44,
+      "offset": 1063.96,
+      "lang": "en"
+    },
+    {
+      "text": "share target identifier here. Under the",
+      "duration": 4.72,
+      "offset": 1066.04,
+      "lang": "en"
+    },
+    {
+      "text": "app groups capability, I will open the",
+      "duration": 4.68,
+      "offset": 1068.4,
+      "lang": "en"
+    },
+    {
+      "text": "configuration panel and attach the share",
+      "duration": 3.84,
+      "offset": 1070.76,
+      "lang": "en"
+    },
+    {
+      "text": "target app group that we just",
+      "duration": 3.48,
+      "offset": 1073.08,
+      "lang": "en"
+    },
+    {
+      "text": "registered. After saving all those",
+      "duration": 4.08,
+      "offset": 1074.6,
+      "lang": "en"
+    },
+    {
+      "text": "changes, the share target is fully",
+      "duration": 4.52,
+      "offset": 1076.56,
+      "lang": "en"
+    },
+    {
+      "text": "linked and ready for Despia to include",
+      "duration": 3.76,
+      "offset": 1078.68,
+      "lang": "en"
+    },
+    {
+      "text": "in the final build. So, the next",
+      "duration": 3.72,
+      "offset": 1081.08,
+      "lang": "en"
+    },
+    {
+      "text": "component we need to register now is the",
+      "duration": 5.12,
+      "offset": 1082.44,
+      "lang": "en"
+    },
+    {
+      "text": "widget. This one allows the app to show",
+      "duration": 4.96,
+      "offset": 1084.8,
+      "lang": "en"
+    },
+    {
+      "text": "glanceable information right onto the",
+      "duration": 4.28,
+      "offset": 1087.56,
+      "lang": "en"
+    },
+    {
+      "text": "user&#39;s home screen. So, to start this",
+      "duration": 3.8,
+      "offset": 1089.76,
+      "lang": "en"
+    },
+    {
+      "text": "part of the setup, we will again follow",
+      "duration": 3.64,
+      "offset": 1091.84,
+      "lang": "en"
+    },
+    {
+      "text": "the same old process where we&#39;re going",
+      "duration": 3.84,
+      "offset": 1093.56,
+      "lang": "en"
+    },
+    {
+      "text": "to copy the widget bundle ID from",
+      "duration": 4.28,
+      "offset": 1095.48,
+      "lang": "en"
+    },
+    {
+      "text": "Despia, and then head back into the",
+      "duration": 5.04,
+      "offset": 1097.4,
+      "lang": "en"
+    },
+    {
+      "text": "Apple developer dashboard to create a",
+      "duration": 5.6,
+      "offset": 1099.76,
+      "lang": "en"
+    },
+    {
+      "text": "new identifier. Now, I&#39;m going to choose",
+      "duration": 5.72,
+      "offset": 1102.44,
+      "lang": "en"
+    },
+    {
+      "text": "app IDs, select app, and paste the",
+      "duration": 5.4,
+      "offset": 1105.36,
+      "lang": "en"
+    },
+    {
+      "text": "bundle ID into the field. So, for the",
+      "duration": 4.56,
+      "offset": 1108.16,
+      "lang": "en"
+    },
+    {
+      "text": "description, we&#39;ll just use the app&#39;s",
+      "duration": 5.12,
+      "offset": 1110.76,
+      "lang": "en"
+    },
+    {
+      "text": "name followed by widget. Then, we need",
+      "duration": 6.16,
+      "offset": 1112.72,
+      "lang": "en"
+    },
+    {
+      "text": "to enable the app groups capability and",
+      "duration": 5.24,
+      "offset": 1115.88,
+      "lang": "en"
+    },
+    {
+      "text": "save the identifier. Now, once that",
+      "duration": 3.76,
+      "offset": 1118.88,
+      "lang": "en"
+    },
+    {
+      "text": "part&#39;s done, we will create the",
+      "duration": 4.0,
+      "offset": 1121.12,
+      "lang": "en"
+    },
+    {
+      "text": "corresponding app group the widget will",
+      "duration": 4.96,
+      "offset": 1122.64,
+      "lang": "en"
+    },
+    {
+      "text": "rely on. Now, I&#39;m going to create",
+      "duration": 4.84,
+      "offset": 1125.12,
+      "lang": "en"
+    },
+    {
+      "text": "another identifier here, select app",
+      "duration": 4.96,
+      "offset": 1127.6,
+      "lang": "en"
+    },
+    {
+      "text": "group, and paste the group ID provided",
+      "duration": 5.12,
+      "offset": 1129.96,
+      "lang": "en"
+    },
+    {
+      "text": "by Despia. As for the name, I&#39;ll just",
+      "duration": 4.2,
+      "offset": 1132.56,
+      "lang": "en"
+    },
+    {
+      "text": "write the app&#39;s name followed by, you",
+      "duration": 4.36,
+      "offset": 1135.08,
+      "lang": "en"
+    },
+    {
+      "text": "guessed it, widget app group. After",
+      "duration": 4.8,
+      "offset": 1136.76,
+      "lang": "en"
+    },
+    {
+      "text": "saving it, we can now return to the",
+      "duration": 4.64,
+      "offset": 1139.44,
+      "lang": "en"
+    },
+    {
+      "text": "widget identifier that we just created.",
+      "duration": 4.64,
+      "offset": 1141.56,
+      "lang": "en"
+    },
+    {
+      "text": "Under the app groups section, I&#39;ll open",
+      "duration": 4.6,
+      "offset": 1144.08,
+      "lang": "en"
+    },
+    {
+      "text": "the configuration menu and attach the",
+      "duration": 5.08,
+      "offset": 1146.2,
+      "lang": "en"
+    },
+    {
+      "text": "widget app group. And with that saved,",
+      "duration": 4.6,
+      "offset": 1148.68,
+      "lang": "en"
+    },
+    {
+      "text": "the widget component is now fully",
+      "duration": 4.68,
+      "offset": 1151.28,
+      "lang": "en"
+    },
+    {
+      "text": "configured. Now, after completing all",
+      "duration": 6.04,
+      "offset": 1153.28,
+      "lang": "en"
+    },
+    {
+      "text": "the individual targets, OneSignal, app",
+      "duration": 6.44,
+      "offset": 1155.96,
+      "lang": "en"
+    },
+    {
+      "text": "clip, share target, and widget, we need",
+      "duration": 6.0,
+      "offset": 1159.32,
+      "lang": "en"
+    },
+    {
+      "text": "to link every app group back to the main",
+      "duration": 5.48,
+      "offset": 1162.4,
+      "lang": "en"
+    },
+    {
+      "text": "bundle, so that the full app can access",
+      "duration": 5.04,
+      "offset": 1165.32,
+      "lang": "en"
+    },
+    {
+      "text": "all shared data properly. So, to do",
+      "duration": 4.32,
+      "offset": 1167.88,
+      "lang": "en"
+    },
+    {
+      "text": "this, we need to open the main app",
+      "duration": 4.44,
+      "offset": 1170.36,
+      "lang": "en"
+    },
+    {
+      "text": "bundle identifier, go to the app groups",
+      "duration": 5.16,
+      "offset": 1172.2,
+      "lang": "en"
+    },
+    {
+      "text": "category, and select all of the app",
+      "duration": 4.84,
+      "offset": 1174.8,
+      "lang": "en"
+    },
+    {
+      "text": "groups that we created earlier. And",
+      "duration": 4.28,
+      "offset": 1177.36,
+      "lang": "en"
+    },
+    {
+      "text": "saving that final step ensures",
+      "duration": 4.28,
+      "offset": 1179.64,
+      "lang": "en"
+    },
+    {
+      "text": "everything is connected exactly the way",
+      "duration": 4.44,
+      "offset": 1181.64,
+      "lang": "en"
+    },
+    {
+      "text": "that Apple expects. Once these",
+      "duration": 4.44,
+      "offset": 1183.92,
+      "lang": "en"
+    },
+    {
+      "text": "identifiers are in place, we can move",
+      "duration": 4.72,
+      "offset": 1186.08,
+      "lang": "en"
+    },
+    {
+      "text": "into App Store Connect to register the",
+      "duration": 4.76,
+      "offset": 1188.36,
+      "lang": "en"
+    },
+    {
+      "text": "actual app. So, let&#39;s go to the app",
+      "duration": 4.32,
+      "offset": 1190.8,
+      "lang": "en"
+    },
+    {
+      "text": "section in the App Store Connect and",
+      "duration": 5.0,
+      "offset": 1193.12,
+      "lang": "en"
+    },
+    {
+      "text": "create a new iOS app. Here, I&#39;m just",
+      "duration": 4.56,
+      "offset": 1195.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to enter the app&#39;s name, Fish",
+      "duration": 4.6,
+      "offset": 1198.12,
+      "lang": "en"
+    },
+    {
+      "text": "Identifier Scan Fish in my case, and set",
+      "duration": 5.48,
+      "offset": 1199.68,
+      "lang": "en"
+    },
+    {
+      "text": "the language to English. For the bundle",
+      "duration": 5.08,
+      "offset": 1202.72,
+      "lang": "en"
+    },
+    {
+      "text": "ID, we&#39;ll select the main app bundle ID",
+      "duration": 4.44,
+      "offset": 1205.16,
+      "lang": "en"
+    },
+    {
+      "text": "that we just configured. And for the",
+      "duration": 3.88,
+      "offset": 1207.8,
+      "lang": "en"
+    },
+    {
+      "text": "SKU, I&#39;ll write the app&#39;s name in all",
+      "duration": 5.08,
+      "offset": 1209.6,
+      "lang": "en"
+    },
+    {
+      "text": "caps. We will also set the user access",
+      "duration": 5.4,
+      "offset": 1211.68,
+      "lang": "en"
+    },
+    {
+      "text": "to full access, and after creating the",
+      "duration": 4.6,
+      "offset": 1214.68,
+      "lang": "en"
+    },
+    {
+      "text": "app, we need to go to the app",
+      "duration": 5.44,
+      "offset": 1217.08,
+      "lang": "en"
+    },
+    {
+      "text": "information page and copy the Apple ID",
+      "duration": 5.68,
+      "offset": 1219.28,
+      "lang": "en"
+    },
+    {
+      "text": "assigned to it. Then, let&#39;s return to",
+      "duration": 5.2,
+      "offset": 1222.52,
+      "lang": "en"
+    },
+    {
+      "text": "Despia and then paste that Apple ID into",
+      "duration": 5.0,
+      "offset": 1224.96,
+      "lang": "en"
+    },
+    {
+      "text": "the App Store app ID field so that",
+      "duration": 4.76,
+      "offset": 1227.72,
+      "lang": "en"
+    },
+    {
+      "text": "everything stays synced. At this point,",
+      "duration": 4.8,
+      "offset": 1229.96,
+      "lang": "en"
+    },
+    {
+      "text": "the entire Apple configuration is now",
+      "duration": 5.0,
+      "offset": 1232.48,
+      "lang": "en"
+    },
+    {
+      "text": "complete, and the next project is ready",
+      "duration": 4.84,
+      "offset": 1234.76,
+      "lang": "en"
+    },
+    {
+      "text": "for the next phase. We&#39;re going to",
+      "duration": 4.44,
+      "offset": 1237.48,
+      "lang": "en"
+    },
+    {
+      "text": "integrate RevenueCat to handle",
+      "duration": 4.84,
+      "offset": 1239.6,
+      "lang": "en"
+    },
+    {
+      "text": "subscriptions and paywalls. All right,",
+      "duration": 4.88,
+      "offset": 1241.92,
+      "lang": "en"
+    },
+    {
+      "text": "so once the app is taking shape visually",
+      "duration": 4.72,
+      "offset": 1244.44,
+      "lang": "en"
+    },
+    {
+      "text": "and technically, the next big question",
+      "duration": 4.4,
+      "offset": 1246.8,
+      "lang": "en"
+    },
+    {
+      "text": "is how is it actually going to make",
+      "duration": 4.72,
+      "offset": 1249.16,
+      "lang": "en"
+    },
+    {
+      "text": "money? A lot of people want to offer a",
+      "duration": 5.72,
+      "offset": 1251.2,
+      "lang": "en"
+    },
+    {
+      "text": "free experience up front, but lock more",
+      "duration": 5.64,
+      "offset": 1253.88,
+      "lang": "en"
+    },
+    {
+      "text": "advanced tools or unlimited scans behind",
+      "duration": 4.6,
+      "offset": 1256.92,
+      "lang": "en"
+    },
+    {
+      "text": "the subscription. And that&#39;s exactly",
+      "duration": 4.6,
+      "offset": 1259.52,
+      "lang": "en"
+    },
+    {
+      "text": "where RevenueCat comes in. It&#39;ll handle",
+      "duration": 4.36,
+      "offset": 1261.52,
+      "lang": "en"
+    },
+    {
+      "text": "all the subscriptions, the paywalls, and",
+      "duration": 3.84,
+      "offset": 1264.12,
+      "lang": "en"
+    },
+    {
+      "text": "purchase logic so we don&#39;t have to build",
+      "duration": 4.36,
+      "offset": 1265.88,
+      "lang": "en"
+    },
+    {
+      "text": "all of that from scratch. So, in this",
+      "duration": 4.56,
+      "offset": 1267.96,
+      "lang": "en"
+    },
+    {
+      "text": "part, we&#39;re going to connect RevenueCat",
+      "duration": 4.88,
+      "offset": 1270.24,
+      "lang": "en"
+    },
+    {
+      "text": "to our project through Despia so that",
+      "duration": 4.8,
+      "offset": 1272.52,
+      "lang": "en"
+    },
+    {
+      "text": "the app can support real in-app",
+      "duration": 5.0,
+      "offset": 1275.12,
+      "lang": "en"
+    },
+    {
+      "text": "purchases and recurring subscriptions in",
+      "duration": 5.08,
+      "offset": 1277.32,
+      "lang": "en"
+    },
+    {
+      "text": "a clean, reliable way. All right, so",
+      "duration": 4.36,
+      "offset": 1280.12,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s start here. I&#39;m going to go to",
+      "duration": 4.44,
+      "offset": 1282.4,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat, and I&#39;m going to create a",
+      "duration": 4.76,
+      "offset": 1284.48,
+      "lang": "en"
+    },
+    {
+      "text": "new project. Let&#39;s make a fresh project",
+      "duration": 5.16,
+      "offset": 1286.84,
+      "lang": "en"
+    },
+    {
+      "text": "and give it a name that matches my app.",
+      "duration": 5.16,
+      "offset": 1289.24,
+      "lang": "en"
+    },
+    {
+      "text": "Something like Fish Identifier works",
+      "duration": 4.52,
+      "offset": 1292.0,
+      "lang": "en"
+    },
+    {
+      "text": "pretty good, but you can call it",
+      "duration": 4.6,
+      "offset": 1294.4,
+      "lang": "en"
+    },
+    {
+      "text": "whatever fits your app. I&#39;ll also set",
+      "duration": 4.76,
+      "offset": 1296.52,
+      "lang": "en"
+    },
+    {
+      "text": "the category to lifestyle so it lines up",
+      "duration": 4.04,
+      "offset": 1299.0,
+      "lang": "en"
+    },
+    {
+      "text": "with how the app will be positioned in",
+      "duration": 3.68,
+      "offset": 1301.28,
+      "lang": "en"
+    },
+    {
+      "text": "the store. And for the platform, I&#39;m",
+      "duration": 4.28,
+      "offset": 1303.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to choose native Apple since",
+      "duration": 5.36,
+      "offset": 1304.96,
+      "lang": "en"
+    },
+    {
+      "text": "Despia will be handling the iOS build,",
+      "duration": 5.44,
+      "offset": 1307.32,
+      "lang": "en"
+    },
+    {
+      "text": "and we do want RevenueCat to be ready to",
+      "duration": 5.32,
+      "offset": 1310.32,
+      "lang": "en"
+    },
+    {
+      "text": "work directly with the Apple ecosystem.",
+      "duration": 6.04,
+      "offset": 1312.76,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so after creating this project,",
+      "duration": 5.56,
+      "offset": 1315.64,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll have the base space inside",
+      "duration": 4.88,
+      "offset": 1318.8,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat where all of our products,",
+      "duration": 4.88,
+      "offset": 1321.2,
+      "lang": "en"
+    },
+    {
+      "text": "our entitlements, offerings, and",
+      "duration": 4.2,
+      "offset": 1323.68,
+      "lang": "en"
+    },
+    {
+      "text": "payments will live. The next part of the",
+      "duration": 4.16,
+      "offset": 1326.08,
+      "lang": "en"
+    },
+    {
+      "text": "setup is configuring the app inside",
+      "duration": 4.56,
+      "offset": 1327.88,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat so it knows exactly which",
+      "duration": 4.68,
+      "offset": 1330.24,
+      "lang": "en"
+    },
+    {
+      "text": "Apple project it belongs to. And this is",
+      "duration": 4.96,
+      "offset": 1332.44,
+      "lang": "en"
+    },
+    {
+      "text": "what allows RevenueCat to communicate",
+      "duration": 4.92,
+      "offset": 1334.92,
+      "lang": "en"
+    },
+    {
+      "text": "with App Store Connect on our behalf,",
+      "duration": 4.44,
+      "offset": 1337.4,
+      "lang": "en"
+    },
+    {
+      "text": "and then manage subscriptions without",
+      "duration": 4.88,
+      "offset": 1339.84,
+      "lang": "en"
+    },
+    {
+      "text": "any manual handling later on. I&#39;ll start",
+      "duration": 4.8,
+      "offset": 1341.84,
+      "lang": "en"
+    },
+    {
+      "text": "by going to the apps and provider",
+      "duration": 4.56,
+      "offset": 1344.72,
+      "lang": "en"
+    },
+    {
+      "text": "section in RevenueCat here, and then",
+      "duration": 5.28,
+      "offset": 1346.64,
+      "lang": "en"
+    },
+    {
+      "text": "creating a new app configuration. When",
+      "duration": 5.04,
+      "offset": 1349.28,
+      "lang": "en"
+    },
+    {
+      "text": "prompted, I am going to choose the App",
+      "duration": 4.96,
+      "offset": 1351.92,
+      "lang": "en"
+    },
+    {
+      "text": "Store as the platform since that is",
+      "duration": 4.6,
+      "offset": 1354.32,
+      "lang": "en"
+    },
+    {
+      "text": "where our subscription products will",
+      "duration": 5.36,
+      "offset": 1356.88,
+      "lang": "en"
+    },
+    {
+      "text": "live. Now, to link everything correctly,",
+      "duration": 6.32,
+      "offset": 1358.92,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s copy the app bundle ID again from",
+      "duration": 5.16,
+      "offset": 1362.24,
+      "lang": "en"
+    },
+    {
+      "text": "Despia, and then paste it into",
+      "duration": 4.72,
+      "offset": 1365.24,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat. RevenueCat also needs the",
+      "duration": 4.68,
+      "offset": 1367.4,
+      "lang": "en"
+    },
+    {
+      "text": "Apple credentials that allow it to read",
+      "duration": 4.64,
+      "offset": 1369.96,
+      "lang": "en"
+    },
+    {
+      "text": "subscription information and process",
+      "duration": 5.04,
+      "offset": 1372.08,
+      "lang": "en"
+    },
+    {
+      "text": "purchases. After that, let&#39;s head into",
+      "duration": 4.84,
+      "offset": 1374.6,
+      "lang": "en"
+    },
+    {
+      "text": "App Store Connect, open the in-app",
+      "duration": 5.72,
+      "offset": 1377.12,
+      "lang": "en"
+    },
+    {
+      "text": "purchase area, and create a new key. I&#39;m",
+      "duration": 5.16,
+      "offset": 1379.44,
+      "lang": "en"
+    },
+    {
+      "text": "going to give it a name something clear",
+      "duration": 4.56,
+      "offset": 1382.84,
+      "lang": "en"
+    },
+    {
+      "text": "like Fish Identifier RevenueCat. Then,",
+      "duration": 5.56,
+      "offset": 1384.6,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to download the .p8 key file,",
+      "duration": 5.36,
+      "offset": 1387.4,
+      "lang": "en"
+    },
+    {
+      "text": "and back in RevenueCat, we will upload",
+      "duration": 5.2,
+      "offset": 1390.16,
+      "lang": "en"
+    },
+    {
+      "text": "that file, and then return to App Store",
+      "duration": 5.56,
+      "offset": 1392.76,
+      "lang": "en"
+    },
+    {
+      "text": "Connect to copy the issuer ID, which I",
+      "duration": 5.48,
+      "offset": 1395.36,
+      "lang": "en"
+    },
+    {
+      "text": "am going to paste into RevenueCat as",
+      "duration": 5.04,
+      "offset": 1398.32,
+      "lang": "en"
+    },
+    {
+      "text": "well. Now, there&#39;s one more connection",
+      "duration": 5.08,
+      "offset": 1400.84,
+      "lang": "en"
+    },
+    {
+      "text": "that RevenueCat needs, and that&#39;s the",
+      "duration": 5.24,
+      "offset": 1403.36,
+      "lang": "en"
+    },
+    {
+      "text": "App Store Connect API key. So, to create",
+      "duration": 4.32,
+      "offset": 1405.92,
+      "lang": "en"
+    },
+    {
+      "text": "this, we need to go to the App Store",
+      "duration": 4.64,
+      "offset": 1408.6,
+      "lang": "en"
+    },
+    {
+      "text": "Connect API section in App Store",
+      "duration": 6.12,
+      "offset": 1410.24,
+      "lang": "en"
+    },
+    {
+      "text": "Connect, generate a new API key, and",
+      "duration": 6.08,
+      "offset": 1413.24,
+      "lang": "en"
+    },
+    {
+      "text": "name it RevenueCat API. And then, let&#39;s",
+      "duration": 5.64,
+      "offset": 1416.36,
+      "lang": "en"
+    },
+    {
+      "text": "set the access level to app manager so",
+      "duration": 4.68,
+      "offset": 1419.32,
+      "lang": "en"
+    },
+    {
+      "text": "it has the proper permissions, then",
+      "duration": 4.76,
+      "offset": 1422.0,
+      "lang": "en"
+    },
+    {
+      "text": "download the key file. We&#39;ll upload that",
+      "duration": 5.56,
+      "offset": 1424.0,
+      "lang": "en"
+    },
+    {
+      "text": "key into RevenueCat and paste the same",
+      "duration": 5.28,
+      "offset": 1426.76,
+      "lang": "en"
+    },
+    {
+      "text": "issuer ID from earlier to keep",
+      "duration": 4.92,
+      "offset": 1429.56,
+      "lang": "en"
+    },
+    {
+      "text": "everything consistent. Now, the last",
+      "duration": 4.96,
+      "offset": 1432.04,
+      "lang": "en"
+    },
+    {
+      "text": "detail RevenueCat is asking for is the",
+      "duration": 4.56,
+      "offset": 1434.48,
+      "lang": "en"
+    },
+    {
+      "text": "vendor number, and here we have the",
+      "duration": 3.92,
+      "offset": 1437.0,
+      "lang": "en"
+    },
+    {
+      "text": "link. I&#39;m going to click it. I&#39;m going",
+      "duration": 3.88,
+      "offset": 1439.04,
+      "lang": "en"
+    },
+    {
+      "text": "to copy the vendor number shown in the",
+      "duration": 4.08,
+      "offset": 1440.92,
+      "lang": "en"
+    },
+    {
+      "text": "top left corner, and then I&#39;m just going",
+      "duration": 4.72,
+      "offset": 1442.92,
+      "lang": "en"
+    },
+    {
+      "text": "to paste it back into RevenueCat. And",
+      "duration": 4.32,
+      "offset": 1445.0,
+      "lang": "en"
+    },
+    {
+      "text": "once you&#39;re done filling out all of",
+      "duration": 3.24,
+      "offset": 1447.64,
+      "lang": "en"
+    },
+    {
+      "text": "those fields, I&#39;m going to save the",
+      "duration": 3.56,
+      "offset": 1449.32,
+      "lang": "en"
+    },
+    {
+      "text": "configuration, and there you go.",
+      "duration": 4.32,
+      "offset": 1450.88,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat is officially connected to",
+      "duration": 4.36,
+      "offset": 1452.88,
+      "lang": "en"
+    },
+    {
+      "text": "the Apple side of our app. Once",
+      "duration": 4.04,
+      "offset": 1455.2,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat is linked to our Apple",
+      "duration": 4.32,
+      "offset": 1457.24,
+      "lang": "en"
+    },
+    {
+      "text": "project, we can set up the actual",
+      "duration": 4.84,
+      "offset": 1459.24,
+      "lang": "en"
+    },
+    {
+      "text": "subscription that the app will offer.",
+      "duration": 4.84,
+      "offset": 1461.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now, this happens inside App Store",
+      "duration": 5.2,
+      "offset": 1464.08,
+      "lang": "en"
+    },
+    {
+      "text": "Connect where all in-app purchases are",
+      "duration": 5.24,
+      "offset": 1466.4,
+      "lang": "en"
+    },
+    {
+      "text": "officially registered. I&#39;m going to open",
+      "duration": 4.68,
+      "offset": 1469.28,
+      "lang": "en"
+    },
+    {
+      "text": "the subscription section in the apps",
+      "duration": 5.2,
+      "offset": 1471.64,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard and create a new subscription",
+      "duration": 6.32,
+      "offset": 1473.96,
+      "lang": "en"
+    },
+    {
+      "text": "group. I&#39;ll name the group pro_access",
+      "duration": 5.52,
+      "offset": 1476.84,
+      "lang": "en"
+    },
+    {
+      "text": "since this will be the identifier we use",
+      "duration": 4.8,
+      "offset": 1480.28,
+      "lang": "en"
+    },
+    {
+      "text": "throughout both RevenueCat and our app",
+      "duration": 5.28,
+      "offset": 1482.36,
+      "lang": "en"
+    },
+    {
+      "text": "to reference the premium features.",
+      "duration": 5.4,
+      "offset": 1485.08,
+      "lang": "en"
+    },
+    {
+      "text": "Next, I&#39;ll add a new subscription inside",
+      "duration": 4.8,
+      "offset": 1487.64,
+      "lang": "en"
+    },
+    {
+      "text": "it. Now, for the reference name, I&#39;ll",
+      "duration": 4.8,
+      "offset": 1490.48,
+      "lang": "en"
+    },
+    {
+      "text": "use monthly subscription, and I&#39;ll set",
+      "duration": 6.36,
+      "offset": 1492.44,
+      "lang": "en"
+    },
+    {
+      "text": "the product ID to monthly_paywall,",
+      "duration": 5.48,
+      "offset": 1495.28,
+      "lang": "en"
+    },
+    {
+      "text": "which keeps everything clear and easy to",
+      "duration": 4.4,
+      "offset": 1498.8,
+      "lang": "en"
+    },
+    {
+      "text": "track across systems. Now, let&#39;s choose",
+      "duration": 4.56,
+      "offset": 1500.76,
+      "lang": "en"
+    },
+    {
+      "text": "the regions where the subscription will",
+      "duration": 4.24,
+      "offset": 1503.2,
+      "lang": "en"
+    },
+    {
+      "text": "be available. I&#39;m setting it to",
+      "duration": 4.56,
+      "offset": 1505.32,
+      "lang": "en"
+    },
+    {
+      "text": "worldwide so that users everywhere can",
+      "duration": 4.4,
+      "offset": 1507.44,
+      "lang": "en"
+    },
+    {
+      "text": "access it, and then enter the",
+      "duration": 4.68,
+      "offset": 1509.88,
+      "lang": "en"
+    },
+    {
+      "text": "subscription price, which in my case is",
+      "duration": 4.76,
+      "offset": 1511.84,
+      "lang": "en"
+    },
+    {
+      "text": "$9.99.",
+      "duration": 3.68,
+      "offset": 1514.56,
+      "lang": "en"
+    },
+    {
+      "text": "And finally, after saving it, the",
+      "duration": 4.48,
+      "offset": 1516.6,
+      "lang": "en"
+    },
+    {
+      "text": "subscription is now officially created",
+      "duration": 5.48,
+      "offset": 1518.24,
+      "lang": "en"
+    },
+    {
+      "text": "and ready to be tied into RevenueCat.",
+      "duration": 5.2,
+      "offset": 1521.08,
+      "lang": "en"
+    },
+    {
+      "text": "The next step is to bring that product",
+      "duration": 5.08,
+      "offset": 1523.72,
+      "lang": "en"
+    },
+    {
+      "text": "into RevenueCat so the two systems stay",
+      "duration": 4.56,
+      "offset": 1526.28,
+      "lang": "en"
+    },
+    {
+      "text": "perfectly in sync. I&#39;m going to go to",
+      "duration": 4.36,
+      "offset": 1528.8,
+      "lang": "en"
+    },
+    {
+      "text": "the product catalog inside RevenueCat",
+      "duration": 4.52,
+      "offset": 1530.84,
+      "lang": "en"
+    },
+    {
+      "text": "and open the products tab. In the App",
+      "duration": 4.48,
+      "offset": 1533.16,
+      "lang": "en"
+    },
+    {
+      "text": "Store section, there&#39;s an option to",
+      "duration": 4.84,
+      "offset": 1535.36,
+      "lang": "en"
+    },
+    {
+      "text": "import products directly from my App",
+      "duration": 4.92,
+      "offset": 1537.64,
+      "lang": "en"
+    },
+    {
+      "text": "Store Connect account, so I&#39;m going to",
+      "duration": 5.04,
+      "offset": 1540.2,
+      "lang": "en"
+    },
+    {
+      "text": "click import. RevenueCat will list the",
+      "duration": 5.64,
+      "offset": 1542.56,
+      "lang": "en"
+    },
+    {
+      "text": "available in-app purchases from the app,",
+      "duration": 4.76,
+      "offset": 1545.24,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m going to select the",
+      "duration": 3.64,
+      "offset": 1548.2,
+      "lang": "en"
+    },
+    {
+      "text": "monthly_paywall",
+      "duration": 4.44,
+      "offset": 1550.0,
+      "lang": "en"
+    },
+    {
+      "text": "product that we just created. And after",
+      "duration": 5.72,
+      "offset": 1551.84,
+      "lang": "en"
+    },
+    {
+      "text": "that, RevenueCat officially recognizes",
+      "duration": 5.68,
+      "offset": 1554.44,
+      "lang": "en"
+    },
+    {
+      "text": "the subscription, and this will become",
+      "duration": 6.04,
+      "offset": 1557.56,
+      "lang": "en"
+    },
+    {
+      "text": "available for attaching to entitlements",
+      "duration": 5.76,
+      "offset": 1560.12,
+      "lang": "en"
+    },
+    {
+      "text": "and paywalls later in the setup. So,",
+      "duration": 4.28,
+      "offset": 1563.6,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s now take a look at entitlement,",
+      "duration": 4.08,
+      "offset": 1565.88,
+      "lang": "en"
+    },
+    {
+      "text": "which represents the premium access",
+      "duration": 4.32,
+      "offset": 1567.88,
+      "lang": "en"
+    },
+    {
+      "text": "users unlock when they purchase a",
+      "duration": 4.44,
+      "offset": 1569.96,
+      "lang": "en"
+    },
+    {
+      "text": "subscription. Here in the product",
+      "duration": 4.64,
+      "offset": 1572.2,
+      "lang": "en"
+    },
+    {
+      "text": "catalog, we will go to the entitlements",
+      "duration": 4.68,
+      "offset": 1574.4,
+      "lang": "en"
+    },
+    {
+      "text": "tab, and I&#39;m going to create a new one.",
+      "duration": 4.12,
+      "offset": 1576.84,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re going to name the identifier",
+      "duration": 4.44,
+      "offset": 1579.08,
+      "lang": "en"
+    },
+    {
+      "text": "pro_access and give it a display name",
+      "duration": 4.92,
+      "offset": 1580.96,
+      "lang": "en"
+    },
+    {
+      "text": "like pro access. After that, we will",
+      "duration": 5.28,
+      "offset": 1583.52,
+      "lang": "en"
+    },
+    {
+      "text": "attach the subscription product to it by",
+      "duration": 5.4,
+      "offset": 1585.88,
+      "lang": "en"
+    },
+    {
+      "text": "selecting add your first product,",
+      "duration": 5.12,
+      "offset": 1588.8,
+      "lang": "en"
+    },
+    {
+      "text": "opening the associated products field,",
+      "duration": 4.16,
+      "offset": 1591.28,
+      "lang": "en"
+    },
+    {
+      "text": "and then just choosing the App Store",
+      "duration": 4.08,
+      "offset": 1593.92,
+      "lang": "en"
+    },
+    {
+      "text": "product that we imported earlier. In",
+      "duration": 4.48,
+      "offset": 1595.44,
+      "lang": "en"
+    },
+    {
+      "text": "doing this, links the subscription to",
+      "duration": 4.92,
+      "offset": 1598.0,
+      "lang": "en"
+    },
+    {
+      "text": "the actual benefit users receive once",
+      "duration": 4.92,
+      "offset": 1599.92,
+      "lang": "en"
+    },
+    {
+      "text": "they subscribe. And we will now move",
+      "duration": 4.36,
+      "offset": 1602.92,
+      "lang": "en"
+    },
+    {
+      "text": "over to the offering section to define",
+      "duration": 5.64,
+      "offset": 1604.84,
+      "lang": "en"
+    },
+    {
+      "text": "how the subscription will appear inside",
+      "duration": 6.4,
+      "offset": 1607.28,
+      "lang": "en"
+    },
+    {
+      "text": "of the app. RevenueCat uses offerings to",
+      "duration": 5.6,
+      "offset": 1610.48,
+      "lang": "en"
+    },
+    {
+      "text": "structure paywalls, so we&#39;re going to",
+      "duration": 4.88,
+      "offset": 1613.68,
+      "lang": "en"
+    },
+    {
+      "text": "create a new offering and name it",
+      "duration": 5.2,
+      "offset": 1616.08,
+      "lang": "en"
+    },
+    {
+      "text": "default since this will be our primary",
+      "duration": 4.64,
+      "offset": 1618.56,
+      "lang": "en"
+    },
+    {
+      "text": "offering. Inside of that offering, we",
+      "duration": 4.48,
+      "offset": 1621.28,
+      "lang": "en"
+    },
+    {
+      "text": "will add a package and select monthly as",
+      "duration": 4.92,
+      "offset": 1623.2,
+      "lang": "en"
+    },
+    {
+      "text": "the identifier. In the description,",
+      "duration": 4.92,
+      "offset": 1625.76,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll write monthly subscription, and",
+      "duration": 5.36,
+      "offset": 1628.12,
+      "lang": "en"
+    },
+    {
+      "text": "then assign the same monthly_paywall",
+      "duration": 5.2,
+      "offset": 1630.68,
+      "lang": "en"
+    },
+    {
+      "text": "product that we created earlier. After",
+      "duration": 5.12,
+      "offset": 1633.48,
+      "lang": "en"
+    },
+    {
+      "text": "saving that, RevenueCat now has a",
+      "duration": 5.64,
+      "offset": 1635.88,
+      "lang": "en"
+    },
+    {
+      "text": "complete setup. The subscription exists,",
+      "duration": 5.56,
+      "offset": 1638.6,
+      "lang": "en"
+    },
+    {
+      "text": "it unlocks a specific entitlement, and",
+      "duration": 4.8,
+      "offset": 1641.52,
+      "lang": "en"
+    },
+    {
+      "text": "it will be displayed inside the default",
+      "duration": 4.48,
+      "offset": 1644.16,
+      "lang": "en"
+    },
+    {
+      "text": "paywall offering. The next step is",
+      "duration": 5.28,
+      "offset": 1646.32,
+      "lang": "en"
+    },
+    {
+      "text": "setting up the actual paywall that users",
+      "duration": 5.2,
+      "offset": 1648.64,
+      "lang": "en"
+    },
+    {
+      "text": "will see inside of the app. In",
+      "duration": 3.08,
+      "offset": 1651.6,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat, [snorts]",
+      "duration": 2.88,
+      "offset": 1653.84,
+      "lang": "en"
+    },
+    {
+      "text": "this is done through the paywalls",
+      "duration": 4.72,
+      "offset": 1654.68,
+      "lang": "en"
+    },
+    {
+      "text": "section. We will start by creating a new",
+      "duration": 5.28,
+      "offset": 1656.72,
+      "lang": "en"
+    },
+    {
+      "text": "paywall, and RevenueCat will display a",
+      "duration": 4.76,
+      "offset": 1659.4,
+      "lang": "en"
+    },
+    {
+      "text": "variety of templates to choose from.",
+      "duration": 4.32,
+      "offset": 1662.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now, these templates give us a quick",
+      "duration": 4.6,
+      "offset": 1664.16,
+      "lang": "en"
+    },
+    {
+      "text": "preview of different layouts and styles,",
+      "duration": 4.84,
+      "offset": 1666.32,
+      "lang": "en"
+    },
+    {
+      "text": "so it is easy to pick one that matches",
+      "duration": 5.16,
+      "offset": 1668.76,
+      "lang": "en"
+    },
+    {
+      "text": "the look and feel of our app here. After",
+      "duration": 6.76,
+      "offset": 1671.16,
+      "lang": "en"
+    },
+    {
+      "text": "choosing a template, the paywall can be",
+      "duration": 4.0,
+      "offset": 1673.92,
+      "lang": "en"
+    },
+    {
+      "text": "can be adjusted. The offering for this",
+      "duration": 4.88,
+      "offset": 1681.88,
+      "lang": "en"
+    },
+    {
+      "text": "paywall should be set to the default",
+      "duration": 5.0,
+      "offset": 1684.32,
+      "lang": "en"
+    },
+    {
+      "text": "offering that we created earlier, and",
+      "duration": 4.84,
+      "offset": 1686.76,
+      "lang": "en"
+    },
+    {
+      "text": "under the package settings, we will",
+      "duration": 4.52,
+      "offset": 1689.32,
+      "lang": "en"
+    },
+    {
+      "text": "assign it to the monthly subscription",
+      "duration": 4.64,
+      "offset": 1691.6,
+      "lang": "en"
+    },
+    {
+      "text": "product. And once the main structure is",
+      "duration": 4.48,
+      "offset": 1693.84,
+      "lang": "en"
+    },
+    {
+      "text": "in place, the rest of the paywall can be",
+      "duration": 4.24,
+      "offset": 1696.24,
+      "lang": "en"
+    },
+    {
+      "text": "personalized. So, in this build, we&#39;re",
+      "duration": 4.48,
+      "offset": 1698.32,
+      "lang": "en"
+    },
+    {
+      "text": "going to change the header to scan",
+      "duration": 4.88,
+      "offset": 1700.48,
+      "lang": "en"
+    },
+    {
+      "text": "everything, and we will also remove the",
+      "duration": 5.08,
+      "offset": 1702.8,
+      "lang": "en"
+    },
+    {
+      "text": "extra buttons to keep the design more",
+      "duration": 5.32,
+      "offset": 1705.36,
+      "lang": "en"
+    },
+    {
+      "text": "clean and focused. And now, since",
+      "duration": 4.84,
+      "offset": 1707.88,
+      "lang": "en"
+    },
+    {
+      "text": "everything is already looking pretty",
+      "duration": 4.68,
+      "offset": 1710.68,
+      "lang": "en"
+    },
+    {
+      "text": "good, we can now publish the paywall by",
+      "duration": 5.4,
+      "offset": 1712.72,
+      "lang": "en"
+    },
+    {
+      "text": "selecting publish paywall and confirming",
+      "duration": 5.4,
+      "offset": 1715.36,
+      "lang": "en"
+    },
+    {
+      "text": "the changes. So, the final step in the",
+      "duration": 5.2,
+      "offset": 1718.12,
+      "lang": "en"
+    },
+    {
+      "text": "Despia setup is connecting the project",
+      "duration": 4.6,
+      "offset": 1720.76,
+      "lang": "en"
+    },
+    {
+      "text": "to RevenueCat so the app can [music]",
+      "duration": 4.2,
+      "offset": 1723.32,
+      "lang": "en"
+    },
+    {
+      "text": "access the paywall and subscription",
+      "duration": 4.84,
+      "offset": 1725.36,
+      "lang": "en"
+    },
+    {
+      "text": "features we just started. So, to do",
+      "duration": 5.28,
+      "offset": 1727.52,
+      "lang": "en"
+    },
+    {
+      "text": "this, we&#39;re going to open RevenueCat and",
+      "duration": 5.16,
+      "offset": 1730.2,
+      "lang": "en"
+    },
+    {
+      "text": "head to the API key section. Here, we",
+      "duration": 5.32,
+      "offset": 1732.8,
+      "lang": "en"
+    },
+    {
+      "text": "will copy the App Store API key assigned",
+      "duration": 4.72,
+      "offset": 1735.36,
+      "lang": "en"
+    },
+    {
+      "text": "to the project. Then, returning to",
+      "duration": 4.48,
+      "offset": 1738.12,
+      "lang": "en"
+    },
+    {
+      "text": "Despia, we scroll down the left sidebar",
+      "duration": 4.8,
+      "offset": 1740.08,
+      "lang": "en"
+    },
+    {
+      "text": "here until we find the RevenueCat",
+      "duration": 5.2,
+      "offset": 1742.6,
+      "lang": "en"
+    },
+    {
+      "text": "integration panel and paste the API key",
+      "duration": 6.52,
+      "offset": 1744.88,
+      "lang": "en"
+    },
+    {
+      "text": "inside the iOS public SDK key field.",
+      "duration": 5.56,
+      "offset": 1747.8,
+      "lang": "en"
+    },
+    {
+      "text": "Next, RevenueCat needs to provide one",
+      "duration": 3.84,
+      "offset": 1751.4,
+      "lang": "en"
+    },
+    {
+      "text": "more piece of information, the project",
+      "duration": 4.64,
+      "offset": 1753.36,
+      "lang": "en"
+    },
+    {
+      "text": "ID. We will go back to RevenueCat. We&#39;re",
+      "duration": 5.36,
+      "offset": 1755.24,
+      "lang": "en"
+    },
+    {
+      "text": "going to open up the project settings,",
+      "duration": 5.24,
+      "offset": 1758.0,
+      "lang": "en"
+    },
+    {
+      "text": "copy the project ID, and then paste it",
+      "duration": 5.24,
+      "offset": 1760.6,
+      "lang": "en"
+    },
+    {
+      "text": "into the global project ID field inside",
+      "duration": 5.0,
+      "offset": 1763.24,
+      "lang": "en"
+    },
+    {
+      "text": "Despia. After both fields are finally",
+      "duration": 4.52,
+      "offset": 1765.84,
+      "lang": "en"
+    },
+    {
+      "text": "filled in, everything is properly",
+      "duration": 5.2,
+      "offset": 1768.24,
+      "lang": "en"
+    },
+    {
+      "text": "connected between Despia and RevenueCat.",
+      "duration": 4.96,
+      "offset": 1770.36,
+      "lang": "en"
+    },
+    {
+      "text": "And it&#39;s at this point we can click",
+      "duration": 4.84,
+      "offset": 1773.44,
+      "lang": "en"
+    },
+    {
+      "text": "publish project and let Despia process",
+      "duration": 5.44,
+      "offset": 1775.32,
+      "lang": "en"
+    },
+    {
+      "text": "the update. And once that finishes, the",
+      "duration": 5.04,
+      "offset": 1778.28,
+      "lang": "en"
+    },
+    {
+      "text": "app is officially configured to handle",
+      "duration": 4.96,
+      "offset": 1780.76,
+      "lang": "en"
+    },
+    {
+      "text": "subscriptions through RevenueCat. So, at",
+      "duration": 4.36,
+      "offset": 1783.32,
+      "lang": "en"
+    },
+    {
+      "text": "this point, the subscription system is",
+      "duration": 4.16,
+      "offset": 1785.72,
+      "lang": "en"
+    },
+    {
+      "text": "fully configured behind the scenes, but",
+      "duration": 4.36,
+      "offset": 1787.68,
+      "lang": "en"
+    },
+    {
+      "text": "the app itself still doesn&#39;t know",
+      "duration": 5.48,
+      "offset": 1789.88,
+      "lang": "en"
+    },
+    {
+      "text": "anything about RevenueCat. So, to make",
+      "duration": 5.96,
+      "offset": 1792.04,
+      "lang": "en"
+    },
+    {
+      "text": "the paywall actually appear inside the",
+      "duration": 5.32,
+      "offset": 1795.36,
+      "lang": "en"
+    },
+    {
+      "text": "app and allow users to purchase or",
+      "duration": 4.96,
+      "offset": 1798.0,
+      "lang": "en"
+    },
+    {
+      "text": "restore access, we need to integrate",
+      "duration": 4.72,
+      "offset": 1800.68,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat&#39;s SDK directly into our",
+      "duration": 5.4,
+      "offset": 1802.96,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable project. This lets the app talk",
+      "duration": 5.6,
+      "offset": 1805.4,
+      "lang": "en"
+    },
+    {
+      "text": "to RevenueCat in real time, checking if",
+      "duration": 4.84,
+      "offset": 1808.36,
+      "lang": "en"
+    },
+    {
+      "text": "a user is subscribed, opening the",
+      "duration": 4.72,
+      "offset": 1811.0,
+      "lang": "en"
+    },
+    {
+      "text": "paywall, listening for renewals or",
+      "duration": 5.32,
+      "offset": 1813.2,
+      "lang": "en"
+    },
+    {
+      "text": "cancellations, and unlocking premium",
+      "duration": 5.92,
+      "offset": 1815.72,
+      "lang": "en"
+    },
+    {
+      "text": "features. This step brings everything",
+      "duration": 5.36,
+      "offset": 1818.52,
+      "lang": "en"
+    },
+    {
+      "text": "together so that the whole subscription",
+      "duration": 4.92,
+      "offset": 1821.64,
+      "lang": "en"
+    },
+    {
+      "text": "system feels seamless from the user&#39;s",
+      "duration": 4.28,
+      "offset": 1823.88,
+      "lang": "en"
+    },
+    {
+      "text": "perspective. So, to begin the",
+      "duration": 3.44,
+      "offset": 1826.56,
+      "lang": "en"
+    },
+    {
+      "text": "integration, we&#39;re going to prompt",
+      "duration": 5.56,
+      "offset": 1828.16,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable to install RevenueCat&#39;s packages",
+      "duration": 6.36,
+      "offset": 1830.0,
+      "lang": "en"
+    },
+    {
+      "text": "and configure them based on the",
+      "duration": 5.32,
+      "offset": 1833.72,
+      "lang": "en"
+    },
+    {
+      "text": "entitlement we created earlier. Inside",
+      "duration": 5.04,
+      "offset": 1836.36,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, we will use this prompt,",
+      "duration": 4.48,
+      "offset": 1839.04,
+      "lang": "en"
+    },
+    {
+      "text": "integrate RevenueCat and install its",
+      "duration": 4.68,
+      "offset": 1841.4,
+      "lang": "en"
+    },
+    {
+      "text": "packages. Add a button to the dashboard",
+      "duration": 5.8,
+      "offset": 1843.52,
+      "lang": "en"
+    },
+    {
+      "text": "page to open the default offering. Make",
+      "duration": 6.56,
+      "offset": 1846.08,
+      "lang": "en"
+    },
+    {
+      "text": "sure the external user ID is the ID of",
+      "duration": 5.64,
+      "offset": 1849.32,
+      "lang": "en"
+    },
+    {
+      "text": "the logged-in user. The entitlement is",
+      "duration": 4.76,
+      "offset": 1852.64,
+      "lang": "en"
+    },
+    {
+      "text": "called pro_access.",
+      "duration": 4.76,
+      "offset": 1854.96,
+      "lang": "en"
+    },
+    {
+      "text": "Listen for initial purchases, renewals,",
+      "duration": 5.24,
+      "offset": 1857.4,
+      "lang": "en"
+    },
+    {
+      "text": "cancellations, and plan change. Okay, so",
+      "duration": 4.56,
+      "offset": 1859.72,
+      "lang": "en"
+    },
+    {
+      "text": "after submitting this, Lovable will",
+      "duration": 3.8,
+      "offset": 1862.64,
+      "lang": "en"
+    },
+    {
+      "text": "start preparing the setup and eventually",
+      "duration": 5.32,
+      "offset": 1864.28,
+      "lang": "en"
+    },
+    {
+      "text": "ask for the RevenueCat API key. Instead",
+      "duration": 5.44,
+      "offset": 1866.44,
+      "lang": "en"
+    },
+    {
+      "text": "of giving it the key, we will inform",
+      "duration": 4.6,
+      "offset": 1869.6,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable that Despia will handle that",
+      "duration": 4.96,
+      "offset": 1871.88,
+      "lang": "en"
+    },
+    {
+      "text": "part. We only need the dependencies",
+      "duration": 4.68,
+      "offset": 1874.2,
+      "lang": "en"
+    },
+    {
+      "text": "installed so the webhook can be wired",
+      "duration": 4.68,
+      "offset": 1876.84,
+      "lang": "en"
+    },
+    {
+      "text": "correctly. And when Lovable asks for the",
+      "duration": 5.6,
+      "offset": 1878.88,
+      "lang": "en"
+    },
+    {
+      "text": "key, we will respond with this. Despia",
+      "duration": 5.04,
+      "offset": 1881.52,
+      "lang": "en"
+    },
+    {
+      "text": "will handle the secret key, just add the",
+      "duration": 4.68,
+      "offset": 1884.48,
+      "lang": "en"
+    },
+    {
+      "text": "implementation. Once Lovable finishes",
+      "duration": 4.68,
+      "offset": 1886.56,
+      "lang": "en"
+    },
+    {
+      "text": "those changes, the next step is",
+      "duration": 4.72,
+      "offset": 1889.16,
+      "lang": "en"
+    },
+    {
+      "text": "retrieving the webhook URL so that",
+      "duration": 5.04,
+      "offset": 1891.24,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat can send events back to the",
+      "duration": 4.68,
+      "offset": 1893.88,
+      "lang": "en"
+    },
+    {
+      "text": "app. So, to accomplish that, we&#39;re going",
+      "duration": 4.92,
+      "offset": 1896.28,
+      "lang": "en"
+    },
+    {
+      "text": "to ask Lovable, &quot;What is our RevenueCat",
+      "duration": 5.84,
+      "offset": 1898.56,
+      "lang": "en"
+    },
+    {
+      "text": "webhook URL?&quot; Depending on how the setup",
+      "duration": 6.16,
+      "offset": 1901.2,
+      "lang": "en"
+    },
+    {
+      "text": "progresses, Lovable may either give us",
+      "duration": 5.2,
+      "offset": 1904.4,
+      "lang": "en"
+    },
+    {
+      "text": "the URL or ask whether we want it",
+      "duration": 5.24,
+      "offset": 1907.36,
+      "lang": "en"
+    },
+    {
+      "text": "created. If it asks, we simply respond",
+      "duration": 5.76,
+      "offset": 1909.6,
+      "lang": "en"
+    },
+    {
+      "text": "with yes, please set it up. And after",
+      "duration": 5.64,
+      "offset": 1912.6,
+      "lang": "en"
+    },
+    {
+      "text": "the webhook is generated, Lovable will",
+      "duration": 5.48,
+      "offset": 1915.36,
+      "lang": "en"
+    },
+    {
+      "text": "request the secret key for securing the",
+      "duration": 5.48,
+      "offset": 1918.24,
+      "lang": "en"
+    },
+    {
+      "text": "webhook. Now, this is the password we",
+      "duration": 5.4,
+      "offset": 1920.84,
+      "lang": "en"
+    },
+    {
+      "text": "will create ourselves. Any random string",
+      "duration": 4.84,
+      "offset": 1923.72,
+      "lang": "en"
+    },
+    {
+      "text": "of numbers and letters will work. And",
+      "duration": 4.6,
+      "offset": 1926.24,
+      "lang": "en"
+    },
+    {
+      "text": "once the password is ready, we can just",
+      "duration": 4.28,
+      "offset": 1928.56,
+      "lang": "en"
+    },
+    {
+      "text": "paste it into Lovable&#39;s field and",
+      "duration": 5.28,
+      "offset": 1930.84,
+      "lang": "en"
+    },
+    {
+      "text": "complete the setup. When the webhook URL",
+      "duration": 5.72,
+      "offset": 1932.84,
+      "lang": "en"
+    },
+    {
+      "text": "is ready, we will copy it and switch",
+      "duration": 4.68,
+      "offset": 1936.12,
+      "lang": "en"
+    },
+    {
+      "text": "over back to RevenueCat. In the",
+      "duration": 4.88,
+      "offset": 1938.56,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat dashboard here, we&#39;ll open up",
+      "duration": 5.44,
+      "offset": 1940.8,
+      "lang": "en"
+    },
+    {
+      "text": "the integrations panel, select webhooks,",
+      "duration": 5.68,
+      "offset": 1943.44,
+      "lang": "en"
+    },
+    {
+      "text": "and add a new webhook configuration.",
+      "duration": 5.12,
+      "offset": 1946.24,
+      "lang": "en"
+    },
+    {
+      "text": "Here, we will enter any name we want,",
+      "duration": 4.92,
+      "offset": 1949.12,
+      "lang": "en"
+    },
+    {
+      "text": "paste the webhook URL provided by",
+      "duration": 5.32,
+      "offset": 1951.36,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, and then type in bearer",
+      "duration": 4.76,
+      "offset": 1954.04,
+      "lang": "en"
+    },
+    {
+      "text": "followed by the password we created",
+      "duration": 4.64,
+      "offset": 1956.68,
+      "lang": "en"
+    },
+    {
+      "text": "earlier for the authorization header",
+      "duration": 4.8,
+      "offset": 1958.8,
+      "lang": "en"
+    },
+    {
+      "text": "value. After saving the webhook",
+      "duration": 4.88,
+      "offset": 1961.32,
+      "lang": "en"
+    },
+    {
+      "text": "settings, RevenueCat gives us the option",
+      "duration": 5.28,
+      "offset": 1963.6,
+      "lang": "en"
+    },
+    {
+      "text": "to test it out. And by clicking send",
+      "duration": 5.16,
+      "offset": 1966.2,
+      "lang": "en"
+    },
+    {
+      "text": "test event, RevenueCat will ping the",
+      "duration": 5.36,
+      "offset": 1968.88,
+      "lang": "en"
+    },
+    {
+      "text": "webhook and show a response. If a green",
+      "duration": 5.32,
+      "offset": 1971.36,
+      "lang": "en"
+    },
+    {
+      "text": "200 code appears, that means the",
+      "duration": 4.36,
+      "offset": 1974.24,
+      "lang": "en"
+    },
+    {
+      "text": "connection is successful and the",
+      "duration": 4.16,
+      "offset": 1976.68,
+      "lang": "en"
+    },
+    {
+      "text": "integration is working properly. And",
+      "duration": 4.92,
+      "offset": 1978.6,
+      "lang": "en"
+    },
+    {
+      "text": "that also means the app, Despia, and",
+      "duration": 5.08,
+      "offset": 1980.84,
+      "lang": "en"
+    },
+    {
+      "text": "RevenueCat are all fully communicating",
+      "duration": 4.0,
+      "offset": 1983.52,
+      "lang": "en"
+    },
+    {
+      "text": "with each other and premium [music]",
+      "duration": 4.04,
+      "offset": 1985.92,
+      "lang": "en"
+    },
+    {
+      "text": "access can be accurately tracked and",
+      "duration": 5.48,
+      "offset": 1987.52,
+      "lang": "en"
+    },
+    {
+      "text": "managed. All right, so the final stage",
+      "duration": 5.04,
+      "offset": 1989.96,
+      "lang": "en"
+    },
+    {
+      "text": "of this build is submitting everything",
+      "duration": 4.2,
+      "offset": 1993.0,
+      "lang": "en"
+    },
+    {
+      "text": "to App Store Connect. And this part",
+      "duration": 4.0,
+      "offset": 1995.0,
+      "lang": "en"
+    },
+    {
+      "text": "simply just walks us through each",
+      "duration": 3.92,
+      "offset": 1997.2,
+      "lang": "en"
+    },
+    {
+      "text": "requirement Apple needs before an app",
+      "duration": 4.72,
+      "offset": 1999.0,
+      "lang": "en"
+    },
+    {
+      "text": "can go into review. So, we&#39;ll go through",
+      "duration": 5.24,
+      "offset": 2001.12,
+      "lang": "en"
+    },
+    {
+      "text": "the entire submission process step by",
+      "duration": 5.28,
+      "offset": 2003.72,
+      "lang": "en"
+    },
+    {
+      "text": "step so every section is completed",
+      "duration": 4.96,
+      "offset": 2006.36,
+      "lang": "en"
+    },
+    {
+      "text": "correctly. So, starting from here, we",
+      "duration": 5.32,
+      "offset": 2009.0,
+      "lang": "en"
+    },
+    {
+      "text": "need to generate a privacy policy. We&#39;ll",
+      "duration": 6.04,
+      "offset": 2011.32,
+      "lang": "en"
+    },
+    {
+      "text": "go to privacypolicygenerator.info,",
+      "duration": 5.16,
+      "offset": 2014.32,
+      "lang": "en"
+    },
+    {
+      "text": "select the app option, and create the",
+      "duration": 4.88,
+      "offset": 2017.36,
+      "lang": "en"
+    },
+    {
+      "text": "policy. For a full production release,",
+      "duration": 5.08,
+      "offset": 2019.48,
+      "lang": "en"
+    },
+    {
+      "text": "keep in mind that the answers should",
+      "duration": 4.76,
+      "offset": 2022.24,
+      "lang": "en"
+    },
+    {
+      "text": "accurately reflect how your app handles",
+      "duration": 5.32,
+      "offset": 2024.56,
+      "lang": "en"
+    },
+    {
+      "text": "data. But since this is a demo, we can",
+      "duration": 5.68,
+      "offset": 2027.0,
+      "lang": "en"
+    },
+    {
+      "text": "just keep things simple and select no",
+      "duration": 5.16,
+      "offset": 2029.88,
+      "lang": "en"
+    },
+    {
+      "text": "for the data collection fields. After",
+      "duration": 4.32,
+      "offset": 2032.68,
+      "lang": "en"
+    },
+    {
+      "text": "generating the policy, we&#39;ll copy the",
+      "duration": 3.76,
+      "offset": 2035.04,
+      "lang": "en"
+    },
+    {
+      "text": "link to use later in the submission",
+      "duration": 4.88,
+      "offset": 2037.0,
+      "lang": "en"
+    },
+    {
+      "text": "process. The next step is completing the",
+      "duration": 6.12,
+      "offset": 2038.8,
+      "lang": "en"
+    },
+    {
+      "text": "distribution requirements inside App",
+      "duration": 5.76,
+      "offset": 2041.88,
+      "lang": "en"
+    },
+    {
+      "text": "Store Connect. Now, this is where we",
+      "duration": 5.96,
+      "offset": 2044.92,
+      "lang": "en"
+    },
+    {
+      "text": "provide Apple with the visual assets and",
+      "duration": 5.84,
+      "offset": 2047.64,
+      "lang": "en"
+    },
+    {
+      "text": "app details they need before the review",
+      "duration": 5.28,
+      "offset": 2050.88,
+      "lang": "en"
+    },
+    {
+      "text": "can begin. On the distribution page,",
+      "duration": 4.4,
+      "offset": 2053.48,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll start by uploading the",
+      "duration": 4.36,
+      "offset": 2056.16,
+      "lang": "en"
+    },
+    {
+      "text": "screenshots. Three iPhone screenshots",
+      "duration": 6.16,
+      "offset": 2057.88,
+      "lang": "en"
+    },
+    {
+      "text": "and also a set of iPad screenshots.",
+      "duration": 5.64,
+      "offset": 2060.52,
+      "lang": "en"
+    },
+    {
+      "text": "After uploading the images, we need to",
+      "duration": 4.64,
+      "offset": 2064.04,
+      "lang": "en"
+    },
+    {
+      "text": "fill out the required text fields,",
+      "duration": 5.12,
+      "offset": 2066.16,
+      "lang": "en"
+    },
+    {
+      "text": "beginning with the promotional text set",
+      "duration": 6.0,
+      "offset": 2068.68,
+      "lang": "en"
+    },
+    {
+      "text": "to fish identifier, scan fish, and a",
+      "duration": 5.68,
+      "offset": 2071.28,
+      "lang": "en"
+    },
+    {
+      "text": "short description that reads, &quot;Fish",
+      "duration": 4.88,
+      "offset": 2074.68,
+      "lang": "en"
+    },
+    {
+      "text": "identifier is an advanced AI-powered",
+      "duration": 4.68,
+      "offset": 2076.96,
+      "lang": "en"
+    },
+    {
+      "text": "fish collecting tool.&quot; All right, so now",
+      "duration": 3.52,
+      "offset": 2079.56,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to include terms in the",
+      "duration": 4.08,
+      "offset": 2081.64,
+      "lang": "en"
+    },
+    {
+      "text": "keywords field like identification,",
+      "duration": 5.56,
+      "offset": 2083.08,
+      "lang": "en"
+    },
+    {
+      "text": "fishes, hobbies. And the support URL can",
+      "duration": 5.16,
+      "offset": 2085.72,
+      "lang": "en"
+    },
+    {
+      "text": "be either the privacy policy link or a",
+      "duration": 4.84,
+      "offset": 2088.64,
+      "lang": "en"
+    },
+    {
+      "text": "dedicated support page. We will also",
+      "duration": 4.6,
+      "offset": 2090.88,
+      "lang": "en"
+    },
+    {
+      "text": "need to make sure the version number is",
+      "duration": 4.32,
+      "offset": 2093.48,
+      "lang": "en"
+    },
+    {
+      "text": "set to 1.0.0",
+      "duration": 4.52,
+      "offset": 2095.48,
+      "lang": "en"
+    },
+    {
+      "text": "so it matches the configuration from",
+      "duration": 5.04,
+      "offset": 2097.8,
+      "lang": "en"
+    },
+    {
+      "text": "Despia. Then add the copyright label,",
+      "duration": 6.36,
+      "offset": 2100.0,
+      "lang": "en"
+    },
+    {
+      "text": "fish identifier 2025. After we complete",
+      "duration": 5.6,
+      "offset": 2102.84,
+      "lang": "en"
+    },
+    {
+      "text": "all of that, we&#39;ll now scroll down and",
+      "duration": 4.36,
+      "offset": 2106.36,
+      "lang": "en"
+    },
+    {
+      "text": "select the build that was uploaded from",
+      "duration": 5.16,
+      "offset": 2108.44,
+      "lang": "en"
+    },
+    {
+      "text": "Despia earlier. Under the app review",
+      "duration": 5.48,
+      "offset": 2110.72,
+      "lang": "en"
+    },
+    {
+      "text": "information section, we will also",
+      "duration": 5.56,
+      "offset": 2113.6,
+      "lang": "en"
+    },
+    {
+      "text": "uncheck sign-in required since this demo",
+      "duration": 5.52,
+      "offset": 2116.2,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t use authentication. If your app",
+      "duration": 5.28,
+      "offset": 2119.16,
+      "lang": "en"
+    },
+    {
+      "text": "uses login features, this setting should",
+      "duration": 5.6,
+      "offset": 2121.72,
+      "lang": "en"
+    },
+    {
+      "text": "remain enabled. And finally, after",
+      "duration": 5.28,
+      "offset": 2124.44,
+      "lang": "en"
+    },
+    {
+      "text": "reviewing everything we&#39;ve done so far,",
+      "duration": 4.76,
+      "offset": 2127.32,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll scroll back to the top and click",
+      "duration": 5.08,
+      "offset": 2129.72,
+      "lang": "en"
+    },
+    {
+      "text": "save to lock in all the changes. And",
+      "duration": 5.8,
+      "offset": 2132.08,
+      "lang": "en"
+    },
+    {
+      "text": "now, the next part of the submission is",
+      "duration": 5.52,
+      "offset": 2134.8,
+      "lang": "en"
+    },
+    {
+      "text": "setting up the app information section.",
+      "duration": 4.44,
+      "offset": 2137.88,
+      "lang": "en"
+    },
+    {
+      "text": "Here, we&#39;ll fill out a few remaining",
+      "duration": 4.68,
+      "offset": 2140.32,
+      "lang": "en"
+    },
+    {
+      "text": "details that help categorize and",
+      "duration": 4.72,
+      "offset": 2142.32,
+      "lang": "en"
+    },
+    {
+      "text": "properly label the app within the App",
+      "duration": 4.2,
+      "offset": 2145.0,
+      "lang": "en"
+    },
+    {
+      "text": "Store. We will start by adding the",
+      "duration": 5.0,
+      "offset": 2147.04,
+      "lang": "en"
+    },
+    {
+      "text": "subtitle, fish identifier, scan fish,",
+      "duration": 5.56,
+      "offset": 2149.2,
+      "lang": "en"
+    },
+    {
+      "text": "which appears right under the app name.",
+      "duration": 5.32,
+      "offset": 2152.04,
+      "lang": "en"
+    },
+    {
+      "text": "For the category, we&#39;ll select utilities",
+      "duration": 4.72,
+      "offset": 2154.76,
+      "lang": "en"
+    },
+    {
+      "text": "since that best aligns with the app&#39;s",
+      "duration": 4.56,
+      "offset": 2157.36,
+      "lang": "en"
+    },
+    {
+      "text": "functionality. And because this app",
+      "duration": 4.8,
+      "offset": 2159.48,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t collect personal data, the",
+      "duration": 5.08,
+      "offset": 2161.92,
+      "lang": "en"
+    },
+    {
+      "text": "content rights field can be set to no.",
+      "duration": 4.68,
+      "offset": 2164.28,
+      "lang": "en"
+    },
+    {
+      "text": "After that, we&#39;ll complete the age",
+      "duration": 4.56,
+      "offset": 2167.0,
+      "lang": "en"
+    },
+    {
+      "text": "rating questionnaire by answering no to",
+      "duration": 5.8,
+      "offset": 2168.96,
+      "lang": "en"
+    },
+    {
+      "text": "each item since the app doesn&#39;t contain",
+      "duration": 6.36,
+      "offset": 2171.56,
+      "lang": "en"
+    },
+    {
+      "text": "any sensitive or restricted content. And",
+      "duration": 5.08,
+      "offset": 2174.76,
+      "lang": "en"
+    },
+    {
+      "text": "once all of those fields are completed,",
+      "duration": 4.16,
+      "offset": 2177.92,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll click save to confirm the changes.",
+      "duration": 4.28,
+      "offset": 2179.84,
+      "lang": "en"
+    },
+    {
+      "text": "Next, we&#39;ll set the pricing and",
+      "duration": 4.68,
+      "offset": 2182.08,
+      "lang": "en"
+    },
+    {
+      "text": "availability for the app. In the pricing",
+      "duration": 5.12,
+      "offset": 2184.12,
+      "lang": "en"
+    },
+    {
+      "text": "and availability section, we start by",
+      "duration": 4.84,
+      "offset": 2186.76,
+      "lang": "en"
+    },
+    {
+      "text": "selecting at pricing and choosing the",
+      "duration": 3.88,
+      "offset": 2189.24,
+      "lang": "en"
+    },
+    {
+      "text": "$0.00",
+      "duration": 4.0,
+      "offset": 2191.6,
+      "lang": "en"
+    },
+    {
+      "text": "option since this app will be released",
+      "duration": 4.72,
+      "offset": 2193.12,
+      "lang": "en"
+    },
+    {
+      "text": "for free. After selecting the price, we",
+      "duration": 4.28,
+      "offset": 2195.6,
+      "lang": "en"
+    },
+    {
+      "text": "review how it appears across different",
+      "duration": 4.28,
+      "offset": 2197.84,
+      "lang": "en"
+    },
+    {
+      "text": "countries and regions, then click",
+      "duration": 5.16,
+      "offset": 2199.88,
+      "lang": "en"
+    },
+    {
+      "text": "confirm to apply it. We can now move to",
+      "duration": 5.4,
+      "offset": 2202.12,
+      "lang": "en"
+    },
+    {
+      "text": "availability. Let&#39;s select set up",
+      "duration": 4.48,
+      "offset": 2205.04,
+      "lang": "en"
+    },
+    {
+      "text": "availability, then let&#39;s choose all",
+      "duration": 4.6,
+      "offset": 2207.52,
+      "lang": "en"
+    },
+    {
+      "text": "countries and regions to make the app",
+      "duration": 5.44,
+      "offset": 2209.52,
+      "lang": "en"
+    },
+    {
+      "text": "accessible worldwide. After confirming",
+      "duration": 4.76,
+      "offset": 2212.12,
+      "lang": "en"
+    },
+    {
+      "text": "the full list of regions, the app&#39;s",
+      "duration": 4.16,
+      "offset": 2214.96,
+      "lang": "en"
+    },
+    {
+      "text": "pricing and distribution settings are",
+      "duration": 4.48,
+      "offset": 2216.88,
+      "lang": "en"
+    },
+    {
+      "text": "now finalized. Now, the last requirement",
+      "duration": 4.0,
+      "offset": 2219.12,
+      "lang": "en"
+    },
+    {
+      "text": "we need to complete before submitting",
+      "duration": 4.28,
+      "offset": 2221.36,
+      "lang": "en"
+    },
+    {
+      "text": "the app is the privacy section. In the",
+      "duration": 5.04,
+      "offset": 2223.12,
+      "lang": "en"
+    },
+    {
+      "text": "app privacy area, we&#39;ll start by editing",
+      "duration": 5.36,
+      "offset": 2225.64,
+      "lang": "en"
+    },
+    {
+      "text": "the privacy policy field and pasting the",
+      "duration": 5.28,
+      "offset": 2228.16,
+      "lang": "en"
+    },
+    {
+      "text": "link we generated earlier. Then we need",
+      "duration": 4.84,
+      "offset": 2231.0,
+      "lang": "en"
+    },
+    {
+      "text": "to save it. And after that, let&#39;s click",
+      "duration": 5.08,
+      "offset": 2233.44,
+      "lang": "en"
+    },
+    {
+      "text": "get started to begin Apple&#39;s data usage",
+      "duration": 5.12,
+      "offset": 2235.84,
+      "lang": "en"
+    },
+    {
+      "text": "questionnaire. And even though this app",
+      "duration": 4.96,
+      "offset": 2238.52,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t collect personal information,",
+      "duration": 4.64,
+      "offset": 2240.96,
+      "lang": "en"
+    },
+    {
+      "text": "Apple still requires the form to be",
+      "duration": 4.96,
+      "offset": 2243.48,
+      "lang": "en"
+    },
+    {
+      "text": "completed, so we&#39;ll answer yes to data",
+      "duration": 5.52,
+      "offset": 2245.6,
+      "lang": "en"
+    },
+    {
+      "text": "collection. Now, we will select others",
+      "duration": 5.28,
+      "offset": 2248.44,
+      "lang": "en"
+    },
+    {
+      "text": "as the data type since that best fits",
+      "duration": 5.2,
+      "offset": 2251.12,
+      "lang": "en"
+    },
+    {
+      "text": "the type of content the app interacts",
+      "duration": 4.92,
+      "offset": 2253.72,
+      "lang": "en"
+    },
+    {
+      "text": "with. We will now move through the",
+      "duration": 4.6,
+      "offset": 2256.32,
+      "lang": "en"
+    },
+    {
+      "text": "remaining steps of the setup, we&#39;ll",
+      "duration": 4.84,
+      "offset": 2258.64,
+      "lang": "en"
+    },
+    {
+      "text": "review the summary, and then save the",
+      "duration": 4.76,
+      "offset": 2260.92,
+      "lang": "en"
+    },
+    {
+      "text": "configuration. And since everything",
+      "duration": 5.44,
+      "offset": 2263.48,
+      "lang": "en"
+    },
+    {
+      "text": "looks correct, we can now click publish",
+      "duration": 5.92,
+      "offset": 2265.68,
+      "lang": "en"
+    },
+    {
+      "text": "to finalize the app&#39;s privacy details.",
+      "duration": 4.56,
+      "offset": 2268.92,
+      "lang": "en"
+    },
+    {
+      "text": "Since all of the required information is",
+      "duration": 4.08,
+      "offset": 2271.6,
+      "lang": "en"
+    },
+    {
+      "text": "now complete, the final task is",
+      "duration": 4.36,
+      "offset": 2273.48,
+      "lang": "en"
+    },
+    {
+      "text": "submitting the app for review. So, we&#39;ll",
+      "duration": 4.48,
+      "offset": 2275.68,
+      "lang": "en"
+    },
+    {
+      "text": "head back to the prepare for submission",
+      "duration": 4.96,
+      "offset": 2277.84,
+      "lang": "en"
+    },
+    {
+      "text": "page here where each section of the",
+      "duration": 4.92,
+      "offset": 2280.16,
+      "lang": "en"
+    },
+    {
+      "text": "setup is listed. And when everything",
+      "duration": 4.84,
+      "offset": 2282.8,
+      "lang": "en"
+    },
+    {
+      "text": "shows as ready, we can just click add",
+      "duration": 5.28,
+      "offset": 2285.08,
+      "lang": "en"
+    },
+    {
+      "text": "for review, select the submission, and",
+      "duration": 5.68,
+      "offset": 2287.64,
+      "lang": "en"
+    },
+    {
+      "text": "confirm it. And after that, the app is",
+      "duration": 5.6,
+      "offset": 2290.36,
+      "lang": "en"
+    },
+    {
+      "text": "officially placed into Apple&#39;s review",
+      "duration": 5.32,
+      "offset": 2293.32,
+      "lang": "en"
+    },
+    {
+      "text": "queue. And that&#39;s it. Our AI-powered",
+      "duration": 5.04,
+      "offset": 2295.96,
+      "lang": "en"
+    },
+    {
+      "text": "fish identifier just went from concept",
+      "duration": 4.56,
+      "offset": 2298.64,
+      "lang": "en"
+    },
+    {
+      "text": "to Lovable to Despia and to the App",
+      "duration": 4.48,
+      "offset": 2301.0,
+      "lang": "en"
+    },
+    {
+      "text": "Store. All of that without touching a",
+      "duration": 4.76,
+      "offset": 2303.2,
+      "lang": "en"
+    },
+    {
+      "text": "traditional code editor once. [music]",
+      "duration": 4.92,
+      "offset": 2305.48,
+      "lang": "en"
+    },
+    {
+      "text": "Not bad for a build that started as a",
+      "duration": 4.92,
+      "offset": 2307.96,
+      "lang": "en"
+    },
+    {
+      "text": "blank canvas. Now, if this process",
+      "duration": 4.08,
+      "offset": 2310.4,
+      "lang": "en"
+    },
+    {
+      "text": "clicked for you, too, then you&#39;re",
+      "duration": 3.88,
+      "offset": 2312.88,
+      "lang": "en"
+    },
+    {
+      "text": "basically holding a blueprint you can",
+      "duration": 4.56,
+      "offset": 2314.48,
+      "lang": "en"
+    },
+    {
+      "text": "reuse for any app idea you&#39;ve been",
+      "duration": 4.4,
+      "offset": 2316.76,
+      "lang": "en"
+    },
+    {
+      "text": "sitting on. Thanks for following along",
+      "duration": 3.84,
+      "offset": 2319.04,
+      "lang": "en"
+    },
+    {
+      "text": "with me today and investing your time",
+      "duration": 5.52,
+      "offset": 2321.16,
+      "lang": "en"
+    },
+    {
+      "text": "here. I&#39;ll catch you at the next one.",
+      "duration": 3.8,
+      "offset": 2322.88,
+      "lang": "en"
+    }
+  ]
+}

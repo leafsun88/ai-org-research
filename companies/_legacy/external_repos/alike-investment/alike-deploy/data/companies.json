@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "slug": "Duolingo",
+      "name": "Duolingo",
+      "has_scoring": true,
+      "has_artifacts": true
+    },
+    {
+      "slug": "Spotify",
+      "name": "Spotify",
+      "has_scoring": true,
+      "has_artifacts": false
+    },
+    {
+      "slug": "Bilibili",
+      "name": "Bilibili",
+      "has_scoring": true,
+      "has_artifacts": false
+    },
+    {
+      "slug": "PopMart",
+      "name": "PopMart",
+      "has_scoring": true,
+      "has_artifacts": true
+    }
+  ]
+}

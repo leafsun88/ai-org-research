@@ -1,0 +1,16 @@
+{
+  "video_id": "Z2GZXYaV27k",
+  "title": "Surreal Minimalist Art Tutorial with MidJourney v7",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:04:06",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:04:06"
+}

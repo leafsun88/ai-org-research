@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "overrides": [
+    {
+      "id": "ovr_20260401_001",
+      "timestamp": "2026-04-01T12:00:00Z",
+      "type": "signal",
+      "original_item": "陈睿2025年密集卸任子公司法人，从业务操盘者转向战略掌舵者",
+      "original_significance": "high",
+      "human_override": "low",
+      "human_reasoning": "中国互联网公司上市后创始人卸任子公司法人是一个相对常规的操作，很大程度上就是简单为了规避一些法律风险",
+      "company": "Bilibili",
+      "dimensions": ["D2", "D4", "D5"],
+      "generated_pattern": "cn-postipo-legal-person-change"
+    }
+  ]
+}

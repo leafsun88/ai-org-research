@@ -1,0 +1,3687 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "yXR7D43_y1Y",
+  "url": "https://www.youtube.com/watch?v=yXR7D43_y1Y",
+  "title": "AI vs. ARTIST - Will AI take our jobs? | A look into Midjourney 5",
+  "channel": "Jonas Noell",
+  "source_queries": [
+    "Midjourney AI image generation founder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:06:38",
+  "segments": [
+    {
+      "text": "AI versus artist that is the title of my",
+      "duration": 6.66,
+      "offset": 0.54,
+      "lang": "en"
+    },
+    {
+      "text": "first ever AI generated artwork that you",
+      "duration": 4.74,
+      "offset": 4.56,
+      "lang": "en"
+    },
+    {
+      "text": "can see in here in this video I want to",
+      "duration": 3.78,
+      "offset": 7.2,
+      "lang": "en"
+    },
+    {
+      "text": "talk a little bit about what I learned",
+      "duration": 4.68,
+      "offset": 9.3,
+      "lang": "en"
+    },
+    {
+      "text": "while using AI for the first time and if",
+      "duration": 5.64,
+      "offset": 10.98,
+      "lang": "en"
+    },
+    {
+      "text": "we all have to be scared for our jobs so",
+      "duration": 5.64,
+      "offset": 13.98,
+      "lang": "en"
+    },
+    {
+      "text": "chat gbt mid-journey version 5 Adobe",
+      "duration": 5.28,
+      "offset": 16.62,
+      "lang": "en"
+    },
+    {
+      "text": "Firefly and countless other releases if",
+      "duration": 3.66,
+      "offset": 19.62,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve been paying attention you&#39;ve",
+      "duration": 3.6,
+      "offset": 21.9,
+      "lang": "en"
+    },
+    {
+      "text": "probably been bombarded Lately by lots",
+      "duration": 4.74,
+      "offset": 23.28,
+      "lang": "en"
+    },
+    {
+      "text": "of AI relevant news and if you work as",
+      "duration": 4.08,
+      "offset": 25.5,
+      "lang": "en"
+    },
+    {
+      "text": "an artist like myself you might be",
+      "duration": 3.18,
+      "offset": 28.02,
+      "lang": "en"
+    },
+    {
+      "text": "wondering where all of this journey is",
+      "duration": 3.9,
+      "offset": 29.58,
+      "lang": "en"
+    },
+    {
+      "text": "heading to and if in the end there is",
+      "duration": 4.8,
+      "offset": 31.2,
+      "lang": "en"
+    },
+    {
+      "text": "still a need for my work as an artist so",
+      "duration": 4.74,
+      "offset": 33.48,
+      "lang": "en"
+    },
+    {
+      "text": "while chat gbt believes it&#39;s unlikely to",
+      "duration": 4.62,
+      "offset": 36.0,
+      "lang": "en"
+    },
+    {
+      "text": "completely replace human artists you",
+      "duration": 3.72,
+      "offset": 38.22,
+      "lang": "en"
+    },
+    {
+      "text": "also have to take that with a grain of",
+      "duration": 3.42,
+      "offset": 40.62,
+      "lang": "en"
+    },
+    {
+      "text": "salt because the AI has been trained to",
+      "duration": 4.44,
+      "offset": 41.94,
+      "lang": "en"
+    },
+    {
+      "text": "give replies which are also Pleasant to",
+      "duration": 4.5,
+      "offset": 44.04,
+      "lang": "en"
+    },
+    {
+      "text": "read for humans so instead of trusting",
+      "duration": 4.2,
+      "offset": 46.38,
+      "lang": "en"
+    },
+    {
+      "text": "on this I wanted to try out one of the",
+      "duration": 4.8,
+      "offset": 48.54,
+      "lang": "en"
+    },
+    {
+      "text": "most recent releases with journey 5 and",
+      "duration": 4.44,
+      "offset": 50.58,
+      "lang": "en"
+    },
+    {
+      "text": "see what it can do and where the",
+      "duration": 3.72,
+      "offset": 53.34,
+      "lang": "en"
+    },
+    {
+      "text": "limitations are and how I can use it in",
+      "duration": 5.0,
+      "offset": 55.02,
+      "lang": "en"
+    },
+    {
+      "text": "my current line of work",
+      "duration": 2.96,
+      "offset": 57.06,
+      "lang": "en"
+    },
+    {
+      "text": "so at present in order to communicate",
+      "duration": 4.44,
+      "offset": 60.48,
+      "lang": "en"
+    },
+    {
+      "text": "with the AI in mid-journey you have to",
+      "duration": 4.8,
+      "offset": 62.52,
+      "lang": "en"
+    },
+    {
+      "text": "do it through their Discord server and",
+      "duration": 3.96,
+      "offset": 64.92,
+      "lang": "en"
+    },
+    {
+      "text": "you can easily get the invitation to",
+      "duration": 4.26,
+      "offset": 67.32,
+      "lang": "en"
+    },
+    {
+      "text": "that Discord server over the website and",
+      "duration": 5.1,
+      "offset": 68.88,
+      "lang": "en"
+    },
+    {
+      "text": "then you might find yourself in one of",
+      "duration": 4.8,
+      "offset": 71.58,
+      "lang": "en"
+    },
+    {
+      "text": "those newbie rooms in here and here you",
+      "duration": 4.74,
+      "offset": 73.98,
+      "lang": "en"
+    },
+    {
+      "text": "can see a lot of stuff that people",
+      "duration": 4.32,
+      "offset": 76.38,
+      "lang": "en"
+    },
+    {
+      "text": "already generated and new stuff is",
+      "duration": 4.92,
+      "offset": 78.72,
+      "lang": "en"
+    },
+    {
+      "text": "basically generated every moment you can",
+      "duration": 4.92,
+      "offset": 80.7,
+      "lang": "en"
+    },
+    {
+      "text": "also generate some of your own images",
+      "duration": 4.38,
+      "offset": 83.64,
+      "lang": "en"
+    },
+    {
+      "text": "and this you can do through a",
+      "duration": 5.82,
+      "offset": 85.62,
+      "lang": "en"
+    },
+    {
+      "text": "combination of commands and prompts so a",
+      "duration": 5.82,
+      "offset": 88.02,
+      "lang": "en"
+    },
+    {
+      "text": "command is for example here this imagine",
+      "duration": 4.14,
+      "offset": 91.44,
+      "lang": "en"
+    },
+    {
+      "text": "command and that&#39;s also the most",
+      "duration": 4.32,
+      "offset": 93.84,
+      "lang": "en"
+    },
+    {
+      "text": "frequently used one and then you have a",
+      "duration": 5.1,
+      "offset": 95.58,
+      "lang": "en"
+    },
+    {
+      "text": "prompt and we can use for example a",
+      "duration": 4.5,
+      "offset": 98.16,
+      "lang": "en"
+    },
+    {
+      "text": "monkey riding a bicycle on a busy road",
+      "duration": 3.72,
+      "offset": 100.68,
+      "lang": "en"
+    },
+    {
+      "text": "then submit this",
+      "duration": 4.56,
+      "offset": 102.66,
+      "lang": "en"
+    },
+    {
+      "text": "and now here&#39;s my job waiting to start",
+      "duration": 6.0,
+      "offset": 104.4,
+      "lang": "en"
+    },
+    {
+      "text": "it easily gets lost in the timeline here",
+      "duration": 5.64,
+      "offset": 107.22,
+      "lang": "en"
+    },
+    {
+      "text": "but I will show you a simple way of how",
+      "duration": 5.22,
+      "offset": 110.4,
+      "lang": "en"
+    },
+    {
+      "text": "to fix this in a moment",
+      "duration": 4.98,
+      "offset": 112.86,
+      "lang": "en"
+    },
+    {
+      "text": "so now after the image was finished it",
+      "duration": 4.62,
+      "offset": 115.62,
+      "lang": "en"
+    },
+    {
+      "text": "disappeared from the spot where we saw",
+      "duration": 4.8,
+      "offset": 117.84,
+      "lang": "en"
+    },
+    {
+      "text": "it before and moved to the very end of",
+      "duration": 4.8,
+      "offset": 120.24,
+      "lang": "en"
+    },
+    {
+      "text": "the timeline you can also find it by",
+      "duration": 5.04,
+      "offset": 122.64,
+      "lang": "en"
+    },
+    {
+      "text": "checking your inbox and then just jump",
+      "duration": 5.28,
+      "offset": 125.04,
+      "lang": "en"
+    },
+    {
+      "text": "here to the post that you just generated",
+      "duration": 4.68,
+      "offset": 127.68,
+      "lang": "en"
+    },
+    {
+      "text": "and by this it&#39;s a little bit more",
+      "duration": 3.96,
+      "offset": 130.32,
+      "lang": "en"
+    },
+    {
+      "text": "convenient so let&#39;s check what kind of",
+      "duration": 4.68,
+      "offset": 132.36,
+      "lang": "en"
+    },
+    {
+      "text": "image we got we got here a monkey riding",
+      "duration": 4.98,
+      "offset": 134.28,
+      "lang": "en"
+    },
+    {
+      "text": "a bicycle on the busy road so I think it",
+      "duration": 4.26,
+      "offset": 137.04,
+      "lang": "en"
+    },
+    {
+      "text": "kind of did a quite good job in order to",
+      "duration": 4.8,
+      "offset": 139.26,
+      "lang": "en"
+    },
+    {
+      "text": "fill this very simple prompt so that&#39;s",
+      "duration": 4.92,
+      "offset": 141.3,
+      "lang": "en"
+    },
+    {
+      "text": "basically how it works in a nutshell so",
+      "duration": 4.14,
+      "offset": 144.06,
+      "lang": "en"
+    },
+    {
+      "text": "now instead of continuing here in this",
+      "duration": 4.32,
+      "offset": 146.22,
+      "lang": "en"
+    },
+    {
+      "text": "public room let&#39;s use a feature that you",
+      "duration": 5.34,
+      "offset": 148.2,
+      "lang": "en"
+    },
+    {
+      "text": "get when you are a paying subscriber and",
+      "duration": 5.28,
+      "offset": 150.54,
+      "lang": "en"
+    },
+    {
+      "text": "that is that you can invite this journey",
+      "duration": 4.14,
+      "offset": 153.54,
+      "lang": "en"
+    },
+    {
+      "text": "bot so that is the bot that basically",
+      "duration": 3.78,
+      "offset": 155.82,
+      "lang": "en"
+    },
+    {
+      "text": "generates your images to your own",
+      "duration": 4.14,
+      "offset": 157.68,
+      "lang": "en"
+    },
+    {
+      "text": "Discord server so here I created my own",
+      "duration": 4.44,
+      "offset": 159.6,
+      "lang": "en"
+    },
+    {
+      "text": "Discord server and then once you click",
+      "duration": 4.14,
+      "offset": 161.82,
+      "lang": "en"
+    },
+    {
+      "text": "in here you can add this to the server",
+      "duration": 5.46,
+      "offset": 164.04,
+      "lang": "en"
+    },
+    {
+      "text": "and then select your own server and",
+      "duration": 5.94,
+      "offset": 165.96,
+      "lang": "en"
+    },
+    {
+      "text": "authorize this and then the journey bot",
+      "duration": 5.7,
+      "offset": 169.5,
+      "lang": "en"
+    },
+    {
+      "text": "will join your server and let&#39;s add a",
+      "duration": 5.46,
+      "offset": 171.9,
+      "lang": "en"
+    },
+    {
+      "text": "new text channel in here",
+      "duration": 4.26,
+      "offset": 175.2,
+      "lang": "en"
+    },
+    {
+      "text": "and now you can see that there&#39;s two",
+      "duration": 3.96,
+      "offset": 177.36,
+      "lang": "en"
+    },
+    {
+      "text": "people online in this channel one is me",
+      "duration": 3.84,
+      "offset": 179.46,
+      "lang": "en"
+    },
+    {
+      "text": "and one is the majority bot it&#39;s now",
+      "duration": 3.3,
+      "offset": 181.32,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s much simpler what we&#39;re doing",
+      "duration": 3.48,
+      "offset": 183.3,
+      "lang": "en"
+    },
+    {
+      "text": "because we don&#39;t share this room with so",
+      "duration": 4.38,
+      "offset": 184.62,
+      "lang": "en"
+    },
+    {
+      "text": "many other people so now let&#39;s dive in a",
+      "duration": 3.66,
+      "offset": 186.78,
+      "lang": "en"
+    },
+    {
+      "text": "little bit deeper and see what we can do",
+      "duration": 3.86,
+      "offset": 189.0,
+      "lang": "en"
+    },
+    {
+      "text": "with this",
+      "duration": 2.42,
+      "offset": 190.44,
+      "lang": "en"
+    },
+    {
+      "text": "so now in here let&#39;s generate the same",
+      "duration": 6.68,
+      "offset": 193.2,
+      "lang": "en"
+    },
+    {
+      "text": "image again and see what happens",
+      "duration": 3.62,
+      "offset": 196.26,
+      "lang": "en"
+    },
+    {
+      "text": "so here I speeded up the progress and",
+      "duration": 3.96,
+      "offset": 200.1,
+      "lang": "en"
+    },
+    {
+      "text": "total it takes roughly one minute to",
+      "duration": 4.14,
+      "offset": 202.14,
+      "lang": "en"
+    },
+    {
+      "text": "complete this task let&#39;s check out what",
+      "duration": 4.92,
+      "offset": 204.06,
+      "lang": "en"
+    },
+    {
+      "text": "picture we have now you can see that we",
+      "duration": 4.74,
+      "offset": 206.28,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have exactly the same identical",
+      "duration": 4.2,
+      "offset": 208.98,
+      "lang": "en"
+    },
+    {
+      "text": "picture as before yes we still have a",
+      "duration": 4.26,
+      "offset": 211.02,
+      "lang": "en"
+    },
+    {
+      "text": "monkey riding a bicycle on a busy road",
+      "duration": 4.62,
+      "offset": 213.18,
+      "lang": "en"
+    },
+    {
+      "text": "but we have completely different images",
+      "duration": 4.8,
+      "offset": 215.28,
+      "lang": "en"
+    },
+    {
+      "text": "so that means every time even you use",
+      "duration": 4.68,
+      "offset": 217.8,
+      "lang": "en"
+    },
+    {
+      "text": "the same prompt by default mid Journey",
+      "duration": 4.56,
+      "offset": 220.08,
+      "lang": "en"
+    },
+    {
+      "text": "generates a completely new image from",
+      "duration": 4.74,
+      "offset": 222.48,
+      "lang": "en"
+    },
+    {
+      "text": "scratch now we can also check our",
+      "duration": 5.04,
+      "offset": 224.64,
+      "lang": "en"
+    },
+    {
+      "text": "settings by using the settings command",
+      "duration": 5.4,
+      "offset": 227.22,
+      "lang": "en"
+    },
+    {
+      "text": "once we do this let&#39;s see what kind of",
+      "duration": 4.92,
+      "offset": 229.68,
+      "lang": "en"
+    },
+    {
+      "text": "settings we have in here so now you can",
+      "duration": 4.32,
+      "offset": 232.62,
+      "lang": "en"
+    },
+    {
+      "text": "see that the default is to use mid",
+      "duration": 4.86,
+      "offset": 234.6,
+      "lang": "en"
+    },
+    {
+      "text": "Journey version 4 but as a paying",
+      "duration": 4.92,
+      "offset": 236.94,
+      "lang": "en"
+    },
+    {
+      "text": "subscriber you can use the majority",
+      "duration": 4.44,
+      "offset": 239.46,
+      "lang": "en"
+    },
+    {
+      "text": "version 5 so it&#39;s the latest version of",
+      "duration": 4.92,
+      "offset": 241.86,
+      "lang": "en"
+    },
+    {
+      "text": "it so let&#39;s use that and then let&#39;s",
+      "duration": 5.04,
+      "offset": 243.9,
+      "lang": "en"
+    },
+    {
+      "text": "dismiss this message in here let&#39;s",
+      "duration": 4.26,
+      "offset": 246.78,
+      "lang": "en"
+    },
+    {
+      "text": "generate the same image again in order",
+      "duration": 4.32,
+      "offset": 248.94,
+      "lang": "en"
+    },
+    {
+      "text": "to see what will happen",
+      "duration": 3.78,
+      "offset": 251.04,
+      "lang": "en"
+    },
+    {
+      "text": "so now you can see my journey",
+      "duration": 4.32,
+      "offset": 253.26,
+      "lang": "en"
+    },
+    {
+      "text": "automatically adds this minus minus V5",
+      "duration": 4.62,
+      "offset": 254.82,
+      "lang": "en"
+    },
+    {
+      "text": "in here and that&#39;s just there as an",
+      "duration": 4.02,
+      "offset": 257.58,
+      "lang": "en"
+    },
+    {
+      "text": "indication that you&#39;re using the latest",
+      "duration": 4.32,
+      "offset": 259.44,
+      "lang": "en"
+    },
+    {
+      "text": "version of mid-journey to generate this",
+      "duration": 4.74,
+      "offset": 261.6,
+      "lang": "en"
+    },
+    {
+      "text": "image now so now since our picture has",
+      "duration": 4.68,
+      "offset": 263.76,
+      "lang": "en"
+    },
+    {
+      "text": "been finished let&#39;s open it up and you",
+      "duration": 3.54,
+      "offset": 266.34,
+      "lang": "en"
+    },
+    {
+      "text": "can immediately see there&#39;s a very",
+      "duration": 3.54,
+      "offset": 268.44,
+      "lang": "en"
+    },
+    {
+      "text": "different style going on here by default",
+      "duration": 4.26,
+      "offset": 269.88,
+      "lang": "en"
+    },
+    {
+      "text": "compared to those pictures from The",
+      "duration": 4.08,
+      "offset": 271.98,
+      "lang": "en"
+    },
+    {
+      "text": "Journey version 4 so let&#39;s open those",
+      "duration": 4.38,
+      "offset": 274.14,
+      "lang": "en"
+    },
+    {
+      "text": "ones up here as a comparison again and",
+      "duration": 4.68,
+      "offset": 276.06,
+      "lang": "en"
+    },
+    {
+      "text": "those ones here have a much more let&#39;s",
+      "duration": 5.22,
+      "offset": 278.52,
+      "lang": "en"
+    },
+    {
+      "text": "say artistic much more drawn kind of",
+      "duration": 5.46,
+      "offset": 280.74,
+      "lang": "en"
+    },
+    {
+      "text": "style by default while the majority",
+      "duration": 4.98,
+      "offset": 283.74,
+      "lang": "en"
+    },
+    {
+      "text": "version 5 by default has a much more",
+      "duration": 4.98,
+      "offset": 286.2,
+      "lang": "en"
+    },
+    {
+      "text": "photographic style you can see those two",
+      "duration": 4.2,
+      "offset": 288.72,
+      "lang": "en"
+    },
+    {
+      "text": "pictures here and probably also this one",
+      "duration": 4.46,
+      "offset": 291.18,
+      "lang": "en"
+    },
+    {
+      "text": "here they really look like a photograph",
+      "duration": 5.46,
+      "offset": 292.92,
+      "lang": "en"
+    },
+    {
+      "text": "and the reason for that is that both of",
+      "duration": 4.3,
+      "offset": 295.64,
+      "lang": "en"
+    },
+    {
+      "text": "those different models they have been",
+      "duration": 3.6,
+      "offset": 298.38,
+      "lang": "en"
+    },
+    {
+      "text": "trained on different kind of data sets",
+      "duration": 4.2,
+      "offset": 299.94,
+      "lang": "en"
+    },
+    {
+      "text": "so that&#39;s why the pictures coming out of",
+      "duration": 4.68,
+      "offset": 301.98,
+      "lang": "en"
+    },
+    {
+      "text": "the latest version of my journey have a",
+      "duration": 4.68,
+      "offset": 304.14,
+      "lang": "en"
+    },
+    {
+      "text": "very different kind of look by default",
+      "duration": 4.2,
+      "offset": 306.66,
+      "lang": "en"
+    },
+    {
+      "text": "than those pictures that are coming out",
+      "duration": 4.2,
+      "offset": 308.82,
+      "lang": "en"
+    },
+    {
+      "text": "from earlier versions of my journey so",
+      "duration": 3.78,
+      "offset": 310.86,
+      "lang": "en"
+    },
+    {
+      "text": "now you probably noticed these different",
+      "duration": 4.02,
+      "offset": 313.02,
+      "lang": "en"
+    },
+    {
+      "text": "buttons down here and we have these",
+      "duration": 5.1,
+      "offset": 314.64,
+      "lang": "en"
+    },
+    {
+      "text": "buttons with the U1 until you form and",
+      "duration": 4.98,
+      "offset": 317.04,
+      "lang": "en"
+    },
+    {
+      "text": "they stand for upscaling so it means I",
+      "duration": 4.56,
+      "offset": 319.74,
+      "lang": "en"
+    },
+    {
+      "text": "can upscale any of those four images in",
+      "duration": 4.98,
+      "offset": 322.02,
+      "lang": "en"
+    },
+    {
+      "text": "here that&#39;s upscale for example here the",
+      "duration": 5.58,
+      "offset": 324.3,
+      "lang": "en"
+    },
+    {
+      "text": "third image and press this button",
+      "duration": 5.7,
+      "offset": 327.0,
+      "lang": "en"
+    },
+    {
+      "text": "and now you can see we upscale the third",
+      "duration": 5.76,
+      "offset": 329.88,
+      "lang": "en"
+    },
+    {
+      "text": "image now and have it bigger with more",
+      "duration": 4.5,
+      "offset": 332.7,
+      "lang": "en"
+    },
+    {
+      "text": "details",
+      "duration": 3.48,
+      "offset": 335.64,
+      "lang": "en"
+    },
+    {
+      "text": "then we have this button in here that",
+      "duration": 3.96,
+      "offset": 337.2,
+      "lang": "en"
+    },
+    {
+      "text": "basically just resubmits the same job",
+      "duration": 4.74,
+      "offset": 339.12,
+      "lang": "en"
+    },
+    {
+      "text": "with exactly the same prompt and then we",
+      "duration": 6.06,
+      "offset": 341.16,
+      "lang": "en"
+    },
+    {
+      "text": "have this V1 until V4 buttons and v",
+      "duration": 6.06,
+      "offset": 343.86,
+      "lang": "en"
+    },
+    {
+      "text": "stands for variations so for example we",
+      "duration": 5.28,
+      "offset": 347.22,
+      "lang": "en"
+    },
+    {
+      "text": "can make variations of this third image",
+      "duration": 4.8,
+      "offset": 349.92,
+      "lang": "en"
+    },
+    {
+      "text": "in here by pressing this one and this",
+      "duration": 4.5,
+      "offset": 352.5,
+      "lang": "en"
+    },
+    {
+      "text": "will submit a completely new job",
+      "duration": 4.56,
+      "offset": 354.72,
+      "lang": "en"
+    },
+    {
+      "text": "so now those variations have been",
+      "duration": 4.5,
+      "offset": 357.0,
+      "lang": "en"
+    },
+    {
+      "text": "finished and let&#39;s open this up and see",
+      "duration": 4.26,
+      "offset": 359.28,
+      "lang": "en"
+    },
+    {
+      "text": "what happened so you can see it&#39;s",
+      "duration": 4.32,
+      "offset": 361.5,
+      "lang": "en"
+    },
+    {
+      "text": "basically the same kind of image but",
+      "duration": 4.02,
+      "offset": 363.54,
+      "lang": "en"
+    },
+    {
+      "text": "there are some small variations to it",
+      "duration": 3.36,
+      "offset": 365.82,
+      "lang": "en"
+    },
+    {
+      "text": "for example in the background you can",
+      "duration": 3.84,
+      "offset": 367.56,
+      "lang": "en"
+    },
+    {
+      "text": "see different kind of people you can see",
+      "duration": 4.56,
+      "offset": 369.18,
+      "lang": "en"
+    },
+    {
+      "text": "the monkey looks slightly different you",
+      "duration": 3.72,
+      "offset": 371.4,
+      "lang": "en"
+    },
+    {
+      "text": "can see the motorbike looks different",
+      "duration": 3.78,
+      "offset": 373.74,
+      "lang": "en"
+    },
+    {
+      "text": "the car looks different and so on but",
+      "duration": 4.2,
+      "offset": 375.12,
+      "lang": "en"
+    },
+    {
+      "text": "overall it&#39;s the same kind of",
+      "duration": 4.62,
+      "offset": 377.52,
+      "lang": "en"
+    },
+    {
+      "text": "composition and it almost looks like the",
+      "duration": 5.58,
+      "offset": 379.32,
+      "lang": "en"
+    },
+    {
+      "text": "same picture if you look at it from a",
+      "duration": 4.38,
+      "offset": 382.14,
+      "lang": "en"
+    },
+    {
+      "text": "little bit of a distance so that are",
+      "duration": 3.66,
+      "offset": 384.9,
+      "lang": "en"
+    },
+    {
+      "text": "what those variation buttons here are",
+      "duration": 4.26,
+      "offset": 386.52,
+      "lang": "en"
+    },
+    {
+      "text": "for",
+      "duration": 5.58,
+      "offset": 388.56,
+      "lang": "en"
+    },
+    {
+      "text": "so now the question is how can we modify",
+      "duration": 6.0,
+      "offset": 390.78,
+      "lang": "en"
+    },
+    {
+      "text": "this picture so let&#39;s say we have one",
+      "duration": 4.74,
+      "offset": 394.14,
+      "lang": "en"
+    },
+    {
+      "text": "monkey on the motorbike we like this",
+      "duration": 4.74,
+      "offset": 396.78,
+      "lang": "en"
+    },
+    {
+      "text": "overall picture now but let&#39;s try to add",
+      "duration": 4.92,
+      "offset": 398.88,
+      "lang": "en"
+    },
+    {
+      "text": "two monkeys on the motorbike and there&#39;s",
+      "duration": 4.2,
+      "offset": 401.52,
+      "lang": "en"
+    },
+    {
+      "text": "also a way to do this for this you first",
+      "duration": 4.86,
+      "offset": 403.8,
+      "lang": "en"
+    },
+    {
+      "text": "need to enter here the settings",
+      "duration": 5.88,
+      "offset": 405.72,
+      "lang": "en"
+    },
+    {
+      "text": "and then let&#39;s enable this remix mode in",
+      "duration": 5.22,
+      "offset": 408.66,
+      "lang": "en"
+    },
+    {
+      "text": "here we can also dismiss this message",
+      "duration": 4.62,
+      "offset": 411.6,
+      "lang": "en"
+    },
+    {
+      "text": "now again so now let&#39;s check our last",
+      "duration": 4.8,
+      "offset": 413.88,
+      "lang": "en"
+    },
+    {
+      "text": "picture again so for example let&#39;s say",
+      "duration": 4.62,
+      "offset": 416.22,
+      "lang": "en"
+    },
+    {
+      "text": "we want this picture here but let&#39;s add",
+      "duration": 4.56,
+      "offset": 418.68,
+      "lang": "en"
+    },
+    {
+      "text": "a different monkey in there so let&#39;s see",
+      "duration": 5.28,
+      "offset": 420.84,
+      "lang": "en"
+    },
+    {
+      "text": "what happens if I use this V2 button now",
+      "duration": 4.98,
+      "offset": 423.24,
+      "lang": "en"
+    },
+    {
+      "text": "and now instead of creating versions",
+      "duration": 4.32,
+      "offset": 426.12,
+      "lang": "en"
+    },
+    {
+      "text": "using the exact same prompt like before",
+      "duration": 5.22,
+      "offset": 428.22,
+      "lang": "en"
+    },
+    {
+      "text": "we now have the option to modify this",
+      "duration": 4.86,
+      "offset": 430.44,
+      "lang": "en"
+    },
+    {
+      "text": "prompt here so let&#39;s try to see what",
+      "duration": 4.68,
+      "offset": 433.44,
+      "lang": "en"
+    },
+    {
+      "text": "happens if we change the one monkey to",
+      "duration": 6.12,
+      "offset": 435.3,
+      "lang": "en"
+    },
+    {
+      "text": "two monkeys and submit it again",
+      "duration": 5.28,
+      "offset": 438.12,
+      "lang": "en"
+    },
+    {
+      "text": "so now those variations have been",
+      "duration": 4.2,
+      "offset": 441.42,
+      "lang": "en"
+    },
+    {
+      "text": "finished and let&#39;s check them out and",
+      "duration": 3.96,
+      "offset": 443.4,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s see if there&#39;s a second monkey in",
+      "duration": 4.14,
+      "offset": 445.62,
+      "lang": "en"
+    },
+    {
+      "text": "there and actually yes in some of the",
+      "duration": 5.1,
+      "offset": 447.36,
+      "lang": "en"
+    },
+    {
+      "text": "images there is a second monkey you can",
+      "duration": 4.68,
+      "offset": 449.76,
+      "lang": "en"
+    },
+    {
+      "text": "see here there&#39;s one behind this monkey",
+      "duration": 4.32,
+      "offset": 452.46,
+      "lang": "en"
+    },
+    {
+      "text": "and it looks like this monkey has like",
+      "duration": 5.1,
+      "offset": 454.44,
+      "lang": "en"
+    },
+    {
+      "text": "four legs now and there&#39;s also something",
+      "duration": 4.8,
+      "offset": 456.78,
+      "lang": "en"
+    },
+    {
+      "text": "like a monkey here hanging on the side",
+      "duration": 4.5,
+      "offset": 459.54,
+      "lang": "en"
+    },
+    {
+      "text": "and some of the other images there&#39;s not",
+      "duration": 5.46,
+      "offset": 461.58,
+      "lang": "en"
+    },
+    {
+      "text": "a second monkey at all and that is kind",
+      "duration": 4.86,
+      "offset": 464.04,
+      "lang": "en"
+    },
+    {
+      "text": "of a weakness or a problem with the",
+      "duration": 4.02,
+      "offset": 467.04,
+      "lang": "en"
+    },
+    {
+      "text": "current technology in mid-journey is",
+      "duration": 4.74,
+      "offset": 468.9,
+      "lang": "en"
+    },
+    {
+      "text": "that once the image has been generated",
+      "duration": 6.12,
+      "offset": 471.06,
+      "lang": "en"
+    },
+    {
+      "text": "then it&#39;s very difficult to modify the",
+      "duration": 6.18,
+      "offset": 473.64,
+      "lang": "en"
+    },
+    {
+      "text": "elements in the image by changing the",
+      "duration": 4.68,
+      "offset": 477.18,
+      "lang": "en"
+    },
+    {
+      "text": "prompt and this kind of situation you",
+      "duration": 3.96,
+      "offset": 479.82,
+      "lang": "en"
+    },
+    {
+      "text": "would be much better off to start a",
+      "duration": 3.48,
+      "offset": 481.86,
+      "lang": "en"
+    },
+    {
+      "text": "completely new image",
+      "duration": 3.78,
+      "offset": 483.78,
+      "lang": "en"
+    },
+    {
+      "text": "so now let&#39;s try this out and see what",
+      "duration": 3.6,
+      "offset": 485.34,
+      "lang": "en"
+    },
+    {
+      "text": "we will get",
+      "duration": 3.3,
+      "offset": 487.56,
+      "lang": "en"
+    },
+    {
+      "text": "so now since those pictures are finished",
+      "duration": 3.6,
+      "offset": 488.94,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s check it out and we can",
+      "duration": 3.78,
+      "offset": 490.86,
+      "lang": "en"
+    },
+    {
+      "text": "immediately see that our prompt is way",
+      "duration": 3.42,
+      "offset": 492.54,
+      "lang": "en"
+    },
+    {
+      "text": "better resembled in those pictures",
+      "duration": 3.66,
+      "offset": 494.64,
+      "lang": "en"
+    },
+    {
+      "text": "because we clearly have two monkeys",
+      "duration": 4.68,
+      "offset": 495.96,
+      "lang": "en"
+    },
+    {
+      "text": "sitting on one bike in a way that we",
+      "duration": 5.28,
+      "offset": 498.3,
+      "lang": "en"
+    },
+    {
+      "text": "kind of expected and we get a much",
+      "duration": 5.82,
+      "offset": 500.64,
+      "lang": "en"
+    },
+    {
+      "text": "better result than if we try to modify",
+      "duration": 5.46,
+      "offset": 503.58,
+      "lang": "en"
+    },
+    {
+      "text": "an existing prompt like in those ones in",
+      "duration": 3.42,
+      "offset": 506.46,
+      "lang": "en"
+    },
+    {
+      "text": "here",
+      "duration": 2.7,
+      "offset": 509.04,
+      "lang": "en"
+    },
+    {
+      "text": "of course the downside is that we",
+      "duration": 3.96,
+      "offset": 509.88,
+      "lang": "en"
+    },
+    {
+      "text": "completely lose our previous composition",
+      "duration": 4.08,
+      "offset": 511.74,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s say we like this composition we",
+      "duration": 3.84,
+      "offset": 513.84,
+      "lang": "en"
+    },
+    {
+      "text": "just wanted to add a second monkey in",
+      "duration": 2.58,
+      "offset": 515.82,
+      "lang": "en"
+    },
+    {
+      "text": "there",
+      "duration": 3.06,
+      "offset": 517.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s kind of impossible to get it",
+      "duration": 4.86,
+      "offset": 518.4,
+      "lang": "en"
+    },
+    {
+      "text": "through this way so it&#39;s that much",
+      "duration": 4.74,
+      "offset": 520.74,
+      "lang": "en"
+    },
+    {
+      "text": "better to start off with a better prompt",
+      "duration": 4.14,
+      "offset": 523.26,
+      "lang": "en"
+    },
+    {
+      "text": "from the beginning and there&#39;s a huge",
+      "duration": 4.14,
+      "offset": 525.48,
+      "lang": "en"
+    },
+    {
+      "text": "amount of randomness of course in those",
+      "duration": 3.84,
+      "offset": 527.4,
+      "lang": "en"
+    },
+    {
+      "text": "pictures which are generated in",
+      "duration": 4.92,
+      "offset": 529.62,
+      "lang": "en"
+    },
+    {
+      "text": "mid-journey so the amount of influence",
+      "duration": 5.94,
+      "offset": 531.24,
+      "lang": "en"
+    },
+    {
+      "text": "you have on the picture is in a way very",
+      "duration": 4.8,
+      "offset": 534.54,
+      "lang": "en"
+    },
+    {
+      "text": "limited you can&#39;t really compare it to",
+      "duration": 4.02,
+      "offset": 537.18,
+      "lang": "en"
+    },
+    {
+      "text": "traditional workflows where you",
+      "duration": 4.08,
+      "offset": 539.34,
+      "lang": "en"
+    },
+    {
+      "text": "basically just draw in the second monkey",
+      "duration": 5.04,
+      "offset": 541.2,
+      "lang": "en"
+    },
+    {
+      "text": "and you&#39;re able to modify those pictures",
+      "duration": 5.78,
+      "offset": 543.42,
+      "lang": "en"
+    },
+    {
+      "text": "completely based on your artistic skills",
+      "duration": 5.82,
+      "offset": 546.24,
+      "lang": "en"
+    },
+    {
+      "text": "also as a side note I just realized that",
+      "duration": 4.84,
+      "offset": 549.2,
+      "lang": "en"
+    },
+    {
+      "text": "I always asked to have monkeys on",
+      "duration": 4.56,
+      "offset": 552.06,
+      "lang": "en"
+    },
+    {
+      "text": "bicycles but for some reason some of",
+      "duration": 4.86,
+      "offset": 554.04,
+      "lang": "en"
+    },
+    {
+      "text": "those pictures here show clearly",
+      "duration": 4.62,
+      "offset": 556.62,
+      "lang": "en"
+    },
+    {
+      "text": "motorbikes except the ones in",
+      "duration": 4.32,
+      "offset": 558.9,
+      "lang": "en"
+    },
+    {
+      "text": "mid-journey 4 because probably we have",
+      "duration": 4.56,
+      "offset": 561.24,
+      "lang": "en"
+    },
+    {
+      "text": "this more like painterly style but as",
+      "duration": 5.22,
+      "offset": 563.22,
+      "lang": "en"
+    },
+    {
+      "text": "soon as there&#39;s like photographs it",
+      "duration": 5.1,
+      "offset": 565.8,
+      "lang": "en"
+    },
+    {
+      "text": "seems that it kind of like prefers to",
+      "duration": 5.46,
+      "offset": 568.44,
+      "lang": "en"
+    },
+    {
+      "text": "place the monkeys on motorbikes instead",
+      "duration": 5.34,
+      "offset": 570.9,
+      "lang": "en"
+    },
+    {
+      "text": "except this one picture in here that&#39;s",
+      "duration": 4.52,
+      "offset": 573.9,
+      "lang": "en"
+    },
+    {
+      "text": "the only one with a photographic Style",
+      "duration": 5.76,
+      "offset": 576.24,
+      "lang": "en"
+    },
+    {
+      "text": "that is clearly a bicycle but yeah",
+      "duration": 5.38,
+      "offset": 578.42,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s just something that you need to",
+      "duration": 4.2,
+      "offset": 582.0,
+      "lang": "en"
+    },
+    {
+      "text": "know you kind of get unexpected results",
+      "duration": 4.56,
+      "offset": 583.8,
+      "lang": "en"
+    },
+    {
+      "text": "here and then and you don&#39;t really have",
+      "duration": 4.92,
+      "offset": 586.2,
+      "lang": "en"
+    },
+    {
+      "text": "any guarantee in what way it will kind",
+      "duration": 4.32,
+      "offset": 588.36,
+      "lang": "en"
+    },
+    {
+      "text": "of Follow Your prompts or completely",
+      "duration": 4.8,
+      "offset": 591.12,
+      "lang": "en"
+    },
+    {
+      "text": "ignores them or interprets them kind of",
+      "duration": 5.6,
+      "offset": 592.68,
+      "lang": "en"
+    },
+    {
+      "text": "freely",
+      "duration": 2.36,
+      "offset": 595.92,
+      "lang": "en"
+    },
+    {
+      "text": "so far I just used some very simplistic",
+      "duration": 5.52,
+      "offset": 598.5,
+      "lang": "en"
+    },
+    {
+      "text": "prompts and that gave me Journey quite a",
+      "duration": 4.38,
+      "offset": 601.14,
+      "lang": "en"
+    },
+    {
+      "text": "huge amount of freedom to generate",
+      "duration": 3.12,
+      "offset": 604.02,
+      "lang": "en"
+    },
+    {
+      "text": "different kind of styles so you can see",
+      "duration": 4.02,
+      "offset": 605.52,
+      "lang": "en"
+    },
+    {
+      "text": "I didn&#39;t really specify what kind of",
+      "duration": 4.56,
+      "offset": 607.14,
+      "lang": "en"
+    },
+    {
+      "text": "style I wanted that&#39;s why some of those",
+      "duration": 4.38,
+      "offset": 609.54,
+      "lang": "en"
+    },
+    {
+      "text": "pictures look more like photographs some",
+      "duration": 3.96,
+      "offset": 611.7,
+      "lang": "en"
+    },
+    {
+      "text": "of those pictures look a little bit more",
+      "duration": 4.62,
+      "offset": 613.92,
+      "lang": "en"
+    },
+    {
+      "text": "like drawings and so on so now let&#39;s try",
+      "duration": 5.76,
+      "offset": 615.66,
+      "lang": "en"
+    },
+    {
+      "text": "to make a much more detailed prompt and",
+      "duration": 4.8,
+      "offset": 618.54,
+      "lang": "en"
+    },
+    {
+      "text": "see what will happen with this",
+      "duration": 4.62,
+      "offset": 621.42,
+      "lang": "en"
+    },
+    {
+      "text": "so now let&#39;s imagine an atmospheric dark",
+      "duration": 5.28,
+      "offset": 623.34,
+      "lang": "en"
+    },
+    {
+      "text": "futuristic cyberpunk style alley it is",
+      "duration": 4.26,
+      "offset": 626.04,
+      "lang": "en"
+    },
+    {
+      "text": "raining with puddles of water on the",
+      "duration": 4.14,
+      "offset": 628.62,
+      "lang": "en"
+    },
+    {
+      "text": "floor Misty foggy atmosphere futuristic",
+      "duration": 4.22,
+      "offset": 630.3,
+      "lang": "en"
+    },
+    {
+      "text": "Neon Lights with Chinese characters",
+      "duration": 5.1,
+      "offset": 632.76,
+      "lang": "en"
+    },
+    {
+      "text": "cinematic Style with vibrant colors",
+      "duration": 5.44,
+      "offset": 634.52,
+      "lang": "en"
+    },
+    {
+      "text": "so now the image is finished and let&#39;s",
+      "duration": 4.68,
+      "offset": 637.86,
+      "lang": "en"
+    },
+    {
+      "text": "check it out let&#39;s open it in a browser",
+      "duration": 5.34,
+      "offset": 639.96,
+      "lang": "en"
+    },
+    {
+      "text": "to get a bigger View and let&#39;s see what",
+      "duration": 5.58,
+      "offset": 642.54,
+      "lang": "en"
+    },
+    {
+      "text": "it kind of did in here and I would say",
+      "duration": 5.04,
+      "offset": 645.3,
+      "lang": "en"
+    },
+    {
+      "text": "all of my prompts were kind of being",
+      "duration": 4.02,
+      "offset": 648.12,
+      "lang": "en"
+    },
+    {
+      "text": "followed so we have even some Chinese",
+      "duration": 4.08,
+      "offset": 650.34,
+      "lang": "en"
+    },
+    {
+      "text": "characters here I have no idea if they",
+      "duration": 4.38,
+      "offset": 652.14,
+      "lang": "en"
+    },
+    {
+      "text": "actually make sense or not I guess",
+      "duration": 4.44,
+      "offset": 654.42,
+      "lang": "en"
+    },
+    {
+      "text": "probably not because characters is a",
+      "duration": 5.16,
+      "offset": 656.52,
+      "lang": "en"
+    },
+    {
+      "text": "problem for my journey in general but",
+      "duration": 4.92,
+      "offset": 658.86,
+      "lang": "en"
+    },
+    {
+      "text": "everything else is resembled we have it",
+      "duration": 4.44,
+      "offset": 661.68,
+      "lang": "en"
+    },
+    {
+      "text": "raining we have puddles of water on the",
+      "duration": 5.1,
+      "offset": 663.78,
+      "lang": "en"
+    },
+    {
+      "text": "floor we have this vibrant colors these",
+      "duration": 5.52,
+      "offset": 666.12,
+      "lang": "en"
+    },
+    {
+      "text": "neon lightings this Misty atmosphere and",
+      "duration": 4.5,
+      "offset": 668.88,
+      "lang": "en"
+    },
+    {
+      "text": "so on of course there are small problems",
+      "duration": 4.08,
+      "offset": 671.64,
+      "lang": "en"
+    },
+    {
+      "text": "for example like this kind of car in",
+      "duration": 4.68,
+      "offset": 673.38,
+      "lang": "en"
+    },
+    {
+      "text": "here is floating but in general the",
+      "duration": 4.44,
+      "offset": 675.72,
+      "lang": "en"
+    },
+    {
+      "text": "quality of those images are really nice",
+      "duration": 4.5,
+      "offset": 678.06,
+      "lang": "en"
+    },
+    {
+      "text": "and what really blows me away is that",
+      "duration": 5.1,
+      "offset": 680.16,
+      "lang": "en"
+    },
+    {
+      "text": "like all of those Reflections here are",
+      "duration": 4.74,
+      "offset": 682.56,
+      "lang": "en"
+    },
+    {
+      "text": "accurately represented you have to",
+      "duration": 4.02,
+      "offset": 685.26,
+      "lang": "en"
+    },
+    {
+      "text": "understand that it&#39;s not really Ray",
+      "duration": 4.02,
+      "offset": 687.3,
+      "lang": "en"
+    },
+    {
+      "text": "tracing or doing anything like this it&#39;s",
+      "duration": 4.02,
+      "offset": 689.28,
+      "lang": "en"
+    },
+    {
+      "text": "basically just calculating those pixels",
+      "duration": 4.56,
+      "offset": 691.32,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s imagining how those pixels here",
+      "duration": 4.5,
+      "offset": 693.3,
+      "lang": "en"
+    },
+    {
+      "text": "should look like and that those reflect",
+      "duration": 4.2,
+      "offset": 695.88,
+      "lang": "en"
+    },
+    {
+      "text": "actions match so physically accurate",
+      "duration": 4.56,
+      "offset": 697.8,
+      "lang": "en"
+    },
+    {
+      "text": "with the environment even though it&#39;s",
+      "duration": 4.44,
+      "offset": 700.08,
+      "lang": "en"
+    },
+    {
+      "text": "not rate raised or rendered or",
+      "duration": 4.74,
+      "offset": 702.36,
+      "lang": "en"
+    },
+    {
+      "text": "calculated in this regard it&#39;s really",
+      "duration": 4.32,
+      "offset": 704.52,
+      "lang": "en"
+    },
+    {
+      "text": "quite astonishing what kind of results",
+      "duration": 4.56,
+      "offset": 707.1,
+      "lang": "en"
+    },
+    {
+      "text": "you can you can get with this here so",
+      "duration": 4.68,
+      "offset": 708.84,
+      "lang": "en"
+    },
+    {
+      "text": "now let&#39;s try something different and",
+      "duration": 4.38,
+      "offset": 711.66,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s the image that I found online and",
+      "duration": 4.44,
+      "offset": 713.52,
+      "lang": "en"
+    },
+    {
+      "text": "what my journey also can do is that you",
+      "duration": 5.34,
+      "offset": 716.04,
+      "lang": "en"
+    },
+    {
+      "text": "can include images in your generation",
+      "duration": 5.94,
+      "offset": 717.96,
+      "lang": "en"
+    },
+    {
+      "text": "and then it tries to kind of overtake",
+      "duration": 5.46,
+      "offset": 721.38,
+      "lang": "en"
+    },
+    {
+      "text": "elements from those images and let&#39;s try",
+      "duration": 5.1,
+      "offset": 723.9,
+      "lang": "en"
+    },
+    {
+      "text": "to do this with the same prompt that we",
+      "duration": 4.98,
+      "offset": 726.84,
+      "lang": "en"
+    },
+    {
+      "text": "used before and this image here so here",
+      "duration": 4.8,
+      "offset": 729.0,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s check out the result and you can",
+      "duration": 4.56,
+      "offset": 731.82,
+      "lang": "en"
+    },
+    {
+      "text": "see I used exactly the same prompt the",
+      "duration": 5.16,
+      "offset": 733.8,
+      "lang": "en"
+    },
+    {
+      "text": "only difference was that I added the URL",
+      "duration": 5.04,
+      "offset": 736.38,
+      "lang": "en"
+    },
+    {
+      "text": "of the image in the very beginning and",
+      "duration": 5.1,
+      "offset": 738.96,
+      "lang": "en"
+    },
+    {
+      "text": "now you can see what kind of influence",
+      "duration": 5.76,
+      "offset": 741.42,
+      "lang": "en"
+    },
+    {
+      "text": "this image here has on the overall",
+      "duration": 4.98,
+      "offset": 744.06,
+      "lang": "en"
+    },
+    {
+      "text": "picture that&#39;s being generated so again",
+      "duration": 4.92,
+      "offset": 747.18,
+      "lang": "en"
+    },
+    {
+      "text": "this one here was the image that we fed",
+      "duration": 5.7,
+      "offset": 749.04,
+      "lang": "en"
+    },
+    {
+      "text": "into it and then you can get this kind",
+      "duration": 4.74,
+      "offset": 752.1,
+      "lang": "en"
+    },
+    {
+      "text": "of result in here and it kind of",
+      "duration": 5.04,
+      "offset": 754.74,
+      "lang": "en"
+    },
+    {
+      "text": "overtook the prompt that we use so it",
+      "duration": 5.1,
+      "offset": 756.84,
+      "lang": "en"
+    },
+    {
+      "text": "has these kind of reflective floor it",
+      "duration": 4.44,
+      "offset": 759.78,
+      "lang": "en"
+    },
+    {
+      "text": "has this kind of vibrant colors this",
+      "duration": 5.7,
+      "offset": 761.94,
+      "lang": "en"
+    },
+    {
+      "text": "neon lighting but it included this kind",
+      "duration": 5.52,
+      "offset": 764.22,
+      "lang": "en"
+    },
+    {
+      "text": "of reference images that we gave it and",
+      "duration": 3.96,
+      "offset": 767.64,
+      "lang": "en"
+    },
+    {
+      "text": "I think for me that is really really",
+      "duration": 3.6,
+      "offset": 769.74,
+      "lang": "en"
+    },
+    {
+      "text": "quite powerful",
+      "duration": 4.08,
+      "offset": 771.6,
+      "lang": "en"
+    },
+    {
+      "text": "so now let&#39;s also talk about some",
+      "duration": 4.5,
+      "offset": 773.34,
+      "lang": "en"
+    },
+    {
+      "text": "limitations or some kind of problem",
+      "duration": 4.32,
+      "offset": 775.68,
+      "lang": "en"
+    },
+    {
+      "text": "areas in my journey at the moment and",
+      "duration": 4.02,
+      "offset": 777.84,
+      "lang": "en"
+    },
+    {
+      "text": "those are found mainly when I try to",
+      "duration": 4.14,
+      "offset": 780.0,
+      "lang": "en"
+    },
+    {
+      "text": "have interactions between for example",
+      "duration": 4.02,
+      "offset": 781.86,
+      "lang": "en"
+    },
+    {
+      "text": "different kind of characters and so on",
+      "duration": 4.38,
+      "offset": 784.14,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s try out something new now",
+      "duration": 5.52,
+      "offset": 785.88,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s imagine a heroic red wearing a",
+      "duration": 4.8,
+      "offset": 788.52,
+      "lang": "en"
+    },
+    {
+      "text": "night armor is fighting with an evil",
+      "duration": 3.72,
+      "offset": 791.4,
+      "lang": "en"
+    },
+    {
+      "text": "dragon the environment is a Mountaintop",
+      "duration": 4.08,
+      "offset": 793.32,
+      "lang": "en"
+    },
+    {
+      "text": "with lots of rocks and sparse vegetation",
+      "duration": 4.74,
+      "offset": 795.12,
+      "lang": "en"
+    },
+    {
+      "text": "very moody and Atmospheric lighting",
+      "duration": 4.5,
+      "offset": 797.4,
+      "lang": "en"
+    },
+    {
+      "text": "Rainy Mood with lightning and",
+      "duration": 3.66,
+      "offset": 799.86,
+      "lang": "en"
+    },
+    {
+      "text": "thunderstorms",
+      "duration": 4.14,
+      "offset": 801.9,
+      "lang": "en"
+    },
+    {
+      "text": "so here you can see the finished result",
+      "duration": 5.88,
+      "offset": 803.52,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s open this in our browser and now",
+      "duration": 5.04,
+      "offset": 806.04,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s compare to the prompt that we gave",
+      "duration": 3.66,
+      "offset": 809.4,
+      "lang": "en"
+    },
+    {
+      "text": "it and you can see it&#39;s clearly not",
+      "duration": 3.96,
+      "offset": 811.08,
+      "lang": "en"
+    },
+    {
+      "text": "being followed so it has kind of",
+      "duration": 4.5,
+      "offset": 813.06,
+      "lang": "en"
+    },
+    {
+      "text": "problems to make these kind of more",
+      "duration": 5.28,
+      "offset": 815.04,
+      "lang": "en"
+    },
+    {
+      "text": "complex interactions I think the only",
+      "duration": 5.34,
+      "offset": 817.56,
+      "lang": "en"
+    },
+    {
+      "text": "picture where you could somehow see a",
+      "duration": 4.86,
+      "offset": 820.32,
+      "lang": "en"
+    },
+    {
+      "text": "fight going on would be possibly this",
+      "duration": 3.96,
+      "offset": 822.9,
+      "lang": "en"
+    },
+    {
+      "text": "one in here but it&#39;s definitely not a",
+      "duration": 2.46,
+      "offset": 825.18,
+      "lang": "en"
+    },
+    {
+      "text": "dragon",
+      "duration": 3.0,
+      "offset": 826.86,
+      "lang": "en"
+    },
+    {
+      "text": "by the way I really love this iron",
+      "duration": 4.68,
+      "offset": 827.64,
+      "lang": "en"
+    },
+    {
+      "text": "umbrella that my journey somehow decided",
+      "duration": 4.8,
+      "offset": 829.86,
+      "lang": "en"
+    },
+    {
+      "text": "to implement but yeah the dragon is",
+      "duration": 4.56,
+      "offset": 832.32,
+      "lang": "en"
+    },
+    {
+      "text": "nowhere to be seen and additionally if",
+      "duration": 4.68,
+      "offset": 834.66,
+      "lang": "en"
+    },
+    {
+      "text": "you check closely there&#39;s some minor",
+      "duration": 4.5,
+      "offset": 836.88,
+      "lang": "en"
+    },
+    {
+      "text": "problems like this red here for example",
+      "duration": 6.72,
+      "offset": 839.34,
+      "lang": "en"
+    },
+    {
+      "text": "has three feet and apparently two tails",
+      "duration": 7.08,
+      "offset": 841.38,
+      "lang": "en"
+    },
+    {
+      "text": "even I didn&#39;t really ask for that so",
+      "duration": 4.32,
+      "offset": 846.06,
+      "lang": "en"
+    },
+    {
+      "text": "there are these kind of weird glitches",
+      "duration": 3.84,
+      "offset": 848.46,
+      "lang": "en"
+    },
+    {
+      "text": "that happen now and then also for",
+      "duration": 3.96,
+      "offset": 850.38,
+      "lang": "en"
+    },
+    {
+      "text": "example if you try to generate hands",
+      "duration": 4.74,
+      "offset": 852.3,
+      "lang": "en"
+    },
+    {
+      "text": "then those also oftentimes look",
+      "duration": 5.22,
+      "offset": 854.34,
+      "lang": "en"
+    },
+    {
+      "text": "extremely weird even though that already",
+      "duration": 7.46,
+      "offset": 857.04,
+      "lang": "en"
+    },
+    {
+      "text": "improved a lot between version 4 and 5.",
+      "duration": 4.94,
+      "offset": 859.56,
+      "lang": "en"
+    },
+    {
+      "text": "so now in the end let me walk you",
+      "duration": 3.24,
+      "offset": 864.96,
+      "lang": "en"
+    },
+    {
+      "text": "through the steps that it took me to",
+      "duration": 3.72,
+      "offset": 866.76,
+      "lang": "en"
+    },
+    {
+      "text": "create this kind of image in here and",
+      "duration": 4.68,
+      "offset": 868.2,
+      "lang": "en"
+    },
+    {
+      "text": "initially I hoped I could do the whole",
+      "duration": 4.74,
+      "offset": 870.48,
+      "lang": "en"
+    },
+    {
+      "text": "thing entirely in my journey but in the",
+      "duration": 4.56,
+      "offset": 872.88,
+      "lang": "en"
+    },
+    {
+      "text": "end I decided to just generate different",
+      "duration": 4.62,
+      "offset": 875.22,
+      "lang": "en"
+    },
+    {
+      "text": "kind of elements then later blend them",
+      "duration": 4.74,
+      "offset": 877.44,
+      "lang": "en"
+    },
+    {
+      "text": "together in Photoshop because it proved",
+      "duration": 5.22,
+      "offset": 879.84,
+      "lang": "en"
+    },
+    {
+      "text": "to be too difficult to really get what I",
+      "duration": 3.9,
+      "offset": 882.18,
+      "lang": "en"
+    },
+    {
+      "text": "wanted",
+      "duration": 3.36,
+      "offset": 885.06,
+      "lang": "en"
+    },
+    {
+      "text": "so initially I tried to generate just",
+      "duration": 4.62,
+      "offset": 886.08,
+      "lang": "en"
+    },
+    {
+      "text": "pictures of an artist looking extremely",
+      "duration": 5.04,
+      "offset": 888.42,
+      "lang": "en"
+    },
+    {
+      "text": "worried that AI may take over his work",
+      "duration": 4.92,
+      "offset": 890.7,
+      "lang": "en"
+    },
+    {
+      "text": "you can see those kind of images they",
+      "duration": 4.02,
+      "offset": 893.46,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really look very convincing very",
+      "duration": 3.6,
+      "offset": 895.62,
+      "lang": "en"
+    },
+    {
+      "text": "nice in terms of composition and so on",
+      "duration": 4.32,
+      "offset": 897.48,
+      "lang": "en"
+    },
+    {
+      "text": "so I try to basically break it down in",
+      "duration": 4.86,
+      "offset": 899.22,
+      "lang": "en"
+    },
+    {
+      "text": "smaller parts and I first Focus about",
+      "duration": 4.62,
+      "offset": 901.8,
+      "lang": "en"
+    },
+    {
+      "text": "trying to make some artists and I try to",
+      "duration": 5.04,
+      "offset": 904.08,
+      "lang": "en"
+    },
+    {
+      "text": "define the style of those pictures in",
+      "duration": 4.8,
+      "offset": 906.42,
+      "lang": "en"
+    },
+    {
+      "text": "here with a darker and Moody background",
+      "duration": 4.68,
+      "offset": 909.12,
+      "lang": "en"
+    },
+    {
+      "text": "and I think yeah it starts to look like",
+      "duration": 4.5,
+      "offset": 911.22,
+      "lang": "en"
+    },
+    {
+      "text": "this guy is very worried but he doesn&#39;t",
+      "duration": 4.62,
+      "offset": 913.8,
+      "lang": "en"
+    },
+    {
+      "text": "really look like an artist so I try to",
+      "duration": 5.82,
+      "offset": 915.72,
+      "lang": "en"
+    },
+    {
+      "text": "tweak it in a way that I will get an",
+      "duration": 5.88,
+      "offset": 918.42,
+      "lang": "en"
+    },
+    {
+      "text": "appearance of a more traditional painter",
+      "duration": 5.34,
+      "offset": 921.54,
+      "lang": "en"
+    },
+    {
+      "text": "for example so I started defining the",
+      "duration": 5.04,
+      "offset": 924.3,
+      "lang": "en"
+    },
+    {
+      "text": "clothes and so on and that seemed to",
+      "duration": 4.8,
+      "offset": 926.88,
+      "lang": "en"
+    },
+    {
+      "text": "work okay I just didn&#39;t really like the",
+      "duration": 4.62,
+      "offset": 929.34,
+      "lang": "en"
+    },
+    {
+      "text": "background so here in this picture here",
+      "duration": 4.8,
+      "offset": 931.68,
+      "lang": "en"
+    },
+    {
+      "text": "I try to focus more about having a clean",
+      "duration": 5.34,
+      "offset": 933.96,
+      "lang": "en"
+    },
+    {
+      "text": "background and this is something that I",
+      "duration": 4.38,
+      "offset": 936.48,
+      "lang": "en"
+    },
+    {
+      "text": "started to like so I especially like",
+      "duration": 3.24,
+      "offset": 939.3,
+      "lang": "en"
+    },
+    {
+      "text": "those two different characters in here",
+      "duration": 3.96,
+      "offset": 940.86,
+      "lang": "en"
+    },
+    {
+      "text": "so I started first to make some",
+      "duration": 4.38,
+      "offset": 942.54,
+      "lang": "en"
+    },
+    {
+      "text": "variations with this first character in",
+      "duration": 5.04,
+      "offset": 944.82,
+      "lang": "en"
+    },
+    {
+      "text": "here and in the end I found actually I",
+      "duration": 5.34,
+      "offset": 946.92,
+      "lang": "en"
+    },
+    {
+      "text": "like this character himora so I also",
+      "duration": 4.02,
+      "offset": 949.86,
+      "lang": "en"
+    },
+    {
+      "text": "generated some variations of this",
+      "duration": 4.62,
+      "offset": 952.26,
+      "lang": "en"
+    },
+    {
+      "text": "character in the end I chose this guy in",
+      "duration": 5.16,
+      "offset": 953.88,
+      "lang": "en"
+    },
+    {
+      "text": "here because I think here I really like",
+      "duration": 5.04,
+      "offset": 956.88,
+      "lang": "en"
+    },
+    {
+      "text": "the way how scared he looks like and",
+      "duration": 4.8,
+      "offset": 959.04,
+      "lang": "en"
+    },
+    {
+      "text": "from my feeling my journey did a really",
+      "duration": 4.14,
+      "offset": 961.92,
+      "lang": "en"
+    },
+    {
+      "text": "great job in capturing this image in",
+      "duration": 5.04,
+      "offset": 963.84,
+      "lang": "en"
+    },
+    {
+      "text": "here so that was quite good so the",
+      "duration": 5.46,
+      "offset": 966.06,
+      "lang": "en"
+    },
+    {
+      "text": "problem started a little bit with the AI",
+      "duration": 5.4,
+      "offset": 968.88,
+      "lang": "en"
+    },
+    {
+      "text": "that I wanted to generate and I wanted",
+      "duration": 6.06,
+      "offset": 971.52,
+      "lang": "en"
+    },
+    {
+      "text": "to make the AI feel of course like some",
+      "duration": 6.12,
+      "offset": 974.28,
+      "lang": "en"
+    },
+    {
+      "text": "very technical things so first I started",
+      "duration": 5.82,
+      "offset": 977.58,
+      "lang": "en"
+    },
+    {
+      "text": "to have a robot that is dressed up as a",
+      "duration": 5.22,
+      "offset": 980.4,
+      "lang": "en"
+    },
+    {
+      "text": "painter and yeah you can see those",
+      "duration": 4.2,
+      "offset": 983.4,
+      "lang": "en"
+    },
+    {
+      "text": "results they don&#39;t really look very",
+      "duration": 6.06,
+      "offset": 985.62,
+      "lang": "en"
+    },
+    {
+      "text": "convincing and then I tried to generate",
+      "duration": 8.52,
+      "offset": 987.6,
+      "lang": "en"
+    },
+    {
+      "text": "a Terminator style robot and here you",
+      "duration": 6.66,
+      "offset": 991.68,
+      "lang": "en"
+    },
+    {
+      "text": "can see it kind of had problems to",
+      "duration": 4.02,
+      "offset": 996.12,
+      "lang": "en"
+    },
+    {
+      "text": "generate something that looks a little",
+      "duration": 4.14,
+      "offset": 998.34,
+      "lang": "en"
+    },
+    {
+      "text": "bit like a robot so all of those guys",
+      "duration": 4.92,
+      "offset": 1000.14,
+      "lang": "en"
+    },
+    {
+      "text": "here they are still very much look like",
+      "duration": 5.4,
+      "offset": 1002.48,
+      "lang": "en"
+    },
+    {
+      "text": "humans but but for some reason I liked",
+      "duration": 5.46,
+      "offset": 1005.06,
+      "lang": "en"
+    },
+    {
+      "text": "this guy down here even though that&#39;s",
+      "duration": 4.74,
+      "offset": 1007.88,
+      "lang": "en"
+    },
+    {
+      "text": "not at all what I imagined and what I",
+      "duration": 6.18,
+      "offset": 1010.52,
+      "lang": "en"
+    },
+    {
+      "text": "asked for so I started to refine this",
+      "duration": 6.06,
+      "offset": 1012.62,
+      "lang": "en"
+    },
+    {
+      "text": "guy and made different variations of",
+      "duration": 5.58,
+      "offset": 1016.7,
+      "lang": "en"
+    },
+    {
+      "text": "this guy and try to make the face appear",
+      "duration": 7.32,
+      "offset": 1018.68,
+      "lang": "en"
+    },
+    {
+      "text": "more silvery more metallic and so on but",
+      "duration": 5.88,
+      "offset": 1022.28,
+      "lang": "en"
+    },
+    {
+      "text": "that was a little bit difficult so I",
+      "duration": 4.92,
+      "offset": 1026.0,
+      "lang": "en"
+    },
+    {
+      "text": "tried with different prompts in here and",
+      "duration": 5.04,
+      "offset": 1028.16,
+      "lang": "en"
+    },
+    {
+      "text": "yeah that&#39;s not really what I wanted it",
+      "duration": 4.44,
+      "offset": 1030.92,
+      "lang": "en"
+    },
+    {
+      "text": "became a little bit too cartoony and so",
+      "duration": 5.04,
+      "offset": 1033.2,
+      "lang": "en"
+    },
+    {
+      "text": "on so I chose in the end this guy in",
+      "duration": 5.58,
+      "offset": 1035.36,
+      "lang": "en"
+    },
+    {
+      "text": "here and I decided to try to make his",
+      "duration": 5.4,
+      "offset": 1038.24,
+      "lang": "en"
+    },
+    {
+      "text": "face in Photoshop look a little bit more",
+      "duration": 5.94,
+      "offset": 1040.94,
+      "lang": "en"
+    },
+    {
+      "text": "metallic and yeah I know it looks a bit",
+      "duration": 4.92,
+      "offset": 1043.64,
+      "lang": "en"
+    },
+    {
+      "text": "more like a zombie that&#39;s actually not",
+      "duration": 3.72,
+      "offset": 1046.88,
+      "lang": "en"
+    },
+    {
+      "text": "really what I wanted to you can also see",
+      "duration": 4.26,
+      "offset": 1048.56,
+      "lang": "en"
+    },
+    {
+      "text": "this hand here is kind of screwed up so",
+      "duration": 4.32,
+      "offset": 1050.6,
+      "lang": "en"
+    },
+    {
+      "text": "it looks like there&#39;s a finger missing",
+      "duration": 4.8,
+      "offset": 1052.82,
+      "lang": "en"
+    },
+    {
+      "text": "and so on so in the end I decided to use",
+      "duration": 4.62,
+      "offset": 1054.92,
+      "lang": "en"
+    },
+    {
+      "text": "this guy I tried a little bit to",
+      "duration": 4.26,
+      "offset": 1057.62,
+      "lang": "en"
+    },
+    {
+      "text": "generate different kind of guys in here",
+      "duration": 4.62,
+      "offset": 1059.54,
+      "lang": "en"
+    },
+    {
+      "text": "different kind of robots and I try to",
+      "duration": 5.4,
+      "offset": 1061.88,
+      "lang": "en"
+    },
+    {
+      "text": "make his eyes green and glowing but for",
+      "duration": 5.04,
+      "offset": 1064.16,
+      "lang": "en"
+    },
+    {
+      "text": "some reason he decided to make the whole",
+      "duration": 5.04,
+      "offset": 1067.28,
+      "lang": "en"
+    },
+    {
+      "text": "character here glowing and yeah I tried",
+      "duration": 5.52,
+      "offset": 1069.2,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit more around different kind",
+      "duration": 5.46,
+      "offset": 1072.32,
+      "lang": "en"
+    },
+    {
+      "text": "of variations and so on and in the end I",
+      "duration": 5.34,
+      "offset": 1074.72,
+      "lang": "en"
+    },
+    {
+      "text": "just called it a day and just took one",
+      "duration": 4.26,
+      "offset": 1077.78,
+      "lang": "en"
+    },
+    {
+      "text": "of those characters in here and then",
+      "duration": 4.86,
+      "offset": 1080.06,
+      "lang": "en"
+    },
+    {
+      "text": "basically just tried to refine it from",
+      "duration": 4.98,
+      "offset": 1082.04,
+      "lang": "en"
+    },
+    {
+      "text": "there because I started to get some",
+      "duration": 4.14,
+      "offset": 1084.92,
+      "lang": "en"
+    },
+    {
+      "text": "really weird results as you can see down",
+      "duration": 3.06,
+      "offset": 1087.02,
+      "lang": "en"
+    },
+    {
+      "text": "here",
+      "duration": 3.12,
+      "offset": 1089.06,
+      "lang": "en"
+    },
+    {
+      "text": "so then in the end I took all of those",
+      "duration": 4.14,
+      "offset": 1090.08,
+      "lang": "en"
+    },
+    {
+      "text": "elements and I threw it in Photoshop in",
+      "duration": 5.34,
+      "offset": 1092.18,
+      "lang": "en"
+    },
+    {
+      "text": "order to create my composition and for",
+      "duration": 5.94,
+      "offset": 1094.22,
+      "lang": "en"
+    },
+    {
+      "text": "this guy here originally I had a plan to",
+      "duration": 5.22,
+      "offset": 1097.52,
+      "lang": "en"
+    },
+    {
+      "text": "have like some sci-fi robots something",
+      "duration": 4.62,
+      "offset": 1100.16,
+      "lang": "en"
+    },
+    {
+      "text": "very clean and Polished in order to",
+      "duration": 4.86,
+      "offset": 1102.74,
+      "lang": "en"
+    },
+    {
+      "text": "resemble some kind of advanced AI but",
+      "duration": 4.86,
+      "offset": 1104.78,
+      "lang": "en"
+    },
+    {
+      "text": "somehow I really like this character",
+      "duration": 4.44,
+      "offset": 1107.6,
+      "lang": "en"
+    },
+    {
+      "text": "here I said even though he looks",
+      "duration": 4.2,
+      "offset": 1109.64,
+      "lang": "en"
+    },
+    {
+      "text": "extremely like a zombie with these kind",
+      "duration": 3.9,
+      "offset": 1112.04,
+      "lang": "en"
+    },
+    {
+      "text": "of rotten teeth in here so I try to",
+      "duration": 4.44,
+      "offset": 1113.84,
+      "lang": "en"
+    },
+    {
+      "text": "compensate this a little bit by just",
+      "duration": 4.2,
+      "offset": 1115.94,
+      "lang": "en"
+    },
+    {
+      "text": "making his skin a little bit more",
+      "duration": 4.5,
+      "offset": 1118.28,
+      "lang": "en"
+    },
+    {
+      "text": "silvery and I also had to replace the",
+      "duration": 5.04,
+      "offset": 1120.14,
+      "lang": "en"
+    },
+    {
+      "text": "hand from a different image because the",
+      "duration": 4.68,
+      "offset": 1122.78,
+      "lang": "en"
+    },
+    {
+      "text": "original hand in this image here was",
+      "duration": 4.92,
+      "offset": 1125.18,
+      "lang": "en"
+    },
+    {
+      "text": "missing a finger and I guess this one is",
+      "duration": 4.86,
+      "offset": 1127.46,
+      "lang": "en"
+    },
+    {
+      "text": "potentially still missing a finger at",
+      "duration": 3.84,
+      "offset": 1130.1,
+      "lang": "en"
+    },
+    {
+      "text": "least it doesn&#39;t really make sense to",
+      "duration": 3.24,
+      "offset": 1132.32,
+      "lang": "en"
+    },
+    {
+      "text": "hold the pencil like this but it wasn&#39;t",
+      "duration": 3.84,
+      "offset": 1133.94,
+      "lang": "en"
+    },
+    {
+      "text": "so obvious in this picture so I took",
+      "duration": 5.28,
+      "offset": 1135.56,
+      "lang": "en"
+    },
+    {
+      "text": "this one and then I decided to give him",
+      "duration": 5.22,
+      "offset": 1137.78,
+      "lang": "en"
+    },
+    {
+      "text": "some green glowing eyes and then I had",
+      "duration": 4.74,
+      "offset": 1140.84,
+      "lang": "en"
+    },
+    {
+      "text": "mid-journey generate me some lightning",
+      "duration": 5.04,
+      "offset": 1143.0,
+      "lang": "en"
+    },
+    {
+      "text": "strikes and then I also composed them",
+      "duration": 5.66,
+      "offset": 1145.58,
+      "lang": "en"
+    },
+    {
+      "text": "back into the image",
+      "duration": 3.2,
+      "offset": 1148.04,
+      "lang": "en"
+    },
+    {
+      "text": "so at this point I want to try to take a",
+      "duration": 4.56,
+      "offset": 1151.46,
+      "lang": "en"
+    },
+    {
+      "text": "step back and kind of address the big",
+      "duration": 4.38,
+      "offset": 1153.68,
+      "lang": "en"
+    },
+    {
+      "text": "elephant in the room right now and that",
+      "duration": 3.96,
+      "offset": 1156.02,
+      "lang": "en"
+    },
+    {
+      "text": "is the question on how the hell does",
+      "duration": 4.5,
+      "offset": 1158.06,
+      "lang": "en"
+    },
+    {
+      "text": "this AI actually create these kind of",
+      "duration": 4.92,
+      "offset": 1159.98,
+      "lang": "en"
+    },
+    {
+      "text": "images and artificial intelligence is",
+      "duration": 3.72,
+      "offset": 1162.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually not what&#39;s really happening",
+      "duration": 3.66,
+      "offset": 1164.9,
+      "lang": "en"
+    },
+    {
+      "text": "here I think it&#39;s better to refer to it",
+      "duration": 5.28,
+      "offset": 1166.28,
+      "lang": "en"
+    },
+    {
+      "text": "as machine learning so by definition the",
+      "duration": 5.34,
+      "offset": 1168.56,
+      "lang": "en"
+    },
+    {
+      "text": "machine is only as good as all of the",
+      "duration": 4.68,
+      "offset": 1171.56,
+      "lang": "en"
+    },
+    {
+      "text": "data that has been fed into it so the",
+      "duration": 4.32,
+      "offset": 1173.9,
+      "lang": "en"
+    },
+    {
+      "text": "big question is where does all of this",
+      "duration": 3.84,
+      "offset": 1176.24,
+      "lang": "en"
+    },
+    {
+      "text": "data actually come from",
+      "duration": 4.2,
+      "offset": 1178.22,
+      "lang": "en"
+    },
+    {
+      "text": "so here you can see two images of wheat",
+      "duration": 3.72,
+      "offset": 1180.08,
+      "lang": "en"
+    },
+    {
+      "text": "fields that are generated using",
+      "duration": 3.78,
+      "offset": 1182.42,
+      "lang": "en"
+    },
+    {
+      "text": "mid-journey and it becomes very obvious",
+      "duration": 4.56,
+      "offset": 1183.8,
+      "lang": "en"
+    },
+    {
+      "text": "where the data to generate these kind of",
+      "duration": 4.44,
+      "offset": 1186.2,
+      "lang": "en"
+    },
+    {
+      "text": "pictures here came from so as their",
+      "duration": 5.04,
+      "offset": 1188.36,
+      "lang": "en"
+    },
+    {
+      "text": "traces of watermarks in the picture we",
+      "duration": 4.62,
+      "offset": 1190.64,
+      "lang": "en"
+    },
+    {
+      "text": "have to assume that the data that was",
+      "duration": 3.6,
+      "offset": 1193.4,
+      "lang": "en"
+    },
+    {
+      "text": "used to generate these kind of pictures",
+      "duration": 4.44,
+      "offset": 1195.26,
+      "lang": "en"
+    },
+    {
+      "text": "came from stock footage websites and",
+      "duration": 4.08,
+      "offset": 1197.0,
+      "lang": "en"
+    },
+    {
+      "text": "these kind of watermarks you will always",
+      "duration": 3.3,
+      "offset": 1199.7,
+      "lang": "en"
+    },
+    {
+      "text": "get if you didn&#39;t really pay for the",
+      "duration": 3.84,
+      "offset": 1201.08,
+      "lang": "en"
+    },
+    {
+      "text": "artwork itself if you just use the free",
+      "duration": 4.2,
+      "offset": 1203.0,
+      "lang": "en"
+    },
+    {
+      "text": "preview and since the data required to",
+      "duration": 4.2,
+      "offset": 1204.92,
+      "lang": "en"
+    },
+    {
+      "text": "train these machines require millions",
+      "duration": 4.5,
+      "offset": 1207.2,
+      "lang": "en"
+    },
+    {
+      "text": "and billions of images those images were",
+      "duration": 4.32,
+      "offset": 1209.12,
+      "lang": "en"
+    },
+    {
+      "text": "taken from everywhere on the internet",
+      "duration": 4.26,
+      "offset": 1211.7,
+      "lang": "en"
+    },
+    {
+      "text": "and in most cases the original artist",
+      "duration": 5.58,
+      "offset": 1213.44,
+      "lang": "en"
+    },
+    {
+      "text": "had no idea that his or her work was",
+      "duration": 5.52,
+      "offset": 1215.96,
+      "lang": "en"
+    },
+    {
+      "text": "being used and he or she never got any",
+      "duration": 4.62,
+      "offset": 1219.02,
+      "lang": "en"
+    },
+    {
+      "text": "compensation for his or her contribution",
+      "duration": 4.68,
+      "offset": 1221.48,
+      "lang": "en"
+    },
+    {
+      "text": "so this and many other ethical questions",
+      "duration": 4.98,
+      "offset": 1223.64,
+      "lang": "en"
+    },
+    {
+      "text": "should be answered and I linked you two",
+      "duration": 3.96,
+      "offset": 1226.16,
+      "lang": "en"
+    },
+    {
+      "text": "different videos that I found online",
+      "duration": 3.48,
+      "offset": 1228.62,
+      "lang": "en"
+    },
+    {
+      "text": "about this topic and I found very",
+      "duration": 3.78,
+      "offset": 1230.12,
+      "lang": "en"
+    },
+    {
+      "text": "interesting so you can check those out",
+      "duration": 4.44,
+      "offset": 1232.1,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to dive a little bit deeper",
+      "duration": 4.74,
+      "offset": 1233.9,
+      "lang": "en"
+    },
+    {
+      "text": "AI companies themselves have no",
+      "duration": 3.42,
+      "offset": 1236.54,
+      "lang": "en"
+    },
+    {
+      "text": "intention to answer these kind of",
+      "duration": 3.6,
+      "offset": 1238.64,
+      "lang": "en"
+    },
+    {
+      "text": "questions and instead wrap everything in",
+      "duration": 4.44,
+      "offset": 1239.96,
+      "lang": "en"
+    },
+    {
+      "text": "marketing friendly words such as the",
+      "duration": 4.86,
+      "offset": 1242.24,
+      "lang": "en"
+    },
+    {
+      "text": "democratization of Art and so on but if",
+      "duration": 4.98,
+      "offset": 1244.4,
+      "lang": "en"
+    },
+    {
+      "text": "you just take one thing away from this",
+      "duration": 4.44,
+      "offset": 1247.1,
+      "lang": "en"
+    },
+    {
+      "text": "video I hope that it&#39;s to be aware that",
+      "duration": 4.02,
+      "offset": 1249.38,
+      "lang": "en"
+    },
+    {
+      "text": "whenever you use these kind of image",
+      "duration": 4.26,
+      "offset": 1251.54,
+      "lang": "en"
+    },
+    {
+      "text": "generators you&#39;re basically using their",
+      "duration": 4.98,
+      "offset": 1253.4,
+      "lang": "en"
+    },
+    {
+      "text": "Collective work of millions of artists",
+      "duration": 5.04,
+      "offset": 1255.8,
+      "lang": "en"
+    },
+    {
+      "text": "worldwide who unwillingly contribute",
+      "duration": 4.38,
+      "offset": 1258.38,
+      "lang": "en"
+    },
+    {
+      "text": "with their work to train this kind of",
+      "duration": 4.8,
+      "offset": 1260.84,
+      "lang": "en"
+    },
+    {
+      "text": "machine and now find themselves in a",
+      "duration": 4.56,
+      "offset": 1262.76,
+      "lang": "en"
+    },
+    {
+      "text": "position where they possibly have to",
+      "duration": 3.66,
+      "offset": 1265.64,
+      "lang": "en"
+    },
+    {
+      "text": "compete against their Collective self",
+      "duration": 4.38,
+      "offset": 1267.32,
+      "lang": "en"
+    },
+    {
+      "text": "and that at least for me is something",
+      "duration": 5.78,
+      "offset": 1269.3,
+      "lang": "en"
+    },
+    {
+      "text": "that I can never ignore",
+      "duration": 3.38,
+      "offset": 1271.7,
+      "lang": "en"
+    },
+    {
+      "text": "so this video here was not really meant",
+      "duration": 3.72,
+      "offset": 1275.3,
+      "lang": "en"
+    },
+    {
+      "text": "as a very detailed tutorial about my",
+      "duration": 3.96,
+      "offset": 1277.16,
+      "lang": "en"
+    },
+    {
+      "text": "journey there already tons of those out",
+      "duration": 4.26,
+      "offset": 1279.02,
+      "lang": "en"
+    },
+    {
+      "text": "there but I just wanted to give you a",
+      "duration": 4.14,
+      "offset": 1281.12,
+      "lang": "en"
+    },
+    {
+      "text": "rough overview about the current state",
+      "duration": 4.02,
+      "offset": 1283.28,
+      "lang": "en"
+    },
+    {
+      "text": "of the technology and now let&#39;s try to",
+      "duration": 4.32,
+      "offset": 1285.26,
+      "lang": "en"
+    },
+    {
+      "text": "wrap this up and answer the question on",
+      "duration": 4.86,
+      "offset": 1287.3,
+      "lang": "en"
+    },
+    {
+      "text": "if AI will take over your job and I",
+      "duration": 4.2,
+      "offset": 1289.58,
+      "lang": "en"
+    },
+    {
+      "text": "think this is very difficult to predict",
+      "duration": 4.68,
+      "offset": 1292.16,
+      "lang": "en"
+    },
+    {
+      "text": "but it depends also a lot on in which",
+      "duration": 5.28,
+      "offset": 1293.78,
+      "lang": "en"
+    },
+    {
+      "text": "kind of area you&#39;re working or what kind",
+      "duration": 3.96,
+      "offset": 1296.84,
+      "lang": "en"
+    },
+    {
+      "text": "of art you&#39;re producing so for example",
+      "duration": 4.2,
+      "offset": 1299.06,
+      "lang": "en"
+    },
+    {
+      "text": "if you work in concept design then image",
+      "duration": 4.86,
+      "offset": 1300.8,
+      "lang": "en"
+    },
+    {
+      "text": "generators even in its current state I",
+      "duration": 4.32,
+      "offset": 1303.26,
+      "lang": "en"
+    },
+    {
+      "text": "would say already pose quite a big",
+      "duration": 4.2,
+      "offset": 1305.66,
+      "lang": "en"
+    },
+    {
+      "text": "threat because they can produce quite",
+      "duration": 4.62,
+      "offset": 1307.58,
+      "lang": "en"
+    },
+    {
+      "text": "good results in a very short amount of",
+      "duration": 4.56,
+      "offset": 1309.86,
+      "lang": "en"
+    },
+    {
+      "text": "time with actually no skills required",
+      "duration": 4.5,
+      "offset": 1312.2,
+      "lang": "en"
+    },
+    {
+      "text": "except typing in a few words and we",
+      "duration": 4.5,
+      "offset": 1314.42,
+      "lang": "en"
+    },
+    {
+      "text": "already had the case where AI generated",
+      "duration": 5.64,
+      "offset": 1316.7,
+      "lang": "en"
+    },
+    {
+      "text": "art won against humans in traditional",
+      "duration": 5.52,
+      "offset": 1318.92,
+      "lang": "en"
+    },
+    {
+      "text": "art competitions so it would be very",
+      "duration": 4.26,
+      "offset": 1322.34,
+      "lang": "en"
+    },
+    {
+      "text": "naive to assume that there would be no",
+      "duration": 4.62,
+      "offset": 1324.44,
+      "lang": "en"
+    },
+    {
+      "text": "implications at all for the future So I",
+      "duration": 4.92,
+      "offset": 1326.6,
+      "lang": "en"
+    },
+    {
+      "text": "myself work in 3D animation lighting",
+      "duration": 5.1,
+      "offset": 1329.06,
+      "lang": "en"
+    },
+    {
+      "text": "rendering and so on and assume that AI",
+      "duration": 5.34,
+      "offset": 1331.52,
+      "lang": "en"
+    },
+    {
+      "text": "will also make its big entrance into",
+      "duration": 4.98,
+      "offset": 1334.16,
+      "lang": "en"
+    },
+    {
+      "text": "this area but at the moment it&#39;s not",
+      "duration": 3.96,
+      "offset": 1336.86,
+      "lang": "en"
+    },
+    {
+      "text": "really clear yet at least from my",
+      "duration": 3.72,
+      "offset": 1339.14,
+      "lang": "en"
+    },
+    {
+      "text": "perspective where this all will lead to",
+      "duration": 3.96,
+      "offset": 1340.82,
+      "lang": "en"
+    },
+    {
+      "text": "I can see that they&#39;re already early",
+      "duration": 4.08,
+      "offset": 1342.86,
+      "lang": "en"
+    },
+    {
+      "text": "attempts to use machine learning for",
+      "duration": 4.2,
+      "offset": 1344.78,
+      "lang": "en"
+    },
+    {
+      "text": "parts of this job such as material",
+      "duration": 4.98,
+      "offset": 1346.94,
+      "lang": "en"
+    },
+    {
+      "text": "generation or 3D modeling but those at",
+      "duration": 4.68,
+      "offset": 1348.98,
+      "lang": "en"
+    },
+    {
+      "text": "least to me still seem to be in its",
+      "duration": 3.9,
+      "offset": 1351.92,
+      "lang": "en"
+    },
+    {
+      "text": "early stages of development also at",
+      "duration": 4.32,
+      "offset": 1353.66,
+      "lang": "en"
+    },
+    {
+      "text": "least in my imagination the amount of",
+      "duration": 4.56,
+      "offset": 1355.82,
+      "lang": "en"
+    },
+    {
+      "text": "data that&#39;s available to train a 3D",
+      "duration": 4.8,
+      "offset": 1357.98,
+      "lang": "en"
+    },
+    {
+      "text": "modeling algorithm is much smaller",
+      "duration": 4.74,
+      "offset": 1360.38,
+      "lang": "en"
+    },
+    {
+      "text": "compared to the data set that software",
+      "duration": 4.98,
+      "offset": 1362.78,
+      "lang": "en"
+    },
+    {
+      "text": "like majority can access so it remains",
+      "duration": 4.26,
+      "offset": 1365.12,
+      "lang": "en"
+    },
+    {
+      "text": "to be seen how well these kind of",
+      "duration": 2.88,
+      "offset": 1367.76,
+      "lang": "en"
+    },
+    {
+      "text": "technologies will actually be",
+      "duration": 3.96,
+      "offset": 1369.38,
+      "lang": "en"
+    },
+    {
+      "text": "implemented in the end so predicting the",
+      "duration": 4.86,
+      "offset": 1370.64,
+      "lang": "en"
+    },
+    {
+      "text": "future is of course extremely difficult",
+      "duration": 5.04,
+      "offset": 1373.34,
+      "lang": "en"
+    },
+    {
+      "text": "and we have no idea about how this",
+      "duration": 4.86,
+      "offset": 1375.5,
+      "lang": "en"
+    },
+    {
+      "text": "technology will evolve in the next",
+      "duration": 4.38,
+      "offset": 1378.38,
+      "lang": "en"
+    },
+    {
+      "text": "months and years at the moment it seems",
+      "duration": 4.62,
+      "offset": 1380.36,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a huge push in order to",
+      "duration": 6.12,
+      "offset": 1382.76,
+      "lang": "en"
+    },
+    {
+      "text": "implement AI in many kind of areas and I",
+      "duration": 6.0,
+      "offset": 1384.98,
+      "lang": "en"
+    },
+    {
+      "text": "think as an artist you are best advised",
+      "duration": 4.1,
+      "offset": 1388.88,
+      "lang": "en"
+    },
+    {
+      "text": "to basically follow this kind of",
+      "duration": 4.92,
+      "offset": 1390.98,
+      "lang": "en"
+    },
+    {
+      "text": "developments and also try to find ways",
+      "duration": 5.02,
+      "offset": 1392.98,
+      "lang": "en"
+    },
+    {
+      "text": "and workflows to integrate this new",
+      "duration": 5.7,
+      "offset": 1395.9,
+      "lang": "en"
+    },
+    {
+      "text": "technology in your work in order to stay",
+      "duration": 5.82,
+      "offset": 1398.0,
+      "lang": "en"
+    },
+    {
+      "text": "competitive at the same time I think",
+      "duration": 4.68,
+      "offset": 1401.6,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s good advice to trust and especially",
+      "duration": 4.8,
+      "offset": 1403.82,
+      "lang": "en"
+    },
+    {
+      "text": "continue developing your own skills",
+      "duration": 4.44,
+      "offset": 1406.28,
+      "lang": "en"
+    },
+    {
+      "text": "because at the moment nobody really",
+      "duration": 3.84,
+      "offset": 1408.62,
+      "lang": "en"
+    },
+    {
+      "text": "knows where this will all lead to",
+      "duration": 4.14,
+      "offset": 1410.72,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s this big hype at the moment but",
+      "duration": 4.02,
+      "offset": 1412.46,
+      "lang": "en"
+    },
+    {
+      "text": "you can see that these kind of",
+      "duration": 4.14,
+      "offset": 1414.86,
+      "lang": "en"
+    },
+    {
+      "text": "Technologies they still have their flaws",
+      "duration": 4.26,
+      "offset": 1416.48,
+      "lang": "en"
+    },
+    {
+      "text": "and they are not perfect in every regard",
+      "duration": 4.74,
+      "offset": 1419.0,
+      "lang": "en"
+    },
+    {
+      "text": "so I think it&#39;s always good to trust in",
+      "duration": 5.4,
+      "offset": 1420.74,
+      "lang": "en"
+    },
+    {
+      "text": "yourself and to try to improve yourself",
+      "duration": 5.6,
+      "offset": 1423.74,
+      "lang": "en"
+    },
+    {
+      "text": "as good as you can",
+      "duration": 3.2,
+      "offset": 1426.14,
+      "lang": "en"
+    }
+  ]
+}

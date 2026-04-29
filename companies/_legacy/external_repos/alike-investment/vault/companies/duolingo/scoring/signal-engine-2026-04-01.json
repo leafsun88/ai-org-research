@@ -1,0 +1,379 @@
+{
+  "date": "2026-04-01",
+  "company": "Duolingo",
+  "old_friend": "Netflix",
+  "source_hash": "ed8c0aacd65de59170074b7186c9a86c",
+  "auto_applied": [
+    {
+      "id": "sig_duol_001",
+      "signal": "CEO战略认知转向：Luis von Ahn公开宣布2026年优先增长而非利润，标志管理层认知模式从效率导向切换为规模导向",
+      "confidence": 100,
+      "significance": "HIGH",
+      "dimensions": [
+        "D1",
+        "D7"
+      ],
+      "delta": {
+        "D1": 0.3,
+        "D7": 0.2
+      },
+      "source": "Duolingo Earnings / Investor Relations",
+      "source_classification": "S5",
+      "key_question": "CEO认知转向是深思熟虑还是被增长压力倒逼？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "CEO公开宣布战略分叉",
+            "管理层认知从利润优先切换为增长优先"
+          ],
+          "missing": [
+            "具体投资领域细节"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "与Netflix长期主义类似",
+            "CEO认知主动切换而非被动应对"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": [
+            "市场对战略转向反应剧烈"
+          ]
+        }
+      },
+      "applied_at": "2026-04-01T12:00:00Z"
+    },
+    {
+      "id": "sig_duol_002",
+      "signal": "AI内容生产效率10x：一年148门新课程超越此前12年总和",
+      "confidence": 100,
+      "significance": "HIGH",
+      "dimensions": [
+        "D5",
+        "D7"
+      ],
+      "delta": {
+        "D5": 0.4,
+        "D7": 0.3
+      },
+      "source": "The Decoder",
+      "source_classification": "S5",
+      "key_question": "AI生成课程的completion rate和NPS是否与人工课程持平？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "2025年148门新课程 vs 此前12年100门",
+            "Birdbrain AI自动化课程设计",
+            "实时个性化"
+          ],
+          "missing": [
+            "质量指标对比"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Netflix内容生产工业化"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "用户报告AI内容质量问题"
+          ]
+        }
+      },
+      "applied_at": "2026-04-01T12:00:00Z"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "sig_duol_003",
+      "signal": "AI-first组织重构：AI使用纳入绩效考核，只有证明无法自动化才批准新增编制",
+      "confidence": 76.5,
+      "significance": "HIGH",
+      "dimensions": [
+        "D3",
+        "D5"
+      ],
+      "delta": {
+        "D3": 0.3,
+        "D5": 0.4
+      },
+      "source": "LinkedIn (CEO Memo)",
+      "source_classification": "S3",
+      "key_question": "AI-first考核实际执行程度？是否影响创新文化？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "CEO备忘录明确宣布",
+            "F-r-A-I-days每周五AI实验",
+            "新增编制需证明无法自动化"
+          ],
+          "missing": [
+            "具体KPI设定"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Netflix数据驱动文化"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "员工反弹导致CEO澄清"
+          ]
+        }
+      },
+      "validation_trigger": "2026-04-30 Q1财报（看AI效率提升数据）"
+    },
+    {
+      "id": "sig_duol_004",
+      "signal": "超90%员工留存率+极高招聘标准：寻找'非凡之处'，出租车司机测试评估品格",
+      "confidence": 70,
+      "significance": "HIGH",
+      "dimensions": [
+        "D6",
+        "D1"
+      ],
+      "delta": {
+        "D6": 0.5,
+        "D1": 0.2
+      },
+      "source": "Duolingo S-1 / The Burnouts Podcast",
+      "source_classification": "S5",
+      "key_question": "AI时代这种人才密度优势能否持续？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "2020年仅4人离职",
+            "出租车司机测试",
+            "工程面试四阶段"
+          ],
+          "missing": [
+            "近期留存率数据"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "Netflix式人才密度哲学"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": [
+            "薪酬仅FAANG 80%"
+          ]
+        }
+      },
+      "validation_trigger": "年度员工留存率报告"
+    }
+  ],
+  "watch": [],
+  "discard": [
+    {
+      "signal": "股价跌至$95（-80%），EPS预期-64% YoY",
+      "reason": "股价/财务指标，非组织信号"
+    }
+  ],
+  "key_questions": [
+    {
+      "id": "kq_duol_001",
+      "question": "Q1 2026 DAU增长率：仍维持30%+（增长投入有效）还是降至<20%（需求疲软）？",
+      "resolves_by": "2026-04-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：基于Q3 2025 DAU同比+36%的强劲势头以及Q4持续的产品迭代节奏，预期Q1 DAU增长率仍可维持在25-30%区间。核心证据：(1)AI驱动的148门新课程大幅扩充内容供给，理论上应支撑用户增长；(2)Max订阅tier的GPT-4深度集成（Explain My Answer采用率65%）提升了付费用户粘性；(3)Chess等新科目带来增量用户。但存在关键矛盾：2026年bookings指引仅10-12%，远低于历史38%+增速，暗示管理层已预判DAU增长向变现的转化效率将下降。缺失数据：Q1实际DAU数据、新用户vs回流用户构成、各地区增长差异。如果Q1 DAU<20%，则说明2025年的增长更多是AI内容扩张的一次性红利而非可持续引擎。验证窗口：2026-04-30 Q1财报，重点关注DAU绝对值是否突破4000万及增速拐点信号",
+      "sources": [
+        "Q3 2025 Earnings",
+        "FY2026 Guidance"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "月活/日活比(MAU/DAU)",
+          "frequency": "月",
+          "green_threshold": "稳定或↓(粘性↑)",
+          "red_threshold": "持续↑(粘性↓)",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "新用户7日留存率",
+          "frequency": "月",
+          "green_threshold": ">45%",
+          "red_threshold": "<35%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "Bookings增速vs DAU增速",
+          "frequency": "季",
+          "green_threshold": "差距<15pp",
+          "red_threshold": "差距>25pp",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "当前评估：基于Q3 2025 DAU同比+36%的强劲势头以及Q4持续的产品迭代节奏，预期Q1 DAU增长率仍可维持在25-30%区间。核心证据：(1)AI驱动的148门新课程大幅扩充内容供给，理论上应支撑用户增长；(2)Max订阅tier的GPT-4深度集成（Explain My Answer采用率65%）提升了付费用户粘性；(3)Chess等新科目带来增量用户。但存在关键矛盾：2026年bookings指引仅10-12%，远低于历史38%+增速，暗示管理层已预判DAU增长向变现的转化效率将下降。缺失数据：Q1实际DAU数据、新用户vs回流用户构成、各地区增长差异。如果Q1 DAU<20%，则说明2025年的增长更多是AI内容扩张的一次性红利而非可持续引擎。验证窗口：2026-04-30 Q1财报，重点关注DAU绝对值是否突破4000万及增速拐点信号",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "[从信号迁移] 2026指引bookings增长10-12%，目标100M DAU by 2028。原信号sig_duol_001中的财务/用户增长指标部分。",
+          "impact": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "kq_duol_002",
+      "question": "AI课程质量与人工课程的差距：completion rate和NPS是否在±5%以内？",
+      "resolves_by": "2026-05-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：AI课程质量整体可接受但存在明确短板，尚未达到与人工课程±5%的目标。正面证据：(1)管理层坚持A/B测试文化，任何影响<1%的变更不予上线，这为质量设定了底线；(2)Birdbrain AI系统实现了课程设计自动化，使一年产出148门课程超越此前12年总和(100门)；(3)实时个性化学习路径是AI独有优势，人工课程无法实现。负面证据：(1)CEO公开承认存在'偶尔微小的质量下降'；(2)AI Adopters Club用户报告AI生成内容存在幻觉(hallucination)和语境缺失问题；(3)语言学习对文化语境的准确性要求极高，AI在此方面的短板可能被低估。关键缺失：completion rate和NPS的AI vs 人工课程对照数据，管理层至今未公开披露。如果AI课程NPS低于人工课程10%+，则148门新课程的战略价值将大打折扣。下一验证点：Q1财报中是否首次披露AI课程质量对比指标，以及Max tier用户的AI功能满意度数据",
+      "sources": [
+        "CEO AI-first memo",
+        "AI Adopters Club reports"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "NPS变化趋势",
+          "frequency": "季",
+          "green_threshold": "持平或↑",
+          "red_threshold": "连续2季↓",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "AI课程completion rate vs 人工课程",
+          "frequency": "月",
+          "green_threshold": "差距<5pp",
+          "red_threshold": "差距>15pp",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "App Store评分",
+          "frequency": "月",
+          "green_threshold": "≥4.7",
+          "red_threshold": "<4.5",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "当前评估：AI课程质量整体可接受但存在明确短板，尚未达到与人工课程±5%的目标。正面证据：(1)管理层坚持A/B测试文化，任何影响<1%的变更不予上线，这为质量设定了底线；(2)Birdbrain AI系统实现了课程设计自动化，使一年产出148门课程超越此前12年总和(100门)；(3)实时个性化学习路径是AI独有优势，人工课程无法实现。负面证据：(1)CEO公开承认存在'偶尔微小的质量下降'；(2)AI Adopters Club用户报告AI生成内容存在幻觉(hallucination)和语境缺失问题；(3)语言学习对文化语境的准确性要求极高，AI在此方面的短板可能被低估。关键缺失：completion rate和NPS的AI vs 人工课程对照数据，管理层至今未公开披露。如果AI课程NPS低于人工课程10%+，则148门新课程的战略价值将大打折扣。下一验证点：Q1财报中是否首次披露AI课程质量对比指标，以及Max tier用户的AI功能满意度数据",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "[从信号迁移] GPT-4深度集成Max tier：Explain My Answer 65%采用率，课程完成率+15%。原watch信号sig_duol_007，属于产品功能发布。",
+          "impact": "supportive"
+        }
+      ]
+    },
+    {
+      "id": "kq_duol_003",
+      "question": "新学科（Math/Music/Chess）的Day-30留存率能否达到语言课程的60%+？",
+      "resolves_by": "2026-05-15",
+      "author": "ai",
+      "evolving_answer": "当前评估：早期信号积极但数据严重不足，无法做出可靠判断。正面证据：(1)Chess上线后成为Duolingo历史上增长最快的科目，说明品牌和分发渠道的跨品类迁移能力存在；(2)Math和Music已整合进主App而非独立应用，降低了用户获取成本；(3)收购NextBeat(音乐教育，$34.5M)显示管理层对新品类的长期投入决心。核心挑战：语言学习的高留存(Day-30约60%+)建立在强烈的功利性动机(职业发展、旅行、移民)之上，而Chess/Math/Music更偏兴趣驱动，动机强度天然更弱。Duolingo的游戏化机制(streak、排行榜、XP)能否在非语言场景中同样有效是未验证假设。关键缺失：各新科目的Day-7/Day-30留存率、每用户日均学习时长、与语言课程的交叉使用率。如果新科目Day-30留存<40%(语言课程的2/3)，则平台化故事的可信度将大幅降低。验证窗口：2026-04-30 Q1财报及CEO对新科目数据的定性评论，2026-05-15可能的产品更新发布",
+      "sources": [
+        "Chess launch data",
+        "Q2 2025 CEO comments"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Chess/Math 30日留存率",
+          "frequency": "月",
+          "green_threshold": ">40%",
+          "red_threshold": "<25%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "新学科用户占比",
+          "frequency": "季",
+          "green_threshold": "持续↑",
+          "red_threshold": "停滞或↓",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "跨学科用户比例",
+          "frequency": "季",
+          "green_threshold": ">20%",
+          "red_threshold": "<10%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "当前评估：早期信号积极但数据严重不足，无法做出可靠判断。正面证据：(1)Chess上线后成为Duolingo历史上增长最快的科目，说明品牌和分发渠道的跨品类迁移能力存在；(2)Math和Music已整合进主App而非独立应用，降低了用户获取成本；(3)收购NextBeat(音乐教育，$34.5M)显示管理层对新品类的长期投入决心。核心挑战：语言学习的高留存(Day-30约60%+)建立在强烈的功利性动机(职业发展、旅行、移民)之上，而Chess/Math/Music更偏兴趣驱动，动机强度天然更弱。Duolingo的游戏化机制(streak、排行榜、XP)能否在非语言场景中同样有效是未验证假设。关键缺失：各新科目的Day-7/Day-30留存率、每用户日均学习时长、与语言课程的交叉使用率。如果新科目Day-30留存<40%(语言课程的2/3)，则平台化故事的可信度将大幅降低。验证窗口：2026-04-30 Q1财报及CEO对新科目数据的定性评论，2026-05-15可能的产品更新发布",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "[从信号迁移] 从语言向通识教育平台扩张：Math/Music已上线，Chess成史上增长最快科目，收购NextBeat $34.5M。原proposal信号sig_duol_005，属于产品扩张/新功能发布。",
+          "impact": "supportive"
+        }
+      ]
+    },
+    {
+      "id": "kq_duol_004",
+      "question": "AI-first转型对人才密度的影响：顶尖工程师是否因'AI替代论'而流失？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：短期可控但中长期存在结构性张力。正面证据：(1)历史人才密度极高——2020年仅4人离职，留存率超90%，在科技行业罕见；(2)招聘标准极严，工程岗四阶段面试+出租车司机测试评估品格，确保文化契合度；(3)CEO在AI-first备忘录引发争议后迅速澄清'仍在以相同速度招聘'，显示对舆论的敏感和纠偏能力。负面证据：(1)合同工裁减10%已发生，虽然CEO区分了合同工和全职员工，但雇主品牌已受到冲击；(2)AI-first考核(使用AI纳入绩效)可能让部分工程师感到自主性被削弱；(3)薪酬仅为FAANG的80%，在AI人才争夺白热化的环境下，使命感驱动的留存策略能否持续存疑。关键缺失：2025-2026年度实际员工留存率、Glassdoor评分变化趋势、关键技术岗位的招聘周期。如果留存率跌破85%或Glassdoor评分跌破4.0，则说明AI-first转型正在侵蚀组织基础。验证时间线较长，需持续跟踪至2026年底年度HR数据披露",
+      "sources": [
+        "CEO clarification",
+        "Glassdoor reviews",
+        "Historical retention data"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Glassdoor评分趋势",
+          "frequency": "季",
+          "green_threshold": "≥4.0且稳定",
+          "red_threshold": "<3.8或连续↓",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "关键岗位招聘周期",
+          "frequency": "季",
+          "green_threshold": "<45天",
+          "red_threshold": ">90天",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "员工留存率",
+          "frequency": "半年",
+          "green_threshold": ">90%",
+          "red_threshold": "<85%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-01",
+          "source": "ai_init",
+          "content": "当前评估：短期可控但中长期存在结构性张力。正面证据：(1)历史人才密度极高——2020年仅4人离职，留存率超90%，在科技行业罕见；(2)招聘标准极严，工程岗四阶段面试+出租车司机测试评估品格，确保文化契合度；(3)CEO在AI-first备忘录引发争议后迅速澄清'仍在以相同速度招聘'，显示对舆论的敏感和纠偏能力。负面证据：(1)合同工裁减10%已发生，虽然CEO区分了合同工和全职员工，但雇主品牌已受到冲击；(2)AI-first考核(使用AI纳入绩效)可能让部分工程师感到自主性被削弱；(3)薪酬仅为FAANG的80%，在AI人才争夺白热化的环境下，使命感驱动的留存策略能否持续存疑。关键缺失：2025-2026年度实际员工留存率、Glassdoor评分变化趋势、关键技术岗位的招聘周期。如果留存率跌破85%或Glassdoor评分跌破4.0，则说明AI-first转型正在侵蚀组织基础。验证时间线较长，需持续跟踪至2026年底年度HR数据披露",
+          "impact": "neutral"
+        }
+      ]
+    }
+  ],
+  "next_catalyst": "2026-04-30 Q1 2026财报（DAU增长率、新科目数据、AI效率指标）"
+}

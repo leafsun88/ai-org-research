@@ -1,0 +1,16 @@
+{
+  "video_id": "J3DWZ60ShzM",
+  "title": "How To Use Midjourney | The ULTIMATE Beginners Guide to Midjourney 2025",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:10:26",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:10:26"
+}

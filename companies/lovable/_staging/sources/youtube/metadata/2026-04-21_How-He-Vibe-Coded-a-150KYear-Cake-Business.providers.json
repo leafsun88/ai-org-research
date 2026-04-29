@@ -1,0 +1,16 @@
+{
+  "video_id": "9m7_OIhJEGM",
+  "title": "How He Vibe Coded a $150K/Year Cake Business",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:16:18",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:16:18"
+}

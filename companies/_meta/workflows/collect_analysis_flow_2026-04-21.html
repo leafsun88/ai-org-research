@@ -1,0 +1,448 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Collect / Analysis Workflow</title>
+  <style>
+    :root {
+      --ink: #172033;
+      --muted: #667085;
+      --paper: #f7f0e4;
+      --card: #fffaf1;
+      --blue: #0c3b66;
+      --cyan: #247995;
+      --green: #5e7d4f;
+      --orange: #b95f31;
+      --red: #983b3f;
+      --line: #c6aa75;
+      --shadow: 0 18px 48px rgba(28, 31, 36, .12);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 15% 0%, rgba(36, 121, 149, .18), transparent 28%),
+        radial-gradient(circle at 84% 8%, rgba(185, 95, 49, .16), transparent 24%),
+        linear-gradient(135deg, #fbf2e3 0%, #f1e5cf 52%, #ecdec3 100%);
+      font-family: "Avenir Next", "Gill Sans", "PingFang SC", "Hiragino Sans GB", sans-serif;
+      line-height: 1.55;
+    }
+
+    header, main {
+      width: min(1420px, 92vw);
+      margin: 0 auto;
+    }
+
+    header { padding: 48px 0 22px; }
+
+    h1 {
+      margin: 0 0 12px;
+      max-width: 980px;
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: .98;
+      letter-spacing: -.045em;
+    }
+
+    .subtitle {
+      max-width: 980px;
+      color: var(--muted);
+      font-size: 17px;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .pill {
+      display: inline-flex;
+      gap: 8px;
+      align-items: center;
+      padding: 7px 11px;
+      border: 1px solid rgba(23, 32, 51, .12);
+      border-radius: 999px;
+      background: rgba(255, 250, 241, .72);
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      background: var(--blue);
+    }
+
+    .dot.script { background: var(--cyan); }
+    .dot.vault { background: var(--green); }
+    .dot.analysis { background: var(--orange); }
+    .dot.legacy { background: var(--red); }
+
+    .workflow {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(170px, 1fr));
+      gap: 14px;
+      align-items: stretch;
+      margin: 24px 0 30px;
+    }
+
+    .lane {
+      padding: 14px;
+      border: 1px solid rgba(23, 32, 51, .12);
+      border-radius: 24px;
+      background: rgba(255, 250, 241, .62);
+      box-shadow: var(--shadow);
+    }
+
+    .lane h2 {
+      margin: 0 0 13px;
+      color: var(--blue);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .16em;
+    }
+
+    .card {
+      margin: 0 0 12px;
+      padding: 14px;
+      border: 1px solid rgba(23, 32, 51, .12);
+      border-left: 6px solid var(--blue);
+      border-radius: 17px;
+      background: var(--card);
+      box-shadow: 0 10px 25px rgba(28, 31, 36, .07);
+    }
+
+    .card.script { border-left-color: var(--cyan); }
+    .card.vault { border-left-color: var(--green); }
+    .card.analysis { border-left-color: var(--orange); }
+    .card.legacy { border-left-color: var(--red); }
+
+    .card h3 {
+      margin: 0 0 7px;
+      font-size: 17px;
+      line-height: 1.18;
+    }
+
+    .card p {
+      margin: 0 0 8px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    code {
+      display: inline-block;
+      padding: 2px 5px;
+      border-radius: 5px;
+      background: rgba(12, 59, 102, .08);
+      color: #0b365d;
+      font-family: "SF Mono", Menlo, Consolas, monospace;
+      font-size: 12px;
+      line-height: 1.35;
+    }
+
+    .arrow {
+      text-align: center;
+      color: var(--line);
+      font-size: 22px;
+      margin: -2px 0 6px;
+    }
+
+    .section {
+      margin: 24px 0;
+      padding: 22px;
+      border: 1px solid rgba(23, 32, 51, .12);
+      border-radius: 26px;
+      background: rgba(255, 250, 241, .72);
+      box-shadow: var(--shadow);
+    }
+
+    .section h2 {
+      margin: 0 0 14px;
+      font-size: 25px;
+      letter-spacing: -.02em;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 16px;
+      background: #fffdf8;
+      font-size: 13px;
+    }
+
+    th, td {
+      padding: 11px 12px;
+      border-bottom: 1px solid rgba(23, 32, 51, .08);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      color: #fff;
+      background: var(--blue);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .12em;
+    }
+
+    tr:last-child td { border-bottom: 0; }
+
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    li { margin: 5px 0; }
+
+    @media (max-width: 1180px) {
+      .workflow { grid-template-columns: repeat(2, minmax(220px, 1fr)); }
+    }
+
+    @media (max-width: 680px) {
+      .workflow { grid-template-columns: 1fr; }
+      header, main { width: min(94vw, 680px); }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Collect 到 Analysis 的项目流程</h1>
+    <p class="subtitle">
+      当前项目只保留四个默认 source：podcast、financials、substack、youtube。通用脚本都在 <code>scripts/discovery/</code>，公司运行产物进入 <code>companies/{slug}/_staging/</code>，正式证据进入 <code>companies/{slug}/vault/</code>，中间研究层由 <code>学习/skills/essence/SKILL.md</code> 负责，分析只从 essence 和高可信原文开始。
+    </p>
+    <div class="legend">
+      <span class="pill"><span class="dot"></span>配置与 skill</span>
+      <span class="pill"><span class="dot script"></span>通用脚本</span>
+      <span class="pill"><span class="dot vault"></span>公司证据库</span>
+      <span class="pill"><span class="dot analysis"></span>分析输出</span>
+      <span class="pill"><span class="dot legacy"></span>归档，不默认调用</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="workflow">
+      <div class="lane">
+        <h2>1. Target</h2>
+        <div class="card">
+          <h3>公司配置</h3>
+          <p><code>config/company_targets.json</code></p>
+          <p>定义 slug、aliases、founders、channels、output_paths。</p>
+        </div>
+        <div class="arrow">↓</div>
+        <div class="card">
+          <h3>读配置层</h3>
+          <p><code>scripts/discovery/target_config.py</code></p>
+          <p>统一解析 target、company root、_staging root、vault source 目录。</p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>2. Collect Skill</h2>
+        <div class="card">
+          <h3>采集入口</h3>
+          <p><code>学习/skills/collect/SKILL.md</code></p>
+          <p>先写关键词宇宙，再跑四个 source，不再默认全网散抓。</p>
+        </div>
+        <div class="arrow">↓</div>
+        <div class="card script">
+          <h3>统一编排</h3>
+          <p><code>scripts/discovery/collect_target.py</code></p>
+          <p>CLI 示例：<code>python3 scripts/discovery/collect_target.py LOVABLE --dry-run</code></p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>3. Generic Scripts</h2>
+        <div class="card script">
+          <h3>Podcast</h3>
+          <p><code>fetch_podcasts.py</code><br><code>fetch_podcast_transcript.py</code></p>
+          <p>关键词、metadata、Groq / DashScope 转录、失败重试。</p>
+        </div>
+        <div class="card script">
+          <h3>Financials</h3>
+          <p><code>fetch_financials.py</code><br><code>fetch_sec_edgar.py</code><br><code>fetch_xbrl.py</code></p>
+          <p>上市公司财务、SEC、年报；私有公司默认跳过。</p>
+        </div>
+        <div class="card script">
+          <h3>Substack / YouTube</h3>
+          <p><code>fetch_web_sources.py</code><br><code>fetch_youtube.py</code></p>
+          <p>复用 podcast query map；YouTube 支持 RapidAPI 和免费 fallback。</p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>4. Staging</h2>
+        <div class="card script">
+          <h3>运行区</h3>
+          <p><code>companies/{slug}/_staging/sources/</code></p>
+          <p>只放脚本中间结果、status、failure、cache，不作为正式分析入口。</p>
+        </div>
+        <div class="card script">
+          <h3>标准分层</h3>
+          <p><code>{source}/metadata/</code><br><code>{source}/transcripts/</code></p>
+          <p>所有 source 都先在 staging 内分清 metadata 和正文。</p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>5. Vault</h2>
+        <div class="card vault">
+          <h3>正式证据库</h3>
+          <p><code>companies/{slug}/vault/</code></p>
+          <p>每个 source 都拆成 metadata / transcripts / essence。</p>
+        </div>
+        <div class="card vault">
+          <h3>同步后材料</h3>
+          <p><code>vault/{source}/metadata/</code><br><code>vault/{source}/transcripts/</code></p>
+          <p>raw transcript 只做核验，不作为最终分析的主要阅读入口。</p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>6. Essence Skill</h2>
+        <div class="card vault">
+          <h3>逐源提炼</h3>
+          <p><code>学习/skills/essence/SKILL.md</code></p>
+          <p>逐段读材料，遇到重要机制、动作、数字、组织信号或业务信息就写一个 insight block。</p>
+        </div>
+        <div class="card vault">
+          <h3>研究中间层</h3>
+          <p><code>vault/{source}/essence/</code></p>
+          <p>一份 source 对应一份 essence；后续分析默认先读这里。</p>
+        </div>
+      </div>
+
+      <div class="lane">
+        <h2>7. Analysis</h2>
+        <div class="card analysis">
+          <h3>分析 skill</h3>
+          <p><code>学习/skills/analysis/SKILL.md</code></p>
+          <p>吸收 alike 框架：业务本质、理想组织形态、Founder 认知、组织动作、业务传导、风险和可证伪点。</p>
+        </div>
+        <div class="card analysis">
+          <h3>最终输出</h3>
+          <p><code>companies/{slug}/analysis/</code></p>
+          <p>source inventory、evidence map、复杂报告、一页分析、500 字版本都落这里。</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <h2>默认调用链</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>阶段</th>
+            <th>入口文件</th>
+            <th>读哪里</th>
+            <th>写哪里</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>关键词宇宙</td>
+            <td><code>fetch_podcasts.py --target TARGET</code></td>
+            <td><code>config/company_targets.json</code></td>
+            <td><code>_staging/sources/podcasts/metadata/_podcast_query_map.md</code></td>
+          </tr>
+          <tr>
+            <td>Podcast metadata</td>
+            <td><code>fetch_podcasts.py</code></td>
+            <td>Apple / RSS / query map</td>
+            <td><code>_staging/sources/podcasts/metadata/</code></td>
+          </tr>
+          <tr>
+            <td>Podcast transcript</td>
+            <td><code>fetch_podcast_transcript.py</code></td>
+            <td><code>_staging/sources/podcasts/metadata/_podcast_episodes*.json</code></td>
+            <td><code>_staging/sources/podcasts/transcripts/</code></td>
+          </tr>
+          <tr>
+            <td>YouTube</td>
+            <td><code>fetch_youtube.py --target TARGET</code></td>
+            <td>podcast query map + target manifest</td>
+            <td><code>_staging/sources/youtube/{metadata,transcripts}/</code></td>
+          </tr>
+          <tr>
+            <td>Substack</td>
+            <td><code>fetch_web_sources.py --target TARGET --channel substack</code></td>
+            <td>podcast query map + target manifest</td>
+            <td><code>_staging/sources/substack/{metadata,transcripts}/</code></td>
+          </tr>
+          <tr>
+            <td>Financials</td>
+            <td><code>fetch_financials.py</code> / SEC scripts</td>
+            <td>ticker / SEC / yfinance</td>
+            <td><code>_staging/sources/financials/{metadata,reports}/</code></td>
+          </tr>
+          <tr>
+            <td>Essence</td>
+            <td><code>学习/skills/essence/SKILL.md</code><br><code>build_transcript_essence_queue.py</code></td>
+            <td><code>vault/{source}/transcripts/</code> / <code>vault/financials/reports/</code></td>
+            <td><code>vault/{source}/essence/</code></td>
+          </tr>
+          <tr>
+            <td>Analysis</td>
+            <td><code>学习/skills/analysis/SKILL.md</code></td>
+            <td><code>vault/*/essence/</code> + 必要原文</td>
+            <td><code>companies/{slug}/analysis/*.md</code></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <h2>保留与精简</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>类型</th>
+            <th>位置</th>
+            <th>默认状态</th>
+            <th>原因</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Active scripts</td>
+            <td><code>scripts/discovery/*.py</code></td>
+            <td>保留</td>
+            <td>通用采集与迁移入口。</td>
+          </tr>
+          <tr>
+            <td>Active skills</td>
+            <td><code>学习/skills/collect/</code><br><code>学习/skills/analysis/</code></td>
+            <td>保留</td>
+            <td>现在只需要采集和分析两条主链。</td>
+          </tr>
+          <tr>
+            <td>Optional sources</td>
+            <td><code>vault/_optional/</code></td>
+            <td>不默认调用</td>
+            <td>official / jobs / social / web 等信息熵高，只有用户点名再抓。</td>
+          </tr>
+          <tr>
+            <td>Legacy skills</td>
+            <td><code>学习/_legacy/skills/</code></td>
+            <td>归档</td>
+            <td>保留旧思路，但不让 agent 默认误调用。</td>
+          </tr>
+          <tr>
+            <td>Legacy scripts / repos</td>
+            <td><code>companies/_legacy/</code></td>
+            <td>归档</td>
+            <td>不删除，保证可追溯；不进入当前 workflow。</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </main>
+</body>
+</html>

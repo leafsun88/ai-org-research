@@ -1,0 +1,21 @@
+{
+  "assignments": [
+    {
+      "id": "assign-20260324-001",
+      "company": "applovin",
+      "dimensions": ["org", "transcripts"],
+      "assignee": "wang",
+      "status": "pending",
+      "due": "2026-03-31",
+      "created": "2026-03-24",
+      "branch": "draft/wang-applovin-ecom-algo",
+      "notes": "组织穿透AppLovin电商算法团队：AXON引擎如何从游戏广告迁移到电商，电商算法团队的组织设计、人员构成、与游戏团队的关系、GenAI创意生成的闭环架构。重点关注：1）电商团队仅15人如何支撑10x TAM扩张 2）AXON predictive power跨领域泛化的组织保障 3）SparkLabs GenAI素材团队的嵌入方式"
+    }
+  ],
+  "stats": {
+    "total": 1,
+    "completed": 0,
+    "in_progress": 0,
+    "pending": 1
+  }
+}

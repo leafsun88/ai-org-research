@@ -1,0 +1,19 @@
+{
+  "slug": "axon",
+  "ticker": "AXON",
+  "collected_at": "2026-04-07 09:22",
+  "total_files": 35,
+  "total_bytes": 162896,
+  "categories": {
+    "news_earnings": 6,
+    "controversy": 4,
+    "ceo_interviews": 4,
+    "deep_analysis": 5,
+    "existing_research": 6,
+    "financials": 3,
+    "reddit": 3,
+    "youtube": 4
+  },
+  "new_files_added": 25,
+  "status": "RICH"
+}

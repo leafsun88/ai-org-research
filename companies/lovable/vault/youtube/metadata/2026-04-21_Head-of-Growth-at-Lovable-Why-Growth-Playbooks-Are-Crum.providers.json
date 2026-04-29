@@ -1,0 +1,16 @@
+{
+  "video_id": "Vc6ij1ilhwc",
+  "title": "Head of Growth at Lovable | Why Growth Playbooks Are Crumbling—and What’s Next",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:16:54",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:16:54"
+}

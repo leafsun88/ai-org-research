@@ -1,0 +1,87 @@
+[
+  {
+    "url": "https://www.productgrowth.blog/p/how-midjourney-hit-500m-arr",
+    "title": "how-midjourney-hit-500m-arr",
+    "provider": "manual_url_file",
+    "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:4",
+    "relevance_score": 7,
+    "relevance_hits": [
+      "Midjourney",
+      "ARR",
+      "newsletter_domain"
+    ],
+    "queries": [
+      "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:4"
+    ],
+    "providers": [
+      "manual_url_file"
+    ]
+  },
+  {
+    "url": "https://geekycuriosity.substack.com/p/creativity-ai-61-midjourney-v8-targets",
+    "title": "creativity-ai-61-midjourney-v8-targets",
+    "provider": "manual_url_file",
+    "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:6",
+    "relevance_score": 7,
+    "relevance_hits": [
+      "Midjourney",
+      "V8",
+      "newsletter_domain"
+    ],
+    "queries": [
+      "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:6"
+    ],
+    "providers": [
+      "manual_url_file"
+    ]
+  },
+  {
+    "url": "https://overtheanthill.substack.com/p/how-did-midjourney-start",
+    "title": "how-did-midjourney-start",
+    "provider": "manual_url_file",
+    "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:5",
+    "relevance_score": 6,
+    "relevance_hits": [
+      "Midjourney",
+      "newsletter_domain"
+    ],
+    "queries": [
+      "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:5"
+    ],
+    "providers": [
+      "manual_url_file"
+    ]
+  },
+  {
+    "url": "https://wokescreen.substack.com/p/the-rise-of-ai-art-what-it-means",
+    "title": "the-rise-of-ai-art-what-it-means",
+    "provider": "manual_url_file",
+    "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:8",
+    "relevance_score": 5,
+    "relevance_hits": [
+      "newsletter_domain"
+    ],
+    "queries": [
+      "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:8"
+    ],
+    "providers": [
+      "manual_url_file"
+    ]
+  },
+  {
+    "url": "https://genbnews.substack.com/p/how-a-company-made-400-million-with",
+    "title": "how-a-company-made-400-million-with",
+    "provider": "manual_url_file",
+    "query": "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:7",
+    "relevance_score": 5,
+    "relevance_hits": [
+      "newsletter_domain"
+    ],
+    "queries": [
+      "companies/midjourney/vault/substack/metadata/manual_urls_2026-04-21.txt:7"
+    ],
+    "providers": [
+      "manual_url_file"
+    ]
+  }
+]

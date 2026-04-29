@@ -1,0 +1,229 @@
+{
+  "version": "1.0",
+  "description": "Alike Investment Data Infra Schema — 信源置信度标签在数据入库时打标，所有下游Skill统一引用",
+
+  "source_credibility": {
+    "description": "信源置信度（Source Credibility）— 判断信息来源的可靠程度",
+    "levels": {
+      "S5": {
+        "label": "客观事实·直接",
+        "description": "客观事实性信源直接导出",
+        "examples": ["官网产品上线", "SEC filing", "GitHub commit数据", "App Store排名", "专利公开记录", "财报披露数据", "公开招聘页面", "产品实测截图"],
+        "weight": 1.0
+      },
+      "S4": {
+        "label": "客观事实·间接",
+        "description": "客观事实性信源间接推导出",
+        "examples": ["招聘页撤下职位→推导人才到位", "AWS用量翻倍→推导大规模训练", "headcount持平+revenue 3x→推导效率提升", "GitHub commit频率+40%→推导AI辅助开发", "专利申报新领域→推导战略转向"],
+        "weight": 1.0
+      },
+      "S3": {
+        "label": "主观一手",
+        "description": "主观一手信源：创始人/管理层/专家直接表述",
+        "examples": ["创始人podcast/演讲/博客", "管理层财报电话会发言", "管理层公开访谈/YouTube", "一手访谈专家观点", "创始人Twitter/社交媒体"],
+        "weight": 1.0
+      },
+      "S2": {
+        "label": "主观二手",
+        "description": "主观二手信源：经过转述/分析的观点",
+        "examples": ["买方投研观点/报告", "媒体深度报道(TechCrunch/TheInformation)", "行业专家评论", "投资人采访中提到", "客户案例报道"],
+        "weight": 0.6
+      },
+      "S1": {
+        "label": "主观三手",
+        "description": "主观三手信源：多重转述/低可靠度来源",
+        "examples": ["卖方投研报告", "自媒体/博主分析", "市场传闻", "匿名论坛(Reddit/知乎匿名)", "未经证实的消息"],
+        "weight": 0.3
+      }
+    }
+  },
+
+  "evidence_dimensionality": {
+    "description": "材料置信度（Evidence Dimensionality）— 判断证据的交叉验证强度",
+    "levels": {
+      "E4": {
+        "label": "多维多源",
+        "description": "多维度 × 多信源交叉验证",
+        "example": "D1(CEO访谈) + D2(关键人事变动) + D7(产品发布) 三个维度、来自podcast+SEC filing+媒体报道三个独立信源，共同指向同一结论",
+        "weight": 1.0
+      },
+      "E3": {
+        "label": "多维单源/单维多源",
+        "description": "多维度×单信源 或 单维度×多信源",
+        "example": "一篇深度访谈同时覆盖D1+D3+D5（多维单源），或 3篇独立报道都提到同一个D7战略变化（单维多源）",
+        "weight": 0.75
+      },
+      "E2": {
+        "label": "单维单源·有据",
+        "description": "单维度 × 单信源，但有具体证据",
+        "example": "一篇报道提到CEO说了某句话，有具体引用",
+        "weight": 0.5
+      },
+      "E1": {
+        "label": "单维单源·无据",
+        "description": "单维度 × 单信源，仅观点无具体证据",
+        "example": "某分析师说这家公司文化很好，但没有具体支撑",
+        "weight": 0.25
+      }
+    }
+  },
+
+  "confidence_formula": {
+    "description": "置信度计算公式：由信源置信度和材料置信度共同决定",
+    "formula": "confidence = S_weight × E_weight × 100%",
+    "examples": [
+      {"case": "S5×E4", "confidence": "100%", "meaning": "多个客观事实从多维度交叉验证"},
+      {"case": "S3×E3", "confidence": "52.5%", "meaning": "创始人发言+多维度覆盖"},
+      {"case": "S2×E2", "confidence": "25%", "meaning": "媒体报道单一观点"},
+      {"case": "S1×E1", "confidence": "7.5%", "meaning": "传闻+无证据，几乎不可用"}
+    ],
+    "thresholds": {
+      "auto_apply": 80,
+      "recommend": 50,
+      "watch": 25,
+      "discard": 10
+    }
+  },
+
+  "schemas": {
+    "company_profile": {
+      "description": "公司主档案 — 基本不变的信息",
+      "path": "vault/companies/{company}/profile.json",
+      "fields": {
+        "name": "string — 公司全名",
+        "ticker": "string — 股票代码（Private/DUOL/SPOT/BILI）",
+        "sector": "string — 行业",
+        "founded": "string — 成立年份",
+        "hq": "string — 总部",
+        "ceo": "string — 现任CEO",
+        "employees": "number — 员工人数（最新）",
+        "market_cap": "string — 市值（最新）",
+        "description": "string — 一句话描述",
+        "business_essence": "string — 业务本质（用于组织适配度判断）",
+        "old_friends_mapping": "object — 与哪些Old Friends关联 {friend: relevance_note}"
+      }
+    },
+
+    "data_entry": {
+      "description": "每条信息的标准格式 — 入库时打标签",
+      "fields": {
+        "id": "string — evt_{date}_{seq}",
+        "timestamp": "string — ISO 8601",
+        "company": "string",
+        "content": "string — 信息内容摘要",
+        "detail": "string — 详细内容（可选）",
+        "source": {
+          "type": "string — podcast/interview/sec-filing/news/blog/social/github/job-posting/product/research-report/expert-call/other",
+          "name": "string — 来源名称",
+          "url": "string — 链接（可选）",
+          "date": "string — 原始发布日期",
+          "author": "string — 作者（可选）"
+        },
+        "credibility": "string — S1-S5",
+        "dimensions": "string[] — 影响的维度 [D1,D2,...,D7,Fit,Biz]",
+        "tags": "string[] — 自由标签",
+        "sentiment": "string — positive/negative/neutral",
+        "significance": "string — high/medium/low"
+      }
+    },
+
+    "historical": {
+      "description": "历史数据 — 按维度组织，时间戳覆盖所有过去",
+      "path": "vault/companies/{company}/historical/",
+      "files": {
+        "org-leadership.json": "D1-D6 相关信息（组织+领导力+文化+人才）",
+        "strategy-biz.json": "D7 + 业务数据 + 财务指标",
+        "competitive.json": "竞争格局 + 行业定位",
+        "events-timeline.json": "关键事件时间线（按时间排序）"
+      }
+    },
+
+    "daily": {
+      "description": "每日爬取 — 过去24小时的新信息",
+      "path": "vault/companies/{company}/daily/{YYYY-MM-DD}.json",
+      "fields": {
+        "date": "string — 爬取日期",
+        "crawl_time": "string — 爬取时间戳",
+        "entries": "data_entry[] — 当日新信息列表",
+        "summary": "string — AI生成的当日摘要"
+      }
+    },
+
+    "scoring": {
+      "description": "打分结果 — 由Invest Brain Skills生成",
+      "path": "vault/companies/{company}/scoring/",
+      "files": {
+        "winner-pattern.json": {
+          "friend": "string — 对标的Old Friend",
+          "scores": "object — {D1: {score, matchRate, evidence[], confidence}, ...}",
+          "alikeScore": "number",
+          "lastUpdated": "string"
+        },
+        "org-inflection.json": {
+          "signals": "array — 组织拐点信号列表",
+          "fourLayerCheck": "object — 四层检验结果",
+          "conviction": "string — HIGH/MEDIUM/LOW/NONE"
+        },
+        "biz-inflection.json": {
+          "signals": "array — 业务拐点信号列表",
+          "conviction": "string — HIGH/MEDIUM/LOW/NONE"
+        }
+      }
+    },
+
+    "calibration": {
+      "description": "校准记忆 — 从人机交互中积累的投资常识，适用于Signal和KQ，由triangulate skill引用",
+      "path": "vault/_calibration/",
+      "files": {
+        "signal-patterns.json": {
+          "description": "信号模式校准库 — 记录'这类信号通常重要/不重要'的经验规则",
+          "entry_format": {
+            "pattern_id": "string — 模式ID（kebab-case）",
+            "pattern": "string — 信号模式描述",
+            "applies_to": "string — signal/kq/both",
+            "default_significance": "string — high/medium/low/noise",
+            "reasoning": "string — 为什么这类信号是这个重要度",
+            "exceptions": [
+              {
+                "condition": "string — 什么情况下升级/降级",
+                "adjust_to": "string — 调整后的重要度",
+                "example": "string — 具体例子"
+              }
+            ],
+            "context_tags": "string[] — 适用的情境标签（如cn-internet, post-ipo, founder-transition）",
+            "learned_from": {
+              "date": "string — 学到这条规则的日期",
+              "conversation_context": "string — 哪次对话中学到的",
+              "human_input": "string — 人类原话"
+            },
+            "stats": {
+              "times_applied": "number — 被引用次数",
+              "times_overridden": "number — 被人类再次override的次数",
+              "accuracy": "number|null — 准确率（如果有后续验证）"
+            }
+          }
+        },
+        "overrides.json": {
+          "description": "人机override记录 — 每次人类说'这个不重要/这个很重要'时记录",
+          "entry_format": {
+            "id": "string",
+            "timestamp": "string",
+            "type": "string — signal/kq",
+            "original_item": "string — 被override的信号/问题描述",
+            "original_significance": "string — AI原始判断",
+            "human_override": "string — 人类调整后的判断",
+            "human_reasoning": "string — 人类的理由（从对话中提取）",
+            "company": "string",
+            "dimensions": "string[]",
+            "generated_pattern": "string|null — 是否已泛化为pattern rule"
+          }
+        }
+      },
+      "learning_rules": {
+        "pattern_generation": "同类信号被override 3次以上 → 自动生成pattern rule",
+        "exception_detection": "即使有downgrade规则，如果新证据触发exception → 升级并提示人类",
+        "decay": "pattern rule 6个月未被引用 → 标记为stale，下次触发时请求人类re-confirm"
+      }
+    }
+  }
+}

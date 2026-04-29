@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.manycoretech.com",
+    "title": "www.manycoretech.com",
+    "source": "www.manycoretech.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.kujiale.com/",
+    "title": "www.kujiale.com",
+    "source": "www.kujiale.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.coohom.com/",
+    "title": "www.coohom.com",
+    "source": "www.coohom.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://blog.coohom.com/",
+    "title": "blog.coohom.com",
+    "source": "blog.coohom.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  },
+  {
+    "url": "https://www.prnewswire.com/news-releases/manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+    "title": "manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+    "source": "www.prnewswire.com",
+    "date": "unknown",
+    "brief": "configured seed for official",
+    "seed": true
+  }
+]

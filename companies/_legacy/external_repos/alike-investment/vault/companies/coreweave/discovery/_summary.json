@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 37,
+  "total_size_kb": 176,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 19,
+    "breakdown": {"c_suite":18,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"sources/founder/httpswwwcoreweavecomblogwe_said_we_would_then_we_did_ceo_end.md","size_kb":6},{"path":"sources/founder/from_perplexity_citation.md","size_kb":6},{"path":"organization/sources/nitin_agrawal/from_perplexity_citation.md","size_kb":6},{"path":"organization/sources/jeffrey_r_baker/extracted_from_citations.md","size_kb":6},{"path":"organization/sources/brian_m_venturo/brian_venturo_coreweave_executive_leadership.md","size_kb":4},{"path":"organization/sources/sandhya_venugopal/httpswwwatomicworkcomai_championssandy_venugopal.md","size_kb":4},{"path":"organization/sources/michael_n_intrator/httpswwwcoreweavecomleadershipmike_intrator.md","size_kb":4},{"path":"organization/sources/peter_salanki/httpswwwcoreweavecomleadershippeter_salanki.md","size_kb":3},{"path":"organization/sources/peter_salanki/peter_salanki_coreweave_executive_leadership.md","size_kb":3},{"path":"_collection_report.md","size_kb":3}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://discord.gg/midjourney",
+    "title": "midjourney",
+    "source": "discord.gg",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/midjourney/",
+    "title": "midjourney",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+    "title": "v8_alpha_is_here",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+    "title": "v81_alpha_is_out",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/midjourney/comments/1lfnlc4/the_game_has_changed_with_midjourney_v7_video/",
+    "title": "the_game_has_changed_with_midjourney_v7_video",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/midjourney/comments/1mx0scp/midjourney_has_become_unusable/",
+    "title": "midjourney_has_become_unusable",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  }
+]

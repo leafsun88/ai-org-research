@@ -1,0 +1,181 @@
+{
+  "ticker": "CURSOR",
+  "company_name": "Cursor (Anysphere Inc.)",
+  "company_type": "private",
+  "generated_at": "2026-04-09 10:00:00",
+  "status": "PASS",
+  "elapsed_seconds": 741.2,
+  "run_started_at": "2026-04-08 20:29:52",
+  "last_supplemented": "2026-04-09",
+  "market_expectations": {
+    "sec_expected": false,
+    "china_relevant": "",
+    "note": "Private company — SEC filings, XBRL, proxy, insider trading data not applicable"
+  },
+  "counts": {
+    "total_files": 85,
+    "new_files_this_run": 15,
+    "earnings_files": 0,
+    "youtube_files": 17,
+    "podcast_files": 19,
+    "xiaoyuzhou_files": 0
+  },
+  "org_readiness": {
+    "founder_voice_ready": true,
+    "org_report_ready": true,
+    "org_structure_ready": true,
+    "high_quality_org_ready": false
+  },
+  "checks": [
+    {
+      "name": "profile_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "profile.md exists",
+      "remediation": null
+    },
+    {
+      "name": "financials_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "financials.md exists (manually supplemented 2026-04-09)",
+      "remediation": null
+    },
+    {
+      "name": "xbrl_output",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A — private company, no XBRL data expected",
+      "remediation": null
+    },
+    {
+      "name": "sec_filings_count",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A — private company, no SEC filings expected",
+      "remediation": null
+    },
+    {
+      "name": "youtube_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "youtube files: 17 (14 original + 3 supplemented 2026-04-09)",
+      "remediation": null
+    },
+    {
+      "name": "podcast_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "podcast files: 19 (15 original + 4 supplemented 2026-04-09)",
+      "remediation": null
+    },
+    {
+      "name": "xiaoyuzhou_applicability",
+      "level": "info",
+      "passed": true,
+      "detail": "非中国相关公司，小宇宙为 0 不视为问题。",
+      "remediation": null
+    },
+    {
+      "name": "report_freshness",
+      "level": "warn",
+      "passed": true,
+      "detail": "_collection_report.md updated 2026-04-09",
+      "remediation": null
+    },
+    {
+      "name": "new_files_this_run",
+      "level": "warn",
+      "passed": true,
+      "detail": "files touched this run: 15 (8 original + 7 supplemented)",
+      "remediation": null
+    },
+    {
+      "name": "summary_generated",
+      "level": "warn",
+      "passed": true,
+      "detail": "_summary.json generated",
+      "remediation": null
+    },
+    {
+      "name": "org_foundation_present",
+      "level": "warn",
+      "passed": true,
+      "detail": "org workspace scaffolded with 4 co-founder profiles",
+      "remediation": null
+    },
+    {
+      "name": "founder_voice_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "founder_voice ready",
+      "remediation": null
+    },
+    {
+      "name": "org_scan_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "org_scan_report=ready, org_structure=ready",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_minimum",
+      "level": "warn",
+      "passed": true,
+      "detail": "minimum org dataset for D1-D7",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_high_quality",
+      "level": "warn",
+      "passed": false,
+      "detail": "high-quality org dataset — need deeper org-scan for non-founder leadership",
+      "remediation": "运行 /founder 和 /org-scan 补充非创始人核心成员（VP Engineering等）"
+    },
+    {
+      "name": "governance_summary_ready",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A — private company, governance via board/investor structure",
+      "remediation": null
+    },
+    {
+      "name": "proxy_filing_present",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A — private company, no proxy filings expected",
+      "remediation": null
+    },
+    {
+      "name": "private_company_data_quality",
+      "level": "warn",
+      "passed": true,
+      "detail": "Private company data coverage: financials(S2-S3), org(4 founders), media(17 YT + 19 podcasts + 16 transcripts + 11 substack + 4 social)",
+      "remediation": null
+    }
+  ],
+  "summary_generation": {
+    "success": true,
+    "returncode": 0,
+    "stdout": "Generated _summary.json",
+    "stderr": ""
+  },
+  "supplement_log": [
+    {
+      "date": "2026-04-09",
+      "action": "manual_supplement",
+      "files_added": [
+        "financials.md",
+        "sources/youtube/2026-04-09_Cursor-3-Agent-First-Workspace-Launch.md",
+        "sources/youtube/2026-04-09_Cursor-Crossroads-Fortune-Deep-Dive.md",
+        "sources/youtube/2026-04-09_Cursor-2B-ARR-Bloomberg-TechCrunch.md",
+        "sources/podcasts/2026-04-02_Cursor-3-Launch-Agent-First-Workspace-Reviews.md",
+        "sources/podcasts/2026-03-21_Fortune-Cursors-Crossroads-Michael-Truell.md",
+        "sources/podcasts/2026-03-02_Bloomberg-TechCrunch-Cursor-2B-ARR.md",
+        "sources/podcasts/2026-03-12_Bloomberg-Cursor-50B-Valuation-Talks.md"
+      ],
+      "source": "WebSearch aggregation",
+      "note": "Supplemented financials + 2026 coverage for private company"
+    }
+  ]
+}

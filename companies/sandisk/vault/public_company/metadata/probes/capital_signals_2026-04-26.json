@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "type": "insider_forms",
+      "count": 92
+    },
+    {
+      "type": "institutional_holders",
+      "count": 25,
+      "source": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings"
+    },
+    {
+      "type": "investor_views_index",
+      "count": 5
+    }
+  ],
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "capital_signals",
+  "updated_at": "2026-04-26T00:28:10"
+}

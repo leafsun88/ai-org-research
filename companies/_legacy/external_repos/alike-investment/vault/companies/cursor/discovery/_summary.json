@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 88,
+  "total_size_kb": 1900,
+  "last_updated": "2026-04-09",
+  "sources": {"youtube":{"count":17,"latest":"2026-04-09_Cursor-2B-ARR-Bloomberg-TechCrunch.md"},"podcasts_transcripts":{"count":16,"latest":"_url_index.json"},"substack_analysis":{"count":13,"latest":"what-cursors-fine-tuned-model-means.md"},"social":{"count":4,"latest":"twitter_x_v2.md"},"news_investigations":{"count":1,"latest":"_url_index.json"}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"sources/podcasts_transcripts/2024-06-10_ICLR-2024--Best-Papers--Talks-Benchmarks-Reasoning--Agents.md","size_kb":265},{"path":"sources/youtube/2026-04-02_Cursor-20-Tutorial-for-Beginners-Full-Course.md","size_kb":157},{"path":"sources/podcasts_transcripts/2025-07-24_20VC-Lovable-Raises-at-2BN--Hits-100M-ARR--Is-Cursor-Worth-2.md","size_kb":91},{"path":"sources/podcasts_transcripts/2025-06-12_20VC-SpaceX-Tesla-Neuralink-Elons-Empire-After-the-Firestorm.md","size_kb":84},{"path":"sources/podcasts_transcripts/2026-03-09_20VC-Inside-Accels-4BN-Growth-Investing-Machine--Cursor-is-D.md","size_kb":69},{"path":"sources/podcasts_transcripts/2023-08-22_Cursorso-The-AI-first-Code-Editor--with-Aman-Sanger-of-Anysp.md","size_kb":63},{"path":"sources/podcasts_transcripts/2025-04-18_OpenAI-baut-Social-Network--ASML--Netflix-Earnings--175m-Fre.md","size_kb":53},{"path":"sources/podcasts_transcripts/2026-03-20_The-Cursor-Story-Four-MIT-Prodigies-Built-a-29-Billion-Codin.md","size_kb":48},{"path":"sources/podcasts_transcripts/2025-11-13_Stocks-Sell-Off-As-More-AI-Tech-Fears-Roil-Investors-Cursor.md","size_kb":48},{"path":"sources/podcasts_transcripts/2025-11-14_AI-Funding-Frenzy-Continues-with-Cursor-Thinking-Machines.md","size_kb":46}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

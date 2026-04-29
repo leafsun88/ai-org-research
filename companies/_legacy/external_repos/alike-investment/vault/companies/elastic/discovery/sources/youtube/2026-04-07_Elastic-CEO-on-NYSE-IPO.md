@@ -1,0 +1,22 @@
+---
+ticker: ESTC
+type: youtube
+title: "Elastic CEO on NYSE IPO"
+channel: "CNBC Television"
+date: 2026-04-07
+url: https://www.youtube.com/watch?v=XSdBWZeXekA
+transcript_method: yt-dlp_subtitle
+language: en
+chars: 4183
+---
+
+# Elastic CEO on NYSE IPO
+
+## 视频信息
+- **频道**: CNBC Television
+- **日期**: 2026-04-07
+- **链接**: https://www.youtube.com/watch?v=XSdBWZeXekA
+
+## 转录全文
+
+an elastic founder and CEO shy been and shy you got to be happy about this yeah I'm very happy that we reach these days but to be honest it's just one day in a journey that we started six years ago and we're embarking all towards the future as well you power search that connects people on tinder connects people with uber drivers you know you're in softbank's technology oh how did you see the opportunity in a market like search Google has dabbled in Enterprise Search and in the past but but moved away from it it's one of those areas that I would think a lot of people would have backed away from and say now that solved yeah I mean our vision ever since I started to try to implement the first search box about 16 years ago or so I saw the power that it brings to users across the wall and you know people feel control in control of their data you know when you open up a browser and you search you're in control of the internet and you browse it we want to bring that capability and that experience to any type of data any type of organization any type of enterprises whenever you're talking about data you're gonna also have to talk about privacy and cyber security important is protecting this data that you have access to and you're helping these companies understand when you think about growing the company we we provide the engine itself for data is being stored and we provide all the security features and all the options for enterprises that adopt us to make sure that the right people have the right access to the data you mentioned a few high profile customers of yours yeah what percentage of revenues are they for you is that a risk no we don't have any concentration we're being used in we have more than 5500 customers across 80 different countries no certain vertical we're just being adopted and users are realizing the power of search that we're bringing to any type of organization and it's a subscription revenue model most of your your revenue comes from subscription so how sticky are those contracts our net expansion rate is more than 130 percent for the last seven quarters and think it just shows that when someone starts to users they start to users more in it within a single project or they find other projects what structures useful for now it's called elastic and that seems appropriate given the way investors have reacted to it the range was here and then it stretched up you know 36 is where at price it's now trading at 70 you have a sense of behind the scenes what that was like for you apparently people got more excited about this as it was starting to happen was it a matter of understanding the technology and its potential what do you think happened here we've been talking to investors over the past two weeks and over the past few months and the story really resonates these investors end up going talking to customers of ours and they are very happy with using our software and very proud of using our software I think that effect just means that people we trust in our company in terms of your expansion does it help at all that your netherlands-based company and not a us-based company when it comes to expanding in places like China and I asked you this because I spoke to the CEO of a chip company who is not based in the US and he said that that was a real advantage that that that company is seen as sort of a neutral third party third country chip company well it probably it might be part of it we have a partnership for example with Alibaba where they provide our software as a service in a lien within China which is great I was there a year ago and we strike a really good partnership but to be honest one of the fascinating thing about our company that people don't know necessarily is that we have employees in 35 different countries we are a very distributed company we started from our open source roots and when we when we spawned founded the company we just hired our friends wherever they are all right shy then and congratulations again on this market debut as all the founders and CEO say just one step along the journey but it's a big step yeah you're gonna get that one in concrete and save it bring it home you

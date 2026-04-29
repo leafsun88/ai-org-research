@@ -1,0 +1,150 @@
+{
+  "ticker": "ANTHROPIC",
+  "generated_at": "2026-04-17T13:43:28",
+  "queries": [
+    "Anthropic Dario Amodei interview",
+    "Anthropic Daniela Amodei interview",
+    "Anthropic Jared Kaplan interview",
+    "Anthropic Jack Clark interview",
+    "Anthropic Claude Code interview",
+    "Anthropic Model Context Protocol MCP interview",
+    "Anthropic Responsible Scaling Policy talk",
+    "Anthropic AI safety Dario Amodei",
+    "Anthropic enterprise AI Claude Code",
+    "Anthropic Economic Index",
+    "Dario Amodei Lex Fridman Anthropic",
+    "Dario Amodei 60 Minutes Anthropic",
+    "Dario Amodei Axios Anthropic Congress",
+    "Daniela Amodei hiring Anthropic"
+  ],
+  "total_records": 20,
+  "success_records": 12,
+  "failure_records": 8,
+  "total_chars": 1520519,
+  "statuses": [
+    {
+      "id": "ugvHCXCOmm4",
+      "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI & Humanity | Lex Fridman Podcast #452",
+      "chars": 325926,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Dario-Amodei-Anthropic-CEO-on-Claude-AGI--the-Futu.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "X0wElHKsbc8",
+      "title": "Anthropic's Responsible Scaling Policy, with Nick Joseph, from the 80,000 Hours Podcast",
+      "chars": 193770,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Anthropics-Responsible-Scaling-Policy-with-Nick-Jo.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "n1E9IZfvGMA",
+      "title": "Dario Amodei — “We are near the end of the exponential”",
+      "chars": 126787,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Dario-Amodei--We-are-near-the-end-of-the-exponenti.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "uAA6PZkek4A",
+      "title": "Daniela and Dario Amodei on Anthropic",
+      "chars": 142321,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Daniela-and-Dario-Amodei-on-Anthropic.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "k-H4nsOTuxU",
+      "title": "Head of Growth (Anthropic):  “Claude is growing itself at this point”",
+      "chars": 123282,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_How-Anthropic-added-11B-in-ARR-in-one-month--Amol.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "BhUyWzf7cWc",
+      "title": "President and Co-Founder Anthropic, Daniela Amodei: AI Hurricane",
+      "chars": 97811,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_President-and-Co-Founder-Anthropic-Daniela-Amodei.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "lIJelwO8yHQ",
+      "title": "How Fast Will A.I. Agents Rip Through the Economy? | The Ezra Klein Show",
+      "chars": 95497,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_How-Fast-Will-AI-Agents-Rip-Through-the-Economy--T.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "We7BZVKbCVw",
+      "title": "Head of Claude Code: What happens after coding is solved | Boris Cherny",
+      "chars": 104233,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Head-of-Claude-Code-What-happens-after-coding-is-s.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "AmdLVWMdjOk",
+      "title": "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic",
+      "chars": 95496,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Boris-Cherny-Creator-of-Claude-Code-On-What-Grew-H.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "BaNXYqcfDyo",
+      "title": "Defending against AI jailbreaks",
+      "error": "no subtitle"
+    },
+    {
+      "id": "IDSAMqip6ms",
+      "title": "The Secrets of Claude Code From the Engineers Who Built It",
+      "chars": 79119,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_The-Secrets-of-Claude-Code-From-the-Engineers-Who.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "mYDSSRS-B5U",
+      "title": "Anthropic CEO Dario Amodei: AI's Potential, OpenAI Rivalry, GenAI Business, Doomerism",
+      "chars": 72972,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Anthropic-CEO-Dario-Amodei-AIs-Potential-OpenAI-Ri.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "68ylaeBbdsg",
+      "title": "The AI Tsunami is Here & Society Isn't Ready | Dario Amodei x Nikhil Kamath | People by WTF",
+      "error": "no subtitle"
+    },
+    {
+      "id": "U1ZMmKMMHgQ",
+      "title": "Jack Clark on AI's Uneven Impact | Conversations with Tyler",
+      "chars": 63305,
+      "file": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/youtube/2026-04-17_Jack-Clark-on-AIs-Uneven-Impact--Conversations-wit.md",
+      "status": "existing_success"
+    },
+    {
+      "id": "no9ACSFUMsU",
+      "title": "Anthropic Thinks AI Might Destroy the Economy. It's Building It Anyway. | Plain English",
+      "error": "no subtitle"
+    },
+    {
+      "id": "tC_3KAyli4U",
+      "title": "Are we ready for human-level AI by 2030? Anthropic's co-founder answers",
+      "error": "no subtitle"
+    },
+    {
+      "id": "om2lIWXLLN4",
+      "title": "Building Anthropic | A conversation with our co-founders",
+      "error": "no subtitle"
+    },
+    {
+      "id": "PQU9o_5rHC4",
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "error": "no subtitle"
+    },
+    {
+      "id": "1PlyV-pf9_M",
+      "title": "Anthropic Economic Index, Virtual Agent Economies, AlterEgo and How People Use ChatGPT",
+      "error": "no subtitle"
+    },
+    {
+      "id": "zEuP4j7Lijs",
+      "title": "The President's Pardon; Anthropic; Chess Boxing | 60 Minutes Full Episodes",
+      "error": "no subtitle"
+    }
+  ]
+}

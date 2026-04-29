@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 35,
+  "total_size_kb": 296,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 21,
+    "breakdown": {"c_suite":14,"board":0,"vp_level":6,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"organization/proxy/2026-03-25_DEF 14A.md","size_kb":149},{"path":"organization/sources/paul_cunningham_phd/httpswwwclaycomdossiercadence_design_systems_executives.md","size_kb":6},{"path":"organization/sources/tarak_ray/httpsmeshprofiletarak_ray.md","size_kb":6},{"path":"_collection_report.md","size_kb":3},{"path":"organization/sources/paul_scannell/httpstheorgcomorgcadence_design_systemsorg_chartpaul_scannel.md","size_kb":2},{"path":"organization/sources/paul_scannell/from_perplexity_citation.md","size_kb":2},{"path":"sources/founder_voice.md","size_kb":1},{"path":"organization/overview/org_structure.md","size_kb":1},{"path":"organization/sources/richard_gu/richard_gu_vp_of_investor_relations_at_cadence_design_system.md","size_kb":1},{"path":"organization/sources/tarak_ray/httpstheorgcomorgcadence_design_systemsorg_charttarak_ray.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

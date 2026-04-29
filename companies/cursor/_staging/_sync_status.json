@@ -1,0 +1,86 @@
+{
+  "research_key": "CURSOR",
+  "channels": {
+    "official": {
+      "copied": 15,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-b.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_careers.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_pricing.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-c.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_cursorcom.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-d.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_series-a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_team.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_changelog.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_cursor-support.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_security.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/_collection_status.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/official/unknown_enterprise.md"
+      ]
+    },
+    "founder_voice": {
+      "copied": 8,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_shadow-workspace.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_prompt-design.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_michael-truell-how-cursor-builds-at-the-speed-of-ai.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_problems-2024.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/unknown_56bda5d0-640c-4f6a-96cf-8b9766a0674a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/founder_voice/_collection_status.json"
+      ]
+    },
+    "web_longform": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/unknown_michael-truell-how-cursor-builds-at-the-speed-of-ai.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/web/_collection_status.json"
+      ]
+    },
+    "enterprise_partnerships": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/_collection_status.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/partnerships/unknown_enterprise.md"
+      ]
+    },
+    "jobs_org": {
+      "copied": 5,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/unknown_careers.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/unknown_team.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/jobs/_collection_status.json"
+      ]
+    },
+    "social_community": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/social/_collection_status.json"
+      ]
+    },
+    "funding_compute": {
+      "copied": 7,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-b.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-c.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-d.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/unknown_series-a.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/cursor/vault/funding/_collection_status.json"
+      ]
+    }
+  }
+}

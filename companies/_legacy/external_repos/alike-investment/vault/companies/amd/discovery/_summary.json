@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 83,
+  "total_size_kb": 5768,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":9,"latest":"2026-03-27_DEF 14A.md"},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 20,
+    "breakdown": {"c_suite":17,"board":0,"vp_level":2,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_xbrl_facts.json","size_kb":3858},{"path":"sources/earnings/2026-03-27_DEF 14A.md","size_kb":149},{"path":"organization/proxy/2026-03-27_DEF 14A.md","size_kb":149},{"path":"sources/earnings/2025-11-05_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-08-06_10-Q.md","size_kb":148},{"path":"sources/earnings/2024-10-30_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-05-07_10-Q.md","size_kb":148},{"path":"sources/earnings/2026-02-04_10-K.md","size_kb":147},{"path":"sources/earnings/2024-01-31_10-K.md","size_kb":147},{"path":"sources/earnings/2023-02-27_10-K.md","size_kb":147}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

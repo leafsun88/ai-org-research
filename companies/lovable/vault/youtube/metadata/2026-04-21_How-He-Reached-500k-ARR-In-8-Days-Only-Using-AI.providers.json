@@ -1,0 +1,16 @@
+{
+  "video_id": "rfsIAqW4D_U",
+  "title": "How He Reached $500k ARR In 8 Days Only Using AI",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:18:39",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:18:39"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Advanced Micro Devices",
+  "ticker": "AMD",
+  "exchange": "NASDAQ",
+  "market_cap": "$150B",
+  "sector": "AI芯片",
+  "category": "NVIDIA类",
+  "note": "GPU+CPU双栈，MI300X",
+  "created": "2026-04-06"
+}

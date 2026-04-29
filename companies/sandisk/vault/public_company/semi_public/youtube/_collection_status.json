@@ -1,0 +1,17 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "youtube",
+  "status": "scaffolded",
+  "queries": [
+    "Sandisk David Goeckeler interview",
+    "SNDK earnings call",
+    "Sandisk investor day presentation",
+    "Western Digital Sandisk spin-off",
+    "Sandisk NAND AI storage demand",
+    "Sandisk data center SSD interview"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": "python3 scripts/discovery/collect_target.py SNDK --channels youtube --skip-transcript --web-max-queries 8",
+  "updated_at": "2026-04-26T09:39:55"
+}

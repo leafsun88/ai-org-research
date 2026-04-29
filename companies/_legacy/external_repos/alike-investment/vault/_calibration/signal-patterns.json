@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "patterns": [
+    {
+      "pattern_id": "cn-postipo-legal-person-change",
+      "pattern": "中国上市公司创始人卸任子公司法人",
+      "applies_to": "signal",
+      "default_significance": "low",
+      "reasoning": "中国互联网公司上市后创始人卸任子公司法人是相对常规的操作，很大程度上是为了规避法律风险，通常不代表实际管理角色变化",
+      "exceptions": [
+        {
+          "condition": "同时伴随CEO辞任或新CEO任命",
+          "adjust_to": "high",
+          "example": "如果陈睿同时辞去集团CEO，那性质完全不同"
+        },
+        {
+          "condition": "短期内密集卸任多个关键子公司 + 其他组织变动信号",
+          "adjust_to": "medium",
+          "example": "陈睿3个月内卸任5个子公司 + 李旎持股超徐逸 + 90后高管上位 = 组合信号"
+        },
+        {
+          "condition": "卸任后未指定明确接班人或接班人资历不足",
+          "adjust_to": "medium",
+          "example": "权力真空风险"
+        }
+      ],
+      "context_tags": ["cn-internet", "post-ipo", "legal-compliance", "founder-transition"],
+      "learned_from": {
+        "date": "2026-04-01",
+        "conversation_context": "Bilibili陈睿案例 - 讨论方案A(9角色) vs 方案B(3模式)时",
+        "human_input": "中国互联网公司上市后创始人卸任子公司法人是一个相对常规的操作，很大程度上就是简单为了规避一些法律风险"
+      },
+      "stats": {
+        "times_applied": 0,
+        "times_overridden": 0,
+        "accuracy": null
+      }
+    }
+  ]
+}

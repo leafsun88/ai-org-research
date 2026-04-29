@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://cursor.com/enterprise",
+    "title": "enterprise",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/enterprise",
+    "title": "enterprise",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/nvidia",
+    "title": "nvidia",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/amplitude",
+    "title": "amplitude",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/money-forward",
+    "title": "money-forward",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/planetscale",
+    "title": "planetscale",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/graphite",
+    "title": "graphite",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  }
+]

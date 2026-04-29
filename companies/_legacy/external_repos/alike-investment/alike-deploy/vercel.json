@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    { "source": "/api/companies", "destination": "/api/companies" },
+    { "source": "/api/scoring/:slug", "destination": "/api/scoring/[slug]" },
+    { "source": "/api/artifacts/:slug", "destination": "/api/artifacts/[slug]" },
+    { "source": "/api/cowork/chat", "destination": "/api/cowork/chat" },
+    { "source": "/api/cowork/submit", "destination": "/api/cowork/submit" },
+    { "source": "/api/generate-signals", "destination": "/api/generate-signals" }
+  ]
+}

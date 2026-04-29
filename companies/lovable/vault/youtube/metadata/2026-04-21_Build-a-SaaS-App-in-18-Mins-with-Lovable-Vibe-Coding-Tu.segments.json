@@ -1,0 +1,2493 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "JQoGbGl9fs4",
+  "url": "https://www.youtube.com/watch?v=JQoGbGl9fs4",
+  "title": "Build a SaaS App in 18 Mins with Lovable! (Vibe Coding Tutorial)",
+  "channel": "Helena Liu",
+  "source_queries": [
+    "Lovable vibe coding"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:14:13",
+  "segments": [
+    {
+      "text": "Have you ever had a brilliant idea for",
+      "duration": 3.68,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "an app, but you have no idea how to",
+      "duration": 3.36,
+      "offset": 2.0,
+      "lang": "en"
+    },
+    {
+      "text": "bring it to life because you don&#39;t know",
+      "duration": 4.56,
+      "offset": 3.84,
+      "lang": "en"
+    },
+    {
+      "text": "how to code? Well, in 2025 and beyond,",
+      "duration": 5.76,
+      "offset": 5.36,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a emergence of vibe coding",
+      "duration": 5.04,
+      "offset": 8.4,
+      "lang": "en"
+    },
+    {
+      "text": "platforms that can do most of the coding",
+      "duration": 5.12,
+      "offset": 11.12,
+      "lang": "en"
+    },
+    {
+      "text": "for you using AI. So, this means that",
+      "duration": 5.36,
+      "offset": 13.44,
+      "lang": "en"
+    },
+    {
+      "text": "you only need to describe to the AI what",
+      "duration": 5.12,
+      "offset": 16.24,
+      "lang": "en"
+    },
+    {
+      "text": "it is that you want to create and the AI",
+      "duration": 5.2,
+      "offset": 18.8,
+      "lang": "en"
+    },
+    {
+      "text": "will go off and code the app for you",
+      "duration": 4.88,
+      "offset": 21.36,
+      "lang": "en"
+    },
+    {
+      "text": "within minutes. I mean, if you told me",
+      "duration": 4.08,
+      "offset": 24.0,
+      "lang": "en"
+    },
+    {
+      "text": "this existed years ago, I would have",
+      "duration": 3.68,
+      "offset": 26.24,
+      "lang": "en"
+    },
+    {
+      "text": "said that this was nothing short of",
+      "duration": 3.92,
+      "offset": 28.08,
+      "lang": "en"
+    },
+    {
+      "text": "sorcery. So, today I&#39;m going to show you",
+      "duration": 4.32,
+      "offset": 29.92,
+      "lang": "en"
+    },
+    {
+      "text": "how to create an app prototype from",
+      "duration": 5.44,
+      "offset": 32.0,
+      "lang": "en"
+    },
+    {
+      "text": "start to finish using lovable. So, the",
+      "duration": 5.6,
+      "offset": 34.24,
+      "lang": "en"
+    },
+    {
+      "text": "first thing is coming up with the idea",
+      "duration": 4.96,
+      "offset": 37.44,
+      "lang": "en"
+    },
+    {
+      "text": "for your application. And a lot of times",
+      "duration": 4.96,
+      "offset": 39.84,
+      "lang": "en"
+    },
+    {
+      "text": "the best way to find successful app",
+      "duration": 5.2,
+      "offset": 42.4,
+      "lang": "en"
+    },
+    {
+      "text": "ideas is from your daily life. Let me",
+      "duration": 5.84,
+      "offset": 44.8,
+      "lang": "en"
+    },
+    {
+      "text": "tell you how I got to my app idea. So",
+      "duration": 5.6,
+      "offset": 47.6,
+      "lang": "en"
+    },
+    {
+      "text": "after me and my fiance got engaged about",
+      "duration": 4.72,
+      "offset": 50.64,
+      "lang": "en"
+    },
+    {
+      "text": "two two and a half months ago, we went",
+      "duration": 4.48,
+      "offset": 53.2,
+      "lang": "en"
+    },
+    {
+      "text": "on a Mediterranean cruise together to",
+      "duration": 4.72,
+      "offset": 55.36,
+      "lang": "en"
+    },
+    {
+      "text": "celebrate our engagement, we went all",
+      "duration": 4.8,
+      "offset": 57.68,
+      "lang": "en"
+    },
+    {
+      "text": "across Greece as well as Italy and had",
+      "duration": 5.28,
+      "offset": 60.08,
+      "lang": "en"
+    },
+    {
+      "text": "an amazing time on Princess Cruises. And",
+      "duration": 5.2,
+      "offset": 62.48,
+      "lang": "en"
+    },
+    {
+      "text": "so one thing that we did notice was the",
+      "duration": 4.88,
+      "offset": 65.36,
+      "lang": "en"
+    },
+    {
+      "text": "economics of cruise lines. So cruises",
+      "duration": 4.64,
+      "offset": 67.68,
+      "lang": "en"
+    },
+    {
+      "text": "actually don&#39;t make that much money from",
+      "duration": 4.4,
+      "offset": 70.24,
+      "lang": "en"
+    },
+    {
+      "text": "the fair itself. It just allows them to",
+      "duration": 4.88,
+      "offset": 72.32,
+      "lang": "en"
+    },
+    {
+      "text": "cover their operating expenses and pay",
+      "duration": 4.96,
+      "offset": 74.64,
+      "lang": "en"
+    },
+    {
+      "text": "for their labor. Where they do make the",
+      "duration": 5.12,
+      "offset": 77.2,
+      "lang": "en"
+    },
+    {
+      "text": "most amount of margin is on the upsells",
+      "duration": 4.72,
+      "offset": 79.6,
+      "lang": "en"
+    },
+    {
+      "text": "that you would buy once you are on the",
+      "duration": 4.56,
+      "offset": 82.32,
+      "lang": "en"
+    },
+    {
+      "text": "ship, such as shore excursions as well",
+      "duration": 5.92,
+      "offset": 84.32,
+      "lang": "en"
+    },
+    {
+      "text": "as massages and other premium services.",
+      "duration": 5.6,
+      "offset": 86.88,
+      "lang": "en"
+    },
+    {
+      "text": "Now, when we were taking a look at shore",
+      "duration": 4.16,
+      "offset": 90.24,
+      "lang": "en"
+    },
+    {
+      "text": "excursions for the various different",
+      "duration": 4.56,
+      "offset": 92.48,
+      "lang": "en"
+    },
+    {
+      "text": "cities that our crews stopped at, we",
+      "duration": 4.56,
+      "offset": 94.4,
+      "lang": "en"
+    },
+    {
+      "text": "realized these shore excursions were",
+      "duration": 4.0,
+      "offset": 97.04,
+      "lang": "en"
+    },
+    {
+      "text": "hundreds of dollars every single day.",
+      "duration": 4.96,
+      "offset": 98.96,
+      "lang": "en"
+    },
+    {
+      "text": "they were severely overpriced and a lot",
+      "duration": 4.48,
+      "offset": 101.04,
+      "lang": "en"
+    },
+    {
+      "text": "of times for a lot of these shore",
+      "duration": 3.68,
+      "offset": 103.92,
+      "lang": "en"
+    },
+    {
+      "text": "excursions all you&#39;re really getting is",
+      "duration": 5.28,
+      "offset": 105.52,
+      "lang": "en"
+    },
+    {
+      "text": "a driver as well as a tour guide. And so",
+      "duration": 5.28,
+      "offset": 107.6,
+      "lang": "en"
+    },
+    {
+      "text": "we realized we would save hundreds of",
+      "duration": 4.32,
+      "offset": 110.8,
+      "lang": "en"
+    },
+    {
+      "text": "dollars every single day. And when you",
+      "duration": 4.48,
+      "offset": 112.88,
+      "lang": "en"
+    },
+    {
+      "text": "add it up for a one to two week cruise",
+      "duration": 3.68,
+      "offset": 115.12,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s thousands of dollars that you can",
+      "duration": 4.72,
+      "offset": 117.36,
+      "lang": "en"
+    },
+    {
+      "text": "save by just being our own tour guide.",
+      "duration": 5.44,
+      "offset": 118.8,
+      "lang": "en"
+    },
+    {
+      "text": "So what we did was we would go on to",
+      "duration": 4.72,
+      "offset": 122.08,
+      "lang": "en"
+    },
+    {
+      "text": "chat GBT at first and say that we are",
+      "duration": 5.04,
+      "offset": 124.24,
+      "lang": "en"
+    },
+    {
+      "text": "going to be in this city from this time",
+      "duration": 5.68,
+      "offset": 126.8,
+      "lang": "en"
+    },
+    {
+      "text": "to this time. So please uh create a taxi",
+      "duration": 5.76,
+      "offset": 129.28,
+      "lang": "en"
+    },
+    {
+      "text": "itinerary or a walking tour itinerary",
+      "duration": 5.12,
+      "offset": 132.48,
+      "lang": "en"
+    },
+    {
+      "text": "for us for that date. So when we&#39;re",
+      "duration": 3.68,
+      "offset": 135.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to cross the Greeks and we&#39;re",
+      "duration": 2.56,
+      "offset": 137.6,
+      "lang": "en"
+    },
+    {
+      "text": "going actually going to the parthonon",
+      "duration": 3.2,
+      "offset": 138.72,
+      "lang": "en"
+    },
+    {
+      "text": "and the parson is actually not just one",
+      "duration": 4.0,
+      "offset": 140.16,
+      "lang": "en"
+    },
+    {
+      "text": "monument. It&#39;s actually like an whole",
+      "duration": 5.44,
+      "offset": 141.92,
+      "lang": "en"
+    },
+    {
+      "text": "city that was buried in ruins. And so",
+      "duration": 5.28,
+      "offset": 144.16,
+      "lang": "en"
+    },
+    {
+      "text": "what we did was we started taking",
+      "duration": 3.92,
+      "offset": 147.36,
+      "lang": "en"
+    },
+    {
+      "text": "pictures of various parts of the",
+      "duration": 4.72,
+      "offset": 149.44,
+      "lang": "en"
+    },
+    {
+      "text": "parthononaut and fed it into our chat",
+      "duration": 6.0,
+      "offset": 151.28,
+      "lang": "en"
+    },
+    {
+      "text": "GPT app and told chat GPT to tell us",
+      "duration": 5.6,
+      "offset": 154.16,
+      "lang": "en"
+    },
+    {
+      "text": "more about the image that it was seeing.",
+      "duration": 5.52,
+      "offset": 157.28,
+      "lang": "en"
+    },
+    {
+      "text": "So essentially we had an AI tour guide",
+      "duration": 6.32,
+      "offset": 159.76,
+      "lang": "en"
+    },
+    {
+      "text": "on demand wherever we went. And so then",
+      "duration": 5.12,
+      "offset": 162.8,
+      "lang": "en"
+    },
+    {
+      "text": "we started thinking okay so this started",
+      "duration": 4.16,
+      "offset": 166.08,
+      "lang": "en"
+    },
+    {
+      "text": "to save us hundreds of dollars. Wouldn&#39;t",
+      "duration": 4.32,
+      "offset": 167.92,
+      "lang": "en"
+    },
+    {
+      "text": "it be great if we can create an app",
+      "duration": 4.24,
+      "offset": 170.24,
+      "lang": "en"
+    },
+    {
+      "text": "around this to make it easier for people",
+      "duration": 3.92,
+      "offset": 172.24,
+      "lang": "en"
+    },
+    {
+      "text": "to use so that they don&#39;t have to keep",
+      "duration": 5.04,
+      "offset": 174.48,
+      "lang": "en"
+    },
+    {
+      "text": "prompting the AI to create a AI tour",
+      "duration": 5.44,
+      "offset": 176.16,
+      "lang": "en"
+    },
+    {
+      "text": "guide like this whenever they are on a",
+      "duration": 4.88,
+      "offset": 179.52,
+      "lang": "en"
+    },
+    {
+      "text": "shore excursion. And so this is where",
+      "duration": 6.0,
+      "offset": 181.6,
+      "lang": "en"
+    },
+    {
+      "text": "the idea of surely came about. So this",
+      "duration": 6.08,
+      "offset": 184.4,
+      "lang": "en"
+    },
+    {
+      "text": "is an AI companion that cruise ship gas",
+      "duration": 5.44,
+      "offset": 187.6,
+      "lang": "en"
+    },
+    {
+      "text": "can take with them and basically design",
+      "duration": 5.04,
+      "offset": 190.48,
+      "lang": "en"
+    },
+    {
+      "text": "their own shore is corrosion and save",
+      "duration": 4.56,
+      "offset": 193.04,
+      "lang": "en"
+    },
+    {
+      "text": "hundreds or thousands of dollars on",
+      "duration": 4.88,
+      "offset": 195.52,
+      "lang": "en"
+    },
+    {
+      "text": "their trips. Now once we got this idea",
+      "duration": 5.04,
+      "offset": 197.6,
+      "lang": "en"
+    },
+    {
+      "text": "ready then the next thing is to write",
+      "duration": 4.88,
+      "offset": 200.4,
+      "lang": "en"
+    },
+    {
+      "text": "the prompt that will tell the AI exactly",
+      "duration": 4.72,
+      "offset": 202.64,
+      "lang": "en"
+    },
+    {
+      "text": "what we wanted to create. Now you can",
+      "duration": 4.08,
+      "offset": 205.28,
+      "lang": "en"
+    },
+    {
+      "text": "absolutely just type in the prompt",
+      "duration": 4.64,
+      "offset": 207.36,
+      "lang": "en"
+    },
+    {
+      "text": "yourself or you can actually use AI to",
+      "duration": 5.28,
+      "offset": 209.36,
+      "lang": "en"
+    },
+    {
+      "text": "write the prompt for you. So I have my",
+      "duration": 5.68,
+      "offset": 212.0,
+      "lang": "en"
+    },
+    {
+      "text": "chat GPT open here and now I can put in",
+      "duration": 5.52,
+      "offset": 214.64,
+      "lang": "en"
+    },
+    {
+      "text": "my prompt for the AI to write a prompt",
+      "duration": 5.72,
+      "offset": 217.68,
+      "lang": "en"
+    },
+    {
+      "text": "for me.",
+      "duration": 3.24,
+      "offset": 220.16,
+      "lang": "en"
+    },
+    {
+      "text": "All right, I just put in my prompt here",
+      "duration": 5.6,
+      "offset": 242.96,
+      "lang": "en"
+    },
+    {
+      "text": "into chat GBT. I told it that I want",
+      "duration": 6.8,
+      "offset": 245.28,
+      "lang": "en"
+    },
+    {
+      "text": "chatbt to write a detailed prompt for me",
+      "duration": 7.6,
+      "offset": 248.56,
+      "lang": "en"
+    },
+    {
+      "text": "for this app. And basically, this app",
+      "duration": 6.88,
+      "offset": 252.08,
+      "lang": "en"
+    },
+    {
+      "text": "will allow the user to open their camera",
+      "duration": 4.88,
+      "offset": 256.16,
+      "lang": "en"
+    },
+    {
+      "text": "and basically point at whatever they are",
+      "duration": 4.24,
+      "offset": 258.96,
+      "lang": "en"
+    },
+    {
+      "text": "seeing. and the AI will tell them more",
+      "duration": 4.72,
+      "offset": 261.04,
+      "lang": "en"
+    },
+    {
+      "text": "about the site or the monument that",
+      "duration": 4.72,
+      "offset": 263.2,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re looking at or they can upload a",
+      "duration": 4.72,
+      "offset": 265.76,
+      "lang": "en"
+    },
+    {
+      "text": "picture of the scenery and the AI can",
+      "duration": 4.8,
+      "offset": 267.92,
+      "lang": "en"
+    },
+    {
+      "text": "tell them more by having image",
+      "duration": 4.48,
+      "offset": 270.48,
+      "lang": "en"
+    },
+    {
+      "text": "recognition. The AI should also be able",
+      "duration": 5.68,
+      "offset": 272.72,
+      "lang": "en"
+    },
+    {
+      "text": "to design a travel itinerary for them.",
+      "duration": 6.08,
+      "offset": 274.96,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so after that is done, we can see",
+      "duration": 7.28,
+      "offset": 278.4,
+      "lang": "en"
+    },
+    {
+      "text": "that the AI has actually been able to",
+      "duration": 7.6,
+      "offset": 281.04,
+      "lang": "en"
+    },
+    {
+      "text": "write our prompt for us. So I&#39;m just",
+      "duration": 4.56,
+      "offset": 285.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to copy this. And now I&#39;m going to",
+      "duration": 4.72,
+      "offset": 288.64,
+      "lang": "en"
+    },
+    {
+      "text": "go into Lovable and paste all of this",
+      "duration": 4.96,
+      "offset": 290.24,
+      "lang": "en"
+    },
+    {
+      "text": "in. So one thing to note is that there",
+      "duration": 4.16,
+      "offset": 293.36,
+      "lang": "en"
+    },
+    {
+      "text": "is a free and paid version of Lovable.",
+      "duration": 5.44,
+      "offset": 295.2,
+      "lang": "en"
+    },
+    {
+      "text": "If you are on the free version, then",
+      "duration": 5.04,
+      "offset": 297.52,
+      "lang": "en"
+    },
+    {
+      "text": "whatever it is that you&#39;re creating will",
+      "duration": 5.28,
+      "offset": 300.64,
+      "lang": "en"
+    },
+    {
+      "text": "be public. The only way to make you know",
+      "duration": 5.6,
+      "offset": 302.56,
+      "lang": "en"
+    },
+    {
+      "text": "whatever app you&#39;re creating private is",
+      "duration": 6.08,
+      "offset": 305.92,
+      "lang": "en"
+    },
+    {
+      "text": "to go on to their paid plan. And after I",
+      "duration": 6.16,
+      "offset": 308.16,
+      "lang": "en"
+    },
+    {
+      "text": "have put in all my prompt, I can see",
+      "duration": 5.44,
+      "offset": 312.0,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable is starting to spin up a",
+      "duration": 5.76,
+      "offset": 314.32,
+      "lang": "en"
+    },
+    {
+      "text": "preview. Now, lovable is similar to",
+      "duration": 4.88,
+      "offset": 317.44,
+      "lang": "en"
+    },
+    {
+      "text": "other vibe coding platforms that I have",
+      "duration": 4.48,
+      "offset": 320.08,
+      "lang": "en"
+    },
+    {
+      "text": "featured on this channel like Firebase",
+      "duration": 5.04,
+      "offset": 322.32,
+      "lang": "en"
+    },
+    {
+      "text": "and like Bolt and Replet as well. And",
+      "duration": 5.28,
+      "offset": 324.56,
+      "lang": "en"
+    },
+    {
+      "text": "what it does well here is that it can",
+      "duration": 4.56,
+      "offset": 327.36,
+      "lang": "en"
+    },
+    {
+      "text": "link to Superbask which is their",
+      "duration": 5.52,
+      "offset": 329.84,
+      "lang": "en"
+    },
+    {
+      "text": "back-end system which allows you to have",
+      "duration": 6.4,
+      "offset": 331.92,
+      "lang": "en"
+    },
+    {
+      "text": "a database for user registrations and",
+      "duration": 5.6,
+      "offset": 335.36,
+      "lang": "en"
+    },
+    {
+      "text": "authentications. It is a separate",
+      "duration": 4.72,
+      "offset": 338.32,
+      "lang": "en"
+    },
+    {
+      "text": "account. So, if you just go up here, you",
+      "duration": 3.84,
+      "offset": 340.96,
+      "lang": "en"
+    },
+    {
+      "text": "can click on uh connect to your",
+      "duration": 4.08,
+      "offset": 343.04,
+      "lang": "en"
+    },
+    {
+      "text": "superbass account. You can also",
+      "duration": 5.52,
+      "offset": 344.8,
+      "lang": "en"
+    },
+    {
+      "text": "integrate this into your GitHub as well.",
+      "duration": 5.52,
+      "offset": 347.12,
+      "lang": "en"
+    },
+    {
+      "text": "Either way, you&#39;ll be able to have a",
+      "duration": 4.56,
+      "offset": 350.32,
+      "lang": "en"
+    },
+    {
+      "text": "prototype ready to launch within a few",
+      "duration": 5.12,
+      "offset": 352.64,
+      "lang": "en"
+    },
+    {
+      "text": "hours so that you can see if your MVP",
+      "duration": 5.44,
+      "offset": 354.88,
+      "lang": "en"
+    },
+    {
+      "text": "even generates any buzz, if you&#39;re even",
+      "duration": 4.88,
+      "offset": 357.76,
+      "lang": "en"
+    },
+    {
+      "text": "on the right track. Because a lot of",
+      "duration": 4.32,
+      "offset": 360.32,
+      "lang": "en"
+    },
+    {
+      "text": "times it&#39;s not the tech that holds",
+      "duration": 4.32,
+      "offset": 362.64,
+      "lang": "en"
+    },
+    {
+      "text": "people back from developing and",
+      "duration": 4.32,
+      "offset": 364.64,
+      "lang": "en"
+    },
+    {
+      "text": "launching a successful app. It&#39;s the",
+      "duration": 4.32,
+      "offset": 366.96,
+      "lang": "en"
+    },
+    {
+      "text": "idea. It&#39;s the business behind it,",
+      "duration": 5.44,
+      "offset": 368.96,
+      "lang": "en"
+    },
+    {
+      "text": "right? So coming up with the idea is",
+      "duration": 5.68,
+      "offset": 371.28,
+      "lang": "en"
+    },
+    {
+      "text": "probably more essential than the process",
+      "duration": 5.44,
+      "offset": 374.4,
+      "lang": "en"
+    },
+    {
+      "text": "of building the app itself. So for me",
+      "duration": 5.44,
+      "offset": 376.96,
+      "lang": "en"
+    },
+    {
+      "text": "for example, I looked at what I was",
+      "duration": 5.04,
+      "offset": 379.84,
+      "lang": "en"
+    },
+    {
+      "text": "using in my personal life and then I",
+      "duration": 5.52,
+      "offset": 382.4,
+      "lang": "en"
+    },
+    {
+      "text": "came up with this idea for the app. And",
+      "duration": 5.2,
+      "offset": 384.88,
+      "lang": "en"
+    },
+    {
+      "text": "so take a look at what you&#39;re already",
+      "duration": 4.64,
+      "offset": 387.92,
+      "lang": "en"
+    },
+    {
+      "text": "doing in your industry, in your job, in",
+      "duration": 4.4,
+      "offset": 390.08,
+      "lang": "en"
+    },
+    {
+      "text": "your daily life that&#39;s not as efficient",
+      "duration": 4.16,
+      "offset": 392.56,
+      "lang": "en"
+    },
+    {
+      "text": "as possible. And those are the best",
+      "duration": 5.2,
+      "offset": 394.48,
+      "lang": "en"
+    },
+    {
+      "text": "places to come up with the app idea.",
+      "duration": 5.04,
+      "offset": 396.72,
+      "lang": "en"
+    },
+    {
+      "text": "Also, your app doesn&#39;t have to integrate",
+      "duration": 4.32,
+      "offset": 399.68,
+      "lang": "en"
+    },
+    {
+      "text": "AI. Like, we&#39;re using AI to write the",
+      "duration": 4.48,
+      "offset": 401.76,
+      "lang": "en"
+    },
+    {
+      "text": "code, but the app itself does not have",
+      "duration": 4.96,
+      "offset": 404.0,
+      "lang": "en"
+    },
+    {
+      "text": "to be an AI application. All right, so",
+      "duration": 4.4,
+      "offset": 406.24,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s wait a couple minutes here and",
+      "duration": 4.08,
+      "offset": 408.96,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll be back once the first preview for",
+      "duration": 5.84,
+      "offset": 410.64,
+      "lang": "en"
+    },
+    {
+      "text": "the Lovable app spins up.",
+      "duration": 5.44,
+      "offset": 413.04,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so it&#39;s been about a minute or two",
+      "duration": 4.56,
+      "offset": 416.48,
+      "lang": "en"
+    },
+    {
+      "text": "and the first version of our app is",
+      "duration": 4.88,
+      "offset": 418.48,
+      "lang": "en"
+    },
+    {
+      "text": "already spun up. And then you can see",
+      "duration": 5.04,
+      "offset": 421.04,
+      "lang": "en"
+    },
+    {
+      "text": "that I can also upload my photos here.",
+      "duration": 5.84,
+      "offset": 423.36,
+      "lang": "en"
+    },
+    {
+      "text": "Now it doesn&#39;t have the itinerary that",
+      "duration": 5.28,
+      "offset": 426.08,
+      "lang": "en"
+    },
+    {
+      "text": "we can also upload. And also we can see",
+      "duration": 4.24,
+      "offset": 429.2,
+      "lang": "en"
+    },
+    {
+      "text": "here that there is an error in the",
+      "duration": 5.2,
+      "offset": 431.36,
+      "lang": "en"
+    },
+    {
+      "text": "build. So let&#39;s get this error fixed.",
+      "duration": 5.84,
+      "offset": 433.44,
+      "lang": "en"
+    },
+    {
+      "text": "And I&#39;m also going to ask it to add a",
+      "duration": 7.08,
+      "offset": 436.56,
+      "lang": "en"
+    },
+    {
+      "text": "different tab for the itinerary.",
+      "duration": 4.36,
+      "offset": 439.28,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. It looks like um after I just",
+      "duration": 5.36,
+      "offset": 449.52,
+      "lang": "en"
+    },
+    {
+      "text": "clicked on fix error, it has fixed the",
+      "duration": 5.36,
+      "offset": 451.68,
+      "lang": "en"
+    },
+    {
+      "text": "error in the app by itself. And now I",
+      "duration": 4.4,
+      "offset": 454.88,
+      "lang": "en"
+    },
+    {
+      "text": "can just go back and forth with lovable",
+      "duration": 5.6,
+      "offset": 457.04,
+      "lang": "en"
+    },
+    {
+      "text": "to uh create the app that I want. So I",
+      "duration": 5.36,
+      "offset": 459.28,
+      "lang": "en"
+    },
+    {
+      "text": "told it here to add in a second tab",
+      "duration": 4.88,
+      "offset": 462.64,
+      "lang": "en"
+    },
+    {
+      "text": "where the user can enter in the city as",
+      "duration": 4.72,
+      "offset": 464.64,
+      "lang": "en"
+    },
+    {
+      "text": "well as the date and time that they are",
+      "duration": 4.88,
+      "offset": 467.52,
+      "lang": "en"
+    },
+    {
+      "text": "there so that the AI can generate a",
+      "duration": 6.4,
+      "offset": 469.36,
+      "lang": "en"
+    },
+    {
+      "text": "custom itinerary for them. And now the",
+      "duration": 6.16,
+      "offset": 472.4,
+      "lang": "en"
+    },
+    {
+      "text": "lovable app is going back and",
+      "duration": 6.24,
+      "offset": 475.76,
+      "lang": "en"
+    },
+    {
+      "text": "regenerating another version of this app",
+      "duration": 5.28,
+      "offset": 478.56,
+      "lang": "en"
+    },
+    {
+      "text": "for us. Some other things I can show you",
+      "duration": 3.68,
+      "offset": 482.0,
+      "lang": "en"
+    },
+    {
+      "text": "here is that you can actually invite",
+      "duration": 3.84,
+      "offset": 483.84,
+      "lang": "en"
+    },
+    {
+      "text": "other team members to join you on this",
+      "duration": 4.72,
+      "offset": 485.68,
+      "lang": "en"
+    },
+    {
+      "text": "project. You can also toggle over to the",
+      "duration": 5.84,
+      "offset": 487.68,
+      "lang": "en"
+    },
+    {
+      "text": "code view. So you can make modifications",
+      "duration": 6.32,
+      "offset": 490.4,
+      "lang": "en"
+    },
+    {
+      "text": "to the code if you are technical. You",
+      "duration": 5.92,
+      "offset": 493.52,
+      "lang": "en"
+    },
+    {
+      "text": "can also link this to superbass which is",
+      "duration": 5.68,
+      "offset": 496.72,
+      "lang": "en"
+    },
+    {
+      "text": "the database user authentication for",
+      "duration": 5.92,
+      "offset": 499.44,
+      "lang": "en"
+    },
+    {
+      "text": "lovable. So once you connect it to",
+      "duration": 5.2,
+      "offset": 502.4,
+      "lang": "en"
+    },
+    {
+      "text": "superbass just go over here click on",
+      "duration": 4.88,
+      "offset": 505.36,
+      "lang": "en"
+    },
+    {
+      "text": "connect to superbass you do need an",
+      "duration": 5.28,
+      "offset": 507.6,
+      "lang": "en"
+    },
+    {
+      "text": "account with superbass and you had to",
+      "duration": 5.84,
+      "offset": 510.24,
+      "lang": "en"
+    },
+    {
+      "text": "allow uh lovable to have access to all",
+      "duration": 5.84,
+      "offset": 512.88,
+      "lang": "en"
+    },
+    {
+      "text": "of these things and so when the two are",
+      "duration": 4.96,
+      "offset": 516.08,
+      "lang": "en"
+    },
+    {
+      "text": "connected you will have seamless",
+      "duration": 6.16,
+      "offset": 518.72,
+      "lang": "en"
+    },
+    {
+      "text": "integration with a backend database as",
+      "duration": 6.24,
+      "offset": 521.04,
+      "lang": "en"
+    },
+    {
+      "text": "well. So once that&#39;s all done then we",
+      "duration": 6.24,
+      "offset": 524.88,
+      "lang": "en"
+    },
+    {
+      "text": "just click connect and we are all done",
+      "duration": 6.24,
+      "offset": 527.28,
+      "lang": "en"
+    },
+    {
+      "text": "here.",
+      "duration": 4.56,
+      "offset": 531.12,
+      "lang": "en"
+    },
+    {
+      "text": "When you have Superbass successfully",
+      "duration": 4.24,
+      "offset": 533.52,
+      "lang": "en"
+    },
+    {
+      "text": "connected, you should see a green dot",
+      "duration": 5.2,
+      "offset": 535.68,
+      "lang": "en"
+    },
+    {
+      "text": "right there. And then we&#39;re all done",
+      "duration": 5.52,
+      "offset": 537.76,
+      "lang": "en"
+    },
+    {
+      "text": "here. And it also looks like the second",
+      "duration": 5.12,
+      "offset": 540.88,
+      "lang": "en"
+    },
+    {
+      "text": "version of our Shirley app has finished",
+      "duration": 7.84,
+      "offset": 543.28,
+      "lang": "en"
+    },
+    {
+      "text": "here as well. And so it did have the AI",
+      "duration": 7.68,
+      "offset": 546.0,
+      "lang": "en"
+    },
+    {
+      "text": "itinerary generator, but it should be",
+      "duration": 6.32,
+      "offset": 551.12,
+      "lang": "en"
+    },
+    {
+      "text": "using our key, not the key, not asking",
+      "duration": 8.16,
+      "offset": 553.68,
+      "lang": "en"
+    },
+    {
+      "text": "the user for the key, right? Um, and we",
+      "duration": 7.68,
+      "offset": 557.44,
+      "lang": "en"
+    },
+    {
+      "text": "can also get rid of the group size, I",
+      "duration": 5.68,
+      "offset": 561.84,
+      "lang": "en"
+    },
+    {
+      "text": "think, here. And everything else looks",
+      "duration": 4.0,
+      "offset": 565.12,
+      "lang": "en"
+    },
+    {
+      "text": "good. So now I&#39;m going to go back into",
+      "duration": 2.99,
+      "offset": 567.52,
+      "lang": "en"
+    },
+    {
+      "text": "lovable and tell it to make",
+      "duration": 5.0,
+      "offset": 569.12,
+      "lang": "en"
+    },
+    {
+      "text": "[clears throat] these modifications.",
+      "duration": 3.61,
+      "offset": 570.51,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, I have finished my next prompt. I",
+      "duration": 5.84,
+      "offset": 582.64,
+      "lang": "en"
+    },
+    {
+      "text": "told it to remove the open AI key and",
+      "duration": 7.2,
+      "offset": 584.56,
+      "lang": "en"
+    },
+    {
+      "text": "the group size uh drop-down from the",
+      "duration": 7.6,
+      "offset": 588.48,
+      "lang": "en"
+    },
+    {
+      "text": "itinerary as well as adding in a login",
+      "duration": 6.88,
+      "offset": 591.76,
+      "lang": "en"
+    },
+    {
+      "text": "and log out page to the app. Another",
+      "duration": 4.0,
+      "offset": 596.08,
+      "lang": "en"
+    },
+    {
+      "text": "thing you can see here is that you can",
+      "duration": 4.08,
+      "offset": 598.64,
+      "lang": "en"
+    },
+    {
+      "text": "click on the view history and go back to",
+      "duration": 4.88,
+      "offset": 600.08,
+      "lang": "en"
+    },
+    {
+      "text": "any of the previous versions if you do",
+      "duration": 4.96,
+      "offset": 602.72,
+      "lang": "en"
+    },
+    {
+      "text": "need to uh revert back to the previous",
+      "duration": 5.92,
+      "offset": 604.96,
+      "lang": "en"
+    },
+    {
+      "text": "versions. and and once you have finished",
+      "duration": 6.24,
+      "offset": 607.68,
+      "lang": "en"
+    },
+    {
+      "text": "the entire app and uh it is exactly what",
+      "duration": 5.12,
+      "offset": 610.88,
+      "lang": "en"
+    },
+    {
+      "text": "you want then you can just go up here",
+      "duration": 4.56,
+      "offset": 613.92,
+      "lang": "en"
+    },
+    {
+      "text": "and press publish. Now one thing I will",
+      "duration": 4.4,
+      "offset": 616.0,
+      "lang": "en"
+    },
+    {
+      "text": "say is that all these vibe coding",
+      "duration": 4.72,
+      "offset": 618.48,
+      "lang": "en"
+    },
+    {
+      "text": "platforms are targeted towards uh web",
+      "duration": 5.36,
+      "offset": 620.4,
+      "lang": "en"
+    },
+    {
+      "text": "applications. They are not specific for",
+      "duration": 5.52,
+      "offset": 623.2,
+      "lang": "en"
+    },
+    {
+      "text": "writing iOS or Android apps. I hope that",
+      "duration": 4.48,
+      "offset": 625.76,
+      "lang": "en"
+    },
+    {
+      "text": "will change soon because that would be",
+      "duration": 3.36,
+      "offset": 628.72,
+      "lang": "en"
+    },
+    {
+      "text": "such a game changer if we can start",
+      "duration": 4.48,
+      "offset": 630.24,
+      "lang": "en"
+    },
+    {
+      "text": "creating mobile apps all just with Vive",
+      "duration": 4.72,
+      "offset": 632.08,
+      "lang": "en"
+    },
+    {
+      "text": "coding. So, one thing I did find in my",
+      "duration": 4.08,
+      "offset": 634.72,
+      "lang": "en"
+    },
+    {
+      "text": "research is that with these web",
+      "duration": 3.92,
+      "offset": 636.8,
+      "lang": "en"
+    },
+    {
+      "text": "applications, you can put a wrapper",
+      "duration": 4.24,
+      "offset": 638.8,
+      "lang": "en"
+    },
+    {
+      "text": "around it and then you can actually",
+      "duration": 5.76,
+      "offset": 640.72,
+      "lang": "en"
+    },
+    {
+      "text": "deploy it onto iOS or Android devices as",
+      "duration": 6.08,
+      "offset": 643.04,
+      "lang": "en"
+    },
+    {
+      "text": "well. I have not been successful in this",
+      "duration": 4.8,
+      "offset": 646.48,
+      "lang": "en"
+    },
+    {
+      "text": "process myself. So, whenever I get that",
+      "duration": 3.92,
+      "offset": 649.12,
+      "lang": "en"
+    },
+    {
+      "text": "working, I will report back here and",
+      "duration": 4.0,
+      "offset": 651.28,
+      "lang": "en"
+    },
+    {
+      "text": "create a new video. So, you just",
+      "duration": 4.24,
+      "offset": 653.04,
+      "lang": "en"
+    },
+    {
+      "text": "basically go back and forth with this",
+      "duration": 4.88,
+      "offset": 655.28,
+      "lang": "en"
+    },
+    {
+      "text": "vibe coding tool until you get your",
+      "duration": 4.64,
+      "offset": 657.28,
+      "lang": "en"
+    },
+    {
+      "text": "desired result. Another thing I&#39;m going",
+      "duration": 5.04,
+      "offset": 660.16,
+      "lang": "en"
+    },
+    {
+      "text": "to do here in my next prompt is to uh",
+      "duration": 6.08,
+      "offset": 661.92,
+      "lang": "en"
+    },
+    {
+      "text": "put in my OpenAI API key so that it can",
+      "duration": 5.28,
+      "offset": 665.2,
+      "lang": "en"
+    },
+    {
+      "text": "implement that successfully. When",
+      "duration": 5.28,
+      "offset": 668.0,
+      "lang": "en"
+    },
+    {
+      "text": "everything is done, all I need to do is",
+      "duration": 6.08,
+      "offset": 670.48,
+      "lang": "en"
+    },
+    {
+      "text": "press up here to publish in this project",
+      "duration": 5.84,
+      "offset": 673.28,
+      "lang": "en"
+    },
+    {
+      "text": "and I can even add in my own custom",
+      "duration": 4.72,
+      "offset": 676.56,
+      "lang": "en"
+    },
+    {
+      "text": "domain as well. I just click on custom",
+      "duration": 4.56,
+      "offset": 679.12,
+      "lang": "en"
+    },
+    {
+      "text": "domains and I need to already have this",
+      "duration": 4.88,
+      "offset": 681.28,
+      "lang": "en"
+    },
+    {
+      "text": "domain purchased. I just go into the DNS",
+      "duration": 4.8,
+      "offset": 683.68,
+      "lang": "en"
+    },
+    {
+      "text": "records behind the scenes of that domain",
+      "duration": 5.68,
+      "offset": 686.16,
+      "lang": "en"
+    },
+    {
+      "text": "to connect back to to my Lovable account",
+      "duration": 6.16,
+      "offset": 688.48,
+      "lang": "en"
+    },
+    {
+      "text": "to have this published. Now, by default",
+      "duration": 5.6,
+      "offset": 691.84,
+      "lang": "en"
+    },
+    {
+      "text": "though, you will have a default Lovable",
+      "duration": 5.28,
+      "offset": 694.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh domain here. All right. So, it&#39;s been",
+      "duration": 4.64,
+      "offset": 697.44,
+      "lang": "en"
+    },
+    {
+      "text": "about 2 minutes or so, and we can see",
+      "duration": 4.48,
+      "offset": 699.92,
+      "lang": "en"
+    },
+    {
+      "text": "the new version of our Shirley app",
+      "duration": 4.88,
+      "offset": 702.08,
+      "lang": "en"
+    },
+    {
+      "text": "already generated here. So, when I go",
+      "duration": 5.12,
+      "offset": 704.4,
+      "lang": "en"
+    },
+    {
+      "text": "over to the plan itinerary, I can see",
+      "duration": 5.04,
+      "offset": 706.96,
+      "lang": "en"
+    },
+    {
+      "text": "that the fields I asked it to remove are",
+      "duration": 6.0,
+      "offset": 709.52,
+      "lang": "en"
+    },
+    {
+      "text": "now gone. And I have a log in and log",
+      "duration": 6.16,
+      "offset": 712.0,
+      "lang": "en"
+    },
+    {
+      "text": "out button here as well. And if I go",
+      "duration": 5.44,
+      "offset": 715.52,
+      "lang": "en"
+    },
+    {
+      "text": "into my superbass, I all I did was that",
+      "duration": 5.36,
+      "offset": 718.16,
+      "lang": "en"
+    },
+    {
+      "text": "one prompt. I can actually now go into",
+      "duration": 6.32,
+      "offset": 720.96,
+      "lang": "en"
+    },
+    {
+      "text": "my project into the database and be able",
+      "duration": 7.12,
+      "offset": 723.52,
+      "lang": "en"
+    },
+    {
+      "text": "to see the people who have signed up for",
+      "duration": 6.16,
+      "offset": 727.28,
+      "lang": "en"
+    },
+    {
+      "text": "this app already. So, if you do have a",
+      "duration": 4.64,
+      "offset": 730.64,
+      "lang": "en"
+    },
+    {
+      "text": "business, like creating one of these",
+      "duration": 4.16,
+      "offset": 733.44,
+      "lang": "en"
+    },
+    {
+      "text": "things just as a lead generation is",
+      "duration": 5.04,
+      "offset": 735.28,
+      "lang": "en"
+    },
+    {
+      "text": "super powerful because whenever someone",
+      "duration": 4.8,
+      "offset": 737.6,
+      "lang": "en"
+    },
+    {
+      "text": "signs up for your free application,",
+      "duration": 4.56,
+      "offset": 740.32,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll be able to gather their data in",
+      "duration": 4.64,
+      "offset": 742.4,
+      "lang": "en"
+    },
+    {
+      "text": "the back end to sell your other products",
+      "duration": 4.32,
+      "offset": 744.88,
+      "lang": "en"
+    },
+    {
+      "text": "and services as well. This is why I just",
+      "duration": 4.24,
+      "offset": 747.04,
+      "lang": "en"
+    },
+    {
+      "text": "love now the ability to create",
+      "duration": 4.64,
+      "offset": 749.2,
+      "lang": "en"
+    },
+    {
+      "text": "applications whenever I want. Okay, so I",
+      "duration": 4.56,
+      "offset": 751.28,
+      "lang": "en"
+    },
+    {
+      "text": "spent about half an hour going back and",
+      "duration": 4.72,
+      "offset": 753.84,
+      "lang": "en"
+    },
+    {
+      "text": "forth with Lovable to get the app to",
+      "duration": 5.2,
+      "offset": 755.84,
+      "lang": "en"
+    },
+    {
+      "text": "work exactly the way that I wanted to.",
+      "duration": 4.88,
+      "offset": 758.56,
+      "lang": "en"
+    },
+    {
+      "text": "One big bug that I found was that",
+      "duration": 5.12,
+      "offset": 761.04,
+      "lang": "en"
+    },
+    {
+      "text": "whenever I pressed on like photo upload",
+      "duration": 5.28,
+      "offset": 763.44,
+      "lang": "en"
+    },
+    {
+      "text": "and no matter which photo I uploaded, it",
+      "duration": 4.8,
+      "offset": 766.16,
+      "lang": "en"
+    },
+    {
+      "text": "actually wasn&#39;t recognizing the photo.",
+      "duration": 4.48,
+      "offset": 768.72,
+      "lang": "en"
+    },
+    {
+      "text": "And so what I just told it here was just",
+      "duration": 4.72,
+      "offset": 770.96,
+      "lang": "en"
+    },
+    {
+      "text": "that the image recognition wasn&#39;t",
+      "duration": 4.4,
+      "offset": 773.2,
+      "lang": "en"
+    },
+    {
+      "text": "working. And then once the image",
+      "duration": 4.72,
+      "offset": 775.68,
+      "lang": "en"
+    },
+    {
+      "text": "recognition was working, then the audio",
+      "duration": 6.0,
+      "offset": 777.6,
+      "lang": "en"
+    },
+    {
+      "text": "wasn&#39;t generating. So it had like the UI",
+      "duration": 5.92,
+      "offset": 780.4,
+      "lang": "en"
+    },
+    {
+      "text": "layouts of all of these this stuff, but",
+      "duration": 4.64,
+      "offset": 783.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh the functionalities wasn&#39;t working.",
+      "duration": 4.08,
+      "offset": 786.32,
+      "lang": "en"
+    },
+    {
+      "text": "And I just described in everyday English",
+      "duration": 4.16,
+      "offset": 788.24,
+      "lang": "en"
+    },
+    {
+      "text": "what wasn&#39;t working. And the AI was",
+      "duration": 3.68,
+      "offset": 790.4,
+      "lang": "en"
+    },
+    {
+      "text": "actually able to fix that. So everything",
+      "duration": 4.32,
+      "offset": 792.4,
+      "lang": "en"
+    },
+    {
+      "text": "that you see here was completely made",
+      "duration": 5.68,
+      "offset": 794.08,
+      "lang": "en"
+    },
+    {
+      "text": "for AI. Like mind-blowing. And um so",
+      "duration": 5.68,
+      "offset": 796.72,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s give it a test here. Let me upload",
+      "duration": 4.8,
+      "offset": 799.76,
+      "lang": "en"
+    },
+    {
+      "text": "a photo. And this one&#39;s of the Trevy",
+      "duration": 4.48,
+      "offset": 802.4,
+      "lang": "en"
+    },
+    {
+      "text": "Fountain out in Rome. And you can see",
+      "duration": 5.52,
+      "offset": 804.56,
+      "lang": "en"
+    },
+    {
+      "text": "the AI is now analyzing this photo. And",
+      "duration": 6.0,
+      "offset": 806.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s telling me exactly what it is. Like",
+      "duration": 4.88,
+      "offset": 810.08,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no other prompts in this. Like I",
+      "duration": 4.0,
+      "offset": 812.88,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t tell it what was in the photo.",
+      "duration": 4.24,
+      "offset": 814.96,
+      "lang": "en"
+    },
+    {
+      "text": "and it gives me some fun facts about",
+      "duration": 5.36,
+      "offset": 816.88,
+      "lang": "en"
+    },
+    {
+      "text": "this monument. I can also start an audio",
+      "duration": 5.12,
+      "offset": 819.2,
+      "lang": "en"
+    },
+    {
+      "text": "tour as well because a lot of times like",
+      "duration": 3.92,
+      "offset": 822.24,
+      "lang": "en"
+    },
+    {
+      "text": "if you&#39;re a traveler, you&#39;re looking at",
+      "duration": 3.28,
+      "offset": 824.32,
+      "lang": "en"
+    },
+    {
+      "text": "the sites, you don&#39;t want to be down on",
+      "duration": 3.92,
+      "offset": 826.16,
+      "lang": "en"
+    },
+    {
+      "text": "your phone and reading. So having the",
+      "duration": 4.8,
+      "offset": 827.6,
+      "lang": "en"
+    },
+    {
+      "text": "audio guide where you can just listen to",
+      "duration": 5.28,
+      "offset": 830.08,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s going on here is super helpful.",
+      "duration": 5.12,
+      "offset": 832.4,
+      "lang": "en"
+    },
+    {
+      "text": "One thing I will treby fountain the",
+      "duration": 4.24,
+      "offset": 835.36,
+      "lang": "en"
+    },
+    {
+      "text": "Treby Fountain located in the Trevy",
+      "duration": 4.56,
+      "offset": 837.52,
+      "lang": "en"
+    },
+    {
+      "text": "district of Rome is iconic Baroque",
+      "duration": 4.4,
+      "offset": 839.6,
+      "lang": "en"
+    },
+    {
+      "text": "fountain renowned for its grand",
+      "duration": 4.72,
+      "offset": 842.08,
+      "lang": "en"
+    },
+    {
+      "text": "architecture and intricate sculptures.",
+      "duration": 5.28,
+      "offset": 844.0,
+      "lang": "en"
+    },
+    {
+      "text": "Designed by John Lorenzo Bernini, the",
+      "duration": 4.56,
+      "offset": 846.8,
+      "lang": "en"
+    },
+    {
+      "text": "fountain stands 26.3 meters.",
+      "duration": 3.76,
+      "offset": 849.28,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s pretty pretty cool, isn&#39;t it? And",
+      "duration": 3.76,
+      "offset": 851.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s exactly like what I was doing on",
+      "duration": 4.88,
+      "offset": 853.04,
+      "lang": "en"
+    },
+    {
+      "text": "my trip, like I was taking photos uh or",
+      "duration": 5.68,
+      "offset": 855.12,
+      "lang": "en"
+    },
+    {
+      "text": "just telling Chachi BT to like uh scan",
+      "duration": 5.68,
+      "offset": 857.92,
+      "lang": "en"
+    },
+    {
+      "text": "my surroundings and analyze the video",
+      "duration": 5.28,
+      "offset": 860.8,
+      "lang": "en"
+    },
+    {
+      "text": "and then tell me something more and",
+      "duration": 4.48,
+      "offset": 863.6,
+      "lang": "en"
+    },
+    {
+      "text": "exciting about the place. And so",
+      "duration": 3.44,
+      "offset": 866.08,
+      "lang": "en"
+    },
+    {
+      "text": "essentially, I had my headphones on. I",
+      "duration": 3.76,
+      "offset": 868.08,
+      "lang": "en"
+    },
+    {
+      "text": "had a personal tour guide during my",
+      "duration": 5.52,
+      "offset": 869.52,
+      "lang": "en"
+    },
+    {
+      "text": "entire trip thanks to ChatJPT. And now",
+      "duration": 5.44,
+      "offset": 871.84,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s like an app for that now that&#39;s",
+      "duration": 4.56,
+      "offset": 875.04,
+      "lang": "en"
+    },
+    {
+      "text": "specifically dedicated to that function.",
+      "duration": 4.48,
+      "offset": 877.28,
+      "lang": "en"
+    },
+    {
+      "text": "And a lot of the AI apps you see these",
+      "duration": 4.32,
+      "offset": 879.6,
+      "lang": "en"
+    },
+    {
+      "text": "days are just like kind of a wrapper on",
+      "duration": 4.24,
+      "offset": 881.76,
+      "lang": "en"
+    },
+    {
+      "text": "top of these APIs that does something",
+      "duration": 4.32,
+      "offset": 883.92,
+      "lang": "en"
+    },
+    {
+      "text": "specific and just and this is what you",
+      "duration": 4.48,
+      "offset": 886.0,
+      "lang": "en"
+    },
+    {
+      "text": "see with the surely app that I made",
+      "duration": 4.96,
+      "offset": 888.24,
+      "lang": "en"
+    },
+    {
+      "text": "here. And then we also have a second tab",
+      "duration": 4.96,
+      "offset": 890.48,
+      "lang": "en"
+    },
+    {
+      "text": "here for the plan itinerary. So, I can",
+      "duration": 4.96,
+      "offset": 893.2,
+      "lang": "en"
+    },
+    {
+      "text": "put in the city that I&#39;m going to, the",
+      "duration": 4.8,
+      "offset": 895.44,
+      "lang": "en"
+    },
+    {
+      "text": "arrival time, and then we can put in",
+      "duration": 4.16,
+      "offset": 898.16,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re interested in seeing and have",
+      "duration": 5.76,
+      "offset": 900.24,
+      "lang": "en"
+    },
+    {
+      "text": "the AI generate our itinerary. Ain&#39;t",
+      "duration": 7.68,
+      "offset": 902.32,
+      "lang": "en"
+    },
+    {
+      "text": "that cool? And after a few seconds, we",
+      "duration": 8.16,
+      "offset": 906.0,
+      "lang": "en"
+    },
+    {
+      "text": "can see our custom itinerary that AI",
+      "duration": 6.96,
+      "offset": 910.0,
+      "lang": "en"
+    },
+    {
+      "text": "generated for us here. So, I hope we&#39;re",
+      "duration": 5.44,
+      "offset": 914.16,
+      "lang": "en"
+    },
+    {
+      "text": "starting to see the vast potential of AI",
+      "duration": 5.04,
+      "offset": 916.96,
+      "lang": "en"
+    },
+    {
+      "text": "here. I went from having an idea in my",
+      "duration": 5.84,
+      "offset": 919.6,
+      "lang": "en"
+    },
+    {
+      "text": "head to having an MVP built in less than",
+      "duration": 6.24,
+      "offset": 922.0,
+      "lang": "en"
+    },
+    {
+      "text": "an hour. That is insane. Like if I",
+      "duration": 4.48,
+      "offset": 925.44,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to have this app built before",
+      "duration": 3.68,
+      "offset": 928.24,
+      "lang": "en"
+    },
+    {
+      "text": "Vibe coding was a thing, this would have",
+      "duration": 4.72,
+      "offset": 929.92,
+      "lang": "en"
+    },
+    {
+      "text": "easily costed me thousands of dollars to",
+      "duration": 4.72,
+      "offset": 931.92,
+      "lang": "en"
+    },
+    {
+      "text": "launch or even to get a beta into",
+      "duration": 4.32,
+      "offset": 934.64,
+      "lang": "en"
+    },
+    {
+      "text": "market. So, even if I offer this for",
+      "duration": 4.32,
+      "offset": 936.64,
+      "lang": "en"
+    },
+    {
+      "text": "free, like if I was a travel agent and I",
+      "duration": 4.4,
+      "offset": 938.96,
+      "lang": "en"
+    },
+    {
+      "text": "offer this for free, it&#39;s a great lead",
+      "duration": 4.64,
+      "offset": 940.96,
+      "lang": "en"
+    },
+    {
+      "text": "magnet for me that I made in less than",
+      "duration": 4.4,
+      "offset": 943.36,
+      "lang": "en"
+    },
+    {
+      "text": "an hour and it&#39;s more attractive than",
+      "duration": 4.16,
+      "offset": 945.6,
+      "lang": "en"
+    },
+    {
+      "text": "like a ebook lead magnet, which",
+      "duration": 4.0,
+      "offset": 947.76,
+      "lang": "en"
+    },
+    {
+      "text": "everyone&#39;s doing. Not many people are",
+      "duration": 3.68,
+      "offset": 949.76,
+      "lang": "en"
+    },
+    {
+      "text": "currently using software as a lead",
+      "duration": 3.76,
+      "offset": 951.76,
+      "lang": "en"
+    },
+    {
+      "text": "magnet. So, this is one way that you can",
+      "duration": 5.12,
+      "offset": 953.44,
+      "lang": "en"
+    },
+    {
+      "text": "stand out in your industry. And one",
+      "duration": 5.2,
+      "offset": 955.52,
+      "lang": "en"
+    },
+    {
+      "text": "feature that really stands out to me",
+      "duration": 5.52,
+      "offset": 958.56,
+      "lang": "en"
+    },
+    {
+      "text": "about lovable is how easy it was to link",
+      "duration": 6.56,
+      "offset": 960.72,
+      "lang": "en"
+    },
+    {
+      "text": "it to the backend super bass. So it was",
+      "duration": 6.08,
+      "offset": 964.08,
+      "lang": "en"
+    },
+    {
+      "text": "just a couple of clicks to have this",
+      "duration": 6.32,
+      "offset": 967.28,
+      "lang": "en"
+    },
+    {
+      "text": "database integration done. And from my",
+      "duration": 6.56,
+      "offset": 970.16,
+      "lang": "en"
+    },
+    {
+      "text": "testing of Firebase or Bolt, this wasn&#39;t",
+      "duration": 6.24,
+      "offset": 973.6,
+      "lang": "en"
+    },
+    {
+      "text": "a very smooth uh process to be able to",
+      "duration": 5.92,
+      "offset": 976.72,
+      "lang": "en"
+    },
+    {
+      "text": "have a backend linked so easily with",
+      "duration": 5.2,
+      "offset": 979.84,
+      "lang": "en"
+    },
+    {
+      "text": "Vibe coding tools. So this is one thing",
+      "duration": 5.04,
+      "offset": 982.64,
+      "lang": "en"
+    },
+    {
+      "text": "that really makes lovable stand out in",
+      "duration": 4.56,
+      "offset": 985.04,
+      "lang": "en"
+    },
+    {
+      "text": "my opinion. All right. Now that I have",
+      "duration": 4.48,
+      "offset": 987.68,
+      "lang": "en"
+    },
+    {
+      "text": "the first version of my application",
+      "duration": 4.64,
+      "offset": 989.6,
+      "lang": "en"
+    },
+    {
+      "text": "ready, I can actually start gathering",
+      "duration": 5.2,
+      "offset": 992.16,
+      "lang": "en"
+    },
+    {
+      "text": "some feedback from actual users to see",
+      "duration": 5.36,
+      "offset": 994.24,
+      "lang": "en"
+    },
+    {
+      "text": "what they liked and don&#39;t like and start",
+      "duration": 4.96,
+      "offset": 997.36,
+      "lang": "en"
+    },
+    {
+      "text": "making modifications from there. So, I",
+      "duration": 5.44,
+      "offset": 999.6,
+      "lang": "en"
+    },
+    {
+      "text": "can go into Facebook groups of cruise",
+      "duration": 5.12,
+      "offset": 1002.32,
+      "lang": "en"
+    },
+    {
+      "text": "travelers, for example, and just offer",
+      "duration": 4.4,
+      "offset": 1005.04,
+      "lang": "en"
+    },
+    {
+      "text": "this app for free to get them to try it",
+      "duration": 4.88,
+      "offset": 1007.44,
+      "lang": "en"
+    },
+    {
+      "text": "out and DM me with any feedback that",
+      "duration": 5.2,
+      "offset": 1009.44,
+      "lang": "en"
+    },
+    {
+      "text": "they may have. So, this is how you can",
+      "duration": 4.4,
+      "offset": 1012.32,
+      "lang": "en"
+    },
+    {
+      "text": "go from having an idea to creating a",
+      "duration": 4.0,
+      "offset": 1014.64,
+      "lang": "en"
+    },
+    {
+      "text": "prototype to getting your first couple",
+      "duration": 4.8,
+      "offset": 1016.72,
+      "lang": "en"
+    },
+    {
+      "text": "of users within less than an hour using",
+      "duration": 5.28,
+      "offset": 1018.64,
+      "lang": "en"
+    },
+    {
+      "text": "AI and Vibe Coding. So, if you ever have",
+      "duration": 4.16,
+      "offset": 1021.52,
+      "lang": "en"
+    },
+    {
+      "text": "an idea for an app in the future, be",
+      "duration": 3.68,
+      "offset": 1023.92,
+      "lang": "en"
+    },
+    {
+      "text": "sure to check out Vibe Coding tools like",
+      "duration": 4.24,
+      "offset": 1025.68,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable and bring your idea to life. All",
+      "duration": 4.08,
+      "offset": 1027.6,
+      "lang": "en"
+    },
+    {
+      "text": "right, thank you so much for joining me",
+      "duration": 3.68,
+      "offset": 1029.92,
+      "lang": "en"
+    },
+    {
+      "text": "for this tutorial. I hope you enjoyed",
+      "duration": 3.92,
+      "offset": 1031.68,
+      "lang": "en"
+    },
+    {
+      "text": "it. And uh if you want to check out the",
+      "duration": 3.84,
+      "offset": 1033.6,
+      "lang": "en"
+    },
+    {
+      "text": "app that I built with Loveable, I&#39;ll",
+      "duration": 3.36,
+      "offset": 1035.6,
+      "lang": "en"
+    },
+    {
+      "text": "include it in the link in the",
+      "duration": 3.12,
+      "offset": 1037.44,
+      "lang": "en"
+    },
+    {
+      "text": "descriptions below. And if you got",
+      "duration": 3.2,
+      "offset": 1038.96,
+      "lang": "en"
+    },
+    {
+      "text": "anything out of this tutorial, I would",
+      "duration": 2.96,
+      "offset": 1040.56,
+      "lang": "en"
+    },
+    {
+      "text": "really appreciate it if you would like",
+      "duration": 2.64,
+      "offset": 1042.16,
+      "lang": "en"
+    },
+    {
+      "text": "and subscribe because that would help",
+      "duration": 3.36,
+      "offset": 1043.52,
+      "lang": "en"
+    },
+    {
+      "text": "out this channel so so much. And if you",
+      "duration": 3.68,
+      "offset": 1044.8,
+      "lang": "en"
+    },
+    {
+      "text": "haven&#39;t done so already, be sure to sign",
+      "duration": 3.92,
+      "offset": 1046.88,
+      "lang": "en"
+    },
+    {
+      "text": "up for my free AI automations course",
+      "duration": 4.4,
+      "offset": 1048.48,
+      "lang": "en"
+    },
+    {
+      "text": "below as well. You will learn all about",
+      "duration": 4.72,
+      "offset": 1050.8,
+      "lang": "en"
+    },
+    {
+      "text": "AI building vibe coding and we&#39;ll dive",
+      "duration": 4.72,
+      "offset": 1052.88,
+      "lang": "en"
+    },
+    {
+      "text": "into much more detail than what you have",
+      "duration": 4.16,
+      "offset": 1055.52,
+      "lang": "en"
+    },
+    {
+      "text": "seen here. So I&#39;ll catch you in my free",
+      "duration": 3.84,
+      "offset": 1057.6,
+      "lang": "en"
+    },
+    {
+      "text": "training below. Thank you so much for",
+      "duration": 3.6,
+      "offset": 1059.68,
+      "lang": "en"
+    },
+    {
+      "text": "joining me and I&#39;ll see you in my next",
+      "duration": 4.16,
+      "offset": 1061.44,
+      "lang": "en"
+    },
+    {
+      "text": "tutorial.",
+      "duration": 2.32,
+      "offset": 1063.28,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "company": "Bilibili",
+  "slug": "Bilibili",
+  "signal_engine": {
+    "date": "2026-04-01",
+    "company": "Bilibili",
+    "old_friend": "Netflix",
+    "auto_applied": [],
+    "proposals": [
+      {
+        "id": "sig_bili_001",
+        "signal": "陈睿定义2026为AI重塑时代，哔哩必达AI营销中心+AI创作工具具体落地",
+        "confidence": 57.8,
+        "significance": "MEDIUM",
+        "dimensions": [
+          "D1",
+          "D7"
+        ],
+        "delta": {
+          "D1": 0.15,
+          "D7": 0.2
+        },
+        "key_question": "H1 2026广告收入增长率是否≥20% YoY？AI工具实际采用率？",
+        "validation_trigger": "H1 2026财报"
+      }
+    ],
+    "watch": [
+      {
+        "id": "sig_bili_002",
+        "signal": "陈睿卸任子公司法人，黄声声接任",
+        "confidence": 17.2,
+        "significance": "MEDIUM",
+        "calibration_applied": "cn-postipo-legal-person-change (×0.3)",
+        "key_question": "陈睿日常运营参与度是否有行为层面的实际下降？100T自主决策权变化？",
+        "trigger": "行为证据出现时"
+      }
+    ],
+    "discard": [
+      {
+        "signal": "BILI股价-18%关税压力",
+        "reason": "宏观噪音，无组织信号"
+      },
+      {
+        "signal": "花旗升级至买入",
+        "reason": "卖方观点，滞后指标"
+      }
+    ],
+    "key_questions": [
+      {
+        "id": "kq_bili_001",
+        "question": "陈睿卸任后日常运营参与度是否真的下降？观察点：100T自主权、产品签字权、公开话题转向",
+        "resolves_by": "ongoing",
+        "author": "ai",
+        "evolving_answer": "工商变更确认法人交接，但B站官方回应'不影响实际管理'，需行为证据",
+        "sources": [
+          "DoNews",
+          "B站官方回应"
+        ],
+        "evidence_trail": [
+          {
+            "date": "2026-04-01",
+            "source": "ai_init",
+            "content": "工商变更确认法人交接，但B站官方回应'不影响实际管理'，需行为证据",
+            "impact": "neutral"
+          }
+        ]
+      },
+      {
+        "id": "kq_bili_002",
+        "question": "AI战略从声明到执行的转化：哔哩必达和AI创作工具的实际采用指标？",
+        "resolves_by": "H1 2026",
+        "author": "ai",
+        "evolving_answer": "历史数据：AI广告收入+400%提供执行力证据，但2026新工具尚无数据",
+        "sources": [
+          "FY2025 Earnings",
+          "AI ad revenue data"
+        ],
+        "evidence_trail": [
+          {
+            "date": "2026-04-01",
+            "source": "ai_init",
+            "content": "历史数据：AI广告收入+400%提供执行力证据，但2026新工具尚无数据",
+            "impact": "neutral"
+          }
+        ]
+      }
+    ],
+    "next_catalyst": "H1 2026财报（AI广告+创作工具数据）"
+  },
+  "dim_analysis": null
+}

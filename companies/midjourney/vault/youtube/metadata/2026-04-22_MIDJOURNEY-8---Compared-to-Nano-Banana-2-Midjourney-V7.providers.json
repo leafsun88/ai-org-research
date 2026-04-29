@@ -1,0 +1,18 @@
+{
+  "video_id": "MgMZ6e2NBGA",
+  "title": "MIDJOURNEY 8 - Compared to Nano Banana 2 & Midjourney V7",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:30:49"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:30:51",
+      "chars": 7983
+    }
+  ],
+  "fetched_at": "2026-04-22T16:30:51"
+}

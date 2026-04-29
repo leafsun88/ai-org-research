@@ -1,0 +1,2451 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "rfsIAqW4D_U",
+  "url": "https://www.youtube.com/watch?v=rfsIAqW4D_U",
+  "title": "How He Reached $500k ARR In 8 Days Only Using AI",
+  "channel": "Lovable",
+  "source_queries": [
+    "Lovable Labs interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:18:39",
+  "segments": [
+    {
+      "text": "In this video, I sat down with Rasmus,",
+      "duration": 4.52,
+      "offset": 0.0,
+      "lang": "en"
+    },
+    {
+      "text": "the founder of Stardust, a lovable built",
+      "duration": 5.08,
+      "offset": 2.16,
+      "lang": "en"
+    },
+    {
+      "text": "ad analysis platform that hit 500,000",
+      "duration": 5.68,
+      "offset": 4.52,
+      "lang": "en"
+    },
+    {
+      "text": "euros in ARR eight days after launching",
+      "duration": 5.4,
+      "offset": 7.24,
+      "lang": "en"
+    },
+    {
+      "text": "and has raised 1.7 million in pre-seed",
+      "duration": 4.44,
+      "offset": 10.2,
+      "lang": "en"
+    },
+    {
+      "text": "funding. But the interesting part is",
+      "duration": 3.72,
+      "offset": 12.64,
+      "lang": "en"
+    },
+    {
+      "text": "that we filmed this before any of this",
+      "duration": 3.52,
+      "offset": 14.64,
+      "lang": "en"
+    },
+    {
+      "text": "happens. So you will be able to hear his",
+      "duration": 3.88,
+      "offset": 16.36,
+      "lang": "en"
+    },
+    {
+      "text": "thought process in real time while he&#39;s",
+      "duration": 4.16,
+      "offset": 18.16,
+      "lang": "en"
+    },
+    {
+      "text": "selling to 20 customers, go-to-market",
+      "duration": 4.04,
+      "offset": 20.24,
+      "lang": "en"
+    },
+    {
+      "text": "strategy, and some advice for founders",
+      "duration": 4.92,
+      "offset": 22.32,
+      "lang": "en"
+    },
+    {
+      "text": "building with AI.",
+      "duration": 2.96,
+      "offset": 24.28,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m here with Rasmus who built a company",
+      "duration": 5.4,
+      "offset": 29.52,
+      "lang": "en"
+    },
+    {
+      "text": "that has over 100,000 ARR before they",
+      "duration": 5.48,
+      "offset": 31.68,
+      "lang": "en"
+    },
+    {
+      "text": "even began building the product. Rasmus,",
+      "duration": 4.44,
+      "offset": 34.92,
+      "lang": "en"
+    },
+    {
+      "text": "tell me your your story. So I studied",
+      "duration": 4.08,
+      "offset": 37.16,
+      "lang": "en"
+    },
+    {
+      "text": "five years at Stockholm School of",
+      "duration": 4.08,
+      "offset": 39.36,
+      "lang": "en"
+    },
+    {
+      "text": "Economics. So basically business",
+      "duration": 4.88,
+      "offset": 41.24,
+      "lang": "en"
+    },
+    {
+      "text": "management economics. And quite rapidly",
+      "duration": 4.52,
+      "offset": 43.44,
+      "lang": "en"
+    },
+    {
+      "text": "after I started studying, got a business",
+      "duration": 4.16,
+      "offset": 46.12,
+      "lang": "en"
+    },
+    {
+      "text": "idea. It was an app for study technique,",
+      "duration": 4.12,
+      "offset": 47.96,
+      "lang": "en"
+    },
+    {
+      "text": "but I didn&#39;t know how to code. I had two",
+      "duration": 3.36,
+      "offset": 50.28,
+      "lang": "en"
+    },
+    {
+      "text": "friends I played basketball with which I",
+      "duration": 3.16,
+      "offset": 52.08,
+      "lang": "en"
+    },
+    {
+      "text": "knew they could code.",
+      "duration": 3.6,
+      "offset": 53.64,
+      "lang": "en"
+    },
+    {
+      "text": "So that&#39;s how our first company was",
+      "duration": 3.92,
+      "offset": 55.24,
+      "lang": "en"
+    },
+    {
+      "text": "born. It was a study app for for high",
+      "duration": 3.64,
+      "offset": 57.24,
+      "lang": "en"
+    },
+    {
+      "text": "school students which taught them how to",
+      "duration": 2.41,
+      "offset": 59.16,
+      "lang": "en"
+    },
+    {
+      "text": "study",
+      "duration": 0.8,
+      "offset": 60.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.55,
+      "offset": 61.57,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; using scientifically proven study",
+      "duration": 5.68,
+      "offset": 61.68,
+      "lang": "en"
+    },
+    {
+      "text": "techniques. But we realized pretty soon",
+      "duration": 5.16,
+      "offset": 64.12,
+      "lang": "en"
+    },
+    {
+      "text": "that we built it all wrong from the",
+      "duration": 4.76,
+      "offset": 67.36,
+      "lang": "en"
+    },
+    {
+      "text": "get-go. We didn&#39;t realize that 90% of",
+      "duration": 6.84,
+      "offset": 69.28,
+      "lang": "en"
+    },
+    {
+      "text": "the tuition market was connected to math",
+      "duration": 6.96,
+      "offset": 72.12,
+      "lang": "en"
+    },
+    {
+      "text": "and STEM fields, not for social science",
+      "duration": 4.68,
+      "offset": 76.12,
+      "lang": "en"
+    },
+    {
+      "text": "which our app was built for. Besides",
+      "duration": 3.36,
+      "offset": 79.08,
+      "lang": "en"
+    },
+    {
+      "text": "building the startup, we also did",
+      "duration": 3.48,
+      "offset": 80.8,
+      "lang": "en"
+    },
+    {
+      "text": "consulting. So we bootstrapped [music]",
+      "duration": 3.8,
+      "offset": 82.44,
+      "lang": "en"
+    },
+    {
+      "text": "and that thing went really well. So we",
+      "duration": 4.56,
+      "offset": 84.28,
+      "lang": "en"
+    },
+    {
+      "text": "started selling our IT services to",
+      "duration": 5.04,
+      "offset": 86.24,
+      "lang": "en"
+    },
+    {
+      "text": "companies. Since we had built this app",
+      "duration": 4.0,
+      "offset": 88.84,
+      "lang": "en"
+    },
+    {
+      "text": "using study technique, we were really",
+      "duration": 3.64,
+      "offset": 91.28,
+      "lang": "en"
+    },
+    {
+      "text": "good at teaching people in efficient",
+      "duration": 4.24,
+      "offset": 92.84,
+      "lang": "en"
+    },
+    {
+      "text": "ways how to code. And at the same time",
+      "duration": 4.0,
+      "offset": 94.92,
+      "lang": "en"
+    },
+    {
+      "text": "we started posting on TikTok about what",
+      "duration": 3.56,
+      "offset": 97.08,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re doing. We&#39;re just documenting and",
+      "duration": 3.76,
+      "offset": 98.92,
+      "lang": "en"
+    },
+    {
+      "text": "we quite rapidly grew to 200,000",
+      "duration": 3.68,
+      "offset": 100.64,
+      "lang": "en"
+    },
+    {
+      "text": "followers on TikTok. More and more",
+      "duration": 3.28,
+      "offset": 102.68,
+      "lang": "en"
+    },
+    {
+      "text": "people started asking us, &quot;Can&#39;t you",
+      "duration": 4.4,
+      "offset": 104.32,
+      "lang": "en"
+    },
+    {
+      "text": "teach us as well?&quot; So we started a a",
+      "duration": 4.44,
+      "offset": 105.96,
+      "lang": "en"
+    },
+    {
+      "text": "coding bootcamp. It went great. It was",
+      "duration": 4.52,
+      "offset": 108.72,
+      "lang": "en"
+    },
+    {
+      "text": "really fun. But how we got our customers",
+      "duration": 4.92,
+      "offset": 110.4,
+      "lang": "en"
+    },
+    {
+      "text": "to this bootcamp was using [music] paid",
+      "duration": 4.36,
+      "offset": 113.24,
+      "lang": "en"
+    },
+    {
+      "text": "ads. And at the end of last year, that",
+      "duration": 4.4,
+      "offset": 115.32,
+      "lang": "en"
+    },
+    {
+      "text": "is 2024, we realized that Lovable is",
+      "duration": 4.64,
+      "offset": 117.6,
+      "lang": "en"
+    },
+    {
+      "text": "going to outcompete us. Oh.",
+      "duration": 3.4,
+      "offset": 119.72,
+      "lang": "en"
+    },
+    {
+      "text": "Oh yeah, you don&#39;t have to learn to",
+      "duration": 3.36,
+      "offset": 122.24,
+      "lang": "en"
+    },
+    {
+      "text": "upcode. Maybe now it&#39;s good if you want",
+      "duration": 4.32,
+      "offset": 123.12,
+      "lang": "en"
+    },
+    {
+      "text": "to at least build some more advanced",
+      "duration": 3.56,
+      "offset": 125.6,
+      "lang": "en"
+    },
+    {
+      "text": "stuff. In a very short while, you don&#39;t",
+      "duration": 3.64,
+      "offset": 127.44,
+      "lang": "en"
+    },
+    {
+      "text": "even have to know that. You can just",
+      "duration": 3.64,
+      "offset": 129.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt your way there. Then this Lovable",
+      "duration": 2.92,
+      "offset": 131.08,
+      "lang": "en"
+    },
+    {
+      "text": "hackathon came up. We thought to",
+      "duration": 2.88,
+      "offset": 132.8,
+      "lang": "en"
+    },
+    {
+      "text": "ourselves, &quot;Okay, but just let&#39;s sign up",
+      "duration": 3.08,
+      "offset": 134.0,
+      "lang": "en"
+    },
+    {
+      "text": "and and see what happens.&quot; The next",
+      "duration": 3.68,
+      "offset": 135.68,
+      "lang": "en"
+    },
+    {
+      "text": "question became, &quot;Okay, so what should",
+      "duration": 4.0,
+      "offset": 137.08,
+      "lang": "en"
+    },
+    {
+      "text": "we what should we build?&quot; And the thing",
+      "duration": 4.2,
+      "offset": 139.36,
+      "lang": "en"
+    },
+    {
+      "text": "is that how we got our customers to this",
+      "duration": 5.08,
+      "offset": 141.08,
+      "lang": "en"
+    },
+    {
+      "text": "coding bootcamp was using paid ads. We",
+      "duration": 4.56,
+      "offset": 143.56,
+      "lang": "en"
+    },
+    {
+      "text": "experienced a lot of different problems",
+      "duration": 4.04,
+      "offset": 146.16,
+      "lang": "en"
+    },
+    {
+      "text": "with the paid ad side of acquiring",
+      "duration": 3.84,
+      "offset": 148.12,
+      "lang": "en"
+    },
+    {
+      "text": "customers. So we thought to ourselves,",
+      "duration": 4.0,
+      "offset": 150.2,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Why not just solve our own problem?&quot; So",
+      "duration": 4.2,
+      "offset": 151.96,
+      "lang": "en"
+    },
+    {
+      "text": "we did that. We actually won the",
+      "duration": 4.36,
+      "offset": 154.2,
+      "lang": "en"
+    },
+    {
+      "text": "hackathon. Did he have time to build out",
+      "duration": 4.52,
+      "offset": 156.16,
+      "lang": "en"
+    },
+    {
+      "text": "like some of the core features of",
+      "duration": 4.28,
+      "offset": 158.56,
+      "lang": "en"
+    },
+    {
+      "text": "Stardust? We had 24 hours in the",
+      "duration": 4.48,
+      "offset": 160.68,
+      "lang": "en"
+    },
+    {
+      "text": "hackathon to do this. So",
+      "duration": 5.12,
+      "offset": 162.84,
+      "lang": "en"
+    },
+    {
+      "text": "we picked a small segment of the app",
+      "duration": 4.64,
+      "offset": 165.16,
+      "lang": "en"
+    },
+    {
+      "text": "that we felt this is [music] the the",
+      "duration": 4.16,
+      "offset": 167.96,
+      "lang": "en"
+    },
+    {
+      "text": "part that&#39;s most easily understood by",
+      "duration": 4.76,
+      "offset": 169.8,
+      "lang": "en"
+    },
+    {
+      "text": "non-marketing people. So we built that a",
+      "duration": 4.04,
+      "offset": 172.12,
+      "lang": "en"
+    },
+    {
+      "text": "prototype for that. And what does",
+      "duration": 3.84,
+      "offset": 174.56,
+      "lang": "en"
+    },
+    {
+      "text": "Stardust do today? It watches your ads",
+      "duration": 4.52,
+      "offset": 176.16,
+      "lang": "en"
+    },
+    {
+      "text": "like a human. It thinks strategically",
+      "duration": 4.08,
+      "offset": 178.4,
+      "lang": "en"
+    },
+    {
+      "text": "and then it tells you what to launch",
+      "duration": 4.36,
+      "offset": 180.68,
+      "lang": "en"
+    },
+    {
+      "text": "next and why it will work. In 2019,",
+      "duration": 5.36,
+      "offset": 182.48,
+      "lang": "en"
+    },
+    {
+      "text": "TikTok revolutionized social media. It",
+      "duration": 5.68,
+      "offset": 185.04,
+      "lang": "en"
+    },
+    {
+      "text": "introduced the interest-based algorithm.",
+      "duration": 5.64,
+      "offset": 187.84,
+      "lang": "en"
+    },
+    {
+      "text": "So before, in the old world, targeting",
+      "duration": 5.84,
+      "offset": 190.72,
+      "lang": "en"
+    },
+    {
+      "text": "was made in the ads manager. You could",
+      "duration": 5.0,
+      "offset": 193.48,
+      "lang": "en"
+    },
+    {
+      "text": "say, &quot;I want this ad to be shown to to",
+      "duration": 4.16,
+      "offset": 196.56,
+      "lang": "en"
+    },
+    {
+      "text": "this kind of people. This age range,",
+      "duration": 4.48,
+      "offset": 198.48,
+      "lang": "en"
+    },
+    {
+      "text": "this location, this interest and stuff",
+      "duration": 3.72,
+      "offset": 200.72,
+      "lang": "en"
+    },
+    {
+      "text": "like that.&quot; That doesn&#39;t work anymore.",
+      "duration": 3.76,
+      "offset": 202.96,
+      "lang": "en"
+    },
+    {
+      "text": "Now, in the new world, targeting is made",
+      "duration": 4.64,
+      "offset": 204.44,
+      "lang": "en"
+    },
+    {
+      "text": "in the creative. So the algorithm only",
+      "duration": 5.36,
+      "offset": 206.72,
+      "lang": "en"
+    },
+    {
+      "text": "pushes ads that resonate with your",
+      "duration": 5.44,
+      "offset": 209.08,
+      "lang": "en"
+    },
+    {
+      "text": "target audience. The day your target",
+      "duration": 4.4,
+      "offset": 212.08,
+      "lang": "en"
+    },
+    {
+      "text": "have to stop scrolling to look at your",
+      "duration": 5.44,
+      "offset": 214.52,
+      "lang": "en"
+    },
+    {
+      "text": "ad. It must feel like it&#39;s not an ad. So",
+      "duration": 5.28,
+      "offset": 216.48,
+      "lang": "en"
+    },
+    {
+      "text": "and this is a huge problem for marketers",
+      "duration": 3.56,
+      "offset": 219.96,
+      "lang": "en"
+    },
+    {
+      "text": "today. There&#39;s so many data points. You",
+      "duration": 3.6,
+      "offset": 221.76,
+      "lang": "en"
+    },
+    {
+      "text": "can actually go down to a pixel level.",
+      "duration": 4.68,
+      "offset": 223.52,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s No human can do that. Maybe you can",
+      "duration": 5.32,
+      "offset": 225.36,
+      "lang": "en"
+    },
+    {
+      "text": "do it for one or two or three ads. But",
+      "duration": 4.12,
+      "offset": 228.2,
+      "lang": "en"
+    },
+    {
+      "text": "doing that for thousands of ads at the",
+      "duration": 3.96,
+      "offset": 230.68,
+      "lang": "en"
+    },
+    {
+      "text": "same time from your ads, your competitor",
+      "duration": 4.28,
+      "offset": 232.32,
+      "lang": "en"
+    },
+    {
+      "text": "ads on the industry level, it&#39;s",
+      "duration": 4.16,
+      "offset": 234.64,
+      "lang": "en"
+    },
+    {
+      "text": "impossible. But the AI and Stardust now",
+      "duration": 4.6,
+      "offset": 236.6,
+      "lang": "en"
+    },
+    {
+      "text": "you can do. So You&#39;re using AI to",
+      "duration": 4.92,
+      "offset": 238.8,
+      "lang": "en"
+    },
+    {
+      "text": "analyze these videos, right? Or how does",
+      "duration": 4.96,
+      "offset": 241.2,
+      "lang": "en"
+    },
+    {
+      "text": "it work? So basically, you install",
+      "duration": 4.52,
+      "offset": 243.72,
+      "lang": "en"
+    },
+    {
+      "text": "Stardust. So you connect your ad account",
+      "duration": 4.0,
+      "offset": 246.16,
+      "lang": "en"
+    },
+    {
+      "text": "to Stardust. Then Stardust gets to work.",
+      "duration": 3.6,
+      "offset": 248.24,
+      "lang": "en"
+    },
+    {
+      "text": "It fetches all of your ads you&#39;ve ever",
+      "duration": 4.64,
+      "offset": 250.16,
+      "lang": "en"
+    },
+    {
+      "text": "run and then it watches the ad, what&#39;s",
+      "duration": 5.16,
+      "offset": 251.84,
+      "lang": "en"
+    },
+    {
+      "text": "the background, what type of person, how",
+      "duration": 3.8,
+      "offset": 254.8,
+      "lang": "en"
+    },
+    {
+      "text": "many seconds into the video they",
+      "duration": 3.72,
+      "offset": 257.0,
+      "lang": "en"
+    },
+    {
+      "text": "presented product. And all of this it",
+      "duration": 5.04,
+      "offset": 258.6,
+      "lang": "en"
+    },
+    {
+      "text": "creates millions of data points and it",
+      "duration": 4.92,
+      "offset": 260.72,
+      "lang": "en"
+    },
+    {
+      "text": "then it looks at what are the common",
+      "duration": 4.48,
+      "offset": 263.64,
+      "lang": "en"
+    },
+    {
+      "text": "denominators for ads that do work well,",
+      "duration": 4.84,
+      "offset": 265.64,
+      "lang": "en"
+    },
+    {
+      "text": "but also for ads that doesn&#39;t work as",
+      "duration": 3.96,
+      "offset": 268.12,
+      "lang": "en"
+    },
+    {
+      "text": "well. And then it creates what we call",
+      "duration": 4.28,
+      "offset": 270.48,
+      "lang": "en"
+    },
+    {
+      "text": "your ad DNA. And that ad DNA becomes the",
+      "duration": 5.6,
+      "offset": 272.08,
+      "lang": "en"
+    },
+    {
+      "text": "genetic code that makes your ads",
+      "duration": 4.92,
+      "offset": 274.76,
+      "lang": "en"
+    },
+    {
+      "text": "perform. So Stardust actually takes all",
+      "duration": 4.52,
+      "offset": 277.68,
+      "lang": "en"
+    },
+    {
+      "text": "of these millions of data points in mind",
+      "duration": 3.68,
+      "offset": 279.68,
+      "lang": "en"
+    },
+    {
+      "text": "and then serves your decisions.",
+      "duration": 2.68,
+      "offset": 282.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And right now, how how many companies",
+      "duration": 3.52,
+      "offset": 283.36,
+      "lang": "en"
+    },
+    {
+      "text": "are are you kind of working with right",
+      "duration": 6.6,
+      "offset": 284.88,
+      "lang": "en"
+    },
+    {
+      "text": "now? So we pre-sold 20 customers before",
+      "duration": 6.8,
+      "offset": 286.88,
+      "lang": "en"
+    },
+    {
+      "text": "even starting building this. And then",
+      "duration": 4.2,
+      "offset": 291.48,
+      "lang": "en"
+    },
+    {
+      "text": "after 20, we closed the doors. How did",
+      "duration": 3.88,
+      "offset": 293.68,
+      "lang": "en"
+    },
+    {
+      "text": "you reach out to these companies? Or",
+      "duration": 3.52,
+      "offset": 295.68,
+      "lang": "en"
+    },
+    {
+      "text": "what was kind of the pitch? For us, it",
+      "duration": 3.8,
+      "offset": 297.56,
+      "lang": "en"
+    },
+    {
+      "text": "was really important to validate this",
+      "duration": 4.84,
+      "offset": 299.2,
+      "lang": "en"
+    },
+    {
+      "text": "thoroughly. And we wanted to validate it",
+      "duration": 4.8,
+      "offset": 301.36,
+      "lang": "en"
+    },
+    {
+      "text": "on three levels. First of all, we wanted",
+      "duration": 5.24,
+      "offset": 304.04,
+      "lang": "en"
+    },
+    {
+      "text": "to know is this problem worth solving",
+      "duration": 5.8,
+      "offset": 306.16,
+      "lang": "en"
+    },
+    {
+      "text": "for our potential customers. Cuz we had",
+      "duration": 4.12,
+      "offset": 309.28,
+      "lang": "en"
+    },
+    {
+      "text": "the problem ourselves, but that doesn&#39;t",
+      "duration": 2.96,
+      "offset": 311.96,
+      "lang": "en"
+    },
+    {
+      "text": "mean that other people have that. We",
+      "duration": 4.52,
+      "offset": 313.4,
+      "lang": "en"
+    },
+    {
+      "text": "also wanted to to validate our is it",
+      "duration": 5.36,
+      "offset": 314.92,
+      "lang": "en"
+    },
+    {
+      "text": "such a big problem that companies are",
+      "duration": 4.68,
+      "offset": 317.92,
+      "lang": "en"
+    },
+    {
+      "text": "willing to give up their contact",
+      "duration": 4.32,
+      "offset": 320.28,
+      "lang": "en"
+    },
+    {
+      "text": "information in order to join a waitlist?",
+      "duration": 3.48,
+      "offset": 322.6,
+      "lang": "en"
+    },
+    {
+      "text": "And given that they do that, are they",
+      "duration": 3.44,
+      "offset": 324.6,
+      "lang": "en"
+    },
+    {
+      "text": "willing to pay? So we set out to",
+      "duration": 3.6,
+      "offset": 326.08,
+      "lang": "en"
+    },
+    {
+      "text": "validate these three steps. So what we",
+      "duration": 4.52,
+      "offset": 328.04,
+      "lang": "en"
+    },
+    {
+      "text": "did was that we built a simple landing",
+      "duration": 4.52,
+      "offset": 329.68,
+      "lang": "en"
+    },
+    {
+      "text": "page using Lovable. In that landing",
+      "duration": 4.44,
+      "offset": 332.56,
+      "lang": "en"
+    },
+    {
+      "text": "page, we also built a micro version of a",
+      "duration": 5.2,
+      "offset": 334.2,
+      "lang": "en"
+    },
+    {
+      "text": "lead magnet. We promised the brands who",
+      "duration": 4.48,
+      "offset": 337.0,
+      "lang": "en"
+    },
+    {
+      "text": "were interested in what the problem we",
+      "duration": 4.4,
+      "offset": 339.4,
+      "lang": "en"
+    },
+    {
+      "text": "were solving would get a small benefit",
+      "duration": 4.08,
+      "offset": 341.48,
+      "lang": "en"
+    },
+    {
+      "text": "from giving us their information. So we",
+      "duration": 3.72,
+      "offset": 343.8,
+      "lang": "en"
+    },
+    {
+      "text": "so we started collecting a huge",
+      "duration": 3.52,
+      "offset": 345.56,
+      "lang": "en"
+    },
+    {
+      "text": "waitlist. And then we started calling",
+      "duration": 3.92,
+      "offset": 347.52,
+      "lang": "en"
+    },
+    {
+      "text": "these companies up just to try to",
+      "duration": 4.68,
+      "offset": 349.08,
+      "lang": "en"
+    },
+    {
+      "text": "understand like what are they their",
+      "duration": 4.04,
+      "offset": 351.44,
+      "lang": "en"
+    },
+    {
+      "text": "problems. And we learned a lot.",
+      "duration": 3.64,
+      "offset": 353.76,
+      "lang": "en"
+    },
+    {
+      "text": "Especially we could refine our ICP,",
+      "duration": 3.76,
+      "offset": 355.48,
+      "lang": "en"
+    },
+    {
+      "text": "ideal customer profile. So but we found",
+      "duration": 3.32,
+      "offset": 357.4,
+      "lang": "en"
+    },
+    {
+      "text": "that and the companies that we were",
+      "duration": 3.92,
+      "offset": 359.24,
+      "lang": "en"
+    },
+    {
+      "text": "talking to who matched our ICP, we",
+      "duration": 4.48,
+      "offset": 360.72,
+      "lang": "en"
+    },
+    {
+      "text": "scheduled a a sales call. And between",
+      "duration": 4.08,
+      "offset": 363.16,
+      "lang": "en"
+    },
+    {
+      "text": "the time from our telephone call to to",
+      "duration": 4.48,
+      "offset": 365.2,
+      "lang": "en"
+    },
+    {
+      "text": "the sales the videos online call, we",
+      "duration": 5.92,
+      "offset": 367.24,
+      "lang": "en"
+    },
+    {
+      "text": "built a down prototype in Lovable and",
+      "duration": 5.88,
+      "offset": 369.68,
+      "lang": "en"
+    },
+    {
+      "text": "just made a loom. Then we sent them to",
+      "duration": 5.04,
+      "offset": 373.16,
+      "lang": "en"
+    },
+    {
+      "text": "these people and then we had a a call",
+      "duration": 5.0,
+      "offset": 375.56,
+      "lang": "en"
+    },
+    {
+      "text": "with them. And we closed 93% of them.",
+      "duration": 5.36,
+      "offset": 378.2,
+      "lang": "en"
+    },
+    {
+      "text": "Wow. And also we could sell at least 20",
+      "duration": 5.76,
+      "offset": 380.56,
+      "lang": "en"
+    },
+    {
+      "text": "of them to pay six months up front for",
+      "duration": 3.92,
+      "offset": 383.56,
+      "lang": "en"
+    },
+    {
+      "text": "something that didn&#39;t exist. Just a",
+      "duration": 2.88,
+      "offset": 386.32,
+      "lang": "en"
+    },
+    {
+      "text": "promise that we will solve this problem.",
+      "duration": 3.4,
+      "offset": 387.48,
+      "lang": "en"
+    },
+    {
+      "text": "All the information about the product,",
+      "duration": 4.6,
+      "offset": 389.2,
+      "lang": "en"
+    },
+    {
+      "text": "we purposefully tried to cover in in the",
+      "duration": 4.84,
+      "offset": 390.88,
+      "lang": "en"
+    },
+    {
+      "text": "loom video. What we did on the sales",
+      "duration": 3.72,
+      "offset": 393.8,
+      "lang": "en"
+    },
+    {
+      "text": "call was we sold them on the",
+      "duration": 3.64,
+      "offset": 395.72,
+      "lang": "en"
+    },
+    {
+      "text": "transformation of becoming an what we",
+      "duration": 4.32,
+      "offset": 397.52,
+      "lang": "en"
+    },
+    {
+      "text": "call them OG. That meant an identity",
+      "duration": 4.4,
+      "offset": 399.36,
+      "lang": "en"
+    },
+    {
+      "text": "shift that they wanted to contribute to",
+      "duration": 3.92,
+      "offset": 401.84,
+      "lang": "en"
+    },
+    {
+      "text": "this this new revolution in the in the",
+      "duration": 4.0,
+      "offset": 403.76,
+      "lang": "en"
+    },
+    {
+      "text": "industry and we sold them on their new",
+      "duration": 3.64,
+      "offset": 405.76,
+      "lang": "en"
+    },
+    {
+      "text": "identity. And then obviously in order to",
+      "duration": 3.12,
+      "offset": 407.76,
+      "lang": "en"
+    },
+    {
+      "text": "pay six months up front, we also said",
+      "duration": 3.68,
+      "offset": 409.4,
+      "lang": "en"
+    },
+    {
+      "text": "that once you get the the software,",
+      "duration": 4.16,
+      "offset": 410.88,
+      "lang": "en"
+    },
+    {
+      "text": "30-day money-back guarantee. And then",
+      "duration": 4.16,
+      "offset": 413.08,
+      "lang": "en"
+    },
+    {
+      "text": "from those 20 customers, did you reach",
+      "duration": 5.52,
+      "offset": 415.04,
+      "lang": "en"
+    },
+    {
+      "text": "100,000 everyone ARR from those 20? Yes.",
+      "duration": 5.56,
+      "offset": 417.24,
+      "lang": "en"
+    },
+    {
+      "text": "Wow. So how much is is one customer",
+      "duration": 5.32,
+      "offset": 420.56,
+      "lang": "en"
+    },
+    {
+      "text": "then? 500 euros a month. We collected",
+      "duration": 6.6,
+      "offset": 422.8,
+      "lang": "en"
+    },
+    {
+      "text": "50,000 euros up front and then it renews",
+      "duration": 4.64,
+      "offset": 425.88,
+      "lang": "en"
+    },
+    {
+      "text": "six months",
+      "duration": 3.84,
+      "offset": 429.4,
+      "lang": "en"
+    },
+    {
+      "text": "from when they signed up. And I&#39;ve heard",
+      "duration": 4.56,
+      "offset": 430.52,
+      "lang": "en"
+    },
+    {
+      "text": "you guys are raising a round as well. Or",
+      "duration": 4.36,
+      "offset": 433.24,
+      "lang": "en"
+    },
+    {
+      "text": "is that private maybe? No, we&#39;re going",
+      "duration": 4.92,
+      "offset": 435.08,
+      "lang": "en"
+    },
+    {
+      "text": "to start raising in August. And and when",
+      "duration": 4.4,
+      "offset": 437.6,
+      "lang": "en"
+    },
+    {
+      "text": "is the product being being released for",
+      "duration": 4.2,
+      "offset": 440.0,
+      "lang": "en"
+    },
+    {
+      "text": "for kind of everyone? Or right now I",
+      "duration": 4.0,
+      "offset": 442.0,
+      "lang": "en"
+    },
+    {
+      "text": "guess you&#39;re getting feedback from your",
+      "duration": 3.6,
+      "offset": 444.2,
+      "lang": "en"
+    },
+    {
+      "text": "customers, adjusting the product. Or how",
+      "duration": 3.16,
+      "offset": 446.0,
+      "lang": "en"
+    },
+    {
+      "text": "does the process look like right now?",
+      "duration": 2.88,
+      "offset": 447.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The thing is that we&#39;re in the marketing",
+      "duration": 3.84,
+      "offset": 449.16,
+      "lang": "en"
+    },
+    {
+      "text": "tech which is both good and bad. In",
+      "duration": 4.6,
+      "offset": 450.68,
+      "lang": "en"
+    },
+    {
+      "text": "marketing tech, it&#39;s all about ROI. It&#39;s",
+      "duration": 4.36,
+      "offset": 453.0,
+      "lang": "en"
+    },
+    {
+      "text": "very easy to sell, but it&#39;s very hard to",
+      "duration": 4.24,
+      "offset": 455.28,
+      "lang": "en"
+    },
+    {
+      "text": "keep customers actually satisfied",
+      "duration": 4.28,
+      "offset": 457.36,
+      "lang": "en"
+    },
+    {
+      "text": "because it&#39;s a hard promise to fulfill.",
+      "duration": 3.8,
+      "offset": 459.52,
+      "lang": "en"
+    },
+    {
+      "text": "So right now we&#39;re working very very",
+      "duration": 4.08,
+      "offset": 461.64,
+      "lang": "en"
+    },
+    {
+      "text": "hard with our customers to make the",
+      "duration": 5.72,
+      "offset": 463.32,
+      "lang": "en"
+    },
+    {
+      "text": "product better, make them experience the",
+      "duration": 5.92,
+      "offset": 465.72,
+      "lang": "en"
+    },
+    {
+      "text": "ROI and also documenting that for also",
+      "duration": 4.68,
+      "offset": 469.04,
+      "lang": "en"
+    },
+    {
+      "text": "investors. Is there any learnings that",
+      "duration": 3.92,
+      "offset": 471.64,
+      "lang": "en"
+    },
+    {
+      "text": "you have taken away while building the",
+      "duration": 3.64,
+      "offset": 473.72,
+      "lang": "en"
+    },
+    {
+      "text": "product and while like validating the",
+      "duration": 3.64,
+      "offset": 475.56,
+      "lang": "en"
+    },
+    {
+      "text": "idea? First of all, you need to have",
+      "duration": 4.52,
+      "offset": 477.36,
+      "lang": "en"
+    },
+    {
+      "text": "packaging. I think a lot of AI startups,",
+      "duration": 5.04,
+      "offset": 479.2,
+      "lang": "en"
+    },
+    {
+      "text": "they are packaging their their offer as",
+      "duration": 5.0,
+      "offset": 481.88,
+      "lang": "en"
+    },
+    {
+      "text": "an an improvement offer. That this will",
+      "duration": 5.68,
+      "offset": 484.24,
+      "lang": "en"
+    },
+    {
+      "text": "make it faster, smarter, better,",
+      "duration": 5.0,
+      "offset": 486.88,
+      "lang": "en"
+    },
+    {
+      "text": "something that ends with er. Nobody",
+      "duration": 3.36,
+      "offset": 489.92,
+      "lang": "en"
+    },
+    {
+      "text": "wants something something an",
+      "duration": 2.64,
+      "offset": 491.88,
+      "lang": "en"
+    },
+    {
+      "text": "improvement. They want something new, a",
+      "duration": 3.04,
+      "offset": 493.28,
+      "lang": "en"
+    },
+    {
+      "text": "new way to think about, a new way to",
+      "duration": 4.8,
+      "offset": 494.52,
+      "lang": "en"
+    },
+    {
+      "text": "work. So you have to give them a new",
+      "duration": 5.48,
+      "offset": 496.32,
+      "lang": "en"
+    },
+    {
+      "text": "opportunity. Package it that way. If you",
+      "duration": 4.56,
+      "offset": 499.32,
+      "lang": "en"
+    },
+    {
+      "text": "want to read more upon that, I highly",
+      "duration": 4.24,
+      "offset": 501.8,
+      "lang": "en"
+    },
+    {
+      "text": "recommend looking at Russell Brunson. So",
+      "duration": 3.44,
+      "offset": 503.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the first core pillar. The second",
+      "duration": 3.16,
+      "offset": 506.04,
+      "lang": "en"
+    },
+    {
+      "text": "one is a lead magnet. A lead magnet is a",
+      "duration": 4.24,
+      "offset": 507.32,
+      "lang": "en"
+    },
+    {
+      "text": "complete solution to a narrowly defined",
+      "duration": 4.92,
+      "offset": 509.2,
+      "lang": "en"
+    },
+    {
+      "text": "problem. Whatever you&#39;re building that",
+      "duration": 4.48,
+      "offset": 511.56,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re offering some kind of value to",
+      "duration": 4.8,
+      "offset": 514.12,
+      "lang": "en"
+    },
+    {
+      "text": "the world, you try to divide it in what",
+      "duration": 5.72,
+      "offset": 516.04,
+      "lang": "en"
+    },
+    {
+      "text": "are the different steps some a customer",
+      "duration": 5.24,
+      "offset": 518.92,
+      "lang": "en"
+    },
+    {
+      "text": "needs to go through in order to get the",
+      "duration": 3.88,
+      "offset": 521.76,
+      "lang": "en"
+    },
+    {
+      "text": "final outcome of the final",
+      "duration": 4.36,
+      "offset": 524.16,
+      "lang": "en"
+    },
+    {
+      "text": "transformation. And then you take first",
+      "duration": 5.2,
+      "offset": 525.64,
+      "lang": "en"
+    },
+    {
+      "text": "one, two, or maybe even three steps in",
+      "duration": 3.96,
+      "offset": 528.52,
+      "lang": "en"
+    },
+    {
+      "text": "that journey and then solve it",
+      "duration": 3.92,
+      "offset": 530.84,
+      "lang": "en"
+    },
+    {
+      "text": "completely for them for free. If you",
+      "duration": 4.24,
+      "offset": 532.48,
+      "lang": "en"
+    },
+    {
+      "text": "want to know more about that, I highly",
+      "duration": 4.28,
+      "offset": 534.76,
+      "lang": "en"
+    },
+    {
+      "text": "recommend Alex Hormozi. And the third",
+      "duration": 5.04,
+      "offset": 536.72,
+      "lang": "en"
+    },
+    {
+      "text": "pillar is distribution. If you know your",
+      "duration": 5.08,
+      "offset": 539.04,
+      "lang": "en"
+    },
+    {
+      "text": "ICP, where do they hang out? And then",
+      "duration": 5.88,
+      "offset": 541.76,
+      "lang": "en"
+    },
+    {
+      "text": "reach out to the person who owns that",
+      "duration": 6.56,
+      "offset": 544.12,
+      "lang": "en"
+    },
+    {
+      "text": "space that your ICP hangs out. If you&#39;re",
+      "duration": 4.68,
+      "offset": 547.64,
+      "lang": "en"
+    },
+    {
+      "text": "good, then you&#39;ll probably strike a deal",
+      "duration": 3.44,
+      "offset": 550.68,
+      "lang": "en"
+    },
+    {
+      "text": "with that person. In that way, you can",
+      "duration": 3.16,
+      "offset": 552.32,
+      "lang": "en"
+    },
+    {
+      "text": "get so much more high-quality",
+      "duration": 3.0,
+      "offset": 554.12,
+      "lang": "en"
+    },
+    {
+      "text": "distribution than doing it all by",
+      "duration": 3.52,
+      "offset": 555.48,
+      "lang": "en"
+    },
+    {
+      "text": "yourselves from from the get-go. If",
+      "duration": 4.04,
+      "offset": 557.12,
+      "lang": "en"
+    },
+    {
+      "text": "someone is building an app on their own",
+      "duration": 3.96,
+      "offset": 559.0,
+      "lang": "en"
+    },
+    {
+      "text": "or some sort of service, um how should",
+      "duration": 3.72,
+      "offset": 561.16,
+      "lang": "en"
+    },
+    {
+      "text": "they think about selling and marketing?",
+      "duration": 4.88,
+      "offset": 562.96,
+      "lang": "en"
+    },
+    {
+      "text": "Start with some kind of customer segment",
+      "duration": 6.28,
+      "offset": 564.88,
+      "lang": "en"
+    },
+    {
+      "text": "that is easier to to get hold of and",
+      "duration": 5.92,
+      "offset": 567.84,
+      "lang": "en"
+    },
+    {
+      "text": "that have higher decision power. So",
+      "duration": 4.4,
+      "offset": 571.16,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re trying to focus on the smaller",
+      "duration": 3.52,
+      "offset": 573.76,
+      "lang": "en"
+    },
+    {
+      "text": "companies at least in the beginning.",
+      "duration": 3.56,
+      "offset": 575.56,
+      "lang": "en"
+    },
+    {
+      "text": "That is easier to target basically. As a",
+      "duration": 3.76,
+      "offset": 577.28,
+      "lang": "en"
+    },
+    {
+      "text": "salesperson, you have three jobs. First",
+      "duration": 4.36,
+      "offset": 579.12,
+      "lang": "en"
+    },
+    {
+      "text": "of all, ask questions so you actually",
+      "duration": 4.08,
+      "offset": 581.04,
+      "lang": "en"
+    },
+    {
+      "text": "know what kind of pains they are",
+      "duration": 3.68,
+      "offset": 583.48,
+      "lang": "en"
+    },
+    {
+      "text": "experiencing. The second job is to",
+      "duration": 4.88,
+      "offset": 585.12,
+      "lang": "en"
+    },
+    {
+      "text": "rephrase their answers back to them in a",
+      "duration": 4.16,
+      "offset": 587.16,
+      "lang": "en"
+    },
+    {
+      "text": "slightly different way so they feel",
+      "duration": 3.76,
+      "offset": 590.0,
+      "lang": "en"
+    },
+    {
+      "text": "understood. And the third job is to tell",
+      "duration": 5.52,
+      "offset": 591.32,
+      "lang": "en"
+    },
+    {
+      "text": "stories in order to break false beliefs.",
+      "duration": 5.88,
+      "offset": 593.76,
+      "lang": "en"
+    },
+    {
+      "text": "So if I&#39;m selling you, my job is not to",
+      "duration": 6.08,
+      "offset": 596.84,
+      "lang": "en"
+    },
+    {
+      "text": "convince you to buy. No. My job is to",
+      "duration": 5.6,
+      "offset": 599.64,
+      "lang": "en"
+    },
+    {
+      "text": "make you realize that you have to buy.",
+      "duration": 4.64,
+      "offset": 602.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; When it comes to ads generally, let&#39;s",
+      "duration": 4.36,
+      "offset": 605.24,
+      "lang": "en"
+    },
+    {
+      "text": "say I&#39;m building like an app with",
+      "duration": 3.68,
+      "offset": 607.56,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable and I want to sell directly to",
+      "duration": 3.72,
+      "offset": 609.6,
+      "lang": "en"
+    },
+    {
+      "text": "customers consumers. What are some tips",
+      "duration": 3.92,
+      "offset": 611.24,
+      "lang": "en"
+    },
+    {
+      "text": "that you have there? There&#39;s four ways.",
+      "duration": 4.08,
+      "offset": 613.32,
+      "lang": "en"
+    },
+    {
+      "text": "The first one is one-to-one to people",
+      "duration": 4.36,
+      "offset": 615.16,
+      "lang": "en"
+    },
+    {
+      "text": "who know you. Calling them, emailing",
+      "duration": 5.0,
+      "offset": 617.4,
+      "lang": "en"
+    },
+    {
+      "text": "them, people you know, in your network.",
+      "duration": 5.24,
+      "offset": 619.52,
+      "lang": "en"
+    },
+    {
+      "text": "The other way is one-to-many. That&#39;s",
+      "duration": 4.96,
+      "offset": 622.4,
+      "lang": "en"
+    },
+    {
+      "text": "your your followers, your larger extent",
+      "duration": 6.44,
+      "offset": 624.76,
+      "lang": "en"
+    },
+    {
+      "text": "network. The third way is one-to-one to",
+      "duration": 5.88,
+      "offset": 627.36,
+      "lang": "en"
+    },
+    {
+      "text": "people who don&#39;t know you. That&#39;s cold",
+      "duration": 4.28,
+      "offset": 631.2,
+      "lang": "en"
+    },
+    {
+      "text": "outbound. Email campaigns,",
+      "duration": 4.2,
+      "offset": 633.24,
+      "lang": "en"
+    },
+    {
+      "text": "cold calling, stuff like that. And the",
+      "duration": 4.56,
+      "offset": 635.48,
+      "lang": "en"
+    },
+    {
+      "text": "fourth way is one-to-many to people who",
+      "duration": 4.96,
+      "offset": 637.44,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t know you. That&#39;s paid ads. All of",
+      "duration": 4.36,
+      "offset": 640.04,
+      "lang": "en"
+    },
+    {
+      "text": "them can work. They have different pros",
+      "duration": 4.52,
+      "offset": 642.4,
+      "lang": "en"
+    },
+    {
+      "text": "and cons, but I would recommend in the",
+      "duration": 4.64,
+      "offset": 644.4,
+      "lang": "en"
+    },
+    {
+      "text": "beginning start with",
+      "duration": 4.32,
+      "offset": 646.92,
+      "lang": "en"
+    },
+    {
+      "text": "something that you feel quite",
+      "duration": 4.4,
+      "offset": 649.04,
+      "lang": "en"
+    },
+    {
+      "text": "comfortable with given your earlier",
+      "duration": 4.84,
+      "offset": 651.24,
+      "lang": "en"
+    },
+    {
+      "text": "experiences and try to only focus on one",
+      "duration": 4.48,
+      "offset": 653.44,
+      "lang": "en"
+    },
+    {
+      "text": "of them and do it. And Alex Hormozi has",
+      "duration": 4.4,
+      "offset": 656.08,
+      "lang": "en"
+    },
+    {
+      "text": "a book on this. It&#39;s called 100 million",
+      "duration": 4.92,
+      "offset": 657.92,
+      "lang": "en"
+    },
+    {
+      "text": "dollar leads. I highly recommend reading",
+      "duration": 5.36,
+      "offset": 660.48,
+      "lang": "en"
+    },
+    {
+      "text": "that if if you&#39;re having a product built",
+      "duration": 5.16,
+      "offset": 662.84,
+      "lang": "en"
+    },
+    {
+      "text": "that that you trying to advertise. How",
+      "duration": 3.88,
+      "offset": 665.84,
+      "lang": "en"
+    },
+    {
+      "text": "does one go about learning these skills?",
+      "duration": 3.08,
+      "offset": 668.0,
+      "lang": "en"
+    },
+    {
+      "text": "What do you say? Like let&#39;s say the",
+      "duration": 3.6,
+      "offset": 669.72,
+      "lang": "en"
+    },
+    {
+      "text": "viewer is watching this and wants to",
+      "duration": 4.12,
+      "offset": 671.08,
+      "lang": "en"
+    },
+    {
+      "text": "start doing something on their own. I",
+      "duration": 3.24,
+      "offset": 673.32,
+      "lang": "en"
+    },
+    {
+      "text": "would I would say there&#39;s two ways of",
+      "duration": 3.52,
+      "offset": 675.2,
+      "lang": "en"
+    },
+    {
+      "text": "doing this. If you don&#39;t have any money,",
+      "duration": 4.8,
+      "offset": 676.56,
+      "lang": "en"
+    },
+    {
+      "text": "take a job. Try to work for free for",
+      "duration": 5.0,
+      "offset": 678.72,
+      "lang": "en"
+    },
+    {
+      "text": "someone you might think that they will",
+      "duration": 4.2,
+      "offset": 681.36,
+      "lang": "en"
+    },
+    {
+      "text": "actually be able to teach you a lot of",
+      "duration": 4.12,
+      "offset": 683.72,
+      "lang": "en"
+    },
+    {
+      "text": "these skills and like see them from a",
+      "duration": 3.6,
+      "offset": 685.56,
+      "lang": "en"
+    },
+    {
+      "text": "day-to-day basis like what are they",
+      "duration": 2.56,
+      "offset": 687.84,
+      "lang": "en"
+    },
+    {
+      "text": "doing? Why are they doing that? Trying",
+      "duration": 3.72,
+      "offset": 689.16,
+      "lang": "en"
+    },
+    {
+      "text": "to understand. Alternatively, if you",
+      "duration": 3.68,
+      "offset": 690.4,
+      "lang": "en"
+    },
+    {
+      "text": "have a good idea and you&#39;re very",
+      "duration": 2.8,
+      "offset": 692.88,
+      "lang": "en"
+    },
+    {
+      "text": "tech-savvy, you&#39;re doing really good at",
+      "duration": 3.24,
+      "offset": 694.08,
+      "lang": "en"
+    },
+    {
+      "text": "the the selling marketing and",
+      "duration": 3.4,
+      "offset": 695.68,
+      "lang": "en"
+    },
+    {
+      "text": "distribution part, I would highly",
+      "duration": 4.08,
+      "offset": 697.32,
+      "lang": "en"
+    },
+    {
+      "text": "encourage you to find a co-founder",
+      "duration": 4.32,
+      "offset": 699.08,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s good in those areas that can",
+      "duration": 4.12,
+      "offset": 701.4,
+      "lang": "en"
+    },
+    {
+      "text": "actually complement you. If you have",
+      "duration": 4.16,
+      "offset": 703.4,
+      "lang": "en"
+    },
+    {
+      "text": "money, then you I would probably pay",
+      "duration": 3.96,
+      "offset": 705.52,
+      "lang": "en"
+    },
+    {
+      "text": "someone who is really really good at",
+      "duration": 5.16,
+      "offset": 707.56,
+      "lang": "en"
+    },
+    {
+      "text": "this either to hire them or maybe even",
+      "duration": 6.36,
+      "offset": 709.48,
+      "lang": "en"
+    },
+    {
+      "text": "better hire them to teach you. What are",
+      "duration": 4.92,
+      "offset": 712.72,
+      "lang": "en"
+    },
+    {
+      "text": "the biggest challenges that came your",
+      "duration": 3.76,
+      "offset": 715.84,
+      "lang": "en"
+    },
+    {
+      "text": "way when building this company?",
+      "duration": 3.64,
+      "offset": 717.64,
+      "lang": "en"
+    },
+    {
+      "text": "Prioritization. There&#39;s a definition of",
+      "duration": 4.0,
+      "offset": 719.6,
+      "lang": "en"
+    },
+    {
+      "text": "strategy that I really like. Strategy is",
+      "duration": 4.84,
+      "offset": 721.28,
+      "lang": "en"
+    },
+    {
+      "text": "how you allocate limited resources",
+      "duration": 5.0,
+      "offset": 723.6,
+      "lang": "en"
+    },
+    {
+      "text": "against unlimited opportunities. What&#39;s",
+      "duration": 5.08,
+      "offset": 726.12,
+      "lang": "en"
+    },
+    {
+      "text": "actually the few things that actually",
+      "duration": 4.12,
+      "offset": 728.6,
+      "lang": "en"
+    },
+    {
+      "text": "matter at the end of the day. First of",
+      "duration": 2.88,
+      "offset": 731.2,
+      "lang": "en"
+    },
+    {
+      "text": "all, having the ability to prioritize",
+      "duration": 3.16,
+      "offset": 732.72,
+      "lang": "en"
+    },
+    {
+      "text": "what do we need to do. The second one is",
+      "duration": 3.92,
+      "offset": 734.08,
+      "lang": "en"
+    },
+    {
+      "text": "having the consistency and the",
+      "duration": 5.12,
+      "offset": 735.88,
+      "lang": "en"
+    },
+    {
+      "text": "discipline to actually only do those few",
+      "duration": 4.84,
+      "offset": 738.0,
+      "lang": "en"
+    },
+    {
+      "text": "things that actually matter and probably",
+      "duration": 4.28,
+      "offset": 741.0,
+      "lang": "en"
+    },
+    {
+      "text": "won&#39;t be the the most fun parts, but",
+      "duration": 3.8,
+      "offset": 742.84,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s probably the thing that will make",
+      "duration": 2.88,
+      "offset": 745.28,
+      "lang": "en"
+    },
+    {
+      "text": "you successful. Your product is entirely",
+      "duration": 4.12,
+      "offset": 746.64,
+      "lang": "en"
+    },
+    {
+      "text": "built by Lovable. Is that correct? We",
+      "duration": 4.96,
+      "offset": 748.16,
+      "lang": "en"
+    },
+    {
+      "text": "used Lovable for a lot of the front-end",
+      "duration": 3.8,
+      "offset": 750.76,
+      "lang": "en"
+    },
+    {
+      "text": "stuff and Cursor for a lot of the",
+      "duration": 3.52,
+      "offset": 753.12,
+      "lang": "en"
+    },
+    {
+      "text": "back-end stuff. Did you come across any",
+      "duration": 3.64,
+      "offset": 754.56,
+      "lang": "en"
+    },
+    {
+      "text": "challenges while building out the",
+      "duration": 3.72,
+      "offset": 756.64,
+      "lang": "en"
+    },
+    {
+      "text": "product? What we&#39;re doing from a",
+      "duration": 4.4,
+      "offset": 758.2,
+      "lang": "en"
+    },
+    {
+      "text": "technical standpoint is very very hard,",
+      "duration": 3.68,
+      "offset": 760.36,
+      "lang": "en"
+    },
+    {
+      "text": "especially when working with external",
+      "duration": 3.72,
+      "offset": 762.6,
+      "lang": "en"
+    },
+    {
+      "text": "APIs. I think",
+      "duration": 6.2,
+      "offset": 764.04,
+      "lang": "en"
+    },
+    {
+      "text": "with tools like like AI-enabling coding,",
+      "duration": 5.68,
+      "offset": 766.32,
+      "lang": "en"
+    },
+    {
+      "text": "the hard part isn&#39;t building your own",
+      "duration": 4.64,
+      "offset": 770.24,
+      "lang": "en"
+    },
+    {
+      "text": "code. It&#39;s solving problems in a good",
+      "duration": 4.64,
+      "offset": 772.0,
+      "lang": "en"
+    },
+    {
+      "text": "way, especially when you&#39;re",
+      "duration": 3.44,
+      "offset": 774.88,
+      "lang": "en"
+    },
+    {
+      "text": "if you have external",
+      "duration": 4.28,
+      "offset": 776.64,
+      "lang": "en"
+    },
+    {
+      "text": "endpoints that you need to to adjust.",
+      "duration": 4.88,
+      "offset": 778.32,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, but going forward, what is the",
+      "duration": 4.56,
+      "offset": 780.92,
+      "lang": "en"
+    },
+    {
+      "text": "vision for Stardust? So, we want to",
+      "duration": 4.64,
+      "offset": 783.2,
+      "lang": "en"
+    },
+    {
+      "text": "build Stardust for is to become a",
+      "duration": 5.96,
+      "offset": 785.48,
+      "lang": "en"
+    },
+    {
+      "text": "promptless AI for your ads.",
+      "duration": 6.56,
+      "offset": 787.84,
+      "lang": "en"
+    },
+    {
+      "text": "So, we want it to be able to analyze",
+      "duration": 6.4,
+      "offset": 791.44,
+      "lang": "en"
+    },
+    {
+      "text": "millions of creatives, ads, social media",
+      "duration": 6.16,
+      "offset": 794.4,
+      "lang": "en"
+    },
+    {
+      "text": "trends and have that just in a vector",
+      "duration": 5.6,
+      "offset": 797.84,
+      "lang": "en"
+    },
+    {
+      "text": "database. We want it to",
+      "duration": 5.84,
+      "offset": 800.56,
+      "lang": "en"
+    },
+    {
+      "text": "think for you. We want it to basically",
+      "duration": 5.52,
+      "offset": 803.44,
+      "lang": "en"
+    },
+    {
+      "text": "you you install Stardust and then you",
+      "duration": 4.92,
+      "offset": 806.4,
+      "lang": "en"
+    },
+    {
+      "text": "just leave it. You never look at it. It",
+      "duration": 4.44,
+      "offset": 808.96,
+      "lang": "en"
+    },
+    {
+      "text": "tells you what what to do. The next",
+      "duration": 4.44,
+      "offset": 811.32,
+      "lang": "en"
+    },
+    {
+      "text": "phase is it tells you what it did. Phase",
+      "duration": 4.04,
+      "offset": 813.4,
+      "lang": "en"
+    },
+    {
+      "text": "after that, it just tells you the",
+      "duration": 3.0,
+      "offset": 815.76,
+      "lang": "en"
+    },
+    {
+      "text": "outcome. You can ask it for anything.",
+      "duration": 3.64,
+      "offset": 817.44,
+      "lang": "en"
+    },
+    {
+      "text": "Scripts, hooks, different AB test",
+      "duration": 4.48,
+      "offset": 818.76,
+      "lang": "en"
+    },
+    {
+      "text": "versions. What do you think about AI?",
+      "duration": 4.24,
+      "offset": 821.08,
+      "lang": "en"
+    },
+    {
+      "text": "Like people have been describing the AI",
+      "duration": 4.4,
+      "offset": 823.24,
+      "lang": "en"
+    },
+    {
+      "text": "revolution as the the next industrial",
+      "duration": 4.84,
+      "offset": 825.32,
+      "lang": "en"
+    },
+    {
+      "text": "revolution. So, before that you could",
+      "duration": 4.12,
+      "offset": 827.64,
+      "lang": "en"
+    },
+    {
+      "text": "have like a SaaS who had this very",
+      "duration": 3.6,
+      "offset": 830.16,
+      "lang": "en"
+    },
+    {
+      "text": "complex code base and it required a lot",
+      "duration": 4.68,
+      "offset": 831.76,
+      "lang": "en"
+    },
+    {
+      "text": "of time and capital to build and that",
+      "duration": 4.48,
+      "offset": 833.76,
+      "lang": "en"
+    },
+    {
+      "text": "was kind of your competitive advantage.",
+      "duration": 3.56,
+      "offset": 836.44,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s that will disappear. Now it&#39;s",
+      "duration": 4.4,
+      "offset": 838.24,
+      "lang": "en"
+    },
+    {
+      "text": "distribution, community.",
+      "duration": 4.28,
+      "offset": 840.0,
+      "lang": "en"
+    },
+    {
+      "text": "Because you can have",
+      "duration": 3.8,
+      "offset": 842.64,
+      "lang": "en"
+    },
+    {
+      "text": "thousands of thousands of loyal of",
+      "duration": 5.16,
+      "offset": 844.28,
+      "lang": "en"
+    },
+    {
+      "text": "customers, but if somebody else builds a",
+      "duration": 4.88,
+      "offset": 846.44,
+      "lang": "en"
+    },
+    {
+      "text": "better movement that they actually",
+      "duration": 4.24,
+      "offset": 849.44,
+      "lang": "en"
+    },
+    {
+      "text": "relate to more, then they might might as",
+      "duration": 6.0,
+      "offset": 851.32,
+      "lang": "en"
+    },
+    {
+      "text": "well leave. How can you keep customers",
+      "duration": 5.8,
+      "offset": 853.68,
+      "lang": "en"
+    },
+    {
+      "text": "staying loyal? How can you help [music]",
+      "duration": 5.24,
+      "offset": 857.32,
+      "lang": "en"
+    },
+    {
+      "text": "them frame as an identity shift? How can",
+      "duration": 6.32,
+      "offset": 859.48,
+      "lang": "en"
+    },
+    {
+      "text": "they identify as a Lovable developer? I",
+      "duration": 4.96,
+      "offset": 862.56,
+      "lang": "en"
+    },
+    {
+      "text": "think this was great interview. If you",
+      "duration": 4.28,
+      "offset": 865.8,
+      "lang": "en"
+    },
+    {
+      "text": "want to follow Rasmus and Stardust,",
+      "duration": 5.44,
+      "offset": 867.52,
+      "lang": "en"
+    },
+    {
+      "text": "their their tags and LinkedIns and X",
+      "duration": 4.28,
+      "offset": 870.08,
+      "lang": "en"
+    },
+    {
+      "text": "will pop up on the screen right now.",
+      "duration": 3.32,
+      "offset": 872.96,
+      "lang": "en"
+    },
+    {
+      "text": "They&#39;re also linked in the description.",
+      "duration": 3.48,
+      "offset": 874.36,
+      "lang": "en"
+    },
+    {
+      "text": "And if you&#39;re a company looking to",
+      "duration": 3.0,
+      "offset": 876.28,
+      "lang": "en"
+    },
+    {
+      "text": "optimize your ads,",
+      "duration": 2.88,
+      "offset": 877.84,
+      "lang": "en"
+    },
+    {
+      "text": "which I mean all companies should, I",
+      "duration": 3.96,
+      "offset": 879.28,
+      "lang": "en"
+    },
+    {
+      "text": "think, then you can check out Stardust",
+      "duration": 5.44,
+      "offset": 880.72,
+      "lang": "en"
+    },
+    {
+      "text": "as well at meetstardust.ai",
+      "duration": 4.56,
+      "offset": 883.24,
+      "lang": "en"
+    },
+    {
+      "text": "and you can give it a try.",
+      "duration": 3.48,
+      "offset": 886.16,
+      "lang": "en"
+    },
+    {
+      "text": "Yeah. Thanks for having me. No problem.",
+      "duration": 4.6,
+      "offset": 887.8,
+      "lang": "en"
+    },
+    {
+      "text": "Thanks for coming.",
+      "duration": 2.76,
+      "offset": 889.64,
+      "lang": "en"
+    }
+  ]
+}

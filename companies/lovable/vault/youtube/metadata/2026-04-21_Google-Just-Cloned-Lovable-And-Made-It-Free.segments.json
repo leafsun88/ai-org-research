@@ -1,0 +1,1779 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "KW_n1u429uI",
+  "url": "https://www.youtube.com/watch?v=KW_n1u429uI",
+  "title": "Google Just Cloned Lovable (And Made It Free)",
+  "channel": "Chase AI",
+  "source_queries": [
+    "Lovable prototype to production"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:18:53",
+  "segments": [
+    {
+      "text": "If you&#39;re still paying $40 a month for",
+      "duration": 3.92,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, it might be time to make a",
+      "duration": 3.76,
+      "offset": 2.08,
+      "lang": "en"
+    },
+    {
+      "text": "change because just this week, Google&#39;s",
+      "duration": 3.84,
+      "offset": 4.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI Studio released their new Vibe coding",
+      "duration": 4.32,
+      "offset": 5.84,
+      "lang": "en"
+    },
+    {
+      "text": "tool that allows you to quickly spin up",
+      "duration": 5.12,
+      "offset": 7.84,
+      "lang": "en"
+    },
+    {
+      "text": "MVPs for your apps without any code.",
+      "duration": 4.88,
+      "offset": 10.16,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s also able to integrate other Google",
+      "duration": 4.24,
+      "offset": 12.96,
+      "lang": "en"
+    },
+    {
+      "text": "tools into the Vibe coding process, so",
+      "duration": 4.56,
+      "offset": 15.04,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re one click away from adding V3 or",
+      "duration": 4.4,
+      "offset": 17.2,
+      "lang": "en"
+    },
+    {
+      "text": "Nana Banana capability to your",
+      "duration": 3.76,
+      "offset": 19.6,
+      "lang": "en"
+    },
+    {
+      "text": "application. But I would argue the best",
+      "duration": 3.76,
+      "offset": 21.6,
+      "lang": "en"
+    },
+    {
+      "text": "part of this tool isn&#39;t how effective it",
+      "duration": 4.32,
+      "offset": 23.36,
+      "lang": "en"
+    },
+    {
+      "text": "is, it&#39;s the cost. Because it&#39;s",
+      "duration": 5.04,
+      "offset": 25.36,
+      "lang": "en"
+    },
+    {
+      "text": "virtually free. With up to 100 Google",
+      "duration": 5.84,
+      "offset": 27.68,
+      "lang": "en"
+    },
+    {
+      "text": "Gemini 2.5 Pro requests per day, you&#39;re",
+      "duration": 6.48,
+      "offset": 30.4,
+      "lang": "en"
+    },
+    {
+      "text": "able to validate, test, and deploy any",
+      "duration": 5.44,
+      "offset": 33.52,
+      "lang": "en"
+    },
+    {
+      "text": "application you want. This is a huge",
+      "duration": 3.84,
+      "offset": 36.88,
+      "lang": "en"
+    },
+    {
+      "text": "deal because having the ability to",
+      "duration": 4.88,
+      "offset": 38.96,
+      "lang": "en"
+    },
+    {
+      "text": "quickly and cheaply take your idea, turn",
+      "duration": 5.6,
+      "offset": 40.72,
+      "lang": "en"
+    },
+    {
+      "text": "it to an app, and validate the idea",
+      "duration": 4.24,
+      "offset": 43.84,
+      "lang": "en"
+    },
+    {
+      "text": "cannot be understated. So, in this",
+      "duration": 3.12,
+      "offset": 46.32,
+      "lang": "en"
+    },
+    {
+      "text": "video, I&#39;m going to show you how Google",
+      "duration": 3.28,
+      "offset": 48.08,
+      "lang": "en"
+    },
+    {
+      "text": "AI Studio works, and then we&#39;re going to",
+      "duration": 3.84,
+      "offset": 49.44,
+      "lang": "en"
+    },
+    {
+      "text": "create an app, both in AI Studio and",
+      "duration": 3.76,
+      "offset": 51.36,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable, so you can see them compared",
+      "duration": 3.68,
+      "offset": 53.28,
+      "lang": "en"
+    },
+    {
+      "text": "head-to-head. So, here we are inside of",
+      "duration": 3.76,
+      "offset": 55.12,
+      "lang": "en"
+    },
+    {
+      "text": "Google&#39;s AI Studio. To get there, I&#39;ll",
+      "duration": 3.52,
+      "offset": 56.96,
+      "lang": "en"
+    },
+    {
+      "text": "put a link down below in the",
+      "duration": 2.48,
+      "offset": 58.88,
+      "lang": "en"
+    },
+    {
+      "text": "description, but it&#39;s just",
+      "duration": 3.12,
+      "offset": 60.48,
+      "lang": "en"
+    },
+    {
+      "text": "aistudio.google.com.",
+      "duration": 5.84,
+      "offset": 61.36,
+      "lang": "en"
+    },
+    {
+      "text": "Now, AI Studio is wild. A lot of people",
+      "duration": 5.2,
+      "offset": 63.6,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t know about it, but it allows you",
+      "duration": 4.48,
+      "offset": 67.2,
+      "lang": "en"
+    },
+    {
+      "text": "to essentially use most Gemini features",
+      "duration": 5.12,
+      "offset": 68.8,
+      "lang": "en"
+    },
+    {
+      "text": "for free. Um, in the intro I talked",
+      "duration": 3.76,
+      "offset": 71.68,
+      "lang": "en"
+    },
+    {
+      "text": "about the build tool, which is what",
+      "duration": 2.32,
+      "offset": 73.92,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to be talking about today.",
+      "duration": 2.8,
+      "offset": 75.44,
+      "lang": "en"
+    },
+    {
+      "text": "With Vive Coding being virtually free,",
+      "duration": 4.56,
+      "offset": 76.24,
+      "lang": "en"
+    },
+    {
+      "text": "you get a quota anywhere from like 25 to",
+      "duration": 5.6,
+      "offset": 78.24,
+      "lang": "en"
+    },
+    {
+      "text": "100 Gemini Pro 2.5 request per day and",
+      "duration": 4.8,
+      "offset": 80.8,
+      "lang": "en"
+    },
+    {
+      "text": "then it will switch over to your API,",
+      "duration": 3.36,
+      "offset": 83.84,
+      "lang": "en"
+    },
+    {
+      "text": "but it resets every day at midnight.",
+      "duration": 4.32,
+      "offset": 85.6,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s a very generous offer, frankly. And",
+      "duration": 4.16,
+      "offset": 87.2,
+      "lang": "en"
+    },
+    {
+      "text": "so, if you go to the homepage, you&#39;ll",
+      "duration": 3.12,
+      "offset": 89.92,
+      "lang": "en"
+    },
+    {
+      "text": "see stuff like this. You have chat over",
+      "duration": 3.36,
+      "offset": 91.36,
+      "lang": "en"
+    },
+    {
+      "text": "here on the left where you can select",
+      "duration": 2.88,
+      "offset": 93.04,
+      "lang": "en"
+    },
+    {
+      "text": "different models, right? I could talk",
+      "duration": 3.12,
+      "offset": 94.72,
+      "lang": "en"
+    },
+    {
+      "text": "with 2.5 Pro. It&#39;s just like I&#39;m in the",
+      "duration": 4.32,
+      "offset": 95.92,
+      "lang": "en"
+    },
+    {
+      "text": "Gemini app. I can go to Nano Banana to",
+      "duration": 4.48,
+      "offset": 97.84,
+      "lang": "en"
+    },
+    {
+      "text": "do more image stuff. But what we care",
+      "duration": 4.48,
+      "offset": 100.24,
+      "lang": "en"
+    },
+    {
+      "text": "about today is build, which is what we",
+      "duration": 4.96,
+      "offset": 102.32,
+      "lang": "en"
+    },
+    {
+      "text": "see over here on the left. And this is",
+      "duration": 5.04,
+      "offset": 104.72,
+      "lang": "en"
+    },
+    {
+      "text": "our section for vibe coding. And how it",
+      "duration": 4.56,
+      "offset": 107.28,
+      "lang": "en"
+    },
+    {
+      "text": "works is pretty simple. You just give it",
+      "duration": 4.08,
+      "offset": 109.76,
+      "lang": "en"
+    },
+    {
+      "text": "a prompt and it starts creating it. It",
+      "duration": 4.64,
+      "offset": 111.84,
+      "lang": "en"
+    },
+    {
+      "text": "works basically just like lovable or",
+      "duration": 4.08,
+      "offset": 113.84,
+      "lang": "en"
+    },
+    {
+      "text": "bold or any other vibe coding",
+      "duration": 3.36,
+      "offset": 116.48,
+      "lang": "en"
+    },
+    {
+      "text": "application. And we have the ability to",
+      "duration": 3.44,
+      "offset": 117.92,
+      "lang": "en"
+    },
+    {
+      "text": "choose our models. I always suggest",
+      "duration": 4.24,
+      "offset": 119.84,
+      "lang": "en"
+    },
+    {
+      "text": "using 2.5 Pro. You can give it system",
+      "duration": 4.64,
+      "offset": 121.36,
+      "lang": "en"
+    },
+    {
+      "text": "instructions. You can decide if you want",
+      "duration": 4.24,
+      "offset": 124.08,
+      "lang": "en"
+    },
+    {
+      "text": "it in Angular or React. And then",
+      "duration": 3.28,
+      "offset": 126.0,
+      "lang": "en"
+    },
+    {
+      "text": "obviously you can even choose your",
+      "duration": 2.24,
+      "offset": 128.32,
+      "lang": "en"
+    },
+    {
+      "text": "microphone. So, you can just dictate",
+      "duration": 4.16,
+      "offset": 129.28,
+      "lang": "en"
+    },
+    {
+      "text": "this all through voice.",
+      "duration": 4.08,
+      "offset": 130.56,
+      "lang": "en"
+    },
+    {
+      "text": "Down here, you have the ability to",
+      "duration": 3.68,
+      "offset": 133.44,
+      "lang": "en"
+    },
+    {
+      "text": "supercharge your apps with AI. Like I",
+      "duration": 5.04,
+      "offset": 134.64,
+      "lang": "en"
+    },
+    {
+      "text": "alluded to in the intro, you have access",
+      "duration": 4.64,
+      "offset": 137.12,
+      "lang": "en"
+    },
+    {
+      "text": "to the full suite of Google tools. So,",
+      "duration": 4.08,
+      "offset": 139.68,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s say I was trying to create an app",
+      "duration": 4.96,
+      "offset": 141.76,
+      "lang": "en"
+    },
+    {
+      "text": "that had nanobanana integrated into it.",
+      "duration": 4.96,
+      "offset": 143.76,
+      "lang": "en"
+    },
+    {
+      "text": "I just click that. All right. Now, it&#39;s",
+      "duration": 3.68,
+      "offset": 146.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to have nano banana. Oh, I wanted",
+      "duration": 3.12,
+      "offset": 148.72,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to animate images. Okay. I",
+      "duration": 2.88,
+      "offset": 150.4,
+      "lang": "en"
+    },
+    {
+      "text": "click that. I want to use Google data. I",
+      "duration": 3.36,
+      "offset": 151.84,
+      "lang": "en"
+    },
+    {
+      "text": "want a chatbot. I want, you know, you",
+      "duration": 3.68,
+      "offset": 153.28,
+      "lang": "en"
+    },
+    {
+      "text": "can go down the list and add all these",
+      "duration": 3.6,
+      "offset": 155.2,
+      "lang": "en"
+    },
+    {
+      "text": "things to your application, which is",
+      "duration": 3.84,
+      "offset": 156.96,
+      "lang": "en"
+    },
+    {
+      "text": "really nice because, you know, the AI",
+      "duration": 3.84,
+      "offset": 158.8,
+      "lang": "en"
+    },
+    {
+      "text": "features are already there, ready to go.",
+      "duration": 3.2,
+      "offset": 160.8,
+      "lang": "en"
+    },
+    {
+      "text": "You don&#39;t even have to go through and",
+      "duration": 3.28,
+      "offset": 162.64,
+      "lang": "en"
+    },
+    {
+      "text": "set up the entire like large language",
+      "duration": 3.44,
+      "offset": 164.0,
+      "lang": "en"
+    },
+    {
+      "text": "model infrastructure like, okay, let me",
+      "duration": 3.76,
+      "offset": 165.92,
+      "lang": "en"
+    },
+    {
+      "text": "go put in my API key. Like, it&#39;s all",
+      "duration": 4.88,
+      "offset": 167.44,
+      "lang": "en"
+    },
+    {
+      "text": "done for you for free. You also have the",
+      "duration": 4.56,
+      "offset": 169.68,
+      "lang": "en"
+    },
+    {
+      "text": "ability to add files here. And they have",
+      "duration": 3.84,
+      "offset": 172.32,
+      "lang": "en"
+    },
+    {
+      "text": "this I&#39;m feeling lucky tool. So, if",
+      "duration": 3.28,
+      "offset": 174.24,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just, you know, you have no idea",
+      "duration": 2.8,
+      "offset": 176.16,
+      "lang": "en"
+    },
+    {
+      "text": "what you want to create, you just click",
+      "duration": 3.2,
+      "offset": 177.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m feeling lucky, a nice throwback for",
+      "duration": 3.84,
+      "offset": 178.96,
+      "lang": "en"
+    },
+    {
+      "text": "Google users, and it will come up with a",
+      "duration": 3.92,
+      "offset": 180.72,
+      "lang": "en"
+    },
+    {
+      "text": "prompt for you for some sort of app. So,",
+      "duration": 3.68,
+      "offset": 182.8,
+      "lang": "en"
+    },
+    {
+      "text": "I hit I&#39;m feeling lucky a few times, and",
+      "duration": 3.44,
+      "offset": 184.64,
+      "lang": "en"
+    },
+    {
+      "text": "this brought us to the AI interior",
+      "duration": 3.68,
+      "offset": 186.48,
+      "lang": "en"
+    },
+    {
+      "text": "design consultant application, which is",
+      "duration": 3.52,
+      "offset": 188.08,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re going to be using for today&#39;s",
+      "duration": 3.6,
+      "offset": 190.16,
+      "lang": "en"
+    },
+    {
+      "text": "video. Long story short, the user",
+      "duration": 4.32,
+      "offset": 191.6,
+      "lang": "en"
+    },
+    {
+      "text": "uploads a photo of their current space.",
+      "duration": 4.72,
+      "offset": 193.76,
+      "lang": "en"
+    },
+    {
+      "text": "The app offers a carousel of reimagined",
+      "duration": 3.84,
+      "offset": 195.92,
+      "lang": "en"
+    },
+    {
+      "text": "style. So, hey, this is what it would",
+      "duration": 3.28,
+      "offset": 198.48,
+      "lang": "en"
+    },
+    {
+      "text": "look like in mid-century modern, blah,",
+      "duration": 4.48,
+      "offset": 199.76,
+      "lang": "en"
+    },
+    {
+      "text": "blah, blah. It has a compare slider so I",
+      "duration": 4.96,
+      "offset": 201.76,
+      "lang": "en"
+    },
+    {
+      "text": "can easily see the before and after. And",
+      "duration": 4.4,
+      "offset": 204.24,
+      "lang": "en"
+    },
+    {
+      "text": "it will also have a chatbot so I can",
+      "duration": 3.12,
+      "offset": 206.72,
+      "lang": "en"
+    },
+    {
+      "text": "actually type to it and say, &quot;Hey,",
+      "duration": 3.2,
+      "offset": 208.64,
+      "lang": "en"
+    },
+    {
+      "text": "change the color of this or add this to",
+      "duration": 4.4,
+      "offset": 209.84,
+      "lang": "en"
+    },
+    {
+      "text": "the room.&quot; Right? There&#39;s entire apps",
+      "duration": 4.0,
+      "offset": 211.84,
+      "lang": "en"
+    },
+    {
+      "text": "out there right now who make a ton of",
+      "duration": 3.84,
+      "offset": 214.24,
+      "lang": "en"
+    },
+    {
+      "text": "money just doing this. And we&#39;re going",
+      "duration": 4.64,
+      "offset": 215.84,
+      "lang": "en"
+    },
+    {
+      "text": "to create it in 2 seconds. Now, this is",
+      "duration": 3.76,
+      "offset": 218.08,
+      "lang": "en"
+    },
+    {
+      "text": "the same one that we&#39;re going to use in",
+      "duration": 3.28,
+      "offset": 220.48,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. So, we&#39;re going to knock it out",
+      "duration": 3.6,
+      "offset": 221.84,
+      "lang": "en"
+    },
+    {
+      "text": "here in AI Studio first, and we&#39;ll go",
+      "duration": 2.88,
+      "offset": 223.76,
+      "lang": "en"
+    },
+    {
+      "text": "over to Lovable, and we&#39;ll compare the",
+      "duration": 3.12,
+      "offset": 225.44,
+      "lang": "en"
+    },
+    {
+      "text": "two. So, all I&#39;m going to do is I&#39;m just",
+      "duration": 3.68,
+      "offset": 226.64,
+      "lang": "en"
+    },
+    {
+      "text": "going to hit build, and it&#39;s going to go",
+      "duration": 3.36,
+      "offset": 228.56,
+      "lang": "en"
+    },
+    {
+      "text": "to work. Now, as this is running, you&#39;ll",
+      "duration": 3.12,
+      "offset": 230.32,
+      "lang": "en"
+    },
+    {
+      "text": "see a few things that again very",
+      "duration": 3.68,
+      "offset": 231.92,
+      "lang": "en"
+    },
+    {
+      "text": "reminiscent to to lovable and bolt. Up",
+      "duration": 3.6,
+      "offset": 233.44,
+      "lang": "en"
+    },
+    {
+      "text": "top, you have the preview. So, this is",
+      "duration": 2.4,
+      "offset": 235.6,
+      "lang": "en"
+    },
+    {
+      "text": "where it&#39;s actually going to show the",
+      "duration": 4.08,
+      "offset": 237.04,
+      "lang": "en"
+    },
+    {
+      "text": "web app. You also have the code.",
+      "duration": 5.04,
+      "offset": 238.0,
+      "lang": "en"
+    },
+    {
+      "text": "Up here, we have the ability to save the",
+      "duration": 3.76,
+      "offset": 241.12,
+      "lang": "en"
+    },
+    {
+      "text": "app, download the app, and then we can",
+      "duration": 3.84,
+      "offset": 243.04,
+      "lang": "en"
+    },
+    {
+      "text": "also push it to GitHub. This is really",
+      "duration": 4.48,
+      "offset": 244.88,
+      "lang": "en"
+    },
+    {
+      "text": "useful um because what&#39;s the whole",
+      "duration": 4.96,
+      "offset": 246.88,
+      "lang": "en"
+    },
+    {
+      "text": "purpose of AI studio and lovable? It&#39;s",
+      "duration": 4.88,
+      "offset": 249.36,
+      "lang": "en"
+    },
+    {
+      "text": "quickly do MVPs, right? I have an idea.",
+      "duration": 4.08,
+      "offset": 251.84,
+      "lang": "en"
+    },
+    {
+      "text": "I want to see if it&#39;s legit and maybe",
+      "duration": 3.12,
+      "offset": 254.24,
+      "lang": "en"
+    },
+    {
+      "text": "throw it to a few people and see what",
+      "duration": 3.28,
+      "offset": 255.92,
+      "lang": "en"
+    },
+    {
+      "text": "they think. Once I want to get, you",
+      "duration": 3.68,
+      "offset": 257.36,
+      "lang": "en"
+    },
+    {
+      "text": "know, a little more robust, I probably",
+      "duration": 4.08,
+      "offset": 259.2,
+      "lang": "en"
+    },
+    {
+      "text": "want to take the code this created and",
+      "duration": 4.08,
+      "offset": 261.04,
+      "lang": "en"
+    },
+    {
+      "text": "then bring it to Claude Code, bring it",
+      "duration": 4.24,
+      "offset": 263.28,
+      "lang": "en"
+    },
+    {
+      "text": "to codeex and actually start like",
+      "duration": 4.32,
+      "offset": 265.12,
+      "lang": "en"
+    },
+    {
+      "text": "getting in the weeds and making this",
+      "duration": 4.08,
+      "offset": 267.52,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s, you know, a real",
+      "duration": 4.8,
+      "offset": 269.44,
+      "lang": "en"
+    },
+    {
+      "text": "productionready product. This is kind of",
+      "duration": 4.56,
+      "offset": 271.6,
+      "lang": "en"
+    },
+    {
+      "text": "that intermediary",
+      "duration": 3.84,
+      "offset": 274.24,
+      "lang": "en"
+    },
+    {
+      "text": "step and that&#39;s a step that lovable",
+      "duration": 3.44,
+      "offset": 276.16,
+      "lang": "en"
+    },
+    {
+      "text": "fulfilled before, but we had to pay for",
+      "duration": 3.44,
+      "offset": 278.08,
+      "lang": "en"
+    },
+    {
+      "text": "it. If I can do the same thing for",
+      "duration": 5.12,
+      "offset": 279.6,
+      "lang": "en"
+    },
+    {
+      "text": "cheap, well, I&#39;m all about it. Okay, so",
+      "duration": 5.52,
+      "offset": 281.52,
+      "lang": "en"
+    },
+    {
+      "text": "here we are. This took 87 seconds to",
+      "duration": 6.08,
+      "offset": 284.72,
+      "lang": "en"
+    },
+    {
+      "text": "run. And we got a very basic setup here.",
+      "duration": 5.36,
+      "offset": 287.04,
+      "lang": "en"
+    },
+    {
+      "text": "Right. Drag and drop your room photo",
+      "duration": 4.72,
+      "offset": 290.8,
+      "lang": "en"
+    },
+    {
+      "text": "here or browse a file. So, I&#39;m going to",
+      "duration": 6.24,
+      "offset": 292.4,
+      "lang": "en"
+    },
+    {
+      "text": "drop in a photo of this living room. And",
+      "duration": 5.6,
+      "offset": 295.52,
+      "lang": "en"
+    },
+    {
+      "text": "here we are. So, just grab this off the",
+      "duration": 3.6,
+      "offset": 298.64,
+      "lang": "en"
+    },
+    {
+      "text": "internet. You see down here on the",
+      "duration": 3.2,
+      "offset": 301.12,
+      "lang": "en"
+    },
+    {
+      "text": "bottom, we have different styles, right?",
+      "duration": 4.0,
+      "offset": 302.24,
+      "lang": "en"
+    },
+    {
+      "text": "I will actually move this over here so",
+      "duration": 3.04,
+      "offset": 304.32,
+      "lang": "en"
+    },
+    {
+      "text": "we can see it better. You know what?",
+      "duration": 3.2,
+      "offset": 306.24,
+      "lang": "en"
+    },
+    {
+      "text": "Even better, let&#39;s just go full screen.",
+      "duration": 5.84,
+      "offset": 307.36,
+      "lang": "en"
+    },
+    {
+      "text": "And so, I can hit mid-century modern.",
+      "duration": 5.36,
+      "offset": 309.44,
+      "lang": "en"
+    },
+    {
+      "text": "And here&#39;s what it gives us, right? And",
+      "duration": 3.92,
+      "offset": 313.2,
+      "lang": "en"
+    },
+    {
+      "text": "it also has this slider. So here&#39;s the",
+      "duration": 4.64,
+      "offset": 314.8,
+      "lang": "en"
+    },
+    {
+      "text": "original image and I can slide it over",
+      "duration": 4.8,
+      "offset": 317.12,
+      "lang": "en"
+    },
+    {
+      "text": "mid-century modern. Pretty smooth,",
+      "duration": 4.32,
+      "offset": 319.44,
+      "lang": "en"
+    },
+    {
+      "text": "right? It what it did in the back end is",
+      "duration": 3.76,
+      "offset": 321.92,
+      "lang": "en"
+    },
+    {
+      "text": "it took this original image, sent it off",
+      "duration": 4.24,
+      "offset": 323.76,
+      "lang": "en"
+    },
+    {
+      "text": "to nanobana. This is the nano banana",
+      "duration": 3.84,
+      "offset": 325.68,
+      "lang": "en"
+    },
+    {
+      "text": "image and let&#39;s me very quickly go",
+      "duration": 3.2,
+      "offset": 328.0,
+      "lang": "en"
+    },
+    {
+      "text": "between two of them. Right? If I hit",
+      "duration": 2.96,
+      "offset": 329.52,
+      "lang": "en"
+    },
+    {
+      "text": "Scandinavian, it&#39;s going to do the same",
+      "duration": 2.4,
+      "offset": 331.2,
+      "lang": "en"
+    },
+    {
+      "text": "thing. It&#39;s going to generate a new",
+      "duration": 3.12,
+      "offset": 332.48,
+      "lang": "en"
+    },
+    {
+      "text": "image and I can slide it across. Old",
+      "duration": 3.6,
+      "offset": 333.6,
+      "lang": "en"
+    },
+    {
+      "text": "image,",
+      "duration": 4.4,
+      "offset": 335.6,
+      "lang": "en"
+    },
+    {
+      "text": "new image. The first one was pretty",
+      "duration": 4.64,
+      "offset": 337.2,
+      "lang": "en"
+    },
+    {
+      "text": "Scandinavianesque, so not a lot of a",
+      "duration": 4.08,
+      "offset": 340.0,
+      "lang": "en"
+    },
+    {
+      "text": "difference, but I I&#39;m able to go inside",
+      "duration": 4.48,
+      "offset": 341.84,
+      "lang": "en"
+    },
+    {
+      "text": "here and say, &quot;Hey, let&#39;s do make the",
+      "duration": 5.52,
+      "offset": 344.08,
+      "lang": "en"
+    },
+    {
+      "text": "rug bright red.&quot; And there we go. Now we",
+      "duration": 5.28,
+      "offset": 346.32,
+      "lang": "en"
+    },
+    {
+      "text": "can see the room with a bright red rug.",
+      "duration": 5.44,
+      "offset": 349.6,
+      "lang": "en"
+    },
+    {
+      "text": "Right? Super easy, very simple app, but",
+      "duration": 5.6,
+      "offset": 351.6,
+      "lang": "en"
+    },
+    {
+      "text": "it actually does what it set out to do.",
+      "duration": 4.48,
+      "offset": 355.04,
+      "lang": "en"
+    },
+    {
+      "text": "Now, let&#39;s go over to Lovable. And",
+      "duration": 3.92,
+      "offset": 357.2,
+      "lang": "en"
+    },
+    {
+      "text": "again, this was a oneshot prompt. We",
+      "duration": 2.96,
+      "offset": 359.52,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t even have to edit anything. Let&#39;s",
+      "duration": 3.04,
+      "offset": 361.12,
+      "lang": "en"
+    },
+    {
+      "text": "go to Lovable, give it the essentially",
+      "duration": 3.28,
+      "offset": 362.48,
+      "lang": "en"
+    },
+    {
+      "text": "the exact same prompt, and see how it",
+      "duration": 4.88,
+      "offset": 364.16,
+      "lang": "en"
+    },
+    {
+      "text": "does. So here we are in lovable same",
+      "duration": 4.88,
+      "offset": 365.76,
+      "lang": "en"
+    },
+    {
+      "text": "prompt and we&#39;re telling hey just give",
+      "duration": 3.2,
+      "offset": 369.04,
+      "lang": "en"
+    },
+    {
+      "text": "it nanobanana functionality for the",
+      "duration": 4.24,
+      "offset": 370.64,
+      "lang": "en"
+    },
+    {
+      "text": "images and include an AI chatbot. Now my",
+      "duration": 5.6,
+      "offset": 372.24,
+      "lang": "en"
+    },
+    {
+      "text": "assumption is it won&#39;t be as smooth when",
+      "duration": 4.48,
+      "offset": 374.88,
+      "lang": "en"
+    },
+    {
+      "text": "it comes to those integrations right",
+      "duration": 2.88,
+      "offset": 377.84,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s obviously a lot of code going on",
+      "duration": 3.36,
+      "offset": 379.36,
+      "lang": "en"
+    },
+    {
+      "text": "in the backend for Google AI studio when",
+      "duration": 4.0,
+      "offset": 380.72,
+      "lang": "en"
+    },
+    {
+      "text": "it comes to you know just clicking in",
+      "duration": 3.68,
+      "offset": 382.72,
+      "lang": "en"
+    },
+    {
+      "text": "Nano Banana and clicking in the chatbot",
+      "duration": 3.36,
+      "offset": 384.72,
+      "lang": "en"
+    },
+    {
+      "text": "and that stuff. This this will probably",
+      "duration": 3.6,
+      "offset": 386.4,
+      "lang": "en"
+    },
+    {
+      "text": "be a little clunkier but let&#39;s see how",
+      "duration": 3.6,
+      "offset": 388.08,
+      "lang": "en"
+    },
+    {
+      "text": "it works. All right. Lovable is asking",
+      "duration": 3.84,
+      "offset": 390.0,
+      "lang": "en"
+    },
+    {
+      "text": "me if I want to enable cloud right. So,",
+      "duration": 4.32,
+      "offset": 391.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s adding an LLM to the app as well as",
+      "duration": 3.6,
+      "offset": 393.84,
+      "lang": "en"
+    },
+    {
+      "text": "sort of a built-in back. And this is a",
+      "duration": 2.8,
+      "offset": 396.0,
+      "lang": "en"
+    },
+    {
+      "text": "new thing with Loveable. Essentially,",
+      "duration": 4.0,
+      "offset": 397.44,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ll they&#39;ll add the AI functionality",
+      "duration": 4.56,
+      "offset": 398.8,
+      "lang": "en"
+    },
+    {
+      "text": "for you. Um, and it becomes kind of a",
+      "duration": 3.52,
+      "offset": 401.44,
+      "lang": "en"
+    },
+    {
+      "text": "pay as you go for the API from my",
+      "duration": 3.28,
+      "offset": 403.36,
+      "lang": "en"
+    },
+    {
+      "text": "understanding. So, here&#39;s what lovable",
+      "duration": 3.76,
+      "offset": 404.96,
+      "lang": "en"
+    },
+    {
+      "text": "gave us. Pretty similar on the surface.",
+      "duration": 5.04,
+      "offset": 406.64,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s try uploading a photo.",
+      "duration": 4.48,
+      "offset": 408.72,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, I guess we&#39;ll drag and drop it.",
+      "duration": 2.64,
+      "offset": 411.68,
+      "lang": "en"
+    },
+    {
+      "text": "Right. So, I dragged and dropped the",
+      "duration": 3.28,
+      "offset": 413.2,
+      "lang": "en"
+    },
+    {
+      "text": "photo. It doesn&#39;t show me the photo",
+      "duration": 4.16,
+      "offset": 414.32,
+      "lang": "en"
+    },
+    {
+      "text": "exactly, but it gives me the the",
+      "duration": 3.52,
+      "offset": 416.48,
+      "lang": "en"
+    },
+    {
+      "text": "options. So, I&#39;ll click mid-century",
+      "duration": 5.2,
+      "offset": 418.48,
+      "lang": "en"
+    },
+    {
+      "text": "modern. And here&#39;s the image it gave us.",
+      "duration": 7.12,
+      "offset": 420.0,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, I want to use the slider.",
+      "duration": 5.28,
+      "offset": 423.68,
+      "lang": "en"
+    },
+    {
+      "text": "Uh, okay. I have to use the slider down",
+      "duration": 4.72,
+      "offset": 427.12,
+      "lang": "en"
+    },
+    {
+      "text": "here, but",
+      "duration": 6.96,
+      "offset": 428.96,
+      "lang": "en"
+    },
+    {
+      "text": "still works. Okay, not bad.",
+      "duration": 5.84,
+      "offset": 431.84,
+      "lang": "en"
+    },
+    {
+      "text": "And we have our chatbot. So, let&#39;s say,",
+      "duration": 4.64,
+      "offset": 435.92,
+      "lang": "en"
+    },
+    {
+      "text": "hey, change the rug",
+      "duration": 6.16,
+      "offset": 437.68,
+      "lang": "en"
+    },
+    {
+      "text": "to neon green. All right. And instead of",
+      "duration": 5.2,
+      "offset": 440.56,
+      "lang": "en"
+    },
+    {
+      "text": "changing it, it&#39;s asking me a bunch of",
+      "duration": 5.52,
+      "offset": 443.84,
+      "lang": "en"
+    },
+    {
+      "text": "questions. Just make it green. Still",
+      "duration": 5.68,
+      "offset": 445.76,
+      "lang": "en"
+    },
+    {
+      "text": "asking me more questions. This is an",
+      "duration": 4.72,
+      "offset": 449.36,
+      "lang": "en"
+    },
+    {
+      "text": "annoying consultant. Just use your best",
+      "duration": 5.68,
+      "offset": 451.44,
+      "lang": "en"
+    },
+    {
+      "text": "judgment, brother.",
+      "duration": 6.0,
+      "offset": 454.08,
+      "lang": "en"
+    },
+    {
+      "text": "And make the red green. So, there&#39;s",
+      "duration": 5.2,
+      "offset": 457.12,
+      "lang": "en"
+    },
+    {
+      "text": "definitely some um editing we could do",
+      "duration": 3.52,
+      "offset": 460.08,
+      "lang": "en"
+    },
+    {
+      "text": "in terms of getting this to follow",
+      "duration": 4.56,
+      "offset": 462.32,
+      "lang": "en"
+    },
+    {
+      "text": "directions, but um on the surface, it&#39;s",
+      "duration": 4.88,
+      "offset": 463.6,
+      "lang": "en"
+    },
+    {
+      "text": "the the core functionality is working,",
+      "duration": 2.96,
+      "offset": 466.88,
+      "lang": "en"
+    },
+    {
+      "text": "right? Like, we&#39;re able to pick the",
+      "duration": 2.72,
+      "offset": 468.48,
+      "lang": "en"
+    },
+    {
+      "text": "thing and use the slider and get the",
+      "duration": 5.28,
+      "offset": 469.84,
+      "lang": "en"
+    },
+    {
+      "text": "images. Now, right away, do we notice a",
+      "duration": 6.24,
+      "offset": 471.2,
+      "lang": "en"
+    },
+    {
+      "text": "massive difference between this and this",
+      "duration": 4.4,
+      "offset": 475.12,
+      "lang": "en"
+    },
+    {
+      "text": "considering this cost $0 and this cost",
+      "duration": 5.04,
+      "offset": 477.44,
+      "lang": "en"
+    },
+    {
+      "text": "$40? Not really. And what we could do",
+      "duration": 4.24,
+      "offset": 479.52,
+      "lang": "en"
+    },
+    {
+      "text": "for the rest of this video is we could",
+      "duration": 3.28,
+      "offset": 482.48,
+      "lang": "en"
+    },
+    {
+      "text": "continue throwing more and more prompts",
+      "duration": 3.6,
+      "offset": 483.76,
+      "lang": "en"
+    },
+    {
+      "text": "in it and see how they do as it goes",
+      "duration": 2.88,
+      "offset": 485.76,
+      "lang": "en"
+    },
+    {
+      "text": "back and forth. But I&#39;m not going to",
+      "duration": 3.28,
+      "offset": 487.36,
+      "lang": "en"
+    },
+    {
+      "text": "waste your time. What you see here is",
+      "duration": 3.2,
+      "offset": 488.64,
+      "lang": "en"
+    },
+    {
+      "text": "pretty much what you&#39;re going to get.",
+      "duration": 3.04,
+      "offset": 490.64,
+      "lang": "en"
+    },
+    {
+      "text": "The Google AI Studio is really, really,",
+      "duration": 4.4,
+      "offset": 491.84,
+      "lang": "en"
+    },
+    {
+      "text": "really strong for free. Like I keep",
+      "duration": 3.76,
+      "offset": 493.68,
+      "lang": "en"
+    },
+    {
+      "text": "saying for free because this actually",
+      "duration": 2.56,
+      "offset": 496.24,
+      "lang": "en"
+    },
+    {
+      "text": "means something because again, what is",
+      "duration": 3.2,
+      "offset": 497.44,
+      "lang": "en"
+    },
+    {
+      "text": "this? It&#39;s a quick design tool. Does",
+      "duration": 3.52,
+      "offset": 498.8,
+      "lang": "en"
+    },
+    {
+      "text": "this MVP even make sense at all on the",
+      "duration": 3.04,
+      "offset": 500.64,
+      "lang": "en"
+    },
+    {
+      "text": "surface? Like what things are we going",
+      "duration": 2.96,
+      "offset": 502.32,
+      "lang": "en"
+    },
+    {
+      "text": "to run into in the real world? That&#39;s",
+      "duration": 3.12,
+      "offset": 503.68,
+      "lang": "en"
+    },
+    {
+      "text": "what that&#39;s the mindset you need for",
+      "duration": 4.56,
+      "offset": 505.28,
+      "lang": "en"
+    },
+    {
+      "text": "this. Like can you create apps and have",
+      "duration": 5.92,
+      "offset": 506.8,
+      "lang": "en"
+    },
+    {
+      "text": "them live inside lovable? Yes. Is it",
+      "duration": 5.44,
+      "offset": 509.84,
+      "lang": "en"
+    },
+    {
+      "text": "what you should do?",
+      "duration": 7.44,
+      "offset": 512.72,
+      "lang": "en"
+    },
+    {
+      "text": "Probably not long term. Um now does this",
+      "duration": 6.64,
+      "offset": 515.28,
+      "lang": "en"
+    },
+    {
+      "text": "mean that in every single circumstance,",
+      "duration": 3.36,
+      "offset": 520.16,
+      "lang": "en"
+    },
+    {
+      "text": "hey, Google AI Studio is going to blow",
+      "duration": 2.96,
+      "offset": 521.92,
+      "lang": "en"
+    },
+    {
+      "text": "lovable out of the water or that they&#39;re",
+      "duration": 3.6,
+      "offset": 523.52,
+      "lang": "en"
+    },
+    {
+      "text": "neck and neck? No. Where does Lovable",
+      "duration": 4.32,
+      "offset": 524.88,
+      "lang": "en"
+    },
+    {
+      "text": "excel at? Well, I think it excels at all",
+      "duration": 3.36,
+      "offset": 527.12,
+      "lang": "en"
+    },
+    {
+      "text": "its integrations, right? Like I have the",
+      "duration": 2.64,
+      "offset": 529.2,
+      "lang": "en"
+    },
+    {
+      "text": "ability to set up Superbase on here",
+      "duration": 3.92,
+      "offset": 530.48,
+      "lang": "en"
+    },
+    {
+      "text": "very, very simply. I have the ability to",
+      "duration": 5.28,
+      "offset": 531.84,
+      "lang": "en"
+    },
+    {
+      "text": "put in Shopify like you just saw here.",
+      "duration": 7.2,
+      "offset": 534.4,
+      "lang": "en"
+    },
+    {
+      "text": "But again, that&#39;s only super important,",
+      "duration": 6.4,
+      "offset": 537.12,
+      "lang": "en"
+    },
+    {
+      "text": "I think, if I want my final production",
+      "duration": 4.32,
+      "offset": 541.6,
+      "lang": "en"
+    },
+    {
+      "text": "act to be living here inside of Lovable.",
+      "duration": 4.64,
+      "offset": 543.52,
+      "lang": "en"
+    },
+    {
+      "text": "If I&#39;m treating these tools as I think",
+      "duration": 4.4,
+      "offset": 545.92,
+      "lang": "en"
+    },
+    {
+      "text": "they should be treated in a real setting",
+      "duration": 5.12,
+      "offset": 548.16,
+      "lang": "en"
+    },
+    {
+      "text": "is like again a very quick MVP spin-up",
+      "duration": 6.32,
+      "offset": 550.32,
+      "lang": "en"
+    },
+    {
+      "text": "before I go and take it to a real coder,",
+      "duration": 5.92,
+      "offset": 553.28,
+      "lang": "en"
+    },
+    {
+      "text": "right? Or at least cla",
+      "duration": 4.56,
+      "offset": 556.64,
+      "lang": "en"
+    },
+    {
+      "text": "um I think AI Studio really fills this",
+      "duration": 4.08,
+      "offset": 559.2,
+      "lang": "en"
+    },
+    {
+      "text": "niche and fills it really, really well.",
+      "duration": 3.68,
+      "offset": 561.2,
+      "lang": "en"
+    },
+    {
+      "text": "So,",
+      "duration": 2.88,
+      "offset": 563.28,
+      "lang": "en"
+    },
+    {
+      "text": "you know, I think before we were kind of",
+      "duration": 3.2,
+      "offset": 564.88,
+      "lang": "en"
+    },
+    {
+      "text": "limited in our options here. It was bolt",
+      "duration": 4.96,
+      "offset": 566.16,
+      "lang": "en"
+    },
+    {
+      "text": "lovable, maybe VO v0ero, right? Um, so",
+      "duration": 5.68,
+      "offset": 568.08,
+      "lang": "en"
+    },
+    {
+      "text": "this is an awesome addition to that",
+      "duration": 4.24,
+      "offset": 571.12,
+      "lang": "en"
+    },
+    {
+      "text": "little group. And again, just like",
+      "duration": 3.52,
+      "offset": 573.76,
+      "lang": "en"
+    },
+    {
+      "text": "lovable, same thing. Save the GitHub. I",
+      "duration": 3.92,
+      "offset": 575.36,
+      "lang": "en"
+    },
+    {
+      "text": "can deploy this app up here. You select",
+      "duration": 4.32,
+      "offset": 577.28,
+      "lang": "en"
+    },
+    {
+      "text": "the crow cloud project. It&#39;ll actually",
+      "duration": 3.68,
+      "offset": 579.28,
+      "lang": "en"
+    },
+    {
+      "text": "you just need to set up billing. It&#39;s",
+      "duration": 2.72,
+      "offset": 581.6,
+      "lang": "en"
+    },
+    {
+      "text": "pretty easy inside of there because",
+      "duration": 3.36,
+      "offset": 582.96,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll be using your real API, but then",
+      "duration": 5.04,
+      "offset": 584.32,
+      "lang": "en"
+    },
+    {
+      "text": "it will give you the actual web address.",
+      "duration": 4.4,
+      "offset": 586.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, I know that was really quick, but",
+      "duration": 3.2,
+      "offset": 589.36,
+      "lang": "en"
+    },
+    {
+      "text": "those are my thoughts on this new Google",
+      "duration": 3.52,
+      "offset": 590.72,
+      "lang": "en"
+    },
+    {
+      "text": "AI Studio update. I think this is a",
+      "duration": 4.48,
+      "offset": 592.56,
+      "lang": "en"
+    },
+    {
+      "text": "criminally underrated app, the Google AI",
+      "duration": 4.88,
+      "offset": 594.24,
+      "lang": "en"
+    },
+    {
+      "text": "Studio at large, and this is an awesome",
+      "duration": 3.68,
+      "offset": 597.04,
+      "lang": "en"
+    },
+    {
+      "text": "tool that they&#39;ve added because again,",
+      "duration": 4.48,
+      "offset": 599.12,
+      "lang": "en"
+    },
+    {
+      "text": "it just gives us options. Like, more",
+      "duration": 4.24,
+      "offset": 600.72,
+      "lang": "en"
+    },
+    {
+      "text": "things that we can play around with that",
+      "duration": 3.12,
+      "offset": 603.6,
+      "lang": "en"
+    },
+    {
+      "text": "are free, the better. So, definitely",
+      "duration": 3.52,
+      "offset": 604.96,
+      "lang": "en"
+    },
+    {
+      "text": "check it out. Again, description is down",
+      "duration": 5.84,
+      "offset": 606.72,
+      "lang": "en"
+    },
+    {
+      "text": "below. And as always, I&#39;ll see you guys",
+      "duration": 4.08,
+      "offset": 608.48,
+      "lang": "en"
+    }
+  ]
+}

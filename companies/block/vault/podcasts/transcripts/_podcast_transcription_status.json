@@ -1,0 +1,137 @@
+{
+  "ticker": "SQ",
+  "generated_at": "2026-04-16T17:12:07",
+  "retry_rounds": 3,
+  "min_duration_min": 0,
+  "total_records": 12,
+  "success_records": 8,
+  "failure_records": 4,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "Block, Inc. Tech Radar: Deploying agentic AI tools to automate operations and reduce costs",
+      "date": "2026-03-09",
+      "podcast": "Business Tech Radar",
+      "audio_url": "https://media.transistor.fm/c18c75b6/5634304c.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-03-09_Block-Inc-Tech-Radar-Deploying-agentic-AI-tools-to-automate.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Inside Block, Inc.: Connecting buyers and sellers while prioritizing autonomous commerce",
+      "date": "2026-03-09",
+      "podcast": "Inside the Business",
+      "audio_url": "https://media.transistor.fm/13dd74d8/2859f724.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-03-09_Inside-Block-Inc-Connecting-buyers-and-sellers-while-priorit.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Block, Inc. (SQ) Announced Q4 2025 Earnings on February 26, 2026, Reporting \"$2.87 billion in gross profit\".",
+      "date": "2026-03-05",
+      "podcast": "The Earnings Debate",
+      "audio_url": "https://media.transistor.fm/ed2b08c1/7bf4ef17.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-03-05_Block-Inc-SQ-Announced-Q4-2025-Earnings-on-February-26-2026.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Block (SQ) Q4-25 earnings: The AI workforce purge & monetizing shadow credit scores",
+      "date": "2026-02-27",
+      "podcast": "Earnings Unscripted: Stock Earnings Calls & Analysis",
+      "audio_url": "https://audio4.redcircle.com/episodes/87572fee-eeb8-489d-a8d6-426f3aaf5a50/stream.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-02-27_Block-SQ-Q4-25-earnings-The-AI-workforce-purge--monetizing-s.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "120k YouTube Views für 300€ | Jack Dorsey feuert 40% der Block Belegschaft | Pentagon vs. Anthropic #540",
+      "date": "2026-02-28",
+      "podcast": "Doppelgänger",
+      "audio_url": "https://traffic.megaphone.fm/LINDALA5364721788.mp3?updated=1772239641",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-02-28_120k-YouTube-Views-für-300--Jack-Dorsey-feuert-40-der-Block.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Nvidia Earnings, Paramount Emerges Victorious, Block Layoffs | Diet TBPN",
+      "date": "2026-02-27",
+      "podcast": "TBPN",
+      "audio_url": "https://media.transistor.fm/c1258396/df51c2ff.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-02-27_Nvidia-Earnings-Paramount-Emerges-Victorious-Block-Layoffs.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Former Twitter CEO Jack Dorsey FIRED Half His Staff at Block Inc. No Regrets.",
+      "date": "2026-02-28",
+      "podcast": "Clownfish TV Podcasts",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/1385/injector.simplecastaudio.com/f6478397-90a6-4e29-b259-64f088ad56d6/episodes/bca11164-b88c-433c-979f-0b54fae6a530/audio/128/default.mp3?aid=rss_feed&awCollectionId=f6478397-90a6-4e29-b259-64f088ad56d6&awEpisodeId=bca11164-b88c-433c-979f-0b54fae6a530&feed=qs4WfZdU",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2026-02-28_Former-Twitter-CEO-Jack-Dorsey-FIRED-Half-His-Staff-at-Block.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Block CFO & COO Amrita Ahuja on Cash App, Afterpay, and the Future of Fintech",
+      "date": "2025-09-22",
+      "podcast": "After Earnings",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI2903148397.mp3?updated=1758508253",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/SQ/sources/podcasts_transcripts/2025-09-22_Block-CFO--COO-Amrita-Ahuja-on-Cash-App-Afterpay-and-the-Fut.md"
+    },
+    {
+      "status": "failed",
+      "title": "EP265 | Block CEO Jack Dorsey 給員工的一封信，業績成長卻裁員40%，打造金融 AI原生企業的野心？ (說明欄中有連結)",
+      "date": "2026-02-28",
+      "podcast": "巴菲特AI實驗室",
+      "audio_url": "https://anchor.fm/s/104908e04/podcast/play/116167037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-28%2Ff0514a87-6541-766e-5a36-9cb6d34899bd.m4a",
+      "attempt_round": 3,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2026-1-28/f0514a87-6541-766e-5a36-9cb6d34899bd.m4a",
+        "https://anchor.fm/s/104908e04/podcast/play/116167037/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-28%2Ff0514a87-6541-766e-5a36-9cb6d34899bd.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/c8b0efe8-a88a-9691-ad21-b9ed15117b7a/2026-02-28_EP265--Block-CEO-Jack-Dorsey-給員工的一封信業績成長卻裁員40打造金融-AI原生企業的野心.m4a",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/ef09a0ab-0c3d-96ff-af2c-51c80db55c6c/2026-02-28_EP265--Block-CEO-Jack-Dorsey-給員工的一封信業績成長卻裁員40打造金融-AI原生企業的野心.m4a"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Block by Block: Building the Future of Money - Owen Jennings, Head of Product, Block [S9.E6]",
+      "date": "2025-09-07",
+      "podcast": "Scaling Up: Lessons From The World's Best CEOs and Founders",
+      "audio_url": "https://anchor.fm/s/f626c54/podcast/play/107984986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-7%2F361c5d52-14cf-05e4-a277-64e9adc89ae7.mp3",
+      "attempt_round": 3,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-8-7/361c5d52-14cf-05e4-a277-64e9adc89ae7.mp3",
+        "https://anchor.fm/s/f626c54/podcast/play/107984986/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-7%2F361c5d52-14cf-05e4-a277-64e9adc89ae7.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/74e32e25-0c84-9af0-bc08-3a62821e3211/2025-09-07_Block-by-Block-Building-the-Future-of-Money---Owen-Jennings.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/5cbcfa59-b09b-9021-a1ea-2f273aa98b6d/2025-09-07_Block-by-Block-Building-the-Future-of-Money---Owen-Jennings.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "152: Anthropic Defies Pentagon, Block Cuts 4,000 Jobs (Blaming AI), Gemini Imagen 3 Drops",
+      "date": "2026-03-02",
+      "podcast": "AI with Kyle",
+      "audio_url": "https://mcdn.podbean.com/mf/web/8stjxqampsdhifkj/mp3_150_Kyle_Balmer_AI_with_Kyle_Kyle_Balmer_Kyle_Balmer_and_iamkylebalmer_on_2026-02-27_at_1116169ysw1.mp3",
+      "attempt_round": 2,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://s356.podbean.com/pb/e100ed340347239d807322c1a13bfeec/69e01273/data1/fs22/21022979/uploads/mp3_150_Kyle_Balmer_AI_with_Kyle_Kyle_Balmer_Kyle_Balmer_and_iamkylebalmer_on_2026-02-27_at_1116169ysw1.mp3?pbss=740a2c22-611c-5535-b9b6-04457b4daa09",
+        "https://mcdn.podbean.com/mf/web/8stjxqampsdhifkj/mp3_150_Kyle_Balmer_AI_with_Kyle_Kyle_Balmer_Kyle_Balmer_and_iamkylebalmer_on_2026-02-27_at_1116169ysw1.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/7e71860d-3307-9d08-8fa1-0bc66273084e/2026-03-02_152-Anthropic-Defies-Pentagon-Block-Cuts-4000-Jobs-Blaming-A.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/eae1811d-0d31-90e8-b27e-8be083126cde/2026-03-02_152-Anthropic-Defies-Pentagon-Block-Cuts-4000-Jobs-Blaming-A.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "#684: Bringing Bitcoin to Every Square Seller in America with Miles Suter",
+      "date": "2025-11-17",
+      "podcast": "TFTC: A Bitcoin Podcast",
+      "audio_url": "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9/items/MAne9U9uZdphDNRZgg3T/files/AUDIO---DEFAULT---b039a336-cf9c-4f8f-87be-749c2ae73f39.mp3",
+      "attempt_round": 2,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://feeds.fountain.fm/ZwwaDULvAj0yZvJ5kdB9/items/MAne9U9uZdphDNRZgg3T/files/AUDIO---DEFAULT---b039a336-cf9c-4f8f-87be-749c2ae73f39.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-16/c2868a35-eb3f-96cf-9700-e659960a28ac/2025-11-17_684-Bringing-Bitcoin-to-Every-Square-Seller-in-America-with.mp3"
+      ]
+    }
+  ]
+}

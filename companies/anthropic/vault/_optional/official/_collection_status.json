@@ -1,0 +1,81 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "official",
+  "generated_at": "2026-04-17T13:15:59",
+  "total_records": 10,
+  "success_records": 9,
+  "failure_records": 1,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/careers",
+      "title": "careers",
+      "chars": 8526,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_careers.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news",
+      "title": "news",
+      "chars": 2276,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_news.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/research",
+      "title": "research",
+      "chars": 3190,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_research.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/responsible-scaling-policy",
+      "title": "responsible-scaling-policy",
+      "chars": 21327,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_responsible-scaling-policy.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+      "title": "anthropics-responsible-scaling-policy",
+      "chars": 6212,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_anthropics-responsible-scaling-policy.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+      "title": "announcing-our-updated-responsible-scaling-policy",
+      "chars": 10358,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_announcing-our-updated-responsible-scaling-policy.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/research/economic-index-march-2026-report/",
+      "title": "economic-index-march-2026-report",
+      "chars": 29227,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_economic-index-march-2026-report.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+      "title": "driving-ai-transformation-with-claude",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "title": "salesforce-anthropic-expanded-partnership",
+      "chars": 6076,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_salesforce-anthropic-expanded-partnership.md"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/expanding-global-operations-to-india",
+      "title": "expanding-global-operations-to-india",
+      "chars": 4139,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/official/unknown_expanding-global-operations-to-india.md"
+    }
+  ]
+}

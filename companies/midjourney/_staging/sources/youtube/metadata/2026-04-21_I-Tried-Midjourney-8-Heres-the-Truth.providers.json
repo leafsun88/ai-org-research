@@ -1,0 +1,16 @@
+{
+  "video_id": "i9qV9-2tzEA",
+  "title": "I Tried Midjourney 8… Here’s the Truth",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:10:10",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:10:10"
+}

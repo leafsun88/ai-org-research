@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-05",
+  "file_count": 146,
+  "total_size_kb": 4204,
+  "last_updated": "1970-01-01",
+  "sources": {"earnings":{"count":8,"latest":"2025-02-28_10-K.md"},"youtube":{"count":20,"latest":"2026-04-02_Is-AI-Killing-Duolingo-The-Truth-About-DUOL-Stock.md"},"podcasts_transcripts":{"count":13,"latest":"2026-02-27_Who-Will-Dominate-the-AI-Era-Hint-Its-Not-Who-You-Think-I-AI.md"},"substack_analysis":{"count":16,"latest":"duolingo-stock-will-history-repeat.md"},"social":{"count":3,"latest":"twitter_x.md"},"news_investigations":{"count":1,"latest":"_url_index.json"}},
+  "organization": {
+    "people_count": 17,
+    "breakdown": {"c_suite":8,"board":8,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

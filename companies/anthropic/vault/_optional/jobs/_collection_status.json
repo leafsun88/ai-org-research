@@ -1,0 +1,18 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "jobs_org",
+  "generated_at": "2026-04-17T13:24:06",
+  "total_records": 1,
+  "success_records": 1,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/careers",
+      "title": "careers",
+      "chars": 8526,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/jobs_org/unknown_careers.md"
+    }
+  ]
+}

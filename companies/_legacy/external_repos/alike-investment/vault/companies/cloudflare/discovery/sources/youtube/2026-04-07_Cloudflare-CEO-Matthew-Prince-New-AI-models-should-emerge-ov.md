@@ -1,0 +1,22 @@
+---
+type: youtube_transcript
+ticker: NET
+title: "Cloudflare CEO Matthew Prince: New AI models should emerge over the course of the year"
+channel: "CNBC Television"
+date: 2026-04-07
+video_id: fj-soQayonI
+url: https://www.youtube.com/watch?v=fj-soQayonI
+transcript_method: youtube-transcript-api
+credibility: S2
+evidence: E2
+---
+
+# Cloudflare CEO Matthew Prince: New AI models should emerge over the course of the year
+
+**Channel**: CNBC Television  
+**Date**: 2026-04-07  
+**URL**: https://www.youtube.com/watch?v=fj-soQayonI
+
+## Transcript
+
+expectations. So joining us now exclusively, Cloudflare co-founder and CEO Matthew Prince. Great to have you. Here on set. >> Welcome. >> Thank you so much for. >> Having me. >> So you had a strong earnings report. We covered it here on the show when the when the numbers crossed yesterday. One of the things that really stood out to me was the fact that you saw record growth in your largest customers, those that spend more than $1 million with a company per year. What is it about that cohort that the momentum is building and building strongly? >> You know. >> I think there are two things. >> That. >> Are really driving that at Cloudflare. The first is we've got a really broad. >> Product suite. >> Any. Any problem that. >> You have. >> As a company in networking. Whether it's security or. >> Performance reliability, we can solve. That for you. >> And so more and more companies are adopting our full product suite. But the other thing is. >> Over the. >> Last 18 months we've been really focusing. On improving our go to market action. Mark Anderson, who joined us as one of the world's best go. >> To market leaders. >> And he's really built an incredible team that is just taking our product to larger and larger companies, and that's showing up in the numbers. >> So how does that position you for 2025? Especially when we talk about we talk about cybersecurity. I mean it is a fragmented market. And there's many different companies operating in many different aspects of it. >> Yeah I think that's right. >> I mean. Cloudflare is focused. >> On being the leader. >> In network security. >> So again, if you have a problem in your. >> Network in any different way, whether. >> That's you need a new modern VPN, you need protection. >> Against cyber attacks from a firewall. >> Those are the sorts of problems. >> That we solve. We partner. >> With other companies that provide things like identity or endpoint security, but for that, we have a really. Comprehensive solution. >> And I think that positions. >> Us extremely well in 2025, as. >> Cybersecurity is. >> Still one of the top. >> Concerns in. Almost every. >> Company that I talk to. >> How is AI driving demand for the business? >> You know, I think one of the things that's really. >> Unique about Cloudflare is that. >> We count a huge percentage of the content creators, the people who are. >> Generating that original. >> Content, that. >> Is sort of. >> The fuel. >> Behind AI engines as customers. >> More than. 20% of the web. >> Uses Cloudflare. >> In order. >> To protect. >> Their systems. >> At the same time, we count most. >> Of the large AI. >> Companies as customers, and what we're seeing is that there needs to be a conversation between those two to figure out what the sort of future business model of the web is going to be, and that puts Cloudflare in a really unique position to be able to help broker that conversation. And that's something that we're we're really excited about in 2025. >> We haven't really talked about that very much on CNBC. What do you think that business model needs to be? How does that need to come together? >> Well. >> To give you some sense. >> One of the things we've tracked over the last. >> Ten years is how do content creators like. >> CNBC. >> Like others, get traffic to their site? Ten years ago, for every two pages that Google would scrape on your site, they would send you one visitor today. >> That's 6 to 1, six. >> Scrapes to one visitor. >> And if you talk to. >> Anyone who's in the publishing space and you say, how much harder has publishing got. >> Over the last. >> Ten years? >> Three times. >> Is about that. >> And that's. >> Still the good news. If you look at OpenAI, it's 250 to 1. If you look. At anthropic. It's 6000 to 1. And so we need some new model in order to help content creators make sure that they have incentives to continue to create content. And again, I think that's one of the conversations that we're helping facilitate at Cloudflar

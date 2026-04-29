@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-07",
+  "file_count": 36,
+  "total_size_kb": 428,
+  "last_updated": "1970-01-01",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":18,"latest":"2026-04-07_Is-Nu-Holdings-NU-a-Buy-MLY-Fool-Scoreboard-Gives.md"},"podcasts_transcripts":{"count":0,"latest":""},"substack_analysis":{"count":0,"latest":""},"social":{"count":3,"latest":"substack_analysis.md"},"news_investigations":{"count":0,"latest":""},"perplexity":{"count":5,"latest":"podcasts_transcripts_url_index.json"}},
+  "organization": {
+    "people_count": 0,
+    "breakdown": {}
+  },
+  "key_files": {
+    "org_scan_report": false,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

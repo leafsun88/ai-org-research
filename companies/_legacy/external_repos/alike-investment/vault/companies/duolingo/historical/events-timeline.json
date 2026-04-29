@@ -1,0 +1,243 @@
+{
+  "description": "Duolingo关键事件时间线 — 按时间排序，引用对应entry ID",
+  "timeline": [
+    {
+      "date": "2011-08-01",
+      "event": "Luis von Ahn创立Duolingo并担任CEO",
+      "category": "founding",
+      "significance": "high",
+      "entry_refs": ["evt_20110801_007"]
+    },
+    {
+      "date": "2011-11-01",
+      "event": "Severin Hacker加入担任CTO兼联合创始人",
+      "category": "leadership",
+      "significance": "high",
+      "entry_refs": ["evt_20111101_008"]
+    },
+    {
+      "date": "2015-03-01",
+      "event": "Natalie Glance加入担任VP Engineering（后升Chief Engineering Officer）",
+      "category": "leadership",
+      "significance": "medium",
+      "entry_refs": ["evt_20150301_010"]
+    },
+    {
+      "date": "2021-07-28",
+      "event": "Duolingo在NASDAQ上市（DUOL）",
+      "category": "milestone",
+      "significance": "high",
+      "entry_refs": []
+    },
+    {
+      "date": "2022-07-12",
+      "event": "Von Ahn上Tim Ferriss播客：详述领导力演变、微管理到mascot、A/B测试文化",
+      "category": "exec-voice",
+      "significance": "high",
+      "entry_refs": ["evt_20220712_001", "evt_20220712_002", "evt_20220712_006", "evt_20220712_037"]
+    },
+    {
+      "date": "2022-10-01",
+      "event": "Duolingo Math上线：首次从语言扩展到其他学科",
+      "category": "product",
+      "significance": "high",
+      "entry_refs": ["evt_20221001_043"]
+    },
+    {
+      "date": "2023-03-01",
+      "event": "Lenny Rachitsky深度报道Duolingo产品开发方法：矩阵组织、Co-lead、Green Machine",
+      "category": "org",
+      "significance": "high",
+      "entry_refs": ["evt_20260301_018", "evt_20230301_019", "evt_20230301_020", "evt_20230301_021", "evt_20230301_022"]
+    },
+    {
+      "date": "2023-03-01",
+      "event": "GPT-4集成：Explain My Answer和Roleplay功能上线",
+      "category": "product",
+      "significance": "high",
+      "entry_refs": ["evt_20230301_039"]
+    },
+    {
+      "date": "2023-09-01",
+      "event": "Music和Math课程整合进Duolingo主App",
+      "category": "product",
+      "significance": "high",
+      "entry_refs": ["evt_20230901_044"]
+    },
+    {
+      "date": "2024-01-09",
+      "event": "裁减约10%合同工（翻译/内容），因AI可替代",
+      "category": "org-change",
+      "significance": "high",
+      "entry_refs": ["evt_20240109_023"]
+    },
+    {
+      "date": "2024-03-31",
+      "event": "Q1 2024: DAU 31.4M(+54%), 营收$167.6M(+45%)",
+      "category": "earnings",
+      "significance": "medium",
+      "entry_refs": ["evt_20241231_047"]
+    },
+    {
+      "date": "2024-06-30",
+      "event": "Q2 2024: MAU突破1亿(103.6M), DAU 34.1M(+59%), 付费订阅者800万(+52%)",
+      "category": "earnings",
+      "significance": "high",
+      "entry_refs": ["evt_20241231_047"]
+    },
+    {
+      "date": "2024-10-01",
+      "event": "第二轮合同工裁减：写手被AI替代",
+      "category": "org-change",
+      "significance": "medium",
+      "entry_refs": ["evt_20241001_024"]
+    },
+    {
+      "date": "2024-12-31",
+      "event": "Q4/FY2024: 营收$748M(+40.8%), DAU 40.5M(+51%), 付费订阅者9.5M, Adj EBITDA margin 25.7%",
+      "category": "earnings",
+      "significance": "high",
+      "entry_refs": ["evt_20241231_047"]
+    },
+    {
+      "date": "2025-01-01",
+      "event": "Chess课程上线，成为史上增长最快新科目",
+      "category": "product",
+      "significance": "medium",
+      "entry_refs": ["evt_20250101_045"]
+    },
+    {
+      "date": "2025-03-31",
+      "event": "Q1 2025: DAU创纪录, 付费订阅者突破1000万, 营收+38% YoY",
+      "category": "earnings",
+      "significance": "high",
+      "entry_refs": ["evt_20250930_048"]
+    },
+    {
+      "date": "2025-04-01",
+      "event": "AI驱动148门新课程上线，超越此前12年总和",
+      "category": "product",
+      "significance": "high",
+      "entry_refs": ["evt_20250401_040"]
+    },
+    {
+      "date": "2025-04-25",
+      "event": "CEO发布'AI-first'全员备忘录：逐步停用合同工，AI纳入考核",
+      "category": "strategy",
+      "significance": "high",
+      "entry_refs": ["evt_20250425_025", "evt_20250425_016", "evt_20250425_029"]
+    },
+    {
+      "date": "2025-05-24",
+      "event": "Von Ahn澄清AI-first立场：不会替代全职员工，继续以相同速度招聘",
+      "category": "exec-voice",
+      "significance": "high",
+      "entry_refs": ["evt_20250524_026"]
+    },
+    {
+      "date": "2025-06-09",
+      "event": "Von Ahn对FT坦言对反弹程度感到意外",
+      "category": "exec-voice",
+      "significance": "medium",
+      "entry_refs": ["evt_20250609_027"]
+    },
+    {
+      "date": "2025-06-30",
+      "event": "Q2 2025: 营收+41%, 订阅收入+46%, ARPU+6%",
+      "category": "earnings",
+      "significance": "medium",
+      "entry_refs": ["evt_20250630_050"]
+    },
+    {
+      "date": "2025-08-01",
+      "event": "收购音乐游戏工作室NextBeat（$34.5M）",
+      "category": "acquisition",
+      "significance": "medium",
+      "entry_refs": ["evt_20250801_046"]
+    },
+    {
+      "date": "2025-08-01",
+      "event": "推出F-r-A-I-days每周五AI实验日",
+      "category": "org-change",
+      "significance": "medium",
+      "entry_refs": ["evt_20250801_017"]
+    },
+    {
+      "date": "2025-08-18",
+      "event": "Von Ahn再次澄清：从未裁减全职员工，AI让同等人力产出4-5倍",
+      "category": "exec-voice",
+      "significance": "high",
+      "entry_refs": ["evt_20250818_028"]
+    },
+    {
+      "date": "2025-09-24",
+      "event": "Von Ahn公开五大招聘准则和零容忍toxic文化",
+      "category": "exec-voice",
+      "significance": "medium",
+      "entry_refs": ["evt_20250924_003", "evt_20250924_004"]
+    },
+    {
+      "date": "2025-09-30",
+      "event": "Q3 2025: DAU突破5000万里程碑, DAU+36%, 创纪录Adj EBITDA $80M(margin 29.5%)",
+      "category": "earnings",
+      "significance": "high",
+      "entry_refs": ["evt_20250930_048"]
+    },
+    {
+      "date": "2025-12-31",
+      "event": "FY2025: 营收$1.04B(+38.7%), 净利润$414M(+367%), 员工900人",
+      "category": "earnings",
+      "significance": "high",
+      "entry_refs": ["evt_20250930_048", "evt_20260301_030"]
+    },
+    {
+      "date": "2026-02-26",
+      "event": "2026战略转向：优先用户增长而非短期利润，目标2028年1亿DAU，bookings指引仅10-12%增长",
+      "category": "strategy",
+      "significance": "high",
+      "entry_refs": ["evt_20260226_041"]
+    },
+    {
+      "date": "2026-03-26",
+      "event": "Von Ahn公开'出租车司机测试'招聘哲学",
+      "category": "exec-voice",
+      "significance": "medium",
+      "entry_refs": ["evt_20260326_005"]
+    },
+    {
+      "date": "2026-03-31",
+      "event": "股价从$500+高点跌超80%至~$100，市值$4.48B",
+      "category": "market",
+      "significance": "high",
+      "entry_refs": ["evt_20260331_051"]
+    },
+    {
+      "date": "2026-02-23",
+      "event": "CFO换人：Gillian Munson从董事会内部接任，Matt Skaruppa离任转顾问",
+      "category": "leadership",
+      "significance": "high",
+      "entry_refs": ["evt_20260202_056"]
+    },
+    {
+      "date": "2026-02-27",
+      "event": "Q4 2025财报后分析师集体降级：JP Morgan/Citi/Scotiabank/MS/Evercore均下调至Neutral",
+      "category": "market",
+      "significance": "high",
+      "entry_refs": ["evt_20260402_065"]
+    },
+    {
+      "date": "2026-03-03",
+      "event": "董事Jim Shelton(前美国教育部副部长)主动买入5000股@$99.76，约$49.9万",
+      "category": "insider",
+      "significance": "high",
+      "entry_refs": ["evt_20260303_060"]
+    },
+    {
+      "date": "2026-04-02",
+      "event": "估值进一步压缩至P/E 11.2x，做空比例升至21%，Baillie Gifford逆势加仓+72%成为第一大股东",
+      "category": "market",
+      "significance": "high",
+      "entry_refs": ["evt_20260402_062", "evt_20260402_061"]
+    }
+  ]
+}

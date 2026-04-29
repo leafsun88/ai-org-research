@@ -1,0 +1,89 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "type": "presentation",
+      "url": "https://s26.q4cdn.com/126400783/files/doc_financials/2026/q2/Q2-FY26-Earnings-Presentation-vF.pdf",
+      "label": "Q2 FY2026 Earnings Presentation",
+      "page": "config_seed",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q2-FY2026-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 943594
+    },
+    {
+      "type": "presentation",
+      "url": "https://s26.q4cdn.com/126400783/files/doc_financials/2026/q1/Q1-FY26-Earnings-Presentation-vF.pdf",
+      "label": "Q1 FY2026 Earnings Presentation",
+      "page": "config_seed",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q1-FY2026-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 362366
+    },
+    {
+      "type": "presentation",
+      "url": "https://s26.q4cdn.com/126400783/files/doc_financials/2025/q4/Q4-FY25-Earnings-Presentation-vF.pdf",
+      "label": "Q4 FY2025 Earnings Presentation",
+      "page": "config_seed",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q4-FY2025-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 552043
+    },
+    {
+      "type": "presentation",
+      "url": "https://s26.q4cdn.com/126400783/files/doc_financials/2025/q3/Q3-FY25-Earnings-Presentation-vF2.pdf",
+      "label": "Q3 FY2025 Earnings Presentation",
+      "page": "config_seed",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q3-FY2025-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 463846
+    },
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q2 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/412639-q2-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q2-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q2-2026_transcript.md",
+      "characters": 57299,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q1 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/375374-q1-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q1-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q1-2026_transcript.md",
+      "characters": 54030,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "type": "third_party_transcript",
+      "label": "Earnings Call: Q4 2025",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/343655-q4-2025/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q4-2025_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q4-2025_transcript.md",
+      "characters": 41819,
+      "source_type": "third_party_transcript_fallback"
+    }
+  ],
+  "gaps": [
+    {
+      "page": "events",
+      "url": "https://investor.sandisk.com/news-events/events",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "page": "presentations",
+      "url": "https://investor.sandisk.com/news-events/presentations",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    },
+    {
+      "page": "press_releases",
+      "url": "https://investor.sandisk.com/news-releases",
+      "reason": "HTTPSConnectionPool(host='investor.sandisk.com', port=443): Read timed out. (read timeout=6)"
+    }
+  ],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "earnings_calls_ir",
+  "updated_at": "2026-04-25T23:13:11"
+}

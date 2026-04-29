@@ -1,0 +1,39 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "founder_voice",
+  "generated_at": "2026-04-20T18:02:37",
+  "total_records": 4,
+  "success_records": 2,
+  "failure_records": 2,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+      "title": "ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+      "chars": 27966,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/founder_voice/unknown_ai-image-generation-art-midjourney-multiverse-interview-david-holz.md"
+    },
+    {
+      "status": "success",
+      "url": "https://venturebeat.com/ai/midjourney-founder-says-the-world-needs-more-imagination/",
+      "title": "midjourney-founder-says-the-world-needs-more-imagination",
+      "chars": 10488,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/founder_voice/unknown_midjourney-founder-says-the-world-needs-more-imagination.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+      "title": "midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.listennotes.com/podcasts/what-future-with/how-computers-dream-with-GaxD3dgovRK/",
+      "title": "how-computers-dream-with-GaxD3dgovRK",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

@@ -1,0 +1,1653 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "E8ET6K1D0e8",
+  "url": "https://www.youtube.com/watch?v=E8ET6K1D0e8",
+  "title": "David Holz on Midjourney's Mission and Impact",
+  "channel": "Midjourney Styles (SREFS.CO)",
+  "source_queries": [
+    "David Holz Midjourney interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T13:51:25",
+  "segments": [
+    {
+      "text": "welcome back for another Deep dive we&#39;re",
+      "duration": 4.8,
+      "offset": 0.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to be looking at uh well something",
+      "duration": 4.12,
+      "offset": 2.56,
+      "lang": "en"
+    },
+    {
+      "text": "pretty fascinating today some new",
+      "duration": 3.84,
+      "offset": 4.84,
+      "lang": "en"
+    },
+    {
+      "text": "developments in the art world you know",
+      "duration": 5.08,
+      "offset": 6.68,
+      "lang": "en"
+    },
+    {
+      "text": "Ai and art yeah it&#39;s certainly a Hot",
+      "duration": 5.8,
+      "offset": 8.68,
+      "lang": "en"
+    },
+    {
+      "text": "Topic these days it is and specifically",
+      "duration": 4.56,
+      "offset": 11.76,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to be diving into mid",
+      "duration": 4.52,
+      "offset": 14.48,
+      "lang": "en"
+    },
+    {
+      "text": "Journey a yeah that AI program that lets",
+      "duration": 4.4,
+      "offset": 16.32,
+      "lang": "en"
+    },
+    {
+      "text": "you create visuals sometimes really",
+      "duration": 3.92,
+      "offset": 19.0,
+      "lang": "en"
+    },
+    {
+      "text": "stunning visuals just by typing in words",
+      "duration": 5.4,
+      "offset": 20.72,
+      "lang": "en"
+    },
+    {
+      "text": "just a few words yeah and we were lucky",
+      "duration": 4.48,
+      "offset": 22.92,
+      "lang": "en"
+    },
+    {
+      "text": "enough to get an interview with the",
+      "duration": 3.24,
+      "offset": 26.12,
+      "lang": "en"
+    },
+    {
+      "text": "founder and CEO of mid Journey David",
+      "duration": 5.16,
+      "offset": 27.4,
+      "lang": "en"
+    },
+    {
+      "text": "Holtz and he shared some pretty well",
+      "duration": 5.84,
+      "offset": 29.36,
+      "lang": "en"
+    },
+    {
+      "text": "thought-provoking insights into Ai and",
+      "duration": 4.96,
+      "offset": 32.56,
+      "lang": "en"
+    },
+    {
+      "text": "art and where it&#39;s all heading so that",
+      "duration": 4.2,
+      "offset": 35.2,
+      "lang": "en"
+    },
+    {
+      "text": "begs the question you know what happens",
+      "duration": 4.24,
+      "offset": 37.52,
+      "lang": "en"
+    },
+    {
+      "text": "when anyone can create really incredible",
+      "duration": 4.8,
+      "offset": 39.4,
+      "lang": "en"
+    },
+    {
+      "text": "artwork with just a few keystrokes is",
+      "duration": 5.08,
+      "offset": 41.76,
+      "lang": "en"
+    },
+    {
+      "text": "this like the next evolution in art or",
+      "duration": 4.68,
+      "offset": 44.2,
+      "lang": "en"
+    },
+    {
+      "text": "the end of art as we know it yeah right",
+      "duration": 3.52,
+      "offset": 46.84,
+      "lang": "en"
+    },
+    {
+      "text": "A lot of people are asking that yeah one",
+      "duration": 2.88,
+      "offset": 48.88,
+      "lang": "en"
+    },
+    {
+      "text": "of the interesting things is that Holtz",
+      "duration": 3.76,
+      "offset": 50.36,
+      "lang": "en"
+    },
+    {
+      "text": "really emphasizes that mid Journey&#39;s",
+      "duration": 4.24,
+      "offset": 51.76,
+      "lang": "en"
+    },
+    {
+      "text": "goal is to actually expand human",
+      "duration": 4.72,
+      "offset": 54.12,
+      "lang": "en"
+    },
+    {
+      "text": "imagination not to replace it okay so",
+      "duration": 4.6,
+      "offset": 56.0,
+      "lang": "en"
+    },
+    {
+      "text": "they see AI is a tool",
+      "duration": 3.92,
+      "offset": 58.84,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like to help us be more creative",
+      "duration": 3.2,
+      "offset": 60.6,
+      "lang": "en"
+    },
+    {
+      "text": "instead of something that&#39;s going to you",
+      "duration": 2.92,
+      "offset": 62.76,
+      "lang": "en"
+    },
+    {
+      "text": "know take over the creative process",
+      "duration": 3.44,
+      "offset": 63.8,
+      "lang": "en"
+    },
+    {
+      "text": "right but that sounds a little",
+      "duration": 3.44,
+      "offset": 65.68,
+      "lang": "en"
+    },
+    {
+      "text": "idealistic doesn&#39;t it I mean this is a",
+      "duration": 3.4,
+      "offset": 67.24,
+      "lang": "en"
+    },
+    {
+      "text": "program that can basically create art",
+      "duration": 4.84,
+      "offset": 69.12,
+      "lang": "en"
+    },
+    {
+      "text": "for you so how does that actually expand",
+      "duration": 5.92,
+      "offset": 70.64,
+      "lang": "en"
+    },
+    {
+      "text": "imagination well think about it this way",
+      "duration": 5.16,
+      "offset": 73.96,
+      "lang": "en"
+    },
+    {
+      "text": "mid journey is built on this huge data",
+      "duration": 5.48,
+      "offset": 76.56,
+      "lang": "en"
+    },
+    {
+      "text": "set of images and styles it&#39;s like",
+      "duration": 4.96,
+      "offset": 79.12,
+      "lang": "en"
+    },
+    {
+      "text": "having I don&#39;t know like every art",
+      "duration": 4.44,
+      "offset": 82.04,
+      "lang": "en"
+    },
+    {
+      "text": "museum in the world at your fingertips",
+      "duration": 4.28,
+      "offset": 84.08,
+      "lang": "en"
+    },
+    {
+      "text": "all these different Artistic Styles yeah",
+      "duration": 4.44,
+      "offset": 86.48,
+      "lang": "en"
+    },
+    {
+      "text": "all that inspiration right you can blend",
+      "duration": 4.12,
+      "offset": 88.36,
+      "lang": "en"
+    },
+    {
+      "text": "those Styles you can experiment with",
+      "duration": 4.36,
+      "offset": 90.92,
+      "lang": "en"
+    },
+    {
+      "text": "different concepts you can explore ideas",
+      "duration": 4.4,
+      "offset": 92.48,
+      "lang": "en"
+    },
+    {
+      "text": "visually in a way that you maybe",
+      "duration": 3.16,
+      "offset": 95.28,
+      "lang": "en"
+    },
+    {
+      "text": "couldn&#39;t before that&#39;s interesting I",
+      "duration": 2.84,
+      "offset": 96.88,
+      "lang": "en"
+    },
+    {
+      "text": "think that&#39;s where that expansion of",
+      "duration": 3.32,
+      "offset": 98.44,
+      "lang": "en"
+    },
+    {
+      "text": "imagination comes in that makes a lot of",
+      "duration": 4.04,
+      "offset": 99.72,
+      "lang": "en"
+    },
+    {
+      "text": "sense so you&#39;re drawing on this massive",
+      "duration": 5.4,
+      "offset": 101.76,
+      "lang": "en"
+    },
+    {
+      "text": "library of inspiration and and Holtz did",
+      "duration": 5.8,
+      "offset": 103.76,
+      "lang": "en"
+    },
+    {
+      "text": "mention they have millions of users",
+      "duration": 4.32,
+      "offset": 107.16,
+      "lang": "en"
+    },
+    {
+      "text": "already like the biggest active Discord",
+      "duration": 4.64,
+      "offset": 109.56,
+      "lang": "en"
+    },
+    {
+      "text": "server out there it&#39;s pretty amazing it",
+      "duration": 4.32,
+      "offset": 111.48,
+      "lang": "en"
+    },
+    {
+      "text": "is it seems like people are really",
+      "duration": 3.08,
+      "offset": 114.2,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re excited about this and they want",
+      "duration": 3.68,
+      "offset": 115.8,
+      "lang": "en"
+    },
+    {
+      "text": "to play with it yeah I think it speaks",
+      "duration": 3.44,
+      "offset": 117.28,
+      "lang": "en"
+    },
+    {
+      "text": "to this",
+      "duration": 4.16,
+      "offset": 119.48,
+      "lang": "en"
+    },
+    {
+      "text": "kind of desire to create that we all",
+      "duration": 4.88,
+      "offset": 120.72,
+      "lang": "en"
+    },
+    {
+      "text": "have and mid Journey&#39;s made it so much",
+      "duration": 3.56,
+      "offset": 123.64,
+      "lang": "en"
+    },
+    {
+      "text": "more accessible you know right like you",
+      "duration": 3.16,
+      "offset": 125.6,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t have you don&#39;t have to spend Years",
+      "duration": 3.8,
+      "offset": 127.2,
+      "lang": "en"
+    },
+    {
+      "text": "Learning how to paint or sculpt yeah and",
+      "duration": 3.8,
+      "offset": 128.76,
+      "lang": "en"
+    },
+    {
+      "text": "some people just don&#39;t have the time for",
+      "duration": 2.92,
+      "offset": 131.0,
+      "lang": "en"
+    },
+    {
+      "text": "that right but they still have that",
+      "duration": 3.6,
+      "offset": 132.56,
+      "lang": "en"
+    },
+    {
+      "text": "creative urge and it lets them Express",
+      "duration": 4.44,
+      "offset": 133.92,
+      "lang": "en"
+    },
+    {
+      "text": "themselves visually totally and and he",
+      "duration": 3.64,
+      "offset": 136.16,
+      "lang": "en"
+    },
+    {
+      "text": "also mentioned that professional artists",
+      "duration": 3.72,
+      "offset": 138.36,
+      "lang": "en"
+    },
+    {
+      "text": "are using this too oh yeah so it&#39;s not",
+      "duration": 4.44,
+      "offset": 139.8,
+      "lang": "en"
+    },
+    {
+      "text": "just you know people experimenting or",
+      "duration": 4.4,
+      "offset": 142.08,
+      "lang": "en"
+    },
+    {
+      "text": "hobbyists absolutely it&#39;s actually like",
+      "duration": 4.48,
+      "offset": 144.24,
+      "lang": "en"
+    },
+    {
+      "text": "becoming part of the workflow for",
+      "duration": 4.68,
+      "offset": 146.48,
+      "lang": "en"
+    },
+    {
+      "text": "professional creatives he even gave this",
+      "duration": 4.0,
+      "offset": 148.72,
+      "lang": "en"
+    },
+    {
+      "text": "example of a really well-known character",
+      "duration": 3.96,
+      "offset": 151.16,
+      "lang": "en"
+    },
+    {
+      "text": "designer who&#39;s using M journey to help",
+      "duration": 4.84,
+      "offset": 152.72,
+      "lang": "en"
+    },
+    {
+      "text": "him create the backgrounds for his work",
+      "duration": 4.12,
+      "offset": 155.12,
+      "lang": "en"
+    },
+    {
+      "text": "and this guy is an incredible artist",
+      "duration": 4.2,
+      "offset": 157.56,
+      "lang": "en"
+    },
+    {
+      "text": "already that&#39;s really fascinated me it",
+      "duration": 5.68,
+      "offset": 159.24,
+      "lang": "en"
+    },
+    {
+      "text": "shows that even really skilled artists",
+      "duration": 5.2,
+      "offset": 161.76,
+      "lang": "en"
+    },
+    {
+      "text": "people at the top of their game yeah",
+      "duration": 4.96,
+      "offset": 164.92,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re finding value in these AI tools",
+      "duration": 5.4,
+      "offset": 166.96,
+      "lang": "en"
+    },
+    {
+      "text": "MH it&#39;s not about replacing their skills",
+      "duration": 5.16,
+      "offset": 169.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s more like augmenting them yeah",
+      "duration": 4.88,
+      "offset": 172.36,
+      "lang": "en"
+    },
+    {
+      "text": "maybe helping them overcome weaknesses",
+      "duration": 4.6,
+      "offset": 175.04,
+      "lang": "en"
+    },
+    {
+      "text": "right right or giving them new ideas",
+      "duration": 5.04,
+      "offset": 177.24,
+      "lang": "en"
+    },
+    {
+      "text": "like new creative Avenues to explore",
+      "duration": 3.88,
+      "offset": 179.64,
+      "lang": "en"
+    },
+    {
+      "text": "yeah new ways to think about what",
+      "duration": 2.76,
+      "offset": 182.28,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re doing so it&#39;s interesting it&#39;s",
+      "duration": 4.08,
+      "offset": 183.52,
+      "lang": "en"
+    },
+    {
+      "text": "not just a fun experiment it has real",
+      "duration": 4.92,
+      "offset": 185.04,
+      "lang": "en"
+    },
+    {
+      "text": "business applications he even mentioned",
+      "duration": 4.68,
+      "offset": 187.6,
+      "lang": "en"
+    },
+    {
+      "text": "that they offer like a corporate license",
+      "duration": 4.64,
+      "offset": 189.96,
+      "lang": "en"
+    },
+    {
+      "text": "for bigger companies oh wow think about",
+      "duration": 4.08,
+      "offset": 192.28,
+      "lang": "en"
+    },
+    {
+      "text": "the possibilities there right yeah like",
+      "duration": 4.6,
+      "offset": 194.6,
+      "lang": "en"
+    },
+    {
+      "text": "companies can use mid journey to create",
+      "duration": 5.92,
+      "offset": 196.36,
+      "lang": "en"
+    },
+    {
+      "text": "ad campaigns I was just thinking that or",
+      "duration": 5.92,
+      "offset": 199.2,
+      "lang": "en"
+    },
+    {
+      "text": "product designs or maybe even generate",
+      "duration": 4.6,
+      "offset": 202.28,
+      "lang": "en"
+    },
+    {
+      "text": "entire branding strategies that&#39;s a",
+      "duration": 4.2,
+      "offset": 205.12,
+      "lang": "en"
+    },
+    {
+      "text": "little scary yeah it raises some pretty",
+      "duration": 3.56,
+      "offset": 206.88,
+      "lang": "en"
+    },
+    {
+      "text": "big question",
+      "duration": 3.24,
+      "offset": 209.32,
+      "lang": "en"
+    },
+    {
+      "text": "yeah it does like will we start to see",
+      "duration": 4.0,
+      "offset": 210.44,
+      "lang": "en"
+    },
+    {
+      "text": "companies just using AI for their",
+      "duration": 4.48,
+      "offset": 212.56,
+      "lang": "en"
+    },
+    {
+      "text": "visuals instead of hiring an artist yeah",
+      "duration": 4.76,
+      "offset": 214.44,
+      "lang": "en"
+    },
+    {
+      "text": "are artists going to be out of a job",
+      "duration": 4.2,
+      "offset": 217.04,
+      "lang": "en"
+    },
+    {
+      "text": "exactly that&#39;s a big concern for people",
+      "duration": 4.92,
+      "offset": 219.2,
+      "lang": "en"
+    },
+    {
+      "text": "in Creative Fields huge concern yeah but",
+      "duration": 4.6,
+      "offset": 221.24,
+      "lang": "en"
+    },
+    {
+      "text": "before we I guess before we get into",
+      "duration": 3.6,
+      "offset": 224.12,
+      "lang": "en"
+    },
+    {
+      "text": "that too deeply yeah let&#39;s take a look",
+      "duration": 4.2,
+      "offset": 225.84,
+      "lang": "en"
+    },
+    {
+      "text": "at how mid Journey actually works okay",
+      "duration": 4.56,
+      "offset": 227.72,
+      "lang": "en"
+    },
+    {
+      "text": "because the core of this is this huge",
+      "duration": 5.2,
+      "offset": 230.04,
+      "lang": "en"
+    },
+    {
+      "text": "data set that holds described as this",
+      "duration": 5.64,
+      "offset": 232.28,
+      "lang": "en"
+    },
+    {
+      "text": "big scrape of the internet a scrape so",
+      "duration": 4.2,
+      "offset": 235.24,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re like what taking images from all",
+      "duration": 3.8,
+      "offset": 237.92,
+      "lang": "en"
+    },
+    {
+      "text": "over the web exactly they&#39;re basically",
+      "duration": 4.96,
+      "offset": 239.44,
+      "lang": "en"
+    },
+    {
+      "text": "feeding the AI with visual information",
+      "duration": 3.88,
+      "offset": 241.72,
+      "lang": "en"
+    },
+    {
+      "text": "okay from you know pretty much",
+      "duration": 2.88,
+      "offset": 244.4,
+      "lang": "en"
+    },
+    {
+      "text": "everywhere like giving it a crash course",
+      "duration": 3.36,
+      "offset": 245.6,
+      "lang": "en"
+    },
+    {
+      "text": "in art yeah it&#39;s like giving it a crash",
+      "duration": 3.12,
+      "offset": 247.28,
+      "lang": "en"
+    },
+    {
+      "text": "course in art history and design",
+      "duration": 3.44,
+      "offset": 248.96,
+      "lang": "en"
+    },
+    {
+      "text": "principles and different visual styles",
+      "duration": 3.48,
+      "offset": 250.4,
+      "lang": "en"
+    },
+    {
+      "text": "from all different cultures and time",
+      "duration": 4.44,
+      "offset": 252.4,
+      "lang": "en"
+    },
+    {
+      "text": "periods wow that&#39;s incredible yeah and",
+      "duration": 6.0,
+      "offset": 253.88,
+      "lang": "en"
+    },
+    {
+      "text": "then the AI uses that information to",
+      "duration": 5.0,
+      "offset": 256.84,
+      "lang": "en"
+    },
+    {
+      "text": "generate new images based on what people",
+      "duration": 4.0,
+      "offset": 259.88,
+      "lang": "en"
+    },
+    {
+      "text": "tell it to make so I&#39;m really curious",
+      "duration": 4.36,
+      "offset": 261.84,
+      "lang": "en"
+    },
+    {
+      "text": "now what kind of data are we talking",
+      "duration": 4.2,
+      "offset": 263.88,
+      "lang": "en"
+    },
+    {
+      "text": "about and then how does that actually",
+      "duration": 3.96,
+      "offset": 266.2,
+      "lang": "en"
+    },
+    {
+      "text": "translate into creating an image what",
+      "duration": 3.68,
+      "offset": 268.08,
+      "lang": "en"
+    },
+    {
+      "text": "kind of images are we talking about here",
+      "duration": 4.48,
+      "offset": 270.16,
+      "lang": "en"
+    },
+    {
+      "text": "I mean it&#39;s a lot Holts describe it as",
+      "duration": 4.76,
+      "offset": 271.76,
+      "lang": "en"
+    },
+    {
+      "text": "uh you know images from publicly",
+      "duration": 4.56,
+      "offset": 274.64,
+      "lang": "en"
+    },
+    {
+      "text": "available sources online including open",
+      "duration": 5.52,
+      "offset": 276.52,
+      "lang": "en"
+    },
+    {
+      "text": "data sets basically a gigantic digital",
+      "duration": 6.12,
+      "offset": 279.2,
+      "lang": "en"
+    },
+    {
+      "text": "art Library encompassing you know all",
+      "duration": 5.84,
+      "offset": 282.04,
+      "lang": "en"
+    },
+    {
+      "text": "sorts of styles and genres and subjects",
+      "duration": 3.96,
+      "offset": 285.32,
+      "lang": "en"
+    },
+    {
+      "text": "okay so we&#39;re talking everything like",
+      "duration": 3.72,
+      "offset": 287.88,
+      "lang": "en"
+    },
+    {
+      "text": "classic paintings to Modern photography",
+      "duration": 4.04,
+      "offset": 289.28,
+      "lang": "en"
+    },
+    {
+      "text": "yeah digital art everything it&#39;s all in",
+      "duration": 3.48,
+      "offset": 291.6,
+      "lang": "en"
+    },
+    {
+      "text": "there oh wow okay but then how does the",
+      "duration": 4.16,
+      "offset": 293.32,
+      "lang": "en"
+    },
+    {
+      "text": "AI actually use all this data to create",
+      "duration": 3.88,
+      "offset": 295.08,
+      "lang": "en"
+    },
+    {
+      "text": "something new something that hasn&#39;t been",
+      "duration": 3.28,
+      "offset": 297.48,
+      "lang": "en"
+    },
+    {
+      "text": "seen before well I guess you could think",
+      "duration": 5.08,
+      "offset": 298.96,
+      "lang": "en"
+    },
+    {
+      "text": "of it like this imagine um imagine",
+      "duration": 5.24,
+      "offset": 300.76,
+      "lang": "en"
+    },
+    {
+      "text": "learning to paint you know you study the",
+      "duration": 3.52,
+      "offset": 304.04,
+      "lang": "en"
+    },
+    {
+      "text": "great Masters observe different",
+      "duration": 3.6,
+      "offset": 306.0,
+      "lang": "en"
+    },
+    {
+      "text": "techniques and then you experiment yeah",
+      "duration": 3.88,
+      "offset": 307.56,
+      "lang": "en"
+    },
+    {
+      "text": "you develop your own style right you",
+      "duration": 3.6,
+      "offset": 309.6,
+      "lang": "en"
+    },
+    {
+      "text": "develop your own approach based on",
+      "duration": 3.44,
+      "offset": 311.44,
+      "lang": "en"
+    },
+    {
+      "text": "everything you&#39;ve learned and that&#39;s",
+      "duration": 3.48,
+      "offset": 313.2,
+      "lang": "en"
+    },
+    {
+      "text": "essentially what mid journey is doing it",
+      "duration": 4.0,
+      "offset": 314.88,
+      "lang": "en"
+    },
+    {
+      "text": "analyzes the patterns the relationships",
+      "duration": 3.84,
+      "offset": 316.68,
+      "lang": "en"
+    },
+    {
+      "text": "and all those artistic elements within",
+      "duration": 5.08,
+      "offset": 318.88,
+      "lang": "en"
+    },
+    {
+      "text": "that massive data set and then uses that",
+      "duration": 6.12,
+      "offset": 320.52,
+      "lang": "en"
+    },
+    {
+      "text": "to create images based on what people",
+      "duration": 5.28,
+      "offset": 323.96,
+      "lang": "en"
+    },
+    {
+      "text": "tell it to make so you&#39;re saying if I",
+      "duration": 5.16,
+      "offset": 326.64,
+      "lang": "en"
+    },
+    {
+      "text": "type in I don&#39;t know a cat wearing a",
+      "duration": 5.6,
+      "offset": 329.24,
+      "lang": "en"
+    },
+    {
+      "text": "spacit riding a unicorn on the moon it",
+      "duration": 5.44,
+      "offset": 331.8,
+      "lang": "en"
+    },
+    {
+      "text": "could actually create that image it",
+      "duration": 4.92,
+      "offset": 334.84,
+      "lang": "en"
+    },
+    {
+      "text": "probably could that&#39;s pretty wild it&#39;s",
+      "duration": 4.48,
+      "offset": 337.24,
+      "lang": "en"
+    },
+    {
+      "text": "like having you know a superpower art",
+      "duration": 3.72,
+      "offset": 339.76,
+      "lang": "en"
+    },
+    {
+      "text": "assistant yeah that can just translate",
+      "duration": 4.16,
+      "offset": 341.72,
+      "lang": "en"
+    },
+    {
+      "text": "your wildest ideas into a visual and",
+      "duration": 3.6,
+      "offset": 343.48,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s even cooler is that you can",
+      "duration": 3.92,
+      "offset": 345.88,
+      "lang": "en"
+    },
+    {
+      "text": "refine the results oh really yeah you",
+      "duration": 5.44,
+      "offset": 347.08,
+      "lang": "en"
+    },
+    {
+      "text": "can add like details to your prompt",
+      "duration": 4.76,
+      "offset": 349.8,
+      "lang": "en"
+    },
+    {
+      "text": "specify the style you want the mood the",
+      "duration": 4.4,
+      "offset": 352.52,
+      "lang": "en"
+    },
+    {
+      "text": "colors even the composition that&#39;s",
+      "duration": 3.48,
+      "offset": 354.56,
+      "lang": "en"
+    },
+    {
+      "text": "really interesting yeah you can get",
+      "duration": 2.56,
+      "offset": 356.92,
+      "lang": "en"
+    },
+    {
+      "text": "really specific but it also makes me",
+      "duration": 2.8,
+      "offset": 358.04,
+      "lang": "en"
+    },
+    {
+      "text": "think think about like you know all",
+      "duration": 2.92,
+      "offset": 359.48,
+      "lang": "en"
+    },
+    {
+      "text": "those artists whose work is being used",
+      "duration": 3.48,
+      "offset": 360.84,
+      "lang": "en"
+    },
+    {
+      "text": "in this data set right they might not",
+      "duration": 3.52,
+      "offset": 362.4,
+      "lang": "en"
+    },
+    {
+      "text": "even know that their art is being used",
+      "duration": 3.96,
+      "offset": 364.32,
+      "lang": "en"
+    },
+    {
+      "text": "to train an AI yeah definitely raises",
+      "duration": 4.32,
+      "offset": 365.92,
+      "lang": "en"
+    },
+    {
+      "text": "some questions about intellectual",
+      "duration": 4.84,
+      "offset": 368.28,
+      "lang": "en"
+    },
+    {
+      "text": "property and you know how artists can",
+      "duration": 4.8,
+      "offset": 370.24,
+      "lang": "en"
+    },
+    {
+      "text": "protect their work in this new world for",
+      "duration": 4.72,
+      "offset": 373.12,
+      "lang": "en"
+    },
+    {
+      "text": "sure did Holtz address that at all yeah",
+      "duration": 4.6,
+      "offset": 375.04,
+      "lang": "en"
+    },
+    {
+      "text": "he did I mean he",
+      "duration": 4.08,
+      "offset": 377.84,
+      "lang": "en"
+    },
+    {
+      "text": "acknowledged uh you know how complex it",
+      "duration": 5.08,
+      "offset": 379.64,
+      "lang": "en"
+    },
+    {
+      "text": "all is and that they are looking at you",
+      "duration": 4.68,
+      "offset": 381.92,
+      "lang": "en"
+    },
+    {
+      "text": "know ways for artists to at least be",
+      "duration": 3.92,
+      "offset": 384.72,
+      "lang": "en"
+    },
+    {
+      "text": "aware of to know if their work is in the",
+      "duration": 3.72,
+      "offset": 386.6,
+      "lang": "en"
+    },
+    {
+      "text": "data set yeah exactly so they&#39;re",
+      "duration": 4.24,
+      "offset": 388.64,
+      "lang": "en"
+    },
+    {
+      "text": "thinking about transparency they are but",
+      "duration": 5.04,
+      "offset": 390.32,
+      "lang": "en"
+    },
+    {
+      "text": "to be honest the logistics of it all",
+      "duration": 4.52,
+      "offset": 392.88,
+      "lang": "en"
+    },
+    {
+      "text": "managing a data set that big and",
+      "duration": 3.96,
+      "offset": 395.36,
+      "lang": "en"
+    },
+    {
+      "text": "verifying the ownership of all those",
+      "duration": 4.84,
+      "offset": 397.4,
+      "lang": "en"
+    },
+    {
+      "text": "images it&#39;s really daunting it&#39;s like",
+      "duration": 5.32,
+      "offset": 399.32,
+      "lang": "en"
+    },
+    {
+      "text": "completely Uncharted Territory you know",
+      "duration": 4.0,
+      "offset": 402.24,
+      "lang": "en"
+    },
+    {
+      "text": "absolutely finding solutions that work",
+      "duration": 3.92,
+      "offset": 404.64,
+      "lang": "en"
+    },
+    {
+      "text": "for everybody it&#39;s going to take time",
+      "duration": 4.0,
+      "offset": 406.24,
+      "lang": "en"
+    },
+    {
+      "text": "yeah no doubt but let&#39;s talk about",
+      "duration": 3.04,
+      "offset": 408.56,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s probably on a lot of",
+      "duration": 3.84,
+      "offset": 410.24,
+      "lang": "en"
+    },
+    {
+      "text": "artists Minds right now how is this",
+      "duration": 5.0,
+      "offset": 411.6,
+      "lang": "en"
+    },
+    {
+      "text": "going to affect their careers right like",
+      "duration": 4.72,
+      "offset": 414.08,
+      "lang": "en"
+    },
+    {
+      "text": "if AI can generate art why would anyone",
+      "duration": 5.0,
+      "offset": 416.6,
+      "lang": "en"
+    },
+    {
+      "text": "hire a human artist yeah that&#39;s the big",
+      "duration": 4.8,
+      "offset": 418.8,
+      "lang": "en"
+    },
+    {
+      "text": "question isn&#39;t it it is but Holtz argued",
+      "duration": 5.28,
+      "offset": 421.6,
+      "lang": "en"
+    },
+    {
+      "text": "that even though you know AI can create",
+      "duration": 6.76,
+      "offset": 423.6,
+      "lang": "en"
+    },
+    {
+      "text": "images quickly it still takes human",
+      "duration": 5.6,
+      "offset": 426.88,
+      "lang": "en"
+    },
+    {
+      "text": "skill and creativity to really refine",
+      "duration": 4.44,
+      "offset": 430.36,
+      "lang": "en"
+    },
+    {
+      "text": "those images yeah and make them into",
+      "duration": 5.68,
+      "offset": 432.48,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s uh unique yeah",
+      "duration": 5.28,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "commercially viable yeah you can&#39;t just",
+      "duration": 3.6,
+      "offset": 438.16,
+      "lang": "en"
+    },
+    {
+      "text": "push a button and exactly have a",
+      "duration": 3.2,
+      "offset": 440.08,
+      "lang": "en"
+    },
+    {
+      "text": "masterpiece it&#39;s not quite that simple",
+      "duration": 3.2,
+      "offset": 441.76,
+      "lang": "en"
+    },
+    {
+      "text": "yet right and I think that&#39;s where human",
+      "duration": 4.56,
+      "offset": 443.28,
+      "lang": "en"
+    },
+    {
+      "text": "artists still have the edge you know so",
+      "duration": 4.56,
+      "offset": 444.96,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s more of a collaboration between the",
+      "duration": 3.52,
+      "offset": 447.84,
+      "lang": "en"
+    },
+    {
+      "text": "artist in the AI that&#39;s what it sounds",
+      "duration": 5.28,
+      "offset": 449.52,
+      "lang": "en"
+    },
+    {
+      "text": "like okay he sees AI as a tool to help",
+      "duration": 6.4,
+      "offset": 451.36,
+      "lang": "en"
+    },
+    {
+      "text": "artists work more efficiently to explore",
+      "duration": 5.44,
+      "offset": 454.8,
+      "lang": "en"
+    },
+    {
+      "text": "new ideas maybe you know push the",
+      "duration": 3.92,
+      "offset": 457.76,
+      "lang": "en"
+    },
+    {
+      "text": "boundaries of what&#39;s possible",
+      "duration": 2.56,
+      "offset": 460.24,
+      "lang": "en"
+    },
+    {
+      "text": "interesting so you think people are",
+      "duration": 2.6,
+      "offset": 461.68,
+      "lang": "en"
+    },
+    {
+      "text": "still willing to pay for that human",
+      "duration": 4.36,
+      "offset": 462.8,
+      "lang": "en"
+    },
+    {
+      "text": "touch oh absolutely people will pay for",
+      "duration": 6.2,
+      "offset": 464.28,
+      "lang": "en"
+    },
+    {
+      "text": "quality and originality MH regardless of",
+      "duration": 5.36,
+      "offset": 467.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know how it was made okay I buy that",
+      "duration": 4.16,
+      "offset": 470.48,
+      "lang": "en"
+    },
+    {
+      "text": "I can see that but I&#39;m still I don&#39;t",
+      "duration": 3.68,
+      "offset": 472.52,
+      "lang": "en"
+    },
+    {
+      "text": "know I&#39;m a little skeptical some areas",
+      "duration": 4.0,
+      "offset": 474.64,
+      "lang": "en"
+    },
+    {
+      "text": "like concept art or like background",
+      "duration": 4.32,
+      "offset": 476.2,
+      "lang": "en"
+    },
+    {
+      "text": "design those seem really vulnerable to",
+      "duration": 4.28,
+      "offset": 478.64,
+      "lang": "en"
+    },
+    {
+      "text": "AI you know yeah you&#39;re right those",
+      "duration": 4.56,
+      "offset": 480.52,
+      "lang": "en"
+    },
+    {
+      "text": "fields are all about speed and",
+      "duration": 5.04,
+      "offset": 482.92,
+      "lang": "en"
+    },
+    {
+      "text": "efficiency which AI is really good at",
+      "duration": 4.48,
+      "offset": 485.08,
+      "lang": "en"
+    },
+    {
+      "text": "but Holtz argued that the market will",
+      "duration": 4.4,
+      "offset": 487.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually shift towards higher quality",
+      "duration": 5.92,
+      "offset": 489.56,
+      "lang": "en"
+    },
+    {
+      "text": "and more diverse content as AI tools",
+      "duration": 6.04,
+      "offset": 492.36,
+      "lang": "en"
+    },
+    {
+      "text": "become better and that could lead to you",
+      "duration": 5.96,
+      "offset": 495.48,
+      "lang": "en"
+    },
+    {
+      "text": "know more demand for skilled artists who",
+      "duration": 5.92,
+      "offset": 498.4,
+      "lang": "en"
+    },
+    {
+      "text": "can actually use AI effectively so he&#39;s",
+      "duration": 4.32,
+      "offset": 501.44,
+      "lang": "en"
+    },
+    {
+      "text": "saying it might actually create more",
+      "duration": 3.28,
+      "offset": 504.32,
+      "lang": "en"
+    },
+    {
+      "text": "opportunities yeah I mean it&#39;s about",
+      "duration": 3.72,
+      "offset": 505.76,
+      "lang": "en"
+    },
+    {
+      "text": "adaptation you know think about",
+      "duration": 3.8,
+      "offset": 507.6,
+      "lang": "en"
+    },
+    {
+      "text": "photography when it first came out some",
+      "duration": 4.48,
+      "offset": 509.48,
+      "lang": "en"
+    },
+    {
+      "text": "painters saw it as a threat and others",
+      "duration": 4.64,
+      "offset": 511.4,
+      "lang": "en"
+    },
+    {
+      "text": "embraced it as as a new tool for",
+      "duration": 4.04,
+      "offset": 513.96,
+      "lang": "en"
+    },
+    {
+      "text": "artistic expression that&#39;s a good point",
+      "duration": 4.52,
+      "offset": 516.04,
+      "lang": "en"
+    },
+    {
+      "text": "so are we is this is AI good or bad for",
+      "duration": 4.56,
+      "offset": 518.0,
+      "lang": "en"
+    },
+    {
+      "text": "artists like can we even answer that",
+      "duration": 3.68,
+      "offset": 520.56,
+      "lang": "en"
+    },
+    {
+      "text": "question I don&#39;t know if it&#39;s about you",
+      "duration": 3.56,
+      "offset": 522.56,
+      "lang": "en"
+    },
+    {
+      "text": "know good or bad it&#39;s about how we",
+      "duration": 3.72,
+      "offset": 524.24,
+      "lang": "en"
+    },
+    {
+      "text": "choose to integrate it into the creative",
+      "duration": 4.16,
+      "offset": 526.12,
+      "lang": "en"
+    },
+    {
+      "text": "process right you know the future of art",
+      "duration": 5.2,
+      "offset": 527.96,
+      "lang": "en"
+    },
+    {
+      "text": "depends on how artists adct and evolve",
+      "duration": 4.76,
+      "offset": 530.28,
+      "lang": "en"
+    },
+    {
+      "text": "it really feels like we&#39;re in this like",
+      "duration": 4.12,
+      "offset": 533.16,
+      "lang": "en"
+    },
+    {
+      "text": "brand new territory and it&#39;s not just",
+      "duration": 3.88,
+      "offset": 535.04,
+      "lang": "en"
+    },
+    {
+      "text": "about the technology itself it&#39;s about",
+      "duration": 4.84,
+      "offset": 537.28,
+      "lang": "en"
+    },
+    {
+      "text": "how we as humans adapt to it yeah adapt",
+      "duration": 4.8,
+      "offset": 538.92,
+      "lang": "en"
+    },
+    {
+      "text": "and how we Define art and what",
+      "duration": 4.16,
+      "offset": 542.12,
+      "lang": "en"
+    },
+    {
+      "text": "creativity even means in this new world",
+      "duration": 4.56,
+      "offset": 543.72,
+      "lang": "en"
+    },
+    {
+      "text": "yeah this is really giving me a lot to",
+      "duration": 3.56,
+      "offset": 546.28,
+      "lang": "en"
+    },
+    {
+      "text": "think about what about you what&#39;s the",
+      "duration": 3.76,
+      "offset": 548.28,
+      "lang": "en"
+    },
+    {
+      "text": "big takeaway for you what what really",
+      "duration": 3.6,
+      "offset": 549.84,
+      "lang": "en"
+    },
+    {
+      "text": "stood out to me was that the lines are",
+      "duration": 3.8,
+      "offset": 552.04,
+      "lang": "en"
+    },
+    {
+      "text": "getting blurred the whole definition of",
+      "duration": 5.4,
+      "offset": 553.44,
+      "lang": "en"
+    },
+    {
+      "text": "artist is changing it&#39;s becoming more",
+      "duration": 5.92,
+      "offset": 555.84,
+      "lang": "en"
+    },
+    {
+      "text": "fluid you know okay we&#39;re moving beyond",
+      "duration": 5.52,
+      "offset": 558.84,
+      "lang": "en"
+    },
+    {
+      "text": "this idea that art is only created with",
+      "duration": 4.48,
+      "offset": 561.76,
+      "lang": "en"
+    },
+    {
+      "text": "you know paintbrushes or chisels right",
+      "duration": 4.44,
+      "offset": 564.36,
+      "lang": "en"
+    },
+    {
+      "text": "the traditional tool yeah exactly AI is",
+      "duration": 5.56,
+      "offset": 566.24,
+      "lang": "en"
+    },
+    {
+      "text": "becoming another tool it&#39;s pushing us to",
+      "duration": 6.32,
+      "offset": 568.8,
+      "lang": "en"
+    },
+    {
+      "text": "rethink what art even is it&#39;s like what",
+      "duration": 6.0,
+      "offset": 571.8,
+      "lang": "en"
+    },
+    {
+      "text": "is art right it&#39;s not about replacing",
+      "duration": 4.84,
+      "offset": 575.12,
+      "lang": "en"
+    },
+    {
+      "text": "human creativity it&#39;s more about what we",
+      "duration": 5.08,
+      "offset": 577.8,
+      "lang": "en"
+    },
+    {
+      "text": "can create expanding those possibilities",
+      "duration": 4.64,
+      "offset": 579.96,
+      "lang": "en"
+    },
+    {
+      "text": "yeah exactly and you know it&#39;s like",
+      "duration": 4.44,
+      "offset": 582.88,
+      "lang": "en"
+    },
+    {
+      "text": "photography ah yes the photography",
+      "duration": 4.16,
+      "offset": 584.6,
+      "lang": "en"
+    },
+    {
+      "text": "analogy right when it first came out it",
+      "duration": 3.96,
+      "offset": 587.32,
+      "lang": "en"
+    },
+    {
+      "text": "was a huge threat a threat to painters",
+      "duration": 4.32,
+      "offset": 588.76,
+      "lang": "en"
+    },
+    {
+      "text": "yeah but then look what happened it",
+      "duration": 4.28,
+      "offset": 591.28,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t destroy painting it led to all",
+      "duration": 5.32,
+      "offset": 593.08,
+      "lang": "en"
+    },
+    {
+      "text": "these new movements and Styles new ways",
+      "duration": 6.12,
+      "offset": 595.56,
+      "lang": "en"
+    },
+    {
+      "text": "of seeing the world absolutely",
+      "duration": 3.28,
+      "offset": 598.4,
+      "lang": "en"
+    }
+  ]
+}

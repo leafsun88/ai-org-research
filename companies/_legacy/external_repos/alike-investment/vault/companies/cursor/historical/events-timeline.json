@@ -1,0 +1,91 @@
+{
+  "company": "Cursor",
+  "category": "events-timeline",
+  "generated": "2026-04-03",
+  "entries": [
+    {
+      "id": "cursor_evt_001",
+      "timestamp": "2022-04-01",
+      "company": "Cursor",
+      "content": "Anysphere Inc.成立，4位MIT同学以$400K pre-seed创业",
+      "detail": "Michael Truell、Sualeh Asif、Aman Sanger、Arvid Lunnemark四人从MIT毕业后注册Anysphere。最初方向是机械工程CAD工具，Truell后来称这段时期为'wandering in the desert'——founder-market fit很差，团队对机械工程师日常工作缺乏直觉理解。",
+      "source": {"type": "podcast", "credibility": "S3", "url": "a16z podcast"},
+      "dimensions": ["D1"],
+      "tags": ["founding", "pivot-history"],
+      "sentiment": "neutral",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_evt_002",
+      "timestamp": "2023-03-01",
+      "company": "Cursor",
+      "content": "从OpenAI加速器毕业，正式发布Cursor",
+      "detail": "从CAD工具转向AI代码编辑器后，团队在几周内搭建了自用IDE（最初从零构建，非fork），又几周后开放给外部用户，几个月内发布了第一个beta版。产品立即获得开发者社区关注。当时竞争格局：Microsoft/GitHub Copilot是incumbent，数十家初创公司做各种AI编程方向（agent、新模型、新编辑器）。",
+      "source": {"type": "company_report", "credibility": "S4", "url": ""},
+      "dimensions": ["D7"],
+      "tags": ["product-launch", "openai-accelerator"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_evt_003",
+      "timestamp": "2024-11-01",
+      "company": "Cursor",
+      "content": "收购Supermaven——前GitHub Copilot核心人物Jacob的团队",
+      "detail": "收购5人团队Supermaven，创始人Jacob此前创建了TabNine（GitHub Copilot的前身）并曾在OpenAI做研究。两团队在自动补全模型上技术互补。Truell在a16z播客中描述整个过程：与Jacob建立关系、保持数月联系、最终主动进攻性谈判。这是Cursor第一笔真正的M&A。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "a16z podcast"},
+      "dimensions": ["D6", "D7"],
+      "tags": ["acquisition", "supermaven", "talent-acquisition"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_evt_004",
+      "timestamp": "2025-10-18",
+      "company": "Cursor",
+      "content": "创始团队首次分裂：CTO Arvid Lunnemark离职",
+      "detail": "Arvid在公司估值最高点离开，创立AI安全实验室Integrous Research。离职声明正面无不满。但时间点敏感：(1)公司刚达$1B ARR；(2)估值从$9.9B冲向$29.3B；(3)离职1个月后完成Series D $2.3B。关键问题：CTO空缺至今无继任者，是否有核心工程师跟随离开。",
+      "source": {"type": "personal_blog", "credibility": "S3", "url": "https://arvid.xyz/posts/leaving/"},
+      "dimensions": ["D2"],
+      "tags": ["founder-departure", "team-stability"],
+      "sentiment": "negative",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_evt_005",
+      "timestamp": "2025-11-13",
+      "company": "Cursor",
+      "content": "Series D $2.3B融资，估值$29.3B，四位创始人均成为亿万富翁",
+      "detail": "Accel和Coatue联合领投，Google和Nvidia作为战略投资人参与。四位创始人（包括已离职的Arvid）均成为亿万富翁，各持约4.48%股权。Bloomberg将其列入2025年AI新亿万富翁名单。Forbes 30 Under 30入选。",
+      "source": {"type": "media_report", "credibility": "S4", "url": "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html"},
+      "dimensions": ["D7"],
+      "tags": ["series-d", "billionaire-founders"],
+      "sentiment": "positive",
+      "significance": "high"
+    },
+    {
+      "id": "cursor_evt_006",
+      "timestamp": "2025-12-01",
+      "company": "Cursor",
+      "content": "收购Graphite代码审查工具，向多产品战略迈进",
+      "detail": "收购此前融资$52M的代码审查工具Graphite（创始人Tomas Reimers和Greg Foster）。Truell解释战略逻辑：'The way engineering teams review code is increasingly becoming a bottleneck to them moving even faster as AI has been deployed more broadly within engineering teams.' 这标志着Cursor从单一IDE向AI编程套件的战略扩张。",
+      "source": {"type": "media_report", "credibility": "S4", "url": "Fortune, TechCrunch"},
+      "dimensions": ["D7"],
+      "tags": ["acquisition", "graphite", "multi-product"],
+      "sentiment": "positive",
+      "significance": "medium"
+    },
+    {
+      "id": "cursor_evt_007",
+      "timestamp": "2026-03-21",
+      "company": "Cursor",
+      "content": "Fortune长文称Cursor处于'十字路口'",
+      "detail": "Fortune 2026年3月发表长文分析Cursor面临的挑战：Claude Code的直接竞争、GitHub Copilot的分发优势、'Cursor is dead'论调、供应商定价压力。同时报道传闻新一轮融资谈判中，估值约$50B。文章标题'Cursor's crossroads: rapid rise, uncertain future'。",
+      "source": {"type": "media_report", "credibility": "S3", "url": "https://fortune.com/2026/03/21/cursor-ceo-michael-truell-ai-coding-claude-anthropic-venture-capital/"},
+      "dimensions": ["D7"],
+      "tags": ["media-narrative", "crossroads", "competitive-pressure"],
+      "sentiment": "negative",
+      "significance": "medium"
+    }
+  ]
+}

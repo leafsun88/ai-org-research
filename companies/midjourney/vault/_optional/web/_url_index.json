@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+    "title": "ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+    "source": "www.theverge.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://venturebeat.com/ai/midjourney-founder-says-the-world-needs-more-imagination/",
+    "title": "midjourney-founder-says-the-world-needs-more-imagination",
+    "source": "venturebeat.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+    "title": "midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy",
+    "source": "www.forbes.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-V1/",
+    "title": "midjourney-launches-its-first-ai-video-generation-model-V1",
+    "source": "techcrunch.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://apnews.com/article/722b1b892192e7e1628f7ae5da8cc427",
+    "title": "722b1b892192e7e1628f7ae5da8cc427",
+    "source": "apnews.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://apnews.com/article/b87d80d7b4a4dfdcf0ee149d30830551",
+    "title": "b87d80d7b4a4dfdcf0ee149d30830551",
+    "source": "apnews.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://copyrightalliance.org/wp-content/uploads/2025/09/WBE-v.-Midjourney.pdf",
+    "title": "WBE-v.-Midjourney.pdf",
+    "source": "copyrightalliance.org",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://news.justia.com/wp-content/uploads/2025/06/Disney-Universal-v.-Midjourney-Complaint.pdf",
+    "title": "Disney-Universal-v.-Midjourney-Complaint.pdf",
+    "source": "news.justia.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  }
+]

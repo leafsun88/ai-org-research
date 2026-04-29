@@ -1,0 +1,5007 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "VYiY4FPhdc8",
+  "url": "https://www.youtube.com/watch?v=VYiY4FPhdc8",
+  "title": "[ENVtuber] Interview w/ Domo (7/11/21)",
+  "channel": "Niji Kurozu",
+  "source_queries": [
+    "Niji 7 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:06:16",
+  "segments": [
+    {
+      "text": "yo hello",
+      "duration": 4.8,
+      "offset": 7.76,
+      "lang": "en"
+    },
+    {
+      "text": "hello yo what is up how are you doing",
+      "duration": 5.28,
+      "offset": 9.04,
+      "lang": "en"
+    },
+    {
+      "text": "today domo thank you for having me",
+      "duration": 3.2,
+      "offset": 12.56,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m doing good thank you very much i",
+      "duration": 3.2,
+      "offset": 14.32,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate that also real quick let me",
+      "duration": 3.92,
+      "offset": 15.76,
+      "lang": "en"
+    },
+    {
+      "text": "plug",
+      "duration": 4.4,
+      "offset": 17.52,
+      "lang": "en"
+    },
+    {
+      "text": "you here and uh do you have a screenshot",
+      "duration": 3.44,
+      "offset": 19.68,
+      "lang": "en"
+    },
+    {
+      "text": "oh you&#39;re perfect you&#39;re sharing your",
+      "duration": 1.52,
+      "offset": 21.92,
+      "lang": "en"
+    },
+    {
+      "text": "screen",
+      "duration": 3.6,
+      "offset": 23.12,
+      "lang": "en"
+    },
+    {
+      "text": "with me i got i&#39;m ahead of you buddy yes",
+      "duration": 5.28,
+      "offset": 23.44,
+      "lang": "en"
+    },
+    {
+      "text": "uh real quick you um are you okay with",
+      "duration": 3.2,
+      "offset": 26.72,
+      "lang": "en"
+    },
+    {
+      "text": "the green in the background because if i",
+      "duration": 1.52,
+      "offset": 28.72,
+      "lang": "en"
+    },
+    {
+      "text": "green",
+      "duration": 1.52,
+      "offset": 29.92,
+      "lang": "en"
+    },
+    {
+      "text": "if i green screen you i think it&#39;s going",
+      "duration": 2.64,
+      "offset": 30.24,
+      "lang": "en"
+    },
+    {
+      "text": "to affect your what&#39;s on your model as",
+      "duration": 2.4,
+      "offset": 31.44,
+      "lang": "en"
+    },
+    {
+      "text": "well",
+      "duration": 2.64,
+      "offset": 32.88,
+      "lang": "en"
+    },
+    {
+      "text": "oh gotcha all i mean because i put in",
+      "duration": 2.88,
+      "offset": 33.84,
+      "lang": "en"
+    },
+    {
+      "text": "that kind of greenish background if you",
+      "duration": 2.32,
+      "offset": 35.52,
+      "lang": "en"
+    },
+    {
+      "text": "want to just put the whole thing up i&#39;d",
+      "duration": 2.0,
+      "offset": 36.72,
+      "lang": "en"
+    },
+    {
+      "text": "be fine with that",
+      "duration": 2.48,
+      "offset": 37.84,
+      "lang": "en"
+    },
+    {
+      "text": "okay if that won&#39;t make any problems for",
+      "duration": 3.52,
+      "offset": 38.72,
+      "lang": "en"
+    },
+    {
+      "text": "you sweet all right everybody say hello",
+      "duration": 2.24,
+      "offset": 40.32,
+      "lang": "en"
+    },
+    {
+      "text": "to",
+      "duration": 3.68,
+      "offset": 42.24,
+      "lang": "en"
+    },
+    {
+      "text": "um sorry it&#39;s nijin yes niji okay sweet",
+      "duration": 4.96,
+      "offset": 42.56,
+      "lang": "en"
+    },
+    {
+      "text": "sweet everybody say hello",
+      "duration": 4.96,
+      "offset": 45.92,
+      "lang": "en"
+    },
+    {
+      "text": "to oh they got my pronouns oh damn y&#39;all",
+      "duration": 4.96,
+      "offset": 47.52,
+      "lang": "en"
+    },
+    {
+      "text": "y&#39;all ahead of it i didn&#39;t even mention",
+      "duration": 2.24,
+      "offset": 50.88,
+      "lang": "en"
+    },
+    {
+      "text": "them",
+      "duration": 4.24,
+      "offset": 52.48,
+      "lang": "en"
+    },
+    {
+      "text": "oh yeah i mean our our uh investigative",
+      "duration": 4.08,
+      "offset": 53.12,
+      "lang": "en"
+    },
+    {
+      "text": "team",
+      "duration": 2.8,
+      "offset": 56.72,
+      "lang": "en"
+    },
+    {
+      "text": "and production team is on the job so oh",
+      "duration": 4.16,
+      "offset": 57.2,
+      "lang": "en"
+    },
+    {
+      "text": "wow they can really read twitter headers",
+      "duration": 2.23,
+      "offset": 59.52,
+      "lang": "en"
+    },
+    {
+      "text": "man",
+      "duration": 2.72,
+      "offset": 61.36,
+      "lang": "en"
+    },
+    {
+      "text": "[Laughter]",
+      "duration": 4.09,
+      "offset": 61.75,
+      "lang": "en"
+    },
+    {
+      "text": "so they&#39;re just going that extra mile",
+      "duration": 3.84,
+      "offset": 64.08,
+      "lang": "en"
+    },
+    {
+      "text": "for y&#39;all you know everybody say hello",
+      "duration": 2.48,
+      "offset": 65.84,
+      "lang": "en"
+    },
+    {
+      "text": "to",
+      "duration": 3.76,
+      "offset": 67.92,
+      "lang": "en"
+    },
+    {
+      "text": "niji oh what the heck",
+      "duration": 6.48,
+      "offset": 68.32,
+      "lang": "en"
+    },
+    {
+      "text": "there you go niji hello niji hello haha",
+      "duration": 6.32,
+      "offset": 71.68,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m here welcome hello hi",
+      "duration": 5.76,
+      "offset": 74.8,
+      "lang": "en"
+    },
+    {
+      "text": "are you um oh [ __ ] i am flipped on the",
+      "duration": 3.76,
+      "offset": 78.0,
+      "lang": "en"
+    },
+    {
+      "text": "stream oh [ __ ] hold",
+      "duration": 4.16,
+      "offset": 80.56,
+      "lang": "en"
+    },
+    {
+      "text": "on hold on boys hold on i can fix this",
+      "duration": 3.84,
+      "offset": 81.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not supposed",
+      "duration": 2.8,
+      "offset": 84.72,
+      "lang": "en"
+    },
+    {
+      "text": "hair is over the wrong eye wait did you",
+      "duration": 4.24,
+      "offset": 85.6,
+      "lang": "en"
+    },
+    {
+      "text": "did you flip it uh manually yes",
+      "duration": 4.88,
+      "offset": 87.52,
+      "lang": "en"
+    },
+    {
+      "text": "so wrong here&#39;s amazing it&#39;s weird when",
+      "duration": 3.12,
+      "offset": 89.84,
+      "lang": "en"
+    },
+    {
+      "text": "you",
+      "duration": 2.08,
+      "offset": 92.4,
+      "lang": "en"
+    },
+    {
+      "text": "when you share a stream or whatever on",
+      "duration": 3.12,
+      "offset": 92.96,
+      "lang": "en"
+    },
+    {
+      "text": "discord um",
+      "duration": 3.76,
+      "offset": 94.48,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to present yourself as if",
+      "duration": 3.2,
+      "offset": 96.08,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re flipped",
+      "duration": 3.6,
+      "offset": 98.24,
+      "lang": "en"
+    },
+    {
+      "text": "but actually there we go for some reason",
+      "duration": 4.0,
+      "offset": 99.28,
+      "lang": "en"
+    },
+    {
+      "text": "the other side doesn&#39;t actually see it",
+      "duration": 2.88,
+      "offset": 101.84,
+      "lang": "en"
+    },
+    {
+      "text": "flipped but you see it flipped it&#39;s this",
+      "duration": 2.48,
+      "offset": 103.28,
+      "lang": "en"
+    },
+    {
+      "text": "really strange thing",
+      "duration": 2.72,
+      "offset": 104.72,
+      "lang": "en"
+    },
+    {
+      "text": "but anyway yeah i could see with b and i",
+      "duration": 3.2,
+      "offset": 105.76,
+      "lang": "en"
+    },
+    {
+      "text": "we were like oh i think it&#39;s i think",
+      "duration": 1.76,
+      "offset": 107.44,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s",
+      "duration": 1.76,
+      "offset": 108.96,
+      "lang": "en"
+    },
+    {
+      "text": "a thing and i was like i&#39;ll fix it and",
+      "duration": 2.64,
+      "offset": 109.2,
+      "lang": "en"
+    },
+    {
+      "text": "he said oh it looks good now so i",
+      "duration": 2.24,
+      "offset": 110.72,
+      "lang": "en"
+    },
+    {
+      "text": "thought it was fine and then i see",
+      "duration": 2.64,
+      "offset": 111.84,
+      "lang": "en"
+    },
+    {
+      "text": "myself on the screen like i&#39;m flip",
+      "duration": 4.64,
+      "offset": 112.96,
+      "lang": "en"
+    },
+    {
+      "text": "no please no please for the most part",
+      "duration": 4.56,
+      "offset": 114.48,
+      "lang": "en"
+    },
+    {
+      "text": "uh you guys don&#39;t have to flip even",
+      "duration": 3.2,
+      "offset": 117.6,
+      "lang": "en"
+    },
+    {
+      "text": "though it may seem like it so don&#39;t be",
+      "duration": 2.48,
+      "offset": 119.04,
+      "lang": "en"
+    },
+    {
+      "text": "uh",
+      "duration": 2.16,
+      "offset": 120.8,
+      "lang": "en"
+    },
+    {
+      "text": "just a future reference for uh other",
+      "duration": 3.2,
+      "offset": 121.52,
+      "lang": "en"
+    },
+    {
+      "text": "people coming on the show but anyways yo",
+      "duration": 3.12,
+      "offset": 122.96,
+      "lang": "en"
+    },
+    {
+      "text": "nietzsche how are you",
+      "duration": 4.48,
+      "offset": 124.72,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m doing good i&#39;m doing lovely um uh",
+      "duration": 4.88,
+      "offset": 126.08,
+      "lang": "en"
+    },
+    {
+      "text": "i was this was also the first time i&#39;ve",
+      "duration": 3.52,
+      "offset": 129.2,
+      "lang": "en"
+    },
+    {
+      "text": "ever queued for this oh gosh don&#39;t say",
+      "duration": 3.04,
+      "offset": 130.96,
+      "lang": "en"
+    },
+    {
+      "text": "that nigi because there are people",
+      "duration": 2.64,
+      "offset": 132.72,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s some people have been fighting",
+      "duration": 2.72,
+      "offset": 134.0,
+      "lang": "en"
+    },
+    {
+      "text": "since the first",
+      "duration": 3.28,
+      "offset": 135.36,
+      "lang": "en"
+    },
+    {
+      "text": "since the first episode you can get them",
+      "duration": 3.92,
+      "offset": 136.72,
+      "lang": "en"
+    },
+    {
+      "text": "mad yeah look at this frodo with the",
+      "duration": 4.0,
+      "offset": 138.64,
+      "lang": "en"
+    },
+    {
+      "text": "rigged no it&#39;s not i promise you&#39;re",
+      "duration": 5.36,
+      "offset": 140.64,
+      "lang": "en"
+    },
+    {
+      "text": "making me look bad here nietzsche",
+      "duration": 3.36,
+      "offset": 142.64,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ve been watching for a long time no",
+      "duration": 3.28,
+      "offset": 146.24,
+      "lang": "en"
+    },
+    {
+      "text": "because see like i i",
+      "duration": 3.76,
+      "offset": 147.68,
+      "lang": "en"
+    },
+    {
+      "text": "i have self-worth issues so for the",
+      "duration": 3.12,
+      "offset": 149.52,
+      "lang": "en"
+    },
+    {
+      "text": "longest time i was like",
+      "duration": 2.48,
+      "offset": 151.44,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t want to really hop into the",
+      "duration": 2.96,
+      "offset": 152.64,
+      "lang": "en"
+    },
+    {
+      "text": "queue i don&#39;t know i don&#39;t have much to",
+      "duration": 2.08,
+      "offset": 153.92,
+      "lang": "en"
+    },
+    {
+      "text": "provide",
+      "duration": 2.24,
+      "offset": 155.6,
+      "lang": "en"
+    },
+    {
+      "text": "i have a v-roid model i don&#39;t do",
+      "duration": 3.36,
+      "offset": 156.0,
+      "lang": "en"
+    },
+    {
+      "text": "anything fancy i shouldn&#39;t do it and",
+      "duration": 2.08,
+      "offset": 157.84,
+      "lang": "en"
+    },
+    {
+      "text": "then i was",
+      "duration": 2.88,
+      "offset": 159.36,
+      "lang": "en"
+    },
+    {
+      "text": "i was feeling my oats today so i figured",
+      "duration": 3.84,
+      "offset": 159.92,
+      "lang": "en"
+    },
+    {
+      "text": "i would do it hey well i&#39;m glad you&#39;re",
+      "duration": 3.04,
+      "offset": 162.24,
+      "lang": "en"
+    },
+    {
+      "text": "feeling confident today and you seem",
+      "duration": 2.4,
+      "offset": 163.76,
+      "lang": "en"
+    },
+    {
+      "text": "like you",
+      "duration": 3.44,
+      "offset": 165.28,
+      "lang": "en"
+    },
+    {
+      "text": "you bring you provide a bright positive",
+      "duration": 4.32,
+      "offset": 166.16,
+      "lang": "en"
+    },
+    {
+      "text": "energy and that&#39;s already enough on its",
+      "duration": 3.28,
+      "offset": 168.72,
+      "lang": "en"
+    },
+    {
+      "text": "own so uh thank you so much for building",
+      "duration": 3.12,
+      "offset": 170.48,
+      "lang": "en"
+    },
+    {
+      "text": "up the courage to come on here",
+      "duration": 3.76,
+      "offset": 172.0,
+      "lang": "en"
+    },
+    {
+      "text": "absolutely thank you thank you thank you",
+      "duration": 3.2,
+      "offset": 173.6,
+      "lang": "en"
+    },
+    {
+      "text": "bot for um",
+      "duration": 3.36,
+      "offset": 175.76,
+      "lang": "en"
+    },
+    {
+      "text": "selecting me and blessing my my very",
+      "duration": 3.2,
+      "offset": 176.8,
+      "lang": "en"
+    },
+    {
+      "text": "rare courage",
+      "duration": 2.8,
+      "offset": 179.12,
+      "lang": "en"
+    },
+    {
+      "text": "yes yes it doesn&#39;t come very often trust",
+      "duration": 3.2,
+      "offset": 180.0,
+      "lang": "en"
+    },
+    {
+      "text": "me thank you bye you&#39;re not praying to",
+      "duration": 2.16,
+      "offset": 181.92,
+      "lang": "en"
+    },
+    {
+      "text": "me you&#39;re praying to the",
+      "duration": 3.04,
+      "offset": 183.2,
+      "lang": "en"
+    },
+    {
+      "text": "server bot guys so uh but yeah good to",
+      "duration": 4.0,
+      "offset": 184.08,
+      "lang": "en"
+    },
+    {
+      "text": "have you on here uh interesting name",
+      "duration": 3.36,
+      "offset": 186.24,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m thinking i don&#39;t know if you&#39;re",
+      "duration": 3.28,
+      "offset": 188.08,
+      "lang": "en"
+    },
+    {
+      "text": "familiar with niji sanji",
+      "duration": 4.08,
+      "offset": 189.6,
+      "lang": "en"
+    },
+    {
+      "text": "but that&#39;s like yes yes i&#39;m aware of",
+      "duration": 3.28,
+      "offset": 191.36,
+      "lang": "en"
+    },
+    {
+      "text": "niji sanji",
+      "duration": 2.64,
+      "offset": 193.68,
+      "lang": "en"
+    },
+    {
+      "text": "i actually don&#39;t watch annie and eg",
+      "duration": 4.32,
+      "offset": 194.64,
+      "lang": "en"
+    },
+    {
+      "text": "sanji at all oh shoot okay fair enough",
+      "duration": 5.6,
+      "offset": 196.32,
+      "lang": "en"
+    },
+    {
+      "text": "so where does the name come from uh so",
+      "duration": 4.94,
+      "offset": 198.96,
+      "lang": "en"
+    },
+    {
+      "text": "um i&#39;ve been a weeb for a very long time",
+      "duration": 3.84,
+      "offset": 201.92,
+      "lang": "en"
+    },
+    {
+      "text": "[Laughter]",
+      "duration": 5.22,
+      "offset": 203.9,
+      "lang": "en"
+    },
+    {
+      "text": "and uh originally essentially i i can&#39;t",
+      "duration": 4.64,
+      "offset": 205.76,
+      "lang": "en"
+    },
+    {
+      "text": "because i was gonna say the other the",
+      "duration": 1.92,
+      "offset": 209.12,
+      "lang": "en"
+    },
+    {
+      "text": "first",
+      "duration": 2.88,
+      "offset": 210.4,
+      "lang": "en"
+    },
+    {
+      "text": "name of my very first ocs but that um",
+      "duration": 3.36,
+      "offset": 211.04,
+      "lang": "en"
+    },
+    {
+      "text": "would kind of",
+      "duration": 2.64,
+      "offset": 213.28,
+      "lang": "en"
+    },
+    {
+      "text": "not dox me but leaked me back to other",
+      "duration": 3.36,
+      "offset": 214.4,
+      "lang": "en"
+    },
+    {
+      "text": "identities but anyway so essentially",
+      "duration": 3.6,
+      "offset": 215.92,
+      "lang": "en"
+    },
+    {
+      "text": "wait as i was a baby like oh",
+      "duration": 3.6,
+      "offset": 217.76,
+      "lang": "en"
+    },
+    {
+      "text": "if i were a vocaloid my last name would",
+      "duration": 3.6,
+      "offset": 219.52,
+      "lang": "en"
+    },
+    {
+      "text": "be niji because rainbow",
+      "duration": 3.44,
+      "offset": 221.36,
+      "lang": "en"
+    },
+    {
+      "text": "and i was gay and i didn&#39;t know it but",
+      "duration": 3.36,
+      "offset": 223.12,
+      "lang": "en"
+    },
+    {
+      "text": "you know rainbow",
+      "duration": 3.52,
+      "offset": 224.8,
+      "lang": "en"
+    },
+    {
+      "text": "wait so wait so you didn&#39;t know at the",
+      "duration": 3.68,
+      "offset": 226.48,
+      "lang": "en"
+    },
+    {
+      "text": "time but you subliminally named yourself",
+      "duration": 3.6,
+      "offset": 228.32,
+      "lang": "en"
+    },
+    {
+      "text": "at the time that",
+      "duration": 4.24,
+      "offset": 230.16,
+      "lang": "en"
+    },
+    {
+      "text": "well i mean kind of yeah yeah kind of",
+      "duration": 4.08,
+      "offset": 231.92,
+      "lang": "en"
+    },
+    {
+      "text": "yeah i always kind of liked rainbows and",
+      "duration": 2.64,
+      "offset": 234.4,
+      "lang": "en"
+    },
+    {
+      "text": "i thought hey they&#39;re cool",
+      "duration": 2.88,
+      "offset": 236.0,
+      "lang": "en"
+    },
+    {
+      "text": "and then once i i knew i was gay like it",
+      "duration": 3.12,
+      "offset": 237.04,
+      "lang": "en"
+    },
+    {
+      "text": "was kind of that secret way of being",
+      "duration": 2.08,
+      "offset": 238.88,
+      "lang": "en"
+    },
+    {
+      "text": "like hey",
+      "duration": 2.72,
+      "offset": 240.16,
+      "lang": "en"
+    },
+    {
+      "text": "i can&#39;t be out but i can cover myself in",
+      "duration": 3.2,
+      "offset": 240.96,
+      "lang": "en"
+    },
+    {
+      "text": "rainbows yeah yeah",
+      "duration": 2.56,
+      "offset": 242.88,
+      "lang": "en"
+    },
+    {
+      "text": "which is funny because there&#39;s literally",
+      "duration": 3.28,
+      "offset": 244.16,
+      "lang": "en"
+    },
+    {
+      "text": "no rainbows on niji at all",
+      "duration": 4.4,
+      "offset": 245.44,
+      "lang": "en"
+    },
+    {
+      "text": "i just thought hey niji sounds cool yeah",
+      "duration": 3.44,
+      "offset": 247.44,
+      "lang": "en"
+    },
+    {
+      "text": "well yeah",
+      "duration": 2.64,
+      "offset": 249.84,
+      "lang": "en"
+    },
+    {
+      "text": "it was like meant to be you know like if",
+      "duration": 3.28,
+      "offset": 250.88,
+      "lang": "en"
+    },
+    {
+      "text": "the stars aligned you didn&#39;t even really",
+      "duration": 2.88,
+      "offset": 252.48,
+      "lang": "en"
+    },
+    {
+      "text": "know it&#39;s heading there",
+      "duration": 2.8,
+      "offset": 254.16,
+      "lang": "en"
+    },
+    {
+      "text": "i think that&#39;s so absolutely because",
+      "duration": 3.36,
+      "offset": 255.36,
+      "lang": "en"
+    },
+    {
+      "text": "because like a cordozo uh",
+      "duration": 3.2,
+      "offset": 256.96,
+      "lang": "en"
+    },
+    {
+      "text": "for the weebs out there pretty much just",
+      "duration": 3.44,
+      "offset": 258.72,
+      "lang": "en"
+    },
+    {
+      "text": "means sleepy and i was trying to come up",
+      "duration": 3.68,
+      "offset": 260.16,
+      "lang": "en"
+    },
+    {
+      "text": "with a first name i&#39;m like",
+      "duration": 6.24,
+      "offset": 262.16,
+      "lang": "en"
+    },
+    {
+      "text": "[ __ ] [ __ ] [ __ ] and then i went hmm michi",
+      "duration": 6.4,
+      "offset": 263.84,
+      "lang": "en"
+    },
+    {
+      "text": "yeah that works i guess it doesn&#39;t make",
+      "duration": 3.44,
+      "offset": 268.4,
+      "lang": "en"
+    },
+    {
+      "text": "sense for sure",
+      "duration": 4.56,
+      "offset": 270.24,
+      "lang": "en"
+    },
+    {
+      "text": "i mean oh really do any like japanese",
+      "duration": 4.32,
+      "offset": 271.84,
+      "lang": "en"
+    },
+    {
+      "text": "like youtuber names or whatever makes",
+      "duration": 2.08,
+      "offset": 274.8,
+      "lang": "en"
+    },
+    {
+      "text": "sense like",
+      "duration": 2.4,
+      "offset": 276.16,
+      "lang": "en"
+    },
+    {
+      "text": "not really you know so it&#39;s kind of",
+      "duration": 2.88,
+      "offset": 276.88,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re all just kind of random and they",
+      "duration": 2.24,
+      "offset": 278.56,
+      "lang": "en"
+    },
+    {
+      "text": "go from there",
+      "duration": 2.96,
+      "offset": 279.76,
+      "lang": "en"
+    },
+    {
+      "text": "but okay real quick you did touch on",
+      "duration": 3.12,
+      "offset": 280.8,
+      "lang": "en"
+    },
+    {
+      "text": "this uh",
+      "duration": 3.28,
+      "offset": 282.72,
+      "lang": "en"
+    },
+    {
+      "text": "vocaloid if you wanted to become a what",
+      "duration": 3.28,
+      "offset": 283.92,
+      "lang": "en"
+    },
+    {
+      "text": "was it what&#39;s the story behind that",
+      "duration": 4.32,
+      "offset": 286.0,
+      "lang": "en"
+    },
+    {
+      "text": "uh vocaloid but uh just i i have",
+      "duration": 5.44,
+      "offset": 287.2,
+      "lang": "en"
+    },
+    {
+      "text": "i have always been a singer i love to",
+      "duration": 4.16,
+      "offset": 290.32,
+      "lang": "en"
+    },
+    {
+      "text": "sing i&#39;m not trained or anything but",
+      "duration": 3.36,
+      "offset": 292.64,
+      "lang": "en"
+    },
+    {
+      "text": "like singing is one of my absolute",
+      "duration": 4.48,
+      "offset": 294.48,
+      "lang": "en"
+    },
+    {
+      "text": "favorite things yeah so as a wee baby i",
+      "duration": 4.4,
+      "offset": 296.0,
+      "lang": "en"
+    },
+    {
+      "text": "always dream like man if i could be a",
+      "duration": 2.96,
+      "offset": 298.96,
+      "lang": "en"
+    },
+    {
+      "text": "vocaloid that&#39;d be so cool and then i",
+      "duration": 3.44,
+      "offset": 300.4,
+      "lang": "en"
+    },
+    {
+      "text": "found out about utau and i&#39;m like",
+      "duration": 3.6,
+      "offset": 301.92,
+      "lang": "en"
+    },
+    {
+      "text": "if i could be a utah that would be so",
+      "duration": 4.4,
+      "offset": 303.84,
+      "lang": "en"
+    },
+    {
+      "text": "cool and actually",
+      "duration": 4.8,
+      "offset": 305.52,
+      "lang": "en"
+    },
+    {
+      "text": "spoiler i&#39;m working on one of those",
+      "duration": 4.08,
+      "offset": 308.24,
+      "lang": "en"
+    },
+    {
+      "text": "right now would you work on one of what",
+      "duration": 2.8,
+      "offset": 310.32,
+      "lang": "en"
+    },
+    {
+      "text": "sorry",
+      "duration": 3.44,
+      "offset": 312.32,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s called a it&#39;s called an utau uta",
+      "duration": 3.12,
+      "offset": 313.12,
+      "lang": "en"
+    },
+    {
+      "text": "you",
+      "duration": 2.64,
+      "offset": 315.76,
+      "lang": "en"
+    },
+    {
+      "text": "essentially i don&#39;t know if any if",
+      "duration": 3.04,
+      "offset": 316.24,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve ever heard of",
+      "duration": 4.32,
+      "offset": 318.4,
+      "lang": "en"
+    },
+    {
+      "text": "uh casane teto the name",
+      "duration": 5.52,
+      "offset": 319.28,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s really familiar it&#39;s really funny",
+      "duration": 5.2,
+      "offset": 322.72,
+      "lang": "en"
+    },
+    {
+      "text": "red red drills",
+      "duration": 3.12,
+      "offset": 324.8,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m hold on hold on hold on yeah so",
+      "duration": 4.24,
+      "offset": 329.44,
+      "lang": "en"
+    },
+    {
+      "text": "essentially here&#39;s here&#39;s the back",
+      "duration": 2.64,
+      "offset": 332.56,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s the back story hot sunni makeup",
+      "duration": 3.12,
+      "offset": 333.68,
+      "lang": "en"
+    },
+    {
+      "text": "was all a big thing and then one year",
+      "duration": 1.92,
+      "offset": 335.2,
+      "lang": "en"
+    },
+    {
+      "text": "for",
+      "duration": 3.36,
+      "offset": 336.8,
+      "lang": "en"
+    },
+    {
+      "text": "uh for april fools they let out a a",
+      "duration": 6.48,
+      "offset": 337.12,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like think of it like like uh",
+      "duration": 6.16,
+      "offset": 340.16,
+      "lang": "en"
+    },
+    {
+      "text": "like dollar store vocaloid you tell us",
+      "duration": 4.24,
+      "offset": 343.6,
+      "lang": "en"
+    },
+    {
+      "text": "dollar store vocaloid",
+      "duration": 3.6,
+      "offset": 346.32,
+      "lang": "en"
+    },
+    {
+      "text": "and they released cassane and she was",
+      "duration": 3.28,
+      "offset": 347.84,
+      "lang": "en"
+    },
+    {
+      "text": "she was pretty much just",
+      "duration": 2.96,
+      "offset": 349.92,
+      "lang": "en"
+    },
+    {
+      "text": "april fool&#39;s thing but she absolutely",
+      "duration": 4.16,
+      "offset": 351.12,
+      "lang": "en"
+    },
+    {
+      "text": "blew up and so uh people",
+      "duration": 3.68,
+      "offset": 352.88,
+      "lang": "en"
+    },
+    {
+      "text": "essentially you can make your own new",
+      "duration": 3.04,
+      "offset": 355.28,
+      "lang": "en"
+    },
+    {
+      "text": "towels all you really have to do is kind",
+      "duration": 2.56,
+      "offset": 356.56,
+      "lang": "en"
+    },
+    {
+      "text": "of",
+      "duration": 2.96,
+      "offset": 358.32,
+      "lang": "en"
+    },
+    {
+      "text": "get like a list of of stuff and then you",
+      "duration": 3.76,
+      "offset": 359.12,
+      "lang": "en"
+    },
+    {
+      "text": "record yourself singing like",
+      "duration": 4.88,
+      "offset": 361.28,
+      "lang": "en"
+    },
+    {
+      "text": "like ah ooh hey",
+      "duration": 5.12,
+      "offset": 362.88,
+      "lang": "en"
+    },
+    {
+      "text": "all sorts of and like that you put it in",
+      "duration": 3.76,
+      "offset": 366.16,
+      "lang": "en"
+    },
+    {
+      "text": "the program the program goes okay",
+      "duration": 3.84,
+      "offset": 368.0,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m gonna work my [ __ ] and then you can",
+      "duration": 3.28,
+      "offset": 369.92,
+      "lang": "en"
+    },
+    {
+      "text": "make songs with it",
+      "duration": 3.84,
+      "offset": 371.84,
+      "lang": "en"
+    },
+    {
+      "text": "i see i so it&#39;s like that um it&#39;s like",
+      "duration": 4.0,
+      "offset": 373.2,
+      "lang": "en"
+    },
+    {
+      "text": "the program to",
+      "duration": 3.04,
+      "offset": 375.68,
+      "lang": "en"
+    },
+    {
+      "text": "like conduct like musical notes and all",
+      "duration": 3.04,
+      "offset": 377.2,
+      "lang": "en"
+    },
+    {
+      "text": "that and like you can program it to like",
+      "duration": 2.64,
+      "offset": 378.72,
+      "lang": "en"
+    },
+    {
+      "text": "whatever right",
+      "duration": 3.2,
+      "offset": 380.24,
+      "lang": "en"
+    },
+    {
+      "text": "pretty much yeah and just it pretty much",
+      "duration": 3.68,
+      "offset": 381.36,
+      "lang": "en"
+    },
+    {
+      "text": "makes a note out of your out of the",
+      "duration": 3.2,
+      "offset": 383.44,
+      "lang": "en"
+    },
+    {
+      "text": "vowels so you can pretty much just like",
+      "duration": 2.56,
+      "offset": 385.04,
+      "lang": "en"
+    },
+    {
+      "text": "construct a song",
+      "duration": 2.72,
+      "offset": 386.64,
+      "lang": "en"
+    },
+    {
+      "text": "and do it like that it&#39;s cool that is",
+      "duration": 3.76,
+      "offset": 387.6,
+      "lang": "en"
+    },
+    {
+      "text": "super that is super super interesting",
+      "duration": 2.96,
+      "offset": 389.36,
+      "lang": "en"
+    },
+    {
+      "text": "okay so",
+      "duration": 3.6,
+      "offset": 391.36,
+      "lang": "en"
+    },
+    {
+      "text": "hold on don what&#39;s up yo sorry real",
+      "duration": 3.44,
+      "offset": 392.32,
+      "lang": "en"
+    },
+    {
+      "text": "quick",
+      "duration": 3.28,
+      "offset": 394.96,
+      "lang": "en"
+    },
+    {
+      "text": "i heard you or someone was talking [ __ ]",
+      "duration": 3.52,
+      "offset": 395.76,
+      "lang": "en"
+    },
+    {
+      "text": "about me look man",
+      "duration": 2.0,
+      "offset": 398.24,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m just saying that you&#39;re really high",
+      "duration": 2.16,
+      "offset": 399.28,
+      "lang": "en"
+    },
+    {
+      "text": "energy earlier that&#39;s i wasn&#39;t really",
+      "duration": 2.88,
+      "offset": 400.24,
+      "lang": "en"
+    },
+    {
+      "text": "talking [ __ ] but",
+      "duration": 4.16,
+      "offset": 401.44,
+      "lang": "en"
+    },
+    {
+      "text": "uh okay sorry double talking [ __ ] no way",
+      "duration": 6.72,
+      "offset": 403.12,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s impossible",
+      "duration": 4.24,
+      "offset": 405.6,
+      "lang": "en"
+    },
+    {
+      "text": "okay so hold on uh anybody can do this",
+      "duration": 6.0,
+      "offset": 410.24,
+      "lang": "en"
+    },
+    {
+      "text": "you said like you yeah honestly just",
+      "duration": 4.32,
+      "offset": 413.6,
+      "lang": "en"
+    },
+    {
+      "text": "google it just google utao",
+      "duration": 5.12,
+      "offset": 416.24,
+      "lang": "en"
+    },
+    {
+      "text": "um there is a lot of awesome um programs",
+      "duration": 6.72,
+      "offset": 417.92,
+      "lang": "en"
+    },
+    {
+      "text": "there is a lot of amazing tutorials um",
+      "duration": 5.52,
+      "offset": 421.36,
+      "lang": "en"
+    },
+    {
+      "text": "the the hard part is what&#39;s called auto",
+      "duration": 3.76,
+      "offset": 424.64,
+      "lang": "en"
+    },
+    {
+      "text": "ultoing essentially like",
+      "duration": 3.12,
+      "offset": 426.88,
+      "lang": "en"
+    },
+    {
+      "text": "you have to kind of pull up the program",
+      "duration": 3.12,
+      "offset": 428.4,
+      "lang": "en"
+    },
+    {
+      "text": "and kind of tell it like where the",
+      "duration": 2.88,
+      "offset": 430.0,
+      "lang": "en"
+    },
+    {
+      "text": "consonant of your of the",
+      "duration": 2.88,
+      "offset": 431.52,
+      "lang": "en"
+    },
+    {
+      "text": "essentially it breaks everything up into",
+      "duration": 3.28,
+      "offset": 432.88,
+      "lang": "en"
+    },
+    {
+      "text": "little like like each of your vowels is",
+      "duration": 2.88,
+      "offset": 434.4,
+      "lang": "en"
+    },
+    {
+      "text": "like one voice sample",
+      "duration": 3.6,
+      "offset": 436.16,
+      "lang": "en"
+    },
+    {
+      "text": "right and the program like takes like it",
+      "duration": 4.16,
+      "offset": 437.28,
+      "lang": "en"
+    },
+    {
+      "text": "tells you like oh this is like the pre",
+      "duration": 2.64,
+      "offset": 439.76,
+      "lang": "en"
+    },
+    {
+      "text": "utterance of the s",
+      "duration": 2.8,
+      "offset": 441.44,
+      "lang": "en"
+    },
+    {
+      "text": "of this the thing here&#39;s a consonant",
+      "duration": 3.44,
+      "offset": 442.4,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s a vowel here&#39;s a rest like",
+      "duration": 3.2,
+      "offset": 444.24,
+      "lang": "en"
+    },
+    {
+      "text": "so you have to kind of dedicate like",
+      "duration": 2.96,
+      "offset": 445.84,
+      "lang": "en"
+    },
+    {
+      "text": "tell it essentially where all the",
+      "duration": 3.12,
+      "offset": 447.44,
+      "lang": "en"
+    },
+    {
+      "text": "important parts of like the vowel start",
+      "duration": 2.4,
+      "offset": 448.8,
+      "lang": "en"
+    },
+    {
+      "text": "and end",
+      "duration": 3.76,
+      "offset": 450.56,
+      "lang": "en"
+    },
+    {
+      "text": "yeah that&#39;s the hard part but um i found",
+      "duration": 4.72,
+      "offset": 451.2,
+      "lang": "en"
+    },
+    {
+      "text": "someone on fiverr who does it for five",
+      "duration": 2.0,
+      "offset": 454.32,
+      "lang": "en"
+    },
+    {
+      "text": "bucks",
+      "duration": 2.96,
+      "offset": 455.92,
+      "lang": "en"
+    },
+    {
+      "text": "so i&#39;m just waiting on the person i",
+      "duration": 4.0,
+      "offset": 456.32,
+      "lang": "en"
+    },
+    {
+      "text": "commissioned to do that for me because",
+      "duration": 2.32,
+      "offset": 458.88,
+      "lang": "en"
+    },
+    {
+      "text": "um",
+      "duration": 2.88,
+      "offset": 460.32,
+      "lang": "en"
+    },
+    {
+      "text": "i did hotel my own i o two my own new",
+      "duration": 3.28,
+      "offset": 461.2,
+      "lang": "en"
+    },
+    {
+      "text": "towel when i was like",
+      "duration": 4.48,
+      "offset": 463.2,
+      "lang": "en"
+    },
+    {
+      "text": "15. it&#39;s not fun yeah yeah",
+      "duration": 5.68,
+      "offset": 464.48,
+      "lang": "en"
+    },
+    {
+      "text": "so not fun so i thought no [ __ ] that i",
+      "duration": 3.28,
+      "offset": 467.68,
+      "lang": "en"
+    },
+    {
+      "text": "ain&#39;t doing that",
+      "duration": 3.52,
+      "offset": 470.16,
+      "lang": "en"
+    },
+    {
+      "text": "yeah that&#39;s like that is so fascinating",
+      "duration": 4.0,
+      "offset": 470.96,
+      "lang": "en"
+    },
+    {
+      "text": "to me i didn&#39;t know that like you could",
+      "duration": 3.28,
+      "offset": 473.68,
+      "lang": "en"
+    },
+    {
+      "text": "make your own kind of",
+      "duration": 4.24,
+      "offset": 474.96,
+      "lang": "en"
+    },
+    {
+      "text": "like vocaloid bot thing or whatever this",
+      "duration": 3.84,
+      "offset": 476.96,
+      "lang": "en"
+    },
+    {
+      "text": "is like brand new to me i&#39;m not like",
+      "duration": 3.2,
+      "offset": 479.2,
+      "lang": "en"
+    },
+    {
+      "text": "i was never into vocaloid i was never",
+      "duration": 3.28,
+      "offset": 480.8,
+      "lang": "en"
+    },
+    {
+      "text": "into like the yutai scene or anything",
+      "duration": 3.6,
+      "offset": 482.4,
+      "lang": "en"
+    },
+    {
+      "text": "like that so this is like i&#39;m just",
+      "duration": 3.28,
+      "offset": 484.08,
+      "lang": "en"
+    },
+    {
+      "text": "uh learning about this also sorry real",
+      "duration": 3.12,
+      "offset": 486.0,
+      "lang": "en"
+    },
+    {
+      "text": "quick again i see",
+      "duration": 3.6,
+      "offset": 487.36,
+      "lang": "en"
+    },
+    {
+      "text": "uh bubba thank you so much for the 100",
+      "duration": 3.2,
+      "offset": 489.12,
+      "lang": "en"
+    },
+    {
+      "text": "bits yo i i don&#39;t know what you&#39;re",
+      "duration": 2.32,
+      "offset": 490.96,
+      "lang": "en"
+    },
+    {
+      "text": "saying",
+      "duration": 3.84,
+      "offset": 492.32,
+      "lang": "en"
+    },
+    {
+      "text": "here but yeah thank you so much",
+      "duration": 2.88,
+      "offset": 493.28,
+      "lang": "en"
+    },
+    {
+      "text": "okay so that is so [ __ ] um",
+      "duration": 6.8,
+      "offset": 497.76,
+      "lang": "en"
+    },
+    {
+      "text": "yeah bubba thank you so much again um",
+      "duration": 3.92,
+      "offset": 501.68,
+      "lang": "en"
+    },
+    {
+      "text": "but yeah that is",
+      "duration": 4.24,
+      "offset": 504.56,
+      "lang": "en"
+    },
+    {
+      "text": "so so cool okay so dude i like i almost",
+      "duration": 4.56,
+      "offset": 505.6,
+      "lang": "en"
+    },
+    {
+      "text": "want to make one for myself just for the",
+      "duration": 2.0,
+      "offset": 508.8,
+      "lang": "en"
+    },
+    {
+      "text": "[ __ ] of it",
+      "duration": 2.24,
+      "offset": 510.16,
+      "lang": "en"
+    },
+    {
+      "text": "it seems you absolutely could look it up",
+      "duration": 3.44,
+      "offset": 510.8,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s really not that bad like you",
+      "duration": 3.76,
+      "offset": 512.4,
+      "lang": "en"
+    },
+    {
+      "text": "if you if you wanted to do like all of",
+      "duration": 4.32,
+      "offset": 514.24,
+      "lang": "en"
+    },
+    {
+      "text": "the the the japanese vocals it might i",
+      "duration": 3.2,
+      "offset": 516.16,
+      "lang": "en"
+    },
+    {
+      "text": "mean to be fair",
+      "duration": 2.56,
+      "offset": 518.56,
+      "lang": "en"
+    },
+    {
+      "text": "if i&#39;m totally honest i sat down on my",
+      "duration": 3.36,
+      "offset": 519.36,
+      "lang": "en"
+    },
+    {
+      "text": "computer and i recorded all my",
+      "duration": 4.08,
+      "offset": 521.12,
+      "lang": "en"
+    },
+    {
+      "text": "all my my voice stuff in like two hours",
+      "duration": 3.52,
+      "offset": 522.72,
+      "lang": "en"
+    },
+    {
+      "text": "and i was done",
+      "duration": 3.68,
+      "offset": 525.2,
+      "lang": "en"
+    },
+    {
+      "text": "wow send it off to someone to o2 and",
+      "duration": 3.68,
+      "offset": 526.24,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s done",
+      "duration": 3.92,
+      "offset": 528.88,
+      "lang": "en"
+    },
+    {
+      "text": "and actually um lately i i&#39;ve heard i",
+      "duration": 4.48,
+      "offset": 529.92,
+      "lang": "en"
+    },
+    {
+      "text": "have not done this personally but like",
+      "duration": 3.2,
+      "offset": 532.8,
+      "lang": "en"
+    },
+    {
+      "text": "friday night funkin the modding scene",
+      "duration": 3.36,
+      "offset": 534.4,
+      "lang": "en"
+    },
+    {
+      "text": "for friday night funkin has been trying",
+      "duration": 3.76,
+      "offset": 536.0,
+      "lang": "en"
+    },
+    {
+      "text": "has been using utau a lot for like doing",
+      "duration": 3.52,
+      "offset": 537.76,
+      "lang": "en"
+    },
+    {
+      "text": "the vocal parts of their songs",
+      "duration": 4.96,
+      "offset": 539.76,
+      "lang": "en"
+    },
+    {
+      "text": "whoa really yeah that is so",
+      "duration": 5.2,
+      "offset": 541.28,
+      "lang": "en"
+    },
+    {
+      "text": "[ __ ] trippy i&#39;m like myers like",
+      "duration": 3.36,
+      "offset": 544.72,
+      "lang": "en"
+    },
+    {
+      "text": "opening to a whole another horizon",
+      "duration": 4.24,
+      "offset": 546.48,
+      "lang": "en"
+    },
+    {
+      "text": "here that is super cool and so actually",
+      "duration": 4.24,
+      "offset": 548.08,
+      "lang": "en"
+    },
+    {
+      "text": "so speaking of which have you",
+      "duration": 3.36,
+      "offset": 550.72,
+      "lang": "en"
+    },
+    {
+      "text": "have you ever been part of the utah day",
+      "duration": 3.36,
+      "offset": 552.32,
+      "lang": "en"
+    },
+    {
+      "text": "scene or",
+      "duration": 3.2,
+      "offset": 554.08,
+      "lang": "en"
+    },
+    {
+      "text": "like with you know like singing and all",
+      "duration": 5.2,
+      "offset": 555.68,
+      "lang": "en"
+    },
+    {
+      "text": "that uh",
+      "duration": 3.6,
+      "offset": 557.28,
+      "lang": "en"
+    },
+    {
+      "text": "not really not really okay okay i just",
+      "duration": 3.6,
+      "offset": 561.2,
+      "lang": "en"
+    },
+    {
+      "text": "like i made my own at one point and i",
+      "duration": 3.04,
+      "offset": 563.2,
+      "lang": "en"
+    },
+    {
+      "text": "made a couple covers but i&#39;ve always",
+      "duration": 3.68,
+      "offset": 564.8,
+      "lang": "en"
+    },
+    {
+      "text": "kind of like i said",
+      "duration": 4.32,
+      "offset": 566.24,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ve always kind of been on the on the",
+      "duration": 3.2,
+      "offset": 568.48,
+      "lang": "en"
+    },
+    {
+      "text": "low self-esteem",
+      "duration": 3.6,
+      "offset": 570.56,
+      "lang": "en"
+    },
+    {
+      "text": "side of things so like i will i will get",
+      "duration": 4.0,
+      "offset": 571.68,
+      "lang": "en"
+    },
+    {
+      "text": "really into something i&#39;ll try to do the",
+      "duration": 2.88,
+      "offset": 574.16,
+      "lang": "en"
+    },
+    {
+      "text": "thing and i&#39;ll go uh",
+      "duration": 3.52,
+      "offset": 575.68,
+      "lang": "en"
+    },
+    {
+      "text": "oh that&#39;s right gives a [ __ ] and then",
+      "duration": 4.16,
+      "offset": 577.04,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ll just kind of give up and not do it",
+      "duration": 3.52,
+      "offset": 579.2,
+      "lang": "en"
+    },
+    {
+      "text": "i mean it seems like you&#39;re really",
+      "duration": 3.28,
+      "offset": 581.2,
+      "lang": "en"
+    },
+    {
+      "text": "passionate about it though no",
+      "duration": 3.84,
+      "offset": 582.72,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m you&#39;re seeing me in a very good",
+      "duration": 4.32,
+      "offset": 584.48,
+      "lang": "en"
+    },
+    {
+      "text": "moment domo don&#39;t don&#39;t be fooled",
+      "duration": 4.4,
+      "offset": 586.56,
+      "lang": "en"
+    },
+    {
+      "text": "okay gotcha gotcha i understand i mean",
+      "duration": 3.68,
+      "offset": 588.8,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s cool i think",
+      "duration": 4.16,
+      "offset": 590.96,
+      "lang": "en"
+    },
+    {
+      "text": "you should i i say you should like try",
+      "duration": 3.76,
+      "offset": 592.48,
+      "lang": "en"
+    },
+    {
+      "text": "to catch yourself in more moments like",
+      "duration": 2.64,
+      "offset": 595.12,
+      "lang": "en"
+    },
+    {
+      "text": "this but it is hard obviously right it&#39;s",
+      "duration": 2.24,
+      "offset": 596.24,
+      "lang": "en"
+    },
+    {
+      "text": "hard to",
+      "duration": 3.68,
+      "offset": 597.76,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m working on it i&#39;m going to my to my",
+      "duration": 4.56,
+      "offset": 598.48,
+      "lang": "en"
+    },
+    {
+      "text": "friendly neighborhood therapist i&#39;m",
+      "duration": 2.56,
+      "offset": 601.44,
+      "lang": "en"
+    },
+    {
+      "text": "working on it",
+      "duration": 2.8,
+      "offset": 603.04,
+      "lang": "en"
+    },
+    {
+      "text": "awesome awesome i love that uh like the",
+      "duration": 3.28,
+      "offset": 604.0,
+      "lang": "en"
+    },
+    {
+      "text": "next step for self growth",
+      "duration": 3.68,
+      "offset": 605.84,
+      "lang": "en"
+    },
+    {
+      "text": "very cool um also ruby fan thank you so",
+      "duration": 3.84,
+      "offset": 607.28,
+      "lang": "en"
+    },
+    {
+      "text": "much for the hundred bits yo uh they say",
+      "duration": 1.84,
+      "offset": 609.52,
+      "lang": "en"
+    },
+    {
+      "text": "go",
+      "duration": 2.96,
+      "offset": 611.12,
+      "lang": "en"
+    },
+    {
+      "text": "niji yeah yeah yeah my mods are hopping",
+      "duration": 4.32,
+      "offset": 611.36,
+      "lang": "en"
+    },
+    {
+      "text": "off in the chat they&#39;re they&#39;re",
+      "duration": 2.88,
+      "offset": 614.08,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re holding up the glow sticks for",
+      "duration": 2.72,
+      "offset": 615.68,
+      "lang": "en"
+    },
+    {
+      "text": "me hey well thank you so much guys",
+      "duration": 2.56,
+      "offset": 616.96,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate it so",
+      "duration": 3.92,
+      "offset": 618.4,
+      "lang": "en"
+    },
+    {
+      "text": "very cool to have um niji on so wait do",
+      "duration": 4.4,
+      "offset": 619.52,
+      "lang": "en"
+    },
+    {
+      "text": "you have any",
+      "duration": 2.72,
+      "offset": 622.32,
+      "lang": "en"
+    },
+    {
+      "text": "i guess we should just reel back for a",
+      "duration": 3.12,
+      "offset": 623.92,
+      "lang": "en"
+    },
+    {
+      "text": "bit uh when did you start v tubing",
+      "duration": 4.32,
+      "offset": 625.04,
+      "lang": "en"
+    },
+    {
+      "text": "uh six months ago the very first day i",
+      "duration": 4.48,
+      "offset": 627.04,
+      "lang": "en"
+    },
+    {
+      "text": "ever be tubed was january 11th",
+      "duration": 5.52,
+      "offset": 629.36,
+      "lang": "en"
+    },
+    {
+      "text": "oh really really like just",
+      "duration": 5.36,
+      "offset": 631.52,
+      "lang": "en"
+    },
+    {
+      "text": "uh kind of crevicing the new year too so",
+      "duration": 4.0,
+      "offset": 634.88,
+      "lang": "en"
+    },
+    {
+      "text": "very cool and how are you enjoying it",
+      "duration": 4.88,
+      "offset": 636.88,
+      "lang": "en"
+    },
+    {
+      "text": "i i love it honestly i love it a lot",
+      "duration": 4.08,
+      "offset": 638.88,
+      "lang": "en"
+    },
+    {
+      "text": "nice nice",
+      "duration": 4.16,
+      "offset": 641.76,
+      "lang": "en"
+    },
+    {
+      "text": "and in a weird way like like one it it",
+      "duration": 4.24,
+      "offset": 642.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually kind of started as a way of",
+      "duration": 2.88,
+      "offset": 645.92,
+      "lang": "en"
+    },
+    {
+      "text": "like scheduling my gaming time",
+      "duration": 3.2,
+      "offset": 647.2,
+      "lang": "en"
+    },
+    {
+      "text": "because another thing of the the good",
+      "duration": 3.52,
+      "offset": 648.8,
+      "lang": "en"
+    },
+    {
+      "text": "old depression is that um",
+      "duration": 4.16,
+      "offset": 650.4,
+      "lang": "en"
+    },
+    {
+      "text": "you uh procrastinate on doing things",
+      "duration": 4.96,
+      "offset": 652.32,
+      "lang": "en"
+    },
+    {
+      "text": "that it should be fun",
+      "duration": 4.4,
+      "offset": 654.56,
+      "lang": "en"
+    },
+    {
+      "text": "but like i have trouble like actually",
+      "duration": 3.76,
+      "offset": 657.28,
+      "lang": "en"
+    },
+    {
+      "text": "getting up and like the activation part",
+      "duration": 3.44,
+      "offset": 658.96,
+      "lang": "en"
+    },
+    {
+      "text": "of things is where i struggle",
+      "duration": 3.36,
+      "offset": 661.04,
+      "lang": "en"
+    },
+    {
+      "text": "so when i do it in like a stream thing",
+      "duration": 3.76,
+      "offset": 662.4,
+      "lang": "en"
+    },
+    {
+      "text": "like not only am i scheduling the time",
+      "duration": 3.36,
+      "offset": 664.4,
+      "lang": "en"
+    },
+    {
+      "text": "to specifically do that thing",
+      "duration": 3.04,
+      "offset": 666.16,
+      "lang": "en"
+    },
+    {
+      "text": "but like it gives me that extra little",
+      "duration": 2.96,
+      "offset": 667.76,
+      "lang": "en"
+    },
+    {
+      "text": "push because like i know people are",
+      "duration": 3.2,
+      "offset": 669.2,
+      "lang": "en"
+    },
+    {
+      "text": "excited to come see me",
+      "duration": 3.44,
+      "offset": 670.72,
+      "lang": "en"
+    },
+    {
+      "text": "so that makes it fun too that&#39;s really",
+      "duration": 3.2,
+      "offset": 672.4,
+      "lang": "en"
+    },
+    {
+      "text": "really smart because",
+      "duration": 4.56,
+      "offset": 674.16,
+      "lang": "en"
+    },
+    {
+      "text": "not i like i definitely understand like",
+      "duration": 5.44,
+      "offset": 675.6,
+      "lang": "en"
+    },
+    {
+      "text": "the aspect like it&#39;s hard to even if you",
+      "duration": 4.64,
+      "offset": 678.72,
+      "lang": "en"
+    },
+    {
+      "text": "want to do something that should be fun",
+      "duration": 5.04,
+      "offset": 681.04,
+      "lang": "en"
+    },
+    {
+      "text": "like the daunting idea of like getting",
+      "duration": 4.0,
+      "offset": 683.36,
+      "lang": "en"
+    },
+    {
+      "text": "up and doing it even though it&#39;s",
+      "duration": 3.28,
+      "offset": 686.08,
+      "lang": "en"
+    },
+    {
+      "text": "supposed to be like a fun thing is like",
+      "duration": 4.24,
+      "offset": 687.36,
+      "lang": "en"
+    },
+    {
+      "text": "a lot on its own so that&#39;s cool if you",
+      "duration": 4.08,
+      "offset": 689.36,
+      "lang": "en"
+    },
+    {
+      "text": "schedule something like that",
+      "duration": 3.68,
+      "offset": 691.6,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re kind of pushed to do it it&#39;s like",
+      "duration": 3.76,
+      "offset": 693.44,
+      "lang": "en"
+    },
+    {
+      "text": "another it&#39;s like a brain hack because",
+      "duration": 3.36,
+      "offset": 695.28,
+      "lang": "en"
+    },
+    {
+      "text": "brain doesn&#39;t give a [ __ ] if it doesn&#39;t",
+      "duration": 2.56,
+      "offset": 697.2,
+      "lang": "en"
+    },
+    {
+      "text": "make sense it just",
+      "duration": 3.6,
+      "offset": 698.64,
+      "lang": "en"
+    },
+    {
+      "text": "it says hey you want to do this you&#39;ve",
+      "duration": 4.08,
+      "offset": 699.76,
+      "lang": "en"
+    },
+    {
+      "text": "been laying in your bed for six hours",
+      "duration": 2.8,
+      "offset": 702.24,
+      "lang": "en"
+    },
+    {
+      "text": "and you keep telling yourself you want",
+      "duration": 2.16,
+      "offset": 703.84,
+      "lang": "en"
+    },
+    {
+      "text": "to do this thing",
+      "duration": 2.32,
+      "offset": 705.04,
+      "lang": "en"
+    },
+    {
+      "text": "but you&#39;re not going to actually get up",
+      "duration": 3.2,
+      "offset": 706.0,
+      "lang": "en"
+    },
+    {
+      "text": "and do it that&#39;s too much work yeah yeah",
+      "duration": 3.28,
+      "offset": 707.36,
+      "lang": "en"
+    },
+    {
+      "text": "but if people are kind of expecting it i",
+      "duration": 2.72,
+      "offset": 709.2,
+      "lang": "en"
+    },
+    {
+      "text": "guess you&#39;re more pressing very",
+      "duration": 4.32,
+      "offset": 710.64,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s yeah i like that that&#39;s another i",
+      "duration": 5.04,
+      "offset": 711.92,
+      "lang": "en"
+    },
+    {
+      "text": "i hear people get into v tubing for a",
+      "duration": 3.6,
+      "offset": 714.96,
+      "lang": "en"
+    },
+    {
+      "text": "plethora of different reasons",
+      "duration": 4.0,
+      "offset": 716.96,
+      "lang": "en"
+    },
+    {
+      "text": "but that&#39;s a really unique and just like",
+      "duration": 3.6,
+      "offset": 718.56,
+      "lang": "en"
+    },
+    {
+      "text": "self-positive one",
+      "duration": 2.8,
+      "offset": 720.96,
+      "lang": "en"
+    },
+    {
+      "text": "for you to like kind of give yourself",
+      "duration": 3.28,
+      "offset": 722.16,
+      "lang": "en"
+    },
+    {
+      "text": "that extra push to do stuff so that&#39;s",
+      "duration": 3.68,
+      "offset": 723.76,
+      "lang": "en"
+    },
+    {
+      "text": "awesome that&#39;s super super cool",
+      "duration": 3.52,
+      "offset": 725.44,
+      "lang": "en"
+    },
+    {
+      "text": "yeah it also means i get to interact",
+      "duration": 3.2,
+      "offset": 727.44,
+      "lang": "en"
+    },
+    {
+      "text": "with people i&#39;m kind of bad at that",
+      "duration": 4.32,
+      "offset": 728.96,
+      "lang": "en"
+    },
+    {
+      "text": "i am very much i i&#39;m a chat lurker and i",
+      "duration": 3.04,
+      "offset": 730.64,
+      "lang": "en"
+    },
+    {
+      "text": "also",
+      "duration": 2.32,
+      "offset": 733.28,
+      "lang": "en"
+    },
+    {
+      "text": "i lurk in like practically every discord",
+      "duration": 3.12,
+      "offset": 733.68,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m in like i",
+      "duration": 3.44,
+      "offset": 735.6,
+      "lang": "en"
+    },
+    {
+      "text": "i will i will i will get my oats like",
+      "duration": 3.44,
+      "offset": 736.8,
+      "lang": "en"
+    },
+    {
+      "text": "once a month and i will chat with",
+      "duration": 2.64,
+      "offset": 739.04,
+      "lang": "en"
+    },
+    {
+      "text": "everyone and then the whole rest of the",
+      "duration": 3.2,
+      "offset": 740.24,
+      "lang": "en"
+    },
+    {
+      "text": "time i will like have the discords on",
+      "duration": 4.08,
+      "offset": 741.68,
+      "lang": "en"
+    },
+    {
+      "text": "mute because i just can&#39;t",
+      "duration": 4.32,
+      "offset": 743.44,
+      "lang": "en"
+    },
+    {
+      "text": "so so like the streams are also my",
+      "duration": 4.4,
+      "offset": 745.76,
+      "lang": "en"
+    },
+    {
+      "text": "scheduled uh human interaction time",
+      "duration": 5.68,
+      "offset": 747.76,
+      "lang": "en"
+    },
+    {
+      "text": "yeah yeah i mean that&#39;s not even",
+      "duration": 4.4,
+      "offset": 750.16,
+      "lang": "en"
+    },
+    {
+      "text": "i feel like that&#39;s like everybody it&#39;s",
+      "duration": 2.88,
+      "offset": 753.44,
+      "lang": "en"
+    },
+    {
+      "text": "just like weird getting to a vc and then",
+      "duration": 2.48,
+      "offset": 754.56,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s like",
+      "duration": 2.64,
+      "offset": 756.32,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s people in a vc already and one&#39;s",
+      "duration": 3.04,
+      "offset": 757.04,
+      "lang": "en"
+    },
+    {
+      "text": "a good time to start",
+      "duration": 2.08,
+      "offset": 758.96,
+      "lang": "en"
+    },
+    {
+      "text": "talking because i don&#39;t want to",
+      "duration": 3.28,
+      "offset": 760.08,
+      "lang": "en"
+    },
+    {
+      "text": "interrupt the flow and it&#39;s like it&#39;s",
+      "duration": 3.84,
+      "offset": 761.04,
+      "lang": "en"
+    },
+    {
+      "text": "awkward for a little bit so",
+      "duration": 3.76,
+      "offset": 763.36,
+      "lang": "en"
+    },
+    {
+      "text": "yeah i totally understand but sorry okay",
+      "duration": 3.44,
+      "offset": 764.88,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s let&#39;s have a",
+      "duration": 3.36,
+      "offset": 767.12,
+      "lang": "en"
+    },
+    {
+      "text": "wave for that for a bit uh are you have",
+      "duration": 3.28,
+      "offset": 768.32,
+      "lang": "en"
+    },
+    {
+      "text": "you been doing a lot of",
+      "duration": 3.36,
+      "offset": 770.48,
+      "lang": "en"
+    },
+    {
+      "text": "music related streams like singing or",
+      "duration": 3.68,
+      "offset": 771.6,
+      "lang": "en"
+    },
+    {
+      "text": "anything like that",
+      "duration": 3.52,
+      "offset": 773.84,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ve been wanting to i&#39;ve been trying to",
+      "duration": 4.48,
+      "offset": 775.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh work up the oats to do that lately",
+      "duration": 5.92,
+      "offset": 777.36,
+      "lang": "en"
+    },
+    {
+      "text": "yeah yeah and um i mean what&#39;s your",
+      "duration": 5.6,
+      "offset": 779.76,
+      "lang": "en"
+    },
+    {
+      "text": "what is your dream scenario i guess for",
+      "duration": 4.08,
+      "offset": 783.28,
+      "lang": "en"
+    },
+    {
+      "text": "if that comes to fruition",
+      "duration": 4.4,
+      "offset": 785.36,
+      "lang": "en"
+    },
+    {
+      "text": "uh to be totally honest when i got into",
+      "duration": 4.0,
+      "offset": 787.36,
+      "lang": "en"
+    },
+    {
+      "text": "this i wanted to be an idol like",
+      "duration": 2.48,
+      "offset": 789.76,
+      "lang": "en"
+    },
+    {
+      "text": "straight up like",
+      "duration": 3.84,
+      "offset": 791.36,
+      "lang": "en"
+    },
+    {
+      "text": "like hollow hollow live style idol like",
+      "duration": 5.28,
+      "offset": 792.24,
+      "lang": "en"
+    },
+    {
+      "text": "get a 3d model have like an idol outfit",
+      "duration": 2.88,
+      "offset": 795.2,
+      "lang": "en"
+    },
+    {
+      "text": "like",
+      "duration": 3.2,
+      "offset": 797.52,
+      "lang": "en"
+    },
+    {
+      "text": "do like like karaoke performance idol",
+      "duration": 4.08,
+      "offset": 798.08,
+      "lang": "en"
+    },
+    {
+      "text": "like idol idol",
+      "duration": 4.56,
+      "offset": 800.72,
+      "lang": "en"
+    },
+    {
+      "text": "yeah yeah okay that feels like kind of a",
+      "duration": 3.68,
+      "offset": 802.16,
+      "lang": "en"
+    },
+    {
+      "text": "distant",
+      "duration": 3.36,
+      "offset": 805.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh dream for right now but i i have an",
+      "duration": 3.68,
+      "offset": 805.84,
+      "lang": "en"
+    },
+    {
+      "text": "idol outfit",
+      "duration": 3.84,
+      "offset": 808.64,
+      "lang": "en"
+    },
+    {
+      "text": "not not on not on um not on vc face i",
+      "duration": 4.56,
+      "offset": 809.52,
+      "lang": "en"
+    },
+    {
+      "text": "just drew one but um",
+      "duration": 3.44,
+      "offset": 812.48,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m working up the oats to like actually",
+      "duration": 3.84,
+      "offset": 814.08,
+      "lang": "en"
+    },
+    {
+      "text": "do a karaoke stream i know once i do it",
+      "duration": 3.52,
+      "offset": 815.92,
+      "lang": "en"
+    },
+    {
+      "text": "once i will find it fun and i&#39;ll keep",
+      "duration": 2.8,
+      "offset": 817.92,
+      "lang": "en"
+    },
+    {
+      "text": "doing it it&#39;s just uh",
+      "duration": 3.68,
+      "offset": 819.44,
+      "lang": "en"
+    },
+    {
+      "text": "taking that leap is the hard part yeah",
+      "duration": 3.92,
+      "offset": 820.72,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s always i mean that&#39;s cool that",
+      "duration": 2.56,
+      "offset": 823.12,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re",
+      "duration": 2.8,
+      "offset": 824.64,
+      "lang": "en"
+    },
+    {
+      "text": "i really like that you&#39;re using this",
+      "duration": 3.28,
+      "offset": 825.68,
+      "lang": "en"
+    },
+    {
+      "text": "whole like v tuber",
+      "duration": 3.52,
+      "offset": 827.44,
+      "lang": "en"
+    },
+    {
+      "text": "platform to like really push yourself",
+      "duration": 3.76,
+      "offset": 828.96,
+      "lang": "en"
+    },
+    {
+      "text": "and you know",
+      "duration": 3.12,
+      "offset": 830.96,
+      "lang": "en"
+    },
+    {
+      "text": "put yourself in scenarios where you",
+      "duration": 3.2,
+      "offset": 832.72,
+      "lang": "en"
+    },
+    {
+      "text": "would otherwise be uncomfortable i think",
+      "duration": 4.16,
+      "offset": 834.08,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s very cool and smart of you so",
+      "duration": 4.0,
+      "offset": 835.92,
+      "lang": "en"
+    },
+    {
+      "text": "a big props to that i really really",
+      "duration": 3.36,
+      "offset": 838.24,
+      "lang": "en"
+    },
+    {
+      "text": "really i&#39;ve been i&#39;ve been surprising",
+      "duration": 2.16,
+      "offset": 839.92,
+      "lang": "en"
+    },
+    {
+      "text": "myself",
+      "duration": 3.12,
+      "offset": 841.6,
+      "lang": "en"
+    },
+    {
+      "text": "lately i i i it&#39;s an excuse to do things",
+      "duration": 4.16,
+      "offset": 842.08,
+      "lang": "en"
+    },
+    {
+      "text": "i haven&#39;t done before like i",
+      "duration": 3.76,
+      "offset": 844.72,
+      "lang": "en"
+    },
+    {
+      "text": "i have a chat that is more than happy to",
+      "duration": 3.44,
+      "offset": 846.24,
+      "lang": "en"
+    },
+    {
+      "text": "hype me the [ __ ] up",
+      "duration": 3.6,
+      "offset": 848.48,
+      "lang": "en"
+    },
+    {
+      "text": "yeah even with stupid little things like",
+      "duration": 3.52,
+      "offset": 849.68,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t know if i would like come on",
+      "duration": 2.08,
+      "offset": 852.08,
+      "lang": "en"
+    },
+    {
+      "text": "ninja do it",
+      "duration": 3.6,
+      "offset": 853.2,
+      "lang": "en"
+    },
+    {
+      "text": "do i need you like okay okay i love that",
+      "duration": 3.92,
+      "offset": 854.16,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s super dope that you have a",
+      "duration": 3.92,
+      "offset": 856.8,
+      "lang": "en"
+    },
+    {
+      "text": "creative or sorry supportive uh backing",
+      "duration": 3.92,
+      "offset": 858.08,
+      "lang": "en"
+    },
+    {
+      "text": "uh behind you so",
+      "duration": 3.36,
+      "offset": 860.72,
+      "lang": "en"
+    },
+    {
+      "text": "uh yeah that&#39;s awesome what do you uh so",
+      "duration": 3.36,
+      "offset": 862.0,
+      "lang": "en"
+    },
+    {
+      "text": "you said that you were",
+      "duration": 4.48,
+      "offset": 864.08,
+      "lang": "en"
+    },
+    {
+      "text": "really into singing at one point",
+      "duration": 6.16,
+      "offset": 865.36,
+      "lang": "en"
+    },
+    {
+      "text": "is that what you said before oh i&#39;m kind",
+      "duration": 4.88,
+      "offset": 868.56,
+      "lang": "en"
+    },
+    {
+      "text": "of um i did i did choir all through",
+      "duration": 2.96,
+      "offset": 871.52,
+      "lang": "en"
+    },
+    {
+      "text": "middle school and all through high",
+      "duration": 1.68,
+      "offset": 873.44,
+      "lang": "en"
+    },
+    {
+      "text": "school",
+      "duration": 3.36,
+      "offset": 874.48,
+      "lang": "en"
+    },
+    {
+      "text": "really yeah so if you want to count",
+      "duration": 4.72,
+      "offset": 875.12,
+      "lang": "en"
+    },
+    {
+      "text": "middle school i i don&#39;t personally but",
+      "duration": 3.52,
+      "offset": 877.84,
+      "lang": "en"
+    },
+    {
+      "text": "technically that&#39;s like seven years of",
+      "duration": 2.4,
+      "offset": 879.84,
+      "lang": "en"
+    },
+    {
+      "text": "choir",
+      "duration": 2.08,
+      "offset": 881.36,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t ask me to read music though",
+      "duration": 2.64,
+      "offset": 882.24,
+      "lang": "en"
+    },
+    {
+      "text": "because i cannot read sheet music i",
+      "duration": 2.16,
+      "offset": 883.44,
+      "lang": "en"
+    },
+    {
+      "text": "never learned",
+      "duration": 2.08,
+      "offset": 884.88,
+      "lang": "en"
+    },
+    {
+      "text": "yeah me neither i don&#39;t know like the",
+      "duration": 3.92,
+      "offset": 885.6,
+      "lang": "en"
+    },
+    {
+      "text": "whole like the there&#39;s like five lines",
+      "duration": 3.92,
+      "offset": 886.96,
+      "lang": "en"
+    },
+    {
+      "text": "and there&#39;s like stuff written on it how",
+      "duration": 2.8,
+      "offset": 889.52,
+      "lang": "en"
+    },
+    {
+      "text": "do you even read that thing",
+      "duration": 2.96,
+      "offset": 890.88,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t know like i&#39;m sure if i really",
+      "duration": 2.88,
+      "offset": 892.32,
+      "lang": "en"
+    },
+    {
+      "text": "sat down and did it i could learn it",
+      "duration": 2.4,
+      "offset": 893.84,
+      "lang": "en"
+    },
+    {
+      "text": "because like i",
+      "duration": 3.6,
+      "offset": 895.2,
+      "lang": "en"
+    },
+    {
+      "text": "i kind of got a vague feel when i was in",
+      "duration": 4.16,
+      "offset": 896.24,
+      "lang": "en"
+    },
+    {
+      "text": "choir but like that was a good",
+      "duration": 4.64,
+      "offset": 898.8,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m 25. that that was like it was a long",
+      "duration": 3.92,
+      "offset": 900.4,
+      "lang": "en"
+    },
+    {
+      "text": "time ago",
+      "duration": 2.56,
+      "offset": 903.44,
+      "lang": "en"
+    },
+    {
+      "text": "yeah yeah i probably lost some of those",
+      "duration": 3.44,
+      "offset": 904.32,
+      "lang": "en"
+    },
+    {
+      "text": "skills yeah",
+      "duration": 4.96,
+      "offset": 906.0,
+      "lang": "en"
+    },
+    {
+      "text": "i got you i got you uh yeah okay so uh",
+      "duration": 4.4,
+      "offset": 907.76,
+      "lang": "en"
+    },
+    {
+      "text": "in terms of like streaming and stuff",
+      "duration": 3.36,
+      "offset": 910.96,
+      "lang": "en"
+    },
+    {
+      "text": "what have you been up to lately",
+      "duration": 3.84,
+      "offset": 912.16,
+      "lang": "en"
+    },
+    {
+      "text": "um so i&#39;ve been doing a lots of little",
+      "duration": 3.92,
+      "offset": 914.32,
+      "lang": "en"
+    },
+    {
+      "text": "things we just finished up a huge visual",
+      "duration": 3.76,
+      "offset": 916.0,
+      "lang": "en"
+    },
+    {
+      "text": "novel not huge but",
+      "duration": 3.36,
+      "offset": 918.24,
+      "lang": "en"
+    },
+    {
+      "text": "i only do streams like three hours at a",
+      "duration": 3.44,
+      "offset": 919.76,
+      "lang": "en"
+    },
+    {
+      "text": "time so like uh",
+      "duration": 3.92,
+      "offset": 921.6,
+      "lang": "en"
+    },
+    {
+      "text": "a 15 20 hour visual novel takes like six",
+      "duration": 3.04,
+      "offset": 923.2,
+      "lang": "en"
+    },
+    {
+      "text": "streams",
+      "duration": 2.4,
+      "offset": 925.52,
+      "lang": "en"
+    },
+    {
+      "text": "yeah we were we were very happy to",
+      "duration": 3.12,
+      "offset": 926.24,
+      "lang": "en"
+    },
+    {
+      "text": "finish up that that that",
+      "duration": 3.36,
+      "offset": 927.92,
+      "lang": "en"
+    },
+    {
+      "text": "the that visual novel because i&#39;m the",
+      "duration": 3.84,
+      "offset": 929.36,
+      "lang": "en"
+    },
+    {
+      "text": "type that likes to get all the endings",
+      "duration": 3.76,
+      "offset": 931.28,
+      "lang": "en"
+    },
+    {
+      "text": "i mean you say only three hours i feel",
+      "duration": 3.76,
+      "offset": 933.2,
+      "lang": "en"
+    },
+    {
+      "text": "like it&#39;s like generally my streams",
+      "duration": 3.12,
+      "offset": 935.04,
+      "lang": "en"
+    },
+    {
+      "text": "aside from this dome without you think",
+      "duration": 2.48,
+      "offset": 936.96,
+      "lang": "en"
+    },
+    {
+      "text": "my generally my streams are like an hour",
+      "duration": 2.8,
+      "offset": 938.16,
+      "lang": "en"
+    },
+    {
+      "text": "hour and a half so that&#39;s like pretty",
+      "duration": 3.52,
+      "offset": 939.44,
+      "lang": "en"
+    },
+    {
+      "text": "long three hours i don&#39;t know about you",
+      "duration": 3.92,
+      "offset": 940.96,
+      "lang": "en"
+    },
+    {
+      "text": "well i mean because because i&#39;ve at",
+      "duration": 3.76,
+      "offset": 942.96,
+      "lang": "en"
+    },
+    {
+      "text": "least noticed with with analytics like",
+      "duration": 3.2,
+      "offset": 944.88,
+      "lang": "en"
+    },
+    {
+      "text": "uh the the viewership",
+      "duration": 3.28,
+      "offset": 946.72,
+      "lang": "en"
+    },
+    {
+      "text": "tends to peak around like the two hour",
+      "duration": 3.52,
+      "offset": 948.08,
+      "lang": "en"
+    },
+    {
+      "text": "mark it&#39;ll it&#39;ll kind of peak up",
+      "duration": 2.96,
+      "offset": 950.0,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll hit its peak at two and then it&#39;ll",
+      "duration": 3.76,
+      "offset": 951.6,
+      "lang": "en"
+    },
+    {
+      "text": "kind of just hover down into the threes",
+      "duration": 4.88,
+      "offset": 952.96,
+      "lang": "en"
+    },
+    {
+      "text": "oh really okay and three three is",
+      "duration": 3.76,
+      "offset": 955.36,
+      "lang": "en"
+    },
+    {
+      "text": "usually the natural amount of time",
+      "duration": 3.04,
+      "offset": 957.84,
+      "lang": "en"
+    },
+    {
+      "text": "before i start to kind of get bored or",
+      "duration": 2.48,
+      "offset": 959.12,
+      "lang": "en"
+    },
+    {
+      "text": "tired",
+      "duration": 2.56,
+      "offset": 960.88,
+      "lang": "en"
+    },
+    {
+      "text": "yeah okay guys you heard it first here",
+      "duration": 3.6,
+      "offset": 961.6,
+      "lang": "en"
+    },
+    {
+      "text": "uh donald duchess are two hours going",
+      "duration": 3.12,
+      "offset": 963.44,
+      "lang": "en"
+    },
+    {
+      "text": "forward so thank you guys for your",
+      "duration": 2.0,
+      "offset": 965.2,
+      "lang": "en"
+    },
+    {
+      "text": "support",
+      "duration": 2.72,
+      "offset": 966.56,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;ll be they&#39;ll be cut in half now so",
+      "duration": 3.68,
+      "offset": 967.2,
+      "lang": "en"
+    },
+    {
+      "text": "i appreciate you guys",
+      "duration": 4.0,
+      "offset": 969.28,
+      "lang": "en"
+    },
+    {
+      "text": "i expect a commission domo commission",
+      "duration": 3.28,
+      "offset": 970.88,
+      "lang": "en"
+    },
+    {
+      "text": "commission for what what am i",
+      "duration": 1.84,
+      "offset": 973.28,
+      "lang": "en"
+    },
+    {
+      "text": "commissioning you for",
+      "duration": 2.88,
+      "offset": 974.16,
+      "lang": "en"
+    },
+    {
+      "text": "that for the knowledge i just gave you i",
+      "duration": 3.12,
+      "offset": 975.12,
+      "lang": "en"
+    },
+    {
+      "text": "just gave you important marketing",
+      "duration": 1.76,
+      "offset": 977.04,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge",
+      "duration": 4.16,
+      "offset": 978.24,
+      "lang": "en"
+    },
+    {
+      "text": "for words yes they&#39;re marketing words",
+      "duration": 4.88,
+      "offset": 978.8,
+      "lang": "en"
+    },
+    {
+      "text": "marketing okay you know what i&#39;ll think",
+      "duration": 2.48,
+      "offset": 982.4,
+      "lang": "en"
+    },
+    {
+      "text": "about it maybe i&#39;ll give you like i went",
+      "duration": 2.24,
+      "offset": 983.68,
+      "lang": "en"
+    },
+    {
+      "text": "to college",
+      "duration": 4.48,
+      "offset": 984.88,
+      "lang": "en"
+    },
+    {
+      "text": "give me money i need my money now i need",
+      "duration": 4.56,
+      "offset": 985.92,
+      "lang": "en"
+    },
+    {
+      "text": "to pay off these fees that i",
+      "duration": 4.08,
+      "offset": 989.36,
+      "lang": "en"
+    },
+    {
+      "text": "went to school for i&#39;m paying for my",
+      "duration": 4.56,
+      "offset": 990.48,
+      "lang": "en"
+    },
+    {
+      "text": "model right now give me money",
+      "duration": 2.96,
+      "offset": 993.44,
+      "lang": "en"
+    },
+    {
+      "text": "all right that&#39;s fair also okay real",
+      "duration": 3.2,
+      "offset": 995.04,
+      "lang": "en"
+    },
+    {
+      "text": "quick a bunch of malls is uh so this is",
+      "duration": 2.4,
+      "offset": 996.4,
+      "lang": "en"
+    },
+    {
+      "text": "a",
+      "duration": 2.88,
+      "offset": 998.24,
+      "lang": "en"
+    },
+    {
+      "text": "is this v-roid or that i&#39;m looking at uh",
+      "duration": 4.64,
+      "offset": 998.8,
+      "lang": "en"
+    },
+    {
+      "text": "yes right now this is v-roid um",
+      "duration": 4.4,
+      "offset": 1001.12,
+      "lang": "en"
+    },
+    {
+      "text": "all the the textures and stuff and the",
+      "duration": 4.16,
+      "offset": 1003.44,
+      "lang": "en"
+    },
+    {
+      "text": "hair stuff i did myself this is actually",
+      "duration": 2.72,
+      "offset": 1005.52,
+      "lang": "en"
+    },
+    {
+      "text": "v3",
+      "duration": 2.48,
+      "offset": 1007.6,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s really one and two we&#39;re very",
+      "duration": 3.36,
+      "offset": 1008.24,
+      "lang": "en"
+    },
+    {
+      "text": "scuffed this is probably i&#39;ll be honest",
+      "duration": 2.56,
+      "offset": 1010.08,
+      "lang": "en"
+    },
+    {
+      "text": "yeah",
+      "duration": 2.96,
+      "offset": 1011.6,
+      "lang": "en"
+    },
+    {
+      "text": "yeah all right well uh do you mind uh",
+      "duration": 3.44,
+      "offset": 1012.64,
+      "lang": "en"
+    },
+    {
+      "text": "showing that off a little bit for us",
+      "duration": 3.12,
+      "offset": 1014.56,
+      "lang": "en"
+    },
+    {
+      "text": "yeah absolutely there&#39;s not much to see",
+      "duration": 3.6,
+      "offset": 1016.08,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ll be honest it&#39;s pretty much just uh",
+      "duration": 3.52,
+      "offset": 1017.68,
+      "lang": "en"
+    },
+    {
+      "text": "just a jacket but uh",
+      "duration": 6.16,
+      "offset": 1019.68,
+      "lang": "en"
+    },
+    {
+      "text": "here we go boys we going on out",
+      "duration": 4.64,
+      "offset": 1021.2,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s it wait what&#39;s good hold up i&#39;m",
+      "duration": 3.2,
+      "offset": 1026.96,
+      "lang": "en"
+    },
+    {
+      "text": "noticing this now what is this whole",
+      "duration": 2.16,
+      "offset": 1028.8,
+      "lang": "en"
+    },
+    {
+      "text": "like",
+      "duration": 2.48,
+      "offset": 1030.16,
+      "lang": "en"
+    },
+    {
+      "text": "robot thing going on i&#39;m like seeing",
+      "duration": 3.68,
+      "offset": 1030.96,
+      "lang": "en"
+    },
+    {
+      "text": "this now it&#39;s kind of clicking for me",
+      "duration": 4.24,
+      "offset": 1032.64,
+      "lang": "en"
+    },
+    {
+      "text": "oh you just noticed that i&#39;m at androids",
+      "duration": 3.68,
+      "offset": 1034.64,
+      "lang": "en"
+    },
+    {
+      "text": "well not i&#39;m a i&#39;m",
+      "duration": 4.08,
+      "offset": 1036.88,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m a human soul driving an android body",
+      "duration": 3.36,
+      "offset": 1038.32,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the",
+      "duration": 2.32,
+      "offset": 1040.96,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the long answer the short answer",
+      "duration": 3.2,
+      "offset": 1041.68,
+      "lang": "en"
+    },
+    {
+      "text": "is android the long answer is",
+      "duration": 4.96,
+      "offset": 1043.28,
+      "lang": "en"
+    },
+    {
+      "text": "human soul android body okay got you got",
+      "duration": 4.08,
+      "offset": 1044.88,
+      "lang": "en"
+    },
+    {
+      "text": "you because i",
+      "duration": 1.92,
+      "offset": 1048.24,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t know why i didn&#39;t like did you",
+      "duration": 2.56,
+      "offset": 1048.96,
+      "lang": "en"
+    },
+    {
+      "text": "say that earlier because that totally",
+      "duration": 2.96,
+      "offset": 1050.16,
+      "lang": "en"
+    },
+    {
+      "text": "like kind of caught me off guard",
+      "duration": 3.52,
+      "offset": 1051.52,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t believe i did because i don&#39;t",
+      "duration": 3.12,
+      "offset": 1053.12,
+      "lang": "en"
+    },
+    {
+      "text": "believe you asked",
+      "duration": 4.16,
+      "offset": 1055.04,
+      "lang": "en"
+    },
+    {
+      "text": "yeah okay yeah very cool what&#39;s the is",
+      "duration": 4.56,
+      "offset": 1056.24,
+      "lang": "en"
+    },
+    {
+      "text": "there like a lore behind it or",
+      "duration": 4.72,
+      "offset": 1059.2,
+      "lang": "en"
+    },
+    {
+      "text": "not yeah essentially so um it actually",
+      "duration": 5.04,
+      "offset": 1060.8,
+      "lang": "en"
+    },
+    {
+      "text": "turned out that i ended up kind of uh",
+      "duration": 2.32,
+      "offset": 1063.92,
+      "lang": "en"
+    },
+    {
+      "text": "half",
+      "duration": 2.08,
+      "offset": 1065.84,
+      "lang": "en"
+    },
+    {
+      "text": "sharing lore with a with a friend of",
+      "duration": 3.04,
+      "offset": 1066.24,
+      "lang": "en"
+    },
+    {
+      "text": "mine because essentially",
+      "duration": 2.8,
+      "offset": 1067.92,
+      "lang": "en"
+    },
+    {
+      "text": "in my friend group i was the first to",
+      "duration": 3.12,
+      "offset": 1069.28,
+      "lang": "en"
+    },
+    {
+      "text": "become the v tuber and then the second",
+      "duration": 2.96,
+      "offset": 1070.72,
+      "lang": "en"
+    },
+    {
+      "text": "one was like hey i&#39;m gonna have youtube",
+      "duration": 2.56,
+      "offset": 1072.4,
+      "lang": "en"
+    },
+    {
+      "text": "and then the third one&#39;s like ah [ __ ] it",
+      "duration": 2.24,
+      "offset": 1073.68,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;ll v tube too",
+      "duration": 4.0,
+      "offset": 1074.96,
+      "lang": "en"
+    },
+    {
+      "text": "yeah i started the party bus but",
+      "duration": 4.64,
+      "offset": 1075.92,
+      "lang": "en"
+    },
+    {
+      "text": "essentially um",
+      "duration": 3.84,
+      "offset": 1078.96,
+      "lang": "en"
+    },
+    {
+      "text": "so in my lore uh demons uh sign",
+      "duration": 4.08,
+      "offset": 1080.56,
+      "lang": "en"
+    },
+    {
+      "text": "contracts with humans for certain things",
+      "duration": 2.48,
+      "offset": 1082.8,
+      "lang": "en"
+    },
+    {
+      "text": "you know",
+      "duration": 3.44,
+      "offset": 1084.64,
+      "lang": "en"
+    },
+    {
+      "text": "greed uh money houses [ __ ] you know",
+      "duration": 3.12,
+      "offset": 1085.28,
+      "lang": "en"
+    },
+    {
+      "text": "what",
+      "duration": 2.4,
+      "offset": 1088.08,
+      "lang": "en"
+    },
+    {
+      "text": "whatever whatever you please yeah yeah",
+      "duration": 3.52,
+      "offset": 1088.4,
+      "lang": "en"
+    },
+    {
+      "text": "and whenever you sign that contract",
+      "duration": 2.96,
+      "offset": 1090.48,
+      "lang": "en"
+    },
+    {
+      "text": "whenever uh after a certain amount of",
+      "duration": 2.72,
+      "offset": 1091.92,
+      "lang": "en"
+    },
+    {
+      "text": "time the demon goes hey",
+      "duration": 4.48,
+      "offset": 1093.44,
+      "lang": "en"
+    },
+    {
+      "text": "your contract&#39;s up give me your soul",
+      "duration": 6.4,
+      "offset": 1094.64,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s the thing though um one day a",
+      "duration": 5.12,
+      "offset": 1097.92,
+      "lang": "en"
+    },
+    {
+      "text": "demon came and collected me but i",
+      "duration": 5.04,
+      "offset": 1101.04,
+      "lang": "en"
+    },
+    {
+      "text": "never signed a contract well that&#39;s",
+      "duration": 4.48,
+      "offset": 1103.04,
+      "lang": "en"
+    },
+    {
+      "text": "hey that&#39;s not on you you got screwed",
+      "duration": 3.84,
+      "offset": 1106.08,
+      "lang": "en"
+    },
+    {
+      "text": "over yo yeah so essentially i lost my",
+      "duration": 4.88,
+      "offset": 1107.52,
+      "lang": "en"
+    },
+    {
+      "text": "body to a clerical error",
+      "duration": 5.2,
+      "offset": 1109.92,
+      "lang": "en"
+    },
+    {
+      "text": "oh wait a what a clerical error so",
+      "duration": 3.36,
+      "offset": 1112.4,
+      "lang": "en"
+    },
+    {
+      "text": "someone&#39;s like",
+      "duration": 2.48,
+      "offset": 1115.12,
+      "lang": "en"
+    },
+    {
+      "text": "swapped a someone swapped a letter or",
+      "duration": 3.6,
+      "offset": 1115.76,
+      "lang": "en"
+    },
+    {
+      "text": "someone&#39;s handwriting was [ __ ] or",
+      "duration": 2.8,
+      "offset": 1117.6,
+      "lang": "en"
+    },
+    {
+      "text": "something",
+      "duration": 4.16,
+      "offset": 1119.36,
+      "lang": "en"
+    },
+    {
+      "text": "i got i i i was falsely stolen but by",
+      "duration": 4.88,
+      "offset": 1120.4,
+      "lang": "en"
+    },
+    {
+      "text": "the time that was realized uh",
+      "duration": 3.76,
+      "offset": 1123.52,
+      "lang": "en"
+    },
+    {
+      "text": "i i don&#39;t i never found out exactly what",
+      "duration": 3.2,
+      "offset": 1125.28,
+      "lang": "en"
+    },
+    {
+      "text": "happened essentially",
+      "duration": 3.84,
+      "offset": 1127.28,
+      "lang": "en"
+    },
+    {
+      "text": "i i one one minute i was walking down",
+      "duration": 4.0,
+      "offset": 1128.48,
+      "lang": "en"
+    },
+    {
+      "text": "the street the next minute i was being",
+      "duration": 3.2,
+      "offset": 1131.12,
+      "lang": "en"
+    },
+    {
+      "text": "let out of a jar and floating through uh",
+      "duration": 2.8,
+      "offset": 1132.48,
+      "lang": "en"
+    },
+    {
+      "text": "i don&#39;t know where",
+      "duration": 3.52,
+      "offset": 1134.32,
+      "lang": "en"
+    },
+    {
+      "text": "in in the underworld so um i don&#39;t know",
+      "duration": 3.68,
+      "offset": 1135.28,
+      "lang": "en"
+    },
+    {
+      "text": "exactly what happened i just know",
+      "duration": 2.24,
+      "offset": 1137.84,
+      "lang": "en"
+    },
+    {
+      "text": "somebody [ __ ] up and i hope they got",
+      "duration": 1.92,
+      "offset": 1138.96,
+      "lang": "en"
+    },
+    {
+      "text": "fired for it",
+      "duration": 2.96,
+      "offset": 1140.08,
+      "lang": "en"
+    },
+    {
+      "text": "yes i mean like that&#39;s the worst that&#39;s",
+      "duration": 3.04,
+      "offset": 1140.88,
+      "lang": "en"
+    },
+    {
+      "text": "the least",
+      "duration": 2.48,
+      "offset": 1143.04,
+      "lang": "en"
+    },
+    {
+      "text": "that could happen you know after you get",
+      "duration": 3.04,
+      "offset": 1143.92,
+      "lang": "en"
+    },
+    {
+      "text": "screwed out of your own body you know",
+      "duration": 4.4,
+      "offset": 1145.52,
+      "lang": "en"
+    },
+    {
+      "text": "i would hope so so essentially um [ __ ]",
+      "duration": 3.6,
+      "offset": 1146.96,
+      "lang": "en"
+    },
+    {
+      "text": "was bad",
+      "duration": 2.96,
+      "offset": 1149.92,
+      "lang": "en"
+    },
+    {
+      "text": "and then i ran into a a fellow who",
+      "duration": 3.76,
+      "offset": 1150.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually work works with husks",
+      "duration": 2.8,
+      "offset": 1152.88,
+      "lang": "en"
+    },
+    {
+      "text": "essentially um",
+      "duration": 4.24,
+      "offset": 1154.32,
+      "lang": "en"
+    },
+    {
+      "text": "uh soulless bodies and um he heard my",
+      "duration": 4.4,
+      "offset": 1155.68,
+      "lang": "en"
+    },
+    {
+      "text": "plight and he went yeah yeah you&#39;re kind",
+      "duration": 3.04,
+      "offset": 1158.56,
+      "lang": "en"
+    },
+    {
+      "text": "of pathetic i&#39;ll help you out so",
+      "duration": 5.2,
+      "offset": 1160.08,
+      "lang": "en"
+    },
+    {
+      "text": "um we legally obtained",
+      "duration": 6.88,
+      "offset": 1161.6,
+      "lang": "en"
+    },
+    {
+      "text": "legally purchased and obtained a a",
+      "duration": 6.64,
+      "offset": 1165.28,
+      "lang": "en"
+    },
+    {
+      "text": "um bargain bin android body from a",
+      "duration": 5.92,
+      "offset": 1168.48,
+      "lang": "en"
+    },
+    {
+      "text": "heli and wally mart and that&#39;s where i",
+      "duration": 4.72,
+      "offset": 1171.92,
+      "lang": "en"
+    },
+    {
+      "text": "am today i&#39;m no longer in hell uh",
+      "duration": 4.0,
+      "offset": 1174.4,
+      "lang": "en"
+    },
+    {
+      "text": "i&#39;m working on getting citizenship so i",
+      "duration": 3.52,
+      "offset": 1176.64,
+      "lang": "en"
+    },
+    {
+      "text": "can go visit uh i can go visit my",
+      "duration": 3.84,
+      "offset": 1178.4,
+      "lang": "en"
+    },
+    {
+      "text": "friends in hell but uh",
+      "duration": 4.08,
+      "offset": 1180.16,
+      "lang": "en"
+    },
+    {
+      "text": "yeah and i i&#39;ve had to specify that",
+      "duration": 3.36,
+      "offset": 1182.24,
+      "lang": "en"
+    },
+    {
+      "text": "because sometimes when people i say",
+      "duration": 2.96,
+      "offset": 1184.24,
+      "lang": "en"
+    },
+    {
+      "text": "android and i make jokes about like",
+      "duration": 2.96,
+      "offset": 1185.6,
+      "lang": "en"
+    },
+    {
+      "text": "human stuff and they&#39;re like but you&#39;re",
+      "duration": 3.76,
+      "offset": 1187.2,
+      "lang": "en"
+    },
+    {
+      "text": "an android that doesn&#39;t make sense like",
+      "duration": 3.6,
+      "offset": 1188.56,
+      "lang": "en"
+    },
+    {
+      "text": "nothing you have to clarify you don&#39;t",
+      "duration": 2.88,
+      "offset": 1190.96,
+      "lang": "en"
+    },
+    {
+      "text": "get it guys you don&#39;t do this you don&#39;t",
+      "duration": 3.2,
+      "offset": 1192.16,
+      "lang": "en"
+    },
+    {
+      "text": "get it like i wasn&#39;t i wasn&#39;t",
+      "duration": 3.76,
+      "offset": 1193.84,
+      "lang": "en"
+    },
+    {
+      "text": "the the android life didn&#39;t choose i i",
+      "duration": 3.44,
+      "offset": 1195.36,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t choose the android life the",
+      "duration": 2.48,
+      "offset": 1197.6,
+      "lang": "en"
+    },
+    {
+      "text": "android life chose me",
+      "duration": 3.92,
+      "offset": 1198.8,
+      "lang": "en"
+    },
+    {
+      "text": "uh yes your friends are so silly they&#39;ll",
+      "duration": 4.24,
+      "offset": 1200.08,
+      "lang": "en"
+    },
+    {
+      "text": "never get it they&#39;ll never get it",
+      "duration": 3.68,
+      "offset": 1202.72,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ll never get it i don&#39;t ever get it",
+      "duration": 3.36,
+      "offset": 1204.32,
+      "lang": "en"
+    },
+    {
+      "text": "i mean you have a lot",
+      "duration": 3.52,
+      "offset": 1206.4,
+      "lang": "en"
+    },
+    {
+      "text": "you have a lot going on you have uh i",
+      "duration": 3.28,
+      "offset": 1207.68,
+      "lang": "en"
+    },
+    {
+      "text": "just in general",
+      "duration": 2.96,
+      "offset": 1209.92,
+      "lang": "en"
+    },
+    {
+      "text": "i appreciate your mindset in terms of",
+      "duration": 3.12,
+      "offset": 1210.96,
+      "lang": "en"
+    },
+    {
+      "text": "like you know",
+      "duration": 2.8,
+      "offset": 1212.88,
+      "lang": "en"
+    },
+    {
+      "text": "wanting to v tube and like the reason",
+      "duration": 5.04,
+      "offset": 1214.08,
+      "lang": "en"
+    },
+    {
+      "text": "why um was that like the real like",
+      "duration": 6.32,
+      "offset": 1215.68,
+      "lang": "en"
+    },
+    {
+      "text": "ultimately the reason why is to for",
+      "duration": 3.6,
+      "offset": 1219.12,
+      "lang": "en"
+    },
+    {
+      "text": "sorry",
+      "duration": 2.08,
+      "offset": 1222.0,
+      "lang": "en"
+    },
+    {
+      "text": "was the main reason why you get into v",
+      "duration": 3.28,
+      "offset": 1222.72,
+      "lang": "en"
+    },
+    {
+      "text": "tubing to push yourself",
+      "duration": 3.44,
+      "offset": 1224.08,
+      "lang": "en"
+    },
+    {
+      "text": "uh to do things or was it like maybe",
+      "duration": 3.68,
+      "offset": 1226.0,
+      "lang": "en"
+    },
+    {
+      "text": "another underlying reason",
+      "duration": 3.84,
+      "offset": 1227.52,
+      "lang": "en"
+    },
+    {
+      "text": "that honestly was the reason end up",
+      "duration": 3.76,
+      "offset": 1229.68,
+      "lang": "en"
+    },
+    {
+      "text": "being the thing because see um",
+      "duration": 4.0,
+      "offset": 1231.36,
+      "lang": "en"
+    },
+    {
+      "text": "the the first time i really got really",
+      "duration": 4.08,
+      "offset": 1233.44,
+      "lang": "en"
+    },
+    {
+      "text": "really really got the itch to start is",
+      "duration": 4.08,
+      "offset": 1235.36,
+      "lang": "en"
+    },
+    {
+      "text": "of course with a lot of people uh when",
+      "duration": 3.68,
+      "offset": 1237.52,
+      "lang": "en"
+    },
+    {
+      "text": "when hollow live ian debuted",
+      "duration": 4.56,
+      "offset": 1239.44,
+      "lang": "en"
+    },
+    {
+      "text": "right and i saw um someone like gruda",
+      "duration": 3.12,
+      "offset": 1241.2,
+      "lang": "en"
+    },
+    {
+      "text": "who",
+      "duration": 2.24,
+      "offset": 1244.0,
+      "lang": "en"
+    },
+    {
+      "text": "who from outside perspectives is pretty",
+      "duration": 3.68,
+      "offset": 1244.32,
+      "lang": "en"
+    },
+    {
+      "text": "much just a normal cute sounding",
+      "duration": 3.84,
+      "offset": 1246.24,
+      "lang": "en"
+    },
+    {
+      "text": "girl who a little bit ditzy you know not",
+      "duration": 3.44,
+      "offset": 1248.0,
+      "lang": "en"
+    },
+    {
+      "text": "not super special at",
+      "duration": 3.6,
+      "offset": 1250.08,
+      "lang": "en"
+    },
+    {
+      "text": "first glance but everyone loved the [ __ ]",
+      "duration": 3.12,
+      "offset": 1251.44,
+      "lang": "en"
+    },
+    {
+      "text": "at her",
+      "duration": 2.32,
+      "offset": 1253.68,
+      "lang": "en"
+    },
+    {
+      "text": "like they they absolutely loved that",
+      "duration": 3.36,
+      "offset": 1254.56,
+      "lang": "en"
+    },
+    {
+      "text": "little shark girl and i thought",
+      "duration": 4.56,
+      "offset": 1256.0,
+      "lang": "en"
+    },
+    {
+      "text": "you know maybe i can do that but then",
+      "duration": 3.6,
+      "offset": 1257.92,
+      "lang": "en"
+    },
+    {
+      "text": "like for",
+      "duration": 3.2,
+      "offset": 1260.56,
+      "lang": "en"
+    },
+    {
+      "text": "i i kept like thinking i want to do this",
+      "duration": 4.16,
+      "offset": 1261.52,
+      "lang": "en"
+    },
+    {
+      "text": "i want to do this i want to do this",
+      "duration": 5.12,
+      "offset": 1263.76,
+      "lang": "en"
+    },
+    {
+      "text": "but i kept my head goblins kept going no",
+      "duration": 5.04,
+      "offset": 1265.68,
+      "lang": "en"
+    },
+    {
+      "text": "no no you&#39;re not you&#39;re not going to",
+      "duration": 3.04,
+      "offset": 1268.88,
+      "lang": "en"
+    },
+    {
+      "text": "stick to it no",
+      "duration": 3.04,
+      "offset": 1270.72,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not going to do good no no one&#39;s",
+      "duration": 3.6,
+      "offset": 1271.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to come watch you",
+      "duration": 3.6,
+      "offset": 1273.76,
+      "lang": "en"
+    },
+    {
+      "text": "and i i actually went and i talked to my",
+      "duration": 3.28,
+      "offset": 1275.52,
+      "lang": "en"
+    },
+    {
+      "text": "therapist about it i&#39;m like i want to",
+      "duration": 2.88,
+      "offset": 1277.36,
+      "lang": "en"
+    },
+    {
+      "text": "try this but i&#39;m afraid i&#39;m going to",
+      "duration": 3.84,
+      "offset": 1278.8,
+      "lang": "en"
+    },
+    {
+      "text": "fail and she says so what if you fail",
+      "duration": 5.76,
+      "offset": 1280.24,
+      "lang": "en"
+    },
+    {
+      "text": "i know my aw [ __ ] you&#39;re right dude",
+      "duration": 6.96,
+      "offset": 1282.64,
+      "lang": "en"
+    },
+    {
+      "text": "and so i did it i think that is such a",
+      "duration": 5.12,
+      "offset": 1286.0,
+      "lang": "en"
+    },
+    {
+      "text": "dope outlook like there",
+      "duration": 2.72,
+      "offset": 1289.6,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot of people do it for like",
+      "duration": 3.2,
+      "offset": 1291.12,
+      "lang": "en"
+    },
+    {
+      "text": "you know whatever reasons that they have",
+      "duration": 3.92,
+      "offset": 1292.32,
+      "lang": "en"
+    },
+    {
+      "text": "but i think that&#39;s super cool that the",
+      "duration": 3.44,
+      "offset": 1294.32,
+      "lang": "en"
+    },
+    {
+      "text": "ultimate reason for you to do this whole",
+      "duration": 2.88,
+      "offset": 1296.24,
+      "lang": "en"
+    },
+    {
+      "text": "thing was just to kind of",
+      "duration": 4.4,
+      "offset": 1297.76,
+      "lang": "en"
+    },
+    {
+      "text": "improve on yourself that&#39;s very cool",
+      "duration": 5.84,
+      "offset": 1299.12,
+      "lang": "en"
+    },
+    {
+      "text": "um and it&#39;s super brief of you to try it",
+      "duration": 3.44,
+      "offset": 1302.16,
+      "lang": "en"
+    },
+    {
+      "text": "and also",
+      "duration": 2.08,
+      "offset": 1304.96,
+      "lang": "en"
+    },
+    {
+      "text": "uh super review to come on the show i",
+      "duration": 2.56,
+      "offset": 1305.6,
+      "lang": "en"
+    },
+    {
+      "text": "know it&#39;s like kind of daunt for some",
+      "duration": 2.4,
+      "offset": 1307.04,
+      "lang": "en"
+    },
+    {
+      "text": "people a lot of people are nervous when",
+      "duration": 2.4,
+      "offset": 1308.16,
+      "lang": "en"
+    },
+    {
+      "text": "they get on here",
+      "duration": 2.64,
+      "offset": 1309.44,
+      "lang": "en"
+    },
+    {
+      "text": "you know oh there&#39;s you know more people",
+      "duration": 3.84,
+      "offset": 1310.56,
+      "lang": "en"
+    },
+    {
+      "text": "than you know usual for some",
+      "duration": 4.08,
+      "offset": 1312.08,
+      "lang": "en"
+    },
+    {
+      "text": "and you know i&#39;m not even looking at the",
+      "duration": 3.44,
+      "offset": 1314.4,
+      "lang": "en"
+    },
+    {
+      "text": "number it&#39;s fine i&#39;m just talking to you",
+      "duration": 2.48,
+      "offset": 1316.16,
+      "lang": "en"
+    },
+    {
+      "text": "domo it&#39;s good",
+      "duration": 2.64,
+      "offset": 1317.84,
+      "lang": "en"
+    },
+    {
+      "text": "hey dope i love that i love it thank you",
+      "duration": 3.12,
+      "offset": 1318.64,
+      "lang": "en"
+    },
+    {
+      "text": "so much it makes it more it makes it",
+      "duration": 3.12,
+      "offset": 1320.48,
+      "lang": "en"
+    },
+    {
+      "text": "more intimate that way so",
+      "duration": 3.84,
+      "offset": 1321.76,
+      "lang": "en"
+    },
+    {
+      "text": "um yeah i just gotta praise you for that",
+      "duration": 4.0,
+      "offset": 1323.6,
+      "lang": "en"
+    },
+    {
+      "text": "like it&#39;s very very cool",
+      "duration": 4.16,
+      "offset": 1325.6,
+      "lang": "en"
+    },
+    {
+      "text": "what you&#39;re doing i think more people",
+      "duration": 3.36,
+      "offset": 1327.6,
+      "lang": "en"
+    },
+    {
+      "text": "need like a better outlook or a",
+      "duration": 2.4,
+      "offset": 1329.76,
+      "lang": "en"
+    },
+    {
+      "text": "healthier outlook like that",
+      "duration": 4.72,
+      "offset": 1330.96,
+      "lang": "en"
+    },
+    {
+      "text": "so um yeah thanks for uh thank you for",
+      "duration": 5.12,
+      "offset": 1332.16,
+      "lang": "en"
+    },
+    {
+      "text": "being that like",
+      "duration": 3.2,
+      "offset": 1335.68,
+      "lang": "en"
+    },
+    {
+      "text": "that motivated for some people that&#39;s",
+      "duration": 2.96,
+      "offset": 1337.28,
+      "lang": "en"
+    },
+    {
+      "text": "super awesome oh my god of course of",
+      "duration": 2.72,
+      "offset": 1338.88,
+      "lang": "en"
+    },
+    {
+      "text": "course if anyone ever came to me and",
+      "duration": 3.04,
+      "offset": 1340.24,
+      "lang": "en"
+    },
+    {
+      "text": "says hey niji i want to start v tubing",
+      "duration": 3.28,
+      "offset": 1341.6,
+      "lang": "en"
+    },
+    {
+      "text": "how do i do it like [ __ ]",
+      "duration": 3.92,
+      "offset": 1343.28,
+      "lang": "en"
+    },
+    {
+      "text": "sit down i got some resources for you",
+      "duration": 3.12,
+      "offset": 1344.88,
+      "lang": "en"
+    },
+    {
+      "text": "yeah",
+      "duration": 2.48,
+      "offset": 1347.2,
+      "lang": "en"
+    },
+    {
+      "text": "like i even had to intervene with with",
+      "duration": 3.52,
+      "offset": 1348.0,
+      "lang": "en"
+    },
+    {
+      "text": "one friend once because they were really",
+      "duration": 3.52,
+      "offset": 1349.68,
+      "lang": "en"
+    },
+    {
+      "text": "feeling down on themselves you&#39;re like",
+      "duration": 4.24,
+      "offset": 1351.52,
+      "lang": "en"
+    },
+    {
+      "text": "niji my numbers are doing really bad",
+      "duration": 4.08,
+      "offset": 1353.2,
+      "lang": "en"
+    },
+    {
+      "text": "like i only get like two or three",
+      "duration": 3.2,
+      "offset": 1355.76,
+      "lang": "en"
+    },
+    {
+      "text": "viewers in a stream i&#39;m starting to feel",
+      "duration": 3.52,
+      "offset": 1357.28,
+      "lang": "en"
+    },
+    {
+      "text": "really bad about it and i says buddy",
+      "duration": 4.16,
+      "offset": 1358.96,
+      "lang": "en"
+    },
+    {
+      "text": "i understand it can be frustrating maybe",
+      "duration": 5.12,
+      "offset": 1360.8,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not looking at it the right way",
+      "duration": 4.32,
+      "offset": 1363.12,
+      "lang": "en"
+    },
+    {
+      "text": "like i hate to say like i don&#39;t look at",
+      "duration": 3.84,
+      "offset": 1365.92,
+      "lang": "en"
+    },
+    {
+      "text": "the numbers but like like even even like",
+      "duration": 3.6,
+      "offset": 1367.44,
+      "lang": "en"
+    },
+    {
+      "text": "numbers speaking my numbers don&#39;t get",
+      "duration": 2.72,
+      "offset": 1369.76,
+      "lang": "en"
+    },
+    {
+      "text": "very high i only have an average of like",
+      "duration": 3.68,
+      "offset": 1371.04,
+      "lang": "en"
+    },
+    {
+      "text": "five or six i&#39;m a baby i&#39;m an absolute",
+      "duration": 3.84,
+      "offset": 1372.48,
+      "lang": "en"
+    },
+    {
+      "text": "baby",
+      "duration": 3.36,
+      "offset": 1374.72,
+      "lang": "en"
+    },
+    {
+      "text": "but as far as i&#39;m concerned like any",
+      "duration": 3.04,
+      "offset": 1376.32,
+      "lang": "en"
+    },
+    {
+      "text": "number like if i have at least one",
+      "duration": 2.96,
+      "offset": 1378.08,
+      "lang": "en"
+    },
+    {
+      "text": "person sitting there watching me",
+      "duration": 3.68,
+      "offset": 1379.36,
+      "lang": "en"
+    },
+    {
+      "text": "every second that they devote to like",
+      "duration": 3.36,
+      "offset": 1381.04,
+      "lang": "en"
+    },
+    {
+      "text": "hanging out with me in a chat i",
+      "duration": 2.16,
+      "offset": 1383.04,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate",
+      "duration": 3.04,
+      "offset": 1384.4,
+      "lang": "en"
+    },
+    {
+      "text": "even if someone comes in and goes hi i i",
+      "duration": 4.0,
+      "offset": 1385.2,
+      "lang": "en"
+    },
+    {
+      "text": "can&#39;t stick around but i wanted to say",
+      "duration": 3.84,
+      "offset": 1387.44,
+      "lang": "en"
+    },
+    {
+      "text": "keep doing a good job like oh baby thank",
+      "duration": 3.6,
+      "offset": 1389.2,
+      "lang": "en"
+    },
+    {
+      "text": "you i appreciate that",
+      "duration": 5.04,
+      "offset": 1391.28,
+      "lang": "en"
+    },
+    {
+      "text": "mommy loves you you know any any",
+      "duration": 5.2,
+      "offset": 1392.8,
+      "lang": "en"
+    },
+    {
+      "text": "every single second they give you is",
+      "duration": 3.68,
+      "offset": 1396.32,
+      "lang": "en"
+    },
+    {
+      "text": "precious that&#39;s so",
+      "duration": 4.08,
+      "offset": 1398.0,
+      "lang": "en"
+    },
+    {
+      "text": "awesome i really really heavily",
+      "duration": 3.92,
+      "offset": 1400.0,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate the outlook so",
+      "duration": 4.48,
+      "offset": 1402.08,
+      "lang": "en"
+    },
+    {
+      "text": "um niji i do have another guest that i i",
+      "duration": 3.28,
+      "offset": 1403.92,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t want to",
+      "duration": 2.08,
+      "offset": 1406.56,
+      "lang": "en"
+    },
+    {
+      "text": "like take up too much of your time but",
+      "duration": 3.04,
+      "offset": 1407.2,
+      "lang": "en"
+    },
+    {
+      "text": "then also they&#39;re waiting as well so i&#39;m",
+      "duration": 3.2,
+      "offset": 1408.64,
+      "lang": "en"
+    },
+    {
+      "text": "gonna have to rotate you out here",
+      "duration": 4.0,
+      "offset": 1410.24,
+      "lang": "en"
+    },
+    {
+      "text": "uh thank you so much for coming on the",
+      "duration": 3.76,
+      "offset": 1411.84,
+      "lang": "en"
+    },
+    {
+      "text": "show and kind of sharing your outlook on",
+      "duration": 3.12,
+      "offset": 1414.24,
+      "lang": "en"
+    },
+    {
+      "text": "things i really appreciate that",
+      "duration": 2.96,
+      "offset": 1415.6,
+      "lang": "en"
+    },
+    {
+      "text": "thank you for having me i really",
+      "duration": 2.96,
+      "offset": 1417.36,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate it yeah yeah thank you for",
+      "duration": 3.36,
+      "offset": 1418.56,
+      "lang": "en"
+    },
+    {
+      "text": "having me chad i love you",
+      "duration": 3.6,
+      "offset": 1420.32,
+      "lang": "en"
+    },
+    {
+      "text": "mommy loves you mommy loves you so much",
+      "duration": 3.6,
+      "offset": 1421.92,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re all my children now",
+      "duration": 3.84,
+      "offset": 1423.92,
+      "lang": "en"
+    },
+    {
+      "text": "go get some water right now guys you&#39;ve",
+      "duration": 5.04,
+      "offset": 1425.52,
+      "lang": "en"
+    },
+    {
+      "text": "been cleaning right now",
+      "duration": 4.64,
+      "offset": 1427.76,
+      "lang": "en"
+    },
+    {
+      "text": "uh okay yeah real quick before you go do",
+      "duration": 3.36,
+      "offset": 1430.56,
+      "lang": "en"
+    },
+    {
+      "text": "you have any uh additional final words",
+      "duration": 3.36,
+      "offset": 1432.4,
+      "lang": "en"
+    },
+    {
+      "text": "that you want to say to the chat",
+      "duration": 6.08,
+      "offset": 1433.92,
+      "lang": "en"
+    },
+    {
+      "text": "uh follow me on twitch.tv slash niji",
+      "duration": 6.08,
+      "offset": 1435.76,
+      "lang": "en"
+    },
+    {
+      "text": "underscore 10. there you go there&#39;s the",
+      "duration": 2.84,
+      "offset": 1440.0,
+      "lang": "en"
+    },
+    {
+      "text": "plug",
+      "duration": 4.96,
+      "offset": 1441.84,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s and it&#39;s right there in the um",
+      "duration": 5.8,
+      "offset": 1442.84,
+      "lang": "en"
+    },
+    {
+      "text": "uh in the chat as well uh so thank you",
+      "duration": 3.76,
+      "offset": 1446.8,
+      "lang": "en"
+    },
+    {
+      "text": "so much to our mods who uh set that up",
+      "duration": 5.12,
+      "offset": 1448.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh click it i&#39;ll be your mother",
+      "duration": 4.96,
+      "offset": 1450.56,
+      "lang": "en"
+    },
+    {
+      "text": "you guys want a new mom there you go go",
+      "duration": 3.04,
+      "offset": 1453.76,
+      "lang": "en"
+    },
+    {
+      "text": "go over to their twitch",
+      "duration": 4.16,
+      "offset": 1455.52,
+      "lang": "en"
+    },
+    {
+      "text": "you can never have too many moms uh you",
+      "duration": 3.76,
+      "offset": 1456.8,
+      "lang": "en"
+    },
+    {
+      "text": "know what",
+      "duration": 4.0,
+      "offset": 1459.68,
+      "lang": "en"
+    },
+    {
+      "text": "i will probably argue with you on there",
+      "duration": 5.36,
+      "offset": 1460.56,
+      "lang": "en"
+    },
+    {
+      "text": "hey you can never have too many moms for",
+      "duration": 3.92,
+      "offset": 1463.68,
+      "lang": "en"
+    },
+    {
+      "text": "the most part you are right so uh",
+      "duration": 3.52,
+      "offset": 1465.92,
+      "lang": "en"
+    },
+    {
+      "text": "niji thank you so much for coming on and",
+      "duration": 3.6,
+      "offset": 1467.6,
+      "lang": "en"
+    },
+    {
+      "text": "i hope you have a good rest your day",
+      "duration": 3.92,
+      "offset": 1469.44,
+      "lang": "en"
+    },
+    {
+      "text": "thank you have a good one domo mommy",
+      "duration": 3.52,
+      "offset": 1471.2,
+      "lang": "en"
+    },
+    {
+      "text": "loves you oh",
+      "duration": 4.72,
+      "offset": 1473.36,
+      "lang": "en"
+    },
+    {
+      "text": "thanks bye miji",
+      "duration": 4.72,
+      "offset": 1474.72,
+      "lang": "en"
+    },
+    {
+      "text": "i supposed to say bye mom there and then",
+      "duration": 3.76,
+      "offset": 1478.08,
+      "lang": "en"
+    },
+    {
+      "text": "my brain turned off",
+      "duration": 4.64,
+      "offset": 1479.44,
+      "lang": "en"
+    },
+    {
+      "text": "yo that was niji very cool they are",
+      "duration": 4.24,
+      "offset": 1481.84,
+      "lang": "en"
+    },
+    {
+      "text": "super sweet and",
+      "duration": 4.4,
+      "offset": 1484.08,
+      "lang": "en"
+    },
+    {
+      "text": "they have a super super good outlook on",
+      "duration": 3.84,
+      "offset": 1486.08,
+      "lang": "en"
+    },
+    {
+      "text": "just how things",
+      "duration": 5.2,
+      "offset": 1488.48,
+      "lang": "en"
+    },
+    {
+      "text": "work for them i think that&#39;s super dope",
+      "duration": 6.08,
+      "offset": 1489.92,
+      "lang": "en"
+    },
+    {
+      "text": "like i initially when i started",
+      "duration": 4.48,
+      "offset": 1493.68,
+      "lang": "en"
+    },
+    {
+      "text": "streaming it was for",
+      "duration": 6.08,
+      "offset": 1496.0,
+      "lang": "en"
+    },
+    {
+      "text": "uh to kind of connect with people",
+      "duration": 5.28,
+      "offset": 1498.16,
+      "lang": "en"
+    },
+    {
+      "text": "as well like my friends that i found on",
+      "duration": 2.8,
+      "offset": 1502.08,
+      "lang": "en"
+    },
+    {
+      "text": "twitter and stuff and basically to",
+      "duration": 2.48,
+      "offset": 1503.44,
+      "lang": "en"
+    },
+    {
+      "text": "socialize so i think",
+      "duration": 3.2,
+      "offset": 1504.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s really cool that we kind of share",
+      "duration": 4.16,
+      "offset": 1505.92,
+      "lang": "en"
+    },
+    {
+      "text": "a somewhat similar outlook on things so",
+      "duration": 4.72,
+      "offset": 1508.08,
+      "lang": "en"
+    },
+    {
+      "text": "very very cool uh thank you to dj again",
+      "duration": 4.48,
+      "offset": 1510.08,
+      "lang": "en"
+    },
+    {
+      "text": "for coming on and there&#39;s",
+      "duration": 3.8,
+      "offset": 1512.8,
+      "lang": "en"
+    },
+    {
+      "text": "there they are in chat right now thank",
+      "duration": 5.04,
+      "offset": 1514.56,
+      "lang": "en"
+    },
+    {
+      "text": "you",
+      "duration": 3.0,
+      "offset": 1516.6,
+      "lang": "en"
+    }
+  ]
+}

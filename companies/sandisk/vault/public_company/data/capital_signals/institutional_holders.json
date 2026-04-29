@@ -1,0 +1,330 @@
+{
+  "source": "nasdaq_institutional_holdings_api_curl",
+  "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+  "summary": {
+    "SharesOutstandingPCT": {
+      "label": "Institutional Ownership",
+      "value": "81.97%"
+    },
+    "ShareoutstandingTotal": {
+      "label": "Total Shares Outstanding (millions)",
+      "value": "148"
+    },
+    "TotalHoldingsValue": {
+      "label": "Total Value of Holdings (millions)",
+      "value": "$119,760"
+    }
+  },
+  "active_positions": {
+    "asOf": null,
+    "headers": {
+      "positions": "Active Positions",
+      "holders": "Holders",
+      "shares": "Shares"
+    },
+    "rows": [
+      {
+        "positions": "Increased Positions",
+        "holders": "580",
+        "shares": "22,518,601"
+      },
+      {
+        "positions": "Decreased Positions",
+        "holders": "262",
+        "shares": "28,241,751"
+      },
+      {
+        "positions": "Held Positions",
+        "holders": "62",
+        "shares": "70,221,482"
+      },
+      {
+        "positions": "Total Institutional Shares",
+        "holders": "904",
+        "shares": "120,981,834"
+      }
+    ]
+  },
+  "new_sold_out_positions": {
+    "asOf": null,
+    "headers": {
+      "positions": "Active Positions",
+      "holders": "Holders",
+      "shares": "Shares"
+    },
+    "rows": [
+      {
+        "positions": "New Positions",
+        "holders": "345",
+        "shares": "7,365,119"
+      },
+      {
+        "positions": "Sold Out Positions",
+        "holders": "54",
+        "shares": "5,583,047"
+      }
+    ]
+  },
+  "holders": [
+    {
+      "holder": "Fmr Llc",
+      "date_reported": "12/31/2025",
+      "shares": "21,466,285",
+      "shares_change": "-368,204",
+      "shares_change_percent": "-1.686%",
+      "market_value_000s": "$21,249,476",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Vanguard Group Inc",
+      "date_reported": "12/31/2025",
+      "shares": "16,976,485",
+      "shares_change": "-584,907",
+      "shares_change_percent": "-3.331%",
+      "market_value_000s": "$16,805,023",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Blackrock, Inc.",
+      "date_reported": "12/31/2025",
+      "shares": "9,624,416",
+      "shares_change": "-6,418,316",
+      "shares_change_percent": "-40.008%",
+      "market_value_000s": "$9,527,209",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "State Street Corp",
+      "date_reported": "12/31/2025",
+      "shares": "5,281,522",
+      "shares_change": "904,933",
+      "shares_change_percent": "20.677%",
+      "market_value_000s": "$5,228,179",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Geode Capital Management, Llc",
+      "date_reported": "12/31/2025",
+      "shares": "3,655,860",
+      "shares_change": "1,133,276",
+      "shares_change_percent": "44.925%",
+      "market_value_000s": "$3,618,936",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Arrowstreet Capital, Limited Partnership",
+      "date_reported": "12/31/2025",
+      "shares": "3,478,002",
+      "shares_change": "828,332",
+      "shares_change_percent": "31.262%",
+      "market_value_000s": "$3,442,874",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Morgan Stanley",
+      "date_reported": "12/31/2025",
+      "shares": "2,970,361",
+      "shares_change": "199,545",
+      "shares_change_percent": "7.202%",
+      "market_value_000s": "$2,940,360",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Norges Bank",
+      "date_reported": "12/31/2025",
+      "shares": "2,185,899",
+      "shares_change": "435,172",
+      "shares_change_percent": "24.857%",
+      "market_value_000s": "$2,163,821",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "D. E. Shaw & Co., Inc.",
+      "date_reported": "12/31/2025",
+      "shares": "2,093,003",
+      "shares_change": "809,443",
+      "shares_change_percent": "63.062%",
+      "market_value_000s": "$2,071,864",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Bank Of America Corp /De/",
+      "date_reported": "12/31/2025",
+      "shares": "1,645,125",
+      "shares_change": "-52,063",
+      "shares_change_percent": "-3.068%",
+      "market_value_000s": "$1,628,509",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Charles Schwab Investment Management Inc",
+      "date_reported": "12/31/2025",
+      "shares": "1,642,168",
+      "shares_change": "163,416",
+      "shares_change_percent": "11.051%",
+      "market_value_000s": "$1,625,582",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Millennium Management Llc",
+      "date_reported": "12/31/2025",
+      "shares": "1,499,139",
+      "shares_change": "357,902",
+      "shares_change_percent": "31.361%",
+      "market_value_000s": "$1,483,998",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Price T Rowe Associates Inc /Md/",
+      "date_reported": "12/31/2025",
+      "shares": "1,437,171",
+      "shares_change": "-1,870,903",
+      "shares_change_percent": "-56.556%",
+      "market_value_000s": "$1,422,656",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Madison Avenue Partners, Lp",
+      "date_reported": "12/31/2025",
+      "shares": "1,434,172",
+      "shares_change": "-628,349",
+      "shares_change_percent": "-30.465%",
+      "market_value_000s": "$1,419,687",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Invesco Ltd.",
+      "date_reported": "12/31/2025",
+      "shares": "1,326,405",
+      "shares_change": "624,348",
+      "shares_change_percent": "88.931%",
+      "market_value_000s": "$1,313,008",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Polar Capital Holdings Plc",
+      "date_reported": "12/31/2025",
+      "shares": "1,268,237",
+      "shares_change": "-34,286",
+      "shares_change_percent": "-2.632%",
+      "market_value_000s": "$1,255,428",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Renaissance Technologies Llc",
+      "date_reported": "12/31/2025",
+      "shares": "1,209,000",
+      "shares_change": "373,800",
+      "shares_change_percent": "44.756%",
+      "market_value_000s": "$1,196,789",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Aqr Capital Management Llc",
+      "date_reported": "12/31/2025",
+      "shares": "1,134,574",
+      "shares_change": "-318,697",
+      "shares_change_percent": "-21.93%",
+      "market_value_000s": "$1,123,115",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Northern Trust Corp",
+      "date_reported": "12/31/2025",
+      "shares": "1,133,873",
+      "shares_change": "182,112",
+      "shares_change_percent": "19.134%",
+      "market_value_000s": "$1,122,421",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Qube Research & Technologies Ltd",
+      "date_reported": "12/31/2025",
+      "shares": "1,082,597",
+      "shares_change": "1,082,597",
+      "shares_change_percent": "New",
+      "market_value_000s": "$1,071,663",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Evergreen Quality Fund Gp, Ltd.",
+      "date_reported": "12/31/2025",
+      "shares": "1,077,800",
+      "shares_change": "1,077,800",
+      "shares_change_percent": "New",
+      "market_value_000s": "$1,066,914",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Situational Awareness Lp",
+      "date_reported": "12/31/2025",
+      "shares": "1,054,200",
+      "shares_change": "939,200",
+      "shares_change_percent": "816.696%",
+      "market_value_000s": "$1,043,553",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Marshall Wace, Llp",
+      "date_reported": "12/31/2025",
+      "shares": "1,003,700",
+      "shares_change": "227,857",
+      "shares_change_percent": "29.369%",
+      "market_value_000s": "$993,563",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Whale Rock Capital Management Llc",
+      "date_reported": "12/31/2025",
+      "shares": "1,003,566",
+      "shares_change": "1,003,566",
+      "shares_change_percent": "New",
+      "market_value_000s": "$993,430",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    },
+    {
+      "holder": "Dimensional Fund Advisors Lp",
+      "date_reported": "12/31/2025",
+      "shares": "958,462",
+      "shares_change": "66,600",
+      "shares_change_percent": "7.468%",
+      "market_value_000s": "$948,782",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "source": "nasdaq_institutional_holdings_api_curl"
+    }
+  ],
+  "updated_at": "2026-04-26T00:28:10",
+  "fallback_chain": {
+    "selected": "nasdaq_curl_http1",
+    "errors": [
+      {
+        "source": "nasdaq_requests",
+        "error": "HTTPSConnectionPool(host='api.nasdaq.com', port=443): Read timed out. (read timeout=30)"
+      }
+    ]
+  }
+}

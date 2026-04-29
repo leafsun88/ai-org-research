@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://github.com/advisories/GHSA-j4h9-wv2m-wrf7",
+    "title": "GHSA-j4h9-wv2m-wrf7",
+    "source": "github.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://github.com/anthropics/claude-code-security-review",
+    "title": "claude-code-security-review",
+    "source": "github.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://github.com/orgs/anthropics/repositories",
+    "title": "repositories",
+    "source": "github.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1qsdq58/claude_desktop_new_mcp_ui_bug_tools_freeze_until/",
+    "title": "claude_desktop_new_mcp_ui_bug_tools_freeze_until",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/MCPservers/comments/1s8lrcs/claude_codes_entire_source_code_just_leaked_heres/",
+    "title": "claude_codes_entire_source_code_just_leaked_heres",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1pq2cf8/official_claude_in_chrome_is_now_live_for_all/",
+    "title": "official_claude_in_chrome_is_now_live_for_all",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/ClaudeAI/comments/1rh92yp/anthropic_has_opened_up_its_entire_educational/",
+    "title": "anthropic_has_opened_up_its_entire_educational",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://gist.github.com/hartphoenix/698eb8ef8b08ad2ce6a99cf7346cd7cc",
+    "title": "698eb8ef8b08ad2ce6a99cf7346cd7cc",
+    "source": "gist.github.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://gist.github.com/LEX8888/675867b7f130b7ad614905c9dd86b57a",
+    "title": "675867b7f130b7ad614905c9dd86b57a",
+    "source": "gist.github.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  }
+]

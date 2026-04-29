@@ -1,0 +1,191 @@
+{
+  "research_key": "MIDJOURNEY",
+  "started_at": "2026-04-20T18:02:24",
+  "channels": {
+    "official": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "official",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:02:24",
+      "finished_at": "2026-04-20T18:02:31",
+      "stdout_tail": "\n[official] discovering sources for MIDJOURNEY\n  [official] query 1/1: Midjourney official website careers docs pricing version updates\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  official: 0 fetched, 7 non-fetched, 7 indexed\n",
+      "stderr_tail": ""
+    },
+    "founder_voice": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "founder_voice",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:02:31",
+      "finished_at": "2026-04-20T18:02:37",
+      "stdout_tail": "\n[founder_voice] discovering sources for MIDJOURNEY\n  [founder_voice] query 1/1: David Holz Midjourney interview imagination community organization\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  founder_voice: 2 fetched, 2 non-fetched, 4 indexed\n",
+      "stderr_tail": ""
+    },
+    "web_longform": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "web_longform",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:02:37",
+      "finished_at": "2026-04-20T18:02:56",
+      "stdout_tail": "\n[web_longform] discovering sources for MIDJOURNEY\n  [web_longform] query 1/1: Midjourney David Holz founder interview organization creative economy\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  web_longform: 2 fetched, 6 non-fetched, 8 indexed\n",
+      "stderr_tail": ""
+    },
+    "enterprise_partnerships": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "enterprise_partnerships",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:02:56",
+      "finished_at": "2026-04-20T18:03:02",
+      "stdout_tail": "\n[enterprise_partnerships] discovering sources for MIDJOURNEY\n  [enterprise_partnerships] query 1/1: Meta Midjourney license aesthetic technology August 2025 Alexandr Wang\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  enterprise_partnerships: 1 fetched, 2 non-fetched, 3 indexed\n",
+      "stderr_tail": ""
+    },
+    "jobs_org": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "jobs_org",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:03:02",
+      "finished_at": "2026-04-20T18:03:04",
+      "stdout_tail": "\n[jobs_org] discovering sources for MIDJOURNEY\n  [jobs_org] query 1/1: Midjourney careers research infrastructure frontend data engineering\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  jobs_org: 0 fetched, 1 non-fetched, 1 indexed\n",
+      "stderr_tail": ""
+    },
+    "social_community": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "social_community",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:03:04",
+      "finished_at": "2026-04-20T18:03:11",
+      "stdout_tail": "\n[social_community] discovering sources for MIDJOURNEY\n  [social_community] query 1/1: Midjourney Reddit V8 alpha user feedback\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  social_community: 0 fetched, 6 non-fetched, 6 indexed\n",
+      "stderr_tail": ""
+    },
+    "funding_compute": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "MIDJOURNEY",
+        "--channels",
+        "funding_compute",
+        "--max-queries",
+        "1"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-20T18:03:11",
+      "finished_at": "2026-04-20T18:03:16",
+      "stdout_tail": "\n[funding_compute] discovering sources for MIDJOURNEY\n  [funding_compute] query 1/1: Midjourney revenue ARR employees no venture funding 2025 2026\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  funding_compute: 0 fetched, 3 non-fetched, 3 indexed\n",
+      "stderr_tail": ""
+    }
+  },
+  "sync": {
+    "official": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/official/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/official/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/official/_collection_status.json"
+      ]
+    },
+    "founder_voice": {
+      "copied": 5,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/founder_voice/unknown_midjourney-founder-says-the-world-needs-more-imagination.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/founder_voice/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/founder_voice/unknown_ai-image-generation-art-midjourney-multiverse-interview-david-holz.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/founder_voice/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/founder_voice/_collection_status.json"
+      ]
+    },
+    "web_longform": {
+      "copied": 5,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/unknown_midjourney-founder-says-the-world-needs-more-imagination.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/unknown_ai-image-generation-art-midjourney-multiverse-interview-david-holz.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/web/_collection_status.json"
+      ]
+    },
+    "enterprise_partnerships": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/partnerships/unknown_meta-licensing-midjourneys-ai-image-120012551html.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/partnerships/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/partnerships/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/partnerships/_collection_status.json"
+      ]
+    },
+    "jobs_org": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/jobs/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/jobs/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/jobs/_collection_status.json"
+      ]
+    },
+    "social_community": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/social/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/social/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/social/_collection_status.json"
+      ]
+    },
+    "funding_compute": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/funding/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/funding/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/vault/funding/_collection_status.json"
+      ]
+    }
+  },
+  "source_inventory": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/analysis/Midjourney_source_inventory_2026-04-20.md",
+  "evidence_map": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/analysis/Midjourney_evidence_map_2026-04-20.md",
+  "finished_at": "2026-04-20T18:03:16"
+}

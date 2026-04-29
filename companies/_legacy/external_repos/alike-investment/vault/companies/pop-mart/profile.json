@@ -1,0 +1,15 @@
+{
+  "name": "Pop Mart International Group",
+  "ticker": "9992.HK",
+  "sector": "Consumer/IP运营+潮玩",
+  "founded": "2010",
+  "hq": "Beijing, China",
+  "ceo": "Wang Ning (王宁)",
+  "employees": 10879,
+  "market_cap": "HK$1877亿",
+  "description": "全球领先的IP驱动潮玩平台，以盲盒商业模式起家，通过自有+签约IP矩阵构建情感连接，正从中国潮玩公司向全球IP运营平台转型，海外收入占比已达44%",
+  "business_essence": "用IP情感连接+盲盒成瘾机制+全球化零售网络构建消费者心智护城河，通过IP生命周期管理实现跨品类变现",
+  "old_friends_mapping": {
+    "Netflix": "IP驱动×情感成瘾×全球化扩张，从单一品类(盲盒)向多品类(主题公园/电影/家电)延伸，创始人夫妻高度控股+北大MBA核心团队"
+  }
+}

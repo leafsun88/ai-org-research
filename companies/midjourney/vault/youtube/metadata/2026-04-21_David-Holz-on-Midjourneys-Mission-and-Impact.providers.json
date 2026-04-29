@@ -1,0 +1,16 @@
+{
+  "video_id": "E8ET6K1D0e8",
+  "title": "David Holz on Midjourney's Mission and Impact",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T13:51:25",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T13:51:25"
+}

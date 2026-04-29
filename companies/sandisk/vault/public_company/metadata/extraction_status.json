@@ -1,0 +1,10 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "market": "US",
+  "kind": "extraction_status",
+  "status": "initialized",
+  "updated_at": "2026-04-25T22:33:59",
+  "items": [],
+  "gaps": []
+}

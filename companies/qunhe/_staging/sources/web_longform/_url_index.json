@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://finance.sina.com.cn/tech/2026-04-17/doc-inhuupte2249457.shtml",
+    "title": "doc-inhuupte2249457.shtml",
+    "source": "finance.sina.com.cn",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.eeo.com.cn/2026/0417/841813.shtml",
+    "title": "841813.shtml",
+    "source": "www.eeo.com.cn",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://ori.hangzhou.com.cn/ornews/content/2026-04/17/content_9208000.htm",
+    "title": "content_9208000.htm",
+    "source": "ori.hangzhou.com.cn",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.jiemian.com/article/14266182.html",
+    "title": "14266182.html",
+    "source": "www.jiemian.com",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  },
+  {
+    "url": "https://www.nbd.com.cn/articles/2026-04-09/4330797.html",
+    "title": "4330797.html",
+    "source": "www.nbd.com.cn",
+    "date": "unknown",
+    "brief": "configured seed for web_longform",
+    "seed": true
+  }
+]

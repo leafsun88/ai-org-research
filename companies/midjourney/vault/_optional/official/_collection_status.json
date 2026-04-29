@@ -1,0 +1,60 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "official",
+  "generated_at": "2026-04-20T18:02:31",
+  "total_records": 7,
+  "success_records": 0,
+  "failure_records": 7,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://www.midjourney.com/home",
+      "title": "home",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.midjourney.com/explore",
+      "title": "explore",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.midjourney.com/careers",
+      "title": "careers",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://docs.midjourney.com/hc/en-us",
+      "title": "en-us",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://docs.midjourney.com/docs/plans",
+      "title": "plans",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version",
+      "title": "32199405667853-Version",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://updates.midjourney.com/",
+      "title": "updates.midjourney.com",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

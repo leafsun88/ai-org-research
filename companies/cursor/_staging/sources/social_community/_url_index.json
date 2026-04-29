@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://forum.cursor.com/",
+    "title": "forum.cursor.com",
+    "source": "forum.cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://www.reddit.com/r/cursor/",
+    "title": "cursor",
+    "source": "www.reddit.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=44039203",
+    "title": "item?id=44039203",
+    "source": "news.ycombinator.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  },
+  {
+    "url": "https://news.ycombinator.com/item?id=44677455",
+    "title": "item?id=44677455",
+    "source": "news.ycombinator.com",
+    "date": "unknown",
+    "brief": "configured seed for social_community",
+    "seed": true
+  }
+]

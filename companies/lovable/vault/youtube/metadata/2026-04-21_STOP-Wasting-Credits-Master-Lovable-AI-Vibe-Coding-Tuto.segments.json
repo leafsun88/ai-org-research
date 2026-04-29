@@ -1,0 +1,2301 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "SSJldR4S4v4",
+  "url": "https://www.youtube.com/watch?v=SSJldR4S4v4",
+  "title": "STOP Wasting Credits & Master Lovable AI! (Vibe Coding Tutorial)",
+  "channel": "Zinho Automates",
+  "source_queries": [
+    "Lovable vibe coding"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:14:25",
+  "segments": [
+    {
+      "text": "I built this entire app with interface,",
+      "duration": 4.76,
+      "offset": 0.0,
+      "lang": "en"
+    },
+    {
+      "text": "user authentication, payments, database,",
+      "duration": 5.4,
+      "offset": 2.0,
+      "lang": "en"
+    },
+    {
+      "text": "and everything that you just saw with",
+      "duration": 5.68,
+      "offset": 4.76,
+      "lang": "en"
+    },
+    {
+      "text": "just one prompt. And this isn&#39;t the only",
+      "duration": 4.84,
+      "offset": 7.4,
+      "lang": "en"
+    },
+    {
+      "text": "thing that I&#39;ve built. In the last",
+      "duration": 3.64,
+      "offset": 10.44,
+      "lang": "en"
+    },
+    {
+      "text": "couple of months, guys, I&#39;ve created",
+      "duration": 4.4,
+      "offset": 12.24,
+      "lang": "en"
+    },
+    {
+      "text": "fully functional apps, AI SaaS",
+      "duration": 5.68,
+      "offset": 14.08,
+      "lang": "en"
+    },
+    {
+      "text": "platforms, and websites, all just by",
+      "duration": 5.92,
+      "offset": 16.64,
+      "lang": "en"
+    },
+    {
+      "text": "prompting. And it absolutely blew my",
+      "duration": 5.44,
+      "offset": 19.76,
+      "lang": "en"
+    },
+    {
+      "text": "mind because with Lovable, you can build",
+      "duration": 5.52,
+      "offset": 22.56,
+      "lang": "en"
+    },
+    {
+      "text": "literally anything that you want. You",
+      "duration": 4.88,
+      "offset": 25.2,
+      "lang": "en"
+    },
+    {
+      "text": "just describe what you want, and Lovable",
+      "duration": 4.96,
+      "offset": 28.08,
+      "lang": "en"
+    },
+    {
+      "text": "builds it for you. That means that you",
+      "duration": 5.56,
+      "offset": 30.08,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t need to learn how to code, and",
+      "duration": 5.16,
+      "offset": 33.04,
+      "lang": "en"
+    },
+    {
+      "text": "you can actually focus on more enjoyable",
+      "duration": 5.52,
+      "offset": 35.64,
+      "lang": "en"
+    },
+    {
+      "text": "things. So, kind of like creating the",
+      "duration": 5.4,
+      "offset": 38.2,
+      "lang": "en"
+    },
+    {
+      "text": "interface or thinking about how to",
+      "duration": 5.2,
+      "offset": 41.16,
+      "lang": "en"
+    },
+    {
+      "text": "market your product. But the thing is,",
+      "duration": 4.8,
+      "offset": 43.6,
+      "lang": "en"
+    },
+    {
+      "text": "with most people, they burn through",
+      "duration": 4.64,
+      "offset": 46.36,
+      "lang": "en"
+    },
+    {
+      "text": "about 50 plus, sometimes even 100",
+      "duration": 4.48,
+      "offset": 48.4,
+      "lang": "en"
+    },
+    {
+      "text": "different prompts, and they waste",
+      "duration": 4.56,
+      "offset": 51.0,
+      "lang": "en"
+    },
+    {
+      "text": "hundreds of credits trying to figure all",
+      "duration": 5.0,
+      "offset": 52.88,
+      "lang": "en"
+    },
+    {
+      "text": "of this out. They start promoting",
+      "duration": 5.04,
+      "offset": 55.56,
+      "lang": "en"
+    },
+    {
+      "text": "without a plan, and then what happens",
+      "duration": 4.84,
+      "offset": 57.88,
+      "lang": "en"
+    },
+    {
+      "text": "most of the time? They find themselves",
+      "duration": 3.6,
+      "offset": 60.6,
+      "lang": "en"
+    },
+    {
+      "text": "getting frustrated, and then they give",
+      "duration": 4.28,
+      "offset": 62.72,
+      "lang": "en"
+    },
+    {
+      "text": "up before they see what is actually",
+      "duration": 6.0,
+      "offset": 64.2,
+      "lang": "en"
+    },
+    {
+      "text": "possible. And that is exactly what I am",
+      "duration": 5.56,
+      "offset": 67.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to fix for you guys in the next 10",
+      "duration": 3.84,
+      "offset": 70.2,
+      "lang": "en"
+    },
+    {
+      "text": "minutes. So, what I&#39;m asking is for you",
+      "duration": 3.28,
+      "offset": 72.56,
+      "lang": "en"
+    },
+    {
+      "text": "guys just to stick around till the end",
+      "duration": 3.16,
+      "offset": 74.04,
+      "lang": "en"
+    },
+    {
+      "text": "because I can guarantee you you are",
+      "duration": 3.0,
+      "offset": 75.84,
+      "lang": "en"
+    },
+    {
+      "text": "going to love this. I&#39;m going to show",
+      "duration": 3.84,
+      "offset": 77.2,
+      "lang": "en"
+    },
+    {
+      "text": "you how to master Lovable, save your",
+      "duration": 4.04,
+      "offset": 78.84,
+      "lang": "en"
+    },
+    {
+      "text": "credits, and build anything that",
+      "duration": 4.68,
+      "offset": 81.04,
+      "lang": "en"
+    },
+    {
+      "text": "actually works. And instead of burning",
+      "duration": 5.44,
+      "offset": 82.88,
+      "lang": "en"
+    },
+    {
+      "text": "through all of your credits, you By the",
+      "duration": 5.08,
+      "offset": 85.72,
+      "lang": "en"
+    },
+    {
+      "text": "end of this video, guys, you will know",
+      "duration": 6.44,
+      "offset": 88.32,
+      "lang": "en"
+    },
+    {
+      "text": "my exact strategy. And if you want all",
+      "duration": 5.44,
+      "offset": 90.8,
+      "lang": "en"
+    },
+    {
+      "text": "of these prompts that we are going to be",
+      "duration": 3.64,
+      "offset": 94.76,
+      "lang": "en"
+    },
+    {
+      "text": "using in today&#39;s video and more, then",
+      "duration": 3.88,
+      "offset": 96.24,
+      "lang": "en"
+    },
+    {
+      "text": "all of those are in our free school",
+      "duration": 3.2,
+      "offset": 98.4,
+      "lang": "en"
+    },
+    {
+      "text": "community. The link is in the",
+      "duration": 3.0,
+      "offset": 100.12,
+      "lang": "en"
+    },
+    {
+      "text": "description below, guys. If you go",
+      "duration": 3.12,
+      "offset": 101.6,
+      "lang": "en"
+    },
+    {
+      "text": "there, just click on it, and I can",
+      "duration": 2.76,
+      "offset": 103.12,
+      "lang": "en"
+    },
+    {
+      "text": "guarantee you guys you are going to have",
+      "duration": 3.6,
+      "offset": 104.72,
+      "lang": "en"
+    },
+    {
+      "text": "so much fun. There is also a link if you",
+      "duration": 4.28,
+      "offset": 105.88,
+      "lang": "en"
+    },
+    {
+      "text": "want to get started with Lovable down",
+      "duration": 3.84,
+      "offset": 108.32,
+      "lang": "en"
+    },
+    {
+      "text": "there. So, as you can see, there&#39;s a lot",
+      "duration": 3.68,
+      "offset": 110.16,
+      "lang": "en"
+    },
+    {
+      "text": "of valuable things in the description",
+      "duration": 3.44,
+      "offset": 112.16,
+      "lang": "en"
+    },
+    {
+      "text": "below. But right now, guys, let&#39;s not",
+      "duration": 4.16,
+      "offset": 113.84,
+      "lang": "en"
+    },
+    {
+      "text": "waste any time. Let me show you how all",
+      "duration": 4.44,
+      "offset": 115.6,
+      "lang": "en"
+    },
+    {
+      "text": "of this works. Okay, guys, so now it&#39;s",
+      "duration": 4.64,
+      "offset": 118.0,
+      "lang": "en"
+    },
+    {
+      "text": "time to go over to the PC, okay? So, I&#39;m",
+      "duration": 4.04,
+      "offset": 120.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to be building three different",
+      "duration": 3.68,
+      "offset": 122.64,
+      "lang": "en"
+    },
+    {
+      "text": "things. So, a multi-page website, a",
+      "duration": 4.72,
+      "offset": 124.08,
+      "lang": "en"
+    },
+    {
+      "text": "simple app, and then a full-blown SaaS",
+      "duration": 3.84,
+      "offset": 126.32,
+      "lang": "en"
+    },
+    {
+      "text": "platform, okay? And you guys are going",
+      "duration": 2.36,
+      "offset": 128.8,
+      "lang": "en"
+    },
+    {
+      "text": "to be learning how to do that in the",
+      "duration": 2.72,
+      "offset": 130.16,
+      "lang": "en"
+    },
+    {
+      "text": "next 10 minutes, okay? So, I&#39;m going to",
+      "duration": 3.76,
+      "offset": 131.16,
+      "lang": "en"
+    },
+    {
+      "text": "walk you through exactly what I&#39;m doing",
+      "duration": 3.32,
+      "offset": 132.88,
+      "lang": "en"
+    },
+    {
+      "text": "and why so that you guys completely",
+      "duration": 2.76,
+      "offset": 134.92,
+      "lang": "en"
+    },
+    {
+      "text": "understand everything, and by the end of",
+      "duration": 3.92,
+      "offset": 136.2,
+      "lang": "en"
+    },
+    {
+      "text": "it, it&#39;s going to all seem so simple to",
+      "duration": 4.88,
+      "offset": 137.68,
+      "lang": "en"
+    },
+    {
+      "text": "you, okay? So now, guys, let&#39;s start off",
+      "duration": 4.08,
+      "offset": 140.12,
+      "lang": "en"
+    },
+    {
+      "text": "with the website because honestly, this",
+      "duration": 3.64,
+      "offset": 142.56,
+      "lang": "en"
+    },
+    {
+      "text": "is where most people always mess up,",
+      "duration": 5.52,
+      "offset": 144.2,
+      "lang": "en"
+    },
+    {
+      "text": "okay? So, I&#39;m building a portfolio site",
+      "duration": 6.16,
+      "offset": 146.2,
+      "lang": "en"
+    },
+    {
+      "text": "for creative agency. So now, here is",
+      "duration": 5.52,
+      "offset": 149.72,
+      "lang": "en"
+    },
+    {
+      "text": "what 99% of people do, okay? They open",
+      "duration": 5.16,
+      "offset": 152.36,
+      "lang": "en"
+    },
+    {
+      "text": "up Lovable, and they like, &quot;Okay, hey,",
+      "duration": 5.8,
+      "offset": 155.24,
+      "lang": "en"
+    },
+    {
+      "text": "build me a portfolio website.&quot; And then,",
+      "duration": 5.56,
+      "offset": 157.52,
+      "lang": "en"
+    },
+    {
+      "text": "what usually happens after that? They",
+      "duration": 4.4,
+      "offset": 161.04,
+      "lang": "en"
+    },
+    {
+      "text": "spend the next hour and 30 different",
+      "duration": 4.12,
+      "offset": 163.08,
+      "lang": "en"
+    },
+    {
+      "text": "prompts to 50 different prompts just",
+      "duration": 3.6,
+      "offset": 165.44,
+      "lang": "en"
+    },
+    {
+      "text": "trying to fix the color, the layout, and",
+      "duration": 3.92,
+      "offset": 167.2,
+      "lang": "en"
+    },
+    {
+      "text": "also the navigation, and all of that",
+      "duration": 4.44,
+      "offset": 169.04,
+      "lang": "en"
+    },
+    {
+      "text": "different stuff, okay? So, yeah, that is",
+      "duration": 4.04,
+      "offset": 171.12,
+      "lang": "en"
+    },
+    {
+      "text": "credits that you are actually spending,",
+      "duration": 2.8,
+      "offset": 173.48,
+      "lang": "en"
+    },
+    {
+      "text": "and I mean, that is something that",
+      "duration": 2.16,
+      "offset": 175.16,
+      "lang": "en"
+    },
+    {
+      "text": "people don&#39;t want to hear. Then that",
+      "duration": 2.72,
+      "offset": 176.28,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re just wasting money, okay? So,",
+      "duration": 3.72,
+      "offset": 177.32,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s the smarter way that you can do",
+      "duration": 3.2,
+      "offset": 179.0,
+      "lang": "en"
+    },
+    {
+      "text": "this, and I&#39;m going to be doing it,",
+      "duration": 3.48,
+      "offset": 181.04,
+      "lang": "en"
+    },
+    {
+      "text": "okay? So, I&#39;m going to head over to",
+      "duration": 4.32,
+      "offset": 182.2,
+      "lang": "en"
+    },
+    {
+      "text": "Godly real quick, okay? This is a site",
+      "duration": 3.92,
+      "offset": 184.52,
+      "lang": "en"
+    },
+    {
+      "text": "where you can find really clean design",
+      "duration": 4.32,
+      "offset": 186.52,
+      "lang": "en"
+    },
+    {
+      "text": "inspirations, okay? So, I&#39;m scrolling",
+      "duration": 5.36,
+      "offset": 188.44,
+      "lang": "en"
+    },
+    {
+      "text": "through here, and I&#39;m looking for a",
+      "duration": 5.52,
+      "offset": 190.84,
+      "lang": "en"
+    },
+    {
+      "text": "portfolio that has the exact vibe that",
+      "duration": 5.04,
+      "offset": 193.8,
+      "lang": "en"
+    },
+    {
+      "text": "we want, okay? So, what about this one,",
+      "duration": 4.04,
+      "offset": 196.36,
+      "lang": "en"
+    },
+    {
+      "text": "okay? This one right here, this one is",
+      "duration": 3.32,
+      "offset": 198.84,
+      "lang": "en"
+    },
+    {
+      "text": "perfect. So, I&#39;m going to screenshot",
+      "duration": 4.04,
+      "offset": 200.4,
+      "lang": "en"
+    },
+    {
+      "text": "this real quick, and now watch what I&#39;m",
+      "duration": 3.96,
+      "offset": 202.16,
+      "lang": "en"
+    },
+    {
+      "text": "going to do. So, I&#39;m pasting the",
+      "duration": 3.52,
+      "offset": 204.44,
+      "lang": "en"
+    },
+    {
+      "text": "screenshot into Lovable, but I&#39;m not",
+      "duration": 4.2,
+      "offset": 206.12,
+      "lang": "en"
+    },
+    {
+      "text": "just saying, &quot;Make it look like this.&quot;",
+      "duration": 3.92,
+      "offset": 207.96,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m actually giving it everything that",
+      "duration": 3.32,
+      "offset": 210.32,
+      "lang": "en"
+    },
+    {
+      "text": "it needs in one shot. So, I&#39;m telling",
+      "duration": 3.84,
+      "offset": 211.88,
+      "lang": "en"
+    },
+    {
+      "text": "it, &quot;Build me a portfolio site for a",
+      "duration": 4.76,
+      "offset": 213.64,
+      "lang": "en"
+    },
+    {
+      "text": "creative agency. I need a homepage with",
+      "duration": 5.32,
+      "offset": 215.72,
+      "lang": "en"
+    },
+    {
+      "text": "a project showcase grid, an about",
+      "duration": 4.96,
+      "offset": 218.4,
+      "lang": "en"
+    },
+    {
+      "text": "homepage, and also a contact form, which",
+      "duration": 4.6,
+      "offset": 221.04,
+      "lang": "en"
+    },
+    {
+      "text": "is super important.&quot; And then, I&#39;m going",
+      "duration": 4.64,
+      "offset": 223.36,
+      "lang": "en"
+    },
+    {
+      "text": "to make it match this design style. So,",
+      "duration": 4.4,
+      "offset": 225.64,
+      "lang": "en"
+    },
+    {
+      "text": "use this navigation layout, and then",
+      "duration": 4.76,
+      "offset": 228.0,
+      "lang": "en"
+    },
+    {
+      "text": "keep the mobile responsive, and add a",
+      "duration": 5.28,
+      "offset": 230.04,
+      "lang": "en"
+    },
+    {
+      "text": "project filtering, okay? So now, once",
+      "duration": 4.88,
+      "offset": 232.76,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s done, look at this. It&#39;s already",
+      "duration": 3.8,
+      "offset": 235.32,
+      "lang": "en"
+    },
+    {
+      "text": "busy building everything out. The",
+      "duration": 3.4,
+      "offset": 237.64,
+      "lang": "en"
+    },
+    {
+      "text": "navigation is clean, the project grid",
+      "duration": 4.36,
+      "offset": 239.12,
+      "lang": "en"
+    },
+    {
+      "text": "matches what I showed it, and honestly,",
+      "duration": 5.92,
+      "offset": 241.04,
+      "lang": "en"
+    },
+    {
+      "text": "we are like 80% done with the just one",
+      "duration": 5.48,
+      "offset": 243.48,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Now, I&#39;m sure you guys can",
+      "duration": 4.28,
+      "offset": 246.96,
+      "lang": "en"
+    },
+    {
+      "text": "appreciate the efficiency there. So,",
+      "duration": 3.72,
+      "offset": 248.96,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the difference between knowing",
+      "duration": 3.6,
+      "offset": 251.24,
+      "lang": "en"
+    },
+    {
+      "text": "how to prompt and just winging it. Most",
+      "duration": 3.88,
+      "offset": 252.68,
+      "lang": "en"
+    },
+    {
+      "text": "people always make mistakes when it just",
+      "duration": 4.24,
+      "offset": 254.84,
+      "lang": "en"
+    },
+    {
+      "text": "comes to winging it. So now, here&#39;s a",
+      "duration": 4.12,
+      "offset": 256.56,
+      "lang": "en"
+    },
+    {
+      "text": "cool thing that most people don&#39;t know",
+      "duration": 4.28,
+      "offset": 259.08,
+      "lang": "en"
+    },
+    {
+      "text": "about, okay? So, see this visual edit",
+      "duration": 5.32,
+      "offset": 260.68,
+      "lang": "en"
+    },
+    {
+      "text": "button down here in the bottom left? If",
+      "duration": 4.48,
+      "offset": 263.36,
+      "lang": "en"
+    },
+    {
+      "text": "you want to change some text or tweak a",
+      "duration": 3.72,
+      "offset": 266.0,
+      "lang": "en"
+    },
+    {
+      "text": "color, then I don&#39;t need to waste a",
+      "duration": 4.12,
+      "offset": 267.84,
+      "lang": "en"
+    },
+    {
+      "text": "prompt on that. And that is just wasting",
+      "duration": 4.32,
+      "offset": 269.72,
+      "lang": "en"
+    },
+    {
+      "text": "more money. So, I just click on this. I",
+      "duration": 4.04,
+      "offset": 271.96,
+      "lang": "en"
+    },
+    {
+      "text": "click whatever element I want to change,",
+      "duration": 4.32,
+      "offset": 274.04,
+      "lang": "en"
+    },
+    {
+      "text": "and then boom, it&#39;s basically done. I",
+      "duration": 5.0,
+      "offset": 276.0,
+      "lang": "en"
+    },
+    {
+      "text": "can edit it right here, and I can change",
+      "duration": 4.0,
+      "offset": 278.36,
+      "lang": "en"
+    },
+    {
+      "text": "the heading, I can adjust the button",
+      "duration": 3.52,
+      "offset": 281.0,
+      "lang": "en"
+    },
+    {
+      "text": "color, and zero credits are used, so it",
+      "duration": 4.48,
+      "offset": 282.36,
+      "lang": "en"
+    },
+    {
+      "text": "means I am saving money. And then, save",
+      "duration": 4.4,
+      "offset": 284.52,
+      "lang": "en"
+    },
+    {
+      "text": "your prompts for all of the real stuff",
+      "duration": 3.28,
+      "offset": 286.84,
+      "lang": "en"
+    },
+    {
+      "text": "because I mean, you are going to need",
+      "duration": 2.84,
+      "offset": 288.92,
+      "lang": "en"
+    },
+    {
+      "text": "later on. So, you want to make sure that",
+      "duration": 3.56,
+      "offset": 290.12,
+      "lang": "en"
+    },
+    {
+      "text": "you are spending it all wisely, okay?",
+      "duration": 3.12,
+      "offset": 291.76,
+      "lang": "en"
+    },
+    {
+      "text": "And as you can see, guys, it is pretty",
+      "duration": 2.88,
+      "offset": 293.68,
+      "lang": "en"
+    },
+    {
+      "text": "straightforward, okay? So now, guys,",
+      "duration": 3.2,
+      "offset": 294.88,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s build something that&#39;s a little",
+      "duration": 4.48,
+      "offset": 296.56,
+      "lang": "en"
+    },
+    {
+      "text": "bit more complex. Let&#39;s build an app,",
+      "duration": 5.88,
+      "offset": 298.08,
+      "lang": "en"
+    },
+    {
+      "text": "okay? So now, I&#39;m going to build a food",
+      "duration": 4.44,
+      "offset": 301.04,
+      "lang": "en"
+    },
+    {
+      "text": "ordering app. Nothing crazy, just",
+      "duration": 3.12,
+      "offset": 303.96,
+      "lang": "en"
+    },
+    {
+      "text": "something that we could all basically",
+      "duration": 3.76,
+      "offset": 305.48,
+      "lang": "en"
+    },
+    {
+      "text": "use. But the thing is, it needs to",
+      "duration": 4.96,
+      "offset": 307.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually work. Now, this is where people",
+      "duration": 4.64,
+      "offset": 309.24,
+      "lang": "en"
+    },
+    {
+      "text": "really start wasting credits because",
+      "duration": 3.48,
+      "offset": 312.04,
+      "lang": "en"
+    },
+    {
+      "text": "they try to build everything at once,",
+      "duration": 3.36,
+      "offset": 313.88,
+      "lang": "en"
+    },
+    {
+      "text": "and that is always the issue. They",
+      "duration": 4.72,
+      "offset": 315.52,
+      "lang": "en"
+    },
+    {
+      "text": "usually go at it like, &quot;Build me a food",
+      "duration": 5.96,
+      "offset": 317.24,
+      "lang": "en"
+    },
+    {
+      "text": "ordering app with user login and",
+      "duration": 4.8,
+      "offset": 320.24,
+      "lang": "en"
+    },
+    {
+      "text": "restaurant listings and menus and a",
+      "duration": 3.88,
+      "offset": 323.2,
+      "lang": "en"
+    },
+    {
+      "text": "shopping cart and checkout and payment",
+      "duration": 4.28,
+      "offset": 325.04,
+      "lang": "en"
+    },
+    {
+      "text": "processing and order taking and an admin",
+      "duration": 4.52,
+      "offset": 327.08,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard and everything that you can",
+      "duration": 3.52,
+      "offset": 329.32,
+      "lang": "en"
+    },
+    {
+      "text": "basically think of. They just throw it",
+      "duration": 3.32,
+      "offset": 331.6,
+      "lang": "en"
+    },
+    {
+      "text": "all into the prompt. And then, Lovable",
+      "duration": 3.6,
+      "offset": 332.84,
+      "lang": "en"
+    },
+    {
+      "text": "usually spits out something that is half",
+      "duration": 3.28,
+      "offset": 334.92,
+      "lang": "en"
+    },
+    {
+      "text": "broken, and then you are spending the",
+      "duration": 4.12,
+      "offset": 336.44,
+      "lang": "en"
+    },
+    {
+      "text": "next 50 prompts just trying to fix what",
+      "duration": 4.88,
+      "offset": 338.2,
+      "lang": "en"
+    },
+    {
+      "text": "you initially started. Guys, please do",
+      "duration": 4.36,
+      "offset": 340.56,
+      "lang": "en"
+    },
+    {
+      "text": "not do that, okay? Build everything",
+      "duration": 3.96,
+      "offset": 343.08,
+      "lang": "en"
+    },
+    {
+      "text": "piece by piece, and then test it as you",
+      "duration": 4.28,
+      "offset": 344.92,
+      "lang": "en"
+    },
+    {
+      "text": "go. You are kind of putting all of the",
+      "duration": 3.96,
+      "offset": 347.04,
+      "lang": "en"
+    },
+    {
+      "text": "elements together so that you can create",
+      "duration": 3.4,
+      "offset": 349.2,
+      "lang": "en"
+    },
+    {
+      "text": "this perfect picture. But you&#39;re not",
+      "duration": 3.24,
+      "offset": 351.0,
+      "lang": "en"
+    },
+    {
+      "text": "going at it by just throwing the paint",
+      "duration": 3.8,
+      "offset": 352.6,
+      "lang": "en"
+    },
+    {
+      "text": "on the canvas. You are going at it small",
+      "duration": 4.4,
+      "offset": 354.24,
+      "lang": "en"
+    },
+    {
+      "text": "section by small section. Then, at the",
+      "duration": 3.76,
+      "offset": 356.4,
+      "lang": "en"
+    },
+    {
+      "text": "end of it, your picture is going to look",
+      "duration": 4.32,
+      "offset": 358.64,
+      "lang": "en"
+    },
+    {
+      "text": "even better, okay? So, for the first",
+      "duration": 5.52,
+      "offset": 360.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt, &quot;Build me a food ordering app,",
+      "duration": 4.72,
+      "offset": 362.96,
+      "lang": "en"
+    },
+    {
+      "text": "okay? Start with the basic structure.",
+      "duration": 3.6,
+      "offset": 365.68,
+      "lang": "en"
+    },
+    {
+      "text": "So, I need a homepage that shows the",
+      "duration": 4.16,
+      "offset": 367.68,
+      "lang": "en"
+    },
+    {
+      "text": "restaurant listings, a restaurant detail",
+      "duration": 5.12,
+      "offset": 369.28,
+      "lang": "en"
+    },
+    {
+      "text": "page, and a simple menu display. Use",
+      "duration": 5.28,
+      "offset": 371.84,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable Cloud for the backend, okay?&quot;",
+      "duration": 4.96,
+      "offset": 374.4,
+      "lang": "en"
+    },
+    {
+      "text": "And it&#39;s creating the homepage. The",
+      "duration": 4.2,
+      "offset": 377.12,
+      "lang": "en"
+    },
+    {
+      "text": "restaurant cards are now showing up, and",
+      "duration": 4.48,
+      "offset": 379.36,
+      "lang": "en"
+    },
+    {
+      "text": "I can click into a restaurant, and I can",
+      "duration": 5.2,
+      "offset": 381.32,
+      "lang": "en"
+    },
+    {
+      "text": "see their menu. Now, for the second",
+      "duration": 4.68,
+      "offset": 383.84,
+      "lang": "en"
+    },
+    {
+      "text": "prompt, guys, &quot;Add a shopping cart",
+      "duration": 4.6,
+      "offset": 386.52,
+      "lang": "en"
+    },
+    {
+      "text": "feature, So, users need to be able to",
+      "duration": 4.8,
+      "offset": 388.52,
+      "lang": "en"
+    },
+    {
+      "text": "add menu items to their cart, and they",
+      "duration": 3.92,
+      "offset": 391.12,
+      "lang": "en"
+    },
+    {
+      "text": "need to see what&#39;s in their cart, and",
+      "duration": 2.8,
+      "offset": 393.32,
+      "lang": "en"
+    },
+    {
+      "text": "they need to adjust all of the",
+      "duration": 2.44,
+      "offset": 395.04,
+      "lang": "en"
+    },
+    {
+      "text": "quantities.&quot; And as you can see, guys,",
+      "duration": 3.84,
+      "offset": 396.12,
+      "lang": "en"
+    },
+    {
+      "text": "it is now adding the cart functionality.",
+      "duration": 4.44,
+      "offset": 397.48,
+      "lang": "en"
+    },
+    {
+      "text": "And see, because we built the foundation",
+      "duration": 3.72,
+      "offset": 399.96,
+      "lang": "en"
+    },
+    {
+      "text": "first, and then we made sure that it was",
+      "duration": 4.12,
+      "offset": 401.92,
+      "lang": "en"
+    },
+    {
+      "text": "solid, this new feature just plugs right",
+      "duration": 4.16,
+      "offset": 403.68,
+      "lang": "en"
+    },
+    {
+      "text": "in. There&#39;s no conflicts whatsoever,",
+      "duration": 3.32,
+      "offset": 406.04,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no debugging on our side,",
+      "duration": 3.2,
+      "offset": 407.84,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s nothing that is breaking during",
+      "duration": 4.2,
+      "offset": 409.36,
+      "lang": "en"
+    },
+    {
+      "text": "the process. So, let me test it. You",
+      "duration": 4.28,
+      "offset": 411.04,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll add an item, I&#39;ll check the cart,",
+      "duration": 3.92,
+      "offset": 413.56,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll adjust the quantity, and there we",
+      "duration": 4.28,
+      "offset": 415.32,
+      "lang": "en"
+    },
+    {
+      "text": "go, guys. Perfect. So now, let&#39;s get",
+      "duration": 4.28,
+      "offset": 417.48,
+      "lang": "en"
+    },
+    {
+      "text": "over to the third prompt, okay? So now,",
+      "duration": 4.72,
+      "offset": 419.6,
+      "lang": "en"
+    },
+    {
+      "text": "we are going to integrate Stripe for",
+      "duration": 5.12,
+      "offset": 421.76,
+      "lang": "en"
+    },
+    {
+      "text": "payments, which is the basic way to go,",
+      "duration": 4.84,
+      "offset": 424.32,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s also the safest option, okay?",
+      "duration": 4.0,
+      "offset": 426.88,
+      "lang": "en"
+    },
+    {
+      "text": "So, you are going to add a checkout page",
+      "duration": 3.72,
+      "offset": 429.16,
+      "lang": "en"
+    },
+    {
+      "text": "where users can enter their payment",
+      "duration": 3.92,
+      "offset": 430.88,
+      "lang": "en"
+    },
+    {
+      "text": "details and also complete the order. And",
+      "duration": 2.96,
+      "offset": 432.88,
+      "lang": "en"
+    },
+    {
+      "text": "there we go, guys, just like that, we",
+      "duration": 3.04,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "can now accept payments on our platform.",
+      "duration": 3.72,
+      "offset": 435.84,
+      "lang": "en"
+    },
+    {
+      "text": "And guys, you can see how much cleaner",
+      "duration": 3.92,
+      "offset": 437.84,
+      "lang": "en"
+    },
+    {
+      "text": "that was overall. Why? Because we built",
+      "duration": 4.52,
+      "offset": 439.56,
+      "lang": "en"
+    },
+    {
+      "text": "everything step by step. We tested each",
+      "duration": 4.32,
+      "offset": 441.76,
+      "lang": "en"
+    },
+    {
+      "text": "piece, and now we have a working app",
+      "duration": 4.04,
+      "offset": 444.08,
+      "lang": "en"
+    },
+    {
+      "text": "without spending hundreds of credits",
+      "duration": 4.08,
+      "offset": 446.08,
+      "lang": "en"
+    },
+    {
+      "text": "just fixing the bugs that we created.",
+      "duration": 3.6,
+      "offset": 448.12,
+      "lang": "en"
+    },
+    {
+      "text": "So, this is what I mean by building",
+      "duration": 4.12,
+      "offset": 450.16,
+      "lang": "en"
+    },
+    {
+      "text": "everything piece by piece. You build",
+      "duration": 3.84,
+      "offset": 451.72,
+      "lang": "en"
+    },
+    {
+      "text": "something, you test it, you then make",
+      "duration": 3.6,
+      "offset": 454.28,
+      "lang": "en"
+    },
+    {
+      "text": "sure that it works, and then you add to",
+      "duration": 4.04,
+      "offset": 455.56,
+      "lang": "en"
+    },
+    {
+      "text": "the next thing. Because when you try and",
+      "duration": 3.48,
+      "offset": 457.88,
+      "lang": "en"
+    },
+    {
+      "text": "build everything in the beginning within",
+      "duration": 3.88,
+      "offset": 459.6,
+      "lang": "en"
+    },
+    {
+      "text": "the space of just like 5 minutes, what&#39;s",
+      "duration": 3.08,
+      "offset": 461.36,
+      "lang": "en"
+    },
+    {
+      "text": "going to end up happening is you&#39;re",
+      "duration": 2.44,
+      "offset": 463.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to have to spend the next hour",
+      "duration": 3.48,
+      "offset": 464.44,
+      "lang": "en"
+    },
+    {
+      "text": "upon hour just trying to fix it. Whereas",
+      "duration": 3.96,
+      "offset": 465.92,
+      "lang": "en"
+    },
+    {
+      "text": "this way, you are spending your time",
+      "duration": 3.92,
+      "offset": 467.92,
+      "lang": "en"
+    },
+    {
+      "text": "wisely, you&#39;re also saving money, and",
+      "duration": 3.88,
+      "offset": 469.88,
+      "lang": "en"
+    },
+    {
+      "text": "you are getting the exact result that",
+      "duration": 3.56,
+      "offset": 471.84,
+      "lang": "en"
+    },
+    {
+      "text": "you want, okay? So now that you guys",
+      "duration": 3.88,
+      "offset": 473.76,
+      "lang": "en"
+    },
+    {
+      "text": "have that, now here&#39;s where everything",
+      "duration": 4.52,
+      "offset": 475.4,
+      "lang": "en"
+    },
+    {
+      "text": "gets really interesting, okay? We are",
+      "duration": 4.52,
+      "offset": 477.64,
+      "lang": "en"
+    },
+    {
+      "text": "going to build a complex SaaS app, okay?",
+      "duration": 4.2,
+      "offset": 479.92,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m talking about a complete project",
+      "duration": 3.6,
+      "offset": 482.16,
+      "lang": "en"
+    },
+    {
+      "text": "management tool with dashboards, team",
+      "duration": 3.56,
+      "offset": 484.12,
+      "lang": "en"
+    },
+    {
+      "text": "collaborations, task management, and",
+      "duration": 3.76,
+      "offset": 485.76,
+      "lang": "en"
+    },
+    {
+      "text": "basically the whole nine yards, okay? So",
+      "duration": 3.84,
+      "offset": 487.68,
+      "lang": "en"
+    },
+    {
+      "text": "now, this is where most people",
+      "duration": 3.68,
+      "offset": 489.52,
+      "lang": "en"
+    },
+    {
+      "text": "completely lose it with the credits.",
+      "duration": 3.56,
+      "offset": 491.52,
+      "lang": "en"
+    },
+    {
+      "text": "This is where all of the wasting really",
+      "duration": 4.04,
+      "offset": 493.2,
+      "lang": "en"
+    },
+    {
+      "text": "happens. They think that they need 50",
+      "duration": 3.76,
+      "offset": 495.08,
+      "lang": "en"
+    },
+    {
+      "text": "different prompts to build something",
+      "duration": 3.96,
+      "offset": 497.24,
+      "lang": "en"
+    },
+    {
+      "text": "this complex. But here&#39;s the secret. You",
+      "duration": 5.0,
+      "offset": 498.84,
+      "lang": "en"
+    },
+    {
+      "text": "start with one really solid prompt that",
+      "duration": 4.96,
+      "offset": 501.2,
+      "lang": "en"
+    },
+    {
+      "text": "sets up the entire structure, and then",
+      "duration": 4.6,
+      "offset": 503.84,
+      "lang": "en"
+    },
+    {
+      "text": "you add features one at a time. So,",
+      "duration": 3.92,
+      "offset": 506.16,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s my prompt, okay? I&#39;m going to",
+      "duration": 4.16,
+      "offset": 508.44,
+      "lang": "en"
+    },
+    {
+      "text": "say, &quot;Build me a project management SaaS",
+      "duration": 4.76,
+      "offset": 510.08,
+      "lang": "en"
+    },
+    {
+      "text": "platform. Core functionality includes",
+      "duration": 4.12,
+      "offset": 512.6,
+      "lang": "en"
+    },
+    {
+      "text": "the task management, team collaboration,",
+      "duration": 4.36,
+      "offset": 514.84,
+      "lang": "en"
+    },
+    {
+      "text": "and dashboard. I need these pages:",
+      "duration": 4.84,
+      "offset": 516.72,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard, project, task, team, and",
+      "duration": 4.48,
+      "offset": 519.2,
+      "lang": "en"
+    },
+    {
+      "text": "settings. For the database structure, I",
+      "duration": 4.6,
+      "offset": 521.56,
+      "lang": "en"
+    },
+    {
+      "text": "need tables for users, project tasks,",
+      "duration": 5.48,
+      "offset": 523.68,
+      "lang": "en"
+    },
+    {
+      "text": "and team members. Use Lovable Cloud, and",
+      "duration": 4.44,
+      "offset": 526.16,
+      "lang": "en"
+    },
+    {
+      "text": "then make sure that it&#39;s fully",
+      "duration": 3.96,
+      "offset": 529.16,
+      "lang": "en"
+    },
+    {
+      "text": "responsive.&quot; And this is now us building",
+      "duration": 4.6,
+      "offset": 530.6,
+      "lang": "en"
+    },
+    {
+      "text": "our foundation. So, you see this arrow",
+      "duration": 3.8,
+      "offset": 533.12,
+      "lang": "en"
+    },
+    {
+      "text": "in the bottom left? I&#39;m going to click",
+      "duration": 3.44,
+      "offset": 535.2,
+      "lang": "en"
+    },
+    {
+      "text": "on integrations, and then we are going",
+      "duration": 3.72,
+      "offset": 536.92,
+      "lang": "en"
+    },
+    {
+      "text": "to enable Supabase.",
+      "duration": 4.36,
+      "offset": 538.64,
+      "lang": "en"
+    },
+    {
+      "text": "And this is basically going to handle",
+      "duration": 4.6,
+      "offset": 540.64,
+      "lang": "en"
+    },
+    {
+      "text": "our entire database for us, okay? So,",
+      "duration": 4.04,
+      "offset": 543.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m connecting our Supabase account",
+      "duration": 4.4,
+      "offset": 545.24,
+      "lang": "en"
+    },
+    {
+      "text": "right now, and there we go. Our database",
+      "duration": 4.92,
+      "offset": 547.04,
+      "lang": "en"
+    },
+    {
+      "text": "tables are being created automatically.",
+      "duration": 4.84,
+      "offset": 549.64,
+      "lang": "en"
+    },
+    {
+      "text": "Users, projects, tasks, team members,",
+      "duration": 4.56,
+      "offset": 551.96,
+      "lang": "en"
+    },
+    {
+      "text": "all of it is going to be set up. So now,",
+      "duration": 3.88,
+      "offset": 554.48,
+      "lang": "en"
+    },
+    {
+      "text": "I can start adding all of the features",
+      "duration": 4.04,
+      "offset": 556.52,
+      "lang": "en"
+    },
+    {
+      "text": "one by one, okay? So, the next prompt,",
+      "duration": 5.36,
+      "offset": 558.36,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Add the ability to create a new project",
+      "duration": 6.0,
+      "offset": 560.56,
+      "lang": "en"
+    },
+    {
+      "text": "and assign them to team members.&quot; So,",
+      "duration": 4.16,
+      "offset": 563.72,
+      "lang": "en"
+    },
+    {
+      "text": "you see the difference here? We didn&#39;t",
+      "duration": 2.96,
+      "offset": 566.56,
+      "lang": "en"
+    },
+    {
+      "text": "try to build everything at once like we",
+      "duration": 3.68,
+      "offset": 567.88,
+      "lang": "en"
+    },
+    {
+      "text": "said before. We instead focused on",
+      "duration": 3.88,
+      "offset": 569.52,
+      "lang": "en"
+    },
+    {
+      "text": "building a strong foundation with one",
+      "duration": 3.96,
+      "offset": 571.56,
+      "lang": "en"
+    },
+    {
+      "text": "good prompt at a time. We connected our",
+      "duration": 3.8,
+      "offset": 573.4,
+      "lang": "en"
+    },
+    {
+      "text": "database properly, and now we&#39;re adding",
+      "duration": 4.88,
+      "offset": 575.52,
+      "lang": "en"
+    },
+    {
+      "text": "features step by step, and each one",
+      "duration": 5.36,
+      "offset": 577.2,
+      "lang": "en"
+    },
+    {
+      "text": "builds on top of the last one without",
+      "duration": 3.64,
+      "offset": 580.4,
+      "lang": "en"
+    },
+    {
+      "text": "breaking anything in the chain, and",
+      "duration": 3.48,
+      "offset": 582.56,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s making our entire platform even",
+      "duration": 3.52,
+      "offset": 584.04,
+      "lang": "en"
+    },
+    {
+      "text": "stronger, okay? So now, let me show you",
+      "duration": 2.68,
+      "offset": 586.04,
+      "lang": "en"
+    },
+    {
+      "text": "something else that&#39;s going to save you",
+      "duration": 4.12,
+      "offset": 587.56,
+      "lang": "en"
+    },
+    {
+      "text": "a ton of credits. So, every 10 or 15",
+      "duration": 5.6,
+      "offset": 588.72,
+      "lang": "en"
+    },
+    {
+      "text": "prompts, you need to clean up your code,",
+      "duration": 4.4,
+      "offset": 591.68,
+      "lang": "en"
+    },
+    {
+      "text": "and I am so serious about this. This is",
+      "duration": 3.28,
+      "offset": 594.32,
+      "lang": "en"
+    },
+    {
+      "text": "something that really is going to change",
+      "duration": 4.0,
+      "offset": 596.08,
+      "lang": "en"
+    },
+    {
+      "text": "it for you. So, your code gets messy as",
+      "duration": 5.08,
+      "offset": 597.6,
+      "lang": "en"
+    },
+    {
+      "text": "you keep adding on stuff. And messy code",
+      "duration": 4.56,
+      "offset": 600.08,
+      "lang": "en"
+    },
+    {
+      "text": "means more bugs down the line, which",
+      "duration": 3.28,
+      "offset": 602.68,
+      "lang": "en"
+    },
+    {
+      "text": "means more credits that you are wasting",
+      "duration": 3.0,
+      "offset": 604.64,
+      "lang": "en"
+    },
+    {
+      "text": "time to fix all of these things. So,",
+      "duration": 3.08,
+      "offset": 605.96,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s what you have to do. I have this",
+      "duration": 3.96,
+      "offset": 607.64,
+      "lang": "en"
+    },
+    {
+      "text": "prompt saved in the text expander. So,",
+      "duration": 6.44,
+      "offset": 609.04,
+      "lang": "en"
+    },
+    {
+      "text": "it says, &quot;Review my codebase and tell me",
+      "duration": 6.52,
+      "offset": 611.6,
+      "lang": "en"
+    },
+    {
+      "text": "what needs refactoring. Which files are",
+      "duration": 4.12,
+      "offset": 615.48,
+      "lang": "en"
+    },
+    {
+      "text": "too big? Which components should be",
+      "duration": 4.28,
+      "offset": 618.12,
+      "lang": "en"
+    },
+    {
+      "text": "split up? What order should I refactor",
+      "duration": 5.8,
+      "offset": 619.6,
+      "lang": "en"
+    },
+    {
+      "text": "things in?&quot; And I run this every 10 to",
+      "duration": 5.16,
+      "offset": 622.4,
+      "lang": "en"
+    },
+    {
+      "text": "15 changes and Lovable tells me exactly",
+      "duration": 4.32,
+      "offset": 625.4,
+      "lang": "en"
+    },
+    {
+      "text": "what gets messy and how to clean it all",
+      "duration": 4.84,
+      "offset": 627.56,
+      "lang": "en"
+    },
+    {
+      "text": "up, okay? So, now we are on to the last",
+      "duration": 4.2,
+      "offset": 629.72,
+      "lang": "en"
+    },
+    {
+      "text": "thing, guys, and that is going to save",
+      "duration": 3.12,
+      "offset": 632.4,
+      "lang": "en"
+    },
+    {
+      "text": "you a ton of different credits, and it&#39;s",
+      "duration": 4.24,
+      "offset": 633.92,
+      "lang": "en"
+    },
+    {
+      "text": "called the knowledge section, okay? And",
+      "duration": 5.2,
+      "offset": 635.52,
+      "lang": "en"
+    },
+    {
+      "text": "most people skip over this, but I really",
+      "duration": 3.92,
+      "offset": 638.16,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t want you guys to do that. So,",
+      "duration": 3.12,
+      "offset": 640.72,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s what Lovable does, okay? You set",
+      "duration": 3.24,
+      "offset": 642.08,
+      "lang": "en"
+    },
+    {
+      "text": "your project standards once, and then",
+      "duration": 3.32,
+      "offset": 643.84,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable automatically applies them to",
+      "duration": 3.68,
+      "offset": 645.32,
+      "lang": "en"
+    },
+    {
+      "text": "everything that it builds. So, that",
+      "duration": 3.8,
+      "offset": 647.16,
+      "lang": "en"
+    },
+    {
+      "text": "means no more repeating yourself in",
+      "duration": 3.6,
+      "offset": 649.0,
+      "lang": "en"
+    },
+    {
+      "text": "every single prompt. So, you&#39;re going to",
+      "duration": 3.92,
+      "offset": 650.96,
+      "lang": "en"
+    },
+    {
+      "text": "go into the bottom left add button.",
+      "duration": 3.48,
+      "offset": 652.6,
+      "lang": "en"
+    },
+    {
+      "text": "You&#39;re going to click on knowledge, and",
+      "duration": 2.88,
+      "offset": 654.88,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s what you need to put in there,",
+      "duration": 3.28,
+      "offset": 656.08,
+      "lang": "en"
+    },
+    {
+      "text": "okay? You&#39;re going to start with your",
+      "duration": 3.24,
+      "offset": 657.76,
+      "lang": "en"
+    },
+    {
+      "text": "coding standards. You&#39;re going to tell",
+      "duration": 3.72,
+      "offset": 659.36,
+      "lang": "en"
+    },
+    {
+      "text": "it to keep components modular, and",
+      "duration": 3.64,
+      "offset": 661.0,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re going to use clear naming",
+      "duration": 3.48,
+      "offset": 663.08,
+      "lang": "en"
+    },
+    {
+      "text": "conventions, and you are going to",
+      "duration": 4.2,
+      "offset": 664.64,
+      "lang": "en"
+    },
+    {
+      "text": "comment complex logic, okay? So, guys,",
+      "duration": 4.08,
+      "offset": 666.56,
+      "lang": "en"
+    },
+    {
+      "text": "whatever structure you want, you want to",
+      "duration": 3.6,
+      "offset": 668.84,
+      "lang": "en"
+    },
+    {
+      "text": "basically define it the right here,",
+      "duration": 3.68,
+      "offset": 670.64,
+      "lang": "en"
+    },
+    {
+      "text": "okay? And then you are going to add your",
+      "duration": 4.4,
+      "offset": 672.44,
+      "lang": "en"
+    },
+    {
+      "text": "exact color palette with hex codes, and",
+      "duration": 6.96,
+      "offset": 674.32,
+      "lang": "en"
+    },
+    {
+      "text": "primary color hashtag 3 B82F6,",
+      "duration": 5.64,
+      "offset": 676.84,
+      "lang": "en"
+    },
+    {
+      "text": "okay? Super important, let me just",
+      "duration": 5.48,
+      "offset": 681.28,
+      "lang": "en"
+    },
+    {
+      "text": "repeat that, okay, guys? 3 B82F6. And",
+      "duration": 5.92,
+      "offset": 682.48,
+      "lang": "en"
+    },
+    {
+      "text": "then secondary color hashtag is going to",
+      "duration": 4.72,
+      "offset": 686.76,
+      "lang": "en"
+    },
+    {
+      "text": "be 8B5CF6.",
+      "duration": 4.48,
+      "offset": 688.4,
+      "lang": "en"
+    },
+    {
+      "text": "So, the aim is, guys, you want to be",
+      "duration": 3.44,
+      "offset": 691.48,
+      "lang": "en"
+    },
+    {
+      "text": "specific, okay? Otherwise, you&#39;ll end up",
+      "duration": 4.68,
+      "offset": 692.88,
+      "lang": "en"
+    },
+    {
+      "text": "with 10 different shades of blue and",
+      "duration": 4.28,
+      "offset": 694.92,
+      "lang": "en"
+    },
+    {
+      "text": "maybe even red, and then you&#39;re just",
+      "duration": 3.6,
+      "offset": 697.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to waste all of these prompts just",
+      "duration": 3.68,
+      "offset": 699.2,
+      "lang": "en"
+    },
+    {
+      "text": "trying to fix something that you just",
+      "duration": 4.12,
+      "offset": 701.16,
+      "lang": "en"
+    },
+    {
+      "text": "created by accident, okay? And include",
+      "duration": 4.24,
+      "offset": 702.88,
+      "lang": "en"
+    },
+    {
+      "text": "your design systems, too. So, the",
+      "duration": 3.68,
+      "offset": 705.28,
+      "lang": "en"
+    },
+    {
+      "text": "typography, the spacing, the border",
+      "duration": 3.72,
+      "offset": 707.12,
+      "lang": "en"
+    },
+    {
+      "text": "radius, and also the button styles, all",
+      "duration": 3.56,
+      "offset": 708.96,
+      "lang": "en"
+    },
+    {
+      "text": "of the design decisions that should stay",
+      "duration": 3.8,
+      "offset": 710.84,
+      "lang": "en"
+    },
+    {
+      "text": "consistent. And if you have brand",
+      "duration": 4.52,
+      "offset": 712.52,
+      "lang": "en"
+    },
+    {
+      "text": "guidelines, put those in here as well,",
+      "duration": 4.08,
+      "offset": 714.64,
+      "lang": "en"
+    },
+    {
+      "text": "okay? So, that is the logo usage, the",
+      "duration": 3.52,
+      "offset": 717.04,
+      "lang": "en"
+    },
+    {
+      "text": "tone, and any specific constraints that",
+      "duration": 4.2,
+      "offset": 718.72,
+      "lang": "en"
+    },
+    {
+      "text": "you may have. And then, now, guys, let",
+      "duration": 4.08,
+      "offset": 720.56,
+      "lang": "en"
+    },
+    {
+      "text": "me show you why all of this matters,",
+      "duration": 4.16,
+      "offset": 722.92,
+      "lang": "en"
+    },
+    {
+      "text": "okay? So, I&#39;m setting this up right now",
+      "duration": 4.12,
+      "offset": 724.64,
+      "lang": "en"
+    },
+    {
+      "text": "for our project management app. I&#39;m",
+      "duration": 3.64,
+      "offset": 727.08,
+      "lang": "en"
+    },
+    {
+      "text": "defining the colors, defining the fonts,",
+      "duration": 4.04,
+      "offset": 728.76,
+      "lang": "en"
+    },
+    {
+      "text": "the spacing, all of it, okay? And you",
+      "duration": 3.84,
+      "offset": 730.72,
+      "lang": "en"
+    },
+    {
+      "text": "can immediately see that it&#39;s going to",
+      "duration": 4.52,
+      "offset": 732.8,
+      "lang": "en"
+    },
+    {
+      "text": "make a big difference. So, now when I",
+      "duration": 4.84,
+      "offset": 734.56,
+      "lang": "en"
+    },
+    {
+      "text": "add a new feature like a notification",
+      "duration": 4.48,
+      "offset": 737.32,
+      "lang": "en"
+    },
+    {
+      "text": "page, watch what happens, okay? The",
+      "duration": 4.72,
+      "offset": 739.4,
+      "lang": "en"
+    },
+    {
+      "text": "colors match everything perfectly, the",
+      "duration": 4.4,
+      "offset": 741.8,
+      "lang": "en"
+    },
+    {
+      "text": "space is consistent, and it takes 5",
+      "duration": 3.8,
+      "offset": 744.12,
+      "lang": "en"
+    },
+    {
+      "text": "minutes to do this before you start",
+      "duration": 4.24,
+      "offset": 746.2,
+      "lang": "en"
+    },
+    {
+      "text": "building. So, it will save you dozens of",
+      "duration": 4.2,
+      "offset": 747.92,
+      "lang": "en"
+    },
+    {
+      "text": "prompts down the line, and I can",
+      "duration": 3.16,
+      "offset": 750.44,
+      "lang": "en"
+    },
+    {
+      "text": "guarantee you guys it&#39;s the best way to",
+      "duration": 3.48,
+      "offset": 752.12,
+      "lang": "en"
+    },
+    {
+      "text": "go for this. So, now you don&#39;t need to",
+      "duration": 3.96,
+      "offset": 753.6,
+      "lang": "en"
+    },
+    {
+      "text": "waste credits on Lovable. You can just",
+      "duration": 4.32,
+      "offset": 755.6,
+      "lang": "en"
+    },
+    {
+      "text": "build anything from a simple website to",
+      "duration": 5.72,
+      "offset": 757.56,
+      "lang": "en"
+    },
+    {
+      "text": "a complete data integrated software. And",
+      "duration": 4.88,
+      "offset": 759.92,
+      "lang": "en"
+    },
+    {
+      "text": "guys, if you followed us all the way",
+      "duration": 3.28,
+      "offset": 763.28,
+      "lang": "en"
+    },
+    {
+      "text": "until the end, I guarantee you that this",
+      "duration": 2.76,
+      "offset": 764.8,
+      "lang": "en"
+    },
+    {
+      "text": "is the route that you&#39;re going to want",
+      "duration": 2.56,
+      "offset": 766.56,
+      "lang": "en"
+    },
+    {
+      "text": "to go down, and you are going to create",
+      "duration": 3.96,
+      "offset": 767.56,
+      "lang": "en"
+    },
+    {
+      "text": "some insane things. By the way, if you",
+      "duration": 3.68,
+      "offset": 769.12,
+      "lang": "en"
+    },
+    {
+      "text": "have any ideas of things that you want",
+      "duration": 2.48,
+      "offset": 771.52,
+      "lang": "en"
+    },
+    {
+      "text": "to create, let me know down in the",
+      "duration": 3.56,
+      "offset": 772.8,
+      "lang": "en"
+    },
+    {
+      "text": "comments. And there we have it, guys.",
+      "duration": 4.64,
+      "offset": 774.0,
+      "lang": "en"
+    },
+    {
+      "text": "You have the framework, but if you want",
+      "duration": 3.92,
+      "offset": 776.36,
+      "lang": "en"
+    },
+    {
+      "text": "my complete prompts and also the",
+      "duration": 3.72,
+      "offset": 778.64,
+      "lang": "en"
+    },
+    {
+      "text": "refactoring checklist, then make sure to",
+      "duration": 4.0,
+      "offset": 780.28,
+      "lang": "en"
+    },
+    {
+      "text": "join our free school community. The link",
+      "duration": 3.84,
+      "offset": 782.36,
+      "lang": "en"
+    },
+    {
+      "text": "is in the description down below. And if",
+      "duration": 3.88,
+      "offset": 784.28,
+      "lang": "en"
+    },
+    {
+      "text": "you enjoyed this video, then make sure",
+      "duration": 4.12,
+      "offset": 786.2,
+      "lang": "en"
+    },
+    {
+      "text": "to like and subscribe for more. So,",
+      "duration": 4.16,
+      "offset": 788.16,
+      "lang": "en"
+    },
+    {
+      "text": "guys, it&#39;s been a whole lot of fun. As",
+      "duration": 4.0,
+      "offset": 790.32,
+      "lang": "en"
+    },
+    {
+      "text": "always, I will catch you on the next",
+      "duration": 4.4,
+      "offset": 792.32,
+      "lang": "en"
+    },
+    {
+      "text": "one.",
+      "duration": 2.4,
+      "offset": 794.32,
+      "lang": "en"
+    }
+  ]
+}

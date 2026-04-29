@@ -1,0 +1,10 @@
+{
+  "name": "Robinhood",
+  "name_en": "Robinhood",
+  "tickers": ["HOOD"],
+  "sector": "Fintech/Brokerage/SuperApp",
+  "tags": ["fintech", "brokerage", "retail-investing", "crypto", "Gold", "prediction-markets"],
+  "dimensions": ["discovery", "leadership", "org", "notes"],
+  "created": "2026-04-07",
+  "updated": "2026-04-07"
+}

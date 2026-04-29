@@ -1,0 +1,9 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.midjourney.com/careers",
+    "title": "careers",
+    "error": "HTTP 403",
+    "stage": "fetch_full_text"
+  }
+]

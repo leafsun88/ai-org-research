@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "channels": {
+    "podcasts": {
+      "queries": 5,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/podcasts"
+    },
+    "youtube": {
+      "queries": 6,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/youtube"
+    },
+    "substack": {
+      "queries": 4,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/substack"
+    },
+    "official": {
+      "queries": 4,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/official"
+    },
+    "jobs_org": {
+      "queries": 3,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/jobs_org"
+    },
+    "founder_voice": {
+      "queries": 4,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/founder_voice"
+    },
+    "web_longform": {
+      "queries": 5,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/web_longform"
+    },
+    "social_community": {
+      "queries": 5,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/social_community"
+    },
+    "investor_views": {
+      "queries": 2,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/investor_views"
+    },
+    "short_seller_reports": {
+      "queries": 2,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/semi_public/short_seller_reports"
+    }
+  },
+  "items": [
+    {
+      "channel": "podcasts",
+      "queries": 5
+    },
+    {
+      "channel": "youtube",
+      "queries": 6
+    },
+    {
+      "channel": "substack",
+      "queries": 4
+    },
+    {
+      "channel": "official",
+      "queries": 4
+    },
+    {
+      "channel": "jobs_org",
+      "queries": 3
+    },
+    {
+      "channel": "founder_voice",
+      "queries": 4
+    },
+    {
+      "channel": "web_longform",
+      "queries": 5
+    },
+    {
+      "channel": "social_community",
+      "queries": 5
+    },
+    {
+      "channel": "investor_views",
+      "queries": 2
+    },
+    {
+      "channel": "short_seller_reports",
+      "queries": 2
+    }
+  ],
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "semi_public_scaffold",
+  "updated_at": "2026-04-25T23:15:46"
+}

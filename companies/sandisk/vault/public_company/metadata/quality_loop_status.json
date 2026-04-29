@@ -1,0 +1,24 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "status": "pass",
+  "max_iterations": 3,
+  "iterations_run": 1,
+  "remaining_gaps": [],
+  "blocker_notes": {},
+  "history": [
+    {
+      "iteration": 1,
+      "audit_status": "pass",
+      "gaps_before_repair": [],
+      "model": {
+        "workbook_path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/financial_model.xlsx",
+        "inputs_path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/model_inputs.json",
+        "summary_path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/model_summary.md",
+        "validation_path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-26/model_validation.json"
+      },
+      "repair_actions": []
+    }
+  ],
+  "updated_at": "2026-04-26T09:39:55"
+}

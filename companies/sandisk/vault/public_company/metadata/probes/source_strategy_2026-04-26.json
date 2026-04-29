@@ -1,0 +1,94 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "name": "\"openai-docs\"",
+      "description": "\"Use when the user asks how to build with OpenAI products or APIs and needs up-to-date official documentation with citations, help choosing the latest model for a use case, or model upgrade and prompt-upgrade guidance; prioritize OpenAI docs MCP tools, use bundled references only as helper context, and restrict any fallback browsing to official OpenAI domains.\"",
+      "path": "/Users/leafsun/.codex/skills/.system/openai-docs/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/.system/openai-docs/SKILL.md"
+    },
+    {
+      "name": "ai-org-analysis-add",
+      "description": "Use when working in the AI Org research project and an existing company report needs new essence or source-note evidence added without rebuilding the report.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-analysis-add/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-analysis-add/SKILL.md"
+    },
+    {
+      "name": "ai-org-analysis",
+      "description": "Use when working in the AI Org research project and turning company essence files into detailed analysis markdown, fact packs, complex reports, one-page reports, or organization/investment analysis.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-analysis/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-analysis/SKILL.md"
+    },
+    {
+      "name": "ai-org-collect",
+      "description": "Use when working in the AI Org research project and starting or repairing company data collection, especially podcasts, financials, Substack, YouTube, transcripts, or vault sync.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-collect/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-collect/SKILL.md"
+    },
+    {
+      "name": "ai-org-essence",
+      "description": "Use when working in the AI Org research project and converting transcripts, podcast notes, YouTube transcripts, Substack articles, or reports into source-level essence files.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-essence/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-essence/SKILL.md"
+    },
+    {
+      "name": "ai-org-financial-modeling",
+      "description": "Launcher for the AI Org public-company financial modeling workflow. Use for DCF/comps workbook generation from collected statements, market data, valuation, peers, and capital signals.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-financial-modeling/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-financial-modeling/SKILL.md"
+    },
+    {
+      "name": "ai-org-public-company-collect",
+      "description": "Launcher for the AI Org public-company collection workflow. Use for listed-company filings, earnings calls, market data, books, investor views, and semi-public research folders.",
+      "path": "/Users/leafsun/.codex/skills/ai-org-public-company-collect/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/ai-org-public-company-collect/SKILL.md"
+    },
+    {
+      "name": "xlsx",
+      "description": "Use when working with Excel-compatible spreadsheet files, including .xlsx, .xls, .csv, and .tsv files; creating, editing, analyzing, formatting, charting, validating formulas, or exporting workbooks.",
+      "path": "/Users/leafsun/.codex/skills/xlsx/SKILL.md",
+      "relative_path": "/Users/leafsun/.codex/skills/xlsx/SKILL.md"
+    },
+    {
+      "name": "analysis-add",
+      "description": "Use when working in the AI Org research project and an existing company report must absorb new source-note evidence without rebuilding the report or changing its established framework.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/analysis-add/SKILL.md",
+      "relative_path": "学习/skills/analysis-add/SKILL.md"
+    },
+    {
+      "name": "analysis",
+      "description": "Use when turning company essence files into detailed analysis markdown under companies/{slug}/analysis, especially long complex reports, fact packs, evidence maps, and organization/investment analysis.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/analysis/SKILL.md",
+      "relative_path": "学习/skills/analysis/SKILL.md"
+    },
+    {
+      "name": "collect",
+      "description": "Use when starting or repairing a company research collection pipeline for AI org / investment work, especially when the task needs podcasts, financials, Substack, YouTube, transcripts, or vault sync.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/collect/SKILL.md",
+      "relative_path": "学习/skills/collect/SKILL.md"
+    },
+    {
+      "name": "essence",
+      "description": "Use when converting company transcripts, podcast notes, YouTube transcripts, Substack articles, reports, jobs pages, or other source material into source-level notes for AI org or investment research.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/essence/SKILL.md",
+      "relative_path": "学习/skills/essence/SKILL.md"
+    },
+    {
+      "name": "financial-modeling",
+      "description": "Build a source-mapped public-company DCF and comps workbook from collected statements, market data, valuation, peers, and capital signals.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/financial-modeling/SKILL.md",
+      "relative_path": "学习/skills/financial-modeling/SKILL.md"
+    },
+    {
+      "name": "public-company-collect",
+      "description": "Collect public-company filings, statements, market data, capital-market signals, earnings calls, books, and semi-public research scaffolding for A-share, US, and Hong Kong listed companies.",
+      "path": "/Users/leafsun/Desktop/AI Org研究/学习/skills/public-company-collect/SKILL.md",
+      "relative_path": "学习/skills/public-company-collect/SKILL.md"
+    }
+  ],
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "source_strategy",
+  "updated_at": "2026-04-26T09:39:55"
+}

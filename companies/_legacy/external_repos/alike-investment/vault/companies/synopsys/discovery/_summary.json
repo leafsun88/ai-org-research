@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 22,
+  "total_size_kb": 252,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 9,
+    "breakdown": {"c_suite":8,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"organization/proxy/2026-02-19_DEF 14A.md","size_kb":148},{"path":"organization/sources/sudhindra_kankanwadi/sudhindra_kankanwadi_net_worth_insider_trades_and_bio.md","size_kb":6},{"path":"organization/sources/sassine_ghazi/who_is_the_ceo_of_synopsys_sassine_ghazis_bio_clay.md","size_kb":6},{"path":"organization/sources/shelagh_glaser/who_is_the_cfo_of_synopsys_shelagh_glasers_bio_clay.md","size_kb":6},{"path":"organization/sources/sassine_ghazi/who_is_sassine_ghazi_discover_their_role_as_president_and_ch.md","size_kb":5},{"path":"_collection_report.md","size_kb":2},{"path":"organization/sources/alessandra_costa/alessandra_costa_svp_operations_at_synopsys.md","size_kb":1},{"path":"sources/founder_voice.md","size_kb":1},{"path":"organization/sources/janet_lee/httpslongbridgecomennews271991215.md","size_kb":1},{"path":"organization/_org_scan_report.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

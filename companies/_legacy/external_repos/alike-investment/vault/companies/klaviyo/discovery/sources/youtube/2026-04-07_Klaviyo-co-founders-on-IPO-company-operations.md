@@ -1,0 +1,22 @@
+---
+ticker: KVYO
+type: youtube
+title: "Klaviyo co-founders on IPO, company operations"
+channel: "CNBC Television"
+date: 2026-04-07
+url: https://www.youtube.com/watch?v=ZqB-w6ydSjo
+transcript_method: yt-dlp_subtitle
+language: en
+chars: 3999
+---
+
+# Klaviyo co-founders on IPO, company operations
+
+## 视频信息
+- **频道**: CNBC Television
+- **日期**: 2026-04-07
+- **链接**: https://www.youtube.com/watch?v=ZqB-w6ydSjo
+
+## 转录全文
+
+joining us on set here at Post 9 for a first on CNBC interview is Ed Hallen he's co-founder and Andrew bilecki clavio co-founder and CEO welcome gentlemen and congrats on this big day yeah thanks for having us I dare to say man it's all of our customers Partners all the videos Around the World thank you I mean it's been 11 years been working on this thing and man what a moment yeah we'll go back to 20 . I think you first have to explain the name sure now we can pronounce correctly clavio what is it yeah well Ed's a big outdoors guy and I kind of got got me into that and uh Cleveland it's all about climbing mountains um and so Ed and I we love building software that helps businesses take on challenges you know for our customers we just want to be that Revenue growth engine um so we feel like we give them the tools to help grow their business and do in a really durable way and it's not a household name like instacart so so for for those that are new to the company you paid her to the Enterprise right and you help them on marketing and targeting consumers how does it work explain what you do yeah so we power smarter digital relationships so we actually started working with small businesses and over time we've now served businesses of all sizes so it's businesses like skims tailor-made Cody and we fundamentally clavio is a CRM for Consumer businesses that helps them build more personal relationships with their in consumers and treat them like people but it really is just Shopify right it's it's 80 80 or so of your Revenue it's like an extension of their service isn't it oh yeah Shopify team is awesome uh we love working with uh the market leading platforms and uh when we decided you know in the early days we were going to focus on retail businesses consumer businesses first we said who are the best platforms out there the most Innovative uh and obviously shot by the top of that list so we love working with them is that a risk though that so much is concentrated there I know they're an owner of your company as well yeah no not at all I mean we do a bunch of product development together a bunch of you know marketing together we also do that with a lot of other platforms both in retail and even outside of retail um you know we just we love working with other software companies that really complement claydio that are kind of they provide you know the that you know that the payment the back office and we try to help with the customer experience on the front end Ed it's been all about e-commerce so far but I think investors who are looking for the next growth story are wondering about other verticals and whether you can grow there and help other kind of businesses yeah so from the start we actually have our first set of customers a good handful we're not e-commerce so we've leaned into e-commerce to help us grow and you know what we've seen recently is we've started you know signing more Partnerships with other platforms for example there's a Beauty appointment business called glowdagon California where they manage all their appointments and bookings through clavio so we're really excited about you know the possibilities um you know for really any digital uh relationship Market's looking to you guys to as a tell for the for Capital markets and the IPO window can you sort of describe how it feels at the moment to you and how this timing worked with your original plans yeah well the great thing is we both at nights believe in building durable companies uh you know we think companies should be profitable that way you can be control of your own destiny that's a big part of us you know Cleveland was all about ownership and being in control um so yeah I mean we're excited I think we've got a lot of momentum as a business now's a great time for us to go public especially as we move up in the Enterprise like Ed said and uh I think for other companies that you know we just if you want it if you have durable growth I think the markets are always

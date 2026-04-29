@@ -1,0 +1,22 @@
+---
+type: youtube_transcript
+ticker: SNOW
+title: "Last Quarter of 2025 | Snowflake, Zoom, Gartner Analysis"
+channel: "US Stock Stories"
+date: 2026-04-07
+video_id: VBqp8OQm4tc
+url: https://www.youtube.com/watch?v=VBqp8OQm4tc
+transcript_method: youtube-transcript-api
+credibility: S2
+evidence: E2
+---
+
+# Last Quarter of 2025 | Snowflake, Zoom, Gartner Analysis
+
+**Channel**: US Stock Stories  
+**Date**: 2026-04-07  
+**URL**: https://www.youtube.com/watch?v=VBqp8OQm4tc
+
+## Transcript
+
+Hi, I'm Emily. Today we're going to take a close look at three stocks that are catching investors attention in the last quarter of 2025. Snowflake, Zoom, and Gartner. Each of these companies plays a big role in the tech world, and all of them bring different opportunities to the table. Let's dive in. Let's start with Snowflake. Its current share price is around $225. According to Investing Pro, its fair value is closer to $200 in which makes it look a little expensive, but analysts see things differently. Their target is $270, which means about a 20% upside potential. Snowflake has completely reshaped how data is managed, moving beyond traditional databases to cloud-based storage, processing, and analytics. It's especially valuable for artificial intelligence projects since AI models thrive on largecale data. Global banks, retail giants, and top tech firms all rely on Snowflake. Recently, Snowflake has pushed deeper into the AI space. It's positioning its platform not just for data storage, but also as an engine to feed machine learning and AI models. that makes its growth story even more compelling. There is a risk though. Snowflake still struggles with profitability. Heavy R&D spending and growth focused investments mean higher short-term costs. My take, as we head into the last quarter of 2025, Snowflake may look pricey, but with its AI narrative, it's still one of the strongest long-term bets. Now, let's talk about Zoom. Its stock trades at around $82 right now. Investing Pro lists its fair value at $118. That's a 43% upside potential. Analysts are a bit more conservative with a target of $92. We all know Zoom from the pandemic boom when it became a household name. Since then, demand has fallen back and the stock price followed. The big question now is, can Zoom make a comeback? Zoom is trying to answer that by broadening its product lineup. It's no longer just about video calls. Now they offer Zoom phone, Zoom events, AI powered meeting tools and collaboration platforms. They're positioning themselves to compete directly with Microsoft Teams and Google Meet, especially for corporate clients. Another strength is their strong cash reserves. They have plenty of room to invest, innovate, or even make acquisitions. Risks remain, of course, the competition is fierce, and some users have already moved away from Zoom post pandemic. Still, as we move into Q4 2025, its undervaluation gives it the appeal of a turnaround stock. My take, Zoom may never return to its pandemic peak, but with solid financials and new products, it has a real chance to rebound in this period. Finally, let's look at Gartner. The stock trades at about $262 with a fair value of $312 according to Investing Pro. That's a 19% upside potential. Analysts put their target a bit lower at $286. So, what does Gartner do? Gartner is essentially a research and advisory powerhouse. It helps companies decide where to invest in technology. From AI to cloud to cyber security, Gartner publishes the reports and insights that big corporations rely on before they commit millions or even billions in new tech spending. Think of it this way. Before a bank invests in AI or before a software company chooses its cloud strategy, they consult Gartner's research. That makes Gartner a hidden but powerful influencer in the tech world. Financially, Gartner is also in a strong position. Steady cash flows, long-term client contracts, and high profit margins. My view, Gartner rarely makes headlines, but heading into Q4 2025, it looks undervalued and has the strength to surprise investors. It's a quiet but solid opportunity. So, there you have it. Snowflake, Zoom, and Gartner. Three companies, three different stories. Snowflake is the growth engine of AI and cloud. Zoom is a comeback story in progress. and Gartner is the quiet adviser behind the scenes of global tech investments. Which of these do you think will perform the best in the last quarter of 2025? Let me know in the comments. I'm Emily and I'll see you in the next

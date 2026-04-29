@@ -1,0 +1,26 @@
+holder,date_reported,shares,shares_change,shares_change_percent,market_value_000s,source_url,source
+Fmr Llc,12/31/2025,"21,466,285","-368,204",-1.686%,"$21,249,476",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Vanguard Group Inc,12/31/2025,"16,976,485","-584,907",-3.331%,"$16,805,023",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Blackrock, Inc.",12/31/2025,"9,624,416","-6,418,316",-40.008%,"$9,527,209",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+State Street Corp,12/31/2025,"5,281,522","904,933",20.677%,"$5,228,179",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Geode Capital Management, Llc",12/31/2025,"3,655,860","1,133,276",44.925%,"$3,618,936",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Arrowstreet Capital, Limited Partnership",12/31/2025,"3,478,002","828,332",31.262%,"$3,442,874",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Morgan Stanley,12/31/2025,"2,970,361","199,545",7.202%,"$2,940,360",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Norges Bank,12/31/2025,"2,185,899","435,172",24.857%,"$2,163,821",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"D. E. Shaw & Co., Inc.",12/31/2025,"2,093,003","809,443",63.062%,"$2,071,864",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Bank Of America Corp /De/,12/31/2025,"1,645,125","-52,063",-3.068%,"$1,628,509",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Charles Schwab Investment Management Inc,12/31/2025,"1,642,168","163,416",11.051%,"$1,625,582",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Millennium Management Llc,12/31/2025,"1,499,139","357,902",31.361%,"$1,483,998",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Price T Rowe Associates Inc /Md/,12/31/2025,"1,437,171","-1,870,903",-56.556%,"$1,422,656",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Madison Avenue Partners, Lp",12/31/2025,"1,434,172","-628,349",-30.465%,"$1,419,687",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Invesco Ltd.,12/31/2025,"1,326,405","624,348",88.931%,"$1,313,008",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Polar Capital Holdings Plc,12/31/2025,"1,268,237","-34,286",-2.632%,"$1,255,428",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Renaissance Technologies Llc,12/31/2025,"1,209,000","373,800",44.756%,"$1,196,789",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Aqr Capital Management Llc,12/31/2025,"1,134,574","-318,697",-21.93%,"$1,123,115",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Northern Trust Corp,12/31/2025,"1,133,873","182,112",19.134%,"$1,122,421",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Qube Research & Technologies Ltd,12/31/2025,"1,082,597","1,082,597",New,"$1,071,663",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Evergreen Quality Fund Gp, Ltd.",12/31/2025,"1,077,800","1,077,800",New,"$1,066,914",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Situational Awareness Lp,12/31/2025,"1,054,200","939,200",816.696%,"$1,043,553",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+"Marshall Wace, Llp",12/31/2025,"1,003,700","227,857",29.369%,"$993,563",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Whale Rock Capital Management Llc,12/31/2025,"1,003,566","1,003,566",New,"$993,430",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl
+Dimensional Fund Advisors Lp,12/31/2025,"958,462","66,600",7.468%,"$948,782",https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings,nasdaq_institutional_holdings_api_curl

@@ -1,0 +1,18 @@
+{
+  "video_id": "kxB7dpzVZhI",
+  "title": "Disney & Universal vs. Midjourney: The AI Copyright Clash That Could Change Hollywood Forever!",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:31:04"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:07",
+      "chars": 22967
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:07"
+}

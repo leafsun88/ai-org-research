@@ -1,0 +1,587 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "status": "pass",
+  "checks": {
+    "source_strategy": {
+      "passed": true,
+      "local_skills": 14,
+      "market_guides": 2
+    },
+    "raw_annual_reports": {
+      "passed": true,
+      "count": 2
+    },
+    "annual_report_pdf": {
+      "passed": true,
+      "count": 1,
+      "pdf_paths": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/annual_reports/2025-10-07_ARS_0001628280-25-044483_sndk014126-arsa.pdf"
+      ],
+      "note": "A 10-K HTML or SEC companyfacts JSON is not enough; save a native annual-report PDF when available, such as SEC ARS or IR Download PDF."
+    },
+    "annual_report_pdf_content_identity": {
+      "passed": true,
+      "items": [
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/annual_reports/2025-10-07_ARS_0001628280-25-044483_sndk014126-arsa.pdf",
+          "passed": true,
+          "identity_hits": [
+            "Annual Report",
+            "Form 10-K",
+            "NAND",
+            "SNDK",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "SANDISK Annual report CORPORATE ANNUAL REVIEW ANNUAL REPORT 2025 (2025) UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 FORM 10-K (Mark One) ☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES"
+        }
+      ]
+    },
+    "raw_quarterly_reports": {
+      "passed": true,
+      "count": 3
+    },
+    "raw_prospectus": {
+      "passed": true,
+      "count": 3
+    },
+    "mda_extract": {
+      "passed": true,
+      "files": 1,
+      "bytes": 49322
+    },
+    "mda_content_identity": {
+      "passed": true,
+      "items": [
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/processed/mda/2025_10-K_mda.md",
+          "passed": true,
+          "identity_hits": [
+            "Management",
+            "NAND",
+            "Results of Operations",
+            "SNDK",
+            "SSD",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "--- company: Sandisk ticker: SNDK source_file: companies/sandisk/vault/public_company/raw_filings/annual_reports/2025-08-21_10-K_0002023554-25-000034_sndk-20250627.htm source_url: https://www.sec.gov/Archives/edgar/data/2023554/000202355425"
+        }
+      ]
+    },
+    "earnings_presentations": {
+      "passed": true,
+      "count": 4
+    },
+    "earnings_presentation_content_identity": {
+      "passed": true,
+      "items": [
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q3-FY2025-Earnings-Presentation.pdf",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "SSD",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation",
+            "fiscal",
+            "quarter"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "Fiscal Third Quarter 2025 Financial Results Quarter ended March 28, 2025 Wednesday, May 7, 2025 “START” “REPEAT” “1988/2025” Disclaimers Forward-Looking Statements This presentation contains forward-looking statements within the meaning"
+        },
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q2-FY2026-Earnings-Presentation.pdf",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "SSD",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation",
+            "fiscal",
+            "quarter"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "Fiscal Second Quarter 2026 Financial Results Quarter ended January 2, 2026 January 29, 2026 Disclaimers “START” “REPEAT” “1988/2026” Forward-Looking Statements This presentation contains forward-looking statements within the meaning of"
+        },
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q4-FY2025-Earnings-Presentation.pdf",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "NAND",
+            "SSD",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation",
+            "fiscal",
+            "quarter"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "Fiscal Fourth Quarter 2025 Financial Results Quarter ended June 27, 2025 Thursday, August 14, 2025 “START” “REPEAT” “1988/2025” Disclaimers 00.02 ©2025 SANDISK CORPORATION OR ITS AFFILIATES ALL RIGHTS RESERVED “START” “REPEAT” “1988"
+        },
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q1-FY2026-Earnings-Presentation.pdf",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "NAND",
+            "SSD",
+            "SanDisk",
+            "SanDisk Corporation",
+            "Sandisk",
+            "Sandisk Corporation",
+            "fiscal",
+            "quarter"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "Fiscal First Quarter 2026 Financial Results Quarter ended October 3, 2025 Thursday, November 6, 2025 Disclaimers “START” “REPEAT” “1988/2025” Forward-Looking Statements This presentation contains forward-looking statements within the me"
+        }
+      ]
+    },
+    "earnings_transcripts": {
+      "passed": true,
+      "count": 7,
+      "official_transcript_status": "not_published_on_ir",
+      "fallback_sources": [
+        "https://stockanalysis.com/stocks/sndk/transcripts/",
+        "Motley Fool earnings-call transcripts",
+        "Seeking Alpha earnings-call transcripts",
+        "Investing.com earnings-call transcripts",
+        "ROIC.ai transcripts"
+      ]
+    },
+    "earnings_transcript_content_identity": {
+      "passed": true,
+      "items": [
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q2-2026_transcript.md",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "David Goeckeler",
+            "Luis Visoso",
+            "NAND",
+            "Operator",
+            "SNDK",
+            "SSD",
+            "SanDisk",
+            "Sandisk"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "--- company: Sandisk ticker: SNDK source_url: https://stockanalysis.com/stocks/sndk/transcripts/412639-q2-2026/ source_type: third_party_transcript_fallback provider: StockAnalysis --- # Earnings Call: Q2 2026 Full Transcript AI Summary"
+        },
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q1-2026_transcript.md",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "David Goeckeler",
+            "Luis Visoso",
+            "NAND",
+            "Operator",
+            "SNDK",
+            "SSD",
+            "SanDisk",
+            "Sandisk"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "--- company: Sandisk ticker: SNDK source_url: https://stockanalysis.com/stocks/sndk/transcripts/375374-q1-2026/ source_type: third_party_transcript_fallback provider: StockAnalysis --- # Earnings Call: Q1 2026 Full Transcript AI Summary"
+        },
+        {
+          "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q4-2025_transcript.md",
+          "passed": true,
+          "identity_hits": [
+            "BiCS",
+            "David Goeckeler",
+            "Luis Visoso",
+            "NAND",
+            "Operator",
+            "SNDK",
+            "SSD",
+            "SanDisk",
+            "Sandisk"
+          ],
+          "forbidden_hits": [],
+          "text_chars_checked": 12000,
+          "sample": "--- company: Sandisk ticker: SNDK source_url: https://stockanalysis.com/stocks/sndk/transcripts/343655-q4-2025/ source_type: third_party_transcript_fallback provider: StockAnalysis --- # Earnings Call: Q4 2025 Full Transcript AI Summary"
+        }
+      ]
+    },
+    "annual_statement_schema": {
+      "passed": true,
+      "required_top_level_key": "periods",
+      "rows": 3
+    },
+    "quarterly_statement_schema": {
+      "passed": true,
+      "required_top_level_key": "periods",
+      "rows": 4
+    },
+    "annual_statement_completeness": {
+      "passed": true,
+      "missing": []
+    },
+    "annual_history_coverage": {
+      "passed": true,
+      "expected_years_from_companyfacts": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "actual_income_years": [
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "minimum_required": 3
+    },
+    "annual_statement_density": {
+      "passed": true,
+      "rows": 3,
+      "populated_rows": 3,
+      "required_fields": [
+        "revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "operating_cash_flow",
+        "capital_expenditures"
+      ],
+      "present_required_values": 18,
+      "total_required_values": 18,
+      "density": 1.0,
+      "row_scores": [
+        {
+          "period": "2023",
+          "present_fields": 6,
+          "required_fields": 6,
+          "missing_fields": []
+        },
+        {
+          "period": "2024",
+          "present_fields": 6,
+          "required_fields": 6,
+          "missing_fields": []
+        },
+        {
+          "period": "2025",
+          "present_fields": 6,
+          "required_fields": 6,
+          "missing_fields": []
+        }
+      ],
+      "minimum_required_rows": 3,
+      "minimum_density": 0.8
+    },
+    "quarterly_income_statement": {
+      "passed": true,
+      "rows_with_revenue_and_income": 4
+    },
+    "quarterly_statement_density": {
+      "passed": true,
+      "rows": 4,
+      "populated_rows": 4,
+      "required_fields": [
+        "revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "assets",
+        "liabilities",
+        "cash"
+      ],
+      "present_required_values": 28,
+      "total_required_values": 28,
+      "density": 1.0,
+      "row_scores": [
+        {
+          "period": "2025-Q2",
+          "present_fields": 7,
+          "required_fields": 7,
+          "missing_fields": []
+        },
+        {
+          "period": "2025-Q3",
+          "present_fields": 7,
+          "required_fields": 7,
+          "missing_fields": []
+        },
+        {
+          "period": "2026-Q1",
+          "present_fields": 7,
+          "required_fields": 7,
+          "missing_fields": []
+        },
+        {
+          "period": "2026-Q2",
+          "present_fields": 7,
+          "required_fields": 7,
+          "missing_fields": []
+        }
+      ],
+      "minimum_required_rows": 2,
+      "minimum_density": 0.7
+    },
+    "market_data_price_history": {
+      "passed": true,
+      "rows": 300,
+      "minimum_rows": 60
+    },
+    "market_cap_confidence": {
+      "passed": true,
+      "confidence": "medium",
+      "source": "stockanalysis_statistics_page"
+    },
+    "valuation_snapshot_density": {
+      "passed": true,
+      "missing": [],
+      "required": [
+        "last_price",
+        "shares_outstanding",
+        "market_cap",
+        "enterprise_value",
+        "currency",
+        "market_cap_source"
+      ]
+    },
+    "peer_multiples": {
+      "passed": true,
+      "peers": 4,
+      "peers_with_multiples": 3
+    },
+    "insider_forms": {
+      "passed": true,
+      "count": 92
+    },
+    "institutional_holders": {
+      "passed": true,
+      "count": 25,
+      "note": null
+    },
+    "institutional_holder_density": {
+      "passed": true,
+      "rows": 25,
+      "populated_rows": 25,
+      "required_fields": [
+        "holder",
+        "date_reported",
+        "shares",
+        "source_url"
+      ],
+      "present_required_values": 100,
+      "total_required_values": 100,
+      "density": 1.0,
+      "row_scores": [
+        {
+          "period": "Fmr Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Vanguard Group Inc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Blackrock, Inc.",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "State Street Corp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Geode Capital Management, Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Arrowstreet Capital, Limited Partnership",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Morgan Stanley",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Norges Bank",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "D. E. Shaw & Co., Inc.",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Bank Of America Corp /De/",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Charles Schwab Investment Management Inc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Millennium Management Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Price T Rowe Associates Inc /Md/",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Madison Avenue Partners, Lp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Invesco Ltd.",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Polar Capital Holdings Plc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Renaissance Technologies Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Aqr Capital Management Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Northern Trust Corp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Qube Research & Technologies Ltd",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Evergreen Quality Fund Gp, Ltd.",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Situational Awareness Lp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Marshall Wace, Llp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Whale Rock Capital Management Llc",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        },
+        {
+          "period": "Dimensional Fund Advisors Lp",
+          "present_fields": 4,
+          "required_fields": 4,
+          "missing_fields": []
+        }
+      ],
+      "minimum_required_rows": 10,
+      "minimum_density": 0.8
+    },
+    "investor_views_sources": {
+      "passed": true,
+      "count": 1,
+      "queries": [
+        "SNDK 13F holders",
+        "Sandisk institutional ownership",
+        "Sandisk investor letter",
+        "SNDK hedge fund position",
+        "Sandisk short seller report"
+      ]
+    },
+    "books": {
+      "passed": true,
+      "count": 0,
+      "raw_candidates": 15,
+      "status": "none_found"
+    },
+    "semi_public_scaffold": {
+      "passed": true,
+      "status_files": 10
+    },
+    "semi_public_fetched_sources": {
+      "passed": true,
+      "source_files": 0,
+      "scaffold_only": true
+    },
+    "model_validation": {
+      "passed": true,
+      "status": "pass",
+      "gaps": []
+    }
+  },
+  "gaps": [],
+  "warnings": [
+    "semi_public_scaffold_only_no_original_sources_fetched"
+  ],
+  "updated_at": "2026-04-26T11:40:50"
+}

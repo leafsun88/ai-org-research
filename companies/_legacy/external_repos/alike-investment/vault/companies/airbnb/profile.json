@@ -1,0 +1,10 @@
+{
+  "name": "Airbnb",
+  "ticker": "ABNB",
+  "exchange": "NASDAQ",
+  "market_cap": "$70B",
+  "sector": "住宿平台",
+  "category": "Shopify类",
+  "note": "住宿版Shopify",
+  "created": "2026-04-06"
+}

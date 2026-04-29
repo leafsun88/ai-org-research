@@ -1,0 +1,155 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "ir_url": "https://investor.sandisk.com",
+  "official_transcript_status": "not_published_on_ir",
+  "fallback_transcript_sources": [
+    "https://stockanalysis.com/stocks/sndk/transcripts/",
+    "Motley Fool earnings-call transcripts",
+    "Seeking Alpha earnings-call transcripts",
+    "Investing.com earnings-call transcripts",
+    "ROIC.ai transcripts"
+  ],
+  "links": [
+    {
+      "url": "https://investor.sandisk.com/static-files/1b7ca99b-f84a-4294-9f56-690b32fce69a",
+      "label": "Q2 FY2026 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/a1cf180d-5720-4475-a3cc-345cfc8aab38",
+      "label": "Q1 FY2026 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/0d41325a-6dc9-47f6-9da7-661b97de6826",
+      "label": "Q4 FY2025 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file"
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/28846bc7-9d2c-4587-98d2-32741a623e0f",
+      "label": "Q3 FY2025 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file"
+    }
+  ],
+  "downloaded_presentations": [
+    {
+      "url": "https://investor.sandisk.com/static-files/1b7ca99b-f84a-4294-9f56-690b32fce69a",
+      "label": "Q2 FY2026 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q2-FY2026-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 276789,
+      "content_validation": {
+        "passed": true,
+        "alias_hits": [
+          "BiCS",
+          "SSD",
+          "SanDisk",
+          "SanDisk Corporation",
+          "Sandisk",
+          "Sandisk Corporation"
+        ],
+        "forbidden_hits": [],
+        "text_chars_checked": 12000,
+        "sample": "Fiscal Second Quarter 2026 Financial Results Quarter ended January 2, 2026 January 29, 2026 Disclaimers “START” “REPEAT” “1988/2026” Forward-Looking Statements This presentation contains forward-looking statements within the meaning of U.S. federal securities laws, including, but not limited to, statements regarding expectations for: Sandisk Corporation’s (the “Company’s”) business outlook and operational and financial performance for the fiscal third quarter of 2026 and beyond; the Company’"
+      }
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/a1cf180d-5720-4475-a3cc-345cfc8aab38",
+      "label": "Q1 FY2026 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q1-FY2026-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 458573,
+      "content_validation": {
+        "passed": true,
+        "alias_hits": [
+          "BiCS",
+          "NAND",
+          "SSD",
+          "SanDisk",
+          "SanDisk Corporation",
+          "Sandisk",
+          "Sandisk Corporation"
+        ],
+        "forbidden_hits": [],
+        "text_chars_checked": 12000,
+        "sample": "Fiscal First Quarter 2026 Financial Results Quarter ended October 3, 2025 Thursday, November 6, 2025 Disclaimers “START” “REPEAT” “1988/2025” Forward-Looking Statements This presentation contains forward-looking statements within the meaning of U.S. federal securities laws, including, but not limited to, statements regarding expectations for: Sandisk Corporation’s (the “Company’s”) business outlook and operational and financial performance for the fiscal second quarter of 2026 and beyond; su"
+      }
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/0d41325a-6dc9-47f6-9da7-661b97de6826",
+      "label": "Q4 FY2025 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q4-FY2025-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 951530,
+      "content_validation": {
+        "passed": true,
+        "alias_hits": [
+          "BiCS",
+          "NAND",
+          "SSD",
+          "SanDisk",
+          "SanDisk Corporation",
+          "Sandisk",
+          "Sandisk Corporation"
+        ],
+        "forbidden_hits": [],
+        "text_chars_checked": 12000,
+        "sample": "Fiscal Fourth Quarter 2025 Financial Results Quarter ended June 27, 2025 Thursday, August 14, 2025 “START” “REPEAT” “1988/2025” Disclaimers 00.02 ©2025 SANDISK CORPORATION OR ITS AFFILIATES ALL RIGHTS RESERVED “START” “REPEAT” “1988/2025” Fiscal Fourth Quarter Executive Summary Key Messages • Strong Sequential Financial Performance, Exceeding Revenue and Non-GAAP EPS Guidance • Favorable Supply-Demand Dynamics & Our Strategic Pricing Driving Gross Margin Expansion • Ramping Industry L"
+      }
+    },
+    {
+      "url": "https://investor.sandisk.com/static-files/28846bc7-9d2c-4587-98d2-32741a623e0f",
+      "label": "Q3 FY2025 Earnings Presentation",
+      "page": "config_seed_verified_ir_static_file",
+      "path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Q3-FY2025-Earnings-Presentation.pdf",
+      "content_type": "application/pdf",
+      "bytes": 369160,
+      "content_validation": {
+        "passed": true,
+        "alias_hits": [
+          "BiCS",
+          "SSD",
+          "SanDisk",
+          "SanDisk Corporation",
+          "Sandisk",
+          "Sandisk Corporation"
+        ],
+        "forbidden_hits": [],
+        "text_chars_checked": 12000,
+        "sample": "Fiscal Third Quarter 2025 Financial Results Quarter ended March 28, 2025 Wednesday, May 7, 2025 “START” “REPEAT” “1988/2025” Disclaimers Forward-Looking Statements This presentation contains forward-looking statements within the meaning of federal securities laws, including, but not limited to, statements regarding expectations for: Sandisk Corporation’s (the “Company”) business outlook and operational and financial performance for the fiscal third quarter of 2025 and beyond; demand and mark"
+      }
+    }
+  ],
+  "downloaded_transcripts": [
+    {
+      "label": "Earnings Call: Q2 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/412639-q2-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q2-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q2-2026_transcript.md",
+      "characters": 57299,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "label": "Earnings Call: Q1 2026",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/375374-q1-2026/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q1-2026_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q1-2026_transcript.md",
+      "characters": 54030,
+      "source_type": "third_party_transcript_fallback"
+    },
+    {
+      "label": "Earnings Call: Q4 2025",
+      "source_url": "https://stockanalysis.com/stocks/sndk/transcripts/343655-q4-2025/",
+      "raw_html_path": "companies/sandisk/vault/public_company/raw_filings/earnings_calls/Earnings-Call--Q4-2025_transcript_source.html",
+      "processed_path": "companies/sandisk/vault/public_company/processed/earnings_calls/Earnings-Call--Q4-2025_transcript.md",
+      "characters": 41819,
+      "source_type": "third_party_transcript_fallback"
+    }
+  ],
+  "repair_note": "2026-04-26 manual content audit found prior q4cdn presentation PDFs contained unrelated education-company content; replaced with verified Sandisk IR static-file PDFs and added content identity checks.",
+  "updated_at": "2026-04-26T11:04:07"
+}

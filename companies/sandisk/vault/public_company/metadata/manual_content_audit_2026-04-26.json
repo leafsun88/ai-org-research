@@ -1,0 +1,120 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "date": "2026-04-26",
+  "reviewer": "Codex",
+  "status": "pass_with_warnings",
+  "summary": {
+    "substantive_core_artifacts": true,
+    "repaired_items": [
+      "annual_report_pdf",
+      "earnings_presentations"
+    ],
+    "warnings": [
+      "earnings_transcripts_use_third_party_fallback",
+      "some_statement_history_fields_are_null_but_source_map_exists",
+      "semi_public_scaffold_only",
+      "investor_views_need_original_source_fetch",
+      "books_none_found_with_query_log"
+    ],
+    "blockers": []
+  },
+  "items": [
+    {
+      "category": "annual_report",
+      "status": "repaired_pass",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk", "SNDK", "CIK 0002023554", "Annual Report", "Form 10-K"],
+      "red_flags": ["native annual-report PDF was missing in the first pass because SEC 10-K HTML satisfied the old audit"],
+      "repair_action": "downloaded SEC ARS PDF and added annual_report_pdf audit requirement"
+    },
+    {
+      "category": "quarterly_reports",
+      "status": "pass",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk", "SNDK", "condensed consolidated statements"],
+      "red_flags": [],
+      "repair_action": null
+    },
+    {
+      "category": "prospectus",
+      "status": "pass",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk", "separation", "distribution", "risk factors"],
+      "red_flags": [],
+      "repair_action": null
+    },
+    {
+      "category": "mda_extract",
+      "status": "pass",
+      "substantive_content": true,
+      "identity_hits": ["Management", "Results of Operations", "NAND", "SSD"],
+      "red_flags": [],
+      "repair_action": null
+    },
+    {
+      "category": "earnings_presentations",
+      "status": "repaired_pass",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk Corporation", "Fiscal Quarter", "Datacenter", "Consumer"],
+      "red_flags": ["prior q4cdn PDFs contained unrelated education-company content"],
+      "repair_action": "replaced with verified investor.sandisk.com/static-files PDFs"
+    },
+    {
+      "category": "earnings_transcripts",
+      "status": "pass_warning",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk", "David Goeckeler", "Luis Visoso", "Operator"],
+      "red_flags": ["third_party_transcript_fallback"],
+      "repair_action": "keep source labels; fetch official transcript if IR publishes one later"
+    },
+    {
+      "category": "statements",
+      "status": "pass_warning",
+      "substantive_content": true,
+      "identity_hits": ["source_map", "sec_companyfacts.json"],
+      "red_flags": ["some historical balance-sheet/debt fields are null", "row source fields are null but source_map exists"],
+      "repair_action": "preserve explicit gaps; parse raw filing tables if full historical balance sheets are required"
+    },
+    {
+      "category": "market_data_valuation",
+      "status": "pass_warning",
+      "substantive_content": true,
+      "identity_hits": ["StockAnalysis statistics", "price_history.csv"],
+      "red_flags": ["Yahoo chart endpoint returned HTTP 429 in spot check"],
+      "repair_action": "use StockAnalysis fallback now; try curl/http1.1 or alternate quote APIs on rerun"
+    },
+    {
+      "category": "capital_signals",
+      "status": "pass",
+      "substantive_content": true,
+      "identity_hits": ["Sandisk", "CUSIP", "Form 4", "13G", "Nasdaq holders"],
+      "red_flags": [],
+      "repair_action": null
+    },
+    {
+      "category": "books",
+      "status": "pass_warning",
+      "substantive_content": false,
+      "identity_hits": ["query_log", "raw_candidates"],
+      "red_flags": ["none_found"],
+      "repair_action": "keep none-found status and query log; rerun web/book APIs if new company-specific titles appear"
+    },
+    {
+      "category": "investor_views",
+      "status": "warning",
+      "substantive_content": false,
+      "identity_hits": ["holder tables", "query leads"],
+      "red_flags": ["original_letters_or_interviews_not_fetched"],
+      "repair_action": "run webfetch/agent collection for original fund letters, interviews, and public thesis sources"
+    },
+    {
+      "category": "semi_public",
+      "status": "warning",
+      "substantive_content": false,
+      "identity_hits": ["query_map", "collection_status"],
+      "red_flags": ["scaffold_only"],
+      "repair_action": "run collect/webfetch channels to fetch original URLs/transcripts before treating as source evidence"
+    }
+  ]
+}

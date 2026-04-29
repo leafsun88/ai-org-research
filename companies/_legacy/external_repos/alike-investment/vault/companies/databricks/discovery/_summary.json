@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 24,
+  "total_size_kb": 112,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"_podcast_episodes.json","size_kb":19},{"path":"_collection_report.md","size_kb":3},{"path":"sources/podcasts/2026-02-10_Decoding-Musks-Personnel-Strategy-AI-Economy-Workf.md","size_kb":2},{"path":"sources/podcasts/2025-12-04_E240-xAI-230B-valuation-Databricks-134B-valuation.md","size_kb":1},{"path":"sources/podcasts/2026-02-20_A16Zs-David-George-on-How-Private-and-Public-Marke.md","size_kb":1},{"path":"sources/podcasts/2025-08-21_20VC-Databricks-at-100BN--Chamaths-SPAC-Revival-Pe.md","size_kb":1},{"path":"sources/podcasts/2026-01-09_E242-OpenAI-raise-at-830b-Anthropic-raise-at-350b.md","size_kb":1},{"path":"sources/podcasts/2026-03-19_346-Zuckerberg-Finally-Finds-His-People-They-Are-A.md","size_kb":1},{"path":"sources/podcasts/2025-08-27_Inside-OpenAIs-500B-Valuation--Altimeters-Largest.md","size_kb":1},{"path":"sources/podcasts/2025-06-12_AI-Ads-Hit-the-NBA-Finals--Kalshi-Databricks-Luma.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

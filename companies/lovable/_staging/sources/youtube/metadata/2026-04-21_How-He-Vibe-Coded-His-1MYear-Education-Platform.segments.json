@@ -1,0 +1,2040 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "A2Koc0TNXqA",
+  "url": "https://www.youtube.com/watch?v=A2Koc0TNXqA",
+  "title": "How He Vibe Coded His $1M/Year Education Platform",
+  "channel": "Lovable",
+  "source_queries": [
+    "Lovable AI app builder interview",
+    "Lovable vibe coding",
+    "Lovable.dev interview",
+    "Lovable Labs interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:14:51",
+  "segments": [
+    {
+      "text": "This is Muhammad. He&#39;s a YouTuber with",
+      "duration": 5.2,
+      "offset": 0.4,
+      "lang": "en"
+    },
+    {
+      "text": "over 120,000 subscribers who teaches",
+      "duration": 5.36,
+      "offset": 2.48,
+      "lang": "en"
+    },
+    {
+      "text": "Arabic online. And his online learning",
+      "duration": 3.92,
+      "offset": 5.6,
+      "lang": "en"
+    },
+    {
+      "text": "platform is about to cross more than $1",
+      "duration": 4.4,
+      "offset": 7.84,
+      "lang": "en"
+    },
+    {
+      "text": "million in revenue this year. But here&#39;s",
+      "duration": 4.48,
+      "offset": 9.52,
+      "lang": "en"
+    },
+    {
+      "text": "the thing. He&#39;s not a developer. So for",
+      "duration": 4.0,
+      "offset": 12.24,
+      "lang": "en"
+    },
+    {
+      "text": "2 years, he paid a dev agency to build",
+      "duration": 4.08,
+      "offset": 14.0,
+      "lang": "en"
+    },
+    {
+      "text": "out the platform. And it was really",
+      "duration": 3.68,
+      "offset": 16.24,
+      "lang": "en"
+    },
+    {
+      "text": "frustrating. He couldn&#39;t even access his",
+      "duration": 3.36,
+      "offset": 18.08,
+      "lang": "en"
+    },
+    {
+      "text": "own code base. There was really slow",
+      "duration": 3.2,
+      "offset": 19.92,
+      "lang": "en"
+    },
+    {
+      "text": "back and forth. And he felt like he had",
+      "duration": 4.32,
+      "offset": 21.44,
+      "lang": "en"
+    },
+    {
+      "text": "to accept mediocrity. But eventually he",
+      "duration": 4.4,
+      "offset": 23.12,
+      "lang": "en"
+    },
+    {
+      "text": "found Lovable and decided to build the",
+      "duration": 4.32,
+      "offset": 25.76,
+      "lang": "en"
+    },
+    {
+      "text": "entire platform himself in one month. In",
+      "duration": 4.64,
+      "offset": 27.52,
+      "lang": "en"
+    },
+    {
+      "text": "this video, we&#39;ll dive deep into exactly",
+      "duration": 3.84,
+      "offset": 30.08,
+      "lang": "en"
+    },
+    {
+      "text": "how he did it and the strategies and",
+      "duration": 3.84,
+      "offset": 32.16,
+      "lang": "en"
+    },
+    {
+      "text": "tips he learned on the way and his best",
+      "duration": 6.76,
+      "offset": 33.92,
+      "lang": "en"
+    },
+    {
+      "text": "advice for founders building with AI.",
+      "duration": 4.68,
+      "offset": 36.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m here with Muhammad. Please introduce",
+      "duration": 2.48,
+      "offset": 42.56,
+      "lang": "en"
+    },
+    {
+      "text": "yourself.",
+      "duration": 4.72,
+      "offset": 44.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yes. So my name is Muhammad Alerusi. I",
+      "duration": 8.48,
+      "offset": 45.04,
+      "lang": "en"
+    },
+    {
+      "text": "am most known by being a Arabic teacher",
+      "duration": 6.56,
+      "offset": 49.2,
+      "lang": "en"
+    },
+    {
+      "text": "and the founder of another.com which is",
+      "duration": 4.24,
+      "offset": 53.52,
+      "lang": "en"
+    },
+    {
+      "text": "an online institution that teaches the",
+      "duration": 4.48,
+      "offset": 55.76,
+      "lang": "en"
+    },
+    {
+      "text": "Arabic language to get you to a B2 level",
+      "duration": 5.52,
+      "offset": 57.76,
+      "lang": "en"
+    },
+    {
+      "text": "according to the CFR proficiency levels",
+      "duration": 4.88,
+      "offset": 60.24,
+      "lang": "en"
+    },
+    {
+      "text": "of the UK. And yeah, that&#39;s what I&#39;m",
+      "duration": 3.76,
+      "offset": 63.28,
+      "lang": "en"
+    },
+    {
+      "text": "known for on social media. I have a",
+      "duration": 4.0,
+      "offset": 65.12,
+      "lang": "en"
+    },
+    {
+      "text": "YouTube channel. I am on Instagram as",
+      "duration": 4.32,
+      "offset": 67.04,
+      "lang": "en"
+    },
+    {
+      "text": "well, but mostly on YouTube. And so, uh,",
+      "duration": 3.6,
+      "offset": 69.12,
+      "lang": "en"
+    },
+    {
+      "text": "yeah, that&#39;s my little bio.",
+      "duration": 3.12,
+      "offset": 71.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, you have a course that you created",
+      "duration": 3.36,
+      "offset": 72.72,
+      "lang": "en"
+    },
+    {
+      "text": "and you built this course with the help",
+      "duration": 4.88,
+      "offset": 74.48,
+      "lang": "en"
+    },
+    {
+      "text": "of an agency before. I have well we it&#39;s",
+      "duration": 5.84,
+      "offset": 76.08,
+      "lang": "en"
+    },
+    {
+      "text": "an institute that we run on that we that",
+      "duration": 4.8,
+      "offset": 79.36,
+      "lang": "en"
+    },
+    {
+      "text": "we have online basically and uh we are",
+      "duration": 4.96,
+      "offset": 81.92,
+      "lang": "en"
+    },
+    {
+      "text": "about seven teachers and in an",
+      "duration": 4.56,
+      "offset": 84.16,
+      "lang": "en"
+    },
+    {
+      "text": "operations manager so it&#39;s not a it&#39;s",
+      "duration": 3.84,
+      "offset": 86.88,
+      "lang": "en"
+    },
+    {
+      "text": "not a massive team but we&#39;ve been",
+      "duration": 4.96,
+      "offset": 88.72,
+      "lang": "en"
+    },
+    {
+      "text": "running since 2019 and it all started",
+      "duration": 5.52,
+      "offset": 90.72,
+      "lang": "en"
+    },
+    {
+      "text": "with literally me and and a few students",
+      "duration": 4.32,
+      "offset": 93.68,
+      "lang": "en"
+    },
+    {
+      "text": "and then next thing you know we were a",
+      "duration": 3.6,
+      "offset": 96.24,
+      "lang": "en"
+    },
+    {
+      "text": "few hundred students and then I started",
+      "duration": 4.24,
+      "offset": 98.0,
+      "lang": "en"
+    },
+    {
+      "text": "to build my my team but for Arabic",
+      "duration": 3.84,
+      "offset": 99.84,
+      "lang": "en"
+    },
+    {
+      "text": "language you need a you need a",
+      "duration": 4.56,
+      "offset": 102.24,
+      "lang": "en"
+    },
+    {
+      "text": "scheduleuler you need um a way to to uh",
+      "duration": 4.88,
+      "offset": 103.68,
+      "lang": "en"
+    },
+    {
+      "text": "to have some quizzes to send to the",
+      "duration": 3.92,
+      "offset": 106.8,
+      "lang": "en"
+    },
+    {
+      "text": "students and then an easy way to correct",
+      "duration": 4.0,
+      "offset": 108.56,
+      "lang": "en"
+    },
+    {
+      "text": "those assignments or assessments or",
+      "duration": 3.92,
+      "offset": 110.72,
+      "lang": "en"
+    },
+    {
+      "text": "whatever it might be. So then in the",
+      "duration": 4.96,
+      "offset": 112.56,
+      "lang": "en"
+    },
+    {
+      "text": "beginning of 2023, we wanted to to",
+      "duration": 6.16,
+      "offset": 114.64,
+      "lang": "en"
+    },
+    {
+      "text": "develop our own platform. So I started",
+      "duration": 5.6,
+      "offset": 117.52,
+      "lang": "en"
+    },
+    {
+      "text": "to look into into you know software",
+      "duration": 5.04,
+      "offset": 120.8,
+      "lang": "en"
+    },
+    {
+      "text": "development agencies through my contacts",
+      "duration": 6.0,
+      "offset": 123.12,
+      "lang": "en"
+    },
+    {
+      "text": "and so on and I came across a team that",
+      "duration": 5.28,
+      "offset": 125.84,
+      "lang": "en"
+    },
+    {
+      "text": "uh that was ready to to take on this",
+      "duration": 3.44,
+      "offset": 129.12,
+      "lang": "en"
+    },
+    {
+      "text": "project. signed the contract and then",
+      "duration": 3.76,
+      "offset": 131.12,
+      "lang": "en"
+    },
+    {
+      "text": "for about two years I would say we",
+      "duration": 4.96,
+      "offset": 132.56,
+      "lang": "en"
+    },
+    {
+      "text": "worked together but then um I started to",
+      "duration": 4.8,
+      "offset": 134.88,
+      "lang": "en"
+    },
+    {
+      "text": "realize that we wasn&#39;t moving as fast as",
+      "duration": 3.84,
+      "offset": 137.52,
+      "lang": "en"
+    },
+    {
+      "text": "I would like to and I felt quite",
+      "duration": 4.4,
+      "offset": 139.68,
+      "lang": "en"
+    },
+    {
+      "text": "restricted and as an entrepreneur and",
+      "duration": 4.8,
+      "offset": 141.36,
+      "lang": "en"
+    },
+    {
+      "text": "other entrepreneurs might identify with",
+      "duration": 5.28,
+      "offset": 144.08,
+      "lang": "en"
+    },
+    {
+      "text": "me you most of the times want to have",
+      "duration": 6.16,
+      "offset": 146.16,
+      "lang": "en"
+    },
+    {
+      "text": "full control of what gets deployed and",
+      "duration": 5.04,
+      "offset": 149.36,
+      "lang": "en"
+    },
+    {
+      "text": "how fast and so it was quite inefficient",
+      "duration": 5.36,
+      "offset": 152.32,
+      "lang": "en"
+    },
+    {
+      "text": "and then um that made me want to learn",
+      "duration": 5.2,
+      "offset": 154.4,
+      "lang": "en"
+    },
+    {
+      "text": "software development not from an aspect",
+      "duration": 4.08,
+      "offset": 157.68,
+      "lang": "en"
+    },
+    {
+      "text": "of I&#39;m going to develop I&#39;m going to",
+      "duration": 4.32,
+      "offset": 159.6,
+      "lang": "en"
+    },
+    {
+      "text": "develop it myself, but I wanted to know",
+      "duration": 4.0,
+      "offset": 161.76,
+      "lang": "en"
+    },
+    {
+      "text": "how everything works. I wanted to learn",
+      "duration": 4.0,
+      "offset": 163.92,
+      "lang": "en"
+    },
+    {
+      "text": "the language of uh developers and I",
+      "duration": 5.28,
+      "offset": 165.76,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to to to know what&#39;s going on in",
+      "duration": 6.0,
+      "offset": 167.92,
+      "lang": "en"
+    },
+    {
+      "text": "the in the back end so I can then know",
+      "duration": 5.2,
+      "offset": 171.04,
+      "lang": "en"
+    },
+    {
+      "text": "how to how to speak the same language",
+      "duration": 5.04,
+      "offset": 173.92,
+      "lang": "en"
+    },
+    {
+      "text": "with with developers and and directly",
+      "duration": 4.48,
+      "offset": 176.24,
+      "lang": "en"
+    },
+    {
+      "text": "tell them what to do because I realized",
+      "duration": 3.76,
+      "offset": 178.96,
+      "lang": "en"
+    },
+    {
+      "text": "that uh somebody can develop but might",
+      "duration": 5.04,
+      "offset": 180.72,
+      "lang": "en"
+    },
+    {
+      "text": "not be the best at uh product. And so I",
+      "duration": 4.72,
+      "offset": 182.72,
+      "lang": "en"
+    },
+    {
+      "text": "started to realize that with my creative",
+      "duration": 5.2,
+      "offset": 185.76,
+      "lang": "en"
+    },
+    {
+      "text": "side, I could if I learned what&#39;s going",
+      "duration": 5.68,
+      "offset": 187.44,
+      "lang": "en"
+    },
+    {
+      "text": "on at least perhaps not develop myself,",
+      "duration": 3.84,
+      "offset": 190.96,
+      "lang": "en"
+    },
+    {
+      "text": "but at least know what&#39;s going on. I",
+      "duration": 4.88,
+      "offset": 193.12,
+      "lang": "en"
+    },
+    {
+      "text": "could perhaps direct the developers to",
+      "duration": 6.08,
+      "offset": 194.8,
+      "lang": "en"
+    },
+    {
+      "text": "to find quicker solutions. So in the",
+      "duration": 5.52,
+      "offset": 198.0,
+      "lang": "en"
+    },
+    {
+      "text": "beginning of 2025 I told myself that I",
+      "duration": 4.56,
+      "offset": 200.88,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to become a full stack developer",
+      "duration": 4.72,
+      "offset": 203.52,
+      "lang": "en"
+    },
+    {
+      "text": "and then I came across Lovable and so uh",
+      "duration": 4.8,
+      "offset": 205.44,
+      "lang": "en"
+    },
+    {
+      "text": "I found that uh that Lovable was the",
+      "duration": 3.76,
+      "offset": 208.24,
+      "lang": "en"
+    },
+    {
+      "text": "most user friendly and and to be honest",
+      "duration": 4.8,
+      "offset": 210.24,
+      "lang": "en"
+    },
+    {
+      "text": "what started as um as code vibing which",
+      "duration": 4.72,
+      "offset": 212.0,
+      "lang": "en"
+    },
+    {
+      "text": "I I got to know that this what they call",
+      "duration": 3.84,
+      "offset": 215.04,
+      "lang": "en"
+    },
+    {
+      "text": "it started to become serious. I started",
+      "duration": 3.6,
+      "offset": 216.72,
+      "lang": "en"
+    },
+    {
+      "text": "to play a little bit more and go a",
+      "duration": 2.8,
+      "offset": 218.88,
+      "lang": "en"
+    },
+    {
+      "text": "little bit deeper and and actually",
+      "duration": 3.68,
+      "offset": 220.32,
+      "lang": "en"
+    },
+    {
+      "text": "taking serious reading and using the",
+      "duration": 6.16,
+      "offset": 221.68,
+      "lang": "en"
+    },
+    {
+      "text": "chat as a as an actual learning phase as",
+      "duration": 6.0,
+      "offset": 224.0,
+      "lang": "en"
+    },
+    {
+      "text": "if I&#39;m learning as I&#39;m developing and I",
+      "duration": 4.56,
+      "offset": 227.84,
+      "lang": "en"
+    },
+    {
+      "text": "realized that I could actually develop a",
+      "duration": 4.8,
+      "offset": 230.0,
+      "lang": "en"
+    },
+    {
+      "text": "whole like the whole platform that we",
+      "duration": 4.64,
+      "offset": 232.4,
+      "lang": "en"
+    },
+    {
+      "text": "have in right now that these developers",
+      "duration": 5.44,
+      "offset": 234.8,
+      "lang": "en"
+    },
+    {
+      "text": "developed in 2 years. I got so close to",
+      "duration": 5.84,
+      "offset": 237.04,
+      "lang": "en"
+    },
+    {
+      "text": "what they had developed in two years in",
+      "duration": 4.8,
+      "offset": 240.24,
+      "lang": "en"
+    },
+    {
+      "text": "about a month and yellow gave me the",
+      "duration": 3.92,
+      "offset": 242.88,
+      "lang": "en"
+    },
+    {
+      "text": "belief that it&#39;s possible. And you",
+      "duration": 4.08,
+      "offset": 245.04,
+      "lang": "en"
+    },
+    {
+      "text": "created it on your own in two months and",
+      "duration": 4.16,
+      "offset": 246.8,
+      "lang": "en"
+    },
+    {
+      "text": "without knowing how to program before.",
+      "duration": 3.68,
+      "offset": 249.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I remember even the the number of",
+      "duration": 5.44,
+      "offset": 250.96,
+      "lang": "en"
+    },
+    {
+      "text": "of prompts. I think it was about 3 3,700",
+      "duration": 6.0,
+      "offset": 252.8,
+      "lang": "en"
+    },
+    {
+      "text": "prompts or something like that. And and",
+      "duration": 4.24,
+      "offset": 256.4,
+      "lang": "en"
+    },
+    {
+      "text": "it built it built pretty much everything",
+      "duration": 3.28,
+      "offset": 258.8,
+      "lang": "en"
+    },
+    {
+      "text": "we had in the other in the other",
+      "duration": 3.36,
+      "offset": 260.64,
+      "lang": "en"
+    },
+    {
+      "text": "platform. You know, it allowed me to",
+      "duration": 4.8,
+      "offset": 262.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually reflect my creativity on what",
+      "duration": 4.88,
+      "offset": 264.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m building cuz it&#39;s not the same thing",
+      "duration": 4.16,
+      "offset": 266.88,
+      "lang": "en"
+    },
+    {
+      "text": "if a founder actually builds a product.",
+      "duration": 3.84,
+      "offset": 268.88,
+      "lang": "en"
+    },
+    {
+      "text": "Then if a founder tells somebody to",
+      "duration": 3.84,
+      "offset": 271.04,
+      "lang": "en"
+    },
+    {
+      "text": "build it, there&#39;s so many backs and",
+      "duration": 3.92,
+      "offset": 272.72,
+      "lang": "en"
+    },
+    {
+      "text": "forth that need to go through and so",
+      "duration": 4.08,
+      "offset": 274.88,
+      "lang": "en"
+    },
+    {
+      "text": "many iterations that need to happen for",
+      "duration": 6.32,
+      "offset": 276.64,
+      "lang": "en"
+    },
+    {
+      "text": "that thing to actually become as it was",
+      "duration": 6.0,
+      "offset": 278.96,
+      "lang": "en"
+    },
+    {
+      "text": "in my mind initially before telling the",
+      "duration": 4.24,
+      "offset": 282.96,
+      "lang": "en"
+    },
+    {
+      "text": "developers. I remember before in for a",
+      "duration": 4.56,
+      "offset": 284.96,
+      "lang": "en"
+    },
+    {
+      "text": "feature to ship it with uh with that",
+      "duration": 5.04,
+      "offset": 287.2,
+      "lang": "en"
+    },
+    {
+      "text": "agency could take us easily 2 weeks, 3",
+      "duration": 4.8,
+      "offset": 289.52,
+      "lang": "en"
+    },
+    {
+      "text": "weeks depending on on how difficult that",
+      "duration": 4.24,
+      "offset": 292.24,
+      "lang": "en"
+    },
+    {
+      "text": "that feature was. Right now I I sit down",
+      "duration": 5.36,
+      "offset": 294.32,
+      "lang": "en"
+    },
+    {
+      "text": "for 2 3 days with with lovable and and",
+      "duration": 4.88,
+      "offset": 296.48,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s it. It shipped you were building,",
+      "duration": 3.04,
+      "offset": 299.68,
+      "lang": "en"
+    },
+    {
+      "text": "right? You were just reading the Lovable",
+      "duration": 3.52,
+      "offset": 301.36,
+      "lang": "en"
+    },
+    {
+      "text": "chat and you were becoming involved and",
+      "duration": 3.76,
+      "offset": 302.72,
+      "lang": "en"
+    },
+    {
+      "text": "you you get to learn a bunch of things.",
+      "duration": 3.28,
+      "offset": 304.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Sometimes it would literally be stuck",
+      "duration": 4.08,
+      "offset": 306.48,
+      "lang": "en"
+    },
+    {
+      "text": "because of a very obvious problem like",
+      "duration": 4.8,
+      "offset": 308.16,
+      "lang": "en"
+    },
+    {
+      "text": "for example the RLS policies for",
+      "duration": 4.96,
+      "offset": 310.56,
+      "lang": "en"
+    },
+    {
+      "text": "example. And so it was so obvious that I",
+      "duration": 4.32,
+      "offset": 312.96,
+      "lang": "en"
+    },
+    {
+      "text": "should have done it myself. But because",
+      "duration": 3.28,
+      "offset": 315.52,
+      "lang": "en"
+    },
+    {
+      "text": "I have no knowledge of software",
+      "duration": 3.52,
+      "offset": 317.28,
+      "lang": "en"
+    },
+    {
+      "text": "development, then AI wasn&#39;t even telling",
+      "duration": 4.48,
+      "offset": 318.8,
+      "lang": "en"
+    },
+    {
+      "text": "me. I would have conversations with chat",
+      "duration": 4.48,
+      "offset": 320.8,
+      "lang": "en"
+    },
+    {
+      "text": "about what lovable is telling me and",
+      "duration": 4.56,
+      "offset": 323.28,
+      "lang": "en"
+    },
+    {
+      "text": "asking asking questions and asking to",
+      "duration": 4.88,
+      "offset": 325.28,
+      "lang": "en"
+    },
+    {
+      "text": "explain it to me as if I was a 5year-old",
+      "duration": 4.48,
+      "offset": 327.84,
+      "lang": "en"
+    },
+    {
+      "text": "and all of these backs and forth that",
+      "duration": 3.84,
+      "offset": 330.16,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes for a particular feature it",
+      "duration": 3.92,
+      "offset": 332.32,
+      "lang": "en"
+    },
+    {
+      "text": "would take me two weeks which now it",
+      "duration": 4.56,
+      "offset": 334.0,
+      "lang": "en"
+    },
+    {
+      "text": "might take me just literally 3 hours to",
+      "duration": 4.24,
+      "offset": 336.24,
+      "lang": "en"
+    },
+    {
+      "text": "do. And what I would do is that once I",
+      "duration": 4.16,
+      "offset": 338.56,
+      "lang": "en"
+    },
+    {
+      "text": "get stuck in a in a problem, I would",
+      "duration": 5.04,
+      "offset": 340.48,
+      "lang": "en"
+    },
+    {
+      "text": "then make for myself a reference. So,",
+      "duration": 4.32,
+      "offset": 342.72,
+      "lang": "en"
+    },
+    {
+      "text": "you know, this didn&#39;t work because of",
+      "duration": 3.6,
+      "offset": 345.52,
+      "lang": "en"
+    },
+    {
+      "text": "this and it was related to the RLS",
+      "duration": 3.92,
+      "offset": 347.04,
+      "lang": "en"
+    },
+    {
+      "text": "policies, this this this and then I",
+      "duration": 4.0,
+      "offset": 349.12,
+      "lang": "en"
+    },
+    {
+      "text": "would upload it to the code base and I",
+      "duration": 3.52,
+      "offset": 350.96,
+      "lang": "en"
+    },
+    {
+      "text": "would use it as a reference. I would",
+      "duration": 3.84,
+      "offset": 353.12,
+      "lang": "en"
+    },
+    {
+      "text": "tell the chat read this reference from",
+      "duration": 4.64,
+      "offset": 354.48,
+      "lang": "en"
+    },
+    {
+      "text": "things that I&#39;ve been stuck in the past",
+      "duration": 4.32,
+      "offset": 356.96,
+      "lang": "en"
+    },
+    {
+      "text": "and see if this problem that we are",
+      "duration": 4.24,
+      "offset": 359.12,
+      "lang": "en"
+    },
+    {
+      "text": "having right now is related to any of",
+      "duration": 4.08,
+      "offset": 361.28,
+      "lang": "en"
+    },
+    {
+      "text": "those problems that I had before. I",
+      "duration": 5.04,
+      "offset": 363.36,
+      "lang": "en"
+    },
+    {
+      "text": "started to, you know, every bug, but uh",
+      "duration": 5.84,
+      "offset": 365.36,
+      "lang": "en"
+    },
+    {
+      "text": "but I quite uh I generally enjoy it. I",
+      "duration": 5.84,
+      "offset": 368.4,
+      "lang": "en"
+    },
+    {
+      "text": "enjoy fixing all of these uh bugs and",
+      "duration": 5.6,
+      "offset": 371.2,
+      "lang": "en"
+    },
+    {
+      "text": "and building for myself a like a",
+      "duration": 5.52,
+      "offset": 374.24,
+      "lang": "en"
+    },
+    {
+      "text": "glossery or a encyclopedia of bugs that",
+      "duration": 5.28,
+      "offset": 376.8,
+      "lang": "en"
+    },
+    {
+      "text": "I had in the past and it allows me to",
+      "duration": 4.48,
+      "offset": 379.76,
+      "lang": "en"
+    },
+    {
+      "text": "continue to to develop literally",
+      "duration": 5.04,
+      "offset": 382.08,
+      "lang": "en"
+    },
+    {
+      "text": "whatever I I think of I I I am able to",
+      "duration": 5.04,
+      "offset": 384.24,
+      "lang": "en"
+    },
+    {
+      "text": "to develop it. Were you using custom",
+      "duration": 4.4,
+      "offset": 387.12,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge file or were you like",
+      "duration": 4.4,
+      "offset": 389.28,
+      "lang": "en"
+    },
+    {
+      "text": "uploading it via GitHub or what do you",
+      "duration": 3.84,
+      "offset": 391.52,
+      "lang": "en"
+    },
+    {
+      "text": "mean by uploading it to codebase?",
+      "duration": 4.08,
+      "offset": 393.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, I would go well sometimes I do it",
+      "duration": 4.4,
+      "offset": 395.36,
+      "lang": "en"
+    },
+    {
+      "text": "through the chat on on lovable. I say",
+      "duration": 6.84,
+      "offset": 397.76,
+      "lang": "en"
+    },
+    {
+      "text": "upload this in the as a readme.m",
+      "duration": 4.84,
+      "offset": 399.76,
+      "lang": "en"
+    },
+    {
+      "text": "uh file and sometimes I just directly go",
+      "duration": 4.8,
+      "offset": 404.88,
+      "lang": "en"
+    },
+    {
+      "text": "to GitHub and and upload it myself. you",
+      "duration": 4.32,
+      "offset": 406.96,
+      "lang": "en"
+    },
+    {
+      "text": "have like a stripe integration that I",
+      "duration": 4.08,
+      "offset": 409.68,
+      "lang": "en"
+    },
+    {
+      "text": "would assume the UI that students see",
+      "duration": 4.8,
+      "offset": 411.28,
+      "lang": "en"
+    },
+    {
+      "text": "which is a community then there&#39;s the",
+      "duration": 4.16,
+      "offset": 413.76,
+      "lang": "en"
+    },
+    {
+      "text": "classroom with the videos there&#39;s a",
+      "duration": 4.0,
+      "offset": 416.08,
+      "lang": "en"
+    },
+    {
+      "text": "scheduleuler and they see all the class",
+      "duration": 3.68,
+      "offset": 417.92,
+      "lang": "en"
+    },
+    {
+      "text": "all the classes that they have scheduled",
+      "duration": 4.16,
+      "offset": 420.08,
+      "lang": "en"
+    },
+    {
+      "text": "with their teachers then there is the UI",
+      "duration": 4.72,
+      "offset": 421.6,
+      "lang": "en"
+    },
+    {
+      "text": "for the teachers so the teachers they",
+      "duration": 4.16,
+      "offset": 424.24,
+      "lang": "en"
+    },
+    {
+      "text": "are able to to check assignments and",
+      "duration": 5.36,
+      "offset": 426.32,
+      "lang": "en"
+    },
+    {
+      "text": "send loom videos to to students about",
+      "duration": 5.12,
+      "offset": 428.4,
+      "lang": "en"
+    },
+    {
+      "text": "their assignments and things like that",
+      "duration": 3.36,
+      "offset": 431.68,
+      "lang": "en"
+    },
+    {
+      "text": "they are able to see the community as",
+      "duration": 4.08,
+      "offset": 433.52,
+      "lang": "en"
+    },
+    {
+      "text": "well they are able to to delete or or",
+      "duration": 6.16,
+      "offset": 435.04,
+      "lang": "en"
+    },
+    {
+      "text": "create for certain students classes and",
+      "duration": 6.56,
+      "offset": 437.6,
+      "lang": "en"
+    },
+    {
+      "text": "send them a evergreen link for for",
+      "duration": 4.64,
+      "offset": 441.2,
+      "lang": "en"
+    },
+    {
+      "text": "Google calendar. And then we have the",
+      "duration": 4.4,
+      "offset": 444.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know the the top administration",
+      "duration": 5.04,
+      "offset": 445.84,
+      "lang": "en"
+    },
+    {
+      "text": "which is which is the the you know the",
+      "duration": 4.64,
+      "offset": 448.56,
+      "lang": "en"
+    },
+    {
+      "text": "operations manager and myself as the as",
+      "duration": 4.16,
+      "offset": 450.88,
+      "lang": "en"
+    },
+    {
+      "text": "the founder where we are able to track",
+      "duration": 4.72,
+      "offset": 453.2,
+      "lang": "en"
+    },
+    {
+      "text": "instructor&#39;s efficiency the occupancy",
+      "duration": 4.8,
+      "offset": 455.04,
+      "lang": "en"
+    },
+    {
+      "text": "and how how many students are actually",
+      "duration": 3.76,
+      "offset": 457.92,
+      "lang": "en"
+    },
+    {
+      "text": "booking for the next 3 days. are we",
+      "duration": 3.92,
+      "offset": 459.84,
+      "lang": "en"
+    },
+    {
+      "text": "getting close to 100% occupancy where",
+      "duration": 4.56,
+      "offset": 461.68,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s no more spaces for students to",
+      "duration": 4.88,
+      "offset": 463.76,
+      "lang": "en"
+    },
+    {
+      "text": "book more lessons and so we need to hire",
+      "duration": 4.32,
+      "offset": 466.24,
+      "lang": "en"
+    },
+    {
+      "text": "another another instructor which we this",
+      "duration": 4.0,
+      "offset": 468.64,
+      "lang": "en"
+    },
+    {
+      "text": "by the way was a big bottleneck that I",
+      "duration": 3.44,
+      "offset": 470.56,
+      "lang": "en"
+    },
+    {
+      "text": "was having in my business and I was",
+      "duration": 3.76,
+      "offset": 472.64,
+      "lang": "en"
+    },
+    {
+      "text": "trying to use air table to track all of",
+      "duration": 5.6,
+      "offset": 474.0,
+      "lang": "en"
+    },
+    {
+      "text": "these things through Zapia I had to get",
+      "duration": 5.52,
+      "offset": 476.4,
+      "lang": "en"
+    },
+    {
+      "text": "through Calendarly through Calendarly",
+      "duration": 4.56,
+      "offset": 479.6,
+      "lang": "en"
+    },
+    {
+      "text": "$300 per month by the way Calendarly",
+      "duration": 4.4,
+      "offset": 481.92,
+      "lang": "en"
+    },
+    {
+      "text": "would send data to Zapia which again I",
+      "duration": 4.96,
+      "offset": 484.16,
+      "lang": "en"
+    },
+    {
+      "text": "was paying per zap and then Zapia would",
+      "duration": 6.08,
+      "offset": 486.32,
+      "lang": "en"
+    },
+    {
+      "text": "send to Air Table table which again I I",
+      "duration": 5.36,
+      "offset": 489.12,
+      "lang": "en"
+    },
+    {
+      "text": "used to pay for air table as well. So,",
+      "duration": 3.6,
+      "offset": 492.4,
+      "lang": "en"
+    },
+    {
+      "text": "so now there&#39;s three softwares that I",
+      "duration": 3.52,
+      "offset": 494.48,
+      "lang": "en"
+    },
+    {
+      "text": "used to link all together just to see on",
+      "duration": 4.24,
+      "offset": 496.0,
+      "lang": "en"
+    },
+    {
+      "text": "the interface or of air table what is",
+      "duration": 5.44,
+      "offset": 498.0,
+      "lang": "en"
+    },
+    {
+      "text": "the efficiency of the of the instructors",
+      "duration": 5.6,
+      "offset": 500.24,
+      "lang": "en"
+    },
+    {
+      "text": "let alone the fact that I had to then",
+      "duration": 5.2,
+      "offset": 503.44,
+      "lang": "en"
+    },
+    {
+      "text": "wait for the answer to get a specific",
+      "duration": 5.76,
+      "offset": 505.84,
+      "lang": "en"
+    },
+    {
+      "text": "CSV file or it was just so complicated",
+      "duration": 4.48,
+      "offset": 508.64,
+      "lang": "en"
+    },
+    {
+      "text": "right now I literally just developed",
+      "duration": 4.72,
+      "offset": 511.6,
+      "lang": "en"
+    },
+    {
+      "text": "with lovable in the administration UI",
+      "duration": 5.28,
+      "offset": 513.12,
+      "lang": "en"
+    },
+    {
+      "text": "all the KPIs that I need for instructors",
+      "duration": 3.92,
+      "offset": 516.32,
+      "lang": "en"
+    },
+    {
+      "text": "so that way I know when to hire when to",
+      "duration": 4.48,
+      "offset": 518.4,
+      "lang": "en"
+    },
+    {
+      "text": "when to fire who is efficient who is not",
+      "duration": 4.72,
+      "offset": 520.24,
+      "lang": "en"
+    },
+    {
+      "text": "efficient And and from amongst the",
+      "duration": 4.56,
+      "offset": 522.88,
+      "lang": "en"
+    },
+    {
+      "text": "things that help me the most is like I",
+      "duration": 5.12,
+      "offset": 524.96,
+      "lang": "en"
+    },
+    {
+      "text": "said earlier every time I get stuck into",
+      "duration": 6.16,
+      "offset": 527.44,
+      "lang": "en"
+    },
+    {
+      "text": "a bug I tell myself that every bug is",
+      "duration": 5.84,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "fixable. The second tip it was restore",
+      "duration": 4.88,
+      "offset": 533.6,
+      "lang": "en"
+    },
+    {
+      "text": "feature of lovable so I wouldn&#39;t fear",
+      "duration": 4.16,
+      "offset": 535.92,
+      "lang": "en"
+    },
+    {
+      "text": "developing things because every time I",
+      "duration": 3.92,
+      "offset": 538.48,
+      "lang": "en"
+    },
+    {
+      "text": "would finish a a feature that I came to",
+      "duration": 4.48,
+      "offset": 540.08,
+      "lang": "en"
+    },
+    {
+      "text": "the realization that it works. What I",
+      "duration": 3.28,
+      "offset": 542.4,
+      "lang": "en"
+    },
+    {
+      "text": "would do as soon as a feature is",
+      "duration": 4.16,
+      "offset": 544.56,
+      "lang": "en"
+    },
+    {
+      "text": "finished is I ask chat chip I mean chat",
+      "duration": 7.28,
+      "offset": 545.68,
+      "lang": "en"
+    },
+    {
+      "text": "lovable chat to make a copy pasteable",
+      "duration": 6.24,
+      "offset": 548.72,
+      "lang": "en"
+    },
+    {
+      "text": "reference and copy pasteable",
+      "duration": 5.28,
+      "offset": 552.96,
+      "lang": "en"
+    },
+    {
+      "text": "documentation and to even include the",
+      "duration": 6.64,
+      "offset": 554.96,
+      "lang": "en"
+    },
+    {
+      "text": "code as well of this feature and explain",
+      "duration": 6.4,
+      "offset": 558.24,
+      "lang": "en"
+    },
+    {
+      "text": "to me how it interacts with the",
+      "duration": 4.8,
+      "offset": 561.6,
+      "lang": "en"
+    },
+    {
+      "text": "database. what are the functions and",
+      "duration": 4.16,
+      "offset": 564.64,
+      "lang": "en"
+    },
+    {
+      "text": "what are the the hooks that are used for",
+      "duration": 5.2,
+      "offset": 566.4,
+      "lang": "en"
+    },
+    {
+      "text": "this to to work and what are the RLS",
+      "duration": 5.12,
+      "offset": 568.8,
+      "lang": "en"
+    },
+    {
+      "text": "policies supposed to to be and then give",
+      "duration": 4.96,
+      "offset": 571.6,
+      "lang": "en"
+    },
+    {
+      "text": "me a copy pasteable documentation with",
+      "duration": 6.08,
+      "offset": 573.92,
+      "lang": "en"
+    },
+    {
+      "text": "the code so if I want to I can refer",
+      "duration": 5.6,
+      "offset": 576.56,
+      "lang": "en"
+    },
+    {
+      "text": "back to and and completely build this",
+      "duration": 2.8,
+      "offset": 580.0,
+      "lang": "en"
+    },
+    {
+      "text": "from scratch.",
+      "duration": 2.32,
+      "offset": 582.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; How was the whole transfer process? Was",
+      "duration": 3.76,
+      "offset": 582.8,
+      "lang": "en"
+    },
+    {
+      "text": "that was that hard? And obviously like",
+      "duration": 4.56,
+      "offset": 584.48,
+      "lang": "en"
+    },
+    {
+      "text": "any migration from an app to or from a",
+      "duration": 4.4,
+      "offset": 586.56,
+      "lang": "en"
+    },
+    {
+      "text": "software to another software for your",
+      "duration": 3.44,
+      "offset": 589.04,
+      "lang": "en"
+    },
+    {
+      "text": "for your customers is going to be a",
+      "duration": 3.36,
+      "offset": 590.96,
+      "lang": "en"
+    },
+    {
+      "text": "little a little bit of a headache. But",
+      "duration": 4.8,
+      "offset": 592.48,
+      "lang": "en"
+    },
+    {
+      "text": "what I did is I basically created an an",
+      "duration": 5.6,
+      "offset": 594.32,
+      "lang": "en"
+    },
+    {
+      "text": "on boarding process with lovable and",
+      "duration": 5.76,
+      "offset": 597.28,
+      "lang": "en"
+    },
+    {
+      "text": "this one was the the smoothest from the",
+      "duration": 5.28,
+      "offset": 599.92,
+      "lang": "en"
+    },
+    {
+      "text": "history of our business. How you built",
+      "duration": 4.16,
+      "offset": 603.04,
+      "lang": "en"
+    },
+    {
+      "text": "your business in terms of like",
+      "duration": 3.6,
+      "offset": 605.2,
+      "lang": "en"
+    },
+    {
+      "text": "marketing. How did you grow your YouTube",
+      "duration": 4.0,
+      "offset": 607.2,
+      "lang": "en"
+    },
+    {
+      "text": "channel? Please share how you yeah grew",
+      "duration": 3.28,
+      "offset": 608.8,
+      "lang": "en"
+    },
+    {
+      "text": "your audience.",
+      "duration": 3.76,
+      "offset": 611.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Me personally I I am a big advocate of a",
+      "duration": 4.96,
+      "offset": 612.08,
+      "lang": "en"
+    },
+    {
+      "text": "of a personal branding. personal brand",
+      "duration": 3.92,
+      "offset": 614.96,
+      "lang": "en"
+    },
+    {
+      "text": "to me and and having a an audience",
+      "duration": 4.08,
+      "offset": 617.04,
+      "lang": "en"
+    },
+    {
+      "text": "around your name and you being known for",
+      "duration": 4.96,
+      "offset": 618.88,
+      "lang": "en"
+    },
+    {
+      "text": "a particular scale or for a particular",
+      "duration": 4.72,
+      "offset": 621.12,
+      "lang": "en"
+    },
+    {
+      "text": "in a particular niche. You know, as they",
+      "duration": 3.84,
+      "offset": 623.84,
+      "lang": "en"
+    },
+    {
+      "text": "say, there&#39;s no niche that is too small",
+      "duration": 3.92,
+      "offset": 625.84,
+      "lang": "en"
+    },
+    {
+      "text": "if it&#39;s your niche. And so when you are",
+      "duration": 4.0,
+      "offset": 627.68,
+      "lang": "en"
+    },
+    {
+      "text": "the face of the brand and that&#39;s what",
+      "duration": 3.92,
+      "offset": 629.76,
+      "lang": "en"
+    },
+    {
+      "text": "you truly believe or that&#39;s what you",
+      "duration": 3.36,
+      "offset": 631.68,
+      "lang": "en"
+    },
+    {
+      "text": "always talk about and so on and you",
+      "duration": 3.04,
+      "offset": 633.68,
+      "lang": "en"
+    },
+    {
+      "text": "become known for that which me in my",
+      "duration": 4.24,
+      "offset": 635.04,
+      "lang": "en"
+    },
+    {
+      "text": "case is the Arabic language then I mean",
+      "duration": 4.64,
+      "offset": 636.72,
+      "lang": "en"
+    },
+    {
+      "text": "it makes it so easy any any product that",
+      "duration": 5.36,
+      "offset": 639.28,
+      "lang": "en"
+    },
+    {
+      "text": "I launch in that you know is aligned",
+      "duration": 5.28,
+      "offset": 641.36,
+      "lang": "en"
+    },
+    {
+      "text": "with my audience and the interest you",
+      "duration": 4.88,
+      "offset": 644.64,
+      "lang": "en"
+    },
+    {
+      "text": "can make a very quick marketing launch",
+      "duration": 5.36,
+      "offset": 646.64,
+      "lang": "en"
+    },
+    {
+      "text": "around it build some hype and and and",
+      "duration": 4.32,
+      "offset": 649.52,
+      "lang": "en"
+    },
+    {
+      "text": "drop it. So yeah, the way how I did it",
+      "duration": 4.32,
+      "offset": 652.0,
+      "lang": "en"
+    },
+    {
+      "text": "is pretty much just through content.",
+      "duration": 4.56,
+      "offset": 653.84,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s is a numbers game, you know. You",
+      "duration": 4.4,
+      "offset": 656.32,
+      "lang": "en"
+    },
+    {
+      "text": "just have to keep on putting content,",
+      "duration": 3.92,
+      "offset": 658.4,
+      "lang": "en"
+    },
+    {
+      "text": "trying to do joint ventures and",
+      "duration": 3.76,
+      "offset": 660.72,
+      "lang": "en"
+    },
+    {
+      "text": "appearing on podcasts and building your",
+      "duration": 4.72,
+      "offset": 662.32,
+      "lang": "en"
+    },
+    {
+      "text": "email list and just providing value as",
+      "duration": 5.36,
+      "offset": 664.48,
+      "lang": "en"
+    },
+    {
+      "text": "much as as possible and little by little",
+      "duration": 5.76,
+      "offset": 667.04,
+      "lang": "en"
+    },
+    {
+      "text": "it starts to it starts to compound, man.",
+      "duration": 4.8,
+      "offset": 669.84,
+      "lang": "en"
+    },
+    {
+      "text": "How many uh follower how many subs do",
+      "duration": 2.88,
+      "offset": 672.8,
+      "lang": "en"
+    },
+    {
+      "text": "you have on YouTube?",
+      "duration": 4.8,
+      "offset": 674.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; On YouTube we are 120,000 uh subscribers",
+      "duration": 6.48,
+      "offset": 675.68,
+      "lang": "en"
+    },
+    {
+      "text": "now. And soon this year, uh, soon you&#39;re",
+      "duration": 5.28,
+      "offset": 679.44,
+      "lang": "en"
+    },
+    {
+      "text": "about to make seven figures of revenue",
+      "duration": 4.32,
+      "offset": 682.16,
+      "lang": "en"
+    },
+    {
+      "text": "or predicted this year.",
+      "duration": 4.8,
+      "offset": 684.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You&#39;re already close to 700,000. So Q4",
+      "duration": 4.96,
+      "offset": 686.48,
+      "lang": "en"
+    },
+    {
+      "text": "is probably going to going to be the the",
+      "duration": 5.6,
+      "offset": 689.52,
+      "lang": "en"
+    },
+    {
+      "text": "rest of the 300,000 left for the 1",
+      "duration": 5.52,
+      "offset": 691.44,
+      "lang": "en"
+    },
+    {
+      "text": "million and hopefully we can, you know,",
+      "duration": 5.52,
+      "offset": 695.12,
+      "lang": "en"
+    },
+    {
+      "text": "prepare some type of boost of sales for",
+      "duration": 6.64,
+      "offset": 696.96,
+      "lang": "en"
+    },
+    {
+      "text": "the for Q4. So yeah, I&#39;m confident we",
+      "duration": 4.16,
+      "offset": 700.64,
+      "lang": "en"
+    },
+    {
+      "text": "going to cross figures.",
+      "duration": 2.72,
+      "offset": 703.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, it needs to be the right audience,",
+      "duration": 3.36,
+      "offset": 704.8,
+      "lang": "en"
+    },
+    {
+      "text": "right? Really, really right fit. Do you",
+      "duration": 3.52,
+      "offset": 706.32,
+      "lang": "en"
+    },
+    {
+      "text": "have any tips on that? Every time I make",
+      "duration": 3.84,
+      "offset": 708.16,
+      "lang": "en"
+    },
+    {
+      "text": "content myself, I think the person that",
+      "duration": 4.64,
+      "offset": 709.84,
+      "lang": "en"
+    },
+    {
+      "text": "that would watch this is the person that",
+      "duration": 4.88,
+      "offset": 712.0,
+      "lang": "en"
+    },
+    {
+      "text": "um that would probably want to join our",
+      "duration": 4.0,
+      "offset": 714.48,
+      "lang": "en"
+    },
+    {
+      "text": "course and learn the Arabic language.",
+      "duration": 3.76,
+      "offset": 716.88,
+      "lang": "en"
+    },
+    {
+      "text": "And if so, then I create the content. If",
+      "duration": 4.24,
+      "offset": 718.48,
+      "lang": "en"
+    },
+    {
+      "text": "not, then then it doesn&#39;t align with my",
+      "duration": 2.96,
+      "offset": 720.64,
+      "lang": "en"
+    },
+    {
+      "text": "brand basically.",
+      "duration": 2.08,
+      "offset": 722.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Is there anything else you would like to",
+      "duration": 2.88,
+      "offset": 723.6,
+      "lang": "en"
+    },
+    {
+      "text": "say to the audience out there who are",
+      "duration": 2.88,
+      "offset": 724.8,
+      "lang": "en"
+    },
+    {
+      "text": "watching this video?",
+      "duration": 2.96,
+      "offset": 726.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, so you know, that&#39;s my advice when I",
+      "duration": 3.68,
+      "offset": 727.68,
+      "lang": "en"
+    },
+    {
+      "text": "see now entrepreneurs in my",
+      "duration": 3.12,
+      "offset": 729.44,
+      "lang": "en"
+    },
+    {
+      "text": "surroundings. I told them, you know,",
+      "duration": 3.04,
+      "offset": 731.36,
+      "lang": "en"
+    },
+    {
+      "text": "like you got to start you got to start",
+      "duration": 3.36,
+      "offset": 732.56,
+      "lang": "en"
+    },
+    {
+      "text": "using Lovable, man. you guys start",
+      "duration": 4.0,
+      "offset": 734.4,
+      "lang": "en"
+    },
+    {
+      "text": "building your your own uh your own",
+      "duration": 4.32,
+      "offset": 735.92,
+      "lang": "en"
+    },
+    {
+      "text": "products and putting out there in the in",
+      "duration": 3.6,
+      "offset": 738.4,
+      "lang": "en"
+    },
+    {
+      "text": "the market and perhaps even even sell",
+      "duration": 2.32,
+      "offset": 740.24,
+      "lang": "en"
+    },
+    {
+      "text": "them",
+      "duration": 2.72,
+      "offset": 742.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; for sure. Might even listen to the",
+      "duration": 4.08,
+      "offset": 742.56,
+      "lang": "en"
+    },
+    {
+      "text": "listen to the audio see what they say",
+      "duration": 3.28,
+      "offset": 744.72,
+      "lang": "en"
+    },
+    {
+      "text": "and where can the viewers find you",
+      "duration": 1.92,
+      "offset": 746.64,
+      "lang": "en"
+    },
+    {
+      "text": "online?",
+      "duration": 3.04,
+      "offset": 748.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah, so is Muhammad Muhammad and Anderi",
+      "duration": 6.16,
+      "offset": 748.56,
+      "lang": "en"
+    },
+    {
+      "text": "on uh on all all social media channels",
+      "duration": 5.84,
+      "offset": 751.04,
+      "lang": "en"
+    },
+    {
+      "text": "pretty much and yeah my institute is",
+      "duration": 4.48,
+      "offset": 754.72,
+      "lang": "en"
+    },
+    {
+      "text": "andaloo institute. Uh yeah, you can",
+      "duration": 4.72,
+      "offset": 756.88,
+      "lang": "en"
+    },
+    {
+      "text": "check it out and on Google and uh it",
+      "duration": 3.6,
+      "offset": 759.2,
+      "lang": "en"
+    },
+    {
+      "text": "will lead you to the right place",
+      "duration": 3.44,
+      "offset": 761.6,
+      "lang": "en"
+    },
+    {
+      "text": "hopefully.",
+      "duration": 2.24,
+      "offset": 762.8,
+      "lang": "en"
+    }
+  ]
+}

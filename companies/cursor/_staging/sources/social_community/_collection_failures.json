@@ -1,0 +1,30 @@
+[
+  {
+    "status": "failed",
+    "url": "https://forum.cursor.com/",
+    "title": "forum.cursor.com",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/cursor/",
+    "title": "cursor",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://news.ycombinator.com/item?id=44039203",
+    "title": "item?id=44039203",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://news.ycombinator.com/item?id=44677455",
+    "title": "item?id=44677455",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

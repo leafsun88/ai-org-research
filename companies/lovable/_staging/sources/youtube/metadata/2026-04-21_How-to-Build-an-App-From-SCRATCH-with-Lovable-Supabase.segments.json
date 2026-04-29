@@ -1,0 +1,5278 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "zA5kv1P_p7I",
+  "url": "https://www.youtube.com/watch?v=zA5kv1P_p7I",
+  "title": "How to Build an App From SCRATCH with Lovable + Supabase",
+  "channel": "Christian Peverelli - WeAreNoCode",
+  "source_queries": [
+    "Lovable Agent product demo",
+    "Lovable enterprise AI app builder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:16:46",
+  "segments": [
+    {
+      "text": "What if I told you that you can build",
+      "duration": 4.72,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "your own app from scratch without any",
+      "duration": 4.56,
+      "offset": 1.92,
+      "lang": "en"
+    },
+    {
+      "text": "coding knowledge and without any",
+      "duration": 3.12,
+      "offset": 4.8,
+      "lang": "en"
+    },
+    {
+      "text": "experience? You&#39;d probably say I&#39;m",
+      "duration": 3.28,
+      "offset": 6.48,
+      "lang": "en"
+    },
+    {
+      "text": "crazy. Well, to prove it to you over the",
+      "duration": 3.28,
+      "offset": 7.92,
+      "lang": "en"
+    },
+    {
+      "text": "next 60 minutes, I&#39;m going to be doing",
+      "duration": 4.48,
+      "offset": 9.76,
+      "lang": "en"
+    },
+    {
+      "text": "exactly that with two of my favorite AI",
+      "duration": 6.16,
+      "offset": 11.2,
+      "lang": "en"
+    },
+    {
+      "text": "coding tools, Lovable and Superbase. And",
+      "duration": 4.88,
+      "offset": 14.24,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to be breaking down every step",
+      "duration": 3.84,
+      "offset": 17.36,
+      "lang": "en"
+    },
+    {
+      "text": "of the process. Building the app,",
+      "duration": 4.36,
+      "offset": 19.12,
+      "lang": "en"
+    },
+    {
+      "text": "connecting it to the database, creating",
+      "duration": 4.24,
+      "offset": 21.2,
+      "lang": "en"
+    },
+    {
+      "text": "authentication, and then connecting it",
+      "duration": 3.96,
+      "offset": 23.48,
+      "lang": "en"
+    },
+    {
+      "text": "to a custom domain. And of course, I&#39;m",
+      "duration": 3.92,
+      "offset": 25.44,
+      "lang": "en"
+    },
+    {
+      "text": "going to sprinkle in a little bit of AI",
+      "duration": 3.68,
+      "offset": 27.44,
+      "lang": "en"
+    },
+    {
+      "text": "as well. And because we have so much to",
+      "duration": 3.76,
+      "offset": 29.36,
+      "lang": "en"
+    },
+    {
+      "text": "cover, let&#39;s jump straight in. Okay, so",
+      "duration": 3.36,
+      "offset": 31.12,
+      "lang": "en"
+    },
+    {
+      "text": "first off, what are we actually going to",
+      "duration": 2.96,
+      "offset": 33.12,
+      "lang": "en"
+    },
+    {
+      "text": "be building? Well, before building We",
+      "duration": 3.36,
+      "offset": 34.48,
+      "lang": "en"
+    },
+    {
+      "text": "Are No Code, I was actually the director",
+      "duration": 3.52,
+      "offset": 36.08,
+      "lang": "en"
+    },
+    {
+      "text": "of a startup accelerator program here",
+      "duration": 3.84,
+      "offset": 37.84,
+      "lang": "en"
+    },
+    {
+      "text": "based in LA. And I used to train",
+      "duration": 3.84,
+      "offset": 39.6,
+      "lang": "en"
+    },
+    {
+      "text": "founders and then we would help them",
+      "duration": 4.08,
+      "offset": 41.68,
+      "lang": "en"
+    },
+    {
+      "text": "pitch on stage at Google to raise money",
+      "duration": 3.92,
+      "offset": 43.44,
+      "lang": "en"
+    },
+    {
+      "text": "from investors. And so, as part of that",
+      "duration": 3.36,
+      "offset": 45.76,
+      "lang": "en"
+    },
+    {
+      "text": "role, I was often invited to come and",
+      "duration": 3.84,
+      "offset": 47.36,
+      "lang": "en"
+    },
+    {
+      "text": "speak on panels at startup events. And I",
+      "duration": 3.76,
+      "offset": 49.12,
+      "lang": "en"
+    },
+    {
+      "text": "remember this one event called Tectonic.",
+      "duration": 3.44,
+      "offset": 51.2,
+      "lang": "en"
+    },
+    {
+      "text": "As soon as I stepped off stage, I had a",
+      "duration": 3.52,
+      "offset": 52.88,
+      "lang": "en"
+    },
+    {
+      "text": "bunch of founders who lined up to come",
+      "duration": 3.04,
+      "offset": 54.64,
+      "lang": "en"
+    },
+    {
+      "text": "talk to me. And each one of these",
+      "duration": 2.4,
+      "offset": 56.4,
+      "lang": "en"
+    },
+    {
+      "text": "founders was pitching me on their",
+      "duration": 3.36,
+      "offset": 57.68,
+      "lang": "en"
+    },
+    {
+      "text": "startup idea. But I&#39;ll never forget when",
+      "duration": 4.32,
+      "offset": 58.8,
+      "lang": "en"
+    },
+    {
+      "text": "I left the convention center, I pretty",
+      "duration": 4.0,
+      "offset": 61.04,
+      "lang": "en"
+    },
+    {
+      "text": "much didn&#39;t remember 90% of what these",
+      "duration": 3.52,
+      "offset": 63.12,
+      "lang": "en"
+    },
+    {
+      "text": "companies actually did. And that&#39;s",
+      "duration": 3.44,
+      "offset": 65.04,
+      "lang": "en"
+    },
+    {
+      "text": "because they would just deliver a huge",
+      "duration": 3.6,
+      "offset": 66.64,
+      "lang": "en"
+    },
+    {
+      "text": "wall of information. And that&#39;s because",
+      "duration": 3.28,
+      "offset": 68.48,
+      "lang": "en"
+    },
+    {
+      "text": "they didn&#39;t have experience pitching.",
+      "duration": 3.68,
+      "offset": 70.24,
+      "lang": "en"
+    },
+    {
+      "text": "And so I had the idea to transform a",
+      "duration": 4.08,
+      "offset": 71.76,
+      "lang": "en"
+    },
+    {
+      "text": "founder&#39;s voice talking about what",
+      "duration": 4.8,
+      "offset": 73.92,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re doing into a highly optimized",
+      "duration": 5.92,
+      "offset": 75.84,
+      "lang": "en"
+    },
+    {
+      "text": "oneliner and a pitch deck structure. And",
+      "duration": 4.88,
+      "offset": 78.72,
+      "lang": "en"
+    },
+    {
+      "text": "so it&#39;s basically your AI pitch mentor",
+      "duration": 3.92,
+      "offset": 81.76,
+      "lang": "en"
+    },
+    {
+      "text": "who&#39;s trained on the best practices for",
+      "duration": 3.76,
+      "offset": 83.6,
+      "lang": "en"
+    },
+    {
+      "text": "pitches. And now that we have the idea,",
+      "duration": 3.2,
+      "offset": 85.68,
+      "lang": "en"
+    },
+    {
+      "text": "my friends, it&#39;s time to jump into the",
+      "duration": 3.36,
+      "offset": 87.36,
+      "lang": "en"
+    },
+    {
+      "text": "build. This, my friends, is lovable. And",
+      "duration": 4.08,
+      "offset": 88.88,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not going to lie, I love it. It&#39;s",
+      "duration": 4.4,
+      "offset": 90.72,
+      "lang": "en"
+    },
+    {
+      "text": "basically an AI coding platform where",
+      "duration": 3.68,
+      "offset": 92.96,
+      "lang": "en"
+    },
+    {
+      "text": "you can just type in a prompt and it&#39;s",
+      "duration": 3.28,
+      "offset": 95.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to build out an entire app. In",
+      "duration": 3.6,
+      "offset": 96.64,
+      "lang": "en"
+    },
+    {
+      "text": "fact, it&#39;s so powerful that you need to",
+      "duration": 3.44,
+      "offset": 98.4,
+      "lang": "en"
+    },
+    {
+      "text": "kind of contain it sometimes because the",
+      "duration": 3.84,
+      "offset": 100.24,
+      "lang": "en"
+    },
+    {
+      "text": "latest models are really ambitious. And",
+      "duration": 3.28,
+      "offset": 101.84,
+      "lang": "en"
+    },
+    {
+      "text": "remember that everything that you build",
+      "duration": 2.4,
+      "offset": 104.08,
+      "lang": "en"
+    },
+    {
+      "text": "on the front end, you&#39;re going to need",
+      "duration": 3.28,
+      "offset": 105.12,
+      "lang": "en"
+    },
+    {
+      "text": "to implement on the back end. and we&#39;re",
+      "duration": 3.44,
+      "offset": 106.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to talk about that other amazing",
+      "duration": 3.76,
+      "offset": 108.4,
+      "lang": "en"
+    },
+    {
+      "text": "tool, Superbase, in just a moment. The",
+      "duration": 3.84,
+      "offset": 109.92,
+      "lang": "en"
+    },
+    {
+      "text": "first thing I&#39;ll do is create a first",
+      "duration": 3.36,
+      "offset": 112.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt for lovable. So, how am I",
+      "duration": 3.2,
+      "offset": 113.76,
+      "lang": "en"
+    },
+    {
+      "text": "actually going to create this prompt?",
+      "duration": 2.64,
+      "offset": 115.52,
+      "lang": "en"
+    },
+    {
+      "text": "So, the first thing I wrote here is",
+      "duration": 3.36,
+      "offset": 116.96,
+      "lang": "en"
+    },
+    {
+      "text": "build an app that transforms an audio",
+      "duration": 3.92,
+      "offset": 118.16,
+      "lang": "en"
+    },
+    {
+      "text": "recording of a founder talking about",
+      "duration": 4.08,
+      "offset": 120.32,
+      "lang": "en"
+    },
+    {
+      "text": "their idea into a highly optimized",
+      "duration": 4.96,
+      "offset": 122.08,
+      "lang": "en"
+    },
+    {
+      "text": "oneliner and a pitch deck structure. So,",
+      "duration": 3.76,
+      "offset": 124.4,
+      "lang": "en"
+    },
+    {
+      "text": "the next part of my prompt is going to",
+      "duration": 2.8,
+      "offset": 127.04,
+      "lang": "en"
+    },
+    {
+      "text": "be telling it what a user should be able",
+      "duration": 3.76,
+      "offset": 128.16,
+      "lang": "en"
+    },
+    {
+      "text": "to do. A user should be able to record",
+      "duration": 4.4,
+      "offset": 129.84,
+      "lang": "en"
+    },
+    {
+      "text": "their voice talking about their idea and",
+      "duration": 4.48,
+      "offset": 131.92,
+      "lang": "en"
+    },
+    {
+      "text": "have AI create one result that includes",
+      "duration": 4.96,
+      "offset": 134.24,
+      "lang": "en"
+    },
+    {
+      "text": "the oneliner and pitch deck structure",
+      "duration": 5.2,
+      "offset": 136.4,
+      "lang": "en"
+    },
+    {
+      "text": "based on Guy Kawazaki&#39;s pitch deck",
+      "duration": 4.08,
+      "offset": 139.2,
+      "lang": "en"
+    },
+    {
+      "text": "formula. Meaning this should transcribe",
+      "duration": 3.68,
+      "offset": 141.6,
+      "lang": "en"
+    },
+    {
+      "text": "the audio into text, send that text to",
+      "duration": 4.16,
+      "offset": 143.28,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI, and receive the optimized",
+      "duration": 3.6,
+      "offset": 145.28,
+      "lang": "en"
+    },
+    {
+      "text": "version back. And the second thing I&#39;m",
+      "duration": 3.12,
+      "offset": 147.44,
+      "lang": "en"
+    },
+    {
+      "text": "going to put here is the user should",
+      "duration": 3.36,
+      "offset": 148.88,
+      "lang": "en"
+    },
+    {
+      "text": "have access to a library of their",
+      "duration": 3.44,
+      "offset": 150.56,
+      "lang": "en"
+    },
+    {
+      "text": "optimized pitches and should be able to",
+      "duration": 4.48,
+      "offset": 152.24,
+      "lang": "en"
+    },
+    {
+      "text": "edit, delete them once they are created.",
+      "duration": 3.92,
+      "offset": 154.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now, the next thing I&#39;m going to do is",
+      "duration": 2.64,
+      "offset": 156.72,
+      "lang": "en"
+    },
+    {
+      "text": "tell it some of the technologies that",
+      "duration": 2.64,
+      "offset": 157.92,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to be using to build this",
+      "duration": 3.92,
+      "offset": 159.36,
+      "lang": "en"
+    },
+    {
+      "text": "out. So, I will be using OpenAI API and",
+      "duration": 4.64,
+      "offset": 160.56,
+      "lang": "en"
+    },
+    {
+      "text": "Superbase for this project on top of",
+      "duration": 3.68,
+      "offset": 163.28,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. And this is one of my several",
+      "duration": 3.68,
+      "offset": 165.2,
+      "lang": "en"
+    },
+    {
+      "text": "approaches to prompting is to tell it to",
+      "duration": 4.0,
+      "offset": 166.96,
+      "lang": "en"
+    },
+    {
+      "text": "start only with building out the landing",
+      "duration": 4.0,
+      "offset": 168.88,
+      "lang": "en"
+    },
+    {
+      "text": "page and then we&#39;ll build on top of",
+      "duration": 3.76,
+      "offset": 170.96,
+      "lang": "en"
+    },
+    {
+      "text": "that. Please first build only the",
+      "duration": 4.0,
+      "offset": 172.88,
+      "lang": "en"
+    },
+    {
+      "text": "landing page and then we will move on",
+      "duration": 3.6,
+      "offset": 174.72,
+      "lang": "en"
+    },
+    {
+      "text": "from there. And now we&#39;re going to shoot",
+      "duration": 3.28,
+      "offset": 176.88,
+      "lang": "en"
+    },
+    {
+      "text": "that. And look at what happens. This is",
+      "duration": 4.56,
+      "offset": 178.32,
+      "lang": "en"
+    },
+    {
+      "text": "what I love the most is basically seeing",
+      "duration": 4.16,
+      "offset": 180.16,
+      "lang": "en"
+    },
+    {
+      "text": "it interpret everything that you&#39;ve",
+      "duration": 4.32,
+      "offset": 182.88,
+      "lang": "en"
+    },
+    {
+      "text": "done. see it start to spin up a preview",
+      "duration": 5.36,
+      "offset": 184.32,
+      "lang": "en"
+    },
+    {
+      "text": "by actually writing out all of the code",
+      "duration": 4.0,
+      "offset": 187.2,
+      "lang": "en"
+    },
+    {
+      "text": "inside of here. And this is what",
+      "duration": 4.0,
+      "offset": 189.68,
+      "lang": "en"
+    },
+    {
+      "text": "impresses me every single time. Ah,",
+      "duration": 5.04,
+      "offset": 191.2,
+      "lang": "en"
+    },
+    {
+      "text": "isn&#39;t AI coding amazing? Let&#39;s go have a",
+      "duration": 4.48,
+      "offset": 193.68,
+      "lang": "en"
+    },
+    {
+      "text": "little nap. No, this is going to take",
+      "duration": 3.68,
+      "offset": 196.24,
+      "lang": "en"
+    },
+    {
+      "text": "just a couple seconds, so I don&#39;t even",
+      "duration": 3.6,
+      "offset": 198.16,
+      "lang": "en"
+    },
+    {
+      "text": "have time for that. And boom. Just like",
+      "duration": 4.96,
+      "offset": 199.92,
+      "lang": "en"
+    },
+    {
+      "text": "that, we are here. Pitch deck.ai. That&#39;s",
+      "duration": 5.36,
+      "offset": 201.76,
+      "lang": "en"
+    },
+    {
+      "text": "probably taken, but uh let&#39;s go ahead",
+      "duration": 4.88,
+      "offset": 204.88,
+      "lang": "en"
+    },
+    {
+      "text": "and check it out first of all. Um, so as",
+      "duration": 4.4,
+      "offset": 207.12,
+      "lang": "en"
+    },
+    {
+      "text": "we can see here, so this is really cool.",
+      "duration": 3.52,
+      "offset": 209.76,
+      "lang": "en"
+    },
+    {
+      "text": "Transform your startup idea into a",
+      "duration": 4.16,
+      "offset": 211.52,
+      "lang": "en"
+    },
+    {
+      "text": "winning pitch. Record your idea in your",
+      "duration": 4.56,
+      "offset": 213.28,
+      "lang": "en"
+    },
+    {
+      "text": "own words. Our AI turns it into a",
+      "duration": 3.92,
+      "offset": 215.68,
+      "lang": "en"
+    },
+    {
+      "text": "compelling oneliner and pitch deck",
+      "duration": 3.76,
+      "offset": 217.84,
+      "lang": "en"
+    },
+    {
+      "text": "structure based on Geico Kawazaki&#39;s",
+      "duration": 4.4,
+      "offset": 219.6,
+      "lang": "en"
+    },
+    {
+      "text": "proven formula. I love that. And so",
+      "duration": 4.88,
+      "offset": 221.6,
+      "lang": "en"
+    },
+    {
+      "text": "basically it already gives us a an image",
+      "duration": 4.32,
+      "offset": 224.0,
+      "lang": "en"
+    },
+    {
+      "text": "which is really cool. It really",
+      "duration": 3.2,
+      "offset": 226.48,
+      "lang": "en"
+    },
+    {
+      "text": "represents what people will get as an",
+      "duration": 4.0,
+      "offset": 228.32,
+      "lang": "en"
+    },
+    {
+      "text": "outcome. Here come a bit down how it",
+      "duration": 5.68,
+      "offset": 229.68,
+      "lang": "en"
+    },
+    {
+      "text": "works. Record, process, transform. Man,",
+      "duration": 5.04,
+      "offset": 232.32,
+      "lang": "en"
+    },
+    {
+      "text": "this is really really cool. Powerful",
+      "duration": 5.2,
+      "offset": 235.36,
+      "lang": "en"
+    },
+    {
+      "text": "features. Uh love it. and then",
+      "duration": 5.2,
+      "offset": 237.36,
+      "lang": "en"
+    },
+    {
+      "text": "testimonials before a last call to",
+      "duration": 3.52,
+      "offset": 240.56,
+      "lang": "en"
+    },
+    {
+      "text": "action. Well, wow. You know, this has",
+      "duration": 3.44,
+      "offset": 242.56,
+      "lang": "en"
+    },
+    {
+      "text": "already done a really good job here, I",
+      "duration": 4.16,
+      "offset": 244.08,
+      "lang": "en"
+    },
+    {
+      "text": "think. Now, I could take my time to uh",
+      "duration": 3.68,
+      "offset": 246.0,
+      "lang": "en"
+    },
+    {
+      "text": "fine-tune this, but honestly, I&#39;m",
+      "duration": 2.8,
+      "offset": 248.24,
+      "lang": "en"
+    },
+    {
+      "text": "already really happy with the way that",
+      "duration": 2.8,
+      "offset": 249.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s pumped this out. And the one thing",
+      "duration": 3.68,
+      "offset": 251.04,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t like that much is the logo. So,",
+      "duration": 4.08,
+      "offset": 252.48,
+      "lang": "en"
+    },
+    {
+      "text": "let me go ahead and adapt that. Please",
+      "duration": 3.68,
+      "offset": 254.72,
+      "lang": "en"
+    },
+    {
+      "text": "create a tech forward logo and change",
+      "duration": 3.84,
+      "offset": 256.56,
+      "lang": "en"
+    },
+    {
+      "text": "the company name to PitchPal. Let&#39;s go",
+      "duration": 3.56,
+      "offset": 258.4,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and do",
+      "duration": 3.76,
+      "offset": 260.4,
+      "lang": "en"
+    },
+    {
+      "text": "that. Okay, now it&#39;s changed it to",
+      "duration": 3.88,
+      "offset": 261.96,
+      "lang": "en"
+    },
+    {
+      "text": "PitchPal, but I would like for it to",
+      "duration": 3.76,
+      "offset": 264.16,
+      "lang": "en"
+    },
+    {
+      "text": "have an icon. So, I&#39;m gonna go ahead and",
+      "duration": 3.52,
+      "offset": 265.84,
+      "lang": "en"
+    },
+    {
+      "text": "click on this. This is a really great",
+      "duration": 3.68,
+      "offset": 267.92,
+      "lang": "en"
+    },
+    {
+      "text": "feature and we can just basically based",
+      "duration": 6.32,
+      "offset": 269.36,
+      "lang": "en"
+    },
+    {
+      "text": "on that we can have it um adapt. Please",
+      "duration": 11.16,
+      "offset": 271.6,
+      "lang": "en"
+    },
+    {
+      "text": "add a cool icon before the name of the",
+      "duration": 10.96,
+      "offset": 275.68,
+      "lang": "en"
+    },
+    {
+      "text": "company in the",
+      "duration": 3.88,
+      "offset": 282.76,
+      "lang": "en"
+    },
+    {
+      "text": "logo. Boom. Excellent. And now we have",
+      "duration": 3.8,
+      "offset": 288.52,
+      "lang": "en"
+    },
+    {
+      "text": "that little rocket. I like it. Now,",
+      "duration": 2.72,
+      "offset": 290.88,
+      "lang": "en"
+    },
+    {
+      "text": "before I move on to the next step, and",
+      "duration": 3.04,
+      "offset": 292.32,
+      "lang": "en"
+    },
+    {
+      "text": "because I want every single page that&#39;s",
+      "duration": 4.32,
+      "offset": 293.6,
+      "lang": "en"
+    },
+    {
+      "text": "created after this to reflect the design",
+      "duration": 4.88,
+      "offset": 295.36,
+      "lang": "en"
+    },
+    {
+      "text": "elements of my landing page, I&#39;m going",
+      "duration": 3.76,
+      "offset": 297.92,
+      "lang": "en"
+    },
+    {
+      "text": "to change up the design here. And the",
+      "duration": 2.8,
+      "offset": 300.24,
+      "lang": "en"
+    },
+    {
+      "text": "way I like doing this the most is",
+      "duration": 3.04,
+      "offset": 301.68,
+      "lang": "en"
+    },
+    {
+      "text": "actually grabbing some screenshots of",
+      "duration": 3.76,
+      "offset": 303.04,
+      "lang": "en"
+    },
+    {
+      "text": "another website that I really like. So,",
+      "duration": 2.88,
+      "offset": 304.72,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to go and look for",
+      "duration": 2.48,
+      "offset": 306.8,
+      "lang": "en"
+    },
+    {
+      "text": "inspiration. And for that, I usually go",
+      "duration": 3.04,
+      "offset": 307.6,
+      "lang": "en"
+    },
+    {
+      "text": "to a website that has a bunch of",
+      "duration": 3.2,
+      "offset": 309.28,
+      "lang": "en"
+    },
+    {
+      "text": "templates. Awesome. So, I found this",
+      "duration": 3.6,
+      "offset": 310.64,
+      "lang": "en"
+    },
+    {
+      "text": "really cool template. And this is not",
+      "duration": 3.36,
+      "offset": 312.48,
+      "lang": "en"
+    },
+    {
+      "text": "exactly how my website will actually",
+      "duration": 4.24,
+      "offset": 314.24,
+      "lang": "en"
+    },
+    {
+      "text": "look. Uh, but I do want it to follow the",
+      "duration": 4.08,
+      "offset": 315.84,
+      "lang": "en"
+    },
+    {
+      "text": "brand elements. So, what I&#39;m going to do",
+      "duration": 3.76,
+      "offset": 318.48,
+      "lang": "en"
+    },
+    {
+      "text": "is do a couple of screenshots of this.",
+      "duration": 4.4,
+      "offset": 319.92,
+      "lang": "en"
+    },
+    {
+      "text": "So, let me go ahead and just grab the",
+      "duration": 5.28,
+      "offset": 322.24,
+      "lang": "en"
+    },
+    {
+      "text": "overall thing here and then grab this.",
+      "duration": 4.32,
+      "offset": 324.32,
+      "lang": "en"
+    },
+    {
+      "text": "Then I&#39;m going to grab a couple",
+      "duration": 3.36,
+      "offset": 327.52,
+      "lang": "en"
+    },
+    {
+      "text": "additional sections. These cards are a",
+      "duration": 5.44,
+      "offset": 328.64,
+      "lang": "en"
+    },
+    {
+      "text": "good example that I can feed the",
+      "duration": 3.2,
+      "offset": 330.88,
+      "lang": "en"
+    },
+    {
+      "text": "AI. Here&#39;s the pricing plan. And once",
+      "duration": 4.36,
+      "offset": 337.88,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m done with that, I&#39;m going to come",
+      "duration": 3.52,
+      "offset": 341.04,
+      "lang": "en"
+    },
+    {
+      "text": "back inside of my lovable project and",
+      "duration": 5.04,
+      "offset": 342.24,
+      "lang": "en"
+    },
+    {
+      "text": "click on attach. And here I&#39;m basically",
+      "duration": 5.68,
+      "offset": 344.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to attach all of these and I&#39;m",
+      "duration": 5.36,
+      "offset": 347.28,
+      "lang": "en"
+    },
+    {
+      "text": "going to create a prompt. Open it.",
+      "duration": 4.24,
+      "offset": 350.24,
+      "lang": "en"
+    },
+    {
+      "text": "Attaches all of these screenshots. And",
+      "duration": 3.12,
+      "offset": 352.64,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;m going to write a prompt",
+      "duration": 3.28,
+      "offset": 354.48,
+      "lang": "en"
+    },
+    {
+      "text": "underneath it that tells it that I would",
+      "duration": 5.36,
+      "offset": 355.76,
+      "lang": "en"
+    },
+    {
+      "text": "like for this to use the same design",
+      "duration": 6.0,
+      "offset": 357.76,
+      "lang": "en"
+    },
+    {
+      "text": "principles or the brand guidelines.",
+      "duration": 4.48,
+      "offset": 361.12,
+      "lang": "en"
+    },
+    {
+      "text": "Could you make this website dark mode",
+      "duration": 4.32,
+      "offset": 363.76,
+      "lang": "en"
+    },
+    {
+      "text": "and use the same design guidelines as",
+      "duration": 4.8,
+      "offset": 365.6,
+      "lang": "en"
+    },
+    {
+      "text": "the screenshots I just sent you? Please",
+      "duration": 4.32,
+      "offset": 368.08,
+      "lang": "en"
+    },
+    {
+      "text": "do not change any of the content of our",
+      "duration": 4.08,
+      "offset": 370.4,
+      "lang": "en"
+    },
+    {
+      "text": "website, just the design. So now I&#39;m",
+      "duration": 3.44,
+      "offset": 372.4,
+      "lang": "en"
+    },
+    {
+      "text": "going to go ahead and click on that.",
+      "duration": 3.36,
+      "offset": 374.48,
+      "lang": "en"
+    },
+    {
+      "text": "Boom. Okay. And just like that, as we",
+      "duration": 4.0,
+      "offset": 375.84,
+      "lang": "en"
+    },
+    {
+      "text": "can see now there are some little issues",
+      "duration": 4.96,
+      "offset": 377.84,
+      "lang": "en"
+    },
+    {
+      "text": "here. I can easily just change them. But",
+      "duration": 5.88,
+      "offset": 379.84,
+      "lang": "en"
+    },
+    {
+      "text": "now we are going for the dark look. Love",
+      "duration": 6.08,
+      "offset": 382.8,
+      "lang": "en"
+    },
+    {
+      "text": "it. Excellent. Okay, cool. So let&#39;s say",
+      "duration": 4.76,
+      "offset": 385.72,
+      "lang": "en"
+    },
+    {
+      "text": "that now you&#39;re happy with the design of",
+      "duration": 2.88,
+      "offset": 388.88,
+      "lang": "en"
+    },
+    {
+      "text": "this. And here, let me just quickly",
+      "duration": 3.52,
+      "offset": 390.48,
+      "lang": "en"
+    },
+    {
+      "text": "adapt this. Going to go ahead and click",
+      "duration": 4.56,
+      "offset": 391.76,
+      "lang": "en"
+    },
+    {
+      "text": "on this. And so I can open it up just",
+      "duration": 3.52,
+      "offset": 394.0,
+      "lang": "en"
+    },
+    {
+      "text": "like that. And then I&#39;m going to come",
+      "duration": 4.56,
+      "offset": 396.32,
+      "lang": "en"
+    },
+    {
+      "text": "here to the uh font color. And I&#39;m going",
+      "duration": 6.32,
+      "offset": 397.52,
+      "lang": "en"
+    },
+    {
+      "text": "to change it to black. There we go. So,",
+      "duration": 4.16,
+      "offset": 400.88,
+      "lang": "en"
+    },
+    {
+      "text": "this is also really cool. And you don&#39;t",
+      "duration": 2.56,
+      "offset": 403.84,
+      "lang": "en"
+    },
+    {
+      "text": "need to use credits for this as well.",
+      "duration": 2.72,
+      "offset": 405.04,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m going to go ahead and save it.",
+      "duration": 2.64,
+      "offset": 406.4,
+      "lang": "en"
+    },
+    {
+      "text": "And so, now we&#39;re ready to enter the",
+      "duration": 2.4,
+      "offset": 407.76,
+      "lang": "en"
+    },
+    {
+      "text": "next phase. But before that, let&#39;s",
+      "duration": 3.44,
+      "offset": 409.04,
+      "lang": "en"
+    },
+    {
+      "text": "actually look what it looks like live.",
+      "duration": 3.88,
+      "offset": 410.16,
+      "lang": "en"
+    },
+    {
+      "text": "Very",
+      "duration": 3.56,
+      "offset": 412.48,
+      "lang": "en"
+    },
+    {
+      "text": "cool.",
+      "duration": 4.6,
+      "offset": 414.04,
+      "lang": "en"
+    },
+    {
+      "text": "Nice. Okay. And by the way, if you have",
+      "duration": 4.28,
+      "offset": 416.04,
+      "lang": "en"
+    },
+    {
+      "text": "an idea and you don&#39;t know how to code",
+      "duration": 3.44,
+      "offset": 418.64,
+      "lang": "en"
+    },
+    {
+      "text": "and you maybe have started a project",
+      "duration": 3.52,
+      "offset": 420.32,
+      "lang": "en"
+    },
+    {
+      "text": "leveraging AI, but it always seems to",
+      "duration": 3.44,
+      "offset": 422.08,
+      "lang": "en"
+    },
+    {
+      "text": "get stuck in the middle, it&#39;s probably",
+      "duration": 2.88,
+      "offset": 423.84,
+      "lang": "en"
+    },
+    {
+      "text": "because you didn&#39;t learn the",
+      "duration": 3.12,
+      "offset": 425.52,
+      "lang": "en"
+    },
+    {
+      "text": "foundational pieces. And unless you want",
+      "duration": 4.88,
+      "offset": 426.72,
+      "lang": "en"
+    },
+    {
+      "text": "to be continually a slave to developers",
+      "duration": 4.64,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "every single time you have an idea, I",
+      "duration": 3.12,
+      "offset": 431.6,
+      "lang": "en"
+    },
+    {
+      "text": "highly recommend you take things in your",
+      "duration": 3.28,
+      "offset": 433.28,
+      "lang": "en"
+    },
+    {
+      "text": "own hands. And that, my friends, is the",
+      "duration": 3.92,
+      "offset": 434.72,
+      "lang": "en"
+    },
+    {
+      "text": "exact reason why we created the AI",
+      "duration": 3.52,
+      "offset": 436.56,
+      "lang": "en"
+    },
+    {
+      "text": "coding boot camp, where we&#39;re going to",
+      "duration": 3.6,
+      "offset": 438.64,
+      "lang": "en"
+    },
+    {
+      "text": "teach you literally and transform you",
+      "duration": 5.04,
+      "offset": 440.08,
+      "lang": "en"
+    },
+    {
+      "text": "over 30 days from the idea person to the",
+      "duration": 4.4,
+      "offset": 442.24,
+      "lang": "en"
+    },
+    {
+      "text": "person who&#39;s able to take action with",
+      "duration": 3.28,
+      "offset": 445.12,
+      "lang": "en"
+    },
+    {
+      "text": "their ideas. You&#39;re going to be learning",
+      "duration": 4.72,
+      "offset": 446.64,
+      "lang": "en"
+    },
+    {
+      "text": "platforms like Lovable and Superbase to",
+      "duration": 5.44,
+      "offset": 448.4,
+      "lang": "en"
+    },
+    {
+      "text": "bring your ideas to life. Because once",
+      "duration": 4.4,
+      "offset": 451.36,
+      "lang": "en"
+    },
+    {
+      "text": "you learn the methodology of building,",
+      "duration": 3.76,
+      "offset": 453.84,
+      "lang": "en"
+    },
+    {
+      "text": "launching, and getting customers, there",
+      "duration": 4.08,
+      "offset": 455.76,
+      "lang": "en"
+    },
+    {
+      "text": "is no stopping you. It&#39;s only a matter",
+      "duration": 4.32,
+      "offset": 457.6,
+      "lang": "en"
+    },
+    {
+      "text": "of time before you hit a home run. So",
+      "duration": 3.6,
+      "offset": 459.84,
+      "lang": "en"
+    },
+    {
+      "text": "check it out. It&#39;s an application-based",
+      "duration": 2.96,
+      "offset": 461.92,
+      "lang": "en"
+    },
+    {
+      "text": "program, and if you get in, we&#39;d love to",
+      "duration": 2.72,
+      "offset": 463.44,
+      "lang": "en"
+    },
+    {
+      "text": "work with you. Now, let&#39;s get back to",
+      "duration": 2.48,
+      "offset": 464.88,
+      "lang": "en"
+    },
+    {
+      "text": "building. And now that we have the",
+      "duration": 2.72,
+      "offset": 466.16,
+      "lang": "en"
+    },
+    {
+      "text": "design of the landing page, it&#39;s time to",
+      "duration": 3.2,
+      "offset": 467.36,
+      "lang": "en"
+    },
+    {
+      "text": "actually start building the app. So now",
+      "duration": 3.12,
+      "offset": 468.88,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to tell it, okay, could you",
+      "duration": 2.8,
+      "offset": 470.56,
+      "lang": "en"
+    },
+    {
+      "text": "please build a dashboard that people",
+      "duration": 2.96,
+      "offset": 472.0,
+      "lang": "en"
+    },
+    {
+      "text": "will see when they log into the",
+      "duration": 3.68,
+      "offset": 473.36,
+      "lang": "en"
+    },
+    {
+      "text": "platform? We will add authentication",
+      "duration": 4.08,
+      "offset": 474.96,
+      "lang": "en"
+    },
+    {
+      "text": "later. Make sure to say that. And then",
+      "duration": 3.36,
+      "offset": 477.04,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to describe exactly how I want",
+      "duration": 3.2,
+      "offset": 479.04,
+      "lang": "en"
+    },
+    {
+      "text": "the dashboard to look. So basically,",
+      "duration": 3.44,
+      "offset": 480.4,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s going to have a left nav. I want it",
+      "duration": 3.36,
+      "offset": 482.24,
+      "lang": "en"
+    },
+    {
+      "text": "to have a create tab. I want it to have",
+      "duration": 4.0,
+      "offset": 483.84,
+      "lang": "en"
+    },
+    {
+      "text": "a library tab. The create tab should be",
+      "duration": 4.24,
+      "offset": 485.6,
+      "lang": "en"
+    },
+    {
+      "text": "the place that people land by default.",
+      "duration": 4.48,
+      "offset": 487.84,
+      "lang": "en"
+    },
+    {
+      "text": "And the library is going to be where all",
+      "duration": 4.24,
+      "offset": 489.84,
+      "lang": "en"
+    },
+    {
+      "text": "the saved pitches are. Let&#39;s go ahead",
+      "duration": 4.32,
+      "offset": 492.32,
+      "lang": "en"
+    },
+    {
+      "text": "and click on that and let it do its",
+      "duration": 4.88,
+      "offset": 494.08,
+      "lang": "en"
+    },
+    {
+      "text": "magic, my friends. Okay, so we ran into",
+      "duration": 5.04,
+      "offset": 496.64,
+      "lang": "en"
+    },
+    {
+      "text": "a little error here. I&#39;m going to click",
+      "duration": 6.0,
+      "offset": 498.96,
+      "lang": "en"
+    },
+    {
+      "text": "on try to fix it. Okay, and boom. Look",
+      "duration": 5.68,
+      "offset": 501.68,
+      "lang": "en"
+    },
+    {
+      "text": "at this. Let&#39;s make it bigger. Now we",
+      "duration": 4.8,
+      "offset": 504.96,
+      "lang": "en"
+    },
+    {
+      "text": "have a first experience of what this app",
+      "duration": 5.2,
+      "offset": 507.36,
+      "lang": "en"
+    },
+    {
+      "text": "might look like. Um so basically I click",
+      "duration": 5.68,
+      "offset": 509.76,
+      "lang": "en"
+    },
+    {
+      "text": "on get started um I will be asked to log",
+      "duration": 4.56,
+      "offset": 512.56,
+      "lang": "en"
+    },
+    {
+      "text": "in but now I&#39;m actually building out",
+      "duration": 4.0,
+      "offset": 515.44,
+      "lang": "en"
+    },
+    {
+      "text": "this experience. So I see create and",
+      "duration": 4.08,
+      "offset": 517.12,
+      "lang": "en"
+    },
+    {
+      "text": "library on the lefth hand side. That&#39;s",
+      "duration": 3.36,
+      "offset": 519.44,
+      "lang": "en"
+    },
+    {
+      "text": "great. Okay. So this is not yet",
+      "duration": 3.28,
+      "offset": 521.2,
+      "lang": "en"
+    },
+    {
+      "text": "implemented. Let&#39;s go ahead and check",
+      "duration": 4.8,
+      "offset": 522.8,
+      "lang": "en"
+    },
+    {
+      "text": "library. Okay. Pitch demo. And we&#39;re",
+      "duration": 5.28,
+      "offset": 524.48,
+      "lang": "en"
+    },
+    {
+      "text": "probably going to adapt this. So now",
+      "duration": 3.84,
+      "offset": 527.6,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s go back and make those little",
+      "duration": 3.6,
+      "offset": 529.76,
+      "lang": "en"
+    },
+    {
+      "text": "changes. So step one is going to be",
+      "duration": 5.12,
+      "offset": 531.44,
+      "lang": "en"
+    },
+    {
+      "text": "click on library. I&#39;m going to click on",
+      "duration": 4.48,
+      "offset": 533.36,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to I&#39;m going to make small",
+      "duration": 3.16,
+      "offset": 536.56,
+      "lang": "en"
+    },
+    {
+      "text": "edits. So, I&#39;m going to go and click on",
+      "duration": 5.2,
+      "offset": 537.84,
+      "lang": "en"
+    },
+    {
+      "text": "this and I&#39;m going to grab this. And",
+      "duration": 5.56,
+      "offset": 539.72,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;m basically going to say, let&#39;s",
+      "duration": 5.28,
+      "offset": 543.04,
+      "lang": "en"
+    },
+    {
+      "text": "give this let&#39;s make it completely",
+      "duration": 5.12,
+      "offset": 545.28,
+      "lang": "en"
+    },
+    {
+      "text": "slate. Right. I think that&#39;s a good",
+      "duration": 5.2,
+      "offset": 548.32,
+      "lang": "en"
+    },
+    {
+      "text": "color. Excellent. Save. And then this",
+      "duration": 5.12,
+      "offset": 550.4,
+      "lang": "en"
+    },
+    {
+      "text": "line, man, this line&#39;s got to go, right?",
+      "duration": 4.24,
+      "offset": 553.52,
+      "lang": "en"
+    },
+    {
+      "text": "Please make the navbar smaller. And also",
+      "duration": 4.0,
+      "offset": 555.52,
+      "lang": "en"
+    },
+    {
+      "text": "make that line a little more subtle.",
+      "duration": 3.68,
+      "offset": 557.76,
+      "lang": "en"
+    },
+    {
+      "text": "Perfect. That looks a lot better. Okay.",
+      "duration": 4.16,
+      "offset": 559.52,
+      "lang": "en"
+    },
+    {
+      "text": "Now, let&#39;s move on to the next step. If",
+      "duration": 3.6,
+      "offset": 561.44,
+      "lang": "en"
+    },
+    {
+      "text": "I come to create, the next thing I want",
+      "duration": 3.2,
+      "offset": 563.68,
+      "lang": "en"
+    },
+    {
+      "text": "to do is have this actually function.",
+      "duration": 3.12,
+      "offset": 565.04,
+      "lang": "en"
+    },
+    {
+      "text": "So, okay. Okay. So, when I click on",
+      "duration": 3.12,
+      "offset": 566.88,
+      "lang": "en"
+    },
+    {
+      "text": "record, nothing happens. Could you",
+      "duration": 3.84,
+      "offset": 568.16,
+      "lang": "en"
+    },
+    {
+      "text": "please have it record and transcribe my",
+      "duration": 4.16,
+      "offset": 570.0,
+      "lang": "en"
+    },
+    {
+      "text": "voice? Once I&#39;m done, it should give me",
+      "duration": 3.84,
+      "offset": 572.0,
+      "lang": "en"
+    },
+    {
+      "text": "the option to generate pitch or",
+      "duration": 3.04,
+      "offset": 574.16,
+      "lang": "en"
+    },
+    {
+      "text": "re-record that. Once I click on",
+      "duration": 2.96,
+      "offset": 575.84,
+      "lang": "en"
+    },
+    {
+      "text": "re-record, it should delete that",
+      "duration": 3.6,
+      "offset": 577.2,
+      "lang": "en"
+    },
+    {
+      "text": "recording and bring me back to this. If",
+      "duration": 3.52,
+      "offset": 578.8,
+      "lang": "en"
+    },
+    {
+      "text": "I click on generate pitch, it should",
+      "duration": 3.44,
+      "offset": 580.8,
+      "lang": "en"
+    },
+    {
+      "text": "send the transcription to OpenAI,",
+      "duration": 3.36,
+      "offset": 582.32,
+      "lang": "en"
+    },
+    {
+      "text": "generate that oneliner in pitch",
+      "duration": 2.88,
+      "offset": 584.24,
+      "lang": "en"
+    },
+    {
+      "text": "structure, and then I should have the",
+      "duration": 3.68,
+      "offset": 585.68,
+      "lang": "en"
+    },
+    {
+      "text": "option to save it or delete it. Uh, if I",
+      "duration": 4.32,
+      "offset": 587.12,
+      "lang": "en"
+    },
+    {
+      "text": "save it, it should store in the library.",
+      "duration": 3.68,
+      "offset": 589.36,
+      "lang": "en"
+    },
+    {
+      "text": "So, notice that I&#39;m describing exactly",
+      "duration": 3.44,
+      "offset": 591.44,
+      "lang": "en"
+    },
+    {
+      "text": "how I want this thing to function step",
+      "duration": 4.16,
+      "offset": 593.04,
+      "lang": "en"
+    },
+    {
+      "text": "by step. So the more specific you can be",
+      "duration": 4.4,
+      "offset": 594.88,
+      "lang": "en"
+    },
+    {
+      "text": "about the actual state you would like",
+      "duration": 4.64,
+      "offset": 597.2,
+      "lang": "en"
+    },
+    {
+      "text": "for it to do and not the better. And",
+      "duration": 4.08,
+      "offset": 599.28,
+      "lang": "en"
+    },
+    {
+      "text": "although right now I&#39;m just building out",
+      "duration": 3.44,
+      "offset": 601.84,
+      "lang": "en"
+    },
+    {
+      "text": "the front end or the functionality on",
+      "duration": 3.52,
+      "offset": 603.36,
+      "lang": "en"
+    },
+    {
+      "text": "the front end, we&#39;re just about to",
+      "duration": 3.36,
+      "offset": 605.28,
+      "lang": "en"
+    },
+    {
+      "text": "attach it to the back end. I&#39;m going to",
+      "duration": 3.52,
+      "offset": 606.88,
+      "lang": "en"
+    },
+    {
+      "text": "show you exactly how that can be done",
+      "duration": 3.68,
+      "offset": 608.64,
+      "lang": "en"
+    },
+    {
+      "text": "right here in a moment. Okay. And now",
+      "duration": 4.56,
+      "offset": 610.4,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s test it out. My idea is for a",
+      "duration": 4.4,
+      "offset": 612.32,
+      "lang": "en"
+    },
+    {
+      "text": "platform that helps you pitch your",
+      "duration": 5.2,
+      "offset": 614.96,
+      "lang": "en"
+    },
+    {
+      "text": "startup. It&#39;s basically for founders who",
+      "duration": 5.44,
+      "offset": 616.72,
+      "lang": "en"
+    },
+    {
+      "text": "have a really hard time creating a",
+      "duration": 5.2,
+      "offset": 620.16,
+      "lang": "en"
+    },
+    {
+      "text": "concise pitch and don&#39;t know how to",
+      "duration": 4.8,
+      "offset": 622.16,
+      "lang": "en"
+    },
+    {
+      "text": "build a pitch deck. Let&#39;s see.",
+      "duration": 3.52,
+      "offset": 625.36,
+      "lang": "en"
+    },
+    {
+      "text": "Processing your recording. Excellent.",
+      "duration": 4.48,
+      "offset": 626.96,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. Well, hm. Seems like there&#39;s Yeah.",
+      "duration": 4.8,
+      "offset": 628.88,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So, it seems like there&#39;s some um",
+      "duration": 5.32,
+      "offset": 631.44,
+      "lang": "en"
+    },
+    {
+      "text": "coloring problems here, but let&#39;s see",
+      "duration": 6.08,
+      "offset": 633.68,
+      "lang": "en"
+    },
+    {
+      "text": "here. Okay. And here should be the mock",
+      "duration": 4.92,
+      "offset": 636.76,
+      "lang": "en"
+    },
+    {
+      "text": "transcript. And then it says generate",
+      "duration": 4.16,
+      "offset": 639.76,
+      "lang": "en"
+    },
+    {
+      "text": "pitch or re-record, which is actually",
+      "duration": 3.76,
+      "offset": 641.68,
+      "lang": "en"
+    },
+    {
+      "text": "perfect. So, the first thing I&#39;m going",
+      "duration": 3.6,
+      "offset": 643.92,
+      "lang": "en"
+    },
+    {
+      "text": "to do here is edit. I&#39;m going to go",
+      "duration": 4.24,
+      "offset": 645.44,
+      "lang": "en"
+    },
+    {
+      "text": "here. I&#39;m going to click this. Then, I&#39;m",
+      "duration": 3.92,
+      "offset": 647.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to change the color here. We&#39;re",
+      "duration": 4.88,
+      "offset": 649.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to have it be this",
+      "duration": 3.12,
+      "offset": 651.44,
+      "lang": "en"
+    },
+    {
+      "text": "color. Okay, perfect. Now, this looks a",
+      "duration": 3.48,
+      "offset": 656.28,
+      "lang": "en"
+    },
+    {
+      "text": "little bit better. It looks a little bit",
+      "duration": 3.2,
+      "offset": 658.72,
+      "lang": "en"
+    },
+    {
+      "text": "more like what I&#39;m looking for. Now, if",
+      "duration": 6.08,
+      "offset": 659.76,
+      "lang": "en"
+    },
+    {
+      "text": "I go back here and I click off of edit,",
+      "duration": 6.32,
+      "offset": 661.92,
+      "lang": "en"
+    },
+    {
+      "text": "generate pitch. Let&#39;s see. Excellent.",
+      "duration": 4.56,
+      "offset": 665.84,
+      "lang": "en"
+    },
+    {
+      "text": "So, this is a mock transcript that is",
+      "duration": 4.88,
+      "offset": 668.24,
+      "lang": "en"
+    },
+    {
+      "text": "now created. And it has also the pitch",
+      "duration": 5.36,
+      "offset": 670.4,
+      "lang": "en"
+    },
+    {
+      "text": "deck structure, which is really cool.",
+      "duration": 6.08,
+      "offset": 673.12,
+      "lang": "en"
+    },
+    {
+      "text": "Problem statement. Love it. And it only",
+      "duration": 6.0,
+      "offset": 675.76,
+      "lang": "en"
+    },
+    {
+      "text": "shows um four slides for the moment,",
+      "duration": 5.04,
+      "offset": 679.2,
+      "lang": "en"
+    },
+    {
+      "text": "which is great. If I save to library,",
+      "duration": 4.8,
+      "offset": 681.76,
+      "lang": "en"
+    },
+    {
+      "text": "boom, it&#39;s going to save it. Let&#39;s go",
+      "duration": 3.84,
+      "offset": 684.24,
+      "lang": "en"
+    },
+    {
+      "text": "ahead. This is a library. Yeah. And it",
+      "duration": 3.84,
+      "offset": 686.56,
+      "lang": "en"
+    },
+    {
+      "text": "brings us here. Excellent. And then if I",
+      "duration": 5.28,
+      "offset": 688.08,
+      "lang": "en"
+    },
+    {
+      "text": "go back to create. Excellent. Okay. So,",
+      "duration": 5.6,
+      "offset": 690.4,
+      "lang": "en"
+    },
+    {
+      "text": "the fundamentals here are working. Now,",
+      "duration": 4.8,
+      "offset": 693.36,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s go to the next step. Okay. So, a",
+      "duration": 3.76,
+      "offset": 696.0,
+      "lang": "en"
+    },
+    {
+      "text": "little edit here. I&#39;m basically going to",
+      "duration": 3.68,
+      "offset": 698.16,
+      "lang": "en"
+    },
+    {
+      "text": "tell it to make it a little bit u less",
+      "duration": 4.56,
+      "offset": 699.76,
+      "lang": "en"
+    },
+    {
+      "text": "tall. I think that this um I would like",
+      "duration": 5.28,
+      "offset": 701.84,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to essentially um have it be",
+      "duration": 4.56,
+      "offset": 704.32,
+      "lang": "en"
+    },
+    {
+      "text": "a little bit smaller. So, let&#39;s go ahead",
+      "duration": 4.08,
+      "offset": 707.12,
+      "lang": "en"
+    },
+    {
+      "text": "and adapt that. Excellent. So, this is",
+      "duration": 4.56,
+      "offset": 708.88,
+      "lang": "en"
+    },
+    {
+      "text": "what I was asking for. That&#39;s perfect.",
+      "duration": 5.04,
+      "offset": 711.2,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s check out this div uh delete. I",
+      "duration": 4.16,
+      "offset": 713.44,
+      "lang": "en"
+    },
+    {
+      "text": "think it should also have an edit",
+      "duration": 3.92,
+      "offset": 716.24,
+      "lang": "en"
+    },
+    {
+      "text": "button. Um so, let&#39;s go ahead and say",
+      "duration": 4.48,
+      "offset": 717.6,
+      "lang": "en"
+    },
+    {
+      "text": "please add a button to edit each card.",
+      "duration": 3.84,
+      "offset": 720.16,
+      "lang": "en"
+    },
+    {
+      "text": "This should open up the card and allow",
+      "duration": 4.12,
+      "offset": 722.08,
+      "lang": "en"
+    },
+    {
+      "text": "you to edit the contents of",
+      "duration": 4.8,
+      "offset": 724.0,
+      "lang": "en"
+    },
+    {
+      "text": "it. Excellent. And now the last little",
+      "duration": 5.0,
+      "offset": 726.2,
+      "lang": "en"
+    },
+    {
+      "text": "thing I want to do is to just basically",
+      "duration": 5.12,
+      "offset": 728.8,
+      "lang": "en"
+    },
+    {
+      "text": "adapt this a little bit. So here it&#39;s a",
+      "duration": 5.52,
+      "offset": 731.2,
+      "lang": "en"
+    },
+    {
+      "text": "gray. The color of this font I would",
+      "duration": 5.2,
+      "offset": 733.92,
+      "lang": "en"
+    },
+    {
+      "text": "prefer for it to be a black. Let&#39;s go",
+      "duration": 4.72,
+      "offset": 736.72,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and change that for both of these.",
+      "duration": 4.88,
+      "offset": 739.12,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s change them both to a black.",
+      "duration": 4.32,
+      "offset": 741.44,
+      "lang": "en"
+    },
+    {
+      "text": "Excellent. And now I think that this",
+      "duration": 3.2,
+      "offset": 744.0,
+      "lang": "en"
+    },
+    {
+      "text": "looks pretty good. As you can see, I&#39;m",
+      "duration": 3.28,
+      "offset": 745.76,
+      "lang": "en"
+    },
+    {
+      "text": "mainly focusing on some design elements",
+      "duration": 4.24,
+      "offset": 747.2,
+      "lang": "en"
+    },
+    {
+      "text": "here. Uh, so I&#39;ll probably uh adapt a",
+      "duration": 4.16,
+      "offset": 749.04,
+      "lang": "en"
+    },
+    {
+      "text": "couple more things and then we should be",
+      "duration": 3.36,
+      "offset": 751.44,
+      "lang": "en"
+    },
+    {
+      "text": "good to roll. Okay, so now I&#39;m going to",
+      "duration": 2.96,
+      "offset": 753.2,
+      "lang": "en"
+    },
+    {
+      "text": "come back to the homepage and what I",
+      "duration": 4.08,
+      "offset": 754.8,
+      "lang": "en"
+    },
+    {
+      "text": "want to do is add login, log out, sign",
+      "duration": 4.48,
+      "offset": 756.16,
+      "lang": "en"
+    },
+    {
+      "text": "up, forget password, all that kind of",
+      "duration": 3.84,
+      "offset": 758.88,
+      "lang": "en"
+    },
+    {
+      "text": "stuff and that is authentication. To",
+      "duration": 3.84,
+      "offset": 760.64,
+      "lang": "en"
+    },
+    {
+      "text": "implement authentication, I&#39;m going to",
+      "duration": 3.76,
+      "offset": 762.72,
+      "lang": "en"
+    },
+    {
+      "text": "be using Superbase, which is my second",
+      "duration": 3.92,
+      "offset": 764.48,
+      "lang": "en"
+    },
+    {
+      "text": "tool that I love so much. But what is",
+      "duration": 4.48,
+      "offset": 766.48,
+      "lang": "en"
+    },
+    {
+      "text": "Superbase? Superbase is a backend as a",
+      "duration": 4.8,
+      "offset": 768.4,
+      "lang": "en"
+    },
+    {
+      "text": "service. So basically, it offers a",
+      "duration": 3.68,
+      "offset": 770.96,
+      "lang": "en"
+    },
+    {
+      "text": "number of different things. First of",
+      "duration": 3.36,
+      "offset": 773.2,
+      "lang": "en"
+    },
+    {
+      "text": "all, it is a database where you can",
+      "duration": 4.08,
+      "offset": 774.64,
+      "lang": "en"
+    },
+    {
+      "text": "store all the data inside the app. The",
+      "duration": 4.4,
+      "offset": 776.56,
+      "lang": "en"
+    },
+    {
+      "text": "second thing it is is authentication. So",
+      "duration": 4.72,
+      "offset": 778.72,
+      "lang": "en"
+    },
+    {
+      "text": "it allows you to create authentication",
+      "duration": 4.72,
+      "offset": 780.96,
+      "lang": "en"
+    },
+    {
+      "text": "and you can also have things like edge",
+      "duration": 4.08,
+      "offset": 783.44,
+      "lang": "en"
+    },
+    {
+      "text": "functions which allow you to run and",
+      "duration": 3.44,
+      "offset": 785.68,
+      "lang": "en"
+    },
+    {
+      "text": "bring in more complicated features",
+      "duration": 3.92,
+      "offset": 787.52,
+      "lang": "en"
+    },
+    {
+      "text": "inside of your app. It also has storage",
+      "duration": 4.56,
+      "offset": 789.12,
+      "lang": "en"
+    },
+    {
+      "text": "so you can store large amounts of data",
+      "duration": 4.64,
+      "offset": 791.44,
+      "lang": "en"
+    },
+    {
+      "text": "if you want things like videos and stuff",
+      "duration": 4.56,
+      "offset": 793.68,
+      "lang": "en"
+    },
+    {
+      "text": "like that as well. And it also has real",
+      "duration": 3.76,
+      "offset": 796.08,
+      "lang": "en"
+    },
+    {
+      "text": "time. Real time is basically when",
+      "duration": 3.04,
+      "offset": 798.24,
+      "lang": "en"
+    },
+    {
+      "text": "something happens in your app and it has",
+      "duration": 3.04,
+      "offset": 799.84,
+      "lang": "en"
+    },
+    {
+      "text": "to happen immediately. Someone else has",
+      "duration": 3.28,
+      "offset": 801.28,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to see it. So for example in",
+      "duration": 3.28,
+      "offset": 802.88,
+      "lang": "en"
+    },
+    {
+      "text": "Figma you can see other people playing",
+      "duration": 3.28,
+      "offset": 804.56,
+      "lang": "en"
+    },
+    {
+      "text": "around. Well that is real time. And",
+      "duration": 2.88,
+      "offset": 806.16,
+      "lang": "en"
+    },
+    {
+      "text": "there are a number of other things you",
+      "duration": 3.76,
+      "offset": 807.84,
+      "lang": "en"
+    },
+    {
+      "text": "can do with Superbase, but I love this",
+      "duration": 4.24,
+      "offset": 809.04,
+      "lang": "en"
+    },
+    {
+      "text": "platform so much. It&#39;s it&#39;s basically",
+      "duration": 3.44,
+      "offset": 811.6,
+      "lang": "en"
+    },
+    {
+      "text": "the back end as a service I love the",
+      "duration": 3.52,
+      "offset": 813.28,
+      "lang": "en"
+    },
+    {
+      "text": "most. And they just raised another round",
+      "duration": 4.24,
+      "offset": 815.04,
+      "lang": "en"
+    },
+    {
+      "text": "of $200 million. So they are going",
+      "duration": 4.96,
+      "offset": 816.8,
+      "lang": "en"
+    },
+    {
+      "text": "really really far. Superbased. I love",
+      "duration": 4.24,
+      "offset": 819.28,
+      "lang": "en"
+    },
+    {
+      "text": "you guys. And the awesome thing is that",
+      "duration": 4.32,
+      "offset": 821.76,
+      "lang": "en"
+    },
+    {
+      "text": "it attaches perfectly with Lovable. So",
+      "duration": 3.92,
+      "offset": 823.52,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to do that, the first thing",
+      "duration": 3.36,
+      "offset": 826.08,
+      "lang": "en"
+    },
+    {
+      "text": "we need to do is to come in here, click",
+      "duration": 4.48,
+      "offset": 827.44,
+      "lang": "en"
+    },
+    {
+      "text": "on dashboard. Here I have access to all",
+      "duration": 4.08,
+      "offset": 829.44,
+      "lang": "en"
+    },
+    {
+      "text": "the projects. I&#39;m going to create a new",
+      "duration": 3.52,
+      "offset": 831.92,
+      "lang": "en"
+    },
+    {
+      "text": "one. And we&#39;re going to do this so that",
+      "duration": 4.08,
+      "offset": 833.52,
+      "lang": "en"
+    },
+    {
+      "text": "we can basically run this new project.",
+      "duration": 3.76,
+      "offset": 835.44,
+      "lang": "en"
+    },
+    {
+      "text": "So in this case, I&#39;m going to call this",
+      "duration": 4.0,
+      "offset": 837.6,
+      "lang": "en"
+    },
+    {
+      "text": "one pitch pal. And we&#39;re going to give",
+      "duration": 4.08,
+      "offset": 839.2,
+      "lang": "en"
+    },
+    {
+      "text": "it a random password. This doesn&#39;t",
+      "duration": 3.68,
+      "offset": 841.6,
+      "lang": "en"
+    },
+    {
+      "text": "really matter. And then I&#39;m going to",
+      "duration": 4.96,
+      "offset": 843.28,
+      "lang": "en"
+    },
+    {
+      "text": "create a new project. Confirm. Your",
+      "duration": 4.72,
+      "offset": 845.28,
+      "lang": "en"
+    },
+    {
+      "text": "first two projects are for free, by the",
+      "duration": 3.2,
+      "offset": 848.24,
+      "lang": "en"
+    },
+    {
+      "text": "way. And if you want to check out this",
+      "duration": 3.2,
+      "offset": 850.0,
+      "lang": "en"
+    },
+    {
+      "text": "tool, you can go ahead and click in the",
+      "duration": 3.52,
+      "offset": 851.44,
+      "lang": "en"
+    },
+    {
+      "text": "description. Now, as this thing is",
+      "duration": 3.52,
+      "offset": 853.2,
+      "lang": "en"
+    },
+    {
+      "text": "setting up over here, you&#39;re going to",
+      "duration": 4.48,
+      "offset": 854.96,
+      "lang": "en"
+    },
+    {
+      "text": "have access to your uh public key. Now,",
+      "duration": 4.8,
+      "offset": 856.72,
+      "lang": "en"
+    },
+    {
+      "text": "you shouldn&#39;t share this with anyone.",
+      "duration": 4.24,
+      "offset": 859.44,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to go ahead and copy this and",
+      "duration": 5.2,
+      "offset": 861.52,
+      "lang": "en"
+    },
+    {
+      "text": "uh also your uh URL. You should also",
+      "duration": 4.88,
+      "offset": 863.68,
+      "lang": "en"
+    },
+    {
+      "text": "copy this one. And again, don&#39;t share",
+      "duration": 2.96,
+      "offset": 866.72,
+      "lang": "en"
+    },
+    {
+      "text": "them because if not, people can",
+      "duration": 2.8,
+      "offset": 868.56,
+      "lang": "en"
+    },
+    {
+      "text": "basically come into your project and",
+      "duration": 2.88,
+      "offset": 869.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not going to be safe at all. So,",
+      "duration": 2.96,
+      "offset": 871.36,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to let this basically load.",
+      "duration": 3.04,
+      "offset": 872.56,
+      "lang": "en"
+    },
+    {
+      "text": "And once it&#39;s ready, we&#39;re going to move",
+      "duration": 2.8,
+      "offset": 874.32,
+      "lang": "en"
+    },
+    {
+      "text": "into the next step. Okay. So, now it",
+      "duration": 3.2,
+      "offset": 875.6,
+      "lang": "en"
+    },
+    {
+      "text": "seems like the project is ready and I",
+      "duration": 3.52,
+      "offset": 877.12,
+      "lang": "en"
+    },
+    {
+      "text": "can see that because it says status of",
+      "duration": 4.08,
+      "offset": 878.8,
+      "lang": "en"
+    },
+    {
+      "text": "the project is green. Perfect. And now",
+      "duration": 3.44,
+      "offset": 880.64,
+      "lang": "en"
+    },
+    {
+      "text": "once this is done, we&#39;re going to come",
+      "duration": 3.12,
+      "offset": 882.88,
+      "lang": "en"
+    },
+    {
+      "text": "back here and we&#39;re going to say, okay,",
+      "duration": 2.88,
+      "offset": 884.08,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re now going to set up",
+      "duration": 2.88,
+      "offset": 886.0,
+      "lang": "en"
+    },
+    {
+      "text": "authentication. When someone clicks on",
+      "duration": 4.0,
+      "offset": 886.96,
+      "lang": "en"
+    },
+    {
+      "text": "the get started or start recording now",
+      "duration": 4.32,
+      "offset": 888.88,
+      "lang": "en"
+    },
+    {
+      "text": "buttons on the website or maybe I should",
+      "duration": 3.84,
+      "offset": 890.96,
+      "lang": "en"
+    },
+    {
+      "text": "say landing page, please have the sign",
+      "duration": 3.68,
+      "offset": 893.2,
+      "lang": "en"
+    },
+    {
+      "text": "up signin experience only allow signed",
+      "duration": 3.68,
+      "offset": 894.8,
+      "lang": "en"
+    },
+    {
+      "text": "in users to access the dashboard",
+      "duration": 3.72,
+      "offset": 896.88,
+      "lang": "en"
+    },
+    {
+      "text": "experience. Let&#39;s",
+      "duration": 4.32,
+      "offset": 898.48,
+      "lang": "en"
+    },
+    {
+      "text": "go. And here what it&#39;s basically going",
+      "duration": 4.36,
+      "offset": 900.6,
+      "lang": "en"
+    },
+    {
+      "text": "to ask me to do is to connect superbase.",
+      "duration": 4.48,
+      "offset": 902.8,
+      "lang": "en"
+    },
+    {
+      "text": "So superbase here on the top right we",
+      "duration": 3.92,
+      "offset": 904.96,
+      "lang": "en"
+    },
+    {
+      "text": "have that little toggle and it basically",
+      "duration": 3.76,
+      "offset": 907.28,
+      "lang": "en"
+    },
+    {
+      "text": "is going to say hey let&#39;s connect",
+      "duration": 4.88,
+      "offset": 908.88,
+      "lang": "en"
+    },
+    {
+      "text": "superbase. So basically um I&#39;m going to",
+      "duration": 4.4,
+      "offset": 911.04,
+      "lang": "en"
+    },
+    {
+      "text": "click on this next but we&#39;re also just",
+      "duration": 3.44,
+      "offset": 913.76,
+      "lang": "en"
+    },
+    {
+      "text": "going to see what happens here. And as",
+      "duration": 3.28,
+      "offset": 915.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can see, click the green superb",
+      "duration": 2.96,
+      "offset": 917.2,
+      "lang": "en"
+    },
+    {
+      "text": "basease button at the top right.",
+      "duration": 3.76,
+      "offset": 918.72,
+      "lang": "en"
+    },
+    {
+      "text": "Excellent. Um, so that&#39;s the first thing",
+      "duration": 3.84,
+      "offset": 920.16,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to do. I&#39;m going to click on",
+      "duration": 4.0,
+      "offset": 922.48,
+      "lang": "en"
+    },
+    {
+      "text": "here. Boom. And it&#39;s going to pop it up.",
+      "duration": 4.16,
+      "offset": 924.0,
+      "lang": "en"
+    },
+    {
+      "text": "And now it&#39;s going to ask me which one",
+      "duration": 3.44,
+      "offset": 926.48,
+      "lang": "en"
+    },
+    {
+      "text": "of these projects do I want to attach.",
+      "duration": 3.68,
+      "offset": 928.16,
+      "lang": "en"
+    },
+    {
+      "text": "Come down here. And I can see that I can",
+      "duration": 4.72,
+      "offset": 929.92,
+      "lang": "en"
+    },
+    {
+      "text": "simply connect Pitch Pal down here.",
+      "duration": 5.2,
+      "offset": 931.84,
+      "lang": "en"
+    },
+    {
+      "text": "Boom. Connect. Excellent. We&#39;re going to",
+      "duration": 4.68,
+      "offset": 934.64,
+      "lang": "en"
+    },
+    {
+      "text": "connect to this. Excellent. It is now",
+      "duration": 5.04,
+      "offset": 937.04,
+      "lang": "en"
+    },
+    {
+      "text": "connected. So now I can basically go",
+      "duration": 5.64,
+      "offset": 939.32,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and uh close this out and let&#39;s",
+      "duration": 4.56,
+      "offset": 942.08,
+      "lang": "en"
+    },
+    {
+      "text": "see what it&#39;s saying. It&#39;s now telling",
+      "duration": 3.84,
+      "offset": 944.96,
+      "lang": "en"
+    },
+    {
+      "text": "me that I&#39;m connected, that I can uh",
+      "duration": 4.32,
+      "offset": 946.64,
+      "lang": "en"
+    },
+    {
+      "text": "have a login logout experience. It&#39;s",
+      "duration": 3.92,
+      "offset": 948.8,
+      "lang": "en"
+    },
+    {
+      "text": "going to store all the data, which is",
+      "duration": 3.2,
+      "offset": 950.96,
+      "lang": "en"
+    },
+    {
+      "text": "excellent. And we can also add",
+      "duration": 3.36,
+      "offset": 952.72,
+      "lang": "en"
+    },
+    {
+      "text": "additional features as I mentioned",
+      "duration": 3.76,
+      "offset": 954.16,
+      "lang": "en"
+    },
+    {
+      "text": "through these edge functions. And we&#39;re",
+      "duration": 3.04,
+      "offset": 956.08,
+      "lang": "en"
+    },
+    {
+      "text": "going to be going into that in just a",
+      "duration": 3.04,
+      "offset": 957.92,
+      "lang": "en"
+    },
+    {
+      "text": "moment. But first of all, let&#39;s start",
+      "duration": 5.44,
+      "offset": 959.12,
+      "lang": "en"
+    },
+    {
+      "text": "building out this experience. So, um, if",
+      "duration": 5.68,
+      "offset": 960.96,
+      "lang": "en"
+    },
+    {
+      "text": "I click on get started now, it brings me",
+      "duration": 3.84,
+      "offset": 964.56,
+      "lang": "en"
+    },
+    {
+      "text": "straight here. Now, I&#39;m going to tell it",
+      "duration": 3.84,
+      "offset": 966.64,
+      "lang": "en"
+    },
+    {
+      "text": "that this is not how it should function,",
+      "duration": 4.4,
+      "offset": 968.4,
+      "lang": "en"
+    },
+    {
+      "text": "right? It should basically bring me to a",
+      "duration": 4.64,
+      "offset": 970.48,
+      "lang": "en"
+    },
+    {
+      "text": "sign in signup experience. Please add",
+      "duration": 4.08,
+      "offset": 972.8,
+      "lang": "en"
+    },
+    {
+      "text": "authentication pages between the landing",
+      "duration": 3.36,
+      "offset": 975.12,
+      "lang": "en"
+    },
+    {
+      "text": "page and the dashboard. And this is",
+      "duration": 3.28,
+      "offset": 976.88,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s so cool about Superbase is that",
+      "duration": 2.64,
+      "offset": 978.48,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s basically going to see what&#39;s",
+      "duration": 2.64,
+      "offset": 980.16,
+      "lang": "en"
+    },
+    {
+      "text": "inside this project and then it&#39;s",
+      "duration": 3.76,
+      "offset": 981.12,
+      "lang": "en"
+    },
+    {
+      "text": "automatically going to implement things",
+      "duration": 3.84,
+      "offset": 982.8,
+      "lang": "en"
+    },
+    {
+      "text": "based on that. In this case,",
+      "duration": 3.44,
+      "offset": 984.88,
+      "lang": "en"
+    },
+    {
+      "text": "authentication, which means login, log",
+      "duration": 4.0,
+      "offset": 986.64,
+      "lang": "en"
+    },
+    {
+      "text": "out. Sure. But also who has access to",
+      "duration": 4.4,
+      "offset": 988.32,
+      "lang": "en"
+    },
+    {
+      "text": "what. So now it says that it&#39;s created a",
+      "duration": 3.92,
+      "offset": 990.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh signin signup pages. And let&#39;s test",
+      "duration": 4.16,
+      "offset": 992.72,
+      "lang": "en"
+    },
+    {
+      "text": "whether this is true. Okay, look at",
+      "duration": 4.48,
+      "offset": 994.56,
+      "lang": "en"
+    },
+    {
+      "text": "that. So I don&#39;t have an account yet, so",
+      "duration": 4.8,
+      "offset": 996.88,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to go ahead and create one.",
+      "duration": 4.8,
+      "offset": 999.04,
+      "lang": "en"
+    },
+    {
+      "text": "Sign up. Please check your email to",
+      "duration": 4.16,
+      "offset": 1001.68,
+      "lang": "en"
+    },
+    {
+      "text": "verify your account. Very good point.",
+      "duration": 3.52,
+      "offset": 1003.84,
+      "lang": "en"
+    },
+    {
+      "text": "One thing I didn&#39;t mention is that when",
+      "duration": 3.2,
+      "offset": 1005.84,
+      "lang": "en"
+    },
+    {
+      "text": "you set up your project for the",
+      "duration": 3.36,
+      "offset": 1007.36,
+      "lang": "en"
+    },
+    {
+      "text": "authentication, and by the way, if you",
+      "duration": 3.52,
+      "offset": 1009.04,
+      "lang": "en"
+    },
+    {
+      "text": "check it out here on inside your",
+      "duration": 3.76,
+      "offset": 1010.72,
+      "lang": "en"
+    },
+    {
+      "text": "project, there&#39;s authentication. You",
+      "duration": 3.84,
+      "offset": 1012.56,
+      "lang": "en"
+    },
+    {
+      "text": "always want to do one little step that&#39;s",
+      "duration": 3.92,
+      "offset": 1014.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to help you. And that is right",
+      "duration": 5.12,
+      "offset": 1016.4,
+      "lang": "en"
+    },
+    {
+      "text": "here. Um, if you go to sign in, sign up,",
+      "duration": 7.16,
+      "offset": 1018.4,
+      "lang": "en"
+    },
+    {
+      "text": "we want to untoggle this uh, email um,",
+      "duration": 7.6,
+      "offset": 1021.52,
+      "lang": "en"
+    },
+    {
+      "text": "verification, confirm email, because as",
+      "duration": 4.68,
+      "offset": 1025.56,
+      "lang": "en"
+    },
+    {
+      "text": "you can see, it&#39;s going to be a real",
+      "duration": 2.56,
+      "offset": 1029.12,
+      "lang": "en"
+    },
+    {
+      "text": "mess when I start testing things out",
+      "duration": 2.72,
+      "offset": 1030.24,
+      "lang": "en"
+    },
+    {
+      "text": "every single time I create a new",
+      "duration": 3.2,
+      "offset": 1031.68,
+      "lang": "en"
+    },
+    {
+      "text": "feature. It&#39;s obviously every time going",
+      "duration": 3.28,
+      "offset": 1032.96,
+      "lang": "en"
+    },
+    {
+      "text": "to send me a confirmation email, and",
+      "duration": 2.56,
+      "offset": 1034.88,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s going to be a problem. I just",
+      "duration": 2.64,
+      "offset": 1036.24,
+      "lang": "en"
+    },
+    {
+      "text": "untoggle that. Pretty much for every",
+      "duration": 2.88,
+      "offset": 1037.44,
+      "lang": "en"
+    },
+    {
+      "text": "project, you want to do this until you",
+      "duration": 3.2,
+      "offset": 1038.88,
+      "lang": "en"
+    },
+    {
+      "text": "launch. Uh, and now I&#39;m going to come",
+      "duration": 4.48,
+      "offset": 1040.32,
+      "lang": "en"
+    },
+    {
+      "text": "back in here, and I&#39;m going to go ahead",
+      "duration": 4.16,
+      "offset": 1042.08,
+      "lang": "en"
+    },
+    {
+      "text": "and, uh, test it out. So, I&#39;m going to",
+      "duration": 3.68,
+      "offset": 1044.8,
+      "lang": "en"
+    },
+    {
+      "text": "go to the sign up. going to click on",
+      "duration": 5.04,
+      "offset": 1046.24,
+      "lang": "en"
+    },
+    {
+      "text": "this. I&#39;m going to create any username",
+      "duration": 5.28,
+      "offset": 1048.48,
+      "lang": "en"
+    },
+    {
+      "text": "and password. Success. So now I go to",
+      "duration": 6.08,
+      "offset": 1051.28,
+      "lang": "en"
+    },
+    {
+      "text": "sign in and sign in. Perfect. So this",
+      "duration": 6.32,
+      "offset": 1053.76,
+      "lang": "en"
+    },
+    {
+      "text": "worked perfectly actually. Um now I have",
+      "duration": 5.68,
+      "offset": 1057.36,
+      "lang": "en"
+    },
+    {
+      "text": "access to this and um I&#39;m also going to",
+      "duration": 4.56,
+      "offset": 1060.08,
+      "lang": "en"
+    },
+    {
+      "text": "double check. Now one thing you want to",
+      "duration": 2.96,
+      "offset": 1063.04,
+      "lang": "en"
+    },
+    {
+      "text": "do and I&#39;m going to give you a little",
+      "duration": 3.2,
+      "offset": 1064.64,
+      "lang": "en"
+    },
+    {
+      "text": "tutorial here of Superbase real quick",
+      "duration": 3.12,
+      "offset": 1066.0,
+      "lang": "en"
+    },
+    {
+      "text": "just so you know where to look for",
+      "duration": 3.04,
+      "offset": 1067.84,
+      "lang": "en"
+    },
+    {
+      "text": "things. Here we have a number of",
+      "duration": 3.44,
+      "offset": 1069.12,
+      "lang": "en"
+    },
+    {
+      "text": "different things. As I mentioned they",
+      "duration": 3.36,
+      "offset": 1070.88,
+      "lang": "en"
+    },
+    {
+      "text": "are your database. We&#39;re about to sync",
+      "duration": 3.76,
+      "offset": 1072.56,
+      "lang": "en"
+    },
+    {
+      "text": "that. So basically all the data is",
+      "duration": 4.56,
+      "offset": 1074.24,
+      "lang": "en"
+    },
+    {
+      "text": "linked to my account when I create uh",
+      "duration": 4.32,
+      "offset": 1076.32,
+      "lang": "en"
+    },
+    {
+      "text": "new pitches and it&#39;s going to be saved",
+      "duration": 3.6,
+      "offset": 1078.8,
+      "lang": "en"
+    },
+    {
+      "text": "so when I log back in I get access to",
+      "duration": 4.64,
+      "offset": 1080.64,
+      "lang": "en"
+    },
+    {
+      "text": "that right authentication sign in sign",
+      "duration": 5.76,
+      "offset": 1082.4,
+      "lang": "en"
+    },
+    {
+      "text": "up all of that jazz. Um storage over",
+      "duration": 4.8,
+      "offset": 1085.28,
+      "lang": "en"
+    },
+    {
+      "text": "here is going to be as I said for like",
+      "duration": 3.84,
+      "offset": 1088.16,
+      "lang": "en"
+    },
+    {
+      "text": "video stuff uh edge functions we&#39;re",
+      "duration": 3.6,
+      "offset": 1090.08,
+      "lang": "en"
+    },
+    {
+      "text": "going to implement uh a little bit",
+      "duration": 4.48,
+      "offset": 1092.0,
+      "lang": "en"
+    },
+    {
+      "text": "afterwards. So now the next step is",
+      "duration": 4.4,
+      "offset": 1093.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to be to come back into lovable",
+      "duration": 3.2,
+      "offset": 1096.48,
+      "lang": "en"
+    },
+    {
+      "text": "and keep building. And so one thing you",
+      "duration": 2.88,
+      "offset": 1098.08,
+      "lang": "en"
+    },
+    {
+      "text": "want to do is to check that this is set",
+      "duration": 2.88,
+      "offset": 1099.68,
+      "lang": "en"
+    },
+    {
+      "text": "up properly. Right? So I just logged in",
+      "duration": 3.76,
+      "offset": 1100.96,
+      "lang": "en"
+    },
+    {
+      "text": "and now if I go to authentication, boom,",
+      "duration": 5.12,
+      "offset": 1102.56,
+      "lang": "en"
+    },
+    {
+      "text": "I have logged in and so this shows me",
+      "duration": 5.52,
+      "offset": 1104.72,
+      "lang": "en"
+    },
+    {
+      "text": "okay this is properly synced and this is",
+      "duration": 4.88,
+      "offset": 1107.68,
+      "lang": "en"
+    },
+    {
+      "text": "working. Uh the next step is going to be",
+      "duration": 6.48,
+      "offset": 1110.24,
+      "lang": "en"
+    },
+    {
+      "text": "to uh actually u make these um features",
+      "duration": 6.64,
+      "offset": 1112.56,
+      "lang": "en"
+    },
+    {
+      "text": "work and have them store have it create",
+      "duration": 6.24,
+      "offset": 1116.72,
+      "lang": "en"
+    },
+    {
+      "text": "an entire um you know database structure",
+      "duration": 5.12,
+      "offset": 1119.2,
+      "lang": "en"
+    },
+    {
+      "text": "um and I&#39;ll talk about what that means",
+      "duration": 3.92,
+      "offset": 1122.96,
+      "lang": "en"
+    },
+    {
+      "text": "in a moment uh from the front end. So",
+      "duration": 4.4,
+      "offset": 1124.32,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;m going to say okay now can you",
+      "duration": 4.16,
+      "offset": 1126.88,
+      "lang": "en"
+    },
+    {
+      "text": "sync the database? Let&#39;s go ahead and",
+      "duration": 4.24,
+      "offset": 1128.72,
+      "lang": "en"
+    },
+    {
+      "text": "just input that. And this is really the",
+      "duration": 4.24,
+      "offset": 1131.04,
+      "lang": "en"
+    },
+    {
+      "text": "beauty of this connection here. We",
+      "duration": 5.44,
+      "offset": 1132.96,
+      "lang": "en"
+    },
+    {
+      "text": "basically have a full log of uh of",
+      "duration": 4.8,
+      "offset": 1135.28,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s happening here. So it&#39;s like it&#39;s",
+      "duration": 3.04,
+      "offset": 1138.4,
+      "lang": "en"
+    },
+    {
+      "text": "telling me that it&#39;s creating these",
+      "duration": 3.44,
+      "offset": 1140.08,
+      "lang": "en"
+    },
+    {
+      "text": "different tables. So one for the pitches",
+      "duration": 4.16,
+      "offset": 1141.44,
+      "lang": "en"
+    },
+    {
+      "text": "that it&#39;s also implementing rowle",
+      "duration": 4.8,
+      "offset": 1143.52,
+      "lang": "en"
+    },
+    {
+      "text": "security super important um you know for",
+      "duration": 5.76,
+      "offset": 1145.6,
+      "lang": "en"
+    },
+    {
+      "text": "cyber security um it&#39;s creating a policy",
+      "duration": 5.52,
+      "offset": 1148.32,
+      "lang": "en"
+    },
+    {
+      "text": "for you know you can only see this if",
+      "duration": 4.48,
+      "offset": 1151.36,
+      "lang": "en"
+    },
+    {
+      "text": "you are the one who created it right um",
+      "duration": 4.16,
+      "offset": 1153.84,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s creating all of these policies",
+      "duration": 5.12,
+      "offset": 1155.84,
+      "lang": "en"
+    },
+    {
+      "text": "basically and now I&#39;m going to say yes",
+      "duration": 4.32,
+      "offset": 1158.0,
+      "lang": "en"
+    },
+    {
+      "text": "and you&#39;ll notice that you want to",
+      "duration": 3.36,
+      "offset": 1160.96,
+      "lang": "en"
+    },
+    {
+      "text": "understand and dig deeper and see what",
+      "duration": 4.16,
+      "offset": 1162.32,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s doing uh as you move along but",
+      "duration": 3.68,
+      "offset": 1164.32,
+      "lang": "en"
+    },
+    {
+      "text": "literally if you have no experience you",
+      "duration": 3.28,
+      "offset": 1166.48,
+      "lang": "en"
+    },
+    {
+      "text": "can also just say yes and so what&#39;s",
+      "duration": 3.04,
+      "offset": 1168.0,
+      "lang": "en"
+    },
+    {
+      "text": "happening here when you synchronize",
+      "duration": 2.72,
+      "offset": 1169.76,
+      "lang": "en"
+    },
+    {
+      "text": "things is that you&#39;re moving from local",
+      "duration": 2.96,
+      "offset": 1171.04,
+      "lang": "en"
+    },
+    {
+      "text": "storage, which means that it&#39;s only",
+      "duration": 4.08,
+      "offset": 1172.48,
+      "lang": "en"
+    },
+    {
+      "text": "visible on your computer, to actually",
+      "duration": 4.88,
+      "offset": 1174.0,
+      "lang": "en"
+    },
+    {
+      "text": "being stored in this database that your",
+      "duration": 4.4,
+      "offset": 1176.56,
+      "lang": "en"
+    },
+    {
+      "text": "app is retrieving from. So, it always",
+      "duration": 3.68,
+      "offset": 1178.88,
+      "lang": "en"
+    },
+    {
+      "text": "has the data and it can just show it on",
+      "duration": 2.96,
+      "offset": 1180.96,
+      "lang": "en"
+    },
+    {
+      "text": "the front end, which is like the user",
+      "duration": 2.72,
+      "offset": 1182.56,
+      "lang": "en"
+    },
+    {
+      "text": "experience or the app experience that",
+      "duration": 2.8,
+      "offset": 1183.92,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re seeing here. Okay, so it says",
+      "duration": 2.88,
+      "offset": 1185.28,
+      "lang": "en"
+    },
+    {
+      "text": "that it&#39;s actually working. So, let&#39;s",
+      "duration": 3.28,
+      "offset": 1186.72,
+      "lang": "en"
+    },
+    {
+      "text": "kind of test this out right now. First",
+      "duration": 3.44,
+      "offset": 1188.16,
+      "lang": "en"
+    },
+    {
+      "text": "thing I&#39;m going to go here and check",
+      "duration": 3.6,
+      "offset": 1190.0,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s happening. So, here I&#39;ll check",
+      "duration": 3.84,
+      "offset": 1191.6,
+      "lang": "en"
+    },
+    {
+      "text": "the database. So, what is happening",
+      "duration": 4.16,
+      "offset": 1193.6,
+      "lang": "en"
+    },
+    {
+      "text": "here? It seems like the pitches are",
+      "duration": 5.68,
+      "offset": 1195.44,
+      "lang": "en"
+    },
+    {
+      "text": "linked to the uh user, right? So, this",
+      "duration": 5.6,
+      "offset": 1197.76,
+      "lang": "en"
+    },
+    {
+      "text": "makes a lot of sense, right? Um, if",
+      "duration": 5.12,
+      "offset": 1201.12,
+      "lang": "en"
+    },
+    {
+      "text": "someone is not actually asking for a",
+      "duration": 4.32,
+      "offset": 1203.36,
+      "lang": "en"
+    },
+    {
+      "text": "pitch, then they won&#39;t have access to",
+      "duration": 3.2,
+      "offset": 1206.24,
+      "lang": "en"
+    },
+    {
+      "text": "this, right? Uh, excellent. Now, let&#39;s",
+      "duration": 3.52,
+      "offset": 1207.68,
+      "lang": "en"
+    },
+    {
+      "text": "go and check out the tables. And we can",
+      "duration": 3.28,
+      "offset": 1209.44,
+      "lang": "en"
+    },
+    {
+      "text": "see that there is a table created for",
+      "duration": 3.6,
+      "offset": 1211.2,
+      "lang": "en"
+    },
+    {
+      "text": "pitches. Very good. Now, we need to make",
+      "duration": 3.44,
+      "offset": 1212.72,
+      "lang": "en"
+    },
+    {
+      "text": "sure that when we create a pitch, it",
+      "duration": 2.64,
+      "offset": 1214.8,
+      "lang": "en"
+    },
+    {
+      "text": "actually saves it in here. And then",
+      "duration": 2.64,
+      "offset": 1216.16,
+      "lang": "en"
+    },
+    {
+      "text": "there are other things in here that we",
+      "duration": 2.72,
+      "offset": 1217.44,
+      "lang": "en"
+    },
+    {
+      "text": "can also check out. But for the moment,",
+      "duration": 3.44,
+      "offset": 1218.8,
+      "lang": "en"
+    },
+    {
+      "text": "I see that this table has been created.",
+      "duration": 3.92,
+      "offset": 1220.16,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s what I&#39;m looking for. Columns are",
+      "duration": 3.68,
+      "offset": 1222.24,
+      "lang": "en"
+    },
+    {
+      "text": "basically all the fields. So, it&#39;s like",
+      "duration": 3.84,
+      "offset": 1224.08,
+      "lang": "en"
+    },
+    {
+      "text": "the ID, the user ID, the title,",
+      "duration": 4.4,
+      "offset": 1225.92,
+      "lang": "en"
+    },
+    {
+      "text": "transcript, structure. Um, and so that",
+      "duration": 5.52,
+      "offset": 1227.92,
+      "lang": "en"
+    },
+    {
+      "text": "we know now works. Let me come back over",
+      "duration": 4.56,
+      "offset": 1230.32,
+      "lang": "en"
+    },
+    {
+      "text": "here. And now we&#39;re actually going to",
+      "duration": 3.28,
+      "offset": 1233.44,
+      "lang": "en"
+    },
+    {
+      "text": "start building out these functionalities",
+      "duration": 4.72,
+      "offset": 1234.88,
+      "lang": "en"
+    },
+    {
+      "text": "so they actually work. Please create a",
+      "duration": 6.68,
+      "offset": 1236.72,
+      "lang": "en"
+    },
+    {
+      "text": "uh pitch for my idea. It&#39;s um basically",
+      "duration": 7.68,
+      "offset": 1239.6,
+      "lang": "en"
+    },
+    {
+      "text": "Airbnb but for pools. Okay, this is a",
+      "duration": 5.8,
+      "offset": 1243.4,
+      "lang": "en"
+    },
+    {
+      "text": "mockup transcript of your pitch.",
+      "duration": 4.56,
+      "offset": 1247.28,
+      "lang": "en"
+    },
+    {
+      "text": "Excellent. And let&#39;s just say um",
+      "duration": 5.04,
+      "offset": 1249.2,
+      "lang": "en"
+    },
+    {
+      "text": "generate pitch. Perfect. It&#39;s generated",
+      "duration": 4.84,
+      "offset": 1251.84,
+      "lang": "en"
+    },
+    {
+      "text": "the pitch. So now let&#39;s save this to",
+      "duration": 5.2,
+      "offset": 1254.24,
+      "lang": "en"
+    },
+    {
+      "text": "library. And it is saving correctly to",
+      "duration": 4.52,
+      "offset": 1256.68,
+      "lang": "en"
+    },
+    {
+      "text": "the library. Excellent. And it also",
+      "duration": 2.88,
+      "offset": 1259.44,
+      "lang": "en"
+    },
+    {
+      "text": "brought me to the library, which is what",
+      "duration": 2.24,
+      "offset": 1261.2,
+      "lang": "en"
+    },
+    {
+      "text": "I was looking for. And if I want to",
+      "duration": 3.2,
+      "offset": 1262.32,
+      "lang": "en"
+    },
+    {
+      "text": "edit, I can edit whatever is here, which",
+      "duration": 4.72,
+      "offset": 1263.44,
+      "lang": "en"
+    },
+    {
+      "text": "is great. And then if I also notice here",
+      "duration": 4.72,
+      "offset": 1265.52,
+      "lang": "en"
+    },
+    {
+      "text": "that let me just adapt this little",
+      "duration": 4.04,
+      "offset": 1268.16,
+      "lang": "en"
+    },
+    {
+      "text": "thing. So you&#39;ll notice little in uh",
+      "duration": 4.64,
+      "offset": 1270.24,
+      "lang": "en"
+    },
+    {
+      "text": "inconsistencies as you move forward. No",
+      "duration": 5.08,
+      "offset": 1272.2,
+      "lang": "en"
+    },
+    {
+      "text": "problem. We know how to fix them. So why",
+      "duration": 5.36,
+      "offset": 1274.88,
+      "lang": "en"
+    },
+    {
+      "text": "why should we worry, right? This is uh",
+      "duration": 4.96,
+      "offset": 1277.28,
+      "lang": "en"
+    },
+    {
+      "text": "good times. And this visual editor has",
+      "duration": 3.52,
+      "offset": 1280.24,
+      "lang": "en"
+    },
+    {
+      "text": "just gotten better as well. It&#39;s just",
+      "duration": 4.0,
+      "offset": 1282.24,
+      "lang": "en"
+    },
+    {
+      "text": "really cool to see. Um, but now let&#39;s go",
+      "duration": 4.4,
+      "offset": 1283.76,
+      "lang": "en"
+    },
+    {
+      "text": "back and let&#39;s actually see inside of",
+      "duration": 4.64,
+      "offset": 1286.24,
+      "lang": "en"
+    },
+    {
+      "text": "the database. Now, if I come in here and",
+      "duration": 4.88,
+      "offset": 1288.16,
+      "lang": "en"
+    },
+    {
+      "text": "I check out the database itself, I&#39;m",
+      "duration": 3.84,
+      "offset": 1290.88,
+      "lang": "en"
+    },
+    {
+      "text": "going to be able to start seeing, okay,",
+      "duration": 3.28,
+      "offset": 1293.04,
+      "lang": "en"
+    },
+    {
+      "text": "interesting tables. Let&#39;s go and check",
+      "duration": 3.92,
+      "offset": 1294.72,
+      "lang": "en"
+    },
+    {
+      "text": "out these pitches. There is a pitch",
+      "duration": 6.0,
+      "offset": 1296.32,
+      "lang": "en"
+    },
+    {
+      "text": "inside the table. Yay, great success. We",
+      "duration": 6.0,
+      "offset": 1298.64,
+      "lang": "en"
+    },
+    {
+      "text": "have successfully uh created a pitch",
+      "duration": 4.16,
+      "offset": 1302.32,
+      "lang": "en"
+    },
+    {
+      "text": "here. And if I come in here, table",
+      "duration": 3.92,
+      "offset": 1304.64,
+      "lang": "en"
+    },
+    {
+      "text": "editor, I can click on that. I&#39;m now",
+      "duration": 4.56,
+      "offset": 1306.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to see that there is a table. And",
+      "duration": 5.2,
+      "offset": 1308.56,
+      "lang": "en"
+    },
+    {
+      "text": "this table is basically the",
+      "duration": 4.8,
+      "offset": 1311.04,
+      "lang": "en"
+    },
+    {
+      "text": "revolutionary AI powered pitch",
+      "duration": 4.8,
+      "offset": 1313.76,
+      "lang": "en"
+    },
+    {
+      "text": "assistant. Excellent. So I now see that",
+      "duration": 5.52,
+      "offset": 1315.84,
+      "lang": "en"
+    },
+    {
+      "text": "uh this is indeed working. AI powered",
+      "duration": 4.96,
+      "offset": 1318.56,
+      "lang": "en"
+    },
+    {
+      "text": "pitch assistant. So this is working. It",
+      "duration": 4.4,
+      "offset": 1321.36,
+      "lang": "en"
+    },
+    {
+      "text": "is storing correctly in the database.",
+      "duration": 4.48,
+      "offset": 1323.52,
+      "lang": "en"
+    },
+    {
+      "text": "And the next step for us is going to be",
+      "duration": 5.44,
+      "offset": 1325.76,
+      "lang": "en"
+    },
+    {
+      "text": "to uh surprise surprise add a little bit",
+      "duration": 6.24,
+      "offset": 1328.0,
+      "lang": "en"
+    },
+    {
+      "text": "of cool AI. Okay. Up until now it&#39;s been",
+      "duration": 5.28,
+      "offset": 1331.2,
+      "lang": "en"
+    },
+    {
+      "text": "getting mock data for the transcription.",
+      "duration": 3.84,
+      "offset": 1334.24,
+      "lang": "en"
+    },
+    {
+      "text": "Could you now make the transcription",
+      "duration": 4.04,
+      "offset": 1336.48,
+      "lang": "en"
+    },
+    {
+      "text": "real? Okay. Okay. So, let&#39;s try this out",
+      "duration": 6.48,
+      "offset": 1338.08,
+      "lang": "en"
+    },
+    {
+      "text": "now. Could you please um give me a pitch",
+      "duration": 6.76,
+      "offset": 1340.52,
+      "lang": "en"
+    },
+    {
+      "text": "for my idea? So, basically, I&#39;m creating",
+      "duration": 5.6,
+      "offset": 1344.56,
+      "lang": "en"
+    },
+    {
+      "text": "a uh an app that allows people to rent",
+      "duration": 5.52,
+      "offset": 1347.28,
+      "lang": "en"
+    },
+    {
+      "text": "out other people&#39;s pools uh for a couple",
+      "duration": 4.72,
+      "offset": 1350.16,
+      "lang": "en"
+    },
+    {
+      "text": "hours. So, think of it like Airbnb but",
+      "duration": 5.12,
+      "offset": 1352.8,
+      "lang": "en"
+    },
+    {
+      "text": "for pools kind of thing. Look at that.",
+      "duration": 6.48,
+      "offset": 1354.88,
+      "lang": "en"
+    },
+    {
+      "text": "It has grabbed that. And now, if I click",
+      "duration": 5.2,
+      "offset": 1357.92,
+      "lang": "en"
+    },
+    {
+      "text": "on generate pitch, and this is going to",
+      "duration": 3.68,
+      "offset": 1361.36,
+      "lang": "en"
+    },
+    {
+      "text": "be the next step. Okay. So, great. We",
+      "duration": 3.68,
+      "offset": 1363.12,
+      "lang": "en"
+    },
+    {
+      "text": "got that working now. And now the next",
+      "duration": 4.48,
+      "offset": 1365.04,
+      "lang": "en"
+    },
+    {
+      "text": "step is going to be to uh basically",
+      "duration": 5.36,
+      "offset": 1366.8,
+      "lang": "en"
+    },
+    {
+      "text": "start making this data actually work. So",
+      "duration": 5.52,
+      "offset": 1369.52,
+      "lang": "en"
+    },
+    {
+      "text": "like let&#39;s go ahead and um and adapt",
+      "duration": 5.04,
+      "offset": 1372.16,
+      "lang": "en"
+    },
+    {
+      "text": "this. Okay, now the transcription works,",
+      "duration": 4.16,
+      "offset": 1375.04,
+      "lang": "en"
+    },
+    {
+      "text": "but it seems like it&#39;s adding dummy",
+      "duration": 4.4,
+      "offset": 1377.2,
+      "lang": "en"
+    },
+    {
+      "text": "data. So I&#39;m basically asking it to",
+      "duration": 3.84,
+      "offset": 1379.2,
+      "lang": "en"
+    },
+    {
+      "text": "create two options, right? It&#39;s either",
+      "duration": 3.44,
+      "offset": 1381.6,
+      "lang": "en"
+    },
+    {
+      "text": "re-record or generate the pitch. So it&#39;s",
+      "duration": 3.52,
+      "offset": 1383.04,
+      "lang": "en"
+    },
+    {
+      "text": "basically going to be showing the",
+      "duration": 2.88,
+      "offset": 1385.04,
+      "lang": "en"
+    },
+    {
+      "text": "transcript and then it just asks it",
+      "duration": 3.04,
+      "offset": 1386.56,
+      "lang": "en"
+    },
+    {
+      "text": "whether or not it wants to move forward",
+      "duration": 3.6,
+      "offset": 1387.92,
+      "lang": "en"
+    },
+    {
+      "text": "or not. If it does want to move forward,",
+      "duration": 3.84,
+      "offset": 1389.6,
+      "lang": "en"
+    },
+    {
+      "text": "we basically are going to tap into Open",
+      "duration": 3.28,
+      "offset": 1391.52,
+      "lang": "en"
+    },
+    {
+      "text": "AI and that&#39;s the next step we&#39;re going",
+      "duration": 3.76,
+      "offset": 1393.44,
+      "lang": "en"
+    },
+    {
+      "text": "to see. Now, uh, if it does not, then",
+      "duration": 4.08,
+      "offset": 1394.8,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to, uh, basically have it",
+      "duration": 3.76,
+      "offset": 1397.2,
+      "lang": "en"
+    },
+    {
+      "text": "come back to this screen. Let&#39;s go ahead",
+      "duration": 4.08,
+      "offset": 1398.88,
+      "lang": "en"
+    },
+    {
+      "text": "and click on that. So, as this is",
+      "duration": 3.44,
+      "offset": 1400.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually working, I&#39;m going to have to",
+      "duration": 4.48,
+      "offset": 1402.96,
+      "lang": "en"
+    },
+    {
+      "text": "go and create an OpenAI API key so that",
+      "duration": 5.12,
+      "offset": 1404.4,
+      "lang": "en"
+    },
+    {
+      "text": "I can use it here. So, the way I&#39;m going",
+      "duration": 4.8,
+      "offset": 1407.44,
+      "lang": "en"
+    },
+    {
+      "text": "to do that is jump into Open AI. And",
+      "duration": 4.4,
+      "offset": 1409.52,
+      "lang": "en"
+    },
+    {
+      "text": "once I&#39;m inside here, I&#39;m going to come",
+      "duration": 4.48,
+      "offset": 1412.24,
+      "lang": "en"
+    },
+    {
+      "text": "here down to API keys. When I click on",
+      "duration": 4.96,
+      "offset": 1413.92,
+      "lang": "en"
+    },
+    {
+      "text": "this, I&#39;m going to have to create a new",
+      "duration": 3.68,
+      "offset": 1416.72,
+      "lang": "en"
+    },
+    {
+      "text": "key. And this is going to be",
+      "duration": 3.6,
+      "offset": 1418.88,
+      "lang": "en"
+    },
+    {
+      "text": "specifically for this project. So, this",
+      "duration": 4.96,
+      "offset": 1420.4,
+      "lang": "en"
+    },
+    {
+      "text": "project is Pitch Pal. I&#39;m going to go",
+      "duration": 5.52,
+      "offset": 1422.48,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and create that secret key. Now,",
+      "duration": 4.72,
+      "offset": 1425.36,
+      "lang": "en"
+    },
+    {
+      "text": "this key, my friends, um, and I&#39;m not",
+      "duration": 3.92,
+      "offset": 1428.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to be showing it here, but you",
+      "duration": 3.6,
+      "offset": 1430.08,
+      "lang": "en"
+    },
+    {
+      "text": "want to keep it incredibly secret cuz if",
+      "duration": 3.44,
+      "offset": 1431.92,
+      "lang": "en"
+    },
+    {
+      "text": "not, someone else can use your Open AI",
+      "duration": 3.04,
+      "offset": 1433.68,
+      "lang": "en"
+    },
+    {
+      "text": "key and they can actually use your",
+      "duration": 4.08,
+      "offset": 1435.36,
+      "lang": "en"
+    },
+    {
+      "text": "credits. So, keep this very safe. So,",
+      "duration": 4.24,
+      "offset": 1436.72,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to go ahead and close this.",
+      "duration": 4.08,
+      "offset": 1439.44,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve created it. Now, I can close this.",
+      "duration": 5.2,
+      "offset": 1440.96,
+      "lang": "en"
+    },
+    {
+      "text": "Come back into Lovable. And the next",
+      "duration": 4.96,
+      "offset": 1443.52,
+      "lang": "en"
+    },
+    {
+      "text": "step is going to be to add my API key.",
+      "duration": 4.4,
+      "offset": 1446.16,
+      "lang": "en"
+    },
+    {
+      "text": "Now you can see here it has a secure way",
+      "duration": 4.0,
+      "offset": 1448.48,
+      "lang": "en"
+    },
+    {
+      "text": "of doing this by asking for it like this",
+      "duration": 3.92,
+      "offset": 1450.56,
+      "lang": "en"
+    },
+    {
+      "text": "so that if someone comes and checks out",
+      "duration": 4.16,
+      "offset": 1452.48,
+      "lang": "en"
+    },
+    {
+      "text": "what you actually wrote uh inside the",
+      "duration": 3.52,
+      "offset": 1454.48,
+      "lang": "en"
+    },
+    {
+      "text": "history they won&#39;t be able to find your",
+      "duration": 3.08,
+      "offset": 1456.64,
+      "lang": "en"
+    },
+    {
+      "text": "key which is",
+      "duration": 4.48,
+      "offset": 1458.0,
+      "lang": "en"
+    },
+    {
+      "text": "great submit. Okay. So now let&#39;s see the",
+      "duration": 4.36,
+      "offset": 1459.72,
+      "lang": "en"
+    },
+    {
+      "text": "results once we fine-tuned a little bit",
+      "duration": 4.4,
+      "offset": 1462.48,
+      "lang": "en"
+    },
+    {
+      "text": "the prompt. Okay. So my idea basically I",
+      "duration": 5.76,
+      "offset": 1464.08,
+      "lang": "en"
+    },
+    {
+      "text": "am uh building a platform where you can",
+      "duration": 6.0,
+      "offset": 1466.88,
+      "lang": "en"
+    },
+    {
+      "text": "hire highly trained ninjas to protect",
+      "duration": 5.76,
+      "offset": 1469.84,
+      "lang": "en"
+    },
+    {
+      "text": "your house. kind of like Upwork uh where",
+      "duration": 4.32,
+      "offset": 1472.88,
+      "lang": "en"
+    },
+    {
+      "text": "you can hire freelancers, but this is",
+      "duration": 4.24,
+      "offset": 1475.6,
+      "lang": "en"
+    },
+    {
+      "text": "specifically for highly trained uh",
+      "duration": 7.96,
+      "offset": 1477.2,
+      "lang": "en"
+    },
+    {
+      "text": "samurai ninjas um and sense. Okay, that",
+      "duration": 7.76,
+      "offset": 1479.84,
+      "lang": "en"
+    },
+    {
+      "text": "worked. Generate pitch. Let&#39;s see what",
+      "duration": 4.44,
+      "offset": 1485.16,
+      "lang": "en"
+    },
+    {
+      "text": "this gives us. Okay, let&#39;s see the",
+      "duration": 4.64,
+      "offset": 1487.6,
+      "lang": "en"
+    },
+    {
+      "text": "results here. Hire elite samurai ninjas",
+      "duration": 5.12,
+      "offset": 1489.6,
+      "lang": "en"
+    },
+    {
+      "text": "for unparalleled home security. Merging",
+      "duration": 5.48,
+      "offset": 1492.24,
+      "lang": "en"
+    },
+    {
+      "text": "tradition with modern freelancing",
+      "duration": 4.96,
+      "offset": 1494.72,
+      "lang": "en"
+    },
+    {
+      "text": "convenience. Not a huge fan of this",
+      "duration": 3.8,
+      "offset": 1497.72,
+      "lang": "en"
+    },
+    {
+      "text": "oneliner. So, let&#39;s see the slides now.",
+      "duration": 3.28,
+      "offset": 1499.68,
+      "lang": "en"
+    },
+    {
+      "text": "And this is great. It actually follows",
+      "duration": 3.36,
+      "offset": 1501.52,
+      "lang": "en"
+    },
+    {
+      "text": "problem, solution, market opportunity,",
+      "duration": 4.08,
+      "offset": 1502.96,
+      "lang": "en"
+    },
+    {
+      "text": "competitive advantage, traction, call to",
+      "duration": 4.16,
+      "offset": 1504.88,
+      "lang": "en"
+    },
+    {
+      "text": "action. Okay, so I would like a couple",
+      "duration": 3.44,
+      "offset": 1507.04,
+      "lang": "en"
+    },
+    {
+      "text": "more slides, so we&#39;ll fine-tune it a",
+      "duration": 2.96,
+      "offset": 1509.04,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more, but uh problem.",
+      "duration": 3.2,
+      "offset": 1510.48,
+      "lang": "en"
+    },
+    {
+      "text": "Homeowners face increasing security",
+      "duration": 3.76,
+      "offset": 1512.0,
+      "lang": "en"
+    },
+    {
+      "text": "threats and need reliable protection.",
+      "duration": 4.0,
+      "offset": 1513.68,
+      "lang": "en"
+    },
+    {
+      "text": "Solution, a platform to hire highly",
+      "duration": 5.72,
+      "offset": 1515.76,
+      "lang": "en"
+    },
+    {
+      "text": "trained samurai ninjas offering security",
+      "duration": 6.56,
+      "offset": 1517.68,
+      "lang": "en"
+    },
+    {
+      "text": "services. Okay, all jokes aside, I&#39;m",
+      "duration": 4.12,
+      "offset": 1521.48,
+      "lang": "en"
+    },
+    {
+      "text": "just going to fine-tune it one last",
+      "duration": 3.2,
+      "offset": 1524.24,
+      "lang": "en"
+    },
+    {
+      "text": "time, and this time I&#39;m going to give it",
+      "duration": 3.68,
+      "offset": 1525.6,
+      "lang": "en"
+    },
+    {
+      "text": "very specific references. So for pitch",
+      "duration": 4.16,
+      "offset": 1527.44,
+      "lang": "en"
+    },
+    {
+      "text": "decks, there&#39;s this guy. He&#39;s called Guy",
+      "duration": 4.88,
+      "offset": 1529.28,
+      "lang": "en"
+    },
+    {
+      "text": "Kawazaki and he invented the 10 slide",
+      "duration": 4.88,
+      "offset": 1531.6,
+      "lang": "en"
+    },
+    {
+      "text": "pitch deck which is still till today the",
+      "duration": 4.16,
+      "offset": 1534.16,
+      "lang": "en"
+    },
+    {
+      "text": "basically the framework people use to",
+      "duration": 3.52,
+      "offset": 1536.48,
+      "lang": "en"
+    },
+    {
+      "text": "build pitch decks in Silicon Valley. So",
+      "duration": 3.04,
+      "offset": 1538.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to reference him so that it",
+      "duration": 3.6,
+      "offset": 1540.0,
+      "lang": "en"
+    },
+    {
+      "text": "creates a pitch deck in line with his",
+      "duration": 3.92,
+      "offset": 1541.36,
+      "lang": "en"
+    },
+    {
+      "text": "sort of methodology. And then for the",
+      "duration": 2.88,
+      "offset": 1543.6,
+      "lang": "en"
+    },
+    {
+      "text": "oneliner I&#39;m going to use my own",
+      "duration": 2.56,
+      "offset": 1545.28,
+      "lang": "en"
+    },
+    {
+      "text": "framework that I&#39;ll tell you in just a",
+      "duration": 2.8,
+      "offset": 1546.48,
+      "lang": "en"
+    },
+    {
+      "text": "bit. So let&#39;s jump here into the chat",
+      "duration": 3.68,
+      "offset": 1547.84,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m going to say please use the 10",
+      "duration": 4.48,
+      "offset": 1549.28,
+      "lang": "en"
+    },
+    {
+      "text": "slides that guy Kawazaki would use in",
+      "duration": 3.68,
+      "offset": 1551.52,
+      "lang": "en"
+    },
+    {
+      "text": "his methodology. And then for the",
+      "duration": 3.04,
+      "offset": 1553.76,
+      "lang": "en"
+    },
+    {
+      "text": "oneliner the format is going to be as",
+      "duration": 3.04,
+      "offset": 1555.2,
+      "lang": "en"
+    },
+    {
+      "text": "such. And so for the framework we&#39;re",
+      "duration": 4.64,
+      "offset": 1556.8,
+      "lang": "en"
+    },
+    {
+      "text": "going with this name of company is",
+      "duration": 6.0,
+      "offset": 1558.24,
+      "lang": "en"
+    },
+    {
+      "text": "product description for ideal customer",
+      "duration": 5.92,
+      "offset": 1561.44,
+      "lang": "en"
+    },
+    {
+      "text": "to desired outcome with special sauce.",
+      "duration": 4.64,
+      "offset": 1564.24,
+      "lang": "en"
+    },
+    {
+      "text": "So for we are no code this would look",
+      "duration": 3.68,
+      "offset": 1567.36,
+      "lang": "en"
+    },
+    {
+      "text": "something like this. Name of company we",
+      "duration": 6.08,
+      "offset": 1568.88,
+      "lang": "en"
+    },
+    {
+      "text": "are no code is a online school for",
+      "duration": 7.04,
+      "offset": 1571.04,
+      "lang": "en"
+    },
+    {
+      "text": "non-technical entrepreneurs to build",
+      "duration": 6.32,
+      "offset": 1574.96,
+      "lang": "en"
+    },
+    {
+      "text": "their apps without coding at all or",
+      "duration": 5.36,
+      "offset": 1578.08,
+      "lang": "en"
+    },
+    {
+      "text": "maybe with AI something like that. But",
+      "duration": 3.12,
+      "offset": 1581.28,
+      "lang": "en"
+    },
+    {
+      "text": "basically I&#39;m going to use that",
+      "duration": 2.4,
+      "offset": 1583.44,
+      "lang": "en"
+    },
+    {
+      "text": "framework and we&#39;re going to see what it",
+      "duration": 5.68,
+      "offset": 1584.4,
+      "lang": "en"
+    },
+    {
+      "text": "does. Okay, so my startup idea is a hot",
+      "duration": 9.44,
+      "offset": 1585.84,
+      "lang": "en"
+    },
+    {
+      "text": "air balloon uh rental service for cats",
+      "duration": 7.92,
+      "offset": 1590.08,
+      "lang": "en"
+    },
+    {
+      "text": "who want to discover what flying is",
+      "duration": 5.68,
+      "offset": 1595.28,
+      "lang": "en"
+    },
+    {
+      "text": "like. Okay, so let&#39;s check it out. Cat",
+      "duration": 5.04,
+      "offset": 1598.0,
+      "lang": "en"
+    },
+    {
+      "text": "Balloon Adventures is a hot air balloon",
+      "duration": 4.0,
+      "offset": 1600.96,
+      "lang": "en"
+    },
+    {
+      "text": "rental service for adventurous cat",
+      "duration": 3.76,
+      "offset": 1603.04,
+      "lang": "en"
+    },
+    {
+      "text": "owners to let their feline friends",
+      "duration": 4.0,
+      "offset": 1604.96,
+      "lang": "en"
+    },
+    {
+      "text": "experience the thrill of flying with our",
+      "duration": 4.8,
+      "offset": 1606.8,
+      "lang": "en"
+    },
+    {
+      "text": "specially designed pet friendly",
+      "duration": 4.24,
+      "offset": 1608.96,
+      "lang": "en"
+    },
+    {
+      "text": "balloons.",
+      "duration": 3.68,
+      "offset": 1611.6,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, that&#39;s maybe a little exaggerated,",
+      "duration": 3.6,
+      "offset": 1613.2,
+      "lang": "en"
+    },
+    {
+      "text": "but this thing actually works. So, this",
+      "duration": 2.88,
+      "offset": 1615.28,
+      "lang": "en"
+    },
+    {
+      "text": "is what the slide deck says. Now, for",
+      "duration": 3.6,
+      "offset": 1616.8,
+      "lang": "en"
+    },
+    {
+      "text": "the problem, many pet owners struggle to",
+      "duration": 4.4,
+      "offset": 1618.16,
+      "lang": "en"
+    },
+    {
+      "text": "find unique, exciting experiences for",
+      "duration": 4.08,
+      "offset": 1620.4,
+      "lang": "en"
+    },
+    {
+      "text": "their cats, leading to boredom and lack",
+      "duration": 3.6,
+      "offset": 1622.56,
+      "lang": "en"
+    },
+    {
+      "text": "of enrichment. And then the visual is",
+      "duration": 3.52,
+      "offset": 1624.48,
+      "lang": "en"
+    },
+    {
+      "text": "representing customer pain point. Then",
+      "duration": 3.6,
+      "offset": 1626.16,
+      "lang": "en"
+    },
+    {
+      "text": "we have the solution slide. We have a",
+      "duration": 4.32,
+      "offset": 1628.0,
+      "lang": "en"
+    },
+    {
+      "text": "business model slide underlying magic.",
+      "duration": 5.52,
+      "offset": 1629.76,
+      "lang": "en"
+    },
+    {
+      "text": "Our unique pet safe balloon design",
+      "duration": 5.44,
+      "offset": 1632.32,
+      "lang": "en"
+    },
+    {
+      "text": "includes secure containment, climate",
+      "duration": 3.92,
+      "offset": 1635.28,
+      "lang": "en"
+    },
+    {
+      "text": "control, and soothing sensory",
+      "duration": 3.44,
+      "offset": 1637.76,
+      "lang": "en"
+    },
+    {
+      "text": "accommodation to ensure an enjoyable",
+      "duration": 4.4,
+      "offset": 1639.2,
+      "lang": "en"
+    },
+    {
+      "text": "experience for cats. Pretty sure if I",
+      "duration": 3.92,
+      "offset": 1641.2,
+      "lang": "en"
+    },
+    {
+      "text": "brought a cat up there, it would freak",
+      "duration": 3.92,
+      "offset": 1643.6,
+      "lang": "en"
+    },
+    {
+      "text": "out. But anyway, let&#39;s keep going.",
+      "duration": 4.4,
+      "offset": 1645.12,
+      "lang": "en"
+    },
+    {
+      "text": "Marketing and sales, competition,",
+      "duration": 4.24,
+      "offset": 1647.52,
+      "lang": "en"
+    },
+    {
+      "text": "management team, financial projections,",
+      "duration": 4.8,
+      "offset": 1649.52,
+      "lang": "en"
+    },
+    {
+      "text": "and the timeline. I love this. This",
+      "duration": 4.48,
+      "offset": 1651.76,
+      "lang": "en"
+    },
+    {
+      "text": "actually works pretty well. But more",
+      "duration": 4.64,
+      "offset": 1654.32,
+      "lang": "en"
+    },
+    {
+      "text": "importantly, this app is built. And we",
+      "duration": 4.16,
+      "offset": 1656.24,
+      "lang": "en"
+    },
+    {
+      "text": "can now go to the next step. I&#39;m going",
+      "duration": 3.52,
+      "offset": 1658.96,
+      "lang": "en"
+    },
+    {
+      "text": "to save this. Excellent. And now, my",
+      "duration": 3.28,
+      "offset": 1660.4,
+      "lang": "en"
+    },
+    {
+      "text": "friends, we&#39;re going to jump into the",
+      "duration": 3.2,
+      "offset": 1662.48,
+      "lang": "en"
+    },
+    {
+      "text": "last part of this. We go to the top",
+      "duration": 4.16,
+      "offset": 1663.68,
+      "lang": "en"
+    },
+    {
+      "text": "right. We can just click publish. And",
+      "duration": 3.52,
+      "offset": 1665.68,
+      "lang": "en"
+    },
+    {
+      "text": "the cool thing is that it lets you know,",
+      "duration": 2.88,
+      "offset": 1667.84,
+      "lang": "en"
+    },
+    {
+      "text": "hey, there&#39;s a security issue you might",
+      "duration": 3.84,
+      "offset": 1669.2,
+      "lang": "en"
+    },
+    {
+      "text": "want to review. So you can open this up",
+      "duration": 4.08,
+      "offset": 1670.72,
+      "lang": "en"
+    },
+    {
+      "text": "and you can basically leaked password",
+      "duration": 3.52,
+      "offset": 1673.04,
+      "lang": "en"
+    },
+    {
+      "text": "protection is currently disabled. Okay,",
+      "duration": 3.68,
+      "offset": 1674.8,
+      "lang": "en"
+    },
+    {
+      "text": "but you see how cool this is. You don&#39;t",
+      "duration": 3.12,
+      "offset": 1676.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually have to do anything. It just",
+      "duration": 2.4,
+      "offset": 1678.48,
+      "lang": "en"
+    },
+    {
+      "text": "lets you know, hey, there&#39;s a little",
+      "duration": 3.04,
+      "offset": 1679.68,
+      "lang": "en"
+    },
+    {
+      "text": "error. Now, of course, leaked passwords",
+      "duration": 3.12,
+      "offset": 1680.88,
+      "lang": "en"
+    },
+    {
+      "text": "is the least of my concerns right now",
+      "duration": 2.72,
+      "offset": 1682.72,
+      "lang": "en"
+    },
+    {
+      "text": "when I&#39;m just trying to get a first app",
+      "duration": 4.0,
+      "offset": 1684.0,
+      "lang": "en"
+    },
+    {
+      "text": "out there. But yeah, now I can click on",
+      "duration": 5.32,
+      "offset": 1685.44,
+      "lang": "en"
+    },
+    {
+      "text": "publish with security issues. And",
+      "duration": 4.64,
+      "offset": 1688.0,
+      "lang": "en"
+    },
+    {
+      "text": "basically, we&#39;re going to be able to",
+      "duration": 4.36,
+      "offset": 1690.76,
+      "lang": "en"
+    },
+    {
+      "text": "have a publicly accessible domain",
+      "duration": 5.12,
+      "offset": 1692.64,
+      "lang": "en"
+    },
+    {
+      "text": "normally that we can now launch to. And",
+      "duration": 4.16,
+      "offset": 1695.12,
+      "lang": "en"
+    },
+    {
+      "text": "my friends, it is live. Let&#39;s take a",
+      "duration": 3.68,
+      "offset": 1697.76,
+      "lang": "en"
+    },
+    {
+      "text": "spin. Check out my new startup. It is an",
+      "duration": 4.4,
+      "offset": 1699.28,
+      "lang": "en"
+    },
+    {
+      "text": "online platform that helps founders",
+      "duration": 4.96,
+      "offset": 1701.44,
+      "lang": "en"
+    },
+    {
+      "text": "transform their ideas into concrete",
+      "duration": 5.28,
+      "offset": 1703.68,
+      "lang": "en"
+    },
+    {
+      "text": "oneliners and pitch deck outlines in a",
+      "duration": 5.44,
+      "offset": 1706.4,
+      "lang": "en"
+    },
+    {
+      "text": "seconds leveraging the power of AI.",
+      "duration": 4.88,
+      "offset": 1708.96,
+      "lang": "en"
+    },
+    {
+      "text": "Anyway, so it all pretty much works. If",
+      "duration": 4.88,
+      "offset": 1711.84,
+      "lang": "en"
+    },
+    {
+      "text": "I click on get started, I can basically",
+      "duration": 6.56,
+      "offset": 1713.84,
+      "lang": "en"
+    },
+    {
+      "text": "sign in or sign up here. Excellent. Now",
+      "duration": 5.12,
+      "offset": 1716.72,
+      "lang": "en"
+    },
+    {
+      "text": "it brings us here. I&#39;m now going to",
+      "duration": 3.84,
+      "offset": 1720.4,
+      "lang": "en"
+    },
+    {
+      "text": "allow this to um just while visiting",
+      "duration": 4.4,
+      "offset": 1721.84,
+      "lang": "en"
+    },
+    {
+      "text": "this site. Okay. Okay, so I&#39;m building a",
+      "duration": 3.84,
+      "offset": 1724.24,
+      "lang": "en"
+    },
+    {
+      "text": "company and basically we teach people",
+      "duration": 4.56,
+      "offset": 1726.24,
+      "lang": "en"
+    },
+    {
+      "text": "how to build their uh startups and",
+      "duration": 4.56,
+      "offset": 1728.08,
+      "lang": "en"
+    },
+    {
+      "text": "launch them, get first customers",
+      "duration": 4.08,
+      "offset": 1730.8,
+      "lang": "en"
+    },
+    {
+      "text": "leveraging AI tools. So we basically",
+      "duration": 4.4,
+      "offset": 1732.64,
+      "lang": "en"
+    },
+    {
+      "text": "teach them AI coding and also the",
+      "duration": 4.0,
+      "offset": 1734.88,
+      "lang": "en"
+    },
+    {
+      "text": "methodology to launch their startups",
+      "duration": 3.68,
+      "offset": 1737.04,
+      "lang": "en"
+    },
+    {
+      "text": "specifically focused on non-technical",
+      "duration": 4.96,
+      "offset": 1738.88,
+      "lang": "en"
+    },
+    {
+      "text": "people and um yeah, our main goal is for",
+      "duration": 5.48,
+      "offset": 1740.72,
+      "lang": "en"
+    },
+    {
+      "text": "them to launch the first app generate",
+      "duration": 5.36,
+      "offset": 1743.84,
+      "lang": "en"
+    },
+    {
+      "text": "pitch. Let&#39;s see it. Okay, let&#39;s look at",
+      "duration": 5.16,
+      "offset": 1746.2,
+      "lang": "en"
+    },
+    {
+      "text": "it. Launchpad AI is a startup training",
+      "duration": 3.84,
+      "offset": 1749.2,
+      "lang": "en"
+    },
+    {
+      "text": "platform for nontechnical entrepreneurs",
+      "duration": 3.92,
+      "offset": 1751.36,
+      "lang": "en"
+    },
+    {
+      "text": "to successfully launch their first app",
+      "duration": 4.48,
+      "offset": 1753.04,
+      "lang": "en"
+    },
+    {
+      "text": "using AI tools with a unique hands-on",
+      "duration": 3.84,
+      "offset": 1755.28,
+      "lang": "en"
+    },
+    {
+      "text": "methodology. Actually, pretty good.",
+      "duration": 3.12,
+      "offset": 1757.52,
+      "lang": "en"
+    },
+    {
+      "text": "Honestly, I&#39;m probably going to get all",
+      "duration": 3.28,
+      "offset": 1759.12,
+      "lang": "en"
+    },
+    {
+      "text": "my students from now on to use this tool",
+      "duration": 3.84,
+      "offset": 1760.64,
+      "lang": "en"
+    },
+    {
+      "text": "just so that I can have a concrete pitch",
+      "duration": 4.0,
+      "offset": 1762.4,
+      "lang": "en"
+    },
+    {
+      "text": "in hand. And if I go back and I wanted",
+      "duration": 4.0,
+      "offset": 1764.48,
+      "lang": "en"
+    },
+    {
+      "text": "to go and change where my domain is",
+      "duration": 4.0,
+      "offset": 1766.4,
+      "lang": "en"
+    },
+    {
+      "text": "pointing, I could pretty much come here.",
+      "duration": 4.56,
+      "offset": 1768.48,
+      "lang": "en"
+    },
+    {
+      "text": "I can add my own domain. In this case, I",
+      "duration": 4.48,
+      "offset": 1770.4,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t actually have a domain uh tied",
+      "duration": 4.24,
+      "offset": 1773.04,
+      "lang": "en"
+    },
+    {
+      "text": "here, but I could actually continue and",
+      "duration": 4.64,
+      "offset": 1774.88,
+      "lang": "en"
+    },
+    {
+      "text": "connect this domain directly here. And",
+      "duration": 4.36,
+      "offset": 1777.28,
+      "lang": "en"
+    },
+    {
+      "text": "then I would have it on my",
+      "duration": 4.4,
+      "offset": 1779.52,
+      "lang": "en"
+    },
+    {
+      "text": "own.com.io or whichever other domain it",
+      "duration": 3.96,
+      "offset": 1781.64,
+      "lang": "en"
+    },
+    {
+      "text": "bought. And I can even go here now and",
+      "duration": 4.24,
+      "offset": 1783.92,
+      "lang": "en"
+    },
+    {
+      "text": "click on buy a domain and basically come",
+      "duration": 3.92,
+      "offset": 1785.6,
+      "lang": "en"
+    },
+    {
+      "text": "to a marketplace that&#39;s going to allow",
+      "duration": 4.24,
+      "offset": 1788.16,
+      "lang": "en"
+    },
+    {
+      "text": "me to do exactly that. Deck magic. Let&#39;s",
+      "duration": 4.96,
+      "offset": 1789.52,
+      "lang": "en"
+    },
+    {
+      "text": "go ahead and check if this is available.",
+      "duration": 5.04,
+      "offset": 1792.4,
+      "lang": "en"
+    },
+    {
+      "text": "And then I can basically buy it straight",
+      "duration": 4.72,
+      "offset": 1794.48,
+      "lang": "en"
+    },
+    {
+      "text": "from here. Look at that. A partnership",
+      "duration": 4.6,
+      "offset": 1797.44,
+      "lang": "en"
+    },
+    {
+      "text": "between Lovable and Ionos. Very cool.",
+      "duration": 4.64,
+      "offset": 1799.2,
+      "lang": "en"
+    },
+    {
+      "text": "deckmagic.com. And that, my friends, is",
+      "duration": 3.8,
+      "offset": 1802.04,
+      "lang": "en"
+    },
+    {
+      "text": "how to build your first app from scratch",
+      "duration": 3.36,
+      "offset": 1803.84,
+      "lang": "en"
+    },
+    {
+      "text": "without writing a single line of code",
+      "duration": 3.68,
+      "offset": 1805.84,
+      "lang": "en"
+    },
+    {
+      "text": "with AI. Lovable, superbase, matchmade",
+      "duration": 3.92,
+      "offset": 1807.2,
+      "lang": "en"
+    },
+    {
+      "text": "in heaven, especially for nontechnical",
+      "duration": 3.04,
+      "offset": 1809.52,
+      "lang": "en"
+    },
+    {
+      "text": "people. But one thing&#39;s important to",
+      "duration": 3.52,
+      "offset": 1811.12,
+      "lang": "en"
+    },
+    {
+      "text": "know. Building an app is one thing. And",
+      "duration": 4.16,
+      "offset": 1812.56,
+      "lang": "en"
+    },
+    {
+      "text": "getting customers for it is a completely",
+      "duration": 3.76,
+      "offset": 1814.64,
+      "lang": "en"
+    },
+    {
+      "text": "different thing as well. And unless you",
+      "duration": 3.12,
+      "offset": 1816.72,
+      "lang": "en"
+    },
+    {
+      "text": "know how to master both, I highly",
+      "duration": 3.12,
+      "offset": 1818.4,
+      "lang": "en"
+    },
+    {
+      "text": "recommend that you check out this video",
+      "duration": 2.88,
+      "offset": 1819.84,
+      "lang": "en"
+    },
+    {
+      "text": "where I&#39;m going to show you how you can",
+      "duration": 2.88,
+      "offset": 1821.52,
+      "lang": "en"
+    },
+    {
+      "text": "get your first paying customers without",
+      "duration": 3.12,
+      "offset": 1822.72,
+      "lang": "en"
+    },
+    {
+      "text": "coding at all. I hope you like this",
+      "duration": 3.04,
+      "offset": 1824.4,
+      "lang": "en"
+    },
+    {
+      "text": "video, my friends. Consider subscribing",
+      "duration": 3.28,
+      "offset": 1825.84,
+      "lang": "en"
+    },
+    {
+      "text": "if you did. And I&#39;ll see you in the next",
+      "duration": 5.8,
+      "offset": 1827.44,
+      "lang": "en"
+    },
+    {
+      "text": "one. Let&#39;s go.",
+      "duration": 4.12,
+      "offset": 1829.12,
+      "lang": "en"
+    }
+  ]
+}

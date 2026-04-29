@@ -1,0 +1,2823 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "5SWYQAzGdPA",
+  "url": "https://www.youtube.com/watch?v=5SWYQAzGdPA",
+  "title": "GPT-5.4 Cyber, Opus 4.7, KIMI 2.6, Anthropic Usgae based bill, Gemini Robot, Midjourney : Tech News",
+  "channel": "Lapaas Tech ",
+  "source_queries": [
+    "Midjourney V8 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:06:51",
+  "segments": [
+    {
+      "text": "Hi guys, my name is Sahil Khanna and let&#39;s start today&#39;s tech news.",
+      "duration": 2.59,
+      "offset": 0.01,
+      "lang": "en"
+    },
+    {
+      "text": "The first news is about OpenAI.",
+      "duration": 2.0,
+      "offset": 2.6,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI has launched a new cyber model of 5.4 which will work on cyber security.",
+      "duration": 7.3,
+      "offset": 4.6,
+      "lang": "en"
+    },
+    {
+      "text": "It is not available with everyone at this time.",
+      "duration": 2.8,
+      "offset": 11.9,
+      "lang": "en"
+    },
+    {
+      "text": "It has been launched with selective people.",
+      "duration": 2.8,
+      "offset": 14.7,
+      "lang": "en"
+    },
+    {
+      "text": "Those who have access are getting good news.",
+      "duration": 3.7,
+      "offset": 17.5,
+      "lang": "en"
+    },
+    {
+      "text": "That it is good.",
+      "duration": 1.5,
+      "offset": 21.2,
+      "lang": "en"
+    },
+    {
+      "text": "Now see, what is it?",
+      "duration": 2.0,
+      "offset": 22.7,
+      "lang": "en"
+    },
+    {
+      "text": "It can bypass the rules in a way.",
+      "duration": 2.3,
+      "offset": 24.7,
+      "lang": "en"
+    },
+    {
+      "text": "If I tell it to do this in my website, the normal model will think that someone is trying to hack and will stop.",
+      "duration": 6.5,
+      "offset": 27.0,
+      "lang": "en"
+    },
+    {
+      "text": "And this model will not stop.",
+      "duration": 2.0,
+      "offset": 33.5,
+      "lang": "en"
+    },
+    {
+      "text": "So things are getting better in cyber security.",
+      "duration": 2.0,
+      "offset": 35.5,
+      "lang": "en"
+    },
+    {
+      "text": "But with great power comes great responsibility.",
+      "duration": 3.5,
+      "offset": 37.5,
+      "lang": "en"
+    },
+    {
+      "text": "This is the biggest problem of this whole game.",
+      "duration": 2.5,
+      "offset": 41.0,
+      "lang": "en"
+    },
+    {
+      "text": "How will cyber security be checked?",
+      "duration": 3.0,
+      "offset": 43.5,
+      "lang": "en"
+    },
+    {
+      "text": "How will the security of your house be checked?",
+      "duration": 1.98,
+      "offset": 46.5,
+      "lang": "en"
+    },
+    {
+      "text": "By checking your lock, whether the lock breaks or not.",
+      "duration": 2.5,
+      "offset": 48.5,
+      "lang": "en"
+    },
+    {
+      "text": "Whether thieves can enter your house or not.",
+      "duration": 2.5,
+      "offset": 51.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now on one side, it is the job of security.",
+      "duration": 2.5,
+      "offset": 53.5,
+      "lang": "en"
+    },
+    {
+      "text": "On the other side, it is a big thing for thieves.",
+      "duration": 2.0,
+      "offset": 56.0,
+      "lang": "en"
+    },
+    {
+      "text": "So releasing the models of cyber security publicly can be a big problem.",
+      "duration": 4.5,
+      "offset": 58.0,
+      "lang": "en"
+    },
+    {
+      "text": "So I think cyber models will not open so easily.",
+      "duration": 3.5,
+      "offset": 62.5,
+      "lang": "en"
+    },
+    {
+      "text": "Anthropic&#39;s mythos is saying that it is also very broken in cyber security.",
+      "duration": 4.5,
+      "offset": 66.0,
+      "lang": "en"
+    },
+    {
+      "text": "And they are not releasing it now.",
+      "duration": 2.0,
+      "offset": 70.5,
+      "lang": "en"
+    },
+    {
+      "text": "They are afraid.",
+      "duration": 1.0,
+      "offset": 72.5,
+      "lang": "en"
+    },
+    {
+      "text": "Again, this is the reason.",
+      "duration": 2.0,
+      "offset": 73.5,
+      "lang": "en"
+    },
+    {
+      "text": "Anthropic can release 4.7 of Opus in this week.",
+      "duration": 4.5,
+      "offset": 75.5,
+      "lang": "en"
+    },
+    {
+      "text": "This is a big thing.",
+      "duration": 1.5,
+      "offset": 80.0,
+      "lang": "en"
+    },
+    {
+      "text": "4.6 is already very good.",
+      "duration": 2.0,
+      "offset": 81.5,
+      "lang": "en"
+    },
+    {
+      "text": "4.7 will be even better.",
+      "duration": 3.5,
+      "offset": 83.5,
+      "lang": "en"
+    },
+    {
+      "text": "They are saying that in multi-step reasoning, in agentic workflow, in complex workflow, it will be better for those things.",
+      "duration": 9.5,
+      "offset": 87.0,
+      "lang": "en"
+    },
+    {
+      "text": "So it will look good in deep thinking.",
+      "duration": 3.0,
+      "offset": 96.5,
+      "lang": "en"
+    },
+    {
+      "text": "The latest model of Opus has come.",
+      "duration": 2.0,
+      "offset": 99.5,
+      "lang": "en"
+    },
+    {
+      "text": "And it was released last night.",
+      "duration": 2.5,
+      "offset": 101.5,
+      "lang": "en"
+    },
+    {
+      "text": "I shot this video last night.",
+      "duration": 2.0,
+      "offset": 104.0,
+      "lang": "en"
+    },
+    {
+      "text": "And I was testing it since this morning.",
+      "duration": 2.5,
+      "offset": 106.0,
+      "lang": "en"
+    },
+    {
+      "text": "Many of my windsurf accounts are over.",
+      "duration": 2.5,
+      "offset": 108.5,
+      "lang": "en"
+    },
+    {
+      "text": "Everything was over in a single prompt.",
+      "duration": 3.0,
+      "offset": 111.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now I am thinking of switching to Kiro and Microsoft Copilot.",
+      "duration": 5.0,
+      "offset": 114.0,
+      "lang": "en"
+    },
+    {
+      "text": "I will tell you how it is when I test it there.",
+      "duration": 3.0,
+      "offset": 119.0,
+      "lang": "en"
+    },
+    {
+      "text": "Because 4.6 was already very good.",
+      "duration": 3.0,
+      "offset": 122.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now the new model has come.",
+      "duration": 2.0,
+      "offset": 125.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is better.",
+      "duration": 1.0,
+      "offset": 127.0,
+      "lang": "en"
+    },
+    {
+      "text": "But I don&#39;t know which version is better.",
+      "duration": 3.0,
+      "offset": 128.0,
+      "lang": "en"
+    },
+    {
+      "text": "Until you test it aggressively.",
+      "duration": 3.0,
+      "offset": 131.0,
+      "lang": "en"
+    },
+    {
+      "text": "When I test it, I will tell you.",
+      "duration": 2.0,
+      "offset": 134.0,
+      "lang": "en"
+    },
+    {
+      "text": "Benchmarks are fine.",
+      "duration": 1.0,
+      "offset": 136.0,
+      "lang": "en"
+    },
+    {
+      "text": "But it is expensive.",
+      "duration": 2.0,
+      "offset": 137.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is taking more credit.",
+      "duration": 1.0,
+      "offset": 139.0,
+      "lang": "en"
+    },
+    {
+      "text": "Microsoft had a promo.",
+      "duration": 1.0,
+      "offset": 140.0,
+      "lang": "en"
+    },
+    {
+      "text": "But it didn&#39;t work in one credit.",
+      "duration": 3.0,
+      "offset": 141.0,
+      "lang": "en"
+    },
+    {
+      "text": "I found the level of agentic very dangerous.",
+      "duration": 2.0,
+      "offset": 144.0,
+      "lang": "en"
+    },
+    {
+      "text": "Entropic has also switched their business model.",
+      "duration": 3.0,
+      "offset": 146.0,
+      "lang": "en"
+    },
+    {
+      "text": "Earlier they had a plan.",
+      "duration": 2.0,
+      "offset": 149.0,
+      "lang": "en"
+    },
+    {
+      "text": "This is a plan, this is a plan, this is a plan.",
+      "duration": 2.0,
+      "offset": 151.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now they are using it.",
+      "duration": 2.0,
+      "offset": 153.0,
+      "lang": "en"
+    },
+    {
+      "text": "You have to pay according to how much you will use.",
+      "duration": 3.0,
+      "offset": 155.0,
+      "lang": "en"
+    },
+    {
+      "text": "Things are very good for those people who don&#39;t use much.",
+      "duration": 3.0,
+      "offset": 158.0,
+      "lang": "en"
+    },
+    {
+      "text": "But those who use in a very dangerous way.",
+      "duration": 3.0,
+      "offset": 161.0,
+      "lang": "en"
+    },
+    {
+      "text": "The expectation is that your prices can increase by 2 to 3 times.",
+      "duration": 5.0,
+      "offset": 164.0,
+      "lang": "en"
+    },
+    {
+      "text": "I used to use windserve a lot.",
+      "duration": 3.0,
+      "offset": 169.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have said it many times.",
+      "duration": 2.0,
+      "offset": 172.0,
+      "lang": "en"
+    },
+    {
+      "text": "Those who have taken our course on MVP development.",
+      "duration": 2.0,
+      "offset": 174.0,
+      "lang": "en"
+    },
+    {
+      "text": "They know that I switch to windserve, anti-gravity.",
+      "duration": 3.0,
+      "offset": 176.0,
+      "lang": "en"
+    },
+    {
+      "text": "But the recent one, I was in codex.",
+      "duration": 3.0,
+      "offset": 179.0,
+      "lang": "en"
+    },
+    {
+      "text": "After codex, I will show you going to some other tool.",
+      "duration": 5.0,
+      "offset": 182.0,
+      "lang": "en"
+    },
+    {
+      "text": "Most probably I will show you going to github copilot.",
+      "duration": 3.0,
+      "offset": 187.0,
+      "lang": "en"
+    },
+    {
+      "text": "Because this is very bad for heavy duty people.",
+      "duration": 5.0,
+      "offset": 190.0,
+      "lang": "en"
+    },
+    {
+      "text": "Give me a credit system.",
+      "duration": 3.0,
+      "offset": 195.0,
+      "lang": "en"
+    },
+    {
+      "text": "I think the way companies are moving forward.",
+      "duration": 3.0,
+      "offset": 198.0,
+      "lang": "en"
+    },
+    {
+      "text": "This is not wrong.",
+      "duration": 2.0,
+      "offset": 201.0,
+      "lang": "en"
+    },
+    {
+      "text": "They want to make their business model profitable.",
+      "duration": 2.0,
+      "offset": 203.0,
+      "lang": "en"
+    },
+    {
+      "text": "They have reached the valuation.",
+      "duration": 2.0,
+      "offset": 205.0,
+      "lang": "en"
+    },
+    {
+      "text": "You have to give trust to the investor in the market.",
+      "duration": 3.0,
+      "offset": 207.0,
+      "lang": "en"
+    },
+    {
+      "text": "Open AI is also trying to do the same.",
+      "duration": 2.0,
+      "offset": 210.0,
+      "lang": "en"
+    },
+    {
+      "text": "Entropic is also trying to do the same.",
+      "duration": 3.0,
+      "offset": 212.0,
+      "lang": "en"
+    },
+    {
+      "text": "Windserve is also trying to do the same.",
+      "duration": 2.0,
+      "offset": 215.0,
+      "lang": "en"
+    },
+    {
+      "text": "Cursor is also trying to do the same.",
+      "duration": 2.0,
+      "offset": 217.0,
+      "lang": "en"
+    },
+    {
+      "text": "But the story is this.",
+      "duration": 2.0,
+      "offset": 219.0,
+      "lang": "en"
+    },
+    {
+      "text": "Why are you forgetting the Chinese model?",
+      "duration": 2.0,
+      "offset": 221.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now there is a preview of Kimi 2.6 in the market.",
+      "duration": 3.0,
+      "offset": 223.0,
+      "lang": "en"
+    },
+    {
+      "text": "If someone has taken Kimi subscription.",
+      "duration": 2.0,
+      "offset": 226.0,
+      "lang": "en"
+    },
+    {
+      "text": "He can use Kimi 2.6.",
+      "duration": 2.0,
+      "offset": 228.0,
+      "lang": "en"
+    },
+    {
+      "text": "Entropic has recently banned the use of Open Claw.",
+      "duration": 4.0,
+      "offset": 230.0,
+      "lang": "en"
+    },
+    {
+      "text": "If someone is using Open Claw.",
+      "duration": 3.0,
+      "offset": 234.0,
+      "lang": "en"
+    },
+    {
+      "text": "If someone wants to work as an agent.",
+      "duration": 2.0,
+      "offset": 237.0,
+      "lang": "en"
+    },
+    {
+      "text": "Which agent world is going to happen in the future.",
+      "duration": 3.0,
+      "offset": 239.0,
+      "lang": "en"
+    },
+    {
+      "text": "You can&#39;t even use Entropic.",
+      "duration": 3.0,
+      "offset": 242.0,
+      "lang": "en"
+    },
+    {
+      "text": "This is a very big thing.",
+      "duration": 1.0,
+      "offset": 245.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you look at the Chinese model.",
+      "duration": 2.0,
+      "offset": 246.0,
+      "lang": "en"
+    },
+    {
+      "text": "They are giving access at a very low price.",
+      "duration": 2.0,
+      "offset": 248.0,
+      "lang": "en"
+    },
+    {
+      "text": "Look at the comparison.",
+      "duration": 2.0,
+      "offset": 250.0,
+      "lang": "en"
+    },
+    {
+      "text": "We don&#39;t have Kimi 2.6 results in the benchmark.",
+      "duration": 3.0,
+      "offset": 252.0,
+      "lang": "en"
+    },
+    {
+      "text": "So let&#39;s assume that it will be better than 2.5.",
+      "duration": 2.0,
+      "offset": 255.0,
+      "lang": "en"
+    },
+    {
+      "text": "Look at the SWE benchmark.",
+      "duration": 2.0,
+      "offset": 257.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is comparable to Opus 4.6.",
+      "duration": 3.0,
+      "offset": 259.0,
+      "lang": "en"
+    },
+    {
+      "text": "So let&#39;s assume that it will be better than this.",
+      "duration": 3.0,
+      "offset": 262.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have used it a little.",
+      "duration": 2.0,
+      "offset": 265.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have found out one thing.",
+      "duration": 1.0,
+      "offset": 267.0,
+      "lang": "en"
+    },
+    {
+      "text": "The context size has not increased.",
+      "duration": 2.0,
+      "offset": 268.0,
+      "lang": "en"
+    },
+    {
+      "text": "There are 256k tokens.",
+      "duration": 2.0,
+      "offset": 270.0,
+      "lang": "en"
+    },
+    {
+      "text": "There is a context window of 250,000 tokens.",
+      "duration": 3.0,
+      "offset": 272.0,
+      "lang": "en"
+    },
+    {
+      "text": "Which is less.",
+      "duration": 1.0,
+      "offset": 275.0,
+      "lang": "en"
+    },
+    {
+      "text": "Where the other models are going up to 1 million.",
+      "duration": 2.0,
+      "offset": 276.0,
+      "lang": "en"
+    },
+    {
+      "text": "So if the latest model is above 250k.",
+      "duration": 2.0,
+      "offset": 278.0,
+      "lang": "en"
+    },
+    {
+      "text": "So something new must have been done.",
+      "duration": 2.0,
+      "offset": 280.0,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s why the latest model has been released.",
+      "duration": 2.0,
+      "offset": 282.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will look better in this benchmark.",
+      "duration": 3.0,
+      "offset": 284.0,
+      "lang": "en"
+    },
+    {
+      "text": "Look at the difference in pricing.",
+      "duration": 2.0,
+      "offset": 287.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is cheaper than Sonnet.",
+      "duration": 2.0,
+      "offset": 289.0,
+      "lang": "en"
+    },
+    {
+      "text": "Which is a very bad model than Opus.",
+      "duration": 3.0,
+      "offset": 291.0,
+      "lang": "en"
+    },
+    {
+      "text": "So Kimi has made a plan by coding its own Kimi.",
+      "duration": 2.0,
+      "offset": 294.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will do whatever it wants to do.",
+      "duration": 2.0,
+      "offset": 296.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now someone will say that Chinese models do not perform so well.",
+      "duration": 2.0,
+      "offset": 298.0,
+      "lang": "en"
+    },
+    {
+      "text": "Benchmark quality can be.",
+      "duration": 2.0,
+      "offset": 300.0,
+      "lang": "en"
+    },
+    {
+      "text": "It can be.",
+      "duration": 2.0,
+      "offset": 302.0,
+      "lang": "en"
+    },
+    {
+      "text": "But let&#39;s assume that for the last two weeks.",
+      "duration": 2.0,
+      "offset": 304.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have been using Kimi 2.5.",
+      "duration": 2.0,
+      "offset": 306.0,
+      "lang": "en"
+    },
+    {
+      "text": "I didn&#39;t use 2.6.",
+      "duration": 2.0,
+      "offset": 308.0,
+      "lang": "en"
+    },
+    {
+      "text": "But 2.5 is going on.",
+      "duration": 2.0,
+      "offset": 310.0,
+      "lang": "en"
+    },
+    {
+      "text": "All my problems are being solved.",
+      "duration": 2.0,
+      "offset": 312.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have not used it for some tasks.",
+      "duration": 2.0,
+      "offset": 314.0,
+      "lang": "en"
+    },
+    {
+      "text": "Like planning, learning.",
+      "duration": 2.0,
+      "offset": 316.0,
+      "lang": "en"
+    },
+    {
+      "text": "There is something like a strategy.",
+      "duration": 2.0,
+      "offset": 318.0,
+      "lang": "en"
+    },
+    {
+      "text": "For that I am using Opus.",
+      "duration": 2.0,
+      "offset": 320.0,
+      "lang": "en"
+    },
+    {
+      "text": "But then I switch to Kimi 2.5.",
+      "duration": 2.0,
+      "offset": 322.0,
+      "lang": "en"
+    },
+    {
+      "text": "Because Kimi 2.5 comes free in my windsurf subscription.",
+      "duration": 4.0,
+      "offset": 324.0,
+      "lang": "en"
+    },
+    {
+      "text": "Before the video ends, I would like to remind you.",
+      "duration": 2.0,
+      "offset": 328.0,
+      "lang": "en"
+    },
+    {
+      "text": "Press the like button.",
+      "duration": 2.0,
+      "offset": 330.0,
+      "lang": "en"
+    },
+    {
+      "text": "Subscribe to the channel.",
+      "duration": 2.0,
+      "offset": 332.0,
+      "lang": "en"
+    },
+    {
+      "text": "I often bring such tech news for you.",
+      "duration": 2.0,
+      "offset": 334.0,
+      "lang": "en"
+    },
+    {
+      "text": "I keep telling you what is happening in the world of AI.",
+      "duration": 2.0,
+      "offset": 336.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is happening in the world of technology.",
+      "duration": 2.0,
+      "offset": 338.0,
+      "lang": "en"
+    },
+    {
+      "text": "And you stay behind.",
+      "duration": 2.0,
+      "offset": 340.0,
+      "lang": "en"
+    },
+    {
+      "text": "Apart from this, let&#39;s talk about Google.",
+      "duration": 2.0,
+      "offset": 342.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google has released its",
+      "duration": 2.0,
+      "offset": 344.0,
+      "lang": "en"
+    },
+    {
+      "text": "Gemini 3.1 Flash Text-to-Speech model.",
+      "duration": 2.0,
+      "offset": 346.0,
+      "lang": "en"
+    },
+    {
+      "text": "Which is much better than the previous model.",
+      "duration": 4.0,
+      "offset": 348.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you look from the benchmark point of view.",
+      "duration": 2.0,
+      "offset": 352.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is performing better than 11labs.",
+      "duration": 4.0,
+      "offset": 354.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you want to use it.",
+      "duration": 2.0,
+      "offset": 358.0,
+      "lang": "en"
+    },
+    {
+      "text": "You can use it in the AI studio.",
+      "duration": 2.0,
+      "offset": 360.0,
+      "lang": "en"
+    },
+    {
+      "text": "Emotions are visible.",
+      "duration": 2.0,
+      "offset": 362.0,
+      "lang": "en"
+    },
+    {
+      "text": "Watch the video now.",
+      "duration": 2.0,
+      "offset": 364.0,
+      "lang": "en"
+    },
+    {
+      "text": "You will understand how expressive it is.",
+      "duration": 2.0,
+      "offset": 366.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is able to speak with emotions.",
+      "duration": 2.0,
+      "offset": 368.0,
+      "lang": "en"
+    },
+    {
+      "text": "It feels like a game.",
+      "duration": 2.0,
+      "offset": 370.0,
+      "lang": "en"
+    },
+    {
+      "text": "But now it is reaching the world.",
+      "duration": 2.0,
+      "offset": 372.0,
+      "lang": "en"
+    },
+    {
+      "text": "The golden sun is finally out.",
+      "duration": 2.0,
+      "offset": 398.0,
+      "lang": "en"
+    },
+    {
+      "text": "In full force today.",
+      "duration": 2.0,
+      "offset": 400.0,
+      "lang": "en"
+    },
+    {
+      "text": "I forgot my sunglasses.",
+      "duration": 2.0,
+      "offset": 404.0,
+      "lang": "en"
+    },
+    {
+      "text": "Even though the sky is trying its best.",
+      "duration": 2.0,
+      "offset": 406.0,
+      "lang": "en"
+    },
+    {
+      "text": "To be bright.",
+      "duration": 2.0,
+      "offset": 408.0,
+      "lang": "en"
+    },
+    {
+      "text": "It can be said here.",
+      "duration": 2.0,
+      "offset": 410.0,
+      "lang": "en"
+    },
+    {
+      "text": "The tools like 11labs.",
+      "duration": 2.0,
+      "offset": 412.0,
+      "lang": "en"
+    },
+    {
+      "text": "I can clone my voice there.",
+      "duration": 2.0,
+      "offset": 414.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google does not allow voice cloning now.",
+      "duration": 2.0,
+      "offset": 416.0,
+      "lang": "en"
+    },
+    {
+      "text": "But it&#39;s okay.",
+      "duration": 2.0,
+      "offset": 418.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google will do it in that time.",
+      "duration": 2.0,
+      "offset": 420.0,
+      "lang": "en"
+    },
+    {
+      "text": "Earlier it was image generation.",
+      "duration": 2.0,
+      "offset": 422.0,
+      "lang": "en"
+    },
+    {
+      "text": "We could not give our face.",
+      "duration": 2.0,
+      "offset": 424.0,
+      "lang": "en"
+    },
+    {
+      "text": "It was not working at that level.",
+      "duration": 2.0,
+      "offset": 426.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now it is working.",
+      "duration": 2.0,
+      "offset": 428.0,
+      "lang": "en"
+    },
+    {
+      "text": "Although Google can clone my voice.",
+      "duration": 2.0,
+      "offset": 430.0,
+      "lang": "en"
+    },
+    {
+      "text": "But the accuracy will come down.",
+      "duration": 2.0,
+      "offset": 432.0,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s why they are not doing it now.",
+      "duration": 2.0,
+      "offset": 434.0,
+      "lang": "en"
+    },
+    {
+      "text": "They are making an enterprise commercial grade product.",
+      "duration": 2.0,
+      "offset": 436.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now try to understand.",
+      "duration": 2.0,
+      "offset": 438.0,
+      "lang": "en"
+    },
+    {
+      "text": "If I talk about calling.",
+      "duration": 2.0,
+      "offset": 440.0,
+      "lang": "en"
+    },
+    {
+      "text": "If I do agentic calling.",
+      "duration": 2.0,
+      "offset": 442.0,
+      "lang": "en"
+    },
+    {
+      "text": "Whatever calls will come in my office.",
+      "duration": 2.0,
+      "offset": 444.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI will handle it.",
+      "duration": 2.0,
+      "offset": 446.0,
+      "lang": "en"
+    },
+    {
+      "text": "This latest model.",
+      "duration": 2.0,
+      "offset": 448.0,
+      "lang": "en"
+    },
+    {
+      "text": "It can work for $1 per hour.",
+      "duration": 2.0,
+      "offset": 450.0,
+      "lang": "en"
+    },
+    {
+      "text": "It can work for $1 per hour.",
+      "duration": 2.0,
+      "offset": 452.0,
+      "lang": "en"
+    },
+    {
+      "text": "If it talks constantly for 8 hours.",
+      "duration": 2.0,
+      "offset": 454.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will cost $8.",
+      "duration": 2.0,
+      "offset": 456.0,
+      "lang": "en"
+    },
+    {
+      "text": "Upper limit will cost $10.",
+      "duration": 2.0,
+      "offset": 458.0,
+      "lang": "en"
+    },
+    {
+      "text": "I have done my basic calculation.",
+      "duration": 2.0,
+      "offset": 460.0,
+      "lang": "en"
+    },
+    {
+      "text": "If I go to 11labs.",
+      "duration": 2.0,
+      "offset": 462.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will cost $10-$12.",
+      "duration": 2.0,
+      "offset": 464.0,
+      "lang": "en"
+    },
+    {
+      "text": "You can say.",
+      "duration": 2.0,
+      "offset": 470.0,
+      "lang": "en"
+    },
+    {
+      "text": "I can get my voice in 11labs.",
+      "duration": 2.0,
+      "offset": 472.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google cannot award me.",
+      "duration": 2.0,
+      "offset": 474.0,
+      "lang": "en"
+    },
+    {
+      "text": "But in the benchmark.",
+      "duration": 2.0,
+      "offset": 476.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is better than 11labs.",
+      "duration": 2.0,
+      "offset": 478.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will not clone.",
+      "duration": 2.0,
+      "offset": 480.0,
+      "lang": "en"
+    },
+    {
+      "text": "But it will do many tasks in my office.",
+      "duration": 2.0,
+      "offset": 482.0,
+      "lang": "en"
+    },
+    {
+      "text": "This is the future.",
+      "duration": 2.0,
+      "offset": 484.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google&#39;s Synth ID.",
+      "duration": 2.0,
+      "offset": 486.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is done by a reverse engineer.",
+      "duration": 2.0,
+      "offset": 488.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google said.",
+      "duration": 2.0,
+      "offset": 490.0,
+      "lang": "en"
+    },
+    {
+      "text": "No one can crack the Synth ID.",
+      "duration": 2.0,
+      "offset": 492.0,
+      "lang": "en"
+    },
+    {
+      "text": "Let me explain.",
+      "duration": 2.0,
+      "offset": 494.0,
+      "lang": "en"
+    },
+    {
+      "text": "Synth ID means.",
+      "duration": 2.0,
+      "offset": 496.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you make a video or photo.",
+      "duration": 2.0,
+      "offset": 498.0,
+      "lang": "en"
+    },
+    {
+      "text": "With AI.",
+      "duration": 2.0,
+      "offset": 500.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI will understand it.",
+      "duration": 2.0,
+      "offset": 502.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you make an image from Germany.",
+      "duration": 2.0,
+      "offset": 504.0,
+      "lang": "en"
+    },
+    {
+      "text": "Remove the watermark.",
+      "duration": 2.0,
+      "offset": 506.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI will recognize it.",
+      "duration": 2.0,
+      "offset": 508.0,
+      "lang": "en"
+    },
+    {
+      "text": "This is better.",
+      "duration": 2.0,
+      "offset": 510.0,
+      "lang": "en"
+    },
+    {
+      "text": "For the safety and security of the world.",
+      "duration": 2.0,
+      "offset": 512.0,
+      "lang": "en"
+    },
+    {
+      "text": "One person took 100 white images.",
+      "duration": 2.0,
+      "offset": 514.0,
+      "lang": "en"
+    },
+    {
+      "text": "100 black images.",
+      "duration": 2.0,
+      "offset": 516.0,
+      "lang": "en"
+    },
+    {
+      "text": "1,23,000.",
+      "duration": 2.0,
+      "offset": 518.0,
+      "lang": "en"
+    },
+    {
+      "text": "Original.",
+      "duration": 2.0,
+      "offset": 520.0,
+      "lang": "en"
+    },
+    {
+      "text": "And edited image.",
+      "duration": 2.0,
+      "offset": 522.0,
+      "lang": "en"
+    },
+    {
+      "text": "He recognized the pattern.",
+      "duration": 2.0,
+      "offset": 524.0,
+      "lang": "en"
+    },
+    {
+      "text": "And found out how it will remove.",
+      "duration": 2.0,
+      "offset": 526.0,
+      "lang": "en"
+    },
+    {
+      "text": "He is tweaking.",
+      "duration": 2.0,
+      "offset": 528.0,
+      "lang": "en"
+    },
+    {
+      "text": "After that.",
+      "duration": 2.0,
+      "offset": 530.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google is confused.",
+      "duration": 2.0,
+      "offset": 532.0,
+      "lang": "en"
+    },
+    {
+      "text": "Is it real or not.",
+      "duration": 2.0,
+      "offset": 534.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is real.",
+      "duration": 2.0,
+      "offset": 536.0,
+      "lang": "en"
+    },
+    {
+      "text": "It is a big bypass.",
+      "duration": 2.0,
+      "offset": 538.0,
+      "lang": "en"
+    },
+    {
+      "text": "Honest people are like this.",
+      "duration": 2.0,
+      "offset": 540.0,
+      "lang": "en"
+    },
+    {
+      "text": "We are talking about cyber security.",
+      "duration": 2.0,
+      "offset": 542.0,
+      "lang": "en"
+    },
+    {
+      "text": "Honest people tell the world.",
+      "duration": 2.0,
+      "offset": 544.0,
+      "lang": "en"
+    },
+    {
+      "text": "Wrong people.",
+      "duration": 2.0,
+      "offset": 546.0,
+      "lang": "en"
+    },
+    {
+      "text": "Use it.",
+      "duration": 2.0,
+      "offset": 548.0,
+      "lang": "en"
+    },
+    {
+      "text": "In this world.",
+      "duration": 2.0,
+      "offset": 550.0,
+      "lang": "en"
+    },
+    {
+      "text": "Everything is a game of perspective.",
+      "duration": 2.0,
+      "offset": 552.0,
+      "lang": "en"
+    },
+    {
+      "text": "Google hired a philosopher.",
+      "duration": 2.0,
+      "offset": 554.0,
+      "lang": "en"
+    },
+    {
+      "text": "To work on the machine&#39;s consciousness.",
+      "duration": 2.0,
+      "offset": 556.0,
+      "lang": "en"
+    },
+    {
+      "text": "In the future.",
+      "duration": 2.0,
+      "offset": 558.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI will come.",
+      "duration": 2.0,
+      "offset": 560.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI will be smarter than us.",
+      "duration": 2.0,
+      "offset": 562.0,
+      "lang": "en"
+    },
+    {
+      "text": "In the future.",
+      "duration": 2.0,
+      "offset": 564.0,
+      "lang": "en"
+    },
+    {
+      "text": "We have to give a direction to AI.",
+      "duration": 2.0,
+      "offset": 566.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is right.",
+      "duration": 2.0,
+      "offset": 568.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is wrong.",
+      "duration": 2.0,
+      "offset": 570.0,
+      "lang": "en"
+    },
+    {
+      "text": "What to do in which situation.",
+      "duration": 2.0,
+      "offset": 572.0,
+      "lang": "en"
+    },
+    {
+      "text": "We have to give a culture.",
+      "duration": 2.0,
+      "offset": 574.0,
+      "lang": "en"
+    },
+    {
+      "text": "Real definition of consciousness.",
+      "duration": 2.0,
+      "offset": 576.0,
+      "lang": "en"
+    },
+    {
+      "text": "No one understood.",
+      "duration": 2.0,
+      "offset": 578.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is human consciousness.",
+      "duration": 2.0,
+      "offset": 580.0,
+      "lang": "en"
+    },
+    {
+      "text": "Can I breathe with this consciousness.",
+      "duration": 2.0,
+      "offset": 586.0,
+      "lang": "en"
+    },
+    {
+      "text": "Can I think with this consciousness.",
+      "duration": 2.0,
+      "offset": 588.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is human consciousness.",
+      "duration": 2.0,
+      "offset": 590.0,
+      "lang": "en"
+    },
+    {
+      "text": "What is human consciousness.",
+      "duration": 2.0,
+      "offset": 592.0,
+      "lang": "en"
+    },
+    {
+      "text": "To explain human consciousness.",
+      "duration": 2.0,
+      "offset": 594.0,
+      "lang": "en"
+    },
+    {
+      "text": "Is a big thing.",
+      "duration": 2.0,
+      "offset": 596.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you go spiritual.",
+      "duration": 2.0,
+      "offset": 598.0,
+      "lang": "en"
+    },
+    {
+      "text": "You will understand. Then we will understand what is human consciousness",
+      "duration": 3.0,
+      "offset": 600.0,
+      "lang": "en"
+    },
+    {
+      "text": "But what will be the consciousness of AI, what will be the consciousness of the machine",
+      "duration": 3.0,
+      "offset": 603.56,
+      "lang": "en"
+    },
+    {
+      "text": "Today we can&#39;t understand this",
+      "duration": 3.0,
+      "offset": 606.56,
+      "lang": "en"
+    },
+    {
+      "text": "So we are trying to find out from this process",
+      "duration": 3.0,
+      "offset": 609.56,
+      "lang": "en"
+    },
+    {
+      "text": "When is the machine going in the direction of consciousness",
+      "duration": 3.0,
+      "offset": 612.56,
+      "lang": "en"
+    },
+    {
+      "text": "At what level is the consciousness going, in which direction is it going",
+      "duration": 2.99,
+      "offset": 615.56,
+      "lang": "en"
+    },
+    {
+      "text": "If in the future the machine is conscious and the whole world sees it running",
+      "duration": 3.0,
+      "offset": 618.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am talking about AI and all",
+      "duration": 3.0,
+      "offset": 621.56,
+      "lang": "en"
+    },
+    {
+      "text": "So we have to give it a culture",
+      "duration": 3.0,
+      "offset": 624.56,
+      "lang": "en"
+    },
+    {
+      "text": "So that it doesn&#39;t rule the world and people think Donald Trump is crazy",
+      "duration": 2.94,
+      "offset": 627.56,
+      "lang": "en"
+    },
+    {
+      "text": "He is doing anything, he can do anything Google has released Germany&#39;s Robotics ER 1.6 It has been released along with Boston Dynamics If we look at it from the benchmark point of view",
+      "duration": 11.97,
+      "offset": 630.56,
+      "lang": "en"
+    },
+    {
+      "text": "It seems to be performing better than the old version",
+      "duration": 3.0,
+      "offset": 642.56,
+      "lang": "en"
+    },
+    {
+      "text": "Germany&#39;s 3.0 flash came, it seems to be winning in some cases",
+      "duration": 3.0,
+      "offset": 645.56,
+      "lang": "en"
+    },
+    {
+      "text": "But overall it is better in the world of robotics",
+      "duration": 3.0,
+      "offset": 648.56,
+      "lang": "en"
+    },
+    {
+      "text": "So as I said that in the future As soon as it will do all the work, robots will work in your house",
+      "duration": 6.0,
+      "offset": 651.56,
+      "lang": "en"
+    },
+    {
+      "text": "The machinery in the office will do all the tasks",
+      "duration": 3.0,
+      "offset": 657.56,
+      "lang": "en"
+    },
+    {
+      "text": "Everything will be running in the factories So for that you have to develop an AI model",
+      "duration": 6.0,
+      "offset": 660.56,
+      "lang": "en"
+    },
+    {
+      "text": "Which can understand that this is a cup, you have to pick it up like this",
+      "duration": 3.0,
+      "offset": 666.56,
+      "lang": "en"
+    },
+    {
+      "text": "You have to do it like this, you have to drink it like this",
+      "duration": 2.94,
+      "offset": 669.56,
+      "lang": "en"
+    },
+    {
+      "text": "This is a cup, you don&#39;t have to put it directly on the gas",
+      "duration": 2.94,
+      "offset": 672.56,
+      "lang": "en"
+    },
+    {
+      "text": "There is a glass, for example this glass",
+      "duration": 3.0,
+      "offset": 675.56,
+      "lang": "en"
+    },
+    {
+      "text": "It is a very thin glass, so you have to keep it carefully",
+      "duration": 2.99,
+      "offset": 678.56,
+      "lang": "en"
+    },
+    {
+      "text": "If there is a soft thing, then it has to be treated differently",
+      "duration": 2.99,
+      "offset": 681.56,
+      "lang": "en"
+    },
+    {
+      "text": "So all these things are needed by the AI model",
+      "duration": 3.0,
+      "offset": 684.56,
+      "lang": "en"
+    },
+    {
+      "text": "To do sorting, to do a lot of things",
+      "duration": 2.97,
+      "offset": 687.56,
+      "lang": "en"
+    },
+    {
+      "text": "So models are being taken out for that",
+      "duration": 3.0,
+      "offset": 690.56,
+      "lang": "en"
+    },
+    {
+      "text": "On the other side, let&#39;s talk about NVIDIA, they have released their Lyra 2.0",
+      "duration": 2.94,
+      "offset": 693.56,
+      "lang": "en"
+    },
+    {
+      "text": "Which will make a 3D world out of one image",
+      "duration": 3.0,
+      "offset": 696.56,
+      "lang": "en"
+    },
+    {
+      "text": "And this is an AI generated 3D world",
+      "duration": 3.0,
+      "offset": 699.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now see what things are being made from this image",
+      "duration": 3.0,
+      "offset": 702.56,
+      "lang": "en"
+    },
+    {
+      "text": "It scans the whole image and then what is being made",
+      "duration": 2.97,
+      "offset": 705.56,
+      "lang": "en"
+    },
+    {
+      "text": "If you look at the old version from the new version",
+      "duration": 2.97,
+      "offset": 708.56,
+      "lang": "en"
+    },
+    {
+      "text": "The new version looks a little better, the reflections are better",
+      "duration": 2.97,
+      "offset": 711.56,
+      "lang": "en"
+    },
+    {
+      "text": "The sharpness is better",
+      "duration": 3.0,
+      "offset": 714.56,
+      "lang": "en"
+    },
+    {
+      "text": "So this 3D world is being thought in two directions",
+      "duration": 3.0,
+      "offset": 717.56,
+      "lang": "en"
+    },
+    {
+      "text": "One is that these 3D worlds will be made, so it will be useful for machine learning",
+      "duration": 3.0,
+      "offset": 720.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now the robot has to go to the world",
+      "duration": 2.97,
+      "offset": 723.56,
+      "lang": "en"
+    },
+    {
+      "text": "So how it will behave in different worlds, what should be done",
+      "duration": 3.0,
+      "offset": 726.56,
+      "lang": "en"
+    },
+    {
+      "text": "It can also be used for that work",
+      "duration": 3.0,
+      "offset": 729.56,
+      "lang": "en"
+    },
+    {
+      "text": "The second biggest thing I think is gaming",
+      "duration": 3.0,
+      "offset": 732.56,
+      "lang": "en"
+    },
+    {
+      "text": "It can make a big dent in the gaming industry",
+      "duration": 3.0,
+      "offset": 735.56,
+      "lang": "en"
+    },
+    {
+      "text": "I say that in the future of gaming, stories are not there",
+      "duration": 3.0,
+      "offset": 738.56,
+      "lang": "en"
+    },
+    {
+      "text": "Stories are being made in real time by the AI",
+      "duration": 3.0,
+      "offset": 741.56,
+      "lang": "en"
+    },
+    {
+      "text": "I have put the mic and I am talking",
+      "duration": 2.97,
+      "offset": 744.56,
+      "lang": "en"
+    },
+    {
+      "text": "In real, a character is being generated",
+      "duration": 3.0,
+      "offset": 747.56,
+      "lang": "en"
+    },
+    {
+      "text": "They have made basic characters, they have given emotion to it",
+      "duration": 2.97,
+      "offset": 750.56,
+      "lang": "en"
+    },
+    {
+      "text": "They have set some basic structure",
+      "duration": 3.0,
+      "offset": 753.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now I am going there, how do I act",
+      "duration": 2.97,
+      "offset": 756.56,
+      "lang": "en"
+    },
+    {
+      "text": "Whom do I fight, I don&#39;t fight",
+      "duration": 3.0,
+      "offset": 759.56,
+      "lang": "en"
+    },
+    {
+      "text": "Based on that, my story will go ahead",
+      "duration": 3.0,
+      "offset": 762.56,
+      "lang": "en"
+    },
+    {
+      "text": "Based on that, scenes will be generated",
+      "duration": 3.0,
+      "offset": 765.56,
+      "lang": "en"
+    },
+    {
+      "text": "It can be fun to think about it",
+      "duration": 3.0,
+      "offset": 768.56,
+      "lang": "en"
+    },
+    {
+      "text": "And it will be",
+      "duration": 3.0,
+      "offset": 771.56,
+      "lang": "en"
+    },
+    {
+      "text": "I think we will see this level of gaming",
+      "duration": 2.97,
+      "offset": 774.56,
+      "lang": "en"
+    },
+    {
+      "text": "Not now, but in the future",
+      "duration": 3.0,
+      "offset": 777.56,
+      "lang": "en"
+    },
+    {
+      "text": "Game development will also be very easy",
+      "duration": 3.0,
+      "offset": 780.56,
+      "lang": "en"
+    },
+    {
+      "text": "Because of this process",
+      "duration": 3.0,
+      "offset": 783.56,
+      "lang": "en"
+    },
+    {
+      "text": "Mid Journey has released its 8.1 version",
+      "duration": 3.0,
+      "offset": 786.56,
+      "lang": "en"
+    },
+    {
+      "text": "It is 3 times faster, 3 times cheaper",
+      "duration": 3.0,
+      "offset": 789.56,
+      "lang": "en"
+    },
+    {
+      "text": "It is able to make 2K HD image",
+      "duration": 3.0,
+      "offset": 792.56,
+      "lang": "en"
+    },
+    {
+      "text": "Overall it is good, but I feel bad for Mid Journey",
+      "duration": 2.97,
+      "offset": 795.56,
+      "lang": "en"
+    },
+    {
+      "text": "I remember 2-3 years ago, I used to use Mid Journey a lot",
+      "duration": 2.99,
+      "offset": 798.56,
+      "lang": "en"
+    },
+    {
+      "text": "I used to say to everyone, Mid Journey, Mid Journey, very good",
+      "duration": 3.0,
+      "offset": 801.56,
+      "lang": "en"
+    },
+    {
+      "text": "But the way to make nano",
+      "duration": 3.0,
+      "offset": 804.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chat, GPT, image generation model is increasing",
+      "duration": 3.0,
+      "offset": 807.56,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t feel like taking Mid Journey subscription",
+      "duration": 3.0,
+      "offset": 810.56,
+      "lang": "en"
+    },
+    {
+      "text": "All my work is done from here",
+      "duration": 3.0,
+      "offset": 813.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now they are doing mandatory KYC for some users",
+      "duration": 2.97,
+      "offset": 816.56,
+      "lang": "en"
+    },
+    {
+      "text": "Specifically for those who are using their big plan",
+      "duration": 2.97,
+      "offset": 819.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now see what is the story",
+      "duration": 3.0,
+      "offset": 822.56,
+      "lang": "en"
+    },
+    {
+      "text": "Entropic, Chat GPT, all of these",
+      "duration": 3.0,
+      "offset": 825.56,
+      "lang": "en"
+    },
+    {
+      "text": "KYC is done to use advanced models",
+      "duration": 3.0,
+      "offset": 828.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chat GPT, I remember",
+      "duration": 3.0,
+      "offset": 831.56,
+      "lang": "en"
+    },
+    {
+      "text": "At that time 4.5 was released",
+      "duration": 3.0,
+      "offset": 834.56,
+      "lang": "en"
+    },
+    {
+      "text": "At that time we did KYC",
+      "duration": 3.0,
+      "offset": 837.56,
+      "lang": "en"
+    },
+    {
+      "text": "Because they had to use 4.5 version through API",
+      "duration": 2.97,
+      "offset": 840.56,
+      "lang": "en"
+    },
+    {
+      "text": "Understand why this is being done",
+      "duration": 3.0,
+      "offset": 843.56,
+      "lang": "en"
+    },
+    {
+      "text": "Now they have to release their new model",
+      "duration": 3.0,
+      "offset": 846.56,
+      "lang": "en"
+    },
+    {
+      "text": "Preview has been released",
+      "duration": 3.0,
+      "offset": 849.56,
+      "lang": "en"
+    },
+    {
+      "text": "I had access, I refined my model by learning from it",
+      "duration": 2.97,
+      "offset": 852.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chinese model has an allegation",
+      "duration": 3.0,
+      "offset": 855.56,
+      "lang": "en"
+    },
+    {
+      "text": "They take subscription of their model",
+      "duration": 3.0,
+      "offset": 858.56,
+      "lang": "en"
+    },
+    {
+      "text": "Learn from there and teach their model",
+      "duration": 3.0,
+      "offset": 861.56,
+      "lang": "en"
+    },
+    {
+      "text": "Going forward we are going to see this",
+      "duration": 3.0,
+      "offset": 864.56,
+      "lang": "en"
+    },
+    {
+      "text": "OpenAI has released a major update in Agent SDK",
+      "duration": 2.97,
+      "offset": 867.56,
+      "lang": "en"
+    },
+    {
+      "text": "Things will look better",
+      "duration": 3.0,
+      "offset": 870.56,
+      "lang": "en"
+    },
+    {
+      "text": "Basically a file is made",
+      "duration": 3.0,
+      "offset": 873.56,
+      "lang": "en"
+    },
+    {
+      "text": "Agent.md Where we write instructions on how to behave",
+      "duration": 6.0,
+      "offset": 876.56,
+      "lang": "en"
+    },
+    {
+      "text": "They are improving the framework architecture",
+      "duration": 3.0,
+      "offset": 882.56,
+      "lang": "en"
+    },
+    {
+      "text": "You don&#39;t have to learn this architecture",
+      "duration": 3.0,
+      "offset": 885.56,
+      "lang": "en"
+    },
+    {
+      "text": "You will get this architecture",
+      "duration": 3.0,
+      "offset": 888.56,
+      "lang": "en"
+    },
+    {
+      "text": "On the internet",
+      "duration": 3.0,
+      "offset": 891.56,
+      "lang": "en"
+    },
+    {
+      "text": "Use chat GPT",
+      "duration": 3.0,
+      "offset": 894.56,
+      "lang": "en"
+    },
+    {
+      "text": "Go to chat GPT or codex",
+      "duration": 3.0,
+      "offset": 897.56,
+      "lang": "en"
+    },
+    {
+      "text": "Go to latest model",
+      "duration": 3.0,
+      "offset": 900.56,
+      "lang": "en"
+    },
+    {
+      "text": "Based on this architecture",
+      "duration": 3.0,
+      "offset": 903.56,
+      "lang": "en"
+    },
+    {
+      "text": "Make an agent.md file",
+      "duration": 3.0,
+      "offset": 906.56,
+      "lang": "en"
+    },
+    {
+      "text": "Tell your workflow",
+      "duration": 3.0,
+      "offset": 909.56,
+      "lang": "en"
+    },
+    {
+      "text": "Why take so much tension",
+      "duration": 3.0,
+      "offset": 912.56,
+      "lang": "en"
+    },
+    {
+      "text": "Even if you are not a developer",
+      "duration": 3.0,
+      "offset": 915.56,
+      "lang": "en"
+    },
+    {
+      "text": "The world is getting better",
+      "duration": 3.0,
+      "offset": 918.56,
+      "lang": "en"
+    },
+    {
+      "text": "They have released routine feature",
+      "duration": 3.0,
+      "offset": 921.56,
+      "lang": "en"
+    },
+    {
+      "text": "Everything will be updated",
+      "duration": 3.0,
+      "offset": 924.56,
+      "lang": "en"
+    },
+    {
+      "text": "In chat GPT",
+      "duration": 3.0,
+      "offset": 927.56,
+      "lang": "en"
+    },
+    {
+      "text": "They have released schedule",
+      "duration": 3.0,
+      "offset": 930.56,
+      "lang": "en"
+    },
+    {
+      "text": "In codex",
+      "duration": 3.0,
+      "offset": 933.56,
+      "lang": "en"
+    },
+    {
+      "text": "In entropy",
+      "duration": 3.0,
+      "offset": 936.56,
+      "lang": "en"
+    },
+    {
+      "text": "One good thing in entropy",
+      "duration": 3.0,
+      "offset": 939.56,
+      "lang": "en"
+    },
+    {
+      "text": "Computer is on",
+      "duration": 3.0,
+      "offset": 942.56,
+      "lang": "en"
+    },
+    {
+      "text": "Put tasks on your system",
+      "duration": 3.0,
+      "offset": 945.56,
+      "lang": "en"
+    },
+    {
+      "text": "It will be ready",
+      "duration": 3.0,
+      "offset": 948.56,
+      "lang": "en"
+    },
+    {
+      "text": "For example",
+      "duration": 3.0,
+      "offset": 952.56,
+      "lang": "en"
+    },
+    {
+      "text": "Give this agent",
+      "duration": 3.0,
+      "offset": 955.56,
+      "lang": "en"
+    },
+    {
+      "text": "Publish the news",
+      "duration": 3.0,
+      "offset": 958.56,
+      "lang": "en"
+    },
+    {
+      "text": "I haven&#39;t tried",
+      "duration": 3.0,
+      "offset": 961.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chrome You can save AI prompts",
+      "duration": 6.0,
+      "offset": 964.56,
+      "lang": "en"
+    },
+    {
+      "text": "And use them",
+      "duration": 3.0,
+      "offset": 970.56,
+      "lang": "en"
+    },
+    {
+      "text": "Google has understood",
+      "duration": 3.0,
+      "offset": 973.56,
+      "lang": "en"
+    },
+    {
+      "text": "This game is going to be dangerous",
+      "duration": 3.0,
+      "offset": 976.56,
+      "lang": "en"
+    },
+    {
+      "text": "We saw comet",
+      "duration": 3.0,
+      "offset": 980.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am talking on mass level",
+      "duration": 3.0,
+      "offset": 983.56,
+      "lang": "en"
+    },
+    {
+      "text": "We saw comet",
+      "duration": 3.0,
+      "offset": 986.56,
+      "lang": "en"
+    },
+    {
+      "text": "We saw atlas",
+      "duration": 3.0,
+      "offset": 989.56,
+      "lang": "en"
+    },
+    {
+      "text": "They have understood",
+      "duration": 3.0,
+      "offset": 992.56,
+      "lang": "en"
+    },
+    {
+      "text": "We have to do it in chrome",
+      "duration": 3.0,
+      "offset": 995.56,
+      "lang": "en"
+    },
+    {
+      "text": "We haven&#39;t reached that level",
+      "duration": 3.0,
+      "offset": 998.56,
+      "lang": "en"
+    },
+    {
+      "text": "Microsoft thought",
+      "duration": 3.0,
+      "offset": 1001.56,
+      "lang": "en"
+    },
+    {
+      "text": "We have to do it",
+      "duration": 3.0,
+      "offset": 1004.56,
+      "lang": "en"
+    },
+    {
+      "text": "They brought chat in browser",
+      "duration": 3.0,
+      "offset": 1007.56,
+      "lang": "en"
+    },
+    {
+      "text": "It was not agentic",
+      "duration": 3.0,
+      "offset": 1010.56,
+      "lang": "en"
+    },
+    {
+      "text": "But they brought co-pilot",
+      "duration": 3.0,
+      "offset": 1013.56,
+      "lang": "en"
+    },
+    {
+      "text": "In browser",
+      "duration": 3.0,
+      "offset": 1016.56,
+      "lang": "en"
+    },
+    {
+      "text": "This is going to be fun",
+      "duration": 3.0,
+      "offset": 1019.56,
+      "lang": "en"
+    },
+    {
+      "text": "Reports are saying",
+      "duration": 3.0,
+      "offset": 1022.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chat GPT",
+      "duration": 3.0,
+      "offset": 1025.56,
+      "lang": "en"
+    },
+    {
+      "text": "And atlas browser",
+      "duration": 3.0,
+      "offset": 1028.56,
+      "lang": "en"
+    },
+    {
+      "text": "And coding platform",
+      "duration": 3.0,
+      "offset": 1031.56,
+      "lang": "en"
+    },
+    {
+      "text": "Very risky for google",
+      "duration": 3.0,
+      "offset": 1034.56,
+      "lang": "en"
+    },
+    {
+      "text": "Although google has shown",
+      "duration": 3.0,
+      "offset": 1037.56,
+      "lang": "en"
+    },
+    {
+      "text": "Disco browser",
+      "duration": 3.0,
+      "offset": 1040.56,
+      "lang": "en"
+    },
+    {
+      "text": "They haven&#39;t done it",
+      "duration": 3.0,
+      "offset": 1043.56,
+      "lang": "en"
+    },
+    {
+      "text": "Browser race is going to be fun",
+      "duration": 3.0,
+      "offset": 1046.56,
+      "lang": "en"
+    },
+    {
+      "text": "Everyone wants to adopt",
+      "duration": 3.0,
+      "offset": 1049.56,
+      "lang": "en"
+    },
+    {
+      "text": "I use safari browser",
+      "duration": 3.0,
+      "offset": 1052.56,
+      "lang": "en"
+    },
+    {
+      "text": "There are limitations",
+      "duration": 3.0,
+      "offset": 1055.56,
+      "lang": "en"
+    },
+    {
+      "text": "Sometimes They recommend chrome",
+      "duration": 6.0,
+      "offset": 1058.56,
+      "lang": "en"
+    },
+    {
+      "text": "Safari is not optimized",
+      "duration": 3.0,
+      "offset": 1064.56,
+      "lang": "en"
+    },
+    {
+      "text": "Chrome extension",
+      "duration": 3.0,
+      "offset": 1067.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am using safari",
+      "duration": 3.0,
+      "offset": 1070.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am stuck in that",
+      "duration": 3.0,
+      "offset": 1073.56,
+      "lang": "en"
+    },
+    {
+      "text": "I was stuck in chrome",
+      "duration": 3.0,
+      "offset": 1076.56,
+      "lang": "en"
+    },
+    {
+      "text": "I can continue safari",
+      "duration": 3.0,
+      "offset": 1079.56,
+      "lang": "en"
+    },
+    {
+      "text": "On my ipad",
+      "duration": 3.0,
+      "offset": 1082.56,
+      "lang": "en"
+    },
+    {
+      "text": "I can continue on home",
+      "duration": 3.0,
+      "offset": 1085.56,
+      "lang": "en"
+    },
+    {
+      "text": "Google chrome was similar",
+      "duration": 3.0,
+      "offset": 1088.56,
+      "lang": "en"
+    },
+    {
+      "text": "But google chrome",
+      "duration": 3.0,
+      "offset": 1091.56,
+      "lang": "en"
+    },
+    {
+      "text": "Is for google chrome",
+      "duration": 3.0,
+      "offset": 1094.56,
+      "lang": "en"
+    },
+    {
+      "text": "I can&#39;t switch",
+      "duration": 3.0,
+      "offset": 1097.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am using all browsers",
+      "duration": 3.0,
+      "offset": 1100.56,
+      "lang": "en"
+    },
+    {
+      "text": "But i am not able to adopt",
+      "duration": 3.0,
+      "offset": 1103.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to adopt",
+      "duration": 3.0,
+      "offset": 1106.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to adopt",
+      "duration": 3.0,
+      "offset": 1109.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to adopt",
+      "duration": 3.0,
+      "offset": 1112.56,
+      "lang": "en"
+    },
+    {
+      "text": "Like scheduling",
+      "duration": 3.0,
+      "offset": 1115.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to switch",
+      "duration": 3.0,
+      "offset": 1118.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to switch",
+      "duration": 3.0,
+      "offset": 1121.56,
+      "lang": "en"
+    },
+    {
+      "text": "I am not able to switch",
+      "duration": 3.0,
+      "offset": 1124.56,
+      "lang": "en"
+    },
+    {
+      "text": "Everyone wants to adopt",
+      "duration": 3.0,
+      "offset": 1127.56,
+      "lang": "en"
+    },
+    {
+      "text": "Apple warned grock",
+      "duration": 3.0,
+      "offset": 1130.56,
+      "lang": "en"
+    },
+    {
+      "text": "They will remove your app",
+      "duration": 3.0,
+      "offset": 1133.56,
+      "lang": "en"
+    },
+    {
+      "text": "US senator said",
+      "duration": 3.0,
+      "offset": 1136.56,
+      "lang": "en"
+    },
+    {
+      "text": "Remove grock from google play store",
+      "duration": 3.0,
+      "offset": 1139.56,
+      "lang": "en"
+    },
+    {
+      "text": "Remove grock from app store",
+      "duration": 3.0,
+      "offset": 1142.56,
+      "lang": "en"
+    },
+    {
+      "text": "They are making any content",
+      "duration": 3.0,
+      "offset": 1145.56,
+      "lang": "en"
+    },
+    {
+      "text": "But people are making it",
+      "duration": 3.0,
+      "offset": 1148.56,
+      "lang": "en"
+    },
+    {
+      "text": "I see",
+      "duration": 3.0,
+      "offset": 1151.56,
+      "lang": "en"
+    },
+    {
+      "text": "Switch this person",
+      "duration": 3.0,
+      "offset": 1154.56,
+      "lang": "en"
+    },
+    {
+      "text": "They upload anything",
+      "duration": 3.0,
+      "offset": 1157.56,
+      "lang": "en"
+    },
+    {
+      "text": "Make him wear this",
+      "duration": 3.0,
+      "offset": 1160.56,
+      "lang": "en"
+    },
+    {
+      "text": "Increase his weight",
+      "duration": 3.0,
+      "offset": 1163.56,
+      "lang": "en"
+    },
+    {
+      "text": "It is fun",
+      "duration": 3.0,
+      "offset": 1166.56,
+      "lang": "en"
+    },
+    {
+      "text": "They are saying",
+      "duration": 3.0,
+      "offset": 1169.56,
+      "lang": "en"
+    },
+    {
+      "text": "Our model is better",
+      "duration": 3.0,
+      "offset": 1172.56,
+      "lang": "en"
+    },
+    {
+      "text": "They can run every query",
+      "duration": 3.0,
+      "offset": 1175.56,
+      "lang": "en"
+    },
+    {
+      "text": "Google said",
+      "duration": 3.0,
+      "offset": 1178.56,
+      "lang": "en"
+    },
+    {
+      "text": "It can&#39;t be cracked",
+      "duration": 3.0,
+      "offset": 1181.56,
+      "lang": "en"
+    },
+    {
+      "text": "Starbucks Created a beta app",
+      "duration": 6.0,
+      "offset": 1184.56,
+      "lang": "en"
+    },
+    {
+      "text": "You can order your drink",
+      "duration": 3.0,
+      "offset": 1190.56,
+      "lang": "en"
+    },
+    {
+      "text": "Based on your past history",
+      "duration": 3.0,
+      "offset": 1193.56,
+      "lang": "en"
+    },
+    {
+      "text": "But the question is",
+      "duration": 6.0,
+      "offset": 1196.56,
+      "lang": "en"
+    },
+    {
+      "text": "Do they have that much power The product range is such that it can cater to all types of things.",
+      "duration": 4.44,
+      "offset": 1199.56,
+      "lang": "en"
+    },
+    {
+      "text": "Where you can order your drink",
+      "duration": 3.0,
+      "offset": 1202.56,
+      "lang": "en"
+    },
+    {
+      "text": "Google is going to shut down DSA ads soon.",
+      "duration": 3.0,
+      "offset": 1204.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will drink according to your past",
+      "duration": 3.0,
+      "offset": 1205.56,
+      "lang": "en"
+    },
+    {
+      "text": "And they are going towards AI ads.",
+      "duration": 2.0,
+      "offset": 1207.0,
+      "lang": "en"
+    },
+    {
+      "text": "Starbucks Has a beta app",
+      "duration": 6.0,
+      "offset": 1208.56,
+      "lang": "en"
+    },
+    {
+      "text": "And I am telling you from the beginning that this is the future.",
+      "duration": 3.0,
+      "offset": 1209.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you have taken my digital marketing course,",
+      "duration": 2.0,
+      "offset": 1212.0,
+      "lang": "en"
+    },
+    {
+      "text": "Or if you have taken the individual course of Google Ads,",
+      "duration": 2.97,
+      "offset": 1214.0,
+      "lang": "en"
+    },
+    {
+      "text": "Where you can order your drink",
+      "duration": 3.0,
+      "offset": 1214.56,
+      "lang": "en"
+    },
+    {
+      "text": "In that, when I told you about AI ads,",
+      "duration": 2.97,
+      "offset": 1217.0,
+      "lang": "en"
+    },
+    {
+      "text": "It will drink according to your past Starbucks The product range is such that it can cater to all types of things. Google is going to shut down DSA ads soon. And they are going towards AI ads. And I am telling you from the beginning that this is the future.",
+      "duration": 3.05,
+      "offset": 1217.56,
+      "lang": "en"
+    },
+    {
+      "text": "I said that performance max is the future.",
+      "duration": 3.0,
+      "offset": 1220.0,
+      "lang": "en"
+    },
+    {
+      "text": "If you have taken my digital marketing course, Or if you have taken the individual course of Google Ads, In that, when I told you about AI ads, I said that performance max is the future.",
+      "duration": 2.39,
+      "offset": 1220.61,
+      "lang": "en"
+    },
+    {
+      "text": "The whole world will see towards performance max.",
+      "duration": 3.0,
+      "offset": 1223.0,
+      "lang": "en"
+    },
+    {
+      "text": "Now enjoy as much as you want.",
+      "duration": 2.0,
+      "offset": 1226.0,
+      "lang": "en"
+    },
+    {
+      "text": "In the future, performance max will be everything.",
+      "duration": 2.0,
+      "offset": 1228.0,
+      "lang": "en"
+    },
+    {
+      "text": "That direction is visible.",
+      "duration": 2.0,
+      "offset": 1230.0,
+      "lang": "en"
+    },
+    {
+      "text": "DSA has been shut down.",
+      "duration": 1.0,
+      "offset": 1232.0,
+      "lang": "en"
+    },
+    {
+      "text": "AI max will be focused on.",
+      "duration": 2.0,
+      "offset": 1233.0,
+      "lang": "en"
+    },
+    {
+      "text": "The deadline for September 2026 has been set.",
+      "duration": 3.0,
+      "offset": 1235.0,
+      "lang": "en"
+    },
+    {
+      "text": "If we see, AI will be able to take better decisions than humans.",
+      "duration": 3.0,
+      "offset": 1238.0,
+      "lang": "en"
+    },
+    {
+      "text": "If there is data after that.",
+      "duration": 2.0,
+      "offset": 1241.0,
+      "lang": "en"
+    },
+    {
+      "text": "So those people whose accounts are already running,",
+      "duration": 2.0,
+      "offset": 1243.0,
+      "lang": "en"
+    },
+    {
+      "text": "There is a lot of data.",
+      "duration": 1.0,
+      "offset": 1245.0,
+      "lang": "en"
+    },
+    {
+      "text": "Expect better results.",
+      "duration": 2.0,
+      "offset": 1246.0,
+      "lang": "en"
+    },
+    {
+      "text": "With this, our today&#39;s video ends.",
+      "duration": 2.0,
+      "offset": 1248.0,
+      "lang": "en"
+    },
+    {
+      "text": "I hope you enjoyed it.",
+      "duration": 1.0,
+      "offset": 1250.0,
+      "lang": "en"
+    },
+    {
+      "text": "Like it, share it.",
+      "duration": 1.0,
+      "offset": 1251.0,
+      "lang": "en"
+    },
+    {
+      "text": "Comment, how did you like the video?",
+      "duration": 0.98,
+      "offset": 1252.0,
+      "lang": "en"
+    },
+    {
+      "text": "Bye, good night, good afternoon, whenever you are watching the video,",
+      "duration": 2.97,
+      "offset": 1253.0,
+      "lang": "en"
+    },
+    {
+      "text": "Jai Hind.",
+      "duration": 1.0,
+      "offset": 1256.0,
+      "lang": "en"
+    },
+    {
+      "text": "Bande Mataram.",
+      "duration": 1.0,
+      "offset": 1257.0,
+      "lang": "en"
+    },
+    {
+      "text": "Doa Main Yaar Rakhna Hai.",
+      "duration": 1.0,
+      "offset": 1258.0,
+      "lang": "en"
+    }
+  ]
+}

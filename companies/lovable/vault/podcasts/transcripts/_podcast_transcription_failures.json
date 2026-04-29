@@ -1,0 +1,32 @@
+[
+  {
+    "status": "failed",
+    "title": "Lovable’s CEO Isn’t Sweating the Vibe-Coding Wars—And That Confidence Might Be Justified",
+    "date": "2025-09-01",
+    "podcast": "Unsupervised Ai News",
+    "audio_url": "https://limitededitionjonathan.com/wp-content/uploads/2025/09/YYYY-09-Sep-1-2025-1124-podcast.mp3",
+    "attempt_round": 3,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "asr_transcription",
+    "tried_urls": [
+      "groq:https://limitededitionjonathan.com/wp-content/uploads/2025/09/YYYY-09-Sep-1-2025-1124-podcast.mp3",
+      "dashscope:https://limitededitionjonathan.com/wp-content/uploads/2025/09/YYYY-09-Sep-1-2025-1124-podcast.mp3"
+    ],
+    "provider_attempts": [
+      {
+        "provider": "groq",
+        "url": "https://limitededitionjonathan.com/wp-content/uploads/2025/09/YYYY-09-Sep-1-2025-1124-podcast.mp3",
+        "success": false,
+        "error": "Groq failed: Get \"****\": dial tcp: lookup limitededitionjonathan.com: no such host"
+      },
+      {
+        "provider": "dashscope",
+        "url": "https://limitededitionjonathan.com/wp-content/uploads/2025/09/YYYY-09-Sep-1-2025-1124-podcast.mp3",
+        "success": false,
+        "error": "Subtask failed: FILE_DOWNLOAD_FAILED"
+      }
+    ],
+    "local_audio_path": "",
+    "standard_audio_path": ""
+  }
+]

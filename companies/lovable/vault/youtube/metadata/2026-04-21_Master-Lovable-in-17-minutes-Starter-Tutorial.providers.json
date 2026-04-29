@@ -1,0 +1,16 @@
+{
+  "video_id": "Vf2K0pcTLEo",
+  "title": "Master Lovable in 17 minutes (Starter Tutorial)",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:15:11",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:15:11"
+}

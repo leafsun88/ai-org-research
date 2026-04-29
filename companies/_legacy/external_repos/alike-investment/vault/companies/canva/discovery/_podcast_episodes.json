@@ -1,0 +1,27 @@
+{
+  "ticker": "CANVA",
+  "company": "Canva",
+  "collected": "2026-04-07",
+  "note": "Podcast module failed (missing requests module). Key CEO podcast appearances identified via WebSearch:",
+  "known_appearances": [
+    {
+      "title": "20VC: Canva Co-Founder Cliff Obrecht on Journey From 100 VC Rejections to $40BN Company",
+      "host": "The Twenty Minute VC (Harry Stebbings)",
+      "guest": "Cliff Obrecht",
+      "topics": ["fundraising", "culture", "hiring", "giving away billions"]
+    },
+    {
+      "title": "SaaS at Scale: Hard-Won Lessons from Cliff Obrecht on Building Canva from $0 to $4B ARR",
+      "host": "SaaStr",
+      "guest": "Cliff Obrecht",
+      "topics": ["ARR growth", "scaling", "enterprise", "AI strategy"]
+    },
+    {
+      "title": "Masters of Scale: Cliff Obrecht",
+      "host": "Masters of Scale",
+      "guest": "Cliff Obrecht",
+      "topics": ["scaling", "operations"]
+    }
+  ],
+  "episodes": []
+}

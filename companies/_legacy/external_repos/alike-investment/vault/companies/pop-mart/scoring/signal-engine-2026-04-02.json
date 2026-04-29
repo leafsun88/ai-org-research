@@ -1,0 +1,594 @@
+{
+  "date": "2026-04-02",
+  "company": "PopMart",
+  "old_friend": "Netflix",
+  "source_hash": "a7f3b2c9e1d04582bf6a9c3e7d1f0a8b",
+  "auto_applied": [
+    {
+      "id": "sig_popm_010",
+      "signal": "文德一从联席COO升任CGO(首席增长官)，专注中长期战略创新——海外治理从个人依赖走向制度化分工",
+      "event_date": "2026-03-23",
+      "confidence": 90,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D4"
+      ],
+      "dims": {
+        "D2": 0.4,
+        "D4": 0.3
+      },
+      "source": "Pop Mart Annual Results Announcement + Justin Moon LinkedIn",
+      "source_classification": "S5",
+      "key_question": "CGO角色能否真正推动长期创新？还是变相架空？",
+      "evidences": [
+        {
+          "text": "文德一LinkedIn: Starting this week I will be transitioning into CGO, focusing on identifying new growth engines and shaping the long-term future",
+          "sourceType": "S3"
+        }
+      ],
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "LinkedIn本人确认角色变化",
+            "业绩发布会以CGO身份出席",
+            "此前已是联席COO负责亚太+欧洲"
+          ],
+          "missing": [
+            "CGO具体职责范围vs原COO差异",
+            "司德是否独揽COO全权"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "Netflix也经历Sarandos从CCO升任Co-CEO的类似路径",
+            "从执行角色到战略角色的转变是组织成熟的标志"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "也可能是变相架空——从实权COO到虚职CGO？需观察后续实际决策权变化"
+          ]
+        }
+      },
+      "stale": false,
+      "stale_reason": null,
+      "superseded_by": null,
+      "applied_at": "2026-04-02T18:00:00Z"
+    },
+    {
+      "id": "sig_popm_011",
+      "signal": "LVMH大中华区总裁吴越加入董事会(非执行董事)，替代黑蚁资本何愚——治理层从VC背景转向奢侈品+全球化背景",
+      "event_date": "2025-12-10",
+      "confidence": 82,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D7"
+      ],
+      "dims": {
+        "D2": 0.3,
+        "D7": 0.2
+      },
+      "source": "HKEX Announcement + 新浪财经",
+      "source_classification": "S5",
+      "evidences": [
+        {
+          "text": "吴越69岁,LVMH大中华区总裁30年经验,York U MBA,年薪120万港元+180万股份薪酬",
+          "sourceType": "S5"
+        }
+      ],
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "HKEX公告确认",
+            "吴越30年LVMH/Dior/Sony经验",
+            "何愚(黑蚁)同日辞任"
+          ],
+          "missing": [
+            "吴越实际参与度待观察"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "引入行业老手进董事会是全球化公司成熟标志",
+            "LVMH背景有助品牌升级和奢侈品渠道"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "非执行董事实际投入有限，吴越69岁+LVMH本职工作繁忙，对PopMart治理的实质改善程度存疑。MOYNAT联名证明商业合作在发生，但不等于治理层面有真实影响力。"
+          ]
+        }
+      },
+      "stale": false,
+      "applied_at": "2026-04-02T18:00:00Z"
+    }
+  ],
+  "proposals": [
+    {
+      "id": "sig_popm_004",
+      "signal": "夫妻档控股50%+治理风险极高，司德(大中华COO)2025年减持1.51亿，内部信号矛盾",
+      "event_date": "2026-04-01",
+      "confidence": 75,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D3"
+      ],
+      "dims": {
+        "D2": -0.4,
+        "D3": -0.5
+      },
+      "source": "港交所披露 / 公司治理信息",
+      "source_classification": "S5",
+      "key_question": "司德减持是正常流动性管理还是对公司前景的消极信号？夫妻档控股结构是否限制组织进化？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "王宁夫妇控股50%+，董事会独立性受限",
+            "司德(联合创始人/大中华COO)2025年减持1.51亿",
+            "无明确接班人培养计划"
+          ],
+          "missing": [
+            "司德减持的具体时间节点和原因说明",
+            "独立董事的实际影响力"
+          ]
+        },
+        "pattern": {
+          "match": false,
+          "points": [
+            "Netflix有明确的CEO交接(Hastings→Sarandos)，PopMart完全没有",
+            "家族控股在消费品企业常见，但与Netflix的职业经理人治理差异大"
+          ]
+        },
+        "adversarial": {
+          "holes": 2,
+          "points": [
+            "联合创始人减持通常是负面信号",
+            "50%控股意味着小股东几乎没有影响治理的能力"
+          ]
+        }
+      },
+      "stale": false,
+      "validation_trigger": "2026年中期报告：管理层持股变动及治理结构调整"
+    },
+    {
+      "id": "sig_popm_005",
+      "signal": "文德一(韩国COO)主导海外从0→44%，是全球化的灵魂人物，关键人物依赖风险极高",
+      "event_date": "2026-04-01",
+      "confidence": 72,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D4"
+      ],
+      "dims": {
+        "D2": -0.3,
+        "D6": -0.2
+      },
+      "source": "公司组织架构 / 管理层访谈",
+      "source_classification": "S3",
+      "key_question": "如果文德一离开，海外业务能否保持44%占比和增速？是否有继任者培养？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "文德一主导海外业务从0增长到占比44%",
+            "2025年四大区域架构重组，文德一负责海外",
+            "韩国背景+全球视野，在中国消费品企业中极为稀缺"
+          ],
+          "missing": [
+            "文德一的合同和股权激励细节",
+            "海外区域二级管理团队的实力"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Netflix Ted Sarandos对内容业务的不可替代性"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "单一关键人物驱动44%营收，组织韧性不足"
+          ]
+        }
+      },
+      "stale": true,
+      "stale_reason": "文德一已升任CGO，关键人物依赖风险已被组织制度化分工部分化解",
+      "superseded_by": "sig_popm_010",
+      "validation_trigger": "文德一的人事动态、海外区域管理团队建设进展"
+    },
+    {
+      "id": "sig_popm_007",
+      "signal": "2025年四大区域架构重组：从CEO直管到区域COO制，组织化进程启动但效果未验证",
+      "event_date": "2026-04-01",
+      "confidence": 60,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D4",
+        "D5"
+      ],
+      "dims": {
+        "D2": 0.3,
+        "D4": 0.3
+      },
+      "source": "公司组织架构调整公告",
+      "source_classification": "S4",
+      "key_question": "10个中台部门+双COO(文德一+司德)的矩阵结构是否会导致决策迟缓？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "从CEO直管扁平结构转向四大区域制",
+            "文德一(海外)和司德(大中华)分管",
+            "10个中台部门支撑区域运营"
+          ],
+          "missing": [
+            "区域架构运行后的决策效率数据",
+            "中台与区域的协调机制细节"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "Netflix也经历了从创始人直管到区域化的组织演进"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "10个中台部门+双COO可能制造比CEO直管更多的协调摩擦"
+          ]
+        }
+      },
+      "stale": false,
+      "validation_trigger": "2026年中报：区域化架构下的运营效率指标"
+    },
+    {
+      "id": "sig_popm_012",
+      "signal": "Glassdoor评分2.3/5(81条评价)，员工满意度远低于行业均值3.9，薪酬福利仅1.6/5——快速扩张下一线员工体验严重缺失",
+      "event_date": "2026-03-01",
+      "confidence": 70,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D6",
+        "D3"
+      ],
+      "dims": {
+        "D6": -0.3,
+        "D3": -0.2
+      },
+      "source": "Glassdoor Reviews (81 reviews)",
+      "source_classification": "S2",
+      "evidences": [
+        {
+          "text": "仅15%员工推荐,文化与价值观1.9/5,薪酬福利1.6/5(过去12个月下降35%)",
+          "sourceType": "S2"
+        }
+      ],
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "81条评价样本量可信",
+            "薪酬评分持续下降趋势",
+            "零401k/零员工折扣"
+          ],
+          "missing": [
+            "主要是美国一线零售员工评价,中国总部情况未知"
+          ]
+        },
+        "pattern": {
+          "match": false,
+          "points": [
+            "Netflix以高薪高密度著称,PopMart走相反路线",
+            "快速开店导致一线体验牺牲是常见扩张病"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "零售行业Glassdoor普遍偏低,需对比同行(Miniso/Sanrio)才有说服力"
+          ]
+        }
+      },
+      "stale": false,
+      "validation_trigger": "Glassdoor评分趋势、员工留存率数据"
+    },
+    {
+      "id": "sig_popm_013",
+      "signal": "王宁定调2026年'进维修站换轮胎'——从F1赛车心态转为主动降速休整，CEO认知从焦虑走向务实",
+      "event_date": "2026-03-25",
+      "confidence": 65,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D1"
+      ],
+      "dims": {
+        "D1": 0.2
+      },
+      "source": "2025年度业绩发布会 + 中国企业家深度访谈",
+      "source_classification": "S3",
+      "evidences": [
+        {
+          "text": "王宁:'这是我最焦虑的一年,像新手司机被拉去驾驶F1赛车'; '2026年努力做到不低于20%,不追求激进增收不增利'",
+          "sourceType": "S3"
+        }
+      ],
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "业绩发布会公开发言",
+            "中国企业家深度访谈印证",
+            "20%指引vs 185%实际=主动降速"
+          ],
+          "missing": [
+            "降速是真的'主动'还是被迫(Labubu增速放缓)?"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "Hastings 2011-2012也经历'短痛换长赢'的主动降速",
+            "CEO公开承认焦虑是认知成熟的表现"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "20%指引可能是打低预期管理的套路,不一定代表真实认知转变"
+          ]
+        }
+      },
+      "stale": false,
+      "validation_trigger": "2026 H1实际增速vs 20%指引、管理层后续访谈基调"
+    }
+  ],
+  "watch": [
+    {
+      "id": "sig_popm_009",
+      "signal": "王宁'新手司机上F1赛道'自我定位，显示自知之明但也暴露37岁CEO管理万人组织的能力边界",
+      "event_date": "2026-04-01",
+      "confidence": 55,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D1",
+        "D2"
+      ],
+      "dims": {
+        "D1": -0.3,
+        "D5": -0.2
+      },
+      "key_question": "王宁能否完成从创业者到成熟企业家的蜕变？是否需要引入职业经理人？",
+      "stale": false,
+      "trigger": "管理层访谈、组织架构进一步调整信号"
+    }
+  ],
+  "key_questions": [
+    {
+      "id": "kq_popm_001",
+      "question": "Labubu占收入38%，2026年能否保持增长还是热度退潮？其他IP能否接力？",
+      "resolves_by": "2026-09-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：Labubu退潮风险真实存在但IP矩阵提供了一定缓冲。正面证据：(1)FY2025共17个IP各贡献超1亿收入，说明PopMart的IP运营能力并非单点押注；(2)公司持续签约和孵化新设计师IP，pipeline储备在行业内领先；(3)海外市场(44%营收)对Labubu的接受度仍在上升期，东南亚和欧洲的渗透率远未饱和。核心风险：(1)Labubu单一IP占收入38%，集中度过高——潮玩行业历史上IP热度周期通常为18-36个月，Labubu已进入第二年；(2)社交货币属性(名人带货、社交媒体传播)的消退速度往往比预期更快，一旦社交话题热度下降，销量可能断崖式回落；(3)管理层2026年指引'至少20%'(vs 2025实际185%)本身就是增速拐点的强烈信号。关键缺失：Labubu按季度的销售趋势(是否已开始环比下滑)、非Labubu IP的独立增速、各区域市场的IP热度差异。改变判断的关键数据：如果2026 H1 Labubu占比降至30%以下且总营收仍保持30%+增长，则IP矩阵策略被验证；反之如果Labubu占比降但总增速跌破20%指引，则说明其他IP无法接力。验证窗口：2026年8-9月H1中期报告",
+      "sources": [
+        "FY2025 Earnings",
+        "IP收入拆分数据"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "二手溢价率(得物/闲鱼)",
+          "frequency": "周",
+          "green_threshold": ">120%",
+          "red_threshold": "<80%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "新品首日售罄率",
+          "frequency": "每次上新",
+          "green_threshold": "<24h售罄",
+          "red_threshold": ">7天未售罄",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "社交声量(小红书/TikTok)",
+          "frequency": "周",
+          "green_threshold": "环比持平或↑",
+          "red_threshold": "连续3周↓",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-02",
+          "source": "ai_init",
+          "content": "当前评估：Labubu退潮风险真实存在但IP矩阵提供了一定缓冲。正面证据：(1)FY2025共17个IP各贡献超1亿收入，说明PopMart的IP运营能力并非单点押注；(2)公司持续签约和孵化新设计师IP，pipeline储备在行业内领先；(3)海外市场(44%营收)对Labubu的接受度仍在上升期，东南亚和欧洲的渗透率远未饱和。核心风险：(1)Labubu单一IP占收入38%，集中度过高——潮玩行业历史上IP热度周期通常为18-36个月，Labubu已进入第二年；(2)社交货币属性(名人带货、社交媒体传播)的消退速度往往比预期更快，一旦社交话题热度下降，销量可能断崖式回落；(3)管理层2026年指引'至少20%'(vs 2025实际185%)本身就是增速拐点的强烈信号。关键缺失：Labubu按季度的销售趋势(是否已开始环比下滑)、非Labubu IP的独立增速、各区域市场的IP热度差异。改变判断的关键数据：如果2026 H1 Labubu占比降至30%以下且总营收仍保持30%+增长，则IP矩阵策略被验证；反之如果Labubu占比降但总增速跌破20%指引，则说明其他IP无法接力。验证窗口：2026年8-9月H1中期报告",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-02",
+          "source": "ai_scan",
+          "content": "LABUBU 2025全年贡献141.6亿营收(+365.7%)，首个突破100亿的单一IP。但Q4增速明显放缓(CNBC报道)。Labubu占比从H1的34%升至全年38%，集中度继续上升而非下降。2026 Morgan Stanley预测Labubu增速约13%。",
+          "impact": "negative",
+          "linked_metric": "新品首日售罄率"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "FY2025营收371.2亿(+185%)、净利130.8亿(+285%)，海外占比从40%升至44%，超预期增长",
+          "impact": "positive"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "2026年指引'至少20%增长'，vs 2025年实际185%，管理层主动大幅降速",
+          "impact": "negative"
+        }
+      ]
+    },
+    {
+      "id": "kq_popm_002",
+      "question": "55亿库存的质量如何？周转天数能否在2026年回到120天以下？",
+      "resolves_by": "2026-09-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：库存膨胀是当前最大的财务风险信号，性质尚不明确。核心数据：库存从15亿飙升至55亿(+267%)，增速显著快于营收增速(+185%)，周转天数从126天恶化至148天(+22天)。两种对立解读：(1)乐观情景——55亿库存中大部分为新开店铺和新进市场的主动备货，2025年海外门店数大幅扩张需要前置库存投入，这种情况下库存将在2026上半年随门店成熟逐步消化，周转天数有望回落至130天以内；(2)悲观情景——Labubu热度开始降温导致部分IP产品滞销，潮玩产品的时效性极强(不同于标准消费品)，一旦IP热度过去，库存几乎无法通过降价清仓(会伤害品牌)，减值风险巨大。关键缺失：库存结构拆分(成品vs原材料vs在途)、各IP线库存分布、库存账龄分析、已计提的减值准备金额。改变判断的信号：如果H1周转天数回落至130天以下且无大额减值计提，则库存风险可控；如果周转继续恶化至160天+或出现超过5亿减值，则确认为滞销积压。验证窗口：2026年8-9月H1中期报告的库存明细附注",
+      "sources": [
+        "FY2025 Annual Report",
+        "库存周转数据"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "渠道折扣频率",
+          "frequency": "月",
+          "green_threshold": "无折扣",
+          "red_threshold": "连续2月促销",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "新店开业数vs计划",
+          "frequency": "季",
+          "green_threshold": "≥计划90%",
+          "red_threshold": "<计划70%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "SKU增速vs收入增速",
+          "frequency": "季",
+          "green_threshold": "SKU增速<收入增速",
+          "red_threshold": "SKU增速>2x收入增速",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-02",
+          "source": "ai_init",
+          "content": "当前评估：库存膨胀是当前最大的财务风险信号，性质尚不明确。核心数据：库存从15亿飙升至55亿(+267%)，增速显著快于营收增速(+185%)，周转天数从126天恶化至148天(+22天)。两种对立解读：(1)乐观情景——55亿库存中大部分为新开店铺和新进市场的主动备货，2025年海外门店数大幅扩张需要前置库存投入，这种情况下库存将在2026上半年随门店成熟逐步消化，周转天数有望回落至130天以内；(2)悲观情景——Labubu热度开始降温导致部分IP产品滞销，潮玩产品的时效性极强(不同于标准消费品)，一旦IP热度过去，库存几乎无法通过降价清仓(会伤害品牌)，减值风险巨大。关键缺失：库存结构拆分(成品vs原材料vs在途)、各IP线库存分布、库存账龄分析、已计提的减值准备金额。改变判断的信号：如果H1周转天数回落至130天以下且无大额减值计提，则库存风险可控；如果周转继续恶化至160天+或出现超过5亿减值，则确认为滞销积压。验证窗口：2026年8-9月H1中期报告的库存明细附注",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-02",
+          "source": "ai_scan",
+          "content": "2026年计划新进入中东、南亚、欧洲、南美，美国门店从72家扩至100+。印尼/柬埔寨/墨西哥新工厂已出货。大规模扩张可能解释部分库存是主动备货。但PUCKY敲敲系列扩产补货后二手溢价回落，说明供需管理仍在调整。",
+          "impact": "neutral",
+          "linked_metric": "新店开业数vs计划"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "库存从15亿飙升至55亿(+267%)，周转天数从126天恶化至148天，运营效率警报",
+          "impact": "negative"
+        }
+      ]
+    },
+    {
+      "id": "kq_popm_003",
+      "question": "文德一如果离开，海外业务(44%营收)能否保持增速？区域化团队是否已建立？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：关键人物依赖风险极高，组织化转型仍处早期。核心事实：文德一(韩国籍COO)主导PopMart海外业务从零增长至占总营收44%，是公司全球化战略的灵魂人物。其韩国背景结合对中国消费品市场的深度理解，在中国出海企业中几乎不可替代。2025年公司启动四大区域架构重组(大中华-司德、海外-文德一)，是从个人驱动向组织驱动过渡的重要信号。但风险在于：(1)区域二级管理团队的实力和成熟度完全不透明——海外各区域负责人的背景、任期、业绩均未公开；(2)文德一同时负责所有海外区域(东南亚、东亚、欧美)，管理幅度极大，如果其精力分散或离职，44%营收面临系统性风险；(3)与Netflix的Ted Sarandos对比，Sarandos有20年+任期且Netflix已建立了成熟的内容团队层级，PopMart远未达到这一组织深度。关键缺失：文德一的股权激励和合同细节、海外各区域二级负责人名单和背景、区域团队的本地化招聘进展。改变判断的信号：如果2026年公开披露海外区域管理团队并展示其独立决策能力，则组织风险降低；如果文德一出现任何人事变动迹象，则应立即下调海外业务评估。持续跟踪至2026年底",
+      "sources": [
+        "组织架构调整",
+        "管理层背景"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "海外区域二级管理者到岗率",
+          "frequency": "季",
+          "green_threshold": "≥80%到岗",
+          "red_threshold": "<50%到岗",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "海外区域独立决策频率",
+          "frequency": "季",
+          "green_threshold": "有独立决策案例",
+          "red_threshold": "全部需文德一审批",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "核心设计师离职率",
+          "frequency": "半年",
+          "green_threshold": "<10%",
+          "red_threshold": ">20%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-02",
+          "source": "ai_init",
+          "content": "当前评估：关键人物依赖风险极高，组织化转型仍处早期。核心事实：文德一(韩国籍COO)主导PopMart海外业务从零增长至占总营收44%，是公司全球化战略的灵魂人物。其韩国背景结合对中国消费品市场的深度理解，在中国出海企业中几乎不可替代。2025年公司启动四大区域架构重组(大中华-司德、海外-文德一)，是从个人驱动向组织驱动过渡的重要信号。但风险在于：(1)区域二级管理团队的实力和成熟度完全不透明——海外各区域负责人的背景、任期、业绩均未公开；(2)文德一同时负责所有海外区域(东南亚、东亚、欧美)，管理幅度极大，如果其精力分散或离职，44%营收面临系统性风险；(3)与Netflix的Ted Sarandos对比，Sarandos有20年+任期且Netflix已建立了成熟的内容团队层级，PopMart远未达到这一组织深度。关键缺失：文德一的股权激励和合同细节、海外各区域二级负责人名单和背景、区域团队的本地化招聘进展。改变判断的信号：如果2026年公开披露海外区域管理团队并展示其独立决策能力，则组织风险降低；如果文德一出现任何人事变动迹象，则应立即下调海外业务评估。持续跟踪至2026年底",
+          "impact": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "kq_popm_004",
+      "question": "乐园、电影、家电等品类扩张的ROI如何？是增厚IP价值还是分散管理注意力？",
+      "resolves_by": "2027-03-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：品类扩张战略方向正确但执行风险极高，短期内难以贡献有意义的利润。正面证据：(1)与Sony合作IP电影是内容形态的重大升级，如果成功将极大延长IP生命周期和情感深度；(2)乐园业务(对标迪士尼)可将IP从消费品维度延伸至体验维度，提升品牌溢价；(3)17个IP各过亿的基础为跨品类延伸提供了素材库。核心挑战：(1)盲盒供应链管理能力与电影制作、乐园运营是完全不同的组织能力——迪士尼花了近百年构建的全生态能力，PopMart试图在3-5年内复制，成功概率很低；(2)乐园是重资产投入，前期capex巨大且回本周期长(通常5-8年)，在当前增速换挡期启动重资产项目可能加剧现金流压力；(3)家电等lifestyle品类的尝试更像是品牌授权变现，与核心IP运营的协同效应不清晰，有过度延伸风险。关键缺失：乐园项目的选址、投资规模和财务预期、Sony电影的开发时间表和分成模式、家电品类的实际销售数据。改变判断的信号：如果乐园首年客流量超过预期且运营利润为正，则证明跨品类能力可迁移；如果电影票房失败或乐园持续亏损，则确认能力边界。验证窗口：2026年乐园开业后的运营数据(预计2026下半年)，Sony电影上映后的票房和IP联动效果(2027年初)",
+      "sources": [
+        "战略公告",
+        "品类扩张计划"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "新品类毛利率vs核心业务",
+          "frequency": "季",
+          "green_threshold": "差距<10pp",
+          "red_threshold": "差距>20pp",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "新品类复购率",
+          "frequency": "季",
+          "green_threshold": ">30%",
+          "red_threshold": "<10%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "CEO时间分配(核心vs新业务)",
+          "frequency": "半年",
+          "green_threshold": "核心>60%",
+          "red_threshold": "新业务>50%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-02",
+          "source": "ai_init",
+          "content": "当前评估：品类扩张战略方向正确但执行风险极高，短期内难以贡献有意义的利润。正面证据：(1)与Sony合作IP电影是内容形态的重大升级，如果成功将极大延长IP生命周期和情感深度；(2)乐园业务(对标迪士尼)可将IP从消费品维度延伸至体验维度，提升品牌溢价；(3)17个IP各过亿的基础为跨品类延伸提供了素材库。核心挑战：(1)盲盒供应链管理能力与电影制作、乐园运营是完全不同的组织能力——迪士尼花了近百年构建的全生态能力，PopMart试图在3-5年内复制，成功概率很低；(2)乐园是重资产投入，前期capex巨大且回本周期长(通常5-8年)，在当前增速换挡期启动重资产项目可能加剧现金流压力；(3)家电等lifestyle品类的尝试更像是品牌授权变现，与核心IP运营的协同效应不清晰，有过度延伸风险。关键缺失：乐园项目的选址、投资规模和财务预期、Sony电影的开发时间表和分成模式、家电品类的实际销售数据。改变判断的信号：如果乐园首年客流量超过预期且运营利润为正，则证明跨品类能力可迁移；如果电影票房失败或乐园持续亏损，则确认能力边界。验证窗口：2026年乐园开业后的运营数据(预计2026下半年)，Sony电影上映后的票房和IP联动效果(2027年初)",
+          "impact": "neutral"
+        },
+        {
+          "date": "2026-04-02",
+          "source": "ai_scan",
+          "content": "与索尼影业合作LABUBU真人动画电影，保罗·金(帕丁顿熊/旺卡导演)执导。北京乐园1.5版升级中，预计2026夏开放，二期2026开始施工。已成立电影工作室，申请LABUBU与朋友们动画剧集著作权。IP生态扩张实质性推进中。",
+          "impact": "positive",
+          "linked_metric": "新品类毛利率vs核心业务"
+        },
+        {
+          "date": "2026-04-01",
+          "source": "ai_scan",
+          "content": "从盲盒向lifestyle平台扩张：乐园、Sony电影、家电，17个IP各过亿，IP多元化初见成效",
+          "impact": "positive"
+        }
+      ]
+    }
+  ],
+  "next_catalyst": "2026年H1中期报告（Labubu占比变化、库存质量拆分、海外区域化效率、新品类进展）"
+}

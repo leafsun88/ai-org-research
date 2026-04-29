@@ -1,0 +1,42 @@
+{
+  "generated": "2026-04-09",
+<<<<<<< HEAD
+  "file_count": 5,
+  "total_size_kb": 20,
+  "last_updated": "2026-04-09",
+  "sources": {},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": false,
+    "financials": false
+  },
+  "top_files_by_size": [{"path":"sources/founder_voice.md","size_kb":0},{"path":"organization/_org_scan_request.md","size_kb":0},{"path":"organization/_org_brief.md","size_kb":0},{"path":"organization/_org_scan_report.md","size_kb":0},{"path":"organization/overview/org_structure.md","size_kb":0}],
+=======
+  "file_count": 75,
+  "total_size_kb": 1548,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":7,"latest":"2025-05-05_DEF 14A.md"},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 18,
+    "breakdown": {"c_suite":17,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"sources/earnings/2025-01-14_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-12-09_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-09-10_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-06-12_10-Q.md","size_kb":147},{"path":"sources/earnings/2026-03-25_10-K.md","size_kb":147},{"path":"sources/earnings/2025-04-02_10-K.md","size_kb":147},{"path":"sources/earnings/2025-05-05_DEF 14A.md","size_kb":141},{"path":"organization/proxy/2025-05-05_DEF 14A.md","size_kb":141},{"path":"_podcast_episodes.json","size_kb":25},{"path":"financials.md","size_kb":8}],
+>>>>>>> origin/servicenow-collect
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

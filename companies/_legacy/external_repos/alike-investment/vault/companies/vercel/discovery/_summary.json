@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 19,
+  "total_size_kb": 88,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":4,"latest":"2025-05-16_Refactoring-Vercel-Journey-Guillermo-Rauch.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"profile.md","size_kb":4},{"path":"_validation.json","size_kb":4},{"path":"financials.md","size_kb":3},{"path":"_collection_report.md","size_kb":2},{"path":"_validation.md","size_kb":2},{"path":"sources/youtube/2025-04-13_Lennys-Podcast-v0-Mission-100M-Builders.md","size_kb":1},{"path":"sources/podcasts/2025-09-30_Accel-Spotlight-Guillermo-Rauch-Bold-Visions.md","size_kb":1},{"path":"sources/youtube/2026-03-09_Fortt-Knox-Conversation-Guillermo-Rauch.md","size_kb":1},{"path":"sources/podcasts/2025-02-04_AI-and-I-Guillermo-Rauch-What-Comes-After-Coding.md","size_kb":0},{"path":"sources/podcasts/2026-02-04_How-I-AI-Guillermo-Rauch-v0-Git-Workflow.md","size_kb":0}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "type": "price_history",
+      "rows": 300,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/data/market_data/price_history.csv"
+    },
+    {
+      "type": "valuation_statistics",
+      "source": "https://stockanalysis.com/stocks/sndk/statistics/"
+    },
+    {
+      "type": "valuation_snapshot",
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/data/valuation/valuation_snapshot.json"
+    },
+    {
+      "type": "peer_valuation",
+      "count": 4,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/data/valuation/peer_valuation.json"
+    }
+  ],
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "market_data",
+  "updated_at": "2026-04-25T23:10:04"
+}

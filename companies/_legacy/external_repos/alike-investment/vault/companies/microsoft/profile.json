@@ -1,0 +1,10 @@
+{
+  "name": "Microsoft",
+  "ticker": "MSFT",
+  "exchange": "NASDAQ",
+  "market_cap": "$3T",
+  "sector": "大型科技平台",
+  "category": "Meta+NVIDIA",
+  "note": "LinkedIn+Azure AI云+Maia AI芯片",
+  "created": "2026-04-06"
+}

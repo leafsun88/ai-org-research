@@ -1,0 +1,3615 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "hV4aahoPtQk",
+  "url": "https://www.youtube.com/watch?v=hV4aahoPtQk",
+  "title": "I Built a Voice AI Agent to Crush My PM Interview (Vapi + Lovable + Gemini)",
+  "channel": "AI Product Management Career Accelerator",
+  "source_queries": [
+    "Lovable Agent interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:17:24",
+  "segments": [
+    {
+      "text": "All right, let&#39;s go ahead and build a",
+      "duration": 3.76,
+      "offset": 0.56,
+      "lang": "en"
+    },
+    {
+      "text": "voice AI agent that you can use for your",
+      "duration": 4.72,
+      "offset": 1.84,
+      "lang": "en"
+    },
+    {
+      "text": "next product manager interview that we",
+      "duration": 6.08,
+      "offset": 4.32,
+      "lang": "en"
+    },
+    {
+      "text": "have implemented and integrated into uh",
+      "duration": 6.4,
+      "offset": 6.56,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. So, for starters here, we got",
+      "duration": 6.16,
+      "offset": 10.4,
+      "lang": "en"
+    },
+    {
+      "text": "the personal styling assistant and Maya.",
+      "duration": 5.92,
+      "offset": 12.96,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. And we are going to go ahead and",
+      "duration": 4.0,
+      "offset": 16.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually just take a look at what it can",
+      "duration": 3.04,
+      "offset": 18.88,
+      "lang": "en"
+    },
+    {
+      "text": "do and I&#39;ll walk you through from the",
+      "duration": 4.08,
+      "offset": 20.56,
+      "lang": "en"
+    },
+    {
+      "text": "very very beginning. And before we break",
+      "duration": 4.4,
+      "offset": 21.92,
+      "lang": "en"
+    },
+    {
+      "text": "into this, just to let you know, if",
+      "duration": 3.76,
+      "offset": 24.64,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re finally ready to go ahead and",
+      "duration": 4.88,
+      "offset": 26.32,
+      "lang": "en"
+    },
+    {
+      "text": "make a transition into an Aentic product",
+      "duration": 5.44,
+      "offset": 28.4,
+      "lang": "en"
+    },
+    {
+      "text": "manager role or AI product management,",
+      "duration": 4.32,
+      "offset": 31.2,
+      "lang": "en"
+    },
+    {
+      "text": "please schedule a call with us in the",
+      "duration": 3.44,
+      "offset": 33.84,
+      "lang": "en"
+    },
+    {
+      "text": "description. You&#39;ll go ahead and find a",
+      "duration": 3.2,
+      "offset": 35.52,
+      "lang": "en"
+    },
+    {
+      "text": "link. Let&#39;s go ahead and schedule time",
+      "duration": 3.84,
+      "offset": 37.28,
+      "lang": "en"
+    },
+    {
+      "text": "to chat and let&#39;s get you moving along.",
+      "duration": 4.16,
+      "offset": 38.72,
+      "lang": "en"
+    },
+    {
+      "text": "And you can go ahead and find our",
+      "duration": 3.92,
+      "offset": 41.12,
+      "lang": "en"
+    },
+    {
+      "text": "consultation link basically just right",
+      "duration": 4.8,
+      "offset": 42.88,
+      "lang": "en"
+    },
+    {
+      "text": "here. Okay? Or also just right below the",
+      "duration": 5.6,
+      "offset": 45.04,
+      "lang": "en"
+    },
+    {
+      "text": "the the video in the description. With",
+      "duration": 7.04,
+      "offset": 47.68,
+      "lang": "en"
+    },
+    {
+      "text": "that said, let&#39;s see what this can do.",
+      "duration": 4.08,
+      "offset": 50.64,
+      "lang": "en"
+    },
+    {
+      "text": "Hello.",
+      "duration": 4.48,
+      "offset": 55.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Hey. Uh, I would like to go ahead and I",
+      "duration": 5.76,
+      "offset": 57.28,
+      "lang": "en"
+    },
+    {
+      "text": "would actually um like to initiate a",
+      "duration": 5.44,
+      "offset": 60.24,
+      "lang": "en"
+    },
+    {
+      "text": "refund.",
+      "duration": 4.72,
+      "offset": 63.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Of course, I&#39;ll be glad uh to help you",
+      "duration": 4.32,
+      "offset": 65.68,
+      "lang": "en"
+    },
+    {
+      "text": "with your refund request. Uh to get",
+      "duration": 3.68,
+      "offset": 67.76,
+      "lang": "en"
+    },
+    {
+      "text": "started, I&#39;ll need a bit more",
+      "duration": 2.96,
+      "offset": 70.0,
+      "lang": "en"
+    },
+    {
+      "text": "information.",
+      "duration": 4.24,
+      "offset": 71.44,
+      "lang": "en"
+    },
+    {
+      "text": "One, could you please let me know, you",
+      "duration": 4.56,
+      "offset": 72.96,
+      "lang": "en"
+    },
+    {
+      "text": "know, what product, service, or order",
+      "duration": 4.48,
+      "offset": 75.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;d like a refund for? Two, do you",
+      "duration": 4.56,
+      "offset": 77.52,
+      "lang": "en"
+    },
+    {
+      "text": "have an order number, receipt, or",
+      "duration": 4.8,
+      "offset": 80.16,
+      "lang": "en"
+    },
+    {
+      "text": "account associated with the purchase?",
+      "duration": 4.96,
+      "offset": 82.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Three, can you share the reason for",
+      "duration": 4.48,
+      "offset": 84.96,
+      "lang": "en"
+    },
+    {
+      "text": "requesting uh the refund?",
+      "duration": 4.32,
+      "offset": 87.04,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Optional. Optional, but it can help",
+      "duration": 4.0,
+      "offset": 89.44,
+      "lang": "en"
+    },
+    {
+      "text": "speed up the process. Once you provide",
+      "duration": 4.08,
+      "offset": 91.36,
+      "lang": "en"
+    },
+    {
+      "text": "these details, I&#39;ll guide you through",
+      "duration": 3.92,
+      "offset": 93.44,
+      "lang": "en"
+    },
+    {
+      "text": "the next steps.",
+      "duration": 4.96,
+      "offset": 95.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; 100%. So, I would like to go ahead. I",
+      "duration": 5.44,
+      "offset": 97.36,
+      "lang": "en"
+    },
+    {
+      "text": "ordered 20 sweaters from you guys, uh,",
+      "duration": 4.96,
+      "offset": 100.4,
+      "lang": "en"
+    },
+    {
+      "text": "all gray sweaters, and I only need half",
+      "duration": 3.84,
+      "offset": 102.8,
+      "lang": "en"
+    },
+    {
+      "text": "of them. So, I&#39;m only going to be",
+      "duration": 5.12,
+      "offset": 105.36,
+      "lang": "en"
+    },
+    {
+      "text": "sending back half of the order today.",
+      "duration": 3.84,
+      "offset": 106.64,
+      "lang": "en"
+    },
+    {
+      "text": "Thank you for letting me know. Um, to",
+      "duration": 4.32,
+      "offset": 111.2,
+      "lang": "en"
+    },
+    {
+      "text": "help you with your partial return and",
+      "duration": 3.84,
+      "offset": 113.52,
+      "lang": "en"
+    },
+    {
+      "text": "refund for 10 of the 20 great sweaters,",
+      "duration": 4.0,
+      "offset": 115.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll need a few more details. One, order",
+      "duration": 4.08,
+      "offset": 117.36,
+      "lang": "en"
+    },
+    {
+      "text": "number or receipt. Could you please",
+      "duration": 3.6,
+      "offset": 119.52,
+      "lang": "en"
+    },
+    {
+      "text": "provide your order number or a copy of",
+      "duration": 3.28,
+      "offset": 121.44,
+      "lang": "en"
+    },
+    {
+      "text": "your receipt?",
+      "duration": 3.84,
+      "offset": 123.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I don&#39;t have the order number. I don&#39;t",
+      "duration": 4.32,
+      "offset": 124.72,
+      "lang": "en"
+    },
+    {
+      "text": "have the order number, but I do have a",
+      "duration": 4.0,
+      "offset": 126.96,
+      "lang": "en"
+    },
+    {
+      "text": "copy of the receipt. How do I get it",
+      "duration": 4.56,
+      "offset": 129.04,
+      "lang": "en"
+    },
+    {
+      "text": "over to you?",
+      "duration": 4.48,
+      "offset": 130.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Thank you. Well, I can&#39;t directly accept",
+      "duration": 3.6,
+      "offset": 133.6,
+      "lang": "en"
+    },
+    {
+      "text": "file uploads or view attachments. You",
+      "duration": 3.76,
+      "offset": 135.44,
+      "lang": "en"
+    },
+    {
+      "text": "can usually share the order number by",
+      "duration": 4.32,
+      "offset": 137.2,
+      "lang": "en"
+    },
+    {
+      "text": "typing it here. If you share your",
+      "duration": 3.68,
+      "offset": 139.2,
+      "lang": "en"
+    },
+    {
+      "text": "receipt with the company,",
+      "duration": 3.04,
+      "offset": 141.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; so boom, that was pretty much it, right?",
+      "duration": 2.88,
+      "offset": 142.88,
+      "lang": "en"
+    },
+    {
+      "text": "So, how do we go out there and actually",
+      "duration": 2.88,
+      "offset": 144.56,
+      "lang": "en"
+    },
+    {
+      "text": "get started with this? Well, voice AI is",
+      "duration": 3.2,
+      "offset": 145.76,
+      "lang": "en"
+    },
+    {
+      "text": "going to be the is actually the hottest",
+      "duration": 2.88,
+      "offset": 147.44,
+      "lang": "en"
+    },
+    {
+      "text": "thing right now in product management if",
+      "duration": 3.36,
+      "offset": 148.96,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t already know. So, if you were",
+      "duration": 4.0,
+      "offset": 150.32,
+      "lang": "en"
+    },
+    {
+      "text": "starting to do this thing from absolute",
+      "duration": 3.92,
+      "offset": 152.32,
+      "lang": "en"
+    },
+    {
+      "text": "scratch, here&#39;s what I would go ahead",
+      "duration": 4.48,
+      "offset": 154.32,
+      "lang": "en"
+    },
+    {
+      "text": "and recommend. I am going to go ahead",
+      "duration": 4.96,
+      "offset": 156.24,
+      "lang": "en"
+    },
+    {
+      "text": "and like I mentioned before, I&#39;m using",
+      "duration": 4.4,
+      "offset": 158.8,
+      "lang": "en"
+    },
+    {
+      "text": "Speakly for the voice. I&#39;m going to be",
+      "duration": 6.48,
+      "offset": 161.2,
+      "lang": "en"
+    },
+    {
+      "text": "using Vappy for the actual calls. Um,",
+      "duration": 6.16,
+      "offset": 163.2,
+      "lang": "en"
+    },
+    {
+      "text": "this is actually what I mean by voice",
+      "duration": 4.16,
+      "offset": 167.68,
+      "lang": "en"
+    },
+    {
+      "text": "prompting. I&#39;ll be using 11 Labs for the",
+      "duration": 5.36,
+      "offset": 169.36,
+      "lang": "en"
+    },
+    {
+      "text": "voice and then we will be using Lovable",
+      "duration": 6.16,
+      "offset": 171.84,
+      "lang": "en"
+    },
+    {
+      "text": "to build out a brand new website. Uh,",
+      "duration": 5.68,
+      "offset": 174.72,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s go ahead and actually",
+      "duration": 6.32,
+      "offset": 178.0,
+      "lang": "en"
+    },
+    {
+      "text": "get on Gemini and let&#39;s do this. So, I",
+      "duration": 5.92,
+      "offset": 180.4,
+      "lang": "en"
+    },
+    {
+      "text": "need a prompt that&#39;s going to help me",
+      "duration": 5.84,
+      "offset": 184.32,
+      "lang": "en"
+    },
+    {
+      "text": "create a voice AI agent",
+      "duration": 7.84,
+      "offset": 186.32,
+      "lang": "en"
+    },
+    {
+      "text": "with Vappy.",
+      "duration": 6.96,
+      "offset": 190.16,
+      "lang": "en"
+    },
+    {
+      "text": "I need a list of questions and",
+      "duration": 4.24,
+      "offset": 194.16,
+      "lang": "en"
+    },
+    {
+      "text": "essentially speaking, I need their",
+      "duration": 3.28,
+      "offset": 197.12,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge base that I can directly",
+      "duration": 4.88,
+      "offset": 198.4,
+      "lang": "en"
+    },
+    {
+      "text": "upload over to Vappy.",
+      "duration": 7.04,
+      "offset": 200.4,
+      "lang": "en"
+    },
+    {
+      "text": "And then I need uh a lovable website",
+      "duration": 5.84,
+      "offset": 203.28,
+      "lang": "en"
+    },
+    {
+      "text": "that I can go out there and plug it in",
+      "duration": 6.92,
+      "offset": 207.44,
+      "lang": "en"
+    },
+    {
+      "text": "with my uh Vappy API.",
+      "duration": 5.24,
+      "offset": 209.12,
+      "lang": "en"
+    },
+    {
+      "text": "Voice prompting is just legit, right?",
+      "duration": 5.92,
+      "offset": 216.56,
+      "lang": "en"
+    },
+    {
+      "text": "The next thing is I want to do this for",
+      "duration": 6.32,
+      "offset": 219.44,
+      "lang": "en"
+    },
+    {
+      "text": "a career coaching company. So I&#39;m also",
+      "duration": 7.12,
+      "offset": 222.48,
+      "lang": "en"
+    },
+    {
+      "text": "going to need you to help me uh create a",
+      "duration": 6.4,
+      "offset": 225.76,
+      "lang": "en"
+    },
+    {
+      "text": "prompt uh for a career coaching website.",
+      "duration": 5.68,
+      "offset": 229.6,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s just say for tech careers",
+      "duration": 6.16,
+      "offset": 232.16,
+      "lang": "en"
+    },
+    {
+      "text": "and uh actually no, let&#39;s just say for",
+      "duration": 5.6,
+      "offset": 235.28,
+      "lang": "en"
+    },
+    {
+      "text": "uh it&#39;s going to be career coaching, but",
+      "duration": 6.6,
+      "offset": 238.32,
+      "lang": "en"
+    },
+    {
+      "text": "for people that work in tech.",
+      "duration": 4.04,
+      "offset": 240.88,
+      "lang": "en"
+    },
+    {
+      "text": "And I need the step-by-step instructions",
+      "duration": 5.32,
+      "offset": 248.08,
+      "lang": "en"
+    },
+    {
+      "text": "to put it all together.",
+      "duration": 3.64,
+      "offset": 249.76,
+      "lang": "en"
+    },
+    {
+      "text": "I need the prompt first and then also",
+      "duration": 4.0,
+      "offset": 256.32,
+      "lang": "en"
+    },
+    {
+      "text": "let me know what is that I&#39;m missing.",
+      "duration": 3.92,
+      "offset": 258.48,
+      "lang": "en"
+    },
+    {
+      "text": "But essentially, I&#39;m going to be using",
+      "duration": 3.92,
+      "offset": 260.32,
+      "lang": "en"
+    },
+    {
+      "text": "this for my next product manager",
+      "duration": 4.48,
+      "offset": 262.4,
+      "lang": "en"
+    },
+    {
+      "text": "interview uh where they want me to walk",
+      "duration": 4.8,
+      "offset": 264.24,
+      "lang": "en"
+    },
+    {
+      "text": "them through how I would in implement a",
+      "duration": 4.64,
+      "offset": 266.88,
+      "lang": "en"
+    },
+    {
+      "text": "voice AI agent directly on a vibe code",
+      "duration": 5.48,
+      "offset": 269.04,
+      "lang": "en"
+    },
+    {
+      "text": "website.",
+      "duration": 3.0,
+      "offset": 271.52,
+      "lang": "en"
+    },
+    {
+      "text": "Let me know what I&#39;m missing",
+      "duration": 4.44,
+      "offset": 278.72,
+      "lang": "en"
+    },
+    {
+      "text": "now. I&#39;m going to go ahead and check",
+      "duration": 3.92,
+      "offset": 284.08,
+      "lang": "en"
+    },
+    {
+      "text": "this. We&#39;re missing",
+      "duration": 4.56,
+      "offset": 285.52,
+      "lang": "en"
+    },
+    {
+      "text": "uh that one&#39;s not Versel. It&#39;s supposed",
+      "duration": 5.2,
+      "offset": 288.0,
+      "lang": "en"
+    },
+    {
+      "text": "to be vibe code website and I&#39;m giving",
+      "duration": 5.28,
+      "offset": 290.08,
+      "lang": "en"
+    },
+    {
+      "text": "it the prompt. It&#39;s actually in natural,",
+      "duration": 4.48,
+      "offset": 293.2,
+      "lang": "en"
+    },
+    {
+      "text": "very natural language and I love voice",
+      "duration": 5.44,
+      "offset": 295.36,
+      "lang": "en"
+    },
+    {
+      "text": "prompting because the more information",
+      "duration": 6.56,
+      "offset": 297.68,
+      "lang": "en"
+    },
+    {
+      "text": "you can provide the machine, the better",
+      "duration": 4.8,
+      "offset": 300.8,
+      "lang": "en"
+    },
+    {
+      "text": "results you&#39;re going to go ahead and",
+      "duration": 3.92,
+      "offset": 304.24,
+      "lang": "en"
+    },
+    {
+      "text": "get. So, the first thing that we always",
+      "duration": 5.04,
+      "offset": 305.6,
+      "lang": "en"
+    },
+    {
+      "text": "want to do here is a few things. Always",
+      "duration": 4.48,
+      "offset": 308.16,
+      "lang": "en"
+    },
+    {
+      "text": "voice prompt because use natural",
+      "duration": 5.36,
+      "offset": 310.64,
+      "lang": "en"
+    },
+    {
+      "text": "language and then use Gemini to create",
+      "duration": 5.36,
+      "offset": 312.64,
+      "lang": "en"
+    },
+    {
+      "text": "the prompt for you. And then that way",
+      "duration": 3.12,
+      "offset": 316.0,
+      "lang": "en"
+    },
+    {
+      "text": "you don&#39;t have to stress out about",
+      "duration": 4.24,
+      "offset": 318.0,
+      "lang": "en"
+    },
+    {
+      "text": "creating a prop. Something else is what",
+      "duration": 5.2,
+      "offset": 319.12,
+      "lang": "en"
+    },
+    {
+      "text": "do I want and what are also my",
+      "duration": 5.92,
+      "offset": 322.24,
+      "lang": "en"
+    },
+    {
+      "text": "intentions. What I want is going to be a",
+      "duration": 6.72,
+      "offset": 324.32,
+      "lang": "en"
+    },
+    {
+      "text": "voice uh a like a voice AI agent on a",
+      "duration": 5.28,
+      "offset": 328.16,
+      "lang": "en"
+    },
+    {
+      "text": "vibe code website. But what I intend to",
+      "duration": 6.48,
+      "offset": 331.04,
+      "lang": "en"
+    },
+    {
+      "text": "use this website for is to uh crush my",
+      "duration": 5.84,
+      "offset": 333.44,
+      "lang": "en"
+    },
+    {
+      "text": "product manager interview. So as y&#39;all",
+      "duration": 4.0,
+      "offset": 337.52,
+      "lang": "en"
+    },
+    {
+      "text": "can go out there and see, I love flexing",
+      "duration": 4.08,
+      "offset": 339.28,
+      "lang": "en"
+    },
+    {
+      "text": "our outcomes because we&#39;re still getting",
+      "duration": 3.52,
+      "offset": 341.52,
+      "lang": "en"
+    },
+    {
+      "text": "people the most product manager jobs in",
+      "duration": 4.4,
+      "offset": 343.36,
+      "lang": "en"
+    },
+    {
+      "text": "the market. um all these people here",
+      "duration": 4.88,
+      "offset": 345.04,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;re seeing, they basically have",
+      "duration": 4.8,
+      "offset": 347.76,
+      "lang": "en"
+    },
+    {
+      "text": "portfolios, right? So, if you&#39;re",
+      "duration": 4.0,
+      "offset": 349.92,
+      "lang": "en"
+    },
+    {
+      "text": "actually going to go ahead and tell",
+      "duration": 4.64,
+      "offset": 352.56,
+      "lang": "en"
+    },
+    {
+      "text": "Gemini that you are intending to use",
+      "duration": 4.96,
+      "offset": 353.92,
+      "lang": "en"
+    },
+    {
+      "text": "this, then they might just go ahead and",
+      "duration": 5.04,
+      "offset": 357.2,
+      "lang": "en"
+    },
+    {
+      "text": "say like, &quot;Oh, maybe this software is",
+      "duration": 4.8,
+      "offset": 358.88,
+      "lang": "en"
+    },
+    {
+      "text": "going to be better.&quot; Or like if you",
+      "duration": 3.92,
+      "offset": 362.24,
+      "lang": "en"
+    },
+    {
+      "text": "really want to flex, don&#39;t use lovable,",
+      "duration": 4.48,
+      "offset": 363.68,
+      "lang": "en"
+    },
+    {
+      "text": "use something else. Because you always",
+      "duration": 4.0,
+      "offset": 366.16,
+      "lang": "en"
+    },
+    {
+      "text": "want to end everything with let me know",
+      "duration": 5.12,
+      "offset": 368.16,
+      "lang": "en"
+    },
+    {
+      "text": "what is it that I&#39;m missing",
+      "duration": 5.76,
+      "offset": 370.16,
+      "lang": "en"
+    },
+    {
+      "text": "based on my intentions of flexing these",
+      "duration": 4.64,
+      "offset": 373.28,
+      "lang": "en"
+    },
+    {
+      "text": "skills",
+      "duration": 3.92,
+      "offset": 375.92,
+      "lang": "en"
+    },
+    {
+      "text": "for the sole purpose of landing a",
+      "duration": 5.48,
+      "offset": 377.92,
+      "lang": "en"
+    },
+    {
+      "text": "product manager job",
+      "duration": 3.56,
+      "offset": 379.84,
+      "lang": "en"
+    },
+    {
+      "text": "and you want to give it as much context",
+      "duration": 4.32,
+      "offset": 385.44,
+      "lang": "en"
+    },
+    {
+      "text": "as possible",
+      "duration": 4.16,
+      "offset": 387.44,
+      "lang": "en"
+    },
+    {
+      "text": "and just to be transparent I&#39;m coming",
+      "duration": 3.76,
+      "offset": 389.76,
+      "lang": "en"
+    },
+    {
+      "text": "from an investment banking analyst",
+      "duration": 4.56,
+      "offset": 391.6,
+      "lang": "en"
+    },
+    {
+      "text": "background I&#39;m three years out of school",
+      "duration": 4.16,
+      "offset": 393.52,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not technical",
+      "duration": 5.76,
+      "offset": 396.16,
+      "lang": "en"
+    },
+    {
+      "text": "But I really want to show them my AI uh",
+      "duration": 6.48,
+      "offset": 397.68,
+      "lang": "en"
+    },
+    {
+      "text": "my AI skills. I really want to show them",
+      "duration": 4.64,
+      "offset": 401.92,
+      "lang": "en"
+    },
+    {
+      "text": "my product thinking, my approach to",
+      "duration": 5.88,
+      "offset": 404.16,
+      "lang": "en"
+    },
+    {
+      "text": "solving problems.",
+      "duration": 3.48,
+      "offset": 406.56,
+      "lang": "en"
+    },
+    {
+      "text": "Please help me create this prompt. And",
+      "duration": 4.24,
+      "offset": 415.12,
+      "lang": "en"
+    },
+    {
+      "text": "before we finalize our prompt, please",
+      "duration": 4.88,
+      "offset": 417.28,
+      "lang": "en"
+    },
+    {
+      "text": "help me uh refine this prompt a few",
+      "duration": 6.04,
+      "offset": 419.36,
+      "lang": "en"
+    },
+    {
+      "text": "times over.",
+      "duration": 3.24,
+      "offset": 422.16,
+      "lang": "en"
+    },
+    {
+      "text": "See, sometimes Speakly doesn&#39;t go all",
+      "duration": 3.28,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "the way through, right? Please help me",
+      "duration": 3.52,
+      "offset": 430.32,
+      "lang": "en"
+    },
+    {
+      "text": "create this prompt. And before we",
+      "duration": 3.6,
+      "offset": 431.92,
+      "lang": "en"
+    },
+    {
+      "text": "finalize this prompt, please help me",
+      "duration": 3.84,
+      "offset": 433.84,
+      "lang": "en"
+    },
+    {
+      "text": "refine it a few times. Oh, actually it",
+      "duration": 5.16,
+      "offset": 435.52,
+      "lang": "en"
+    },
+    {
+      "text": "did.",
+      "duration": 3.0,
+      "offset": 437.68,
+      "lang": "en"
+    },
+    {
+      "text": "We can go ahead and delete that. So, I&#39;m",
+      "duration": 3.44,
+      "offset": 441.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to go now. I&#39;m going to go ahead",
+      "duration": 4.56,
+      "offset": 443.04,
+      "lang": "en"
+    },
+    {
+      "text": "and prompt everything back in. Okay,",
+      "duration": 4.96,
+      "offset": 444.48,
+      "lang": "en"
+    },
+    {
+      "text": "this is a brilliant way to investment",
+      "duration": 5.04,
+      "offset": 447.6,
+      "lang": "en"
+    },
+    {
+      "text": "banking. So, the vacuum system prompt.",
+      "duration": 5.44,
+      "offset": 449.44,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, great. So now we have this the",
+      "duration": 6.08,
+      "offset": 452.64,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge base right here",
+      "duration": 7.52,
+      "offset": 454.88,
+      "lang": "en"
+    },
+    {
+      "text": "and we have all of this information.",
+      "duration": 5.36,
+      "offset": 458.72,
+      "lang": "en"
+    },
+    {
+      "text": "So let&#39;s go ahead and take it apart one",
+      "duration": 3.76,
+      "offset": 462.4,
+      "lang": "en"
+    },
+    {
+      "text": "by one to make this prompt even better.",
+      "duration": 3.6,
+      "offset": 464.08,
+      "lang": "en"
+    },
+    {
+      "text": "Would you like the asalance personality",
+      "duration": 3.76,
+      "offset": 466.16,
+      "lang": "en"
+    },
+    {
+      "text": "to be more like a tough love recruiter",
+      "duration": 4.0,
+      "offset": 467.68,
+      "lang": "en"
+    },
+    {
+      "text": "who tells you the hard truth about your",
+      "duration": 4.32,
+      "offset": 469.92,
+      "lang": "en"
+    },
+    {
+      "text": "resume or a supportive mentor? I&#39;m",
+      "duration": 5.2,
+      "offset": 471.68,
+      "lang": "en"
+    },
+    {
+      "text": "feeling very fragile today. I would like",
+      "duration": 6.28,
+      "offset": 474.24,
+      "lang": "en"
+    },
+    {
+      "text": "a supportive mentor.",
+      "duration": 3.64,
+      "offset": 476.88,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So, let&#39;s go ahead and",
+      "duration": 8.92,
+      "offset": 485.84,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to copy",
+      "duration": 3.56,
+      "offset": 491.2,
+      "lang": "en"
+    },
+    {
+      "text": "and paste this.",
+      "duration": 6.16,
+      "offset": 496.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, refine. So, build. Okay. So, I have",
+      "duration": 8.04,
+      "offset": 498.8,
+      "lang": "en"
+    },
+    {
+      "text": "all this information right here.",
+      "duration": 4.36,
+      "offset": 502.48,
+      "lang": "en"
+    },
+    {
+      "text": "So, the first things first is I&#39;m going",
+      "duration": 3.52,
+      "offset": 508.4,
+      "lang": "en"
+    },
+    {
+      "text": "to take a look at it. You&#39;re going to",
+      "duration": 5.04,
+      "offset": 509.84,
+      "lang": "en"
+    },
+    {
+      "text": "copy the system prompt section of your",
+      "duration": 4.56,
+      "offset": 511.92,
+      "lang": "en"
+    },
+    {
+      "text": "Vappy Assistant. So, we&#39;re going to go",
+      "duration": 3.76,
+      "offset": 514.88,
+      "lang": "en"
+    },
+    {
+      "text": "back over here to Vapy. It&#39;s free. So,",
+      "duration": 5.52,
+      "offset": 516.48,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to go out there and build.",
+      "duration": 6.36,
+      "offset": 518.64,
+      "lang": "en"
+    },
+    {
+      "text": "Okay.",
+      "duration": 3.0,
+      "offset": 522.0,
+      "lang": "en"
+    },
+    {
+      "text": "So, I basically have all this",
+      "duration": 4.56,
+      "offset": 525.52,
+      "lang": "en"
+    },
+    {
+      "text": "information and I can go ahead and add",
+      "duration": 5.84,
+      "offset": 527.04,
+      "lang": "en"
+    },
+    {
+      "text": "this guy here. The next thing here is",
+      "duration": 5.68,
+      "offset": 530.08,
+      "lang": "en"
+    },
+    {
+      "text": "the conversation logic, right?",
+      "duration": 4.48,
+      "offset": 532.88,
+      "lang": "en"
+    },
+    {
+      "text": "So the next thing here is we have a",
+      "duration": 3.52,
+      "offset": 535.76,
+      "lang": "en"
+    },
+    {
+      "text": "refine lovable prompt. So use this",
+      "duration": 4.72,
+      "offset": 537.36,
+      "lang": "en"
+    },
+    {
+      "text": "prompt in lovable. So this one is the",
+      "duration": 5.04,
+      "offset": 539.28,
+      "lang": "en"
+    },
+    {
+      "text": "easiest one. So I&#39;m going to take this",
+      "duration": 4.64,
+      "offset": 542.08,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m just going to like let it cook",
+      "duration": 4.56,
+      "offset": 544.32,
+      "lang": "en"
+    },
+    {
+      "text": "in lovable. In the meantime, I&#39;m going",
+      "duration": 3.28,
+      "offset": 546.72,
+      "lang": "en"
+    },
+    {
+      "text": "to have this thing running in the",
+      "duration": 3.6,
+      "offset": 548.88,
+      "lang": "en"
+    },
+    {
+      "text": "background. And then the third thing I&#39;m",
+      "duration": 3.76,
+      "offset": 550.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to take a look at is addressing",
+      "duration": 2.4,
+      "offset": 552.48,
+      "lang": "en"
+    },
+    {
+      "text": "the transitions that you&#39;re talking",
+      "duration": 2.8,
+      "offset": 553.76,
+      "lang": "en"
+    },
+    {
+      "text": "about here is the PM talk you should be",
+      "duration": 4.08,
+      "offset": 554.88,
+      "lang": "en"
+    },
+    {
+      "text": "using during the interview. Uh interview",
+      "duration": 4.32,
+      "offset": 556.56,
+      "lang": "en"
+    },
+    {
+      "text": "chat, interview stakeholder management,",
+      "duration": 4.64,
+      "offset": 558.96,
+      "lang": "en"
+    },
+    {
+      "text": "data versus narrative, the MVP approach.",
+      "duration": 4.0,
+      "offset": 560.88,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. What&#39;s the last thing that you&#39;re",
+      "duration": 3.52,
+      "offset": 563.6,
+      "lang": "en"
+    },
+    {
+      "text": "missing? The feedback loop. Okay. So,",
+      "duration": 3.6,
+      "offset": 564.88,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s what I&#39;m going to go ahead and",
+      "duration": 3.76,
+      "offset": 567.12,
+      "lang": "en"
+    },
+    {
+      "text": "do. I&#39;m going to go back into the Vappy",
+      "duration": 4.32,
+      "offset": 568.48,
+      "lang": "en"
+    },
+    {
+      "text": "dashboard. I&#39;m going to move my face.",
+      "duration": 3.6,
+      "offset": 570.88,
+      "lang": "en"
+    },
+    {
+      "text": "Try to move my face out of the way like",
+      "duration": 3.84,
+      "offset": 572.8,
+      "lang": "en"
+    },
+    {
+      "text": "this. Actually, what does it even",
+      "duration": 4.56,
+      "offset": 574.48,
+      "lang": "en"
+    },
+    {
+      "text": "matter? And I don&#39;t know where. Let&#39;s",
+      "duration": 5.36,
+      "offset": 576.64,
+      "lang": "en"
+    },
+    {
+      "text": "just assume I don&#39;t know where to add",
+      "duration": 5.36,
+      "offset": 579.04,
+      "lang": "en"
+    },
+    {
+      "text": "this information. Right. I&#39;m just going",
+      "duration": 4.48,
+      "offset": 582.0,
+      "lang": "en"
+    },
+    {
+      "text": "to go here",
+      "duration": 4.08,
+      "offset": 584.4,
+      "lang": "en"
+    },
+    {
+      "text": "and then I&#39;m going to pop it back into",
+      "duration": 4.56,
+      "offset": 586.48,
+      "lang": "en"
+    },
+    {
+      "text": "Gemini. And I&#39;m going to let it know",
+      "duration": 4.96,
+      "offset": 588.48,
+      "lang": "en"
+    },
+    {
+      "text": "this. I&#39;m gonna be working with Gemini",
+      "duration": 5.36,
+      "offset": 591.04,
+      "lang": "en"
+    },
+    {
+      "text": "as if it is my actual digital assistant.",
+      "duration": 6.4,
+      "offset": 593.44,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m gonna tell Gemini, um, okay,",
+      "duration": 5.04,
+      "offset": 596.4,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve already entered into the prompt",
+      "duration": 3.6,
+      "offset": 599.84,
+      "lang": "en"
+    },
+    {
+      "text": "into Lovable and the site is currently",
+      "duration": 6.76,
+      "offset": 601.44,
+      "lang": "en"
+    },
+    {
+      "text": "being built out on Lovable right now.",
+      "duration": 4.76,
+      "offset": 603.44,
+      "lang": "en"
+    },
+    {
+      "text": "As you can see from the screenshot, I&#39;m",
+      "duration": 4.64,
+      "offset": 609.36,
+      "lang": "en"
+    },
+    {
+      "text": "also on Vappy. I don&#39;t know where to",
+      "duration": 6.8,
+      "offset": 611.12,
+      "lang": "en"
+    },
+    {
+      "text": "enter the prompt, the system prompt. Um,",
+      "duration": 7.32,
+      "offset": 614.0,
+      "lang": "en"
+    },
+    {
+      "text": "where is it?",
+      "duration": 3.4,
+      "offset": 617.92,
+      "lang": "en"
+    },
+    {
+      "text": "guide me where to go on Vappy.",
+      "duration": 4.28,
+      "offset": 622.48,
+      "lang": "en"
+    },
+    {
+      "text": "So now we&#39;re going to have this.",
+      "duration": 6.48,
+      "offset": 628.64,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s going to analyze that",
+      "duration": 5.76,
+      "offset": 632.08,
+      "lang": "en"
+    },
+    {
+      "text": "in the Vappy dashboard.",
+      "duration": 7.08,
+      "offset": 635.12,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. So let&#39;s go back here.",
+      "duration": 4.36,
+      "offset": 637.84,
+      "lang": "en"
+    },
+    {
+      "text": "Give me a second.",
+      "duration": 3.88,
+      "offset": 649.44,
+      "lang": "en"
+    },
+    {
+      "text": "So, I don&#39;t know where to go. Let&#39;s just",
+      "duration": 4.72,
+      "offset": 657.44,
+      "lang": "en"
+    },
+    {
+      "text": "assume I really don&#39;t. Okay. So, I&#39;m",
+      "duration": 3.92,
+      "offset": 659.6,
+      "lang": "en"
+    },
+    {
+      "text": "going to go ahead. I&#39;m going to take",
+      "duration": 4.36,
+      "offset": 662.16,
+      "lang": "en"
+    },
+    {
+      "text": "this.",
+      "duration": 3.0,
+      "offset": 663.52,
+      "lang": "en"
+    },
+    {
+      "text": "And this is actually what I like to show",
+      "duration": 4.16,
+      "offset": 667.04,
+      "lang": "en"
+    },
+    {
+      "text": "on these videos is how do you figure it",
+      "duration": 3.84,
+      "offset": 668.72,
+      "lang": "en"
+    },
+    {
+      "text": "out? Because like all these other",
+      "duration": 2.88,
+      "offset": 671.2,
+      "lang": "en"
+    },
+    {
+      "text": "videos, like they they don&#39;t really show",
+      "duration": 3.68,
+      "offset": 672.56,
+      "lang": "en"
+    },
+    {
+      "text": "you, right?",
+      "duration": 5.2,
+      "offset": 674.08,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. I just added another screenshot.",
+      "duration": 5.36,
+      "offset": 676.24,
+      "lang": "en"
+    },
+    {
+      "text": "Where do I go? It says Vappy dashboard.",
+      "duration": 4.56,
+      "offset": 679.28,
+      "lang": "en"
+    },
+    {
+      "text": "The system prompt. I still don&#39;t know",
+      "duration": 5.64,
+      "offset": 681.6,
+      "lang": "en"
+    },
+    {
+      "text": "where it&#39;s at.",
+      "duration": 3.4,
+      "offset": 683.84,
+      "lang": "en"
+    },
+    {
+      "text": "And also keep in mind this, I don&#39;t know",
+      "duration": 3.44,
+      "offset": 688.96,
+      "lang": "en"
+    },
+    {
+      "text": "when you&#39;re going to be watching this",
+      "duration": 2.48,
+      "offset": 691.28,
+      "lang": "en"
+    },
+    {
+      "text": "video. I don&#39;t know, hopefully 10 years",
+      "duration": 5.76,
+      "offset": 692.4,
+      "lang": "en"
+    },
+    {
+      "text": "from now. Uh, but AI is moving so fast",
+      "duration": 6.16,
+      "offset": 693.76,
+      "lang": "en"
+    },
+    {
+      "text": "that",
+      "duration": 5.2,
+      "offset": 698.16,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re constantly updating the UI. So,",
+      "duration": 5.28,
+      "offset": 699.92,
+      "lang": "en"
+    },
+    {
+      "text": "if you don&#39;t know where it&#39;s at, just",
+      "duration": 3.76,
+      "offset": 703.36,
+      "lang": "en"
+    },
+    {
+      "text": "pop in the spreadsheets, pop in the",
+      "duration": 4.24,
+      "offset": 705.2,
+      "lang": "en"
+    },
+    {
+      "text": "screenshot, and add it back into the",
+      "duration": 4.64,
+      "offset": 707.12,
+      "lang": "en"
+    },
+    {
+      "text": "YouTube video. Add it back into Gemini",
+      "duration": 4.16,
+      "offset": 709.44,
+      "lang": "en"
+    },
+    {
+      "text": "in the screenshot, and it&#39;ll sometimes",
+      "duration": 3.68,
+      "offset": 711.76,
+      "lang": "en"
+    },
+    {
+      "text": "tell you,",
+      "duration": 4.48,
+      "offset": 713.6,
+      "lang": "en"
+    },
+    {
+      "text": "okay, it&#39;ll sometimes tell you like, oh,",
+      "duration": 4.8,
+      "offset": 715.44,
+      "lang": "en"
+    },
+    {
+      "text": "it appears that they&#39;ve updated their",
+      "duration": 4.48,
+      "offset": 718.08,
+      "lang": "en"
+    },
+    {
+      "text": "website again or whatever. So, I see the",
+      "duration": 4.16,
+      "offset": 720.24,
+      "lang": "en"
+    },
+    {
+      "text": "confusion is the second screenshot",
+      "duration": 4.8,
+      "offset": 722.56,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re looking navigation, so jump list.",
+      "duration": 5.76,
+      "offset": 724.4,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so in that list, you want to go to",
+      "duration": 5.44,
+      "offset": 727.36,
+      "lang": "en"
+    },
+    {
+      "text": "assistance build. Okay. So, I&#39;m going to",
+      "duration": 5.52,
+      "offset": 730.16,
+      "lang": "en"
+    },
+    {
+      "text": "go to assistant. Oh, and I&#39;m right here",
+      "duration": 5.44,
+      "offset": 732.8,
+      "lang": "en"
+    },
+    {
+      "text": "over to assistant. And I&#39;m just going to",
+      "duration": 5.84,
+      "offset": 735.68,
+      "lang": "en"
+    },
+    {
+      "text": "move myself over here. And then the next",
+      "duration": 4.8,
+      "offset": 738.24,
+      "lang": "en"
+    },
+    {
+      "text": "thing I&#39;m going to go ahead and do is",
+      "duration": 3.68,
+      "offset": 741.52,
+      "lang": "en"
+    },
+    {
+      "text": "select your agent.",
+      "duration": 3.6,
+      "offset": 743.04,
+      "lang": "en"
+    },
+    {
+      "text": "Once the page loads, you will go out",
+      "duration": 3.04,
+      "offset": 745.2,
+      "lang": "en"
+    },
+    {
+      "text": "there and see the agents. And it might",
+      "duration": 3.44,
+      "offset": 746.64,
+      "lang": "en"
+    },
+    {
+      "text": "say my first assistant or something like",
+      "duration": 3.36,
+      "offset": 748.24,
+      "lang": "en"
+    },
+    {
+      "text": "that.",
+      "duration": 4.08,
+      "offset": 750.08,
+      "lang": "en"
+    },
+    {
+      "text": "Click on the name of the assistant you",
+      "duration": 5.88,
+      "offset": 751.6,
+      "lang": "en"
+    },
+    {
+      "text": "want to edit.",
+      "duration": 3.32,
+      "offset": 754.16,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m just going to edit summer. And",
+      "duration": 5.64,
+      "offset": 758.24,
+      "lang": "en"
+    },
+    {
+      "text": "then I&#39;m assuming",
+      "duration": 3.4,
+      "offset": 760.48,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m just gonna do this right now.",
+      "duration": 4.2,
+      "offset": 767.2,
+      "lang": "en"
+    },
+    {
+      "text": "I think I found the system prompt box.",
+      "duration": 5.32,
+      "offset": 774.88,
+      "lang": "en"
+    },
+    {
+      "text": "Is this it?",
+      "duration": 3.32,
+      "offset": 776.88,
+      "lang": "en"
+    },
+    {
+      "text": "If it is, can you go ahead and tell me",
+      "duration": 3.92,
+      "offset": 790.0,
+      "lang": "en"
+    },
+    {
+      "text": "what prompt I should be adding into the",
+      "duration": 3.44,
+      "offset": 792.08,
+      "lang": "en"
+    },
+    {
+      "text": "system prompt box because we&#39;ve been",
+      "duration": 4.48,
+      "offset": 793.92,
+      "lang": "en"
+    },
+    {
+      "text": "chatting for a while now here.",
+      "duration": 4.72,
+      "offset": 795.52,
+      "lang": "en"
+    },
+    {
+      "text": "So, here&#39;s another quick tip that you",
+      "duration": 3.04,
+      "offset": 798.4,
+      "lang": "en"
+    },
+    {
+      "text": "guys can go out there and take apart",
+      "duration": 2.72,
+      "offset": 800.24,
+      "lang": "en"
+    },
+    {
+      "text": "from this, right? You have all this",
+      "duration": 4.4,
+      "offset": 801.44,
+      "lang": "en"
+    },
+    {
+      "text": "information and it told me the system",
+      "duration": 8.24,
+      "offset": 802.96,
+      "lang": "en"
+    },
+    {
+      "text": "prompt like way up here and it&#39;s not a",
+      "duration": 8.32,
+      "offset": 805.84,
+      "lang": "en"
+    },
+    {
+      "text": "really good like I have to go out there",
+      "duration": 4.88,
+      "offset": 811.2,
+      "lang": "en"
+    },
+    {
+      "text": "and actually get all the way back up",
+      "duration": 4.88,
+      "offset": 814.16,
+      "lang": "en"
+    },
+    {
+      "text": "here. It&#39;s like no, learn to work with",
+      "duration": 5.92,
+      "offset": 816.08,
+      "lang": "en"
+    },
+    {
+      "text": "AI. AI is your is, you know, works for",
+      "duration": 4.32,
+      "offset": 819.04,
+      "lang": "en"
+    },
+    {
+      "text": "you. It&#39;s not the other way around,",
+      "duration": 4.36,
+      "offset": 822.0,
+      "lang": "en"
+    },
+    {
+      "text": "right?",
+      "duration": 3.0,
+      "offset": 823.36,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m going to take this",
+      "duration": 5.72,
+      "offset": 827.04,
+      "lang": "en"
+    },
+    {
+      "text": "and",
+      "duration": 3.0,
+      "offset": 829.76,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to paste it in here. Right.",
+      "duration": 5.0,
+      "offset": 833.04,
+      "lang": "en"
+    },
+    {
+      "text": "And in here, I&#39;m going to look for the",
+      "duration": 4.52,
+      "offset": 838.48,
+      "lang": "en"
+    },
+    {
+      "text": "next steps.",
+      "duration": 3.24,
+      "offset": 839.76,
+      "lang": "en"
+    },
+    {
+      "text": "paste this in the first message box.",
+      "duration": 4.44,
+      "offset": 850.96,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. And then I&#39;m just going to go up",
+      "duration": 6.24,
+      "offset": 858.72,
+      "lang": "en"
+    },
+    {
+      "text": "there and change this now to let&#39;s just",
+      "duration": 6.76,
+      "offset": 861.76,
+      "lang": "en"
+    },
+    {
+      "text": "say Samantha.",
+      "duration": 3.56,
+      "offset": 864.96,
+      "lang": "en"
+    },
+    {
+      "text": "What are you missing in the know? What",
+      "duration": 3.68,
+      "offset": 871.04,
+      "lang": "en"
+    },
+    {
+      "text": "you are missing the knowledge place?",
+      "duration": 3.84,
+      "offset": 873.04,
+      "lang": "en"
+    },
+    {
+      "text": "Right below is a system prompt in your",
+      "duration": 4.48,
+      "offset": 874.72,
+      "lang": "en"
+    },
+    {
+      "text": "screenshot. Okay. Create a notepad work",
+      "duration": 3.84,
+      "offset": 876.88,
+      "lang": "en"
+    },
+    {
+      "text": "dot that says common list of tech",
+      "duration": 3.92,
+      "offset": 879.2,
+      "lang": "en"
+    },
+    {
+      "text": "interview questions and tech interview",
+      "duration": 5.92,
+      "offset": 880.72,
+      "lang": "en"
+    },
+    {
+      "text": "salaries. Right. Okay. So up. I didn&#39;t",
+      "duration": 5.12,
+      "offset": 883.12,
+      "lang": "en"
+    },
+    {
+      "text": "just rely on the base model. I",
+      "duration": 4.0,
+      "offset": 886.64,
+      "lang": "en"
+    },
+    {
+      "text": "integrated a rag.",
+      "duration": 4.64,
+      "offset": 888.24,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. Well,",
+      "duration": 5.84,
+      "offset": 890.64,
+      "lang": "en"
+    },
+    {
+      "text": "can you go ahead and help me create the",
+      "duration": 5.12,
+      "offset": 892.88,
+      "lang": "en"
+    },
+    {
+      "text": "a list of common tech interview",
+      "duration": 5.28,
+      "offset": 896.48,
+      "lang": "en"
+    },
+    {
+      "text": "questions and 2026 tech salary ranges",
+      "duration": 8.4,
+      "offset": 898.0,
+      "lang": "en"
+    },
+    {
+      "text": "um that I can integrate in the rag",
+      "duration": 6.72,
+      "offset": 901.76,
+      "lang": "en"
+    },
+    {
+      "text": "because I don&#39;t have it right now. I I",
+      "duration": 3.76,
+      "offset": 906.4,
+      "lang": "en"
+    },
+    {
+      "text": "need you to help me create the knowledge",
+      "duration": 4.68,
+      "offset": 908.48,
+      "lang": "en"
+    },
+    {
+      "text": "base.",
+      "duration": 3.0,
+      "offset": 910.16,
+      "lang": "en"
+    },
+    {
+      "text": "Wow.",
+      "duration": 4.48,
+      "offset": 937.68,
+      "lang": "en"
+    },
+    {
+      "text": "Very cool. So now let&#39;s go go out there",
+      "duration": 3.12,
+      "offset": 940.4,
+      "lang": "en"
+    },
+    {
+      "text": "and take a look. So these are the",
+      "duration": 2.8,
+      "offset": 942.16,
+      "lang": "en"
+    },
+    {
+      "text": "figures to account for blah blah blah",
+      "duration": 6.68,
+      "offset": 943.52,
+      "lang": "en"
+    },
+    {
+      "text": "blah blah blah blah. Okay. All right.",
+      "duration": 5.24,
+      "offset": 944.96,
+      "lang": "en"
+    },
+    {
+      "text": "So I have structured the document.",
+      "duration": 5.2,
+      "offset": 950.88,
+      "lang": "en"
+    },
+    {
+      "text": "So, copy the text and then a notepad",
+      "duration": 4.0,
+      "offset": 954.16,
+      "lang": "en"
+    },
+    {
+      "text": "file and save it as. Okay. So, I&#39;m going",
+      "duration": 5.4,
+      "offset": 956.08,
+      "lang": "en"
+    },
+    {
+      "text": "to take this",
+      "duration": 3.32,
+      "offset": 958.16,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;m going to create a notepad file.",
+      "duration": 3.92,
+      "offset": 961.84,
+      "lang": "en"
+    },
+    {
+      "text": "Give me a second. And it&#39;s nothing",
+      "duration": 3.68,
+      "offset": 963.68,
+      "lang": "en"
+    },
+    {
+      "text": "fancy. You just have to go ahead and",
+      "duration": 4.4,
+      "offset": 965.76,
+      "lang": "en"
+    },
+    {
+      "text": "create a file. Uh, I&#39;m using Apple right",
+      "duration": 4.16,
+      "offset": 967.36,
+      "lang": "en"
+    },
+    {
+      "text": "now. I&#39;m going to go out there and paste",
+      "duration": 3.36,
+      "offset": 970.16,
+      "lang": "en"
+    },
+    {
+      "text": "this note",
+      "duration": 5.6,
+      "offset": 971.52,
+      "lang": "en"
+    },
+    {
+      "text": "right here. Give me a second.",
+      "duration": 6.08,
+      "offset": 973.52,
+      "lang": "en"
+    },
+    {
+      "text": "And it&#39;s going to have a Pathfinder AI",
+      "duration": 5.92,
+      "offset": 977.12,
+      "lang": "en"
+    },
+    {
+      "text": "knowledge base. And oh, we&#39;re building",
+      "duration": 5.52,
+      "offset": 979.6,
+      "lang": "en"
+    },
+    {
+      "text": "Pathfinder AI. We got this thing right",
+      "duration": 3.6,
+      "offset": 983.04,
+      "lang": "en"
+    },
+    {
+      "text": "here.",
+      "duration": 4.8,
+      "offset": 985.12,
+      "lang": "en"
+    },
+    {
+      "text": "Boom. Look at all this information. Oh,",
+      "duration": 5.68,
+      "offset": 986.64,
+      "lang": "en"
+    },
+    {
+      "text": "it says start a conversation with Alex.",
+      "duration": 4.24,
+      "offset": 989.92,
+      "lang": "en"
+    },
+    {
+      "text": "So, I guess what we should be doing here",
+      "duration": 4.84,
+      "offset": 992.32,
+      "lang": "en"
+    },
+    {
+      "text": "is",
+      "duration": 3.0,
+      "offset": 994.16,
+      "lang": "en"
+    },
+    {
+      "text": "coach Alex. Right.",
+      "duration": 6.08,
+      "offset": 998.72,
+      "lang": "en"
+    },
+    {
+      "text": "Let me see here.",
+      "duration": 3.76,
+      "offset": 1002.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m going to take all this",
+      "duration": 3.04,
+      "offset": 1004.8,
+      "lang": "en"
+    },
+    {
+      "text": "information and I&#39;m going to go ahead",
+      "duration": 5.4,
+      "offset": 1006.08,
+      "lang": "en"
+    },
+    {
+      "text": "and paste it in.",
+      "duration": 3.64,
+      "offset": 1007.84,
+      "lang": "en"
+    },
+    {
+      "text": "Now I have everything that we need here",
+      "duration": 3.68,
+      "offset": 1029.6,
+      "lang": "en"
+    },
+    {
+      "text": "and then we&#39;re going to go ahead and",
+      "duration": 4.08,
+      "offset": 1032.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually do this. Right.",
+      "duration": 5.88,
+      "offset": 1033.28,
+      "lang": "en"
+    },
+    {
+      "text": "So",
+      "duration": 3.0,
+      "offset": 1036.16,
+      "lang": "en"
+    },
+    {
+      "text": "I have the document already created. Now",
+      "duration": 4.08,
+      "offset": 1044.88,
+      "lang": "en"
+    },
+    {
+      "text": "what am I going to go ahead and do?",
+      "duration": 3.76,
+      "offset": 1047.68,
+      "lang": "en"
+    },
+    {
+      "text": "added into Vappy. Uh, what do I do with",
+      "duration": 4.32,
+      "offset": 1048.96,
+      "lang": "en"
+    },
+    {
+      "text": "it? How do I get that document into",
+      "duration": 5.32,
+      "offset": 1051.44,
+      "lang": "en"
+    },
+    {
+      "text": "Vappy now?",
+      "duration": 3.48,
+      "offset": 1053.28,
+      "lang": "en"
+    },
+    {
+      "text": "And I think the knowledge base because I",
+      "duration": 2.96,
+      "offset": 1061.28,
+      "lang": "en"
+    },
+    {
+      "text": "did get a chance to go there and play",
+      "duration": 3.68,
+      "offset": 1063.04,
+      "lang": "en"
+    },
+    {
+      "text": "with this a little bit,",
+      "duration": 6.08,
+      "offset": 1064.24,
+      "lang": "en"
+    },
+    {
+      "text": "but you never really know",
+      "duration": 5.84,
+      "offset": 1066.72,
+      "lang": "en"
+    },
+    {
+      "text": "where are we going like what like where",
+      "duration": 4.72,
+      "offset": 1070.32,
+      "lang": "en"
+    },
+    {
+      "text": "am I going to go from here, right? And",
+      "duration": 7.0,
+      "offset": 1072.56,
+      "lang": "en"
+    },
+    {
+      "text": "then say uploaded",
+      "duration": 4.52,
+      "offset": 1075.04,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, now I&#39;m going to come back to",
+      "duration": 4.0,
+      "offset": 1079.68,
+      "lang": "en"
+    },
+    {
+      "text": "Vappy and I&#39;m going to ask it where do",
+      "duration": 6.12,
+      "offset": 1081.36,
+      "lang": "en"
+    },
+    {
+      "text": "you want me to upload it?",
+      "duration": 3.8,
+      "offset": 1083.68,
+      "lang": "en"
+    },
+    {
+      "text": "Where do you want me to upload it?",
+      "duration": 4.04,
+      "offset": 1093.6,
+      "lang": "en"
+    },
+    {
+      "text": "Oh, see this is actually where we&#39;re",
+      "duration": 4.48,
+      "offset": 1097.84,
+      "lang": "en"
+    },
+    {
+      "text": "going to get really good at this. On the",
+      "duration": 4.08,
+      "offset": 1100.24,
+      "lang": "en"
+    },
+    {
+      "text": "left hand side of it says files icon",
+      "duration": 5.48,
+      "offset": 1102.32,
+      "lang": "en"
+    },
+    {
+      "text": "looks like a folder.",
+      "duration": 3.48,
+      "offset": 1104.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, we&#39;re going to go to Okay. And then",
+      "duration": 3.28,
+      "offset": 1115.36,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re going to do here is we&#39;re",
+      "duration": 3.92,
+      "offset": 1117.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to upload the full file. Now, I",
+      "duration": 5.28,
+      "offset": 1118.64,
+      "lang": "en"
+    },
+    {
+      "text": "just updated the P finder database, the",
+      "duration": 4.72,
+      "offset": 1121.44,
+      "lang": "en"
+    },
+    {
+      "text": "PDF. And I&#39;m just going to go up there",
+      "duration": 5.88,
+      "offset": 1123.92,
+      "lang": "en"
+    },
+    {
+      "text": "and actually add",
+      "duration": 3.64,
+      "offset": 1126.16,
+      "lang": "en"
+    },
+    {
+      "text": "this guy to go ahead and actually update",
+      "duration": 6.12,
+      "offset": 1132.32,
+      "lang": "en"
+    },
+    {
+      "text": "the file.",
+      "duration": 3.32,
+      "offset": 1135.12,
+      "lang": "en"
+    },
+    {
+      "text": "And we basically have a file ID right",
+      "duration": 4.96,
+      "offset": 1139.04,
+      "lang": "en"
+    },
+    {
+      "text": "here. So I&#39;m going to come back over",
+      "duration": 5.88,
+      "offset": 1141.12,
+      "lang": "en"
+    },
+    {
+      "text": "here.",
+      "duration": 3.0,
+      "offset": 1144.0,
+      "lang": "en"
+    },
+    {
+      "text": "So we have the file ID there. Now attach",
+      "duration": 7.4,
+      "offset": 1152.32,
+      "lang": "en"
+    },
+    {
+      "text": "the file to your assistant.",
+      "duration": 4.68,
+      "offset": 1155.04,
+      "lang": "en"
+    },
+    {
+      "text": "Now you need to go tell Coach Alex to",
+      "duration": 3.68,
+      "offset": 1160.0,
+      "lang": "en"
+    },
+    {
+      "text": "look at this position. So go back to",
+      "duration": 4.0,
+      "offset": 1162.08,
+      "lang": "en"
+    },
+    {
+      "text": "assistant and click on your mentor",
+      "duration": 5.36,
+      "offset": 1163.68,
+      "lang": "en"
+    },
+    {
+      "text": "assistant.",
+      "duration": 8.12,
+      "offset": 1166.08,
+      "lang": "en"
+    },
+    {
+      "text": "So I&#39;m going to go back to my assistant.",
+      "duration": 5.16,
+      "offset": 1169.04,
+      "lang": "en"
+    },
+    {
+      "text": "So, I have all the information that I",
+      "duration": 3.6,
+      "offset": 1190.64,
+      "lang": "en"
+    },
+    {
+      "text": "basically need here. The next thing I&#39;m",
+      "duration": 3.2,
+      "offset": 1192.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to go ahead and do is I&#39;m going to",
+      "duration": 5.12,
+      "offset": 1194.24,
+      "lang": "en"
+    },
+    {
+      "text": "be adding the file, which is Pathfinder,",
+      "duration": 7.44,
+      "offset": 1195.76,
+      "lang": "en"
+    },
+    {
+      "text": "right here. And then,",
+      "duration": 6.8,
+      "offset": 1199.36,
+      "lang": "en"
+    },
+    {
+      "text": "okay, now perfect. Now switching back",
+      "duration": 5.36,
+      "offset": 1203.2,
+      "lang": "en"
+    },
+    {
+      "text": "down",
+      "duration": 6.08,
+      "offset": 1206.16,
+      "lang": "en"
+    },
+    {
+      "text": "and then you&#39;ll see a string on your on",
+      "duration": 6.88,
+      "offset": 1208.56,
+      "lang": "en"
+    },
+    {
+      "text": "the same assistant page in Vappy. Look",
+      "duration": 6.24,
+      "offset": 1212.24,
+      "lang": "en"
+    },
+    {
+      "text": "at the name or on the advanced tab",
+      "duration": 5.36,
+      "offset": 1215.44,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll see a string. So assistant look",
+      "duration": 4.56,
+      "offset": 1218.48,
+      "lang": "en"
+    },
+    {
+      "text": "at the top look at the name or in the",
+      "duration": 7.28,
+      "offset": 1220.8,
+      "lang": "en"
+    },
+    {
+      "text": "advanced tab. Right? So look at the top",
+      "duration": 9.84,
+      "offset": 1223.04,
+      "lang": "en"
+    },
+    {
+      "text": "near the name or in the advanced tab.",
+      "duration": 6.56,
+      "offset": 1228.08,
+      "lang": "en"
+    },
+    {
+      "text": "near the name. We&#39;re in the advanced",
+      "duration": 4.0,
+      "offset": 1232.88,
+      "lang": "en"
+    },
+    {
+      "text": "tab.",
+      "duration": 4.16,
+      "offset": 1234.64,
+      "lang": "en"
+    },
+    {
+      "text": "So, we&#39;re at the advanced tab right now,",
+      "duration": 4.56,
+      "offset": 1236.88,
+      "lang": "en"
+    },
+    {
+      "text": "folks.",
+      "duration": 5.04,
+      "offset": 1238.8,
+      "lang": "en"
+    },
+    {
+      "text": "Okay. And then you&#39;ll see a string.",
+      "duration": 4.72,
+      "offset": 1241.44,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s copy that ID. I have my Vappy",
+      "duration": 4.0,
+      "offset": 1243.84,
+      "lang": "en"
+    },
+    {
+      "text": "Assistant",
+      "duration": 5.12,
+      "offset": 1246.16,
+      "lang": "en"
+    },
+    {
+      "text": "and then paste please the paste ID and",
+      "duration": 6.92,
+      "offset": 1247.84,
+      "lang": "en"
+    },
+    {
+      "text": "please the link.",
+      "duration": 3.48,
+      "offset": 1251.28,
+      "lang": "en"
+    },
+    {
+      "text": "All right, let&#39;s go ahead and actually",
+      "duration": 4.32,
+      "offset": 1256.4,
+      "lang": "en"
+    },
+    {
+      "text": "do this. Hang on. And I&#39;m not seeing",
+      "duration": 4.8,
+      "offset": 1257.76,
+      "lang": "en"
+    },
+    {
+      "text": "this thing anywhere, right? So, I&#39;m just",
+      "duration": 5.72,
+      "offset": 1260.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to go back over here.",
+      "duration": 3.88,
+      "offset": 1262.56,
+      "lang": "en"
+    },
+    {
+      "text": "Oh, I see it here. Right here. We got",
+      "duration": 6.84,
+      "offset": 1268.4,
+      "lang": "en"
+    },
+    {
+      "text": "the ID, right? So,",
+      "duration": 4.92,
+      "offset": 1270.32,
+      "lang": "en"
+    },
+    {
+      "text": "Vappy Assistant. Okay. And then you&#39;re",
+      "duration": 6.16,
+      "offset": 1275.36,
+      "lang": "en"
+    },
+    {
+      "text": "going to go I have my Vappy Assistant.",
+      "duration": 5.92,
+      "offset": 1278.0,
+      "lang": "en"
+    },
+    {
+      "text": "All right. Let&#39;s try this. So, now we",
+      "duration": 5.76,
+      "offset": 1281.52,
+      "lang": "en"
+    },
+    {
+      "text": "have a prompt for lovable right here.",
+      "duration": 4.96,
+      "offset": 1283.92,
+      "lang": "en"
+    },
+    {
+      "text": "And then we&#39;re going to take that prompt",
+      "duration": 4.56,
+      "offset": 1287.28,
+      "lang": "en"
+    },
+    {
+      "text": "and we&#39;re going to pop it in. And that&#39;s",
+      "duration": 5.04,
+      "offset": 1288.88,
+      "lang": "en"
+    },
+    {
+      "text": "essentially now going to be able to to",
+      "duration": 5.36,
+      "offset": 1291.84,
+      "lang": "en"
+    },
+    {
+      "text": "move our voice ID over. Right. So, I&#39;m",
+      "duration": 6.16,
+      "offset": 1293.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to do this. Now that the prompt is",
+      "duration": 5.44,
+      "offset": 1297.2,
+      "lang": "en"
+    },
+    {
+      "text": "in,",
+      "duration": 4.4,
+      "offset": 1300.08,
+      "lang": "en"
+    },
+    {
+      "text": "we now just have to go ahead and wait",
+      "duration": 7.16,
+      "offset": 1302.64,
+      "lang": "en"
+    },
+    {
+      "text": "for nature to work its magic.",
+      "duration": 5.32,
+      "offset": 1304.48,
+      "lang": "en"
+    },
+    {
+      "text": "And then let&#39;s go ahead and let&#39;s make",
+      "duration": 4.4,
+      "offset": 1323.92,
+      "lang": "en"
+    },
+    {
+      "text": "it happen.",
+      "duration": 4.16,
+      "offset": 1326.4,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll be right back. Now, let&#39;s go ahead",
+      "duration": 6.44,
+      "offset": 1328.32,
+      "lang": "en"
+    },
+    {
+      "text": "and test out this bad boy.",
+      "duration": 4.2,
+      "offset": 1330.56,
+      "lang": "en"
+    },
+    {
+      "text": "Hey, uh, is this my new tech career",
+      "duration": 5.04,
+      "offset": 1339.36,
+      "lang": "en"
+    },
+    {
+      "text": "mentor?",
+      "duration": 4.16,
+      "offset": 1342.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Hi. Yes, I can absolutely be your tech",
+      "duration": 4.24,
+      "offset": 1344.4,
+      "lang": "en"
+    },
+    {
+      "text": "career mentor. Whether you&#39;re exploring",
+      "duration": 4.72,
+      "offset": 1346.56,
+      "lang": "en"
+    },
+    {
+      "text": "options, preparing for interviews, or",
+      "duration": 4.56,
+      "offset": 1348.64,
+      "lang": "en"
+    },
+    {
+      "text": "aiming for a promotion, I&#39;m here to help",
+      "duration": 4.48,
+      "offset": 1351.28,
+      "lang": "en"
+    },
+    {
+      "text": "you with guidance, resources, and",
+      "duration": 4.72,
+      "offset": 1353.2,
+      "lang": "en"
+    },
+    {
+      "text": "support. What&#39;s on your mind today? Are",
+      "duration": 4.64,
+      "offset": 1355.76,
+      "lang": "en"
+    },
+    {
+      "text": "you looking to break into tech, advance",
+      "duration": 4.96,
+      "offset": 1357.92,
+      "lang": "en"
+    },
+    {
+      "text": "your current role or something else?",
+      "duration": 4.0,
+      "offset": 1360.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; I need some help with my interview",
+      "duration": 4.48,
+      "offset": 1362.88,
+      "lang": "en"
+    },
+    {
+      "text": "skills, man.",
+      "duration": 5.44,
+      "offset": 1364.4,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Absolutely. Happy to help. Interviewing",
+      "duration": 5.28,
+      "offset": 1367.36,
+      "lang": "en"
+    },
+    {
+      "text": "can be tough, but with the right prep,",
+      "duration": 3.92,
+      "offset": 1369.84,
+      "lang": "en"
+    },
+    {
+      "text": "you can walk in with a lot more",
+      "duration": 4.16,
+      "offset": 1372.64,
+      "lang": "en"
+    },
+    {
+      "text": "confidence. To tailor the help, um, can",
+      "duration": 5.76,
+      "offset": 1373.76,
+      "lang": "en"
+    },
+    {
+      "text": "you tell me what kind of tech are you",
+      "duration": 4.0,
+      "offset": 1376.8,
+      "lang": "en"
+    },
+    {
+      "text": "interviewing for?",
+      "duration": 4.4,
+      "offset": 1379.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Product management.",
+      "duration": 4.96,
+      "offset": 1380.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Great choice. Product manager PM",
+      "duration": 4.32,
+      "offset": 1383.92,
+      "lang": "en"
+    },
+    {
+      "text": "interviews can be challenging, but with",
+      "duration": 4.24,
+      "offset": 1385.76,
+      "lang": "en"
+    },
+    {
+      "text": "the right preparation, you can really",
+      "duration": 6.24,
+      "offset": 1388.24,
+      "lang": "en"
+    },
+    {
+      "text": "stand out. Here&#39;s how I can help you.",
+      "duration": 6.72,
+      "offset": 1390.0,
+      "lang": "en"
+    },
+    {
+      "text": "One, interview structure. I can walk you",
+      "duration": 4.72,
+      "offset": 1394.48,
+      "lang": "en"
+    },
+    {
+      "text": "through what to expect, types of",
+      "duration": 4.88,
+      "offset": 1396.72,
+      "lang": "en"
+    },
+    {
+      "text": "questions, common formats,",
+      "duration": 6.4,
+      "offset": 1399.2,
+      "lang": "en"
+    },
+    {
+      "text": "case, behavioral, technical, etc. Two,",
+      "duration": 5.52,
+      "offset": 1401.6,
+      "lang": "en"
+    },
+    {
+      "text": "practice questions. I can give you",
+      "duration": 3.84,
+      "offset": 1405.6,
+      "lang": "en"
+    },
+    {
+      "text": "sample PM interview questions and help",
+      "duration": 4.8,
+      "offset": 1407.12,
+      "lang": "en"
+    },
+    {
+      "text": "you structure your answers. Three,",
+      "duration": 4.48,
+      "offset": 1409.44,
+      "lang": "en"
+    },
+    {
+      "text": "feedback. If you want to practice",
+      "duration": 4.08,
+      "offset": 1411.92,
+      "lang": "en"
+    },
+    {
+      "text": "answering, you can type your responses",
+      "duration": 4.4,
+      "offset": 1413.92,
+      "lang": "en"
+    },
+    {
+      "text": "and I&#39;ll give you feedback. Four, tips",
+      "duration": 5.6,
+      "offset": 1416.0,
+      "lang": "en"
+    },
+    {
+      "text": "and resources. I can share frameworks.",
+      "duration": 7.44,
+      "offset": 1418.32,
+      "lang": "en"
+    },
+    {
+      "text": "Voila. This took out 23 minutes and 36",
+      "duration": 6.96,
+      "offset": 1421.6,
+      "lang": "en"
+    },
+    {
+      "text": "seconds flat, right? Uh, obviously, I",
+      "duration": 5.28,
+      "offset": 1425.76,
+      "lang": "en"
+    },
+    {
+      "text": "did a few pauses here and there, but the",
+      "duration": 3.92,
+      "offset": 1428.56,
+      "lang": "en"
+    },
+    {
+      "text": "entire process actually isn&#39;t",
+      "duration": 3.28,
+      "offset": 1431.04,
+      "lang": "en"
+    },
+    {
+      "text": "complicated at all. This is a really",
+      "duration": 4.16,
+      "offset": 1432.48,
+      "lang": "en"
+    },
+    {
+      "text": "good flex on a product manager interview",
+      "duration": 4.32,
+      "offset": 1434.32,
+      "lang": "en"
+    },
+    {
+      "text": "and it just goes to show you that like",
+      "duration": 3.28,
+      "offset": 1436.64,
+      "lang": "en"
+    },
+    {
+      "text": "you know you could use this for like a",
+      "duration": 4.72,
+      "offset": 1438.64,
+      "lang": "en"
+    },
+    {
+      "text": "variety of use cases but overall I asked",
+      "duration": 5.44,
+      "offset": 1439.92,
+      "lang": "en"
+    },
+    {
+      "text": "it like every single step of the way.",
+      "duration": 4.0,
+      "offset": 1443.36,
+      "lang": "en"
+    },
+    {
+      "text": "What I want people to really take away",
+      "duration": 2.96,
+      "offset": 1445.36,
+      "lang": "en"
+    },
+    {
+      "text": "especially people that are thinking",
+      "duration": 2.32,
+      "offset": 1447.36,
+      "lang": "en"
+    },
+    {
+      "text": "about transitioning over to product",
+      "duration": 5.6,
+      "offset": 1448.32,
+      "lang": "en"
+    },
+    {
+      "text": "management is AI is really not going to",
+      "duration": 7.04,
+      "offset": 1449.68,
+      "lang": "en"
+    },
+    {
+      "text": "be taking your job away. It really",
+      "duration": 5.44,
+      "offset": 1453.92,
+      "lang": "en"
+    },
+    {
+      "text": "isn&#39;t. Like I see so many people that",
+      "duration": 4.0,
+      "offset": 1456.72,
+      "lang": "en"
+    },
+    {
+      "text": "get stuck with it or they&#39;re freaking",
+      "duration": 3.84,
+      "offset": 1459.36,
+      "lang": "en"
+    },
+    {
+      "text": "out. The entire way, every single step",
+      "duration": 4.96,
+      "offset": 1460.72,
+      "lang": "en"
+    },
+    {
+      "text": "of the of the process where I was stuck,",
+      "duration": 4.64,
+      "offset": 1463.2,
+      "lang": "en"
+    },
+    {
+      "text": "I basically kept on asking Gemini, what",
+      "duration": 4.16,
+      "offset": 1465.68,
+      "lang": "en"
+    },
+    {
+      "text": "do I do next? I&#39;m screenshotting. I&#39;m",
+      "duration": 4.8,
+      "offset": 1467.84,
+      "lang": "en"
+    },
+    {
+      "text": "asking it. We&#39;re This is going to get uh",
+      "duration": 4.56,
+      "offset": 1469.84,
+      "lang": "en"
+    },
+    {
+      "text": "and the entire time we&#39;re practicing",
+      "duration": 4.08,
+      "offset": 1472.64,
+      "lang": "en"
+    },
+    {
+      "text": "actually a lot of systems uh like design",
+      "duration": 4.8,
+      "offset": 1474.4,
+      "lang": "en"
+    },
+    {
+      "text": "thinking throughout the entire process.",
+      "duration": 5.04,
+      "offset": 1476.72,
+      "lang": "en"
+    },
+    {
+      "text": "Um so much that we can go ahead and",
+      "duration": 4.64,
+      "offset": 1479.2,
+      "lang": "en"
+    },
+    {
+      "text": "actually do, but we can&#39;t get through",
+      "duration": 5.2,
+      "offset": 1481.76,
+      "lang": "en"
+    },
+    {
+      "text": "everything into just one video. Overall",
+      "duration": 6.0,
+      "offset": 1483.84,
+      "lang": "en"
+    },
+    {
+      "text": "though, uh, if you guys are looking to",
+      "duration": 4.48,
+      "offset": 1486.96,
+      "lang": "en"
+    },
+    {
+      "text": "make a transition over to product",
+      "duration": 3.6,
+      "offset": 1489.84,
+      "lang": "en"
+    },
+    {
+      "text": "management and you are tired of trying",
+      "duration": 3.52,
+      "offset": 1491.44,
+      "lang": "en"
+    },
+    {
+      "text": "to do it on your own, please go ahead",
+      "duration": 3.04,
+      "offset": 1493.44,
+      "lang": "en"
+    },
+    {
+      "text": "and schedule the call. As you can see",
+      "duration": 4.24,
+      "offset": 1494.96,
+      "lang": "en"
+    },
+    {
+      "text": "from our YouTube videos, we are getting",
+      "duration": 4.64,
+      "offset": 1496.48,
+      "lang": "en"
+    },
+    {
+      "text": "people into the coolest jobs, whether",
+      "duration": 4.56,
+      "offset": 1499.2,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s fintech, sales, transitioning to",
+      "duration": 4.32,
+      "offset": 1501.12,
+      "lang": "en"
+    },
+    {
+      "text": "product management, people that are on",
+      "duration": 3.52,
+      "offset": 1503.76,
+      "lang": "en"
+    },
+    {
+      "text": "our friends that are on H1s, we love",
+      "duration": 4.32,
+      "offset": 1505.44,
+      "lang": "en"
+    },
+    {
+      "text": "y&#39;all. Uh, making a transition happen in",
+      "duration": 4.08,
+      "offset": 1507.28,
+      "lang": "en"
+    },
+    {
+      "text": "100 days. This program has worked for",
+      "duration": 4.4,
+      "offset": 1509.76,
+      "lang": "en"
+    },
+    {
+      "text": "people in the UK, AWS product manager",
+      "duration": 5.92,
+      "offset": 1511.36,
+      "lang": "en"
+    },
+    {
+      "text": "job, the works. The most important thing",
+      "duration": 5.84,
+      "offset": 1514.16,
+      "lang": "en"
+    },
+    {
+      "text": "about AI is I I want to actually have",
+      "duration": 4.48,
+      "offset": 1517.28,
+      "lang": "en"
+    },
+    {
+      "text": "close it up with a few takeaways. Number",
+      "duration": 4.48,
+      "offset": 1520.0,
+      "lang": "en"
+    },
+    {
+      "text": "one is prompting is very important. In",
+      "duration": 5.44,
+      "offset": 1521.76,
+      "lang": "en"
+    },
+    {
+      "text": "order for you to have accurate results",
+      "duration": 6.72,
+      "offset": 1524.48,
+      "lang": "en"
+    },
+    {
+      "text": "and actionable results, you need to have",
+      "duration": 7.28,
+      "offset": 1527.2,
+      "lang": "en"
+    },
+    {
+      "text": "most importantly is like you need to be",
+      "duration": 6.32,
+      "offset": 1531.2,
+      "lang": "en"
+    },
+    {
+      "text": "able to plug in a very very good prompt.",
+      "duration": 5.2,
+      "offset": 1534.48,
+      "lang": "en"
+    },
+    {
+      "text": "In order for you to get a good prompt,",
+      "duration": 5.2,
+      "offset": 1537.52,
+      "lang": "en"
+    },
+    {
+      "text": "you have to know how to prompt. That&#39;s a",
+      "duration": 5.6,
+      "offset": 1539.68,
+      "lang": "en"
+    },
+    {
+      "text": "part of it. But voice prompting just",
+      "duration": 5.12,
+      "offset": 1542.72,
+      "lang": "en"
+    },
+    {
+      "text": "makes everything so much easier. I can",
+      "duration": 6.64,
+      "offset": 1545.28,
+      "lang": "en"
+    },
+    {
+      "text": "get more information into a prompt than",
+      "duration": 7.36,
+      "offset": 1547.84,
+      "lang": "en"
+    },
+    {
+      "text": "I would say most of my peers. So, I&#39;m",
+      "duration": 5.12,
+      "offset": 1551.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to be getting way better results.",
+      "duration": 4.0,
+      "offset": 1555.2,
+      "lang": "en"
+    },
+    {
+      "text": "The other thing here is I also know what",
+      "duration": 3.92,
+      "offset": 1557.04,
+      "lang": "en"
+    },
+    {
+      "text": "it is that I don&#39;t well I don&#39;t know",
+      "duration": 3.12,
+      "offset": 1559.2,
+      "lang": "en"
+    },
+    {
+      "text": "what I don&#39;t know, but I know that",
+      "duration": 3.84,
+      "offset": 1560.96,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a lot that I don&#39;t know. So, if",
+      "duration": 4.56,
+      "offset": 1562.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m saying, &quot;Hey, I want you to go and",
+      "duration": 5.92,
+      "offset": 1564.8,
+      "lang": "en"
+    },
+    {
+      "text": "build out this voice AI agent, and it&#39;s",
+      "duration": 6.32,
+      "offset": 1566.88,
+      "lang": "en"
+    },
+    {
+      "text": "for me as a business owner versus I&#39;m",
+      "duration": 4.64,
+      "offset": 1570.72,
+      "lang": "en"
+    },
+    {
+      "text": "trying to flex this on a product manager",
+      "duration": 4.24,
+      "offset": 1573.2,
+      "lang": "en"
+    },
+    {
+      "text": "interview.&quot; Those are two very different",
+      "duration": 4.16,
+      "offset": 1575.36,
+      "lang": "en"
+    },
+    {
+      "text": "builds. And there&#39;s additional things",
+      "duration": 5.36,
+      "offset": 1577.44,
+      "lang": "en"
+    },
+    {
+      "text": "that I can do to set up this project as",
+      "duration": 5.2,
+      "offset": 1579.52,
+      "lang": "en"
+    },
+    {
+      "text": "something that&#39;s a huge flex on the",
+      "duration": 3.6,
+      "offset": 1582.8,
+      "lang": "en"
+    },
+    {
+      "text": "interview.",
+      "duration": 3.12,
+      "offset": 1584.72,
+      "lang": "en"
+    },
+    {
+      "text": "things that I can go out there and say",
+      "duration": 5.28,
+      "offset": 1586.4,
+      "lang": "en"
+    },
+    {
+      "text": "is, you know, uh, additional help that I",
+      "duration": 5.6,
+      "offset": 1587.84,
+      "lang": "en"
+    },
+    {
+      "text": "would also need is, can you also help me",
+      "duration": 4.96,
+      "offset": 1591.68,
+      "lang": "en"
+    },
+    {
+      "text": "build out a cheat sheet for, um, this",
+      "duration": 4.64,
+      "offset": 1593.44,
+      "lang": "en"
+    },
+    {
+      "text": "product manager interview that I&#39;m going",
+      "duration": 4.64,
+      "offset": 1596.64,
+      "lang": "en"
+    },
+    {
+      "text": "to have with an e-commerce startup? Um,",
+      "duration": 4.56,
+      "offset": 1598.08,
+      "lang": "en"
+    },
+    {
+      "text": "they said that they&#39;re very interested",
+      "duration": 4.72,
+      "offset": 1601.28,
+      "lang": "en"
+    },
+    {
+      "text": "in my background, but based upon where",
+      "duration": 5.2,
+      "offset": 1602.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m lacking, what do you think are the",
+      "duration": 3.2,
+      "offset": 1606.0,
+      "lang": "en"
+    },
+    {
+      "text": "going to be the toughest questions that",
+      "duration": 2.88,
+      "offset": 1607.84,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re going to grind me on? Clearly,",
+      "duration": 3.52,
+      "offset": 1609.2,
+      "lang": "en"
+    },
+    {
+      "text": "experience that I don&#39;t have. Can you",
+      "duration": 3.92,
+      "offset": 1610.72,
+      "lang": "en"
+    },
+    {
+      "text": "help me provide uh can you help provide",
+      "duration": 5.04,
+      "offset": 1612.72,
+      "lang": "en"
+    },
+    {
+      "text": "for me a cheat sheet with the top five",
+      "duration": 4.24,
+      "offset": 1614.64,
+      "lang": "en"
+    },
+    {
+      "text": "questions you think I&#39;m going to get",
+      "duration": 2.64,
+      "offset": 1617.76,
+      "lang": "en"
+    },
+    {
+      "text": "grilled with? And then based upon my",
+      "duration": 2.96,
+      "offset": 1618.88,
+      "lang": "en"
+    },
+    {
+      "text": "background, can you also go out there",
+      "duration": 2.96,
+      "offset": 1620.4,
+      "lang": "en"
+    },
+    {
+      "text": "and provide me with some answer",
+      "duration": 4.52,
+      "offset": 1621.84,
+      "lang": "en"
+    },
+    {
+      "text": "templates?",
+      "duration": 3.0,
+      "offset": 1623.36,
+      "lang": "en"
+    },
+    {
+      "text": "I got that thing in there in 11 seconds.",
+      "duration": 3.84,
+      "offset": 1628.4,
+      "lang": "en"
+    },
+    {
+      "text": "Good luck trying to catch up to me",
+      "duration": 3.76,
+      "offset": 1630.8,
+      "lang": "en"
+    },
+    {
+      "text": "typing. Right.",
+      "duration": 4.24,
+      "offset": 1632.24,
+      "lang": "en"
+    },
+    {
+      "text": "And if I hit that now, all of a sudden I",
+      "duration": 4.4,
+      "offset": 1634.56,
+      "lang": "en"
+    },
+    {
+      "text": "have an interview cheat sheet. And you",
+      "duration": 5.12,
+      "offset": 1636.48,
+      "lang": "en"
+    },
+    {
+      "text": "can do this with like other like like uh",
+      "duration": 4.08,
+      "offset": 1638.96,
+      "lang": "en"
+    },
+    {
+      "text": "I can go out there now and do this with",
+      "duration": 4.16,
+      "offset": 1641.6,
+      "lang": "en"
+    },
+    {
+      "text": "an interview cheat sheet, but prompting",
+      "duration": 4.48,
+      "offset": 1643.04,
+      "lang": "en"
+    },
+    {
+      "text": "if you know how to prompt, you&#39;re going",
+      "duration": 3.76,
+      "offset": 1645.76,
+      "lang": "en"
+    },
+    {
+      "text": "to get better results. So many people",
+      "duration": 3.2,
+      "offset": 1647.52,
+      "lang": "en"
+    },
+    {
+      "text": "tell me like, &quot;Oh yeah, I already know",
+      "duration": 2.72,
+      "offset": 1649.52,
+      "lang": "en"
+    },
+    {
+      "text": "how to vibe code and stuff.&quot; I was like,",
+      "duration": 5.52,
+      "offset": 1650.72,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Yeah, but your stuff looks like",
+      "duration": 5.76,
+      "offset": 1652.24,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s why you&#39;re not getting a job.&quot;",
+      "duration": 4.88,
+      "offset": 1656.24,
+      "lang": "en"
+    },
+    {
+      "text": "You know, I hate to say it, but like",
+      "duration": 5.12,
+      "offset": 1658.0,
+      "lang": "en"
+    },
+    {
+      "text": "companies are very impressed by how",
+      "duration": 3.68,
+      "offset": 1661.12,
+      "lang": "en"
+    },
+    {
+      "text": "people prompt. You show them that you&#39;re",
+      "duration": 3.84,
+      "offset": 1663.12,
+      "lang": "en"
+    },
+    {
+      "text": "prompting with voice versus you&#39;re",
+      "duration": 4.0,
+      "offset": 1664.8,
+      "lang": "en"
+    },
+    {
+      "text": "prompting like typing. like, well, it&#39;s",
+      "duration": 4.48,
+      "offset": 1666.96,
+      "lang": "en"
+    },
+    {
+      "text": "looks amateur. You&#39;re not an amateur.",
+      "duration": 5.6,
+      "offset": 1668.8,
+      "lang": "en"
+    },
+    {
+      "text": "You&#39;re a champ. So, uh, I actually got",
+      "duration": 4.96,
+      "offset": 1671.44,
+      "lang": "en"
+    },
+    {
+      "text": "everything here up on this website. So,",
+      "duration": 3.68,
+      "offset": 1674.4,
+      "lang": "en"
+    },
+    {
+      "text": "yeah, schedule a call with us. Let&#39;s go",
+      "duration": 3.68,
+      "offset": 1676.4,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and let&#39;s make you our next",
+      "duration": 3.28,
+      "offset": 1678.08,
+      "lang": "en"
+    },
+    {
+      "text": "success story. Looking forward to",
+      "duration": 4.24,
+      "offset": 1680.08,
+      "lang": "en"
+    },
+    {
+      "text": "talking to you soon.",
+      "duration": 2.96,
+      "offset": 1681.36,
+      "lang": "en"
+    }
+  ]
+}

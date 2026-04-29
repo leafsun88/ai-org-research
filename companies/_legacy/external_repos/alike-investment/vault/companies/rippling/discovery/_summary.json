@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 21,
+  "total_size_kb": 100,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":4,"latest":"2022_Stratechery-Ben-Thompson-Interview-Parker-Conrad.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"profile.md","size_kb":6},{"path":"_validation.json","size_kb":4},{"path":"financials.md","size_kb":4},{"path":"_collection_report.md","size_kb":3},{"path":"_validation.md","size_kb":2},{"path":"sources/podcasts/2024_20VC-Parker-Conrad-Compound-Startup-Benefits.md","size_kb":1},{"path":"sources/podcasts/2024_SaaStr-Parker-Conrad-Theory-Of-Compound-Startup.md","size_kb":1},{"path":"sources/youtube/2025-01_Garry-Tan-Interview-Parker-Conrad-Compound-Startup.md","size_kb":1},{"path":"sources/podcasts/2025-11_Sequoia-Capital-Parker-Conrad-Revenge-Fantasy.md","size_kb":1},{"path":"sources/podcasts/2025-01_YC-How-To-Build-The-Future-Parker-Conrad.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "SNDK",
+  "source": "yahoo_chart_json + stockanalysis_statistics_page + sec_companyfacts",
+  "market_cap_source": "stockanalysis_statistics_page",
+  "market_cap_confidence": "medium",
+  "currency": "USD",
+  "exchange": "NasdaqGS",
+  "last_price": 989.9,
+  "regular_market_time": 1777060800,
+  "year_high": 1002.09,
+  "year_low": 31.01,
+  "shares_outstanding_source": "stockanalysis_statistics_page",
+  "shares_outstanding": 147600000.0,
+  "market_cap": 146110000000.0,
+  "enterprise_value": 145380000000.0,
+  "price_to_sales": 16.36,
+  "ev_to_ebitda": 102.02,
+  "trailing_pe": null,
+  "source_urls": [
+    "https://stockanalysis.com/stocks/sndk/statistics/"
+  ],
+  "cash": 1481000000,
+  "debt": 1849000000.0,
+  "valuation_note": "StockAnalysis statistics are used as a medium-confidence public fallback when unauthenticated Yahoo quote fields are unavailable; SEC statement fields remain canonical for financial statements.",
+  "updated_at": "2026-04-26T00:36:23"
+}

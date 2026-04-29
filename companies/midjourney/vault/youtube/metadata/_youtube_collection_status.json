@@ -1,0 +1,668 @@
+{
+  "ticker": "MIDJOURNEY",
+  "generated_at": "2026-04-22T16:31:13",
+  "dry_run": false,
+  "queries": [
+    "David Holz Midjourney podcast",
+    "David Holz Midjourney interview",
+    "How Computers Dream David Holz",
+    "What Future David Holz Midjourney",
+    "Stratechery David Holz Midjourney interview",
+    "Midjourney founder podcast",
+    "Midjourney founder interview podcast",
+    "Midjourney AI art podcast",
+    "Midjourney V7 V8 podcast",
+    "Midjourney video model podcast",
+    "Midjourney Disney Universal lawsuit podcast",
+    "Midjourney Meta partnership podcast",
+    "Midjourney bootstrapped no VC podcast",
+    "Midjourney Discord community podcast",
+    "Midjourney aesthetic technology podcast",
+    "Midjourney revenue funding podcast",
+    "Midjourney founder David Holz interview AI art",
+    "Midjourney office hours David Holz",
+    "Midjourney V7 V8 video model David Holz",
+    "Midjourney AI image generation founder",
+    "Midjourney lawsuit Disney Universal Warner Bros David Holz",
+    "Midjourney interview",
+    "Midjourney AI interview",
+    "Midjourney V7 interview",
+    "Midjourney V8 interview",
+    "Midjourney V8.1 interview",
+    "Midjourney Video interview",
+    "V1 Video Model interview",
+    "Niji interview",
+    "Niji 7 interview",
+    "Omni Reference interview",
+    "Style Reference interview",
+    "SREF interview",
+    "Moodboards interview",
+    "Draft Mode interview",
+    "Rooms interview",
+    "Midjourney Discord interview",
+    "David Holz interview"
+  ],
+  "search_provider_order": [
+    "rapidapi_metadata_search",
+    "yt_dlp_search"
+  ],
+  "transcript_provider_order": [
+    "rapidapi_transcript3",
+    "youtube_transcript_api",
+    "yt_dlp_subtitle"
+  ],
+  "rapidapi_key_present": true,
+  "total_records": 30,
+  "success_records": 29,
+  "failure_records": 1,
+  "total_chars": 1287506,
+  "api_request_counts": {
+    "rapidapi_transcript3_calls": 1
+  },
+  "statuses": [
+    {
+      "id": "E8ET6K1D0e8",
+      "video_id": "E8ET6K1D0e8",
+      "title": "David Holz on Midjourney's Mission and Impact",
+      "chars": 11679,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_David-Holz-on-Midjourneys-Mission-and-Impact.md",
+      "status": "existing_success",
+      "source_queries": [
+        "David Holz Midjourney podcast",
+        "David Holz Midjourney interview",
+        "Midjourney office hours David Holz",
+        "David Holz interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "k_gKFwF_q4o",
+      "video_id": "k_gKFwF_q4o",
+      "title": "Discord Open Office Hours with MidJourney Founder David Holz 9/7/22",
+      "chars": 171607,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-20_Discord-Open-Office-Hours-with-MidJourney-Founder.md",
+      "status": "existing_success",
+      "source_queries": [
+        "David Holz Midjourney podcast",
+        "Midjourney founder David Holz interview AI art",
+        "Midjourney office hours David Holz"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "92I8aNhyxwM",
+      "video_id": "92I8aNhyxwM",
+      "title": "Ep. 64—Midjourney V8 First Impressions + Claude Code Breakthroughs",
+      "chars": 97879,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Ep-64Midjourney-V8-First-Impressions-Claude-Code-Breakt.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney founder podcast",
+        "Midjourney AI art podcast",
+        "Midjourney V7 V8 podcast",
+        "Midjourney aesthetic technology podcast",
+        "Midjourney V8.1 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "j0TIiIQ0loM",
+      "video_id": "j0TIiIQ0loM",
+      "title": "Ep. 59—Midjourney v8 Countdown, Are \"AI Artists\" A Thing? + Nano Banana Pro vs ChatGPT Image 1.5",
+      "status": "no_transcript",
+      "error": "all_transcript_providers_failed",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney AI art podcast",
+        "Midjourney V7 V8 podcast",
+        "Midjourney V8.1 interview"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "param": "videoId",
+          "host": "youtube-transcript3.p.rapidapi.com",
+          "generated_at": "2026-04-22T16:30:01",
+          "ok": false,
+          "status": "rapidapi_quota_or_rate_limit",
+          "status_code": 429,
+          "body_preview": "{\"message\":\"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\\/\\/rapidapi.com\\/solid-api-solid-api-default\\/api\\/youtube-transcript3\"}",
+          "stop_provider": true
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "no_transcript",
+          "generated_at": "2026-04-22T16:30:08",
+          "chars": 0
+        },
+        {
+          "provider": "yt_dlp_subtitle",
+          "status": "no_subtitle",
+          "generated_at": "2026-04-22T16:30:44",
+          "chars": 0
+        }
+      ]
+    },
+    {
+      "id": "zUe96tRUpDg",
+      "video_id": "zUe96tRUpDg",
+      "title": "Ep.62—Midjourney v8 Is Late, the Skill Gap Is Growing, and AI Agents Unionized",
+      "chars": 86763,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Ep62Midjourney-v8-Is-Late-the-Skill-Gap-Is-Growing-and.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney founder podcast",
+        "Midjourney V7 V8 podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:44"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:46",
+          "chars": 86763
+        }
+      ]
+    },
+    {
+      "id": "MmKT-p6kxe4",
+      "video_id": "MmKT-p6kxe4",
+      "title": "An Interview From Notebooklm Google Com, Chatgpt.com, Midjourney Discord.com, and Gemini.google.com",
+      "chars": 11827,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_An-Interview-From-Notebooklm-Google-Com-Chatgptcom-Midj.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney Discord interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "gWXh3DMCD1E",
+      "video_id": "gWXh3DMCD1E",
+      "title": "MidJourney v8 Alpha LIVE + This Week’s Biggest AI News",
+      "chars": 76750,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_MidJourney-v8-Alpha-LIVE-This-Weeks-Biggest-AI-News.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V8 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Mw5iwBFp9EE",
+      "video_id": "Mw5iwBFp9EE",
+      "title": "Midjourney v7: Secret Playground of Chaos & Weird + Overhauled Editor",
+      "chars": 82827,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Midjourney-v7-Secret-Playground-of-Chaos-Weird-Overhaul.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney V7 V8 podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:46"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:49",
+          "chars": 82827
+        }
+      ]
+    },
+    {
+      "id": "p_8nJzciokQ",
+      "video_id": "p_8nJzciokQ",
+      "title": "Midjourney V8 is NOW LIVE!! Here's how to use it.",
+      "chars": 28063,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Midjourney-V8-is-NOW-LIVE-Heres-how-to-use-it.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V8.1 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "B9lHT3BSHT0",
+      "video_id": "B9lHT3BSHT0",
+      "title": "Midjourney V8 is Finally Here! Full Testing (Censorship + Realism)",
+      "chars": 25576,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Midjourney-V8-is-Finally-Here-Full-Testing-Censorship-R.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V8.1 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "jRrLfa71154",
+      "video_id": "jRrLfa71154",
+      "title": "🚨 Midjourney V8 Launch Confirmed for Year-End! Super Draft, Style Finder, PCode System Revealed🔥",
+      "chars": 22382,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Midjourney-V8-Launch-Confirmed-for-Year-End-Super-Draft.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V8 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Z2GZXYaV27k",
+      "video_id": "Z2GZXYaV27k",
+      "title": "Surreal Minimalist Art Tutorial with MidJourney v7",
+      "chars": 21563,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Surreal-Minimalist-Art-Tutorial-with-MidJourney-v7.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V7 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "9Cd4ml0Nrs4",
+      "video_id": "9Cd4ml0Nrs4",
+      "title": "Midjourney V8: Did They Cook, or Are They Cooked?",
+      "chars": 19531,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Midjourney-V8-Did-They-Cook-or-Are-They-Cooked.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney V8.1 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "MgMZ6e2NBGA",
+      "video_id": "MgMZ6e2NBGA",
+      "title": "MIDJOURNEY 8 - Compared to Nano Banana 2 & Midjourney V7",
+      "chars": 7983,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_MIDJOURNEY-8---Compared-to-Nano-Banana-2-Midjourney-V7.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney V7 V8 podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:49"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:51",
+          "chars": 7983
+        }
+      ]
+    },
+    {
+      "id": "EeOuQBanjgc",
+      "video_id": "EeOuQBanjgc",
+      "title": "Midjourney Office Hours | July 26, 2023",
+      "chars": 36351,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Midjourney-Office-Hours-July-26-2023.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney office hours David Holz"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:51"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:53",
+          "chars": 36351
+        }
+      ]
+    },
+    {
+      "id": "yXQHByDP9hc",
+      "video_id": "yXQHByDP9hc",
+      "title": "মিডজার্নি কোর্স  - How to setup Midjourney AI on discord |Midjourney Full Free Course | Class 01",
+      "chars": 213,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_মডজরন-করস---How-to-setup-Midjourney-AI-on-discord-Midjo.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney Discord community podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:53"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:56",
+          "chars": 213
+        }
+      ]
+    },
+    {
+      "id": "Jg1WysHejzg",
+      "video_id": "Jg1WysHejzg",
+      "title": "AI Podcast: MidJourney’s $500M Secret, Discord Growth, and VC Rejection",
+      "chars": 44764,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_AI-Podcast-MidJourneys-500M-Secret-Discord-Growth-and-V.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "David Holz Midjourney podcast",
+        "Midjourney founder podcast",
+        "Midjourney bootstrapped no VC podcast",
+        "Midjourney Discord community podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:56"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:30:58",
+          "chars": 44764
+        }
+      ]
+    },
+    {
+      "id": "WdgS9zudLzw",
+      "video_id": "WdgS9zudLzw",
+      "title": "Midjourney AI Masterclass - Workflow and Tips from Real Designers",
+      "chars": 49835,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Midjourney-AI-Masterclass---Workflow-and-Tips-from-Real.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney AI art podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:30:59"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:00",
+          "chars": 49835
+        }
+      ]
+    },
+    {
+      "id": "EWmtRROWEE8",
+      "video_id": "EWmtRROWEE8",
+      "title": "Jamey Gannon - Become an AI Creative Director with Nano Banana and Midjourney",
+      "chars": 62423,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Jamey-Gannon---Become-an-AI-Creative-Director-with-Nano.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney AI art podcast",
+        "Midjourney interview",
+        "Midjourney AI interview",
+        "Midjourney V7 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "49YFlJuE274",
+      "video_id": "49YFlJuE274",
+      "title": "S07E05 Character Copyright and The Disney + Universal Lawsuit vs. Midjourney",
+      "chars": 57767,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_S07E05-Character-Copyright-and-The-Disney-Universal-Law.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney Disney Universal lawsuit podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:00"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:02",
+          "chars": 57767
+        }
+      ]
+    },
+    {
+      "id": "xAUG6prB2nA",
+      "video_id": "xAUG6prB2nA",
+      "title": "2015 SVVR - The Future of Wearable Displays and Inputs (David Holz)",
+      "chars": 62053,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_2015-SVVR---The-Future-of-Wearable-Displays-and-Inputs.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "What Future David Holz Midjourney"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:02"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:04",
+          "chars": 62053
+        }
+      ]
+    },
+    {
+      "id": "RsawLFNLAIw",
+      "video_id": "RsawLFNLAIw",
+      "title": "Phi Hoang - Creativity, Midjourney, and the future of brand design",
+      "chars": 51373,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Phi-Hoang---Creativity-Midjourney-and-the-future-of-bra.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney founder interview podcast",
+        "Midjourney interview",
+        "Midjourney AI interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "OSrTppeoDr0",
+      "video_id": "OSrTppeoDr0",
+      "title": "He Rejected Apple Twice Before He Created Midjourney",
+      "chars": 28971,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_He-Rejected-Apple-Twice-Before-He-Created-Midjourney.md",
+      "status": "existing_success",
+      "source_queries": [
+        "What Future David Holz Midjourney",
+        "Midjourney office hours David Holz",
+        "Midjourney AI image generation founder"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "kxB7dpzVZhI",
+      "video_id": "kxB7dpzVZhI",
+      "title": "Disney & Universal vs. Midjourney: The AI Copyright Clash That Could Change Hollywood Forever!",
+      "chars": 22967,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Disney-Universal-vs-Midjourney-The-AI-Copyright-Clash-T.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney Disney Universal lawsuit podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:04"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:07",
+          "chars": 22967
+        }
+      ]
+    },
+    {
+      "id": "Mg-zZXeWyJU",
+      "video_id": "Mg-zZXeWyJU",
+      "title": "Leap Motion and WebVR with David Holz",
+      "chars": 22014,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Leap-Motion-and-WebVR-with-David-Holz.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "How Computers Dream David Holz"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:07"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:09",
+          "chars": 22014
+        }
+      ]
+    },
+    {
+      "id": "F_KB3TI3aAg",
+      "video_id": "F_KB3TI3aAg",
+      "title": "AiPod Eps 32: Disney & Universal SUING AI?!: MidJourney vs The World, Is THIS the End of Creativity?",
+      "chars": 15835,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_AiPod-Eps-32-Disney-Universal-SUING-AI-MidJourney-vs-Th.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney Disney Universal lawsuit podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:09"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:11",
+          "chars": 15835
+        }
+      ]
+    },
+    {
+      "id": "2RD3FP5iWJY",
+      "video_id": "2RD3FP5iWJY",
+      "title": "5 steps to generate consistent brand images with Midjourney",
+      "chars": 54704,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_5-steps-to-generate-consistent-brand-images-with-Midjou.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney interview",
+        "Midjourney AI interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "YVW0Sjp3VS8",
+      "video_id": "YVW0Sjp3VS8",
+      "title": "Founder issues, the big idea, how to visualize a game with midjourney PakodaProfit Podcast S2 EP9",
+      "chars": 32502,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-22_Founder-issues-the-big-idea-how-to-visualize-a-game-wit.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Midjourney founder podcast",
+        "Midjourney founder interview podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:31:11"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:31:13",
+          "chars": 32502
+        }
+      ]
+    },
+    {
+      "id": "J3DWZ60ShzM",
+      "video_id": "J3DWZ60ShzM",
+      "title": "How To Use Midjourney | The ULTIMATE Beginners Guide to Midjourney 2025",
+      "chars": 20330,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_How-To-Use-Midjourney-The-ULTIMATE-Beginners-Guide-to-M.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney Discord community podcast",
+        "Midjourney V7 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "rOAya6dnLx4",
+      "video_id": "rOAya6dnLx4",
+      "title": "Midjourney! Get started with MidJourney and Discord -  Interviewing Gailya",
+      "chars": 60974,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/youtube/transcripts/2026-04-21_Midjourney-Get-started-with-MidJourney-and-Discord---In.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Midjourney Discord interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    }
+  ]
+}

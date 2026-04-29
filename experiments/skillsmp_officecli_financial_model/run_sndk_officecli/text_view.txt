@@ -1,0 +1,99 @@
+=== Sheet: Dashboard ===
+[/Dashboard/row[1]] SNDK OfficeCLI Financial Model	Value	Source						
+[/Dashboard/row[2]] Company	Sandisk	target config
+[/Dashboard/row[3]] Ticker	SNDK	target config
+[/Dashboard/row[4]] Latest Revenue	7355000000	Income Statement
+[/Dashboard/row[5]] Latest Net Income	-1377000000	Income Statement
+[/Dashboard/row[6]] Y5 Revenue	9387050892.1875	Income Statement
+[/Dashboard/row[7]] DCF Enterprise Value	10070485777.822	DCF Valuation
+[/Dashboard/row[8]] DCF Equity Value	9702485777.82197	DCF Valuation
+[/Dashboard/row[9]] DCF Implied Price	66.9136950194619	DCF Valuation
+[/Dashboard/row[10]] Terminal Value Share	79.2%	DCF Valuation
+[/Dashboard/row[11]] Model Status	ALL CLEAR	Error Checks
+
+=== Sheet: Assumptions ===
+[/Assumptions/row[1]] SNDK Financial Model Assumptions	2023A	2024A	2025A	Y1	Y2	Y3	Y4	Y5
+[/Assumptions/row[2]] Revenue Growth		9.5%	10.4%	5.0%	5.0%	5.0%	5.0%	5.0%
+[/Assumptions/row[3]] Revenue	6086000000	6663000000	7355000000					
+[/Assumptions/row[4]] Gross Margin	7.1%	16.1%	30.1%	30.0%	32.0%	34.0%	35.0%	36.0%
+[/Assumptions/row[5]] Operating Margin	-33.4%	-7.0%	-18.7%	12.0%	14.0%	16.0%	17.0%	18.0%
+[/Assumptions/row[6]] Tax Rate	21.0%	21.0%	21.0%	21.0%	21.0%	21.0%	21.0%	21.0%
+[/Assumptions/row[7]] D&A % Revenue	4.0%	4.0%	4.0%	4.0%	4.0%	4.0%	4.0%	4.0%
+[/Assumptions/row[8]] Capex % Revenue	3.6%	2.5%	2.8%	8.0%	8.0%	7.5%	7.0%	7.0%
+[/Assumptions/row[9]] NWC % Revenue	2.0%	2.0%	2.0%	2.0%	2.0%	2.0%	2.0%	2.0%
+[/Assumptions/row[10]] Cash	292000000	328000000	1481000000					
+[/Assumptions/row[11]] Debt	1849000000.0	1849000000.0	1849000000.0	1849000000.0	1849000000.0	1849000000.0	1849000000.0	1849000000.0
+[/Assumptions/row[12]] Diluted Shares	145000000	145000000	145000000	147600000.0	147600000.0	147600000.0	147600000.0	147600000.0
+[/Assumptions/row[13]] Equity	11439000000	11082000000	9216000000					
+[/Assumptions/row[15]] Risk-free Rate			4.0%	4.0%	4.0%	4.0%	4.0%	4.0%
+[/Assumptions/row[16]] Equity Risk Premium			5.5%	5.5%	5.5%	5.5%	5.5%	5.5%
+[/Assumptions/row[17]] Beta			1.25	1.25	1.25	1.25	1.25	1.25
+[/Assumptions/row[18]] Pre-tax Cost of Debt			6.0%	6.0%	6.0%	6.0%	6.0%	6.0%
+[/Assumptions/row[19]] Target Debt Weight			15.0%	15.0%	15.0%	15.0%	15.0%	15.0%
+[/Assumptions/row[20]] Terminal Growth			3.0%	3.0%	3.0%	3.0%	3.0%	3.0%
+[/Assumptions/row[21]] WACC			10.0%	10.0%	10.0%	10.0%	10.0%	10.0%
+[/Assumptions/row[24]] Source	SNDK public_company vault; SEC companyfacts-derived statements; public market fallback
+
+=== Sheet: Income Statement ===
+[/Income Statement/row[1]] Income Statement	2023A	2024A	2025A	Y1	Y2	Y3	Y4	Y5
+[/Income Statement/row[3]] Revenue	6086000000	6663000000	7355000000	7722750000	8108887500	8514331875	8940048468.75	9387050892.1875
+[/Income Statement/row[4]] Gross Profit	430000000	1072000000	2212000000	2316825000	2594844000	2894872837.5	3129016964.0625	3379338321.1875
+[/Income Statement/row[5]] Operating Income	-2035000000	-468000000	-1377000000	926730000	1135244250	1362293100	1519808239.6875	1689669160.59375
+[/Income Statement/row[6]] Tax Expense	0	0	0	194613300	238401292.5	286081551	319159730.334375	354830523.724687
+[/Income Statement/row[7]] Net Income	-2035000000	-468000000	-1377000000	732116700	896842957.5	1076211549	1200648509.35313	1334838636.86906
+
+=== Sheet: Balance Sheet ===
+[/Balance Sheet/row[1]] Balance Sheet	2023A	2024A	2025A	Y1	Y2	Y3	Y4	Y5
+[/Balance Sheet/row[3]] Cash	292000000	328000000	1481000000	1749751700	2160061407.5	2767984703.375	3521630789.29062	4387116881.55031
+[/Balance Sheet/row[4]] Debt	1849000000	1849000000	1849000000	1849000000	1849000000	1849000000	1849000000	1849000000
+[/Balance Sheet/row[5]] Stockholders Equity	11439000000	11082000000	9216000000	9948116700	10844959657.5	11921171206.5	13121819715.8531	14456658352.7222
+[/Balance Sheet/row[6]] Operating Assets Plug	12996000000	12603000000	9584000000	10047365000	10533898250	11002186503.125	11449188926.5625	11918541471.1719
+[/Balance Sheet/row[7]] Total Assets	13288000000	12931000000	11065000000	11797116700	12693959657.5	13770171206.5	14970819715.8531	16305658352.7222
+[/Balance Sheet/row[8]] Balance Check	0	0	0	0	0	0	0	0
+
+=== Sheet: Cash Flow ===
+[/Cash Flow/row[1]] Cash Flow	2023A	2024A	2025A	Y1	Y2	Y3	Y4	Y5
+[/Cash Flow/row[3]] Net Income	-2035000000	-468000000	-1377000000	732116700	896842957.5	1076211549	1200648509.35313	1334838636.86906
+[/Cash Flow/row[4]] D&A	243440000	266520000	294200000	308910000	324355500	340573275	357601938.75	375482035.6875
+[/Cash Flow/row[5]] Capex	-219000000	-166000000	-204000000	-617820000	-648711000	-638574890.625	-625803392.8125	-657093562.453125
+[/Cash Flow/row[6]] Change in NWC	-121720000	-133260000	-147100000	-154455000	-162177750	-170286637.5	-178800969.375	-187741017.84375
+[/Cash Flow/row[8]] Free Cash Flow	-2132280000	-500740000	-1433900000	268751700	410309707.5	607923295.875	753646085.915625	865486092.259687
+[/Cash Flow/row[10]] Beginning Cash	292000000	328000000	1481000000	1481000000	1749751700	2160061407.5	2767984703.375	3521630789.29062
+[/Cash Flow/row[11]] Ending Cash	292000000	328000000	1481000000	1749751700	2160061407.5	2767984703.375	3521630789.29062	4387116881.55031
+[/Cash Flow/row[12]] Cash Reconciliation	1	1	1	1	1	1	1	1
+
+=== Sheet: DCF Valuation ===
+[/DCF Valuation/row[1]] DCF Valuation	Y1	Y2	Y3	Y4	Y5			
+[/DCF Valuation/row[3]] Free Cash Flow	268751700	410309707.5	607923295.875	753646085.915625	865486092.259687
+[/DCF Valuation/row[4]] Discount Factor	0.909465029932768	0.82712664067061	0.752242755015686	0.684138479707049	0.62220002292493
+[/DCF Valuation/row[5]] PV FCF	244420272.884982	339378089.999016	457305894.927226	515598287.455484	538505466.445185
+[/DCF Valuation/row[7]] Terminal Value	12817868004.2773
+[/DCF Valuation/row[8]] PV Terminal Value	7975277766.11008
+[/DCF Valuation/row[10]] Enterprise Value	10070485777.822
+[/DCF Valuation/row[11]] Equity Value	9702485777.82197
+[/DCF Valuation/row[12]] Implied Price	66.9136950194619
+[/DCF Valuation/row[13]] Terminal Value Share	79.2%
+
+=== Sheet: Sensitivity ===
+[/Sensitivity/row[1]] Sensitivity								
+[/Sensitivity/row[3]] WACC \ TGR	2.0%	2.5%	3.0%	3.5%	4.0%
+[/Sensitivity/row[4]] 8.0%	81.8744506277748	88.5218708471167	96.4987751103269	106.248324765362	118.435261834155
+[/Sensitivity/row[5]] 9.0%	68.8708403012472	73.517541078686	78.9386919856981	85.3455066939851	93.0336843439294
+[/Sensitivity/row[6]] 10.0%	59.1458201856346	62.5431687284202	66.4258527773182	70.9058728337388	76.1325628995628
+[/Sensitivity/row[7]] 11.0%	51.6054338894736	54.175289632828	57.0663773441018	60.3429434168786	64.087590357195
+[/Sensitivity/row[8]] 12.0%	45.5933610387341	47.5898476385127	49.808166082711	52.2874631674033	55.0766723876821
+
+=== Sheet: Error Checks ===
+[/Error Checks/row[1]] Error Checks								
+[/Error Checks/row[2]] Check	2023A	2024A	2025A	Y1	Y2	Y3	Y4	Y5
+[/Error Checks/row[3]] Balance Sheet Balances	1	1	1	1	1	1	1	1
+[/Error Checks/row[4]] Cash Reconciles	1	1	1	1	1	1	1	1
+[/Error Checks/row[7]] Overall Status	ALL CLEAR
+
+=== Sheet: Sources ===
+[/Sources/row[1]] Source Map	Location							
+[/Sources/row[2]] Financial statement inputs	companies/sandisk/vault/public_company/data/statements/annual_statements.json
+[/Sources/row[3]] Market data inputs	companies/sandisk/vault/public_company/data/valuation/valuation_snapshot.json
+[/Sources/row[4]] Installed skill	experiments/skillsmp_officecli_financial_model/installed_skills/officecli-financial-model
+[/Sources/row[5]] OfficeCLI version	officecli --version output recorded by run log
+[/Sources/row[6]] Run folder	/Users/leafsun/Desktop/AI Org研究/experiments/skillsmp_officecli_financial_model/run_sndk_officecli

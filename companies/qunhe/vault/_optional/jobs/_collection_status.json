@@ -1,0 +1,18 @@
+{
+  "research_key": "QUNHE",
+  "company": "Manycore Tech Inc.",
+  "channel": "jobs_org",
+  "generated_at": "2026-04-18T23:36:24",
+  "total_records": 1,
+  "success_records": 0,
+  "failure_records": 1,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://www.kujiale.com/about/jobs",
+      "title": "jobs",
+      "error": "HTTP 404",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

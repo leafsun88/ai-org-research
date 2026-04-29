@@ -1,0 +1,14 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "jobs_org",
+  "status": "scaffolded",
+  "queries": [
+    "Sandisk careers engineering NAND",
+    "Sandisk jobs data center SSD",
+    "Sandisk hiring AI infrastructure storage"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": "python3 scripts/discovery/collect_target.py SNDK --channels jobs_org --skip-transcript --web-max-queries 8",
+  "updated_at": "2026-04-26T09:39:55"
+}

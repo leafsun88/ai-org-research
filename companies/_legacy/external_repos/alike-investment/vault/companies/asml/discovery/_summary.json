@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 88,
+  "total_size_kb": 2472,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":1,"latest":"2026-04-08_Deep-Dive-How-ASML-Became-the-Essential-Bottleneck.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 18,
+    "breakdown": {"c_suite":17,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_xbrl_facts.json","size_kb":1977},{"path":"sources/youtube/2026-04-08_Deep-Dive-How-ASML-Became-the-Essential-Bottleneck.md","size_kb":40},{"path":"_podcast_episodes.json","size_kb":31},{"path":"financials.md","size_kb":8},{"path":"_collection_report.md","size_kb":7},{"path":"organization/sources/wayne_r_allan/httpswwwasmlcomnewsstories2023meet_wayne_allan_asml_board_of.md","size_kb":6},{"path":"organization/sources/marco_j_a_pieters/extracted_from_citations.md","size_kb":6},{"path":"organization/sources/james_p_koonmen/list_of_asml_executives_org_chart_clay.md","size_kb":6},{"path":"organization/sources/roger_j_m_dassen_phd/list_of_asml_executives_org_chart_clay.md","size_kb":6},{"path":"organization/sources/roger_j_m_dassen_phd/list_of_asml_executives_org_chart.md","size_kb":6}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

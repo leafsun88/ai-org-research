@@ -1,0 +1,1653 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "jRrLfa71154",
+  "url": "https://www.youtube.com/watch?v=jRrLfa71154",
+  "title": "🚨 Midjourney V8 Launch Confirmed for Year-End! Super Draft, Style Finder, PCode System Revealed🔥",
+  "channel": "미드저니 코리아 조남경",
+  "source_queries": [
+    "Midjourney V8 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:03:59",
+  "segments": [
+    {
+      "text": "Hello.\nThis is Nam-kyoung Cho from Midjourney Korea. Today,",
+      "duration": 3.56,
+      "offset": 0.04,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;d like to share news from yesterday&#39;s Office Hour.\nBefore we get to the actual video, please subscribe , like, and",
+      "duration": 5.2,
+      "offset": 3.6,
+      "lang": "en"
+    },
+    {
+      "text": "set notifications. They&#39;re a huge help in our YouTube production\n. Please like, subscribe, and",
+      "duration": 5.72,
+      "offset": 8.8,
+      "lang": "en"
+    },
+    {
+      "text": "set notifications.\nThe first update",
+      "duration": 4.56,
+      "offset": 14.52,
+      "lang": "en"
+    },
+    {
+      "text": "is about the status of V8 development. The team&#39;s focus is on V8\n, built on",
+      "duration": 5.96,
+      "offset": 19.08,
+      "lang": "en"
+    },
+    {
+      "text": "the stable V7 codebase\n. They say, &quot;The core system has already been verified.&quot; This",
+      "duration": 5.52,
+      "offset": 25.04,
+      "lang": "en"
+    },
+    {
+      "text": "is much faster than expected.\nRegarding the V8 schedule, back in September,",
+      "duration": 4.68,
+      "offset": 30.56,
+      "lang": "en"
+    },
+    {
+      "text": "we planned to do data verification in October and\nthen build the system over",
+      "duration": 5.52,
+      "offset": 35.24,
+      "lang": "en"
+    },
+    {
+      "text": "the next two months, November and December.\nIt&#39;s now mid-October, and",
+      "duration": 5.88,
+      "offset": 40.76,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve already completed the data verification last week,\nand the core system has been verified. Now,",
+      "duration": 6.88,
+      "offset": 46.64,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re scaling up the system and\ntraining on a large-scale system with large data sets.",
+      "duration": 5.92,
+      "offset": 53.52,
+      "lang": "en"
+    },
+    {
+      "text": "If there are no issues, V8 will be ready\n. While running on a large",
+      "duration": 5.16,
+      "offset": 59.44,
+      "lang": "en"
+    },
+    {
+      "text": "system takes a bit longer\nthan expected to prepare,",
+      "duration": 4.76,
+      "offset": 64.6,
+      "lang": "en"
+    },
+    {
+      "text": "the actual execution\ndoesn&#39;t take that long. It requires a lot of computing power",
+      "duration": 3.88,
+      "offset": 69.36,
+      "lang": "en"
+    },
+    {
+      "text": ", so it costs a bit, but\nthe execution itself",
+      "duration": 4.16,
+      "offset": 73.24,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t take that long. Reflecting this rapid progress,\nwe&#39;re aiming for a release before the end of the year.",
+      "duration": 5.44,
+      "offset": 77.4,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney typically refers to\nDecember 15th when they say &quot;",
+      "duration": 5.48,
+      "offset": 82.84,
+      "lang": "en"
+    },
+    {
+      "text": "the end of the year ,&quot; but\nyou can expect it to be around late November or early December",
+      "duration": 5.16,
+      "offset": 88.32,
+      "lang": "en"
+    },
+    {
+      "text": ". While they do note that the schedule is subject to change, it&#39;s significantly\nfaster than the V8 release schedule we mentioned",
+      "duration": 6.64,
+      "offset": 93.48,
+      "lang": "en"
+    },
+    {
+      "text": "in September\n. It&#39;s roughly about a month ahead. V8",
+      "duration": 5.28,
+      "offset": 100.12,
+      "lang": "en"
+    },
+    {
+      "text": "is expected to significantly improve\nquality and consistency,",
+      "duration": 5.4,
+      "offset": 105.4,
+      "lang": "en"
+    },
+    {
+      "text": "but that&#39;s the same expectation we have with every update\n. They say &quot;most of the engineering team is currently",
+      "duration": 4.84,
+      "offset": 110.8,
+      "lang": "en"
+    },
+    {
+      "text": "focused on V8 development,\n&quot; but the developers",
+      "duration": 6.04,
+      "offset": 115.64,
+      "lang": "en"
+    },
+    {
+      "text": "are splitting up.\nRegarding V7.1 testing and features,",
+      "duration": 4.44,
+      "offset": 121.68,
+      "lang": "en"
+    },
+    {
+      "text": "internal testing is underway\nwithin the Guides and Moderators group",
+      "duration": 5.04,
+      "offset": 126.12,
+      "lang": "en"
+    },
+    {
+      "text": ". This means &quot;V7.1 is already out.&quot;\nThey&#39;ve confirmed that",
+      "duration": 4.2,
+      "offset": 131.16,
+      "lang": "en"
+    },
+    {
+      "text": "prompt interpretation accuracy\nhas improved, but they &#39;ve also said",
+      "duration": 5.44,
+      "offset": 135.36,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;there are few major improvements,&quot; and &quot;major improvements&quot;\nneed to be visually noticeable",
+      "duration": 4.88,
+      "offset": 140.8,
+      "lang": "en"
+    },
+    {
+      "text": ". The people in the guide and moderator\ngroups are incredibly",
+      "duration": 4.36,
+      "offset": 145.68,
+      "lang": "en"
+    },
+    {
+      "text": "skilled at handling prompts\nand are true Midjourney veterans. They",
+      "duration": 5.8,
+      "offset": 150.04,
+      "lang": "en"
+    },
+    {
+      "text": "&#39;ve clearly seen\na noticeable improvement in prompt interpretation",
+      "duration": 5.24,
+      "offset": 155.84,
+      "lang": "en"
+    },
+    {
+      "text": ". However, for the average user\n, the difference in prompt accuracy is difficult to perceive.",
+      "duration": 4.64,
+      "offset": 161.08,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s why\nwe&#39;ve released a new feature",
+      "duration": 4.44,
+      "offset": 165.72,
+      "lang": "en"
+    },
+    {
+      "text": "called &quot;Big Improvements\n.&quot; This",
+      "duration": 4.96,
+      "offset": 170.16,
+      "lang": "en"
+    },
+    {
+      "text": "new feature is\na bit of a stretch, but it&#39;s still a small improvement . So,",
+      "duration": 4.92,
+      "offset": 175.12,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re testing out a personalization system, which we&#39;re currently testing\non a Black Ops server, a private experimental",
+      "duration": 5.72,
+      "offset": 180.04,
+      "lang": "en"
+    },
+    {
+      "text": "server, where the next\nversion of the personalization system is currently being tested",
+      "duration": 4.76,
+      "offset": 185.76,
+      "lang": "en"
+    },
+    {
+      "text": ". This means it could be a noticeable addition\nto the Big Improvements",
+      "duration": 5.24,
+      "offset": 190.52,
+      "lang": "en"
+    },
+    {
+      "text": ". Furthermore, we&#39;ve implemented an enhanced\nDraft mode, which focuses on sub-second",
+      "duration": 4.24,
+      "offset": 195.76,
+      "lang": "en"
+    },
+    {
+      "text": "Super Draft mode creation . Both of these\nimprovements are being prepared",
+      "duration": 6.28,
+      "offset": 200.0,
+      "lang": "en"
+    },
+    {
+      "text": "for V7.1, aiming for speed and quality\n. If they don&#39;t decide",
+      "duration": 5.44,
+      "offset": 206.28,
+      "lang": "en"
+    },
+    {
+      "text": "that it&#39;s &#39;clearly better&#39;,\nthey&#39;ll likely skip the public release.",
+      "duration": 4.36,
+      "offset": 211.72,
+      "lang": "en"
+    },
+    {
+      "text": "Now that I think about it, V8 is scheduled to come out\naround the end of November or early December,",
+      "duration": 5.24,
+      "offset": 216.08,
+      "lang": "en"
+    },
+    {
+      "text": "so that leaves about two to a month and\na half. If that happens,",
+      "duration": 5.16,
+      "offset": 221.32,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ll release V7.1 in the meantime\n, and bugs will arise, and if they fix these bug reports",
+      "duration": 5.12,
+      "offset": 226.48,
+      "lang": "en"
+    },
+    {
+      "text": "and do this, the workforce\nwill be divided. Users, even",
+      "duration": 4.88,
+      "offset": 231.6,
+      "lang": "en"
+    },
+    {
+      "text": "if they don&#39;t decide that it&#39;s &#39;clearly better&#39;, and\nif they know that an announcement will require additional resources",
+      "duration": 5.12,
+      "offset": 236.48,
+      "lang": "en"
+    },
+    {
+      "text": "anyway, they\n&#39;ll think, &#39;If that&#39;s the case, I&#39;ll skip it",
+      "duration": 5.16,
+      "offset": 241.6,
+      "lang": "en"
+    },
+    {
+      "text": ".&#39; Internally at Midjourney,\nwe say that 7.1 &#39;acts as a verification layer for the V8 system",
+      "duration": 4.84,
+      "offset": 246.76,
+      "lang": "en"
+    },
+    {
+      "text": ".&#39; Rather than focusing on improving the performance of\n7.1 itself, we plan to use",
+      "duration": 7.0,
+      "offset": 251.6,
+      "lang": "en"
+    },
+    {
+      "text": "it to test V8 features and such.\nEven before V7 came out",
+      "duration": 3.8,
+      "offset": 258.6,
+      "lang": "en"
+    },
+    {
+      "text": ", we had something similar to V6.1\nand called it a &#39;verification layer&#39; for V7",
+      "duration": 4.92,
+      "offset": 262.4,
+      "lang": "en"
+    },
+    {
+      "text": ". However, V7\nwas delayed, so V6.1 ended",
+      "duration": 5.96,
+      "offset": 267.32,
+      "lang": "en"
+    },
+    {
+      "text": "up being released. Considering that,\nif V8 performs well, V7.1",
+      "duration": 5.28,
+      "offset": 273.28,
+      "lang": "en"
+    },
+    {
+      "text": "might be skipped, but if V8&#39;s delay\ngets worse, 7.1 might come out,",
+      "duration": 5.24,
+      "offset": 278.56,
+      "lang": "en"
+    },
+    {
+      "text": "but for now,\nI don&#39;t think they&#39;ll bother with 7.1.",
+      "duration": 5.04,
+      "offset": 283.8,
+      "lang": "en"
+    },
+    {
+      "text": "There was news about Style Finder and Style Creator,\nbut Style Finder",
+      "duration": 4.88,
+      "offset": 288.84,
+      "lang": "en"
+    },
+    {
+      "text": "disappeared last week and\ncame up again this time. Unlike V7.1 or V8,",
+      "duration": 5.0,
+      "offset": 293.72,
+      "lang": "en"
+    },
+    {
+      "text": "this style-related thing\nseems to be progressing well.",
+      "duration": 5.12,
+      "offset": 298.72,
+      "lang": "en"
+    },
+    {
+      "text": "Style Finder\nis said to be high-performance and &quot;help",
+      "duration": 4.56,
+      "offset": 303.84,
+      "lang": "en"
+    },
+    {
+      "text": "users quickly find the aesthetic style they want\n,&quot; but its form is still unknown. However",
+      "duration": 5.8,
+      "offset": 308.4,
+      "lang": "en"
+    },
+    {
+      "text": ", I think you can understand it\nas &quot;already completed .&quot;",
+      "duration": 5.08,
+      "offset": 314.2,
+      "lang": "en"
+    },
+    {
+      "text": "Some details about Style Creator\nwere revealed, and I was quite surprised",
+      "duration": 4.52,
+      "offset": 319.28,
+      "lang": "en"
+    },
+    {
+      "text": "to see that it &quot;creates\nstyles from scratch .&quot; I had imagined",
+      "duration": 4.96,
+      "offset": 323.8,
+      "lang": "en"
+    },
+    {
+      "text": "Style Creator\nwould use Style Seed Blends to mix Styles A and B",
+      "duration": 4.84,
+      "offset": 328.76,
+      "lang": "en"
+    },
+    {
+      "text": "to create a new style, but since it&#39;s\ntalking about starting from scratch",
+      "duration": 5.12,
+      "offset": 333.6,
+      "lang": "en"
+    },
+    {
+      "text": ", I think it&#39;s\npossible to truly create styles",
+      "duration": 4.36,
+      "offset": 338.72,
+      "lang": "en"
+    },
+    {
+      "text": "from scratch\n. It&#39;s currently",
+      "duration": 4.8,
+      "offset": 343.08,
+      "lang": "en"
+    },
+    {
+      "text": "being tested, but it&#39;s difficult to evaluate, so\nI&#39;m talking about the difficulty of evaluation",
+      "duration": 3.92,
+      "offset": 347.88,
+      "lang": "en"
+    },
+    {
+      "text": ".\nI created a style, but",
+      "duration": 4.6,
+      "offset": 351.8,
+      "lang": "en"
+    },
+    {
+      "text": "is it really what I intended?\nIt&#39;s difficult to judge, and I think, &quot;I like it,&quot; but I think, &quot;It&#39;s different.&quot;",
+      "duration": 5.16,
+      "offset": 356.4,
+      "lang": "en"
+    },
+    {
+      "text": "Will they think, &#39;People are also good.&#39; This\nis also a question mark, so",
+      "duration": 6.12,
+      "offset": 361.56,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s true that there&#39;s\na bit of an ambiguous way to objectively quantify",
+      "duration": 5.12,
+      "offset": 367.68,
+      "lang": "en"
+    },
+    {
+      "text": "the generated styles .\nThey say that Style Finder is likely to be released soon",
+      "duration": 5.0,
+      "offset": 372.8,
+      "lang": "en"
+    },
+    {
+      "text": ", but there are some question marks about Style Creator, and seeing that Style\nFinder is said to have &#39;excellent performance,&#39;",
+      "duration": 4.92,
+      "offset": 377.8,
+      "lang": "en"
+    },
+    {
+      "text": "I think the original plan\nwas to release both together, but",
+      "duration": 4.6,
+      "offset": 382.72,
+      "lang": "en"
+    },
+    {
+      "text": "since Creator was delayed, they decided to release Finder first\n. Reflecting that thought, Style",
+      "duration": 4.64,
+      "offset": 387.32,
+      "lang": "en"
+    },
+    {
+      "text": "Creator may be delayed as a next-generation feature\n. They usually say things like this,",
+      "duration": 5.44,
+      "offset": 391.96,
+      "lang": "en"
+    },
+    {
+      "text": "and then sometimes the clue\ncomes out and they continue to release.",
+      "duration": 5.28,
+      "offset": 397.4,
+      "lang": "en"
+    },
+    {
+      "text": "Both Style Finder and Style Creator\nare said to be &#39;closely connected to",
+      "duration": 4.72,
+      "offset": 402.68,
+      "lang": "en"
+    },
+    {
+      "text": "the personalization and user profile system.&#39;\nThis personalization refers to Pcode, but",
+      "duration": 5.72,
+      "offset": 407.4,
+      "lang": "en"
+    },
+    {
+      "text": "this part seems to be creating something through ranking of personal preferred\nstyles",
+      "duration": 5.4,
+      "offset": 413.12,
+      "lang": "en"
+    },
+    {
+      "text": ". And the user profile\nsystem",
+      "duration": 5.28,
+      "offset": 418.52,
+      "lang": "en"
+    },
+    {
+      "text": "can be thought of as &#39;Instagram&#39;s Midjourney version.&#39;\nMidjourney&#39;s Style",
+      "duration": 4.0,
+      "offset": 423.8,
+      "lang": "en"
+    },
+    {
+      "text": "Finder, with\nthe features available in",
+      "duration": 4.08,
+      "offset": 427.8,
+      "lang": "en"
+    },
+    {
+      "text": "Style Explorer, is a bit\nlike this. If you input",
+      "duration": 4.0,
+      "offset": 431.88,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Man&quot; or &quot;Manga&quot; into the prompt,\nyou can use the keyword",
+      "duration": 5.04,
+      "offset": 435.88,
+      "lang": "en"
+    },
+    {
+      "text": "search function in Fuzzy Search\nto find two styles",
+      "duration": 5.48,
+      "offset": 440.92,
+      "lang": "en"
+    },
+    {
+      "text": "like this . Of course, there are many more\n. If you display the search styles like this",
+      "duration": 4.6,
+      "offset": 446.4,
+      "lang": "en"
+    },
+    {
+      "text": "and ask , &quot;Which style are you?&quot;\nand select this style,",
+      "duration": 4.72,
+      "offset": 451.0,
+      "lang": "en"
+    },
+    {
+      "text": "you can search for similar styles\nusing this image.",
+      "duration": 5.92,
+      "offset": 455.72,
+      "lang": "en"
+    },
+    {
+      "text": "You can also differentiate\nbetween the line styles",
+      "duration": 4.88,
+      "offset": 461.64,
+      "lang": "en"
+    },
+    {
+      "text": "within the Manga style and ask, &quot;Do you want this line style\n?&quot; or &quot; Do you want",
+      "duration": 5.04,
+      "offset": 466.52,
+      "lang": "en"
+    },
+    {
+      "text": "more detail ?&quot;\nIf you select this style,",
+      "duration": 4.36,
+      "offset": 471.56,
+      "lang": "en"
+    },
+    {
+      "text": "you can also search for\nstyles using this image,",
+      "duration": 5.92,
+      "offset": 475.92,
+      "lang": "en"
+    },
+    {
+      "text": "showcasing a more advanced\nversion of this style, with thin and rough",
+      "duration": 5.44,
+      "offset": 481.84,
+      "lang": "en"
+    },
+    {
+      "text": "lines, like a shoujo manga\n. If the user selects this",
+      "duration": 5.16,
+      "offset": 487.28,
+      "lang": "en"
+    },
+    {
+      "text": "style , this is the final choice.\nThis isn&#39;t the exact UI, but it could be an",
+      "duration": 4.6,
+      "offset": 492.44,
+      "lang": "en"
+    },
+    {
+      "text": "interface that shows the history of your\nprevious selections and says , &quot;This is what you selected.&quot;",
+      "duration": 4.64,
+      "offset": 497.04,
+      "lang": "en"
+    },
+    {
+      "text": "Ultimately, it\ncould display the Sref See of that style like this.",
+      "duration": 4.6,
+      "offset": 501.68,
+      "lang": "en"
+    },
+    {
+      "text": "In the case of Style Finder, the foundation of the technology\nis expected to be 4.2 billion SREF seeds . Besides this format,",
+      "duration": 5.8,
+      "offset": 506.28,
+      "lang": "en"
+    },
+    {
+      "text": "you can also expect this type of display\nwhen you input something like this",
+      "duration": 5.36,
+      "offset": 512.08,
+      "lang": "en"
+    },
+    {
+      "text": ". What you&#39;re seeing now is\nthat I searched for &quot;Manga Style&quot;",
+      "duration": 4.2,
+      "offset": 517.44,
+      "lang": "en"
+    },
+    {
+      "text": "in Style Explorer\nand manually",
+      "duration": 4.32,
+      "offset": 521.64,
+      "lang": "en"
+    },
+    {
+      "text": "created the images like this. Midjourney\ncan use the Midjourney API, so",
+      "duration": 4.8,
+      "offset": 525.96,
+      "lang": "en"
+    },
+    {
+      "text": "it could be created\nautomatically . Photoshop",
+      "duration": 4.72,
+      "offset": 530.76,
+      "lang": "en"
+    },
+    {
+      "text": "has a similar UI, right? If you center it and\nselect it , it can also show various options",
+      "duration": 4.8,
+      "offset": 535.48,
+      "lang": "en"
+    },
+    {
+      "text": "on the side. I&#39;m thinking\n, &quot;Wouldn&#39;t this style be possible?&quot;",
+      "duration": 5.76,
+      "offset": 540.28,
+      "lang": "en"
+    },
+    {
+      "text": "This news is related\nto user profiles,",
+      "duration": 5.2,
+      "offset": 546.04,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s actively being developed and\ninternally tested. It seems to be roughly",
+      "duration": 5.52,
+      "offset": 551.24,
+      "lang": "en"
+    },
+    {
+      "text": "complete. They&#39;re going to release it soon with\nStyle Finder, and they said it&#39;s deeply connected",
+      "duration": 5.16,
+      "offset": 556.76,
+      "lang": "en"
+    },
+    {
+      "text": "to user profiles. So, the styles\nyou find in Style Finder are shared",
+      "duration": 5.04,
+      "offset": 561.92,
+      "lang": "en"
+    },
+    {
+      "text": "on your user profile\n, and ultimately,",
+      "duration": 4.68,
+      "offset": 566.96,
+      "lang": "en"
+    },
+    {
+      "text": "you can think of it as a Socal Media, Midjourney version of Instagram\n. Just like sharing images on Instagram,",
+      "duration": 4.68,
+      "offset": 571.64,
+      "lang": "en"
+    },
+    {
+      "text": "you share the styles you find in Style Finder, and they\nalso provide SREF seed information that follows",
+      "duration": 5.72,
+      "offset": 576.32,
+      "lang": "en"
+    },
+    {
+      "text": ". When other users see this, they&#39;ll likely\nfollow you or like it, or something along those lines",
+      "duration": 5.0,
+      "offset": 582.04,
+      "lang": "en"
+    },
+    {
+      "text": ". They say their goal is to improve\ncommunity discovery and personalization,",
+      "duration": 5.0,
+      "offset": 587.04,
+      "lang": "en"
+    },
+    {
+      "text": "but while the specifics of\npersonalization haven&#39;t been revealed yet, they seem to be internally",
+      "duration": 4.56,
+      "offset": 592.04,
+      "lang": "en"
+    },
+    {
+      "text": "accumulating data and\ntesting",
+      "duration": 4.8,
+      "offset": 596.6,
+      "lang": "en"
+    },
+    {
+      "text": "things like, &quot;What style does this person have?&quot;\nWe&#39;ve done this test before at Pcode,",
+      "duration": 3.8,
+      "offset": 601.4,
+      "lang": "en"
+    },
+    {
+      "text": "so I think they&#39;re probably using\nthe same formula now",
+      "duration": 4.28,
+      "offset": 605.2,
+      "lang": "en"
+    },
+    {
+      "text": ". What I mean by community exploration\nis, if you think of user profiles",
+      "duration": 4.8,
+      "offset": 609.48,
+      "lang": "en"
+    },
+    {
+      "text": "as Midjourney&#39;s version of Instagram, I\nshare, like, follow, and",
+      "duration": 6.0,
+      "offset": 614.28,
+      "lang": "en"
+    },
+    {
+      "text": "things like that.\nSome people might",
+      "duration": 5.0,
+      "offset": 620.28,
+      "lang": "en"
+    },
+    {
+      "text": "wonder, &quot;Is this content interesting enough?&quot;\nIt wasn&#39;t my intention, but",
+      "duration": 4.72,
+      "offset": 625.28,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been conducting a small experiment in a group chat. The group chat\naddress is in &quot;More,&quot; and it&#39;s",
+      "duration": 4.24,
+      "offset": 630.0,
+      "lang": "en"
+    },
+    {
+      "text": "a morning scene from the Midjourney Korea group chat\n. Someone",
+      "duration": 4.6,
+      "offset": 634.24,
+      "lang": "en"
+    },
+    {
+      "text": "shares an SREF seed as a morning greeting\n, and someone else who receives that greeting also",
+      "duration": 5.2,
+      "offset": 638.84,
+      "lang": "en"
+    },
+    {
+      "text": "shares an SREF seed as a good morning\n. They share like this, and someone else",
+      "duration": 4.4,
+      "offset": 644.04,
+      "lang": "en"
+    },
+    {
+      "text": "mixes their own\nSREF seed with this SREF seed,",
+      "duration": 5.28,
+      "offset": 648.44,
+      "lang": "en"
+    },
+    {
+      "text": "and so\non. They share like this",
+      "duration": 4.48,
+      "offset": 653.72,
+      "lang": "en"
+    },
+    {
+      "text": ". Someone else\nhas collected thumbnails using Style Explorer",
+      "duration": 4.12,
+      "offset": 658.2,
+      "lang": "en"
+    },
+    {
+      "text": ". They share things like, &quot;This\nis the number, and I created this.&quot;",
+      "duration": 5.12,
+      "offset": 662.32,
+      "lang": "en"
+    },
+    {
+      "text": "In this way, you can share manually on KakaoTalk.\nIf you create an image in the",
+      "duration": 5.52,
+      "offset": 667.44,
+      "lang": "en"
+    },
+    {
+      "text": "Instagram style of the content you just saw\n, or find a style in the style finder and",
+      "duration": 4.52,
+      "offset": 672.96,
+      "lang": "en"
+    },
+    {
+      "text": "click the post button,\nyou can think, &#39;That&#39;s shared on my Social Media.&#39; I think,",
+      "duration": 5.68,
+      "offset": 677.48,
+      "lang": "en"
+    },
+    {
+      "text": "&#39; Wouldn&#39;t this be interesting\nenough for Midjourney users",
+      "duration": 4.6,
+      "offset": 683.16,
+      "lang": "en"
+    },
+    {
+      "text": "?&#39; Speaking of experimenting with\npersonalization and draft mode, personalization is currently",
+      "duration": 5.76,
+      "offset": 687.76,
+      "lang": "en"
+    },
+    {
+      "text": "being tested on a private server\nwith guides and moderators, as I mentioned earlier.",
+      "duration": 5.04,
+      "offset": 693.52,
+      "lang": "en"
+    },
+    {
+      "text": "They say they&#39;re optimizing the speed and responsiveness of Draft mode, but I have absolutely no idea what they&#39;re talking about\n. I don&#39;t know the specifics, but their goal is to enhance",
+      "duration": 5.92,
+      "offset": 698.56,
+      "lang": "en"
+    },
+    {
+      "text": "individual creative control and style\nconsistency . Pcode, for example,",
+      "duration": 5.36,
+      "offset": 704.48,
+      "lang": "en"
+    },
+    {
+      "text": "offers excellent performance for stylistic consistency, but\nI think they&#39;re looking for ways to further enhance",
+      "duration": 4.48,
+      "offset": 709.84,
+      "lang": "en"
+    },
+    {
+      "text": "that. I have absolutely\nno idea what they&#39;re talking about",
+      "duration": 4.96,
+      "offset": 714.32,
+      "lang": "en"
+    },
+    {
+      "text": "regarding individual creative control\n. They&#39;re optimizing",
+      "duration": 4.52,
+      "offset": 719.28,
+      "lang": "en"
+    },
+    {
+      "text": "the speed and responsiveness of Draft mode,\nand they say &quot;current performance is below expectations.&quot; This",
+      "duration": 5.88,
+      "offset": 723.8,
+      "lang": "en"
+    },
+    {
+      "text": "was mentioned last week:\nthey generate images in under",
+      "duration": 4.8,
+      "offset": 729.68,
+      "lang": "en"
+    },
+    {
+      "text": "a second . That made me a little uneasy\n. For Midjourney users",
+      "duration": 5.12,
+      "offset": 734.48,
+      "lang": "en"
+    },
+    {
+      "text": ", speed isn&#39;t that important.\nQuality is paramount",
+      "duration": 4.88,
+      "offset": 739.6,
+      "lang": "en"
+    },
+    {
+      "text": ". High quality and\nspeed can be impressive, but",
+      "duration": 6.64,
+      "offset": 744.48,
+      "lang": "en"
+    },
+    {
+      "text": "high speed and low quality are both key considerations.\nFor Midjourney users, trading quality for speed",
+      "duration": 5.96,
+      "offset": 751.12,
+      "lang": "en"
+    },
+    {
+      "text": "is simply unacceptable. That&#39;s why, when\nDraft mode first came out, the developers",
+      "duration": 4.2,
+      "offset": 757.08,
+      "lang": "en"
+    },
+    {
+      "text": "boasted, &quot;We love it because it&#39;s so\nfast!&quot; only to receive complaints",
+      "duration": 4.96,
+      "offset": 761.28,
+      "lang": "en"
+    },
+    {
+      "text": "from Midjourney users, &quot;Why is the quality so bad?&quot;\nWhat they&#39;re talking about here",
+      "duration": 5.2,
+      "offset": 766.24,
+      "lang": "en"
+    },
+    {
+      "text": "is that the current performance falls short of expectations.\nThey&#39;ve achieved the speed, but",
+      "duration": 5.2,
+      "offset": 771.44,
+      "lang": "en"
+    },
+    {
+      "text": "the image quality\nis poor. I think Midjourney understands",
+      "duration": 4.68,
+      "offset": 776.64,
+      "lang": "en"
+    },
+    {
+      "text": "that this speed will only be meaningful\nif it&#39;s increased to a level that satisfies",
+      "duration": 4.6,
+      "offset": 781.32,
+      "lang": "en"
+    },
+    {
+      "text": "users . If\nthese two features succeed,",
+      "duration": 4.52,
+      "offset": 785.92,
+      "lang": "en"
+    },
+    {
+      "text": "7.1 will be released\n. If not, they",
+      "duration": 5.0,
+      "offset": 790.44,
+      "lang": "en"
+    },
+    {
+      "text": "&#39;ll likely be reflected in 8.\nThe success of these features seems to be key to the release",
+      "duration": 5.44,
+      "offset": 795.44,
+      "lang": "en"
+    },
+    {
+      "text": "of V7.1. They&#39;re talking about\na community event, a sailboat meetup. They&#39;re saying",
+      "duration": 6.44,
+      "offset": 800.88,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re launching a Midjourney community meetup in San Francisco.\nThink of it",
+      "duration": 6.84,
+      "offset": 807.32,
+      "lang": "en"
+    },
+    {
+      "text": "as a lightning-fast\nmeetup , held around",
+      "duration": 5.88,
+      "offset": 814.16,
+      "lang": "en"
+    },
+    {
+      "text": "sunset on a large catamaran,\nand can accommodate 50 to 90 people at a time.",
+      "duration": 5.2,
+      "offset": 820.04,
+      "lang": "en"
+    },
+    {
+      "text": "It&#39;s a very large ship. The Midjourney team and the engineering\nteam will participate in",
+      "duration": 4.92,
+      "offset": 825.24,
+      "lang": "en"
+    },
+    {
+      "text": "the meeting, asking and answering\ndevelopment-related questions . Participants can share feedback and",
+      "duration": 4.64,
+      "offset": 830.16,
+      "lang": "en"
+    },
+    {
+      "text": "interact with creators.\nOnce user profiles are complete,",
+      "duration": 5.32,
+      "offset": 834.8,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ll follow each other back and forth.\nThis seems to be the vision",
+      "duration": 5.56,
+      "offset": 840.12,
+      "lang": "en"
+    },
+    {
+      "text": "the Midjourney CEO has in mind . Around sunset\n, I pulled up a mat and looked for catamarans",
+      "duration": 6.48,
+      "offset": 845.68,
+      "lang": "en"
+    },
+    {
+      "text": ". They had two of them, and\nthey were called catamarans. The middle one",
+      "duration": 4.52,
+      "offset": 852.16,
+      "lang": "en"
+    },
+    {
+      "text": "had a spacious deck.\nI imagined",
+      "duration": 4.4,
+      "offset": 856.68,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;d charter a large boat like this, with about 100 people\nchatting about Midjourney, blah blah blah.",
+      "duration": 4.52,
+      "offset": 861.08,
+      "lang": "en"
+    },
+    {
+      "text": "I was wondering\n, &quot;Why on earth would they even think of",
+      "duration": 5.24,
+      "offset": 865.6,
+      "lang": "en"
+    },
+    {
+      "text": "that?&quot; Then I looked at a map and\nrealized San Francisco was right there",
+      "duration": 3.96,
+      "offset": 870.84,
+      "lang": "en"
+    },
+    {
+      "text": ". San Francisco\nis surrounded by water on three sides, a bit like Busan",
+      "duration": 5.44,
+      "offset": 874.8,
+      "lang": "en"
+    },
+    {
+      "text": ". There are a lot of IT startups\nin this area,",
+      "duration": 4.36,
+      "offset": 880.24,
+      "lang": "en"
+    },
+    {
+      "text": "and while working in San Francisco\n, I used to go to the beach every weekend and saw someone&#39;s yacht party.",
+      "duration": 5.08,
+      "offset": 884.6,
+      "lang": "en"
+    },
+    {
+      "text": "I thought, &quot; If we&#39;re successful, we should do something like that,\n&quot; and I think that might happen",
+      "duration": 5.48,
+      "offset": 889.68,
+      "lang": "en"
+    },
+    {
+      "text": "this time . They said, &quot;If it&#39;s popular,\nwe plan to expand the Midjourney boat global tour event",
+      "duration": 5.16,
+      "offset": 895.16,
+      "lang": "en"
+    },
+    {
+      "text": ".&quot; What I&#39;m curious\nabout is whether they&#39;ll come to Korea for that global event",
+      "duration": 7.2,
+      "offset": 900.32,
+      "lang": "en"
+    },
+    {
+      "text": ". One of the Midjourney developers\nis Korean , and I&#39;m wondering if they",
+      "duration": 5.4,
+      "offset": 907.52,
+      "lang": "en"
+    },
+    {
+      "text": "can promote Korea well enough to bring it to Korea\n. Here&#39;s some news about Midjourney TV.",
+      "duration": 4.52,
+      "offset": 912.92,
+      "lang": "en"
+    },
+    {
+      "text": "A new feature is that\nwhen you click",
+      "duration": 4.88,
+      "offset": 917.44,
+      "lang": "en"
+    },
+    {
+      "text": "3, 4, or 5, content\nis displayed in a grid format in real time",
+      "duration": 5.12,
+      "offset": 922.32,
+      "lang": "en"
+    },
+    {
+      "text": ". However, it doesn&#39;t seem to have been updated yet.\nFor now, it&#39;s just the same.",
+      "duration": 4.36,
+      "offset": 927.44,
+      "lang": "en"
+    },
+    {
+      "text": "I mentioned that large grids provide a more immersive experience, using the &quot;Architect&quot; scene from the movie &quot;The Matrix\n.&quot; I think the &quot;Architect&quot; scene",
+      "duration": 5.88,
+      "offset": 931.8,
+      "lang": "en"
+    },
+    {
+      "text": "is referring to\nthis scene, and I",
+      "duration": 5.2,
+      "offset": 937.68,
+      "lang": "en"
+    },
+    {
+      "text": "think the idea of\n​​displaying content on a large wall like this",
+      "duration": 5.04,
+      "offset": 942.88,
+      "lang": "en"
+    },
+    {
+      "text": "is what makes it more immersive\n. The Matrix is ​​a classic now,",
+      "duration": 5.6,
+      "offset": 947.92,
+      "lang": "en"
+    },
+    {
+      "text": "and watching it gives you a sense of the experience of the Midjourney\ndevelopment team",
+      "duration": 4.64,
+      "offset": 953.52,
+      "lang": "en"
+    },
+    {
+      "text": ". The 5-grid system\nis heavy, but it&#39;s visually",
+      "duration": 5.12,
+      "offset": 958.16,
+      "lang": "en"
+    },
+    {
+      "text": "striking. We&#39;re preparing various views based on these diverse opinions,\nbut the problem is that most people probably don&#39;t know what Midjourney TV is",
+      "duration": 5.64,
+      "offset": 963.28,
+      "lang": "en"
+    },
+    {
+      "text": ". The Midjourney TV\naddress is Midjourney.tv.",
+      "duration": 4.04,
+      "offset": 968.92,
+      "lang": "en"
+    },
+    {
+      "text": "If you go there, it\nrandomly plays Midjourney videos",
+      "duration": 5.44,
+      "offset": 972.96,
+      "lang": "en"
+    },
+    {
+      "text": ". It makes a nice backdrop\nfor a large wall at an event",
+      "duration": 5.28,
+      "offset": 978.4,
+      "lang": "en"
+    },
+    {
+      "text": ", but I don&#39;t think many people are aware of this\n. Midjourney is",
+      "duration": 5.48,
+      "offset": 983.68,
+      "lang": "en"
+    },
+    {
+      "text": "constantly adding features to new content as it becomes available\n. People aren&#39;t really interested",
+      "duration": 5.16,
+      "offset": 989.16,
+      "lang": "en"
+    },
+    {
+      "text": ", but I&#39;m still paying attention\n, so if you go",
+      "duration": 5.32,
+      "offset": 994.32,
+      "lang": "en"
+    },
+    {
+      "text": "to Midjourney.tv for fun\n, you can check out various Midjourney videos",
+      "duration": 4.32,
+      "offset": 999.64,
+      "lang": "en"
+    },
+    {
+      "text": ". It&#39;s about community participation and rankings,\nand they say",
+      "duration": 4.56,
+      "offset": 1003.96,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re holding\na style ranking party",
+      "duration": 4.92,
+      "offset": 1008.52,
+      "lang": "en"
+    },
+    {
+      "text": "and encouraging user participation, but I have no idea where they&#39;re getting it from.\nRegarding this style ranking",
+      "duration": 5.56,
+      "offset": 1013.44,
+      "lang": "en"
+    },
+    {
+      "text": "party, if you look here, there&#39;s a way I made with shorts\nto get one hour of Fast Hour in five minutes.",
+      "duration": 5.24,
+      "offset": 1019.0,
+      "lang": "en"
+    },
+    {
+      "text": "Someone in the group chat\nconfirmed that",
+      "duration": 4.8,
+      "offset": 1024.24,
+      "lang": "en"
+    },
+    {
+      "text": "there were cases where you could get an hour by doing just 10 a day.\nFor those who don&#39;t have enough Fast Hours, it&#39;s very easy",
+      "duration": 5.16,
+      "offset": 1029.04,
+      "lang": "en"
+    },
+    {
+      "text": "to get Fast Hours,\nso if you safely do 50 to 100,",
+      "duration": 5.24,
+      "offset": 1034.2,
+      "lang": "en"
+    },
+    {
+      "text": "you can earn an hour a day\n. I think I&#39;m the one who encourages user participation",
+      "duration": 5.2,
+      "offset": 1039.44,
+      "lang": "en"
+    },
+    {
+      "text": "more, but anyway,\nI&#39;m encouraging it this way, and the collected",
+      "duration": 5.24,
+      "offset": 1044.64,
+      "lang": "en"
+    },
+    {
+      "text": "feedback data is reflected in the direction of future aesthetic and model\nimprovements. We",
+      "duration": 5.6,
+      "offset": 1049.88,
+      "lang": "en"
+    },
+    {
+      "text": "This means that if you work hard on something, it\nwill be used to improve",
+      "duration": 4.8,
+      "offset": 1055.48,
+      "lang": "en"
+    },
+    {
+      "text": "the performance of Midjourney, which we use\n. If you want to",
+      "duration": 4.68,
+      "offset": 1060.28,
+      "lang": "en"
+    },
+    {
+      "text": "improve the service I use,\nI&#39;ll give you an hour of your time for free, so please participate in this style ranking",
+      "duration": 5.4,
+      "offset": 1064.96,
+      "lang": "en"
+    },
+    {
+      "text": ". Merchandising &amp; Swag I heard\nthat official Midjourney goods",
+      "duration": 5.4,
+      "offset": 1070.36,
+      "lang": "en"
+    },
+    {
+      "text": "are being prepared to launch, called Swag. What will\nit be? Instead of manufacturing them in-house, they will",
+      "duration": 5.08,
+      "offset": 1075.76,
+      "lang": "en"
+    },
+    {
+      "text": "outsource OEM production in the form of an official vendor partnership,\nand the goal is not to make them profitably",
+      "duration": 4.84,
+      "offset": 1080.84,
+      "lang": "en"
+    },
+    {
+      "text": ", but to create fun items\ncentered around the community . Goods.",
+      "duration": 4.64,
+      "offset": 1085.68,
+      "lang": "en"
+    },
+    {
+      "text": "Fun, community-centered items, not for\nprofit. The moment I saw this, I thought, &quot;Did",
+      "duration": 5.92,
+      "offset": 1090.32,
+      "lang": "en"
+    },
+    {
+      "text": "the person who planned this\nsee merchandise for K-pop idols ?&quot; I",
+      "duration": 5.4,
+      "offset": 1096.24,
+      "lang": "en"
+    },
+    {
+      "text": "&#39;m half excited and half worried about what kind of items will come out, but my anticipation is that\nit will be something that fits Midjourney perfectly, something",
+      "duration": 5.12,
+      "offset": 1101.64,
+      "lang": "en"
+    },
+    {
+      "text": "we couldn&#39;t have imagined .\nMy worry is that if it&#39;s something like a keychain or",
+      "duration": 6.64,
+      "offset": 1106.76,
+      "lang": "en"
+    },
+    {
+      "text": "a doll,\nI&#39;ll be in trouble. Since",
+      "duration": 5.8,
+      "offset": 1113.4,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney is mostly\nstaffed by programmers,",
+      "duration": 4.28,
+      "offset": 1119.2,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s hard to expect any brilliant ideas\n. However, since this",
+      "duration": 5.04,
+      "offset": 1123.48,
+      "lang": "en"
+    },
+    {
+      "text": "isn&#39;t a direct development project but an official vendor partnership,\nI think if we choose the right vendor,",
+      "duration": 5.64,
+      "offset": 1128.52,
+      "lang": "en"
+    },
+    {
+      "text": "something innovative might emerge\n. Regarding company growth and leadership,",
+      "duration": 5.12,
+      "offset": 1134.16,
+      "lang": "en"
+    },
+    {
+      "text": "a new executive team\nhas joined to improve operational efficiency and resolve bottlenecks.",
+      "duration": 4.92,
+      "offset": 1139.28,
+      "lang": "en"
+    },
+    {
+      "text": "I think they&#39;ve brought in someone as a director. They&#39;re planning to hire additional engineers and project\nmanagement staff, so",
+      "duration": 4.64,
+      "offset": 1144.2,
+      "lang": "en"
+    },
+    {
+      "text": "with the new head,\nthey&#39;re hiring the relevant personnel",
+      "duration": 5.68,
+      "offset": 1148.84,
+      "lang": "en"
+    },
+    {
+      "text": ". The founder\nis currently preparing an official announcement video and managing new projects",
+      "duration": 4.92,
+      "offset": 1154.52,
+      "lang": "en"
+    },
+    {
+      "text": ". First, the founder is David.\nThe guy who announced these office hours",
+      "duration": 5.68,
+      "offset": 1159.44,
+      "lang": "en"
+    },
+    {
+      "text": "suddenly mentioned the founder, so I was like,\n&quot;What&#39;s going on?&quot; He then said it was an official announcement video,",
+      "duration": 4.92,
+      "offset": 1165.12,
+      "lang": "en"
+    },
+    {
+      "text": "so I thought, &quot;What&#39;s going on?&quot; But\nthe related details are coming up later. They&#39;re",
+      "duration": 4.76,
+      "offset": 1170.04,
+      "lang": "en"
+    },
+    {
+      "text": "discussing undisclosed projects and future plans\n. There are numerous undisclosed projects,",
+      "duration": 4.28,
+      "offset": 1174.8,
+      "lang": "en"
+    },
+    {
+      "text": "including functional projects, community\nprograms, and",
+      "duration": 4.32,
+      "offset": 1179.08,
+      "lang": "en"
+    },
+    {
+      "text": "hardware-related projects\n. They&#39;re constantly discussing",
+      "duration": 4.04,
+      "offset": 1183.4,
+      "lang": "en"
+    },
+    {
+      "text": "functional projects . For\npersonalized community programs",
+      "duration": 4.44,
+      "offset": 1187.44,
+      "lang": "en"
+    },
+    {
+      "text": ", we&#39;re developing a Midjourney version of\nSocal Media. I don&#39;t know the hardware, but",
+      "duration": 6.6,
+      "offset": 1191.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s somewhere between VR and AR .\nWe&#39;re awaiting internal approval and media",
+      "duration": 5.28,
+      "offset": 1198.48,
+      "lang": "en"
+    },
+    {
+      "text": "preparation.\nThis is the video the founder mentioned on the previous page is preparing",
+      "duration": 4.84,
+      "offset": 1203.76,
+      "lang": "en"
+    },
+    {
+      "text": ". It&#39;s supposed to be a hardware announcement,\nso it looks like something will be coming out soon.",
+      "duration": 5.72,
+      "offset": 1208.6,
+      "lang": "en"
+    },
+    {
+      "text": "We recently\ndid a &quot;World&#39;s Big East Problem&quot;",
+      "duration": 4.68,
+      "offset": 1214.32,
+      "lang": "en"
+    },
+    {
+      "text": "list, asking, &quot;Why are we even doing this?\n&quot; The list is complete and",
+      "duration": 6.04,
+      "offset": 1219.0,
+      "lang": "en"
+    },
+    {
+      "text": "will soon be voted on by the community,\nbut I have no idea where",
+      "duration": 5.2,
+      "offset": 1225.04,
+      "lang": "en"
+    },
+    {
+      "text": "it ends\n. It seems",
+      "duration": 5.16,
+      "offset": 1230.24,
+      "lang": "en"
+    },
+    {
+      "text": "like they&#39;re working on a bigger picture\n. I shared some information about",
+      "duration": 5.0,
+      "offset": 1235.4,
+      "lang": "en"
+    },
+    {
+      "text": "yesterday&#39;s Office Hours, and\nwhat I&#39;m",
+      "duration": 4.92,
+      "offset": 1240.4,
+      "lang": "en"
+    },
+    {
+      "text": "particularly interested in, as you can see in the thumbnail,\nis Style Finder. I&#39;m looking forward to seeing",
+      "duration": 5.64,
+      "offset": 1245.32,
+      "lang": "en"
+    },
+    {
+      "text": "how Style Finder can take the existing text\nprompting method to the next level",
+      "duration": 4.48,
+      "offset": 1250.96,
+      "lang": "en"
+    },
+    {
+      "text": ". I just happened to share information about Style Finder today, and\nas if it were pre-planned,",
+      "duration": 5.96,
+      "offset": 1255.44,
+      "lang": "en"
+    },
+    {
+      "text": "my presentation tomorrow on YouTube Live will\nbe about &quot;Arriving at the AI ​​Style Singularity:",
+      "duration": 5.4,
+      "offset": 1261.4,
+      "lang": "en"
+    },
+    {
+      "text": "The Beginning of the Prompt 2.0 Era\n. &quot; So, I was planning to cover",
+      "duration": 4.48,
+      "offset": 1266.8,
+      "lang": "en"
+    },
+    {
+      "text": "exactly this in tomorrow&#39;s livestream:\nhow the Style Finder",
+      "duration": 5.04,
+      "offset": 1271.28,
+      "lang": "en"
+    },
+    {
+      "text": "works, how we should use it, and\nwhat we need to prepare",
+      "duration": 5.04,
+      "offset": 1276.32,
+      "lang": "en"
+    },
+    {
+      "text": ". I happened to hear about\nthis topic during Office Hours",
+      "duration": 4.52,
+      "offset": 1281.36,
+      "lang": "en"
+    },
+    {
+      "text": "yesterday, so\nI was like, &quot;Thank you!&quot; Tomorrow&#39;s",
+      "duration": 4.48,
+      "offset": 1285.88,
+      "lang": "en"
+    },
+    {
+      "text": "livestream isn&#39;t just about me\n; I &#39;ll also be covering",
+      "duration": 5.0,
+      "offset": 1290.36,
+      "lang": "en"
+    },
+    {
+      "text": "topics related to Yoon Seok-jang&#39;s AI music,\nand Kim Han-jae&#39;s Midjourney and",
+      "duration": 4.96,
+      "offset": 1295.36,
+      "lang": "en"
+    },
+    {
+      "text": "how to create an AIToon using Nano Banana .\nI took a peek at the presentation materials,",
+      "duration": 5.0,
+      "offset": 1300.32,
+      "lang": "en"
+    },
+    {
+      "text": "and they &#39;re incredibly detailed.\nOf course, I &#39;ve prepared quite diligently to keep up",
+      "duration": 4.4,
+      "offset": 1305.32,
+      "lang": "en"
+    },
+    {
+      "text": "with them. Tomorrow&#39;s\nlivestream is at 4 PM. Since this is a",
+      "duration": 5.48,
+      "offset": 1309.72,
+      "lang": "en"
+    },
+    {
+      "text": "celebration of reaching 4,000 subscribers\n, I hope you&#39;ll tune in,",
+      "duration": 4.36,
+      "offset": 1315.2,
+      "lang": "en"
+    },
+    {
+      "text": "leave comments, and\njoin us in the chat.",
+      "duration": 4.72,
+      "offset": 1319.56,
+      "lang": "en"
+    },
+    {
+      "text": "Please tune in again,\nand don&#39;t be late, it&#39;s 4 PM. Today&#39;s key",
+      "duration": 6.52,
+      "offset": 1324.28,
+      "lang": "en"
+    },
+    {
+      "text": "word is &quot;limit.&quot;\nLooking at Midjourney&#39;s progress so far,",
+      "duration": 5.32,
+      "offset": 1330.8,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s clear that we&#39;re constantly\npushing and overcoming our limitations . As we",
+      "duration": 4.72,
+      "offset": 1336.12,
+      "lang": "en"
+    },
+    {
+      "text": "use Midjourney,\nwe&#39;re evolving along the way, and the pace of development is so",
+      "duration": 5.2,
+      "offset": 1340.84,
+      "lang": "en"
+    },
+    {
+      "text": "fast that we sometimes don&#39;t realize\nwe&#39;ve surpassed our limits",
+      "duration": 5.0,
+      "offset": 1346.04,
+      "lang": "en"
+    },
+    {
+      "text": ". We usually indicate\nthat we&#39;ve surpassed our limits",
+      "duration": 3.28,
+      "offset": 1351.04,
+      "lang": "en"
+    },
+    {
+      "text": "and gone up a level by marking it as a version. This is\nthe topic I&#39;ll cover in tomorrow&#39;s live, and",
+      "duration": 5.04,
+      "offset": 1354.32,
+      "lang": "en"
+    },
+    {
+      "text": "it was briefly touched upon during today&#39;s Office Hour.\nIt&#39;s about",
+      "duration": 4.96,
+      "offset": 1359.36,
+      "lang": "en"
+    },
+    {
+      "text": "Prompt 2.0, which transcends the limits of prompts\n. So, I decided to use the term &quot;limit&quot; in the hopes that,",
+      "duration": 6.0,
+      "offset": 1364.32,
+      "lang": "en"
+    },
+    {
+      "text": "along with Midjourney,\nwe, as users, can also develop and overcome these limits",
+      "duration": 5.76,
+      "offset": 1370.32,
+      "lang": "en"
+    },
+    {
+      "text": ". With the word &quot;limit&quot; as our starting point,\nwe&#39;ll end this session here",
+      "duration": 4.68,
+      "offset": 1376.08,
+      "lang": "en"
+    },
+    {
+      "text": ". Thank you.",
+      "duration": 3.96,
+      "offset": 1380.76,
+      "lang": "en"
+    }
+  ]
+}

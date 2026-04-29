@@ -1,0 +1,31 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "enterprise_partnerships",
+  "generated_at": "2026-04-20T18:03:02",
+  "total_records": 3,
+  "success_records": 1,
+  "failure_records": 2,
+  "statuses": [
+    {
+      "status": "indexed_paywall",
+      "url": "https://www.bloomberg.com/news/articles/2025-08-22/meta-to-license-ai-lab-midjourney-s-tech-in-new-partnership",
+      "title": "meta-to-license-ai-lab-midjourney-s-tech-in-new-partnership",
+      "stage": "paywall_filter"
+    },
+    {
+      "status": "success",
+      "url": "https://tech.yahoo.com/ai/article/meta-licensing-midjourneys-ai-image-120012551.html",
+      "title": "meta-licensing-midjourneys-ai-image-120012551.html",
+      "chars": 1896,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/enterprise_partnerships/unknown_meta-licensing-midjourneys-ai-image-120012551html.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://the-decoder.com/meta-licenses-midjourneys-aesthetic-technology-to-improve-visual-quality-of-future-models/",
+      "title": "meta-licenses-midjourneys-aesthetic-technology-to-improve-visual-quality-of-future-models",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

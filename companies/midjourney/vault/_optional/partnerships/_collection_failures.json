@@ -1,0 +1,15 @@
+[
+  {
+    "status": "indexed_paywall",
+    "url": "https://www.bloomberg.com/news/articles/2025-08-22/meta-to-license-ai-lab-midjourney-s-tech-in-new-partnership",
+    "title": "meta-to-license-ai-lab-midjourney-s-tech-in-new-partnership",
+    "stage": "paywall_filter"
+  },
+  {
+    "status": "failed",
+    "url": "https://the-decoder.com/meta-licenses-midjourneys-aesthetic-technology-to-improve-visual-quality-of-future-models/",
+    "title": "meta-licenses-midjourneys-aesthetic-technology-to-improve-visual-quality-of-future-models",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "research_key": "QUNHE",
+  "company": "Manycore Tech Inc.",
+  "channel": "official",
+  "generated_at": "2026-04-18T23:36:16",
+  "total_records": 5,
+  "success_records": 1,
+  "failure_records": 4,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://www.manycoretech.com",
+      "title": "www.manycoretech.com",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.kujiale.com/",
+      "title": "www.kujiale.com",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.coohom.com/",
+      "title": "www.coohom.com",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://blog.coohom.com/",
+      "title": "blog.coohom.com",
+      "chars": 4608,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/QUNHE/sources/official/unknown_blogcoohomcom.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.prnewswire.com/news-releases/manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+      "title": "manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

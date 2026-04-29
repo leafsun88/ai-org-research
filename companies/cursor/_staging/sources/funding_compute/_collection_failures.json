@@ -1,0 +1,30 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.cursor.com/blog/openai-fund",
+    "title": "openai-fund",
+    "error": "HTTP 404",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "title": "sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/",
+    "title": "cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+    "title": "anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

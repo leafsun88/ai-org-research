@@ -1,0 +1,2571 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "alWW3tW36F0",
+  "url": "https://www.youtube.com/watch?v=alWW3tW36F0",
+  "title": "Take Your Lovable Prototypes to Production with Avery - You Don't Need to Hire Engineers!",
+  "channel": "GoodGist",
+  "source_queries": [
+    "Lovable prototype to production"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:17:31",
+  "segments": [
+    {
+      "text": "[music]",
+      "duration": 2.02,
+      "offset": 1.31,
+      "lang": "en"
+    },
+    {
+      "text": "Welcome back to the deep dive. Today we",
+      "duration": 3.52,
+      "offset": 4.0,
+      "lang": "en"
+    },
+    {
+      "text": "are tackling uh one of the most",
+      "duration": 3.6,
+      "offset": 6.0,
+      "lang": "en"
+    },
+    {
+      "text": "persistent bottlenecks in modern",
+      "duration": 4.48,
+      "offset": 7.52,
+      "lang": "en"
+    },
+    {
+      "text": "software creation. It&#39;s that chasm",
+      "duration": 5.2,
+      "offset": 9.6,
+      "lang": "en"
+    },
+    {
+      "text": "between a beautiful visually complete",
+      "duration": 6.64,
+      "offset": 12.0,
+      "lang": "en"
+    },
+    {
+      "text": "vision and a secure functional product.",
+      "duration": 5.84,
+      "offset": 14.8,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re diving deep into what we&#39;ve dubbed",
+      "duration": 3.92,
+      "offset": 18.64,
+      "lang": "en"
+    },
+    {
+      "text": "vibe coding. That electrifying",
+      "duration": 4.48,
+      "offset": 20.64,
+      "lang": "en"
+    },
+    {
+      "text": "high-speed rush of just designing",
+      "duration": 3.12,
+      "offset": 22.56,
+      "lang": "en"
+    },
+    {
+      "text": "something.",
+      "duration": 2.24,
+      "offset": 25.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And that vibe is such a powerful thing.",
+      "duration": 3.68,
+      "offset": 25.68,
+      "lang": "en"
+    },
+    {
+      "text": "thing. I mean, vibe coding is when you",
+      "duration": 4.0,
+      "offset": 27.36,
+      "lang": "en"
+    },
+    {
+      "text": "use these incredible design focused",
+      "duration": 4.0,
+      "offset": 29.36,
+      "lang": "en"
+    },
+    {
+      "text": "tools like lovable. You can literally",
+      "duration": 4.32,
+      "offset": 31.36,
+      "lang": "en"
+    },
+    {
+      "text": "spend an afternoon and produce a user",
+      "duration": 4.16,
+      "offset": 33.36,
+      "lang": "en"
+    },
+    {
+      "text": "interface, a UI that looks like it just",
+      "duration": 4.08,
+      "offset": 35.68,
+      "lang": "en"
+    },
+    {
+      "text": "came out of a polished multi-million",
+      "duration": 4.32,
+      "offset": 37.52,
+      "lang": "en"
+    },
+    {
+      "text": "dollar pitch deck. It captures the",
+      "duration": 3.92,
+      "offset": 39.76,
+      "lang": "en"
+    },
+    {
+      "text": "feeling of a finished product in",
+      "duration": 3.44,
+      "offset": 41.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; the feeling is intoxicating. You hit",
+      "duration": 3.44,
+      "offset": 43.68,
+      "lang": "en"
+    },
+    {
+      "text": "that moment of pure satisfaction, right?",
+      "duration": 3.2,
+      "offset": 45.28,
+      "lang": "en"
+    },
+    {
+      "text": "You&#39;re thinking, &quot;The hard part is over.",
+      "duration": 2.96,
+      "offset": 47.12,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m basically ready to launch.&quot; Yeah.",
+      "duration": 3.2,
+      "offset": 48.48,
+      "lang": "en"
+    },
+    {
+      "text": "But you and I both know that is",
+      "duration": 5.04,
+      "offset": 50.08,
+      "lang": "en"
+    },
+    {
+      "text": "precisely the moment the real uh",
+      "duration": 5.52,
+      "offset": 51.68,
+      "lang": "en"
+    },
+    {
+      "text": "difficult and often soul crushing work",
+      "duration": 4.48,
+      "offset": 55.12,
+      "lang": "en"
+    },
+    {
+      "text": "begins. So our mission today is pretty",
+      "duration": 4.48,
+      "offset": 57.2,
+      "lang": "en"
+    },
+    {
+      "text": "clear from the sources. We need to",
+      "duration": 5.04,
+      "offset": 59.6,
+      "lang": "en"
+    },
+    {
+      "text": "analyze this precise automated process.",
+      "duration": 4.56,
+      "offset": 61.68,
+      "lang": "en"
+    },
+    {
+      "text": "How do you convert that visually",
+      "duration": 3.68,
+      "offset": 64.64,
+      "lang": "en"
+    },
+    {
+      "text": "stunning nonfunctional design that",
+      "duration": 4.88,
+      "offset": 66.24,
+      "lang": "en"
+    },
+    {
+      "text": "perfect vibe into a fully secure",
+      "duration": 5.36,
+      "offset": 68.32,
+      "lang": "en"
+    },
+    {
+      "text": "database connected application and do it",
+      "duration": 4.16,
+      "offset": 71.12,
+      "lang": "en"
+    },
+    {
+      "text": "without falling into that traditional",
+      "duration": 4.4,
+      "offset": 73.68,
+      "lang": "en"
+    },
+    {
+      "text": "trap of writing endless dense technical",
+      "duration": 5.6,
+      "offset": 75.28,
+      "lang": "en"
+    },
+    {
+      "text": "code specs? The traditional trap is just",
+      "duration": 4.96,
+      "offset": 78.08,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a universal moment of frustration.",
+      "duration": 3.84,
+      "offset": 80.88,
+      "lang": "en"
+    },
+    {
+      "text": "Every solo founder, every creative",
+      "duration": 3.28,
+      "offset": 83.04,
+      "lang": "en"
+    },
+    {
+      "text": "developer, they all hit it. The",
+      "duration": 2.72,
+      "offset": 84.72,
+      "lang": "en"
+    },
+    {
+      "text": "prototype is gorgeous.",
+      "duration": 1.68,
+      "offset": 86.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Stunning.",
+      "duration": 3.04,
+      "offset": 87.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; But it is invariably a pure facade. It&#39;s",
+      "duration": 4.24,
+      "offset": 88.0,
+      "lang": "en"
+    },
+    {
+      "text": "a ghost town under the hood. It lacks",
+      "duration": 3.28,
+      "offset": 90.48,
+      "lang": "en"
+    },
+    {
+      "text": "the engine, the memory, and the security",
+      "duration": 3.12,
+      "offset": 92.24,
+      "lang": "en"
+    },
+    {
+      "text": "systems that make it usable in the real",
+      "duration": 2.8,
+      "offset": 93.76,
+      "lang": "en"
+    },
+    {
+      "text": "world. This is the moment when",
+      "duration": 3.12,
+      "offset": 95.36,
+      "lang": "en"
+    },
+    {
+      "text": "enthusiasm typically just dies",
+      "duration": 3.36,
+      "offset": 96.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; because you realize you need to stop",
+      "duration": 3.04,
+      "offset": 98.48,
+      "lang": "en"
+    },
+    {
+      "text": "everything, hire a full stack",
+      "duration": 3.6,
+      "offset": 99.92,
+      "lang": "en"
+    },
+    {
+      "text": "engineering team, and spend like 3",
+      "duration": 3.44,
+      "offset": 101.52,
+      "lang": "en"
+    },
+    {
+      "text": "months setting up all the unsexy",
+      "duration": 2.0,
+      "offset": 103.52,
+      "lang": "en"
+    },
+    {
+      "text": "plumbing.",
+      "duration": 1.92,
+      "offset": 104.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, let&#39;s unpack this journey.",
+      "duration": 3.12,
+      "offset": 105.52,
+      "lang": "en"
+    },
+    {
+      "text": "Starting with the initial allure of that",
+      "duration": 4.32,
+      "offset": 106.88,
+      "lang": "en"
+    },
+    {
+      "text": "prototype paradox itself, the sources",
+      "duration": 4.24,
+      "offset": 108.64,
+      "lang": "en"
+    },
+    {
+      "text": "use a specific example of a design",
+      "duration": 2.96,
+      "offset": 111.2,
+      "lang": "en"
+    },
+    {
+      "text": "called Planner Pro.",
+      "duration": 3.04,
+      "offset": 112.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Yeah. And if you look at Planner Pro, I",
+      "duration": 4.08,
+      "offset": 114.16,
+      "lang": "en"
+    },
+    {
+      "text": "mean it is visually enterprisegrade. It",
+      "duration": 4.16,
+      "offset": 115.92,
+      "lang": "en"
+    },
+    {
+      "text": "has that professional polish.",
+      "duration": 3.84,
+      "offset": 118.24,
+      "lang": "en"
+    },
+    {
+      "text": "Dashboards, client lists, project",
+      "duration": 5.2,
+      "offset": 120.08,
+      "lang": "en"
+    },
+    {
+      "text": "tracking, side navigation, all the",
+      "duration": 6.08,
+      "offset": 122.08,
+      "lang": "en"
+    },
+    {
+      "text": "visual cues of complex polished SAS",
+      "duration": 5.2,
+      "offset": 125.28,
+      "lang": "en"
+    },
+    {
+      "text": "software. You could show this to an",
+      "duration": 4.64,
+      "offset": 128.16,
+      "lang": "en"
+    },
+    {
+      "text": "early customer or, you know, an investor",
+      "duration": 4.16,
+      "offset": 130.48,
+      "lang": "en"
+    },
+    {
+      "text": "and they would be seriously impressed by",
+      "duration": 3.28,
+      "offset": 132.8,
+      "lang": "en"
+    },
+    {
+      "text": "the speed and quality of the visual",
+      "duration": 2.32,
+      "offset": 134.64,
+      "lang": "en"
+    },
+    {
+      "text": "execution.",
+      "duration": 3.2,
+      "offset": 136.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It&#39;s a testament to the power of vibe",
+      "duration": 5.28,
+      "offset": 136.96,
+      "lang": "en"
+    },
+    {
+      "text": "coding. It makes the promise feel so",
+      "duration": 3.76,
+      "offset": 139.28,
+      "lang": "en"
+    },
+    {
+      "text": "imminent.",
+      "duration": 3.12,
+      "offset": 142.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; But here&#39;s the reality check, right? The",
+      "duration": 5.52,
+      "offset": 143.04,
+      "lang": "en"
+    },
+    {
+      "text": "inherent paradox of vibe coding. You",
+      "duration": 5.04,
+      "offset": 145.36,
+      "lang": "en"
+    },
+    {
+      "text": "start tapping the navigation links that",
+      "duration": 4.64,
+      "offset": 148.56,
+      "lang": "en"
+    },
+    {
+      "text": "look so functional. Meetings, analytics,",
+      "duration": 3.92,
+      "offset": 150.4,
+      "lang": "en"
+    },
+    {
+      "text": "and what do you get?",
+      "duration": 1.6,
+      "offset": 153.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Nothing.",
+      "duration": 2.0,
+      "offset": 154.32,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; A beautiful centered message saying,",
+      "duration": 3.84,
+      "offset": 154.8,
+      "lang": "en"
+    },
+    {
+      "text": "&quot;Coming soon.&quot; Or maybe the button just",
+      "duration": 3.84,
+      "offset": 156.32,
+      "lang": "en"
+    },
+    {
+      "text": "does nothing at all. It&#39;s the ultimate",
+      "duration": 2.64,
+      "offset": 158.64,
+      "lang": "en"
+    },
+    {
+      "text": "digital dead end.",
+      "duration": 2.64,
+      "offset": 160.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s digital heartbreak because you",
+      "duration": 3.52,
+      "offset": 161.28,
+      "lang": "en"
+    },
+    {
+      "text": "realize all that time you spent creating",
+      "duration": 4.08,
+      "offset": 162.8,
+      "lang": "en"
+    },
+    {
+      "text": "the visuals, it&#39;s only brought you to",
+      "duration": 3.52,
+      "offset": 164.8,
+      "lang": "en"
+    },
+    {
+      "text": "the edge of the real problem.",
+      "duration": 3.68,
+      "offset": 166.88,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And that problem is foundational. We are",
+      "duration": 4.08,
+      "offset": 168.32,
+      "lang": "en"
+    },
+    {
+      "text": "missing the three critical elements of",
+      "duration": 4.4,
+      "offset": 170.56,
+      "lang": "en"
+    },
+    {
+      "text": "actual software. First, no database.",
+      "duration": 4.48,
+      "offset": 172.4,
+      "lang": "en"
+    },
+    {
+      "text": "That means no memory. The application",
+      "duration": 3.12,
+      "offset": 174.96,
+      "lang": "en"
+    },
+    {
+      "text": "forgets everything the second you",
+      "duration": 4.0,
+      "offset": 176.88,
+      "lang": "en"
+    },
+    {
+      "text": "refresh the page. Second, no login. So",
+      "duration": 5.68,
+      "offset": 178.08,
+      "lang": "en"
+    },
+    {
+      "text": "zero security or user protection. And",
+      "duration": 4.96,
+      "offset": 180.88,
+      "lang": "en"
+    },
+    {
+      "text": "third, and this is the critical one,",
+      "duration": 4.8,
+      "offset": 183.76,
+      "lang": "en"
+    },
+    {
+      "text": "zero back-end logic. So even if you",
+      "duration": 5.04,
+      "offset": 185.84,
+      "lang": "en"
+    },
+    {
+      "text": "could visually save a client name, the",
+      "duration": 4.0,
+      "offset": 188.56,
+      "lang": "en"
+    },
+    {
+      "text": "application wouldn&#39;t know how to query",
+      "duration": 4.24,
+      "offset": 190.88,
+      "lang": "en"
+    },
+    {
+      "text": "that data or run calculations on it or",
+      "duration": 4.96,
+      "offset": 192.56,
+      "lang": "en"
+    },
+    {
+      "text": "manage relationships between, you know,",
+      "duration": 3.76,
+      "offset": 195.12,
+      "lang": "en"
+    },
+    {
+      "text": "projects and meetings.",
+      "duration": 3.52,
+      "offset": 197.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So we have a perfectly styled shell, a",
+      "duration": 4.72,
+      "offset": 198.88,
+      "lang": "en"
+    },
+    {
+      "text": "truly excellent design asset, but it has",
+      "duration": 4.88,
+      "offset": 201.04,
+      "lang": "en"
+    },
+    {
+      "text": "no nervous system to respond to input.",
+      "duration": 4.24,
+      "offset": 203.6,
+      "lang": "en"
+    },
+    {
+      "text": "And crucially, it has zero financial",
+      "duration": 4.4,
+      "offset": 205.92,
+      "lang": "en"
+    },
+    {
+      "text": "value until that backend is built. That",
+      "duration": 4.32,
+      "offset": 207.84,
+      "lang": "en"
+    },
+    {
+      "text": "gap traditionally necessitates an",
+      "duration": 3.92,
+      "offset": 210.32,
+      "lang": "en"
+    },
+    {
+      "text": "immediate painful shift from creative",
+      "duration": 5.04,
+      "offset": 212.16,
+      "lang": "en"
+    },
+    {
+      "text": "high-speed design work to tedious,",
+      "duration": 5.36,
+      "offset": 214.24,
+      "lang": "en"
+    },
+    {
+      "text": "expensive, low-level engineering work.",
+      "duration": 4.56,
+      "offset": 217.2,
+      "lang": "en"
+    },
+    {
+      "text": "That shift is what kills projects.",
+      "duration": 4.08,
+      "offset": 219.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And that realization, that gap is",
+      "duration": 3.6,
+      "offset": 221.76,
+      "lang": "en"
+    },
+    {
+      "text": "precisely what the tools in our sources",
+      "duration": 4.24,
+      "offset": 223.68,
+      "lang": "en"
+    },
+    {
+      "text": "aim to bridge. The first crucial step is",
+      "duration": 4.0,
+      "offset": 225.36,
+      "lang": "en"
+    },
+    {
+      "text": "breaking away from the design tool",
+      "duration": 3.6,
+      "offset": 227.92,
+      "lang": "en"
+    },
+    {
+      "text": "itself. Because you cannot build a",
+      "duration": 4.4,
+      "offset": 229.36,
+      "lang": "en"
+    },
+    {
+      "text": "complex production application if the",
+      "duration": 4.0,
+      "offset": 231.52,
+      "lang": "en"
+    },
+    {
+      "text": "design is locked away in a proprietary",
+      "duration": 2.72,
+      "offset": 233.76,
+      "lang": "en"
+    },
+    {
+      "text": "ecosystem.",
+      "duration": 2.56,
+      "offset": 235.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s the vendor lock in we constantly",
+      "duration": 2.64,
+      "offset": 236.48,
+      "lang": "en"
+    },
+    {
+      "text": "struggle with. You build something",
+      "duration": 2.48,
+      "offset": 238.08,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful and feel like you own it. But",
+      "duration": 2.64,
+      "offset": 239.12,
+      "lang": "en"
+    },
+    {
+      "text": "the moment you need to export the",
+      "duration": 2.56,
+      "offset": 240.56,
+      "lang": "en"
+    },
+    {
+      "text": "functionality, the design tool just",
+      "duration": 3.2,
+      "offset": 241.76,
+      "lang": "en"
+    },
+    {
+      "text": "holds the underlying code hostage.",
+      "duration": 4.16,
+      "offset": 243.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Precisely. That&#39;s why the introduction",
+      "duration": 4.88,
+      "offset": 244.96,
+      "lang": "en"
+    },
+    {
+      "text": "of the lovable project downloader is so",
+      "duration": 4.64,
+      "offset": 247.28,
+      "lang": "en"
+    },
+    {
+      "text": "strategically critical. It&#39;s a simple",
+      "duration": 4.32,
+      "offset": 249.84,
+      "lang": "en"
+    },
+    {
+      "text": "Chrome extension, but its function is",
+      "duration": 5.04,
+      "offset": 251.92,
+      "lang": "en"
+    },
+    {
+      "text": "massive. It breaks the lock in. It lets",
+      "duration": 6.08,
+      "offset": 254.16,
+      "lang": "en"
+    },
+    {
+      "text": "the user extract the pure HTML, CSS, and",
+      "duration": 5.28,
+      "offset": 256.96,
+      "lang": "en"
+    },
+    {
+      "text": "structural JavaScript and the static",
+      "duration": 4.24,
+      "offset": 260.24,
+      "lang": "en"
+    },
+    {
+      "text": "design blueprint into a tangible asset",
+      "duration": 3.28,
+      "offset": 262.24,
+      "lang": "en"
+    },
+    {
+      "text": "they truly own.",
+      "duration": 2.72,
+      "offset": 264.48,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, so that&#39;s step one, taking",
+      "duration": 4.32,
+      "offset": 265.52,
+      "lang": "en"
+    },
+    {
+      "text": "ownership. We use the extension click",
+      "duration": 5.36,
+      "offset": 267.2,
+      "lang": "en"
+    },
+    {
+      "text": "download project as ZIP. Now we",
+      "duration": 4.8,
+      "offset": 269.84,
+      "lang": "en"
+    },
+    {
+      "text": "physically have the front end port in a",
+      "duration": 4.0,
+      "offset": 272.56,
+      "lang": "en"
+    },
+    {
+      "text": "file that visual blueprint we&#39;ve labored",
+      "duration": 4.48,
+      "offset": 274.64,
+      "lang": "en"
+    },
+    {
+      "text": "over. What&#39;s the next mechanical step to",
+      "duration": 5.28,
+      "offset": 276.56,
+      "lang": "en"
+    },
+    {
+      "text": "transition this static ZIP file into a",
+      "duration": 4.32,
+      "offset": 279.12,
+      "lang": "en"
+    },
+    {
+      "text": "dynamic application?",
+      "duration": 3.04,
+      "offset": 281.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Well, we move the blueprint to the",
+      "duration": 3.44,
+      "offset": 283.44,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence platform Avery. Avery is",
+      "duration": 3.12,
+      "offset": 284.88,
+      "lang": "en"
+    },
+    {
+      "text": "not just another development",
+      "duration": 2.88,
+      "offset": 286.88,
+      "lang": "en"
+    },
+    {
+      "text": "environment. It is uh the virtual",
+      "duration": 3.6,
+      "offset": 288.0,
+      "lang": "en"
+    },
+    {
+      "text": "engineer we are now hiring to analyze,",
+      "duration": 3.36,
+      "offset": 289.76,
+      "lang": "en"
+    },
+    {
+      "text": "understand and inject life into that",
+      "duration": 1.84,
+      "offset": 291.6,
+      "lang": "en"
+    },
+    {
+      "text": "shell.",
+      "duration": 1.68,
+      "offset": 293.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And the migration needs to feel",
+      "duration": 2.72,
+      "offset": 293.44,
+      "lang": "en"
+    },
+    {
+      "text": "frictionless. Otherwise, we&#39;ve just",
+      "duration": 3.44,
+      "offset": 294.8,
+      "lang": "en"
+    },
+    {
+      "text": "traded one technical hurdle for another.",
+      "duration": 4.48,
+      "offset": 296.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And it is it&#39;s entirely frictionless.",
+      "duration": 4.0,
+      "offset": 298.24,
+      "lang": "en"
+    },
+    {
+      "text": "You start a new application project",
+      "duration": 3.76,
+      "offset": 300.64,
+      "lang": "en"
+    },
+    {
+      "text": "inside Avery and instead of choosing",
+      "duration": 4.4,
+      "offset": 302.24,
+      "lang": "en"
+    },
+    {
+      "text": "start from scratch, you select migrate",
+      "duration": 3.6,
+      "offset": 304.4,
+      "lang": "en"
+    },
+    {
+      "text": "codebase.",
+      "duration": 3.2,
+      "offset": 306.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; You take that entire zip file from",
+      "duration": 4.0,
+      "offset": 308.0,
+      "lang": "en"
+    },
+    {
+      "text": "lovable and you just drop it in. Avery",
+      "duration": 3.52,
+      "offset": 309.84,
+      "lang": "en"
+    },
+    {
+      "text": "immediately ingests the visual",
+      "duration": 3.52,
+      "offset": 312.0,
+      "lang": "en"
+    },
+    {
+      "text": "structure, the navigation, the forms,",
+      "duration": 3.44,
+      "offset": 313.36,
+      "lang": "en"
+    },
+    {
+      "text": "the placeholder pages.",
+      "duration": 3.52,
+      "offset": 315.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So Avery is looking at the entire file",
+      "duration": 3.76,
+      "offset": 316.8,
+      "lang": "en"
+    },
+    {
+      "text": "structure of Planner Pro, all the",
+      "duration": 3.36,
+      "offset": 319.04,
+      "lang": "en"
+    },
+    {
+      "text": "buttons, all the ghost pages and",
+      "duration": 4.16,
+      "offset": 320.56,
+      "lang": "en"
+    },
+    {
+      "text": "preparing to give it intelligence. It&#39;s",
+      "duration": 4.56,
+      "offset": 322.4,
+      "lang": "en"
+    },
+    {
+      "text": "essentially reading the user&#39;s design",
+      "duration": 2.8,
+      "offset": 324.72,
+      "lang": "en"
+    },
+    {
+      "text": "intention.",
+      "duration": 2.32,
+      "offset": 326.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It&#39;s mapping the design structure to",
+      "duration": 4.24,
+      "offset": 327.52,
+      "lang": "en"
+    },
+    {
+      "text": "potential data models and functionality.",
+      "duration": 4.48,
+      "offset": 329.28,
+      "lang": "en"
+    },
+    {
+      "text": "It sees a visually defined form labeled",
+      "duration": 4.08,
+      "offset": 331.76,
+      "lang": "en"
+    },
+    {
+      "text": "add client and immediately understands",
+      "duration": 4.0,
+      "offset": 333.76,
+      "lang": "en"
+    },
+    {
+      "text": "the intent of that form. [snorts] It",
+      "duration": 3.84,
+      "offset": 335.84,
+      "lang": "en"
+    },
+    {
+      "text": "knows the user intends to create a new",
+      "duration": 4.08,
+      "offset": 337.76,
+      "lang": "en"
+    },
+    {
+      "text": "record even though mechanically the form",
+      "duration": 4.24,
+      "offset": 339.68,
+      "lang": "en"
+    },
+    {
+      "text": "currently does absolutely nothing. This",
+      "duration": 4.48,
+      "offset": 341.84,
+      "lang": "en"
+    },
+    {
+      "text": "visual interpretation is key. This",
+      "duration": 4.64,
+      "offset": 343.92,
+      "lang": "en"
+    },
+    {
+      "text": "transition from dropping a static file",
+      "duration": 4.4,
+      "offset": 346.32,
+      "lang": "en"
+    },
+    {
+      "text": "to actually instructing the system is",
+      "duration": 4.24,
+      "offset": 348.56,
+      "lang": "en"
+    },
+    {
+      "text": "the pivot point where we replace months",
+      "duration": 3.92,
+      "offset": 350.72,
+      "lang": "en"
+    },
+    {
+      "text": "of traditional development work. Instead",
+      "duration": 4.0,
+      "offset": 352.8,
+      "lang": "en"
+    },
+    {
+      "text": "of writing a 100page system requirement",
+      "duration": 3.92,
+      "offset": 354.64,
+      "lang": "en"
+    },
+    {
+      "text": "specification, we&#39;re just communicating",
+      "duration": 2.64,
+      "offset": 356.8,
+      "lang": "en"
+    },
+    {
+      "text": "with the system.",
+      "duration": 2.88,
+      "offset": 358.56,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The novelty here is that conversational",
+      "duration": 4.0,
+      "offset": 359.44,
+      "lang": "en"
+    },
+    {
+      "text": "approach. [snorts] The experience is",
+      "duration": 4.0,
+      "offset": 361.44,
+      "lang": "en"
+    },
+    {
+      "text": "described as feeling like you&#39;re texting",
+      "duration": 4.56,
+      "offset": 363.44,
+      "lang": "en"
+    },
+    {
+      "text": "a developer. You&#39;re moving away from",
+      "duration": 5.2,
+      "offset": 365.44,
+      "lang": "en"
+    },
+    {
+      "text": "formal technical documentation toward",
+      "duration": 5.04,
+      "offset": 368.0,
+      "lang": "en"
+    },
+    {
+      "text": "highle business goaloriented",
+      "duration": 4.72,
+      "offset": 370.64,
+      "lang": "en"
+    },
+    {
+      "text": "instructions. That translation process",
+      "duration": 4.0,
+      "offset": 373.04,
+      "lang": "en"
+    },
+    {
+      "text": "turning what the business wants into",
+      "duration": 3.84,
+      "offset": 375.36,
+      "lang": "en"
+    },
+    {
+      "text": "what the code needs is where most",
+      "duration": 4.16,
+      "offset": 377.04,
+      "lang": "en"
+    },
+    {
+      "text": "projects lose velocity and budget. You",
+      "duration": 4.24,
+      "offset": 379.2,
+      "lang": "en"
+    },
+    {
+      "text": "have to specify every single field,",
+      "duration": 3.92,
+      "offset": 381.2,
+      "lang": "en"
+    },
+    {
+      "text": "every data validation rule, every",
+      "duration": 2.32,
+      "offset": 383.44,
+      "lang": "en"
+    },
+    {
+      "text": "endpoint.",
+      "duration": 2.88,
+      "offset": 385.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Precisely. That formality is just",
+      "duration": 4.96,
+      "offset": 385.76,
+      "lang": "en"
+    },
+    {
+      "text": "eliminated. Here the user simply looks",
+      "duration": 4.56,
+      "offset": 388.0,
+      "lang": "en"
+    },
+    {
+      "text": "at the imported design and communicates",
+      "duration": 3.92,
+      "offset": 390.72,
+      "lang": "en"
+    },
+    {
+      "text": "the deficiencies they need fixed. The",
+      "duration": 3.44,
+      "offset": 392.56,
+      "lang": "en"
+    },
+    {
+      "text": "instructions given in the case study",
+      "duration": 2.88,
+      "offset": 394.64,
+      "lang": "en"
+    },
+    {
+      "text": "were beautifully simple. See those",
+      "duration": 3.44,
+      "offset": 396.0,
+      "lang": "en"
+    },
+    {
+      "text": "buttons, make them work. Connect a",
+      "duration": 4.0,
+      "offset": 397.52,
+      "lang": "en"
+    },
+    {
+      "text": "database. And the critical one,",
+      "duration": 4.0,
+      "offset": 399.44,
+      "lang": "en"
+    },
+    {
+      "text": "addressing the dead ends, build those",
+      "duration": 3.68,
+      "offset": 401.52,
+      "lang": "en"
+    },
+    {
+      "text": "empty analytics pages for real.",
+      "duration": 3.12,
+      "offset": 403.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That instruction, build those empty",
+      "duration": 3.44,
+      "offset": 405.2,
+      "lang": "en"
+    },
+    {
+      "text": "analytics pages for real, is truly",
+      "duration": 3.84,
+      "offset": 406.56,
+      "lang": "en"
+    },
+    {
+      "text": "asking the system to invent complexity",
+      "duration": 4.32,
+      "offset": 408.64,
+      "lang": "en"
+    },
+    {
+      "text": "based purely on context. But let&#39;s look",
+      "duration": 4.88,
+      "offset": 410.4,
+      "lang": "en"
+    },
+    {
+      "text": "under the hood. What is Avery actually",
+      "duration": 3.84,
+      "offset": 412.96,
+      "lang": "en"
+    },
+    {
+      "text": "doing when it receives those three",
+      "duration": 2.8,
+      "offset": 415.28,
+      "lang": "en"
+    },
+    {
+      "text": "simple instructions?",
+      "duration": 4.08,
+      "offset": 416.8,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Avery becomes the heavy lifter. First,",
+      "duration": 4.48,
+      "offset": 418.08,
+      "lang": "en"
+    },
+    {
+      "text": "based on the design context, seeing",
+      "duration": 4.8,
+      "offset": 420.88,
+      "lang": "en"
+    },
+    {
+      "text": "forms, client lists, project fields, it",
+      "duration": 5.68,
+      "offset": 422.56,
+      "lang": "en"
+    },
+    {
+      "text": "infers the necessary data structure. It",
+      "duration": 4.56,
+      "offset": 425.68,
+      "lang": "en"
+    },
+    {
+      "text": "automatically writes the database schema",
+      "duration": 3.84,
+      "offset": 428.24,
+      "lang": "en"
+    },
+    {
+      "text": "defining the fields, data types, and",
+      "duration": 3.92,
+      "offset": 430.24,
+      "lang": "en"
+    },
+    {
+      "text": "critical relationships between tables.",
+      "duration": 3.68,
+      "offset": 432.08,
+      "lang": "en"
+    },
+    {
+      "text": "This typically requires a specialized",
+      "duration": 2.72,
+      "offset": 434.16,
+      "lang": "en"
+    },
+    {
+      "text": "database architect.",
+      "duration": 3.36,
+      "offset": 435.76,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And the schema is the absolute backbone,",
+      "duration": 4.08,
+      "offset": 436.88,
+      "lang": "en"
+    },
+    {
+      "text": "the rules for how the data will be",
+      "duration": 4.24,
+      "offset": 439.12,
+      "lang": "en"
+    },
+    {
+      "text": "organized and stored permanently. That&#39;s",
+      "duration": 4.56,
+      "offset": 440.96,
+      "lang": "en"
+    },
+    {
+      "text": "very detail-oriented work where a single",
+      "duration": 4.24,
+      "offset": 443.36,
+      "lang": "en"
+    },
+    {
+      "text": "mistake can break the entire application",
+      "duration": 2.88,
+      "offset": 445.52,
+      "lang": "en"
+    },
+    {
+      "text": "later on.",
+      "duration": 3.04,
+      "offset": 447.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Absolutely. But Avery doesn&#39;t stop at",
+      "duration": 4.4,
+      "offset": 448.4,
+      "lang": "en"
+    },
+    {
+      "text": "the database. To allow the application",
+      "duration": 4.64,
+      "offset": 450.64,
+      "lang": "en"
+    },
+    {
+      "text": "to interact safely with that data, you",
+      "duration": 4.96,
+      "offset": 452.8,
+      "lang": "en"
+    },
+    {
+      "text": "need secure API endpoints.",
+      "duration": 4.24,
+      "offset": 455.28,
+      "lang": "en"
+    },
+    {
+      "text": "Avery automatically generates and",
+      "duration": 4.0,
+      "offset": 457.76,
+      "lang": "en"
+    },
+    {
+      "text": "secures these invisible pathways, the",
+      "duration": 3.6,
+      "offset": 459.52,
+      "lang": "en"
+    },
+    {
+      "text": "routes that allow the front end to",
+      "duration": 3.28,
+      "offset": 461.76,
+      "lang": "en"
+    },
+    {
+      "text": "safely communicate with the database",
+      "duration": 3.84,
+      "offset": 463.12,
+      "lang": "en"
+    },
+    {
+      "text": "without exposing the entire system to",
+      "duration": 2.72,
+      "offset": 465.04,
+      "lang": "en"
+    },
+    {
+      "text": "public scrutiny.",
+      "duration": 2.16,
+      "offset": 466.96,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Wait, I have to introduce some friction",
+      "duration": 3.2,
+      "offset": 467.76,
+      "lang": "en"
+    },
+    {
+      "text": "here. This is amazing speed, but how do",
+      "duration": 3.44,
+      "offset": 469.12,
+      "lang": "en"
+    },
+    {
+      "text": "we know the code Avery is generating for",
+      "duration": 3.52,
+      "offset": 470.96,
+      "lang": "en"
+    },
+    {
+      "text": "these endpoints is clean and scalable?",
+      "duration": 3.44,
+      "offset": 472.56,
+      "lang": "en"
+    },
+    {
+      "text": "Aren&#39;t we just moving the problem of",
+      "duration": 3.6,
+      "offset": 474.48,
+      "lang": "en"
+    },
+    {
+      "text": "technical debt from a human developer to",
+      "duration": 3.28,
+      "offset": 476.0,
+      "lang": "en"
+    },
+    {
+      "text": "a virtual one?",
+      "duration": 3.68,
+      "offset": 478.08,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s a crucial question. The sources",
+      "duration": 4.32,
+      "offset": 479.28,
+      "lang": "en"
+    },
+    {
+      "text": "emphasize that the code is optimized for",
+      "duration": 3.52,
+      "offset": 481.76,
+      "lang": "en"
+    },
+    {
+      "text": "production standards because the",
+      "duration": 3.84,
+      "offset": 483.6,
+      "lang": "en"
+    },
+    {
+      "text": "platform&#39;s core mandate is structural",
+      "duration": 4.56,
+      "offset": 485.28,
+      "lang": "en"
+    },
+    {
+      "text": "integrity and security.",
+      "duration": 4.88,
+      "offset": 487.44,
+      "lang": "en"
+    },
+    {
+      "text": "Furthermore, Avery automates state",
+      "duration": 4.72,
+      "offset": 489.84,
+      "lang": "en"
+    },
+    {
+      "text": "management. This is how the application",
+      "duration": 4.24,
+      "offset": 492.32,
+      "lang": "en"
+    },
+    {
+      "text": "keeps track of what the user is doing,",
+      "duration": 3.84,
+      "offset": 494.56,
+      "lang": "en"
+    },
+    {
+      "text": "filling out a form, moving between",
+      "duration": 4.8,
+      "offset": 496.56,
+      "lang": "en"
+    },
+    {
+      "text": "pages, handling errors without dropping",
+      "duration": 3.6,
+      "offset": 498.4,
+      "lang": "en"
+    },
+    {
+      "text": "information.",
+      "duration": 2.64,
+      "offset": 501.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And for anyone who&#39;s built a modern web",
+      "duration": 4.0,
+      "offset": 502.0,
+      "lang": "en"
+    },
+    {
+      "text": "application, state management is often",
+      "duration": 4.08,
+      "offset": 504.0,
+      "lang": "en"
+    },
+    {
+      "text": "the most confusing and timeconuming part",
+      "duration": 3.44,
+      "offset": 506.0,
+      "lang": "en"
+    },
+    {
+      "text": "of the whole build. That&#39;s where you",
+      "duration": 2.88,
+      "offset": 508.08,
+      "lang": "en"
+    },
+    {
+      "text": "lose days to debugging.",
+      "duration": 3.52,
+      "offset": 509.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It is the tedious, repetitive work that",
+      "duration": 4.72,
+      "offset": 510.96,
+      "lang": "en"
+    },
+    {
+      "text": "usually kills enthusiasm. Avery is",
+      "duration": 4.16,
+      "offset": 512.96,
+      "lang": "en"
+    },
+    {
+      "text": "automating the architecture, the",
+      "duration": 3.44,
+      "offset": 515.68,
+      "lang": "en"
+    },
+    {
+      "text": "security layer, and solving the hardest",
+      "duration": 4.16,
+      "offset": 517.12,
+      "lang": "en"
+    },
+    {
+      "text": "front-end communication problems, all",
+      "duration": 4.16,
+      "offset": 519.12,
+      "lang": "en"
+    },
+    {
+      "text": "based on interpreting visual structure",
+      "duration": 4.08,
+      "offset": 521.28,
+      "lang": "en"
+    },
+    {
+      "text": "and conversational intent. It&#39;s",
+      "duration": 4.24,
+      "offset": 523.28,
+      "lang": "en"
+    },
+    {
+      "text": "converting intention into functional",
+      "duration": 3.84,
+      "offset": 525.36,
+      "lang": "en"
+    },
+    {
+      "text": "production ready complexity. And the",
+      "duration": 3.28,
+      "offset": 527.52,
+      "lang": "en"
+    },
+    {
+      "text": "proof of life is almost instant because",
+      "duration": 3.68,
+      "offset": 529.2,
+      "lang": "en"
+    },
+    {
+      "text": "the moment Avery finishes processing the",
+      "duration": 3.6,
+      "offset": 530.8,
+      "lang": "en"
+    },
+    {
+      "text": "migration, which takes minutes, not",
+      "duration": 3.76,
+      "offset": 532.88,
+      "lang": "en"
+    },
+    {
+      "text": "weeks. The very next time you load the",
+      "duration": 3.36,
+      "offset": 534.4,
+      "lang": "en"
+    },
+    {
+      "text": "application, you&#39;re not seeing the",
+      "duration": 2.96,
+      "offset": 536.64,
+      "lang": "en"
+    },
+    {
+      "text": "Planner Pro dashboard, you see a login",
+      "duration": 2.4,
+      "offset": 537.76,
+      "lang": "en"
+    },
+    {
+      "text": "screen.",
+      "duration": 2.24,
+      "offset": 539.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; That&#39;s the automatic security kicking",
+      "duration": 3.92,
+      "offset": 540.16,
+      "lang": "en"
+    },
+    {
+      "text": "in. Avery interprets a need for data",
+      "duration": 4.72,
+      "offset": 541.84,
+      "lang": "en"
+    },
+    {
+      "text": "protection and immediately enforces it.",
+      "duration": 5.36,
+      "offset": 544.08,
+      "lang": "en"
+    },
+    {
+      "text": "It builds the full robust authentication",
+      "duration": 5.76,
+      "offset": 546.56,
+      "lang": "en"
+    },
+    {
+      "text": "flow. sign up, login, managing",
+      "duration": 5.36,
+      "offset": 549.44,
+      "lang": "en"
+    },
+    {
+      "text": "passwords, session tracking, all the",
+      "duration": 4.24,
+      "offset": 552.32,
+      "lang": "en"
+    },
+    {
+      "text": "boilerplate security requirements you",
+      "duration": 3.52,
+      "offset": 554.8,
+      "lang": "en"
+    },
+    {
+      "text": "need before you can even think about",
+      "duration": 3.28,
+      "offset": 556.56,
+      "lang": "en"
+    },
+    {
+      "text": "deploying an application to the public",
+      "duration": 1.92,
+      "offset": 558.32,
+      "lang": "en"
+    },
+    {
+      "text": "internet.",
+      "duration": 2.0,
+      "offset": 559.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And that&#39;s work that for a solo",
+      "duration": 4.32,
+      "offset": 560.24,
+      "lang": "en"
+    },
+    {
+      "text": "developer is often dreaded. It has zero",
+      "duration": 5.36,
+      "offset": 561.84,
+      "lang": "en"
+    },
+    {
+      "text": "creative payoff, but massive security",
+      "duration": 4.32,
+      "offset": 564.56,
+      "lang": "en"
+    },
+    {
+      "text": "risk if it&#39;s done incorrectly.",
+      "duration": 3.92,
+      "offset": 567.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It is the ultimate utility requirement.",
+      "duration": 3.76,
+      "offset": 568.88,
+      "lang": "en"
+    },
+    {
+      "text": "But once you log in, the dashboard",
+      "duration": 3.28,
+      "offset": 571.12,
+      "lang": "en"
+    },
+    {
+      "text": "visually looks exactly like the lovable",
+      "duration": 4.8,
+      "offset": 572.64,
+      "lang": "en"
+    },
+    {
+      "text": "prototype. The key word here is looks.",
+      "duration": 5.12,
+      "offset": 574.4,
+      "lang": "en"
+    },
+    {
+      "text": "Functionally, everything has changed. We",
+      "duration": 4.24,
+      "offset": 577.44,
+      "lang": "en"
+    },
+    {
+      "text": "need to run the critical test data",
+      "duration": 2.72,
+      "offset": 579.52,
+      "lang": "en"
+    },
+    {
+      "text": "persistence.",
+      "duration": 2.48,
+      "offset": 581.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Let&#39;s run the test from the case study.",
+      "duration": 3.76,
+      "offset": 582.24,
+      "lang": "en"
+    },
+    {
+      "text": "They navigate to the client list and add",
+      "duration": 3.76,
+      "offset": 584.16,
+      "lang": "en"
+    },
+    {
+      "text": "a new client named John Doe through the",
+      "duration": 2.88,
+      "offset": 586.0,
+      "lang": "en"
+    },
+    {
+      "text": "applications form.",
+      "duration": 2.64,
+      "offset": 587.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Okay, so in the original lovable",
+      "duration": 3.28,
+      "offset": 588.88,
+      "lang": "en"
+    },
+    {
+      "text": "prototype, you would type in the name,",
+      "duration": 3.92,
+      "offset": 590.56,
+      "lang": "en"
+    },
+    {
+      "text": "hit save, and you might get a visually",
+      "duration": 4.64,
+      "offset": 592.16,
+      "lang": "en"
+    },
+    {
+      "text": "satisfying animation. But if you close",
+      "duration": 4.88,
+      "offset": 594.48,
+      "lang": "en"
+    },
+    {
+      "text": "the browser, logged out or refresh the",
+      "duration": 5.6,
+      "offset": 596.8,
+      "lang": "en"
+    },
+    {
+      "text": "page, John Doe was gone forever. The",
+      "duration": 4.4,
+      "offset": 599.36,
+      "lang": "en"
+    },
+    {
+      "text": "data was just faked in the browser",
+      "duration": 4.4,
+      "offset": 602.4,
+      "lang": "en"
+    },
+    {
+      "text": "window. But in this Avery migrated",
+      "duration": 5.36,
+      "offset": 603.76,
+      "lang": "en"
+    },
+    {
+      "text": "version, what happens when the user hits",
+      "duration": 2.96,
+      "offset": 606.8,
+      "lang": "en"
+    },
+    {
+      "text": "save?",
+      "duration": 2.96,
+      "offset": 609.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The data is permanent. It is routed",
+      "duration": 4.64,
+      "offset": 609.76,
+      "lang": "en"
+    },
+    {
+      "text": "through Avery&#39;s generated secured API",
+      "duration": 4.4,
+      "offset": 612.08,
+      "lang": "en"
+    },
+    {
+      "text": "endpoint written into the newly",
+      "duration": 3.92,
+      "offset": 614.4,
+      "lang": "en"
+    },
+    {
+      "text": "provisioned database and immediately",
+      "duration": 3.52,
+      "offset": 616.48,
+      "lang": "en"
+    },
+    {
+      "text": "reflected in the client list. You",
+      "duration": 3.68,
+      "offset": 618.32,
+      "lang": "en"
+    },
+    {
+      "text": "refresh the page, you close your laptop,",
+      "duration": 4.32,
+      "offset": 620.0,
+      "lang": "en"
+    },
+    {
+      "text": "you log in on another device, John Doe",
+      "duration": 4.56,
+      "offset": 622.0,
+      "lang": "en"
+    },
+    {
+      "text": "is still there. That single moment",
+      "duration": 4.48,
+      "offset": 624.32,
+      "lang": "en"
+    },
+    {
+      "text": "confirms the transition from a prototype",
+      "duration": 4.56,
+      "offset": 626.56,
+      "lang": "en"
+    },
+    {
+      "text": "to a functional persistent production",
+      "duration": 4.32,
+      "offset": 628.8,
+      "lang": "en"
+    },
+    {
+      "text": "application. That is the single most",
+      "duration": 3.76,
+      "offset": 631.12,
+      "lang": "en"
+    },
+    {
+      "text": "important signal that the deep technical",
+      "duration": 4.16,
+      "offset": 633.12,
+      "lang": "en"
+    },
+    {
+      "text": "work is done. And this persistence feeds",
+      "duration": 4.64,
+      "offset": 634.88,
+      "lang": "en"
+    },
+    {
+      "text": "directly into the second major triumph,",
+      "duration": 3.52,
+      "offset": 637.28,
+      "lang": "en"
+    },
+    {
+      "text": "the analytics page.",
+      "duration": 3.12,
+      "offset": 639.52,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The page that less than 10 minutes ago",
+      "duration": 3.44,
+      "offset": 640.8,
+      "lang": "en"
+    },
+    {
+      "text": "in the prototype was just mockingly",
+      "duration": 2.96,
+      "offset": 642.64,
+      "lang": "en"
+    },
+    {
+      "text": "saying coming soon.",
+      "duration": 2.96,
+      "offset": 644.24,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So now what does it show?",
+      "duration": 4.0,
+      "offset": 645.6,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Now it is displaying and graphing real",
+      "duration": 4.8,
+      "offset": 647.2,
+      "lang": "en"
+    },
+    {
+      "text": "data. And this is crucial because it",
+      "duration": 4.4,
+      "offset": 649.6,
+      "lang": "en"
+    },
+    {
+      "text": "demonstrates Avery&#39;s ability not just to",
+      "duration": 4.4,
+      "offset": 652.0,
+      "lang": "en"
+    },
+    {
+      "text": "wire up existing design elements, but to",
+      "duration": 4.8,
+      "offset": 654.0,
+      "lang": "en"
+    },
+    {
+      "text": "fill in the design gaps. It looked at",
+      "duration": 4.48,
+      "offset": 656.4,
+      "lang": "en"
+    },
+    {
+      "text": "the structure, saw the data models it",
+      "duration": 4.56,
+      "offset": 658.8,
+      "lang": "en"
+    },
+    {
+      "text": "created, clients, projects, and so on,",
+      "duration": 5.28,
+      "offset": 660.88,
+      "lang": "en"
+    },
+    {
+      "text": "and wrote the actual business logic to",
+      "duration": 5.36,
+      "offset": 663.36,
+      "lang": "en"
+    },
+    {
+      "text": "derive meaningful metrics. It calculated",
+      "duration": 4.64,
+      "offset": 666.16,
+      "lang": "en"
+    },
+    {
+      "text": "metrics like projects completed last",
+      "duration": 4.4,
+      "offset": 668.72,
+      "lang": "en"
+    },
+    {
+      "text": "quarter and rendered that data visually",
+      "duration": 4.32,
+      "offset": 670.8,
+      "lang": "en"
+    },
+    {
+      "text": "entirely based on the instruction to",
+      "duration": 3.76,
+      "offset": 673.12,
+      "lang": "en"
+    },
+    {
+      "text": "make the analytics real.",
+      "duration": 3.2,
+      "offset": 675.12,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So, it created the necessary",
+      "duration": 3.28,
+      "offset": 676.88,
+      "lang": "en"
+    },
+    {
+      "text": "calculations and visualizations from",
+      "duration": 3.76,
+      "offset": 678.32,
+      "lang": "en"
+    },
+    {
+      "text": "scratch, based purely on interpreting",
+      "duration": 4.24,
+      "offset": 680.16,
+      "lang": "en"
+    },
+    {
+      "text": "the intent of what an analytics page for",
+      "duration": 4.4,
+      "offset": 682.08,
+      "lang": "en"
+    },
+    {
+      "text": "this kind of app should be. that truly",
+      "duration": 3.52,
+      "offset": 684.4,
+      "lang": "en"
+    },
+    {
+      "text": "defines the role of the virtual",
+      "duration": 1.92,
+      "offset": 686.48,
+      "lang": "en"
+    },
+    {
+      "text": "engineer.",
+      "duration": 1.92,
+      "offset": 687.92,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It&#39;s inference applied to software",
+      "duration": 3.36,
+      "offset": 688.4,
+      "lang": "en"
+    },
+    {
+      "text": "construction. It saves hours of writing",
+      "duration": 3.52,
+      "offset": 689.84,
+      "lang": "en"
+    },
+    {
+      "text": "calculation logic and setting up",
+      "duration": 2.56,
+      "offset": 691.76,
+      "lang": "en"
+    },
+    {
+      "text": "charting libraries.",
+      "duration": 2.64,
+      "offset": 693.36,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And after all that heavy lifting, the",
+      "duration": 3.6,
+      "offset": 694.32,
+      "lang": "en"
+    },
+    {
+      "text": "data, the security, the analytics logic,",
+      "duration": 3.84,
+      "offset": 696.0,
+      "lang": "en"
+    },
+    {
+      "text": "the state management, the final step is",
+      "duration": 2.72,
+      "offset": 697.92,
+      "lang": "en"
+    },
+    {
+      "text": "deployment.",
+      "duration": 2.72,
+      "offset": 699.84,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; And that&#39;s the easiest step of all. They",
+      "duration": 4.64,
+      "offset": 700.64,
+      "lang": "en"
+    },
+    {
+      "text": "just hit deploy. Avery handles the",
+      "duration": 4.72,
+      "offset": 702.56,
+      "lang": "en"
+    },
+    {
+      "text": "secure deployment infrastructure,",
+      "duration": 3.6,
+      "offset": 705.28,
+      "lang": "en"
+    },
+    {
+      "text": "spinning up the necessary cloud",
+      "duration": 3.84,
+      "offset": 707.28,
+      "lang": "en"
+    },
+    {
+      "text": "resources, ensuring the database is",
+      "duration": 4.0,
+      "offset": 708.88,
+      "lang": "en"
+    },
+    {
+      "text": "correctly linked and making the",
+      "duration": 4.72,
+      "offset": 711.12,
+      "lang": "en"
+    },
+    {
+      "text": "application live and scalable instantly.",
+      "duration": 4.32,
+      "offset": 712.88,
+      "lang": "en"
+    },
+    {
+      "text": "You get production quality without",
+      "duration": 2.8,
+      "offset": 715.84,
+      "lang": "en"
+    },
+    {
+      "text": "needing to worry about the underlying",
+      "duration": 2.4,
+      "offset": 717.2,
+      "lang": "en"
+    },
+    {
+      "text": "server management.",
+      "duration": 2.64,
+      "offset": 718.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; So what we&#39;re looking at here is a brand",
+      "duration": 4.16,
+      "offset": 719.6,
+      "lang": "en"
+    },
+    {
+      "text": "new paradigm. The fun and visual",
+      "duration": 4.96,
+      "offset": 721.28,
+      "lang": "en"
+    },
+    {
+      "text": "satisfaction of vibe coding in lovable",
+      "duration": 5.04,
+      "offset": 723.76,
+      "lang": "en"
+    },
+    {
+      "text": "no longer leads to an inevitable soulc",
+      "duration": 5.28,
+      "offset": 726.24,
+      "lang": "en"
+    },
+    {
+      "text": "crushing bottleneck. It transitions",
+      "duration": 5.12,
+      "offset": 728.8,
+      "lang": "en"
+    },
+    {
+      "text": "seamlessly into a stable, secure",
+      "duration": 4.48,
+      "offset": 731.52,
+      "lang": "en"
+    },
+    {
+      "text": "production application courtesy of",
+      "duration": 2.72,
+      "offset": 733.92,
+      "lang": "en"
+    },
+    {
+      "text": "Avery.",
+      "duration": 2.56,
+      "offset": 736.0,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The overall benefit is the strategic",
+      "duration": 3.84,
+      "offset": 736.64,
+      "lang": "en"
+    },
+    {
+      "text": "elimination of the biggest bottleneck,",
+      "duration": 4.0,
+      "offset": 738.56,
+      "lang": "en"
+    },
+    {
+      "text": "the need to hire a senior developer or a",
+      "duration": 5.04,
+      "offset": 740.48,
+      "lang": "en"
+    },
+    {
+      "text": "CTO immediately after the design phase.",
+      "duration": 5.04,
+      "offset": 742.56,
+      "lang": "en"
+    },
+    {
+      "text": "You can take a visually complete design",
+      "duration": 4.4,
+      "offset": 745.52,
+      "lang": "en"
+    },
+    {
+      "text": "and using conversational instructions,",
+      "duration": 4.08,
+      "offset": 747.6,
+      "lang": "en"
+    },
+    {
+      "text": "turn it into production software that is",
+      "duration": 4.16,
+      "offset": 749.92,
+      "lang": "en"
+    },
+    {
+      "text": "functional, secure, and ready to scale.",
+      "duration": 4.4,
+      "offset": 751.68,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It fundamentally changes who can launch",
+      "duration": 4.24,
+      "offset": 754.08,
+      "lang": "en"
+    },
+    {
+      "text": "complex datadriven software. It takes",
+      "duration": 4.16,
+      "offset": 756.08,
+      "lang": "en"
+    },
+    {
+      "text": "what used to require an engineering team",
+      "duration": 3.68,
+      "offset": 758.32,
+      "lang": "en"
+    },
+    {
+      "text": "and makes it accessible to a single",
+      "duration": 3.44,
+      "offset": 760.24,
+      "lang": "en"
+    },
+    {
+      "text": "creator, allowing them to focus on",
+      "duration": 3.92,
+      "offset": 762.0,
+      "lang": "en"
+    },
+    {
+      "text": "market validation and feature refinement",
+      "duration": 3.76,
+      "offset": 763.68,
+      "lang": "en"
+    },
+    {
+      "text": "rather than spending months on the",
+      "duration": 2.16,
+      "offset": 765.92,
+      "lang": "en"
+    },
+    {
+      "text": "plumbing.",
+      "duration": 3.2,
+      "offset": 767.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The focus shifts entirely from writing",
+      "duration": 5.36,
+      "offset": 768.08,
+      "lang": "en"
+    },
+    {
+      "text": "boilerplate code to defining outcomes",
+      "duration": 4.08,
+      "offset": 770.64,
+      "lang": "en"
+    },
+    {
+      "text": "and business logic.",
+      "duration": 4.08,
+      "offset": 773.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It&#39;s a remarkable loop. Design intention",
+      "duration": 4.96,
+      "offset": 774.72,
+      "lang": "en"
+    },
+    {
+      "text": "converted into functional code with the",
+      "duration": 4.8,
+      "offset": 777.52,
+      "lang": "en"
+    },
+    {
+      "text": "platform filling in necessary logic gaps",
+      "duration": 5.44,
+      "offset": 779.68,
+      "lang": "en"
+    },
+    {
+      "text": "like that analytics page based purely on",
+      "duration": 5.84,
+      "offset": 782.32,
+      "lang": "en"
+    },
+    {
+      "text": "context. It&#39;s automation doing truly",
+      "duration": 4.96,
+      "offset": 785.12,
+      "lang": "en"
+    },
+    {
+      "text": "creative interpretive work.",
+      "duration": 3.76,
+      "offset": 788.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; It is and it really highlights how",
+      "duration": 4.08,
+      "offset": 790.08,
+      "lang": "en"
+    },
+    {
+      "text": "quickly the definition of fundamental",
+      "duration": 4.24,
+      "offset": 791.92,
+      "lang": "en"
+    },
+    {
+      "text": "technical expertise is changing.",
+      "duration": 3.68,
+      "offset": 794.16,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; Which brings us to our final thought for",
+      "duration": 3.68,
+      "offset": 796.16,
+      "lang": "en"
+    },
+    {
+      "text": "you to explore as you consider your next",
+      "duration": 4.56,
+      "offset": 797.84,
+      "lang": "en"
+    },
+    {
+      "text": "project. We&#39;ve seen a virtual engineer",
+      "duration": 4.8,
+      "offset": 799.84,
+      "lang": "en"
+    },
+    {
+      "text": "successfully interpret design context",
+      "duration": 4.48,
+      "offset": 802.4,
+      "lang": "en"
+    },
+    {
+      "text": "and conversational instructions to write",
+      "duration": 4.64,
+      "offset": 804.64,
+      "lang": "en"
+    },
+    {
+      "text": "complex logic building authentication,",
+      "duration": 5.04,
+      "offset": 806.88,
+      "lang": "en"
+    },
+    {
+      "text": "calculating analytics, managing state.",
+      "duration": 4.56,
+      "offset": 809.28,
+      "lang": "en"
+    },
+    {
+      "text": "If that level of interpretive automation",
+      "duration": 3.84,
+      "offset": 811.92,
+      "lang": "en"
+    },
+    {
+      "text": "is possible today, writing the",
+      "duration": 4.16,
+      "offset": 813.84,
+      "lang": "en"
+    },
+    {
+      "text": "functional plumbing of an application,",
+      "duration": 3.76,
+      "offset": 815.76,
+      "lang": "en"
+    },
+    {
+      "text": "what is the next higher layer of",
+      "duration": 3.68,
+      "offset": 818.0,
+      "lang": "en"
+    },
+    {
+      "text": "complexity? Maybe highlevel strategic",
+      "duration": 4.16,
+      "offset": 819.52,
+      "lang": "en"
+    },
+    {
+      "text": "data modeling or complex multi-system",
+      "duration": 3.76,
+      "offset": 821.68,
+      "lang": "en"
+    },
+    {
+      "text": "architecture that will be fully",
+      "duration": 3.52,
+      "offset": 823.68,
+      "lang": "en"
+    },
+    {
+      "text": "automated and generated next year.",
+      "duration": 3.76,
+      "offset": 825.44,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; The question shifts from what can be",
+      "duration": 4.0,
+      "offset": 827.2,
+      "lang": "en"
+    },
+    {
+      "text": "coded to what can be intended.",
+      "duration": 3.6,
+      "offset": 829.2,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; We hope this deep dive gave you the",
+      "duration": 3.44,
+      "offset": 831.2,
+      "lang": "en"
+    },
+    {
+      "text": "shortcuts and the strategic insights you",
+      "duration": 5.88,
+      "offset": 832.8,
+      "lang": "en"
+    },
+    {
+      "text": "needed. We&#39;ll catch you next time.",
+      "duration": 4.04,
+      "offset": 834.64,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.02,
+      "offset": 842.34,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "ticker": "MIDJOURNEY",
+  "generated_at": "2026-04-21T21:05:51",
+  "retry_rounds": 3,
+  "min_duration_min": 10,
+  "total_records": 1,
+  "success_records": 1,
+  "skipped_records": 0,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "success",
+      "title": "How Computers Dream with David Holz",
+      "date": "2022-11-10",
+      "podcast": "What Future with Joshua Topolsky",
+      "audio_url": "https://iheartmedia.mc.tritondigital.com/OMNY_WHATFUTURE_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio/direct/t1668067245/How_Computers_Dream_with_David_Holz.mp3?t=1668067245&starship-rollup=v0_414414444444&starship-episode-id=f00f231d-1338-49fe-9233-daf6eec27beb&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa&utm_source=Podcast",
+      "source_audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio.mp3?utm_source=Podcast&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa",
+      "local_audio_path": "",
+      "standard_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/podcasts/transcripts/2022-11-10_How-Computers-Dream-with-David-Holz.md",
+      "chars": 80111,
+      "task_id": "c2dcf80a-a847-4adb-9375-411c9f891821",
+      "attempt_round": 1,
+      "tried_urls": [
+        "groq:https://iheartmedia.mc.tritondigital.com/OMNY_WHATFUTURE_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio/direct/t1668067245/How_Computers_Dream_with_David_Holz.mp3?t=1668067245&starship-rollup=v0_414414444444&starship-episode-id=f00f231d-1338-49fe-9233-daf6eec27beb&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa&utm_source=Podcast",
+        "groq:https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio.mp3?utm_source=Podcast&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa",
+        "dashscope:https://iheartmedia.mc.tritondigital.com/OMNY_WHATFUTURE_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio/direct/t1668067245/How_Computers_Dream_with_David_Holz.mp3?t=1668067245&starship-rollup=v0_414414444444&starship-episode-id=f00f231d-1338-49fe-9233-daf6eec27beb&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa&utm_source=Podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "groq",
+          "url": "https://iheartmedia.mc.tritondigital.com/OMNY_WHATFUTURE_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio/direct/t1668067245/How_Computers_Dream_with_David_Holz.mp3?t=1668067245&starship-rollup=v0_414414444444&starship-episode-id=f00f231d-1338-49fe-9233-daf6eec27beb&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa&utm_source=Podcast",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "groq",
+          "url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio.mp3?utm_source=Podcast&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa",
+          "success": false,
+          "error": "Groq failed: failed to retrieve media: received status code: 302"
+        },
+        {
+          "provider": "dashscope",
+          "url": "https://iheartmedia.mc.tritondigital.com/OMNY_WHATFUTURE_PODCAST_P/media/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/40fa8192-202d-4013-a673-af2500f51945/ac0a437f-8c5a-4c30-b2fc-af49005b22b7/audio/direct/t1668067245/How_Computers_Dream_with_David_Holz.mp3?t=1668067245&starship-rollup=v0_414414444444&starship-episode-id=f00f231d-1338-49fe-9233-daf6eec27beb&in_playlist=62c5a2fc-0e1b-4dfb-a223-af2500f55bfa&utm_source=Podcast",
+          "success": true,
+          "error": ""
+        }
+      ],
+      "transcription_provider": "dashscope",
+      "transcription_engine": "dashscope_paraformer_v2"
+    }
+  ]
+}

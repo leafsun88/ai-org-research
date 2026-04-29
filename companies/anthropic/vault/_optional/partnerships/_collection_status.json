@@ -1,0 +1,46 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "enterprise_partnerships",
+  "generated_at": "2026-04-17T13:23:55",
+  "total_records": 5,
+  "success_records": 2,
+  "failure_records": 3,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+      "title": "salesforce-anthropic-expanded-partnership",
+      "chars": 6076,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/enterprise_partnerships/unknown_salesforce-anthropic-expanded-partnership.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+      "title": "driving-ai-transformation-with-claude",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://newsroom.accenture.com/news/2025/accenture-and-anthropic-launch-multi-year-partnership-to-drive-enterprise-ai-innovation-and-value-across-industries",
+      "title": "accenture-and-anthropic-launch-multi-year-partnership-to-drive-enterprise-ai-innovation-and-value-across-industries",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://news.cognizant.com/2025-11-04-Cognizant-Adopts-Anthropics-Claude-to-Accelerate-Enterprise-AI-Adoption-at-Scale-and-Deploys-Claude-to-Drive-Internal-AI-Transformation?asPDF=1",
+      "title": "2025-11-04-Cognizant-Adopts-Anthropics-Claude-to-Accelerate-Enterprise-AI-Adoption-at-Scale-and-Deploys-Claude-to-Drive-Internal-AI-Transformation?asPDF=1",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.anthropic.com/news/maryland-partnership",
+      "title": "maryland-partnership",
+      "chars": 3288,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/enterprise_partnerships/unknown_maryland-partnership.md"
+    }
+  ]
+}

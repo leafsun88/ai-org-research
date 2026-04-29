@@ -1,0 +1,98 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "status": "pass",
+  "model_usability": "draft_model",
+  "checks": {
+    "workbook_created": {
+      "passed": true,
+      "path": "/Users/leafsun/Desktop/AI Org研究/companies/sandisk/vault/public_company/models/2026-04-25/financial_model.xlsx"
+    },
+    "required_sheets": {
+      "passed": true,
+      "sheets": [
+        "Summary",
+        "Historical Statements",
+        "Operating Metrics",
+        "Forecast",
+        "DCF",
+        "Comps",
+        "Sensitivity",
+        "Capital Signals",
+        "Source Map",
+        "Assumptions"
+      ]
+    },
+    "formula_error_tokens": {
+      "passed": true,
+      "errors": []
+    },
+    "workbook_openable": {
+      "passed": true
+    },
+    "annual_statements": {
+      "passed": true,
+      "periods": 1
+    },
+    "quarterly_statements": {
+      "passed": true,
+      "periods": 4
+    },
+    "market_data": {
+      "passed": true
+    },
+    "valuation": {
+      "passed": true
+    },
+    "annual_metric_completeness": {
+      "passed": true,
+      "missing": [],
+      "required": [
+        "revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "operating_cash_flow",
+        "capital_expenditures",
+        "cash",
+        "debt",
+        "assets",
+        "liabilities",
+        "stockholders_equity",
+        "shares_outstanding"
+      ]
+    },
+    "quarterly_income_statement": {
+      "passed": true,
+      "rows_with_revenue_and_income": 4,
+      "periods": 4
+    },
+    "market_cap_confidence": {
+      "passed": true,
+      "source": "stockanalysis_statistics_page",
+      "confidence": "medium"
+    },
+    "comps_multiples": {
+      "passed": true,
+      "peers": 4,
+      "peers_with_multiples": 3
+    },
+    "deterministic_dcf_outputs": {
+      "passed": true,
+      "status": "calculated",
+      "implied_price": 25.73837927560534
+    }
+  },
+  "gaps": [],
+  "warnings": [
+    "dcf_uses_auto_default_assumptions",
+    "formula_values_are_not_recalculated_by_openpyxl; deterministic DCF output is stored in model_inputs.json"
+  ],
+  "fatal_errors": [],
+  "next_steps": [
+    "Review auto_default assumptions before relying on valuation output.",
+    "Add paid transcript or ASR transcript source if official IR transcript remains unavailable.",
+    "Add explicit peer_tickers in config before using comps output for decisions."
+  ],
+  "updated_at": "2026-04-25T23:16:03"
+}

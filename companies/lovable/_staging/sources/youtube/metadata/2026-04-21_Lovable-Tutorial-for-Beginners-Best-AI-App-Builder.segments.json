@@ -1,0 +1,2446 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "6VejFu1nEYs",
+  "url": "https://www.youtube.com/watch?v=6VejFu1nEYs",
+  "title": "Lovable Tutorial for Beginners (Best AI App Builder?)",
+  "channel": "Volo Builds",
+  "source_queries": [
+    "Lovable AI app builder podcast",
+    "Lovable enterprise AI app builder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:13:40",
+  "segments": [
+    {
+      "text": "today we&#39;re taking a look at lovable",
+      "duration": 3.8,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "which is a brand new AI powered app",
+      "duration": 4.6,
+      "offset": 1.76,
+      "lang": "en"
+    },
+    {
+      "text": "builder now I&#39;ve tried a number of these",
+      "duration": 4.0,
+      "offset": 3.88,
+      "lang": "en"
+    },
+    {
+      "text": "in the past and I haven&#39;t been",
+      "duration": 3.4,
+      "offset": 6.36,
+      "lang": "en"
+    },
+    {
+      "text": "particularly impressed with any of them",
+      "duration": 3.88,
+      "offset": 7.88,
+      "lang": "en"
+    },
+    {
+      "text": "up till this point and I&#39;ve gravitated",
+      "duration": 4.28,
+      "offset": 9.76,
+      "lang": "en"
+    },
+    {
+      "text": "more towards code Centric tools such as",
+      "duration": 4.56,
+      "offset": 11.76,
+      "lang": "en"
+    },
+    {
+      "text": "cursor and wind surf but after I tried",
+      "duration": 4.32,
+      "offset": 14.04,
+      "lang": "en"
+    },
+    {
+      "text": "lovable I was actually pretty impressed",
+      "duration": 3.88,
+      "offset": 16.32,
+      "lang": "en"
+    },
+    {
+      "text": "so let me show you what it&#39;s all about",
+      "duration": 3.28,
+      "offset": 18.36,
+      "lang": "en"
+    },
+    {
+      "text": "and some of the features that really",
+      "duration": 3.4,
+      "offset": 20.2,
+      "lang": "en"
+    },
+    {
+      "text": "make it stand out as with most of these",
+      "duration": 3.6,
+      "offset": 21.64,
+      "lang": "en"
+    },
+    {
+      "text": "tools you&#39;re going to start out by",
+      "duration": 3.84,
+      "offset": 23.6,
+      "lang": "en"
+    },
+    {
+      "text": "typing a prompt in here that describes",
+      "duration": 3.88,
+      "offset": 25.24,
+      "lang": "en"
+    },
+    {
+      "text": "what you want to build in this case I&#39;m",
+      "duration": 3.52,
+      "offset": 27.44,
+      "lang": "en"
+    },
+    {
+      "text": "going to be building a note taking app",
+      "duration": 3.32,
+      "offset": 29.12,
+      "lang": "en"
+    },
+    {
+      "text": "that allows you to write a note and",
+      "duration": 2.96,
+      "offset": 30.96,
+      "lang": "en"
+    },
+    {
+      "text": "upload an image and then be able to",
+      "duration": 3.64,
+      "offset": 32.44,
+      "lang": "en"
+    },
+    {
+      "text": "share that note with other users via a",
+      "duration": 4.64,
+      "offset": 33.92,
+      "lang": "en"
+    },
+    {
+      "text": "unique URL it should be somewhat similar",
+      "duration": 4.72,
+      "offset": 36.08,
+      "lang": "en"
+    },
+    {
+      "text": "to Google keep all right so we&#39;ll send",
+      "duration": 4.64,
+      "offset": 38.56,
+      "lang": "en"
+    },
+    {
+      "text": "that off and now it&#39;s going to start",
+      "duration": 4.48,
+      "offset": 40.8,
+      "lang": "en"
+    },
+    {
+      "text": "doing some thinking and planning on how",
+      "duration": 4.92,
+      "offset": 43.2,
+      "lang": "en"
+    },
+    {
+      "text": "to actually implement this for me all",
+      "duration": 4.56,
+      "offset": 45.28,
+      "lang": "en"
+    },
+    {
+      "text": "right and we see that it&#39;s making some",
+      "duration": 3.36,
+      "offset": 48.12,
+      "lang": "en"
+    },
+    {
+      "text": "assumptions it&#39;s going to start using",
+      "duration": 5.04,
+      "offset": 49.84,
+      "lang": "en"
+    },
+    {
+      "text": "Tailwind to do some of the styling here",
+      "duration": 5.72,
+      "offset": 51.48,
+      "lang": "en"
+    },
+    {
+      "text": "we got typescript files I think that&#39;s a",
+      "duration": 4.12,
+      "offset": 54.88,
+      "lang": "en"
+    },
+    {
+      "text": "good call and it just starts",
+      "duration": 3.52,
+      "offset": 57.2,
+      "lang": "en"
+    },
+    {
+      "text": "implementing all these files for me so",
+      "duration": 3.36,
+      "offset": 59.0,
+      "lang": "en"
+    },
+    {
+      "text": "it looks like it created seven different",
+      "duration": 3.68,
+      "offset": 60.72,
+      "lang": "en"
+    },
+    {
+      "text": "files so you know it&#39;s a pretty sizable",
+      "duration": 4.24,
+      "offset": 62.36,
+      "lang": "en"
+    },
+    {
+      "text": "scope that it&#39;s working on here okay and",
+      "duration": 4.2,
+      "offset": 64.4,
+      "lang": "en"
+    },
+    {
+      "text": "now it&#39;s rendered this preview for us",
+      "duration": 4.6,
+      "offset": 66.6,
+      "lang": "en"
+    },
+    {
+      "text": "okay so it looks nice very well",
+      "duration": 5.92,
+      "offset": 68.6,
+      "lang": "en"
+    },
+    {
+      "text": "formatted um and we can actually take a",
+      "duration": 6.32,
+      "offset": 71.2,
+      "lang": "en"
+    },
+    {
+      "text": "look at the code here very cool so one",
+      "duration": 4.72,
+      "offset": 74.52,
+      "lang": "en"
+    },
+    {
+      "text": "cool thing about lovable is that you can",
+      "duration": 3.6,
+      "offset": 77.52,
+      "lang": "en"
+    },
+    {
+      "text": "hook it up to your GitHub and it will",
+      "duration": 3.96,
+      "offset": 79.24,
+      "lang": "en"
+    },
+    {
+      "text": "actually save all of this code to your",
+      "duration": 3.84,
+      "offset": 81.12,
+      "lang": "en"
+    },
+    {
+      "text": "GitHub which is going to make it much",
+      "duration": 4.52,
+      "offset": 83.2,
+      "lang": "en"
+    },
+    {
+      "text": "easier to then edit the code locally on",
+      "duration": 4.52,
+      "offset": 84.96,
+      "lang": "en"
+    },
+    {
+      "text": "your computer or to share it with",
+      "duration": 3.6,
+      "offset": 87.72,
+      "lang": "en"
+    },
+    {
+      "text": "somebody El else and I think that&#39;s a",
+      "duration": 3.56,
+      "offset": 89.48,
+      "lang": "en"
+    },
+    {
+      "text": "really powerful feature that sets",
+      "duration": 4.6,
+      "offset": 91.32,
+      "lang": "en"
+    },
+    {
+      "text": "lovable apart because other tools will",
+      "duration": 4.92,
+      "offset": 93.04,
+      "lang": "en"
+    },
+    {
+      "text": "often times just kind of hold the code",
+      "duration": 3.72,
+      "offset": 95.92,
+      "lang": "en"
+    },
+    {
+      "text": "in their system and there&#39;s no way that",
+      "duration": 3.44,
+      "offset": 97.96,
+      "lang": "en"
+    },
+    {
+      "text": "you can get your hands on it to start",
+      "duration": 4.28,
+      "offset": 99.64,
+      "lang": "en"
+    },
+    {
+      "text": "iterating on it from there but lovable",
+      "duration": 3.96,
+      "offset": 101.4,
+      "lang": "en"
+    },
+    {
+      "text": "actually will just commit it to your",
+      "duration": 3.52,
+      "offset": 103.92,
+      "lang": "en"
+    },
+    {
+      "text": "GitHub and that makes it a lot easier to",
+      "duration": 3.64,
+      "offset": 105.36,
+      "lang": "en"
+    },
+    {
+      "text": "work with so I think that&#39;s a really",
+      "duration": 3.12,
+      "offset": 107.44,
+      "lang": "en"
+    },
+    {
+      "text": "nice feature now we&#39;re going to have to",
+      "duration": 4.8,
+      "offset": 109.0,
+      "lang": "en"
+    },
+    {
+      "text": "connect it to GitHub for it to do that",
+      "duration": 5.04,
+      "offset": 110.56,
+      "lang": "en"
+    },
+    {
+      "text": "but before we do that let&#39;s just see if",
+      "duration": 4.08,
+      "offset": 113.8,
+      "lang": "en"
+    },
+    {
+      "text": "this thing works at",
+      "duration": 6.04,
+      "offset": 115.6,
+      "lang": "en"
+    },
+    {
+      "text": "all all right got a little note there",
+      "duration": 6.36,
+      "offset": 117.88,
+      "lang": "en"
+    },
+    {
+      "text": "all right let&#39;s try to upload an",
+      "duration": 5.6,
+      "offset": 121.64,
+      "lang": "en"
+    },
+    {
+      "text": "image",
+      "duration": 3.0,
+      "offset": 124.24,
+      "lang": "en"
+    },
+    {
+      "text": "okay all",
+      "duration": 5.2,
+      "offset": 127.44,
+      "lang": "en"
+    },
+    {
+      "text": "right okay so clearly the notes are",
+      "duration": 6.32,
+      "offset": 130.16,
+      "lang": "en"
+    },
+    {
+      "text": "being created I wonder if I refresh this",
+      "duration": 5.16,
+      "offset": 132.64,
+      "lang": "en"
+    },
+    {
+      "text": "if they&#39;re still going to be there no",
+      "duration": 3.44,
+      "offset": 136.48,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re gone so we&#39;re going to have to",
+      "duration": 4.32,
+      "offset": 137.8,
+      "lang": "en"
+    },
+    {
+      "text": "actually hook this up to a database",
+      "duration": 3.96,
+      "offset": 139.92,
+      "lang": "en"
+    },
+    {
+      "text": "which is another thing that I think is",
+      "duration": 4.08,
+      "offset": 142.12,
+      "lang": "en"
+    },
+    {
+      "text": "really powerful about lovable is that it",
+      "duration": 5.12,
+      "offset": 143.88,
+      "lang": "en"
+    },
+    {
+      "text": "is deeply integrated with superbase so",
+      "duration": 4.64,
+      "offset": 146.2,
+      "lang": "en"
+    },
+    {
+      "text": "you can actually store all of your",
+      "duration": 4.4,
+      "offset": 149.0,
+      "lang": "en"
+    },
+    {
+      "text": "application data in a real database and",
+      "duration": 4.12,
+      "offset": 150.84,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not going to just disappear when",
+      "duration": 4.2,
+      "offset": 153.4,
+      "lang": "en"
+    },
+    {
+      "text": "you reload we we&#39;ll have to prompt it to",
+      "duration": 4.92,
+      "offset": 154.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually do that but for now let&#39;s go",
+      "duration": 5.16,
+      "offset": 157.6,
+      "lang": "en"
+    },
+    {
+      "text": "back to the GitHub portion of this and",
+      "duration": 4.72,
+      "offset": 159.88,
+      "lang": "en"
+    },
+    {
+      "text": "make sure that we actually save this",
+      "duration": 5.68,
+      "offset": 162.76,
+      "lang": "en"
+    },
+    {
+      "text": "code and can access it from somewhere",
+      "duration": 6.12,
+      "offset": 164.6,
+      "lang": "en"
+    },
+    {
+      "text": "else so in this case I&#39;m going to click",
+      "duration": 4.88,
+      "offset": 168.44,
+      "lang": "en"
+    },
+    {
+      "text": "on this edit code button transfer",
+      "duration": 5.32,
+      "offset": 170.72,
+      "lang": "en"
+    },
+    {
+      "text": "repository I already added my GitHub",
+      "duration": 4.88,
+      "offset": 173.32,
+      "lang": "en"
+    },
+    {
+      "text": "account in a previous project that I did",
+      "duration": 4.2,
+      "offset": 176.04,
+      "lang": "en"
+    },
+    {
+      "text": "with lovable so I&#39;m going to click on",
+      "duration": 5.0,
+      "offset": 178.2,
+      "lang": "en"
+    },
+    {
+      "text": "that um and if you haven&#39;t done this",
+      "duration": 5.4,
+      "offset": 180.24,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll just walk you through an ooth kind",
+      "duration": 5.24,
+      "offset": 183.2,
+      "lang": "en"
+    },
+    {
+      "text": "of you know sign in with GitHub account",
+      "duration": 5.04,
+      "offset": 185.64,
+      "lang": "en"
+    },
+    {
+      "text": "kind of thing and then you&#39;ll be able to",
+      "duration": 4.8,
+      "offset": 188.44,
+      "lang": "en"
+    },
+    {
+      "text": "do the same thing so now let&#39;s just",
+      "duration": 4.84,
+      "offset": 190.68,
+      "lang": "en"
+    },
+    {
+      "text": "check it out on GitHub we see it right",
+      "duration": 4.92,
+      "offset": 193.24,
+      "lang": "en"
+    },
+    {
+      "text": "here here&#39;s all of the code that it has",
+      "duration": 5.08,
+      "offset": 195.52,
+      "lang": "en"
+    },
+    {
+      "text": "already created for us and the thing I",
+      "duration": 4.08,
+      "offset": 198.16,
+      "lang": "en"
+    },
+    {
+      "text": "love about this is that like I said",
+      "duration": 3.8,
+      "offset": 200.6,
+      "lang": "en"
+    },
+    {
+      "text": "earlier you can actually download this",
+      "duration": 3.56,
+      "offset": 202.24,
+      "lang": "en"
+    },
+    {
+      "text": "and then be able to see it on your",
+      "duration": 3.96,
+      "offset": 204.4,
+      "lang": "en"
+    },
+    {
+      "text": "computer so now when I go to GitHub",
+      "duration": 4.68,
+      "offset": 205.8,
+      "lang": "en"
+    },
+    {
+      "text": "desktop I can clone this",
+      "duration": 4.12,
+      "offset": 208.36,
+      "lang": "en"
+    },
+    {
+      "text": "repository and I&#39;m going to have it",
+      "duration": 4.16,
+      "offset": 210.48,
+      "lang": "en"
+    },
+    {
+      "text": "available locally then I can just open",
+      "duration": 6.88,
+      "offset": 212.48,
+      "lang": "en"
+    },
+    {
+      "text": "it in uh cursor and be able to change my",
+      "duration": 7.6,
+      "offset": 214.64,
+      "lang": "en"
+    },
+    {
+      "text": "code and just to show you the whole flow",
+      "duration": 4.72,
+      "offset": 219.36,
+      "lang": "en"
+    },
+    {
+      "text": "I can then modify this code so let me",
+      "duration": 4.24,
+      "offset": 222.24,
+      "lang": "en"
+    },
+    {
+      "text": "change the button to look a a little bit",
+      "duration": 6.8,
+      "offset": 224.08,
+      "lang": "en"
+    },
+    {
+      "text": "different and then I can commit this",
+      "duration": 4.4,
+      "offset": 226.48,
+      "lang": "en"
+    },
+    {
+      "text": "code so I&#39;m going to commit it I&#39;m going",
+      "duration": 5.6,
+      "offset": 231.0,
+      "lang": "en"
+    },
+    {
+      "text": "to push it and then when we go back to",
+      "duration": 6.96,
+      "offset": 233.52,
+      "lang": "en"
+    },
+    {
+      "text": "lovable it actually knows that we made a",
+      "duration": 7.28,
+      "offset": 236.6,
+      "lang": "en"
+    },
+    {
+      "text": "so it&#39;s going to go ahead and update uh",
+      "duration": 5.24,
+      "offset": 240.48,
+      "lang": "en"
+    },
+    {
+      "text": "its current state and you see this",
+      "duration": 5.36,
+      "offset": 243.88,
+      "lang": "en"
+    },
+    {
+      "text": "button is now you know the same color",
+      "duration": 5.24,
+      "offset": 245.72,
+      "lang": "en"
+    },
+    {
+      "text": "all right I changed it back so now it",
+      "duration": 3.84,
+      "offset": 249.24,
+      "lang": "en"
+    },
+    {
+      "text": "looks like that again okay let&#39;s keep",
+      "duration": 3.92,
+      "offset": 250.96,
+      "lang": "en"
+    },
+    {
+      "text": "going with lovable though I&#39;m going to",
+      "duration": 3.44,
+      "offset": 253.08,
+      "lang": "en"
+    },
+    {
+      "text": "say this is a great start but we",
+      "duration": 3.04,
+      "offset": 254.88,
+      "lang": "en"
+    },
+    {
+      "text": "actually want to save the notes and",
+      "duration": 3.28,
+      "offset": 256.52,
+      "lang": "en"
+    },
+    {
+      "text": "images in our database can you do that",
+      "duration": 2.8,
+      "offset": 257.92,
+      "lang": "en"
+    },
+    {
+      "text": "using",
+      "duration": 3.48,
+      "offset": 259.8,
+      "lang": "en"
+    },
+    {
+      "text": "superbase okay it&#39;s going to it&#39;s going",
+      "duration": 4.24,
+      "offset": 260.72,
+      "lang": "en"
+    },
+    {
+      "text": "to confirm with us that we want to use",
+      "duration": 4.04,
+      "offset": 263.28,
+      "lang": "en"
+    },
+    {
+      "text": "super",
+      "duration": 2.36,
+      "offset": 264.96,
+      "lang": "en"
+    },
+    {
+      "text": "base all right it ran into an error I&#39;m",
+      "duration": 5.44,
+      "offset": 267.36,
+      "lang": "en"
+    },
+    {
+      "text": "just going to click that try to fix",
+      "duration": 4.72,
+      "offset": 270.04,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll see what",
+      "duration": 5.44,
+      "offset": 272.8,
+      "lang": "en"
+    },
+    {
+      "text": "happens it&#39;s asking us for some specific",
+      "duration": 8.24,
+      "offset": 274.76,
+      "lang": "en"
+    },
+    {
+      "text": "API Keys let&#39;s see if we can hook it up",
+      "duration": 7.08,
+      "offset": 278.24,
+      "lang": "en"
+    },
+    {
+      "text": "over here this is what I did the last",
+      "duration": 4.44,
+      "offset": 283.0,
+      "lang": "en"
+    },
+    {
+      "text": "time so I&#39;m going to go ahead and create",
+      "duration": 5.48,
+      "offset": 285.32,
+      "lang": "en"
+    },
+    {
+      "text": "a new project with super",
+      "duration": 6.6,
+      "offset": 287.44,
+      "lang": "en"
+    },
+    {
+      "text": "base all",
+      "duration": 3.24,
+      "offset": 290.8,
+      "lang": "en"
+    },
+    {
+      "text": "right so to give some more color to",
+      "duration": 4.56,
+      "offset": 294.16,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s going on here is that superbase",
+      "duration": 3.72,
+      "offset": 296.64,
+      "lang": "en"
+    },
+    {
+      "text": "is going to be our database it&#39;s going",
+      "duration": 4.72,
+      "offset": 298.72,
+      "lang": "en"
+    },
+    {
+      "text": "to persist all of these notes and files",
+      "duration": 5.16,
+      "offset": 300.36,
+      "lang": "en"
+    },
+    {
+      "text": "and it&#39;s going to keep them saved so",
+      "duration": 4.44,
+      "offset": 303.44,
+      "lang": "en"
+    },
+    {
+      "text": "when somebody opens our app they&#39;re",
+      "duration": 4.16,
+      "offset": 305.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to be able to see their data",
+      "duration": 3.92,
+      "offset": 307.88,
+      "lang": "en"
+    },
+    {
+      "text": "because just building frontend logic",
+      "duration": 4.32,
+      "offset": 309.68,
+      "lang": "en"
+    },
+    {
+      "text": "isn&#39;t going to be able to actually store",
+      "duration": 4.24,
+      "offset": 311.8,
+      "lang": "en"
+    },
+    {
+      "text": "that data anywhere that&#39;s why we need a",
+      "duration": 4.2,
+      "offset": 314.0,
+      "lang": "en"
+    },
+    {
+      "text": "database involved and the other thing",
+      "duration": 3.96,
+      "offset": 316.04,
+      "lang": "en"
+    },
+    {
+      "text": "that superbase is going to do is",
+      "duration": 4.84,
+      "offset": 318.2,
+      "lang": "en"
+    },
+    {
+      "text": "actually provide authentication for us",
+      "duration": 5.92,
+      "offset": 320.0,
+      "lang": "en"
+    },
+    {
+      "text": "so that we can differentiate users from",
+      "duration": 5.16,
+      "offset": 323.04,
+      "lang": "en"
+    },
+    {
+      "text": "one another so if you log in you&#39;ll see",
+      "duration": 4.64,
+      "offset": 325.92,
+      "lang": "en"
+    },
+    {
+      "text": "your notes if I log in see my notes and",
+      "duration": 3.88,
+      "offset": 328.2,
+      "lang": "en"
+    },
+    {
+      "text": "then we&#39;ll be able to share them back",
+      "duration": 3.84,
+      "offset": 330.56,
+      "lang": "en"
+    },
+    {
+      "text": "and forth okay so I created that new",
+      "duration": 5.0,
+      "offset": 332.08,
+      "lang": "en"
+    },
+    {
+      "text": "project let&#39;s see if I click that here",
+      "duration": 5.64,
+      "offset": 334.4,
+      "lang": "en"
+    },
+    {
+      "text": "now",
+      "duration": 5.44,
+      "offset": 337.08,
+      "lang": "en"
+    },
+    {
+      "text": "connect all right so it created this",
+      "duration": 4.44,
+      "offset": 340.04,
+      "lang": "en"
+    },
+    {
+      "text": "message let&#39;s see if it can natively",
+      "duration": 4.4,
+      "offset": 342.52,
+      "lang": "en"
+    },
+    {
+      "text": "connect without me pasting these keys in",
+      "duration": 5.48,
+      "offset": 344.48,
+      "lang": "en"
+    },
+    {
+      "text": "here okay so it was able to",
+      "duration": 6.04,
+      "offset": 346.92,
+      "lang": "en"
+    },
+    {
+      "text": "connect and now it&#39;s saying enable sign",
+      "duration": 5.44,
+      "offset": 349.96,
+      "lang": "en"
+    },
+    {
+      "text": "up and login with options yeah that",
+      "duration": 5.12,
+      "offset": 352.96,
+      "lang": "en"
+    },
+    {
+      "text": "makes sense and then we want to store",
+      "duration": 6.48,
+      "offset": 355.4,
+      "lang": "en"
+    },
+    {
+      "text": "data and yeah okay so now it&#39;s connected",
+      "duration": 7.12,
+      "offset": 358.08,
+      "lang": "en"
+    },
+    {
+      "text": "now let&#39;s try to fix that",
+      "duration": 3.32,
+      "offset": 361.88,
+      "lang": "en"
+    },
+    {
+      "text": "error okay fantastic so it is writing",
+      "duration": 6.04,
+      "offset": 366.16,
+      "lang": "en"
+    },
+    {
+      "text": "SQL here which is going to get executed",
+      "duration": 6.12,
+      "offset": 368.96,
+      "lang": "en"
+    },
+    {
+      "text": "in the database when I click this button",
+      "duration": 4.92,
+      "offset": 372.2,
+      "lang": "en"
+    },
+    {
+      "text": "so let&#39;s go ahead and apply those",
+      "duration": 4.16,
+      "offset": 375.08,
+      "lang": "en"
+    },
+    {
+      "text": "changes so it&#39;s going to essentially",
+      "duration": 4.96,
+      "offset": 377.12,
+      "lang": "en"
+    },
+    {
+      "text": "create the relevant table here for us",
+      "duration": 4.52,
+      "offset": 379.24,
+      "lang": "en"
+    },
+    {
+      "text": "and now it&#39;s going to create a storage",
+      "duration": 4.44,
+      "offset": 382.08,
+      "lang": "en"
+    },
+    {
+      "text": "bucket for the images so again we&#39;re",
+      "duration": 4.48,
+      "offset": 383.76,
+      "lang": "en"
+    },
+    {
+      "text": "relying on super base in a number of",
+      "duration": 4.16,
+      "offset": 386.52,
+      "lang": "en"
+    },
+    {
+      "text": "ways here first to store the notes in a",
+      "duration": 4.8,
+      "offset": 388.24,
+      "lang": "en"
+    },
+    {
+      "text": "database and also to store the images in",
+      "duration": 4.6,
+      "offset": 390.68,
+      "lang": "en"
+    },
+    {
+      "text": "a storage bucket but let&#39;s see it says",
+      "duration": 3.24,
+      "offset": 393.04,
+      "lang": "en"
+    },
+    {
+      "text": "build",
+      "duration": 3.72,
+      "offset": 395.28,
+      "lang": "en"
+    },
+    {
+      "text": "unsuccessful um let&#39;s see if we can have",
+      "duration": 5.32,
+      "offset": 396.28,
+      "lang": "en"
+    },
+    {
+      "text": "it automatically fix this issue as well",
+      "duration": 5.24,
+      "offset": 399.0,
+      "lang": "en"
+    },
+    {
+      "text": "so to go back to GitHub for a second one",
+      "duration": 4.84,
+      "offset": 401.6,
+      "lang": "en"
+    },
+    {
+      "text": "cool thing is that as it makes changes",
+      "duration": 4.4,
+      "offset": 404.24,
+      "lang": "en"
+    },
+    {
+      "text": "it continues to commit them to GitHub so",
+      "duration": 3.92,
+      "offset": 406.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can actually go back to previous",
+      "duration": 4.04,
+      "offset": 408.64,
+      "lang": "en"
+    },
+    {
+      "text": "versions and see how your code evolved I",
+      "duration": 4.84,
+      "offset": 410.36,
+      "lang": "en"
+    },
+    {
+      "text": "think it&#39;s a really clean integration",
+      "duration": 5.0,
+      "offset": 412.68,
+      "lang": "en"
+    },
+    {
+      "text": "okay so the errors have been fixed now",
+      "duration": 6.04,
+      "offset": 415.2,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s try to take a note",
+      "duration": 7.04,
+      "offset": 417.68,
+      "lang": "en"
+    },
+    {
+      "text": "okay we created a note I&#39;m curious to",
+      "duration": 5.28,
+      "offset": 421.24,
+      "lang": "en"
+    },
+    {
+      "text": "see if it&#39;s going to appear in our",
+      "duration": 4.72,
+      "offset": 424.72,
+      "lang": "en"
+    },
+    {
+      "text": "actual database",
+      "duration": 2.92,
+      "offset": 426.52,
+      "lang": "en"
+    },
+    {
+      "text": "now okay so if we go to",
+      "duration": 5.52,
+      "offset": 431.72,
+      "lang": "en"
+    },
+    {
+      "text": "superbase check it out we actually have",
+      "duration": 4.28,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "a table that we created by running the",
+      "duration": 5.52,
+      "offset": 437.24,
+      "lang": "en"
+    },
+    {
+      "text": "SQL that lovable wrote for us and here&#39;s",
+      "duration": 6.96,
+      "offset": 439.08,
+      "lang": "en"
+    },
+    {
+      "text": "my note so now if I refresh",
+      "duration": 5.76,
+      "offset": 442.76,
+      "lang": "en"
+    },
+    {
+      "text": "this we can actually see the note that I",
+      "duration": 4.68,
+      "offset": 446.04,
+      "lang": "en"
+    },
+    {
+      "text": "created so it is being",
+      "duration": 6.36,
+      "offset": 448.52,
+      "lang": "en"
+    },
+    {
+      "text": "persisted now let&#39;s try uploading an",
+      "duration": 4.16,
+      "offset": 450.72,
+      "lang": "en"
+    },
+    {
+      "text": "image okay now it had an error let&#39;s see",
+      "duration": 4.92,
+      "offset": 456.12,
+      "lang": "en"
+    },
+    {
+      "text": "what the problem",
+      "duration": 4.64,
+      "offset": 459.68,
+      "lang": "en"
+    },
+    {
+      "text": "was probably had to do with the storage",
+      "duration": 5.36,
+      "offset": 461.04,
+      "lang": "en"
+    },
+    {
+      "text": "bucket okay so we need to create a",
+      "duration": 4.8,
+      "offset": 464.32,
+      "lang": "en"
+    },
+    {
+      "text": "storage bucket for it that makes sense",
+      "duration": 4.88,
+      "offset": 466.4,
+      "lang": "en"
+    },
+    {
+      "text": "overall I just like how smooth lovable",
+      "duration": 4.08,
+      "offset": 469.12,
+      "lang": "en"
+    },
+    {
+      "text": "makes things because you&#39;re basically",
+      "duration": 4.72,
+      "offset": 471.28,
+      "lang": "en"
+    },
+    {
+      "text": "just in that chat and it will explain uh",
+      "duration": 4.52,
+      "offset": 473.2,
+      "lang": "en"
+    },
+    {
+      "text": "things for you and it will generate code",
+      "duration": 4.64,
+      "offset": 476.0,
+      "lang": "en"
+    },
+    {
+      "text": "to run so you&#39;re really just these very",
+      "duration": 5.44,
+      "offset": 477.72,
+      "lang": "en"
+    },
+    {
+      "text": "simple interactions for things that are",
+      "duration": 4.24,
+      "offset": 480.64,
+      "lang": "en"
+    },
+    {
+      "text": "pretty complicated under the hood you",
+      "duration": 3.4,
+      "offset": 483.16,
+      "lang": "en"
+    },
+    {
+      "text": "know setting up a database creating",
+      "duration": 4.36,
+      "offset": 484.88,
+      "lang": "en"
+    },
+    {
+      "text": "tables managing different types all of",
+      "duration": 4.88,
+      "offset": 486.56,
+      "lang": "en"
+    },
+    {
+      "text": "this stuff usually takes a lot more",
+      "duration": 3.88,
+      "offset": 489.24,
+      "lang": "en"
+    },
+    {
+      "text": "effort okay so we should have that",
+      "duration": 4.64,
+      "offset": 491.44,
+      "lang": "en"
+    },
+    {
+      "text": "bucket now let&#39;s try this",
+      "duration": 6.84,
+      "offset": 493.12,
+      "lang": "en"
+    },
+    {
+      "text": "again all right create a",
+      "duration": 6.88,
+      "offset": 496.08,
+      "lang": "en"
+    },
+    {
+      "text": "note all right hey check it out it was",
+      "duration": 5.8,
+      "offset": 499.96,
+      "lang": "en"
+    },
+    {
+      "text": "able to save a note with our Blue Duck",
+      "duration": 5.12,
+      "offset": 502.96,
+      "lang": "en"
+    },
+    {
+      "text": "here and if I",
+      "duration": 5.52,
+      "offset": 505.76,
+      "lang": "en"
+    },
+    {
+      "text": "refresh it&#39;s still there so this is",
+      "duration": 5.0,
+      "offset": 508.08,
+      "lang": "en"
+    },
+    {
+      "text": "looking really good now let&#39;s just",
+      "duration": 4.04,
+      "offset": 511.28,
+      "lang": "en"
+    },
+    {
+      "text": "iterate on the UI a little bit all right",
+      "duration": 6.04,
+      "offset": 513.08,
+      "lang": "en"
+    },
+    {
+      "text": "so it reloads now I can click it&#39;ll show",
+      "duration": 6.32,
+      "offset": 515.32,
+      "lang": "en"
+    },
+    {
+      "text": "me I guess the picture this isn&#39;t quite",
+      "duration": 4.56,
+      "offset": 519.12,
+      "lang": "en"
+    },
+    {
+      "text": "what I expected so let me just ask it to",
+      "duration": 4.16,
+      "offset": 521.64,
+      "lang": "en"
+    },
+    {
+      "text": "change that this is something that&#39;s",
+      "duration": 4.32,
+      "offset": 523.68,
+      "lang": "en"
+    },
+    {
+      "text": "kind of interesting to see it observes",
+      "duration": 4.48,
+      "offset": 525.8,
+      "lang": "en"
+    },
+    {
+      "text": "that note card and edit note dialogue",
+      "duration": 4.28,
+      "offset": 528.0,
+      "lang": "en"
+    },
+    {
+      "text": "are getting quite long so it&#39;s",
+      "duration": 4.0,
+      "offset": 530.28,
+      "lang": "en"
+    },
+    {
+      "text": "suggesting that we refactor them which I",
+      "duration": 4.44,
+      "offset": 532.28,
+      "lang": "en"
+    },
+    {
+      "text": "think is a quite important thing to do",
+      "duration": 4.8,
+      "offset": 534.28,
+      "lang": "en"
+    },
+    {
+      "text": "working with these AI tools because once",
+      "duration": 5.4,
+      "offset": 536.72,
+      "lang": "en"
+    },
+    {
+      "text": "your files get really long uh the AI",
+      "duration": 5.4,
+      "offset": 539.08,
+      "lang": "en"
+    },
+    {
+      "text": "just struggles to do a very good job at",
+      "duration": 5.04,
+      "offset": 542.12,
+      "lang": "en"
+    },
+    {
+      "text": "changing them so it is a really good",
+      "duration": 5.12,
+      "offset": 544.48,
+      "lang": "en"
+    },
+    {
+      "text": "idea to refactor proactively and so the",
+      "duration": 4.88,
+      "offset": 547.16,
+      "lang": "en"
+    },
+    {
+      "text": "fact that this actually notices this and",
+      "duration": 4.96,
+      "offset": 549.6,
+      "lang": "en"
+    },
+    {
+      "text": "lets you know proactively uh is a really",
+      "duration": 5.84,
+      "offset": 552.04,
+      "lang": "en"
+    },
+    {
+      "text": "good thing all right now we can see the",
+      "duration": 5.88,
+      "offset": 554.56,
+      "lang": "en"
+    },
+    {
+      "text": "full duck",
+      "duration": 4.96,
+      "offset": 557.88,
+      "lang": "en"
+    },
+    {
+      "text": "here and if",
+      "duration": 5.0,
+      "offset": 560.44,
+      "lang": "en"
+    },
+    {
+      "text": "we okay when I tried to submit the",
+      "duration": 4.76,
+      "offset": 562.84,
+      "lang": "en"
+    },
+    {
+      "text": "change it didn&#39;t quite work so let&#39;s try",
+      "duration": 5.72,
+      "offset": 565.44,
+      "lang": "en"
+    },
+    {
+      "text": "to fix that",
+      "duration": 3.56,
+      "offset": 567.6,
+      "lang": "en"
+    },
+    {
+      "text": "okay let&#39;s try it",
+      "duration": 6.28,
+      "offset": 574.56,
+      "lang": "en"
+    },
+    {
+      "text": "again so it failed to update the",
+      "duration": 4.44,
+      "offset": 576.4,
+      "lang": "en"
+    },
+    {
+      "text": "Note it seems to be getting kind of",
+      "duration": 4.24,
+      "offset": 584.48,
+      "lang": "en"
+    },
+    {
+      "text": "stuck on this point so this is probably",
+      "duration": 4.88,
+      "offset": 586.76,
+      "lang": "en"
+    },
+    {
+      "text": "a moment when I would go in and dig into",
+      "duration": 5.32,
+      "offset": 588.72,
+      "lang": "en"
+    },
+    {
+      "text": "the details of the code which thankfully",
+      "duration": 4.96,
+      "offset": 591.64,
+      "lang": "en"
+    },
+    {
+      "text": "with lovable you can go and do because",
+      "duration": 5.6,
+      "offset": 594.04,
+      "lang": "en"
+    },
+    {
+      "text": "it is so deeply integrated with GitHub",
+      "duration": 4.36,
+      "offset": 596.6,
+      "lang": "en"
+    },
+    {
+      "text": "but I&#39;m just going to skip over this",
+      "duration": 3.64,
+      "offset": 599.64,
+      "lang": "en"
+    },
+    {
+      "text": "issue for now so that we can talk about",
+      "duration": 4.44,
+      "offset": 600.96,
+      "lang": "en"
+    },
+    {
+      "text": "the authentication which is another",
+      "duration": 4.16,
+      "offset": 603.28,
+      "lang": "en"
+    },
+    {
+      "text": "thing that is important for real",
+      "duration": 4.44,
+      "offset": 605.4,
+      "lang": "en"
+    },
+    {
+      "text": "applications that some of these tools",
+      "duration": 4.84,
+      "offset": 607.44,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really support but with lovable",
+      "duration": 4.88,
+      "offset": 609.84,
+      "lang": "en"
+    },
+    {
+      "text": "being integrated with superbase we",
+      "duration": 4.2,
+      "offset": 612.28,
+      "lang": "en"
+    },
+    {
+      "text": "should be able to implement that so",
+      "duration": 3.16,
+      "offset": 614.72,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s go ahead and move on to that",
+      "duration": 3.72,
+      "offset": 616.48,
+      "lang": "en"
+    },
+    {
+      "text": "feature so I&#39;m going to ask it to add",
+      "duration": 4.76,
+      "offset": 617.88,
+      "lang": "en"
+    },
+    {
+      "text": "authentication and login for the app and",
+      "duration": 5.64,
+      "offset": 620.2,
+      "lang": "en"
+    },
+    {
+      "text": "we will use superbase off okay so it&#39;s",
+      "duration": 5.4,
+      "offset": 622.64,
+      "lang": "en"
+    },
+    {
+      "text": "asking for some clarifications about",
+      "duration": 4.44,
+      "offset": 625.84,
+      "lang": "en"
+    },
+    {
+      "text": "what kind of user data we&#39;re going to",
+      "duration": 4.68,
+      "offset": 628.04,
+      "lang": "en"
+    },
+    {
+      "text": "store and then I&#39;ll just say we want",
+      "duration": 5.52,
+      "offset": 630.28,
+      "lang": "en"
+    },
+    {
+      "text": "users to be able to log in via email or",
+      "duration": 5.96,
+      "offset": 632.72,
+      "lang": "en"
+    },
+    {
+      "text": "Google okay so it&#39;s got some SQL for us",
+      "duration": 4.92,
+      "offset": 635.8,
+      "lang": "en"
+    },
+    {
+      "text": "so we can store our users in the",
+      "duration": 4.6,
+      "offset": 638.68,
+      "lang": "en"
+    },
+    {
+      "text": "database we&#39;ll run",
+      "duration": 5.28,
+      "offset": 640.72,
+      "lang": "en"
+    },
+    {
+      "text": "that all right it&#39;s telling us to go to",
+      "duration": 4.92,
+      "offset": 643.28,
+      "lang": "en"
+    },
+    {
+      "text": "the off providers again pretty smooth",
+      "duration": 4.24,
+      "offset": 646.0,
+      "lang": "en"
+    },
+    {
+      "text": "that it just takes us here and we can",
+      "duration": 5.24,
+      "offset": 648.2,
+      "lang": "en"
+    },
+    {
+      "text": "set it up if we enable Google I think we",
+      "duration": 5.68,
+      "offset": 650.24,
+      "lang": "en"
+    },
+    {
+      "text": "need to take some extra steps to set",
+      "duration": 4.84,
+      "offset": 653.44,
+      "lang": "en"
+    },
+    {
+      "text": "that up let&#39;s just skip that for now",
+      "duration": 4.32,
+      "offset": 655.92,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll just go with the email signin",
+      "duration": 4.12,
+      "offset": 658.28,
+      "lang": "en"
+    },
+    {
+      "text": "approach and hey look at this this is a",
+      "duration": 6.92,
+      "offset": 660.24,
+      "lang": "en"
+    },
+    {
+      "text": "really nice sign-in screen let&#39;s sign",
+      "duration": 4.76,
+      "offset": 662.4,
+      "lang": "en"
+    },
+    {
+      "text": "up okay check your email for",
+      "duration": 4.6,
+      "offset": 670.2,
+      "lang": "en"
+    },
+    {
+      "text": "confirmation all right check it out",
+      "duration": 6.72,
+      "offset": 672.92,
+      "lang": "en"
+    },
+    {
+      "text": "confirm your sign up I&#39;ll confirm my",
+      "duration": 8.04,
+      "offset": 674.8,
+      "lang": "en"
+    },
+    {
+      "text": "email okay I guess it&#39;s uh redirecting",
+      "duration": 6.6,
+      "offset": 679.64,
+      "lang": "en"
+    },
+    {
+      "text": "me to Local Host um which is a bit of a",
+      "duration": 4.72,
+      "offset": 682.84,
+      "lang": "en"
+    },
+    {
+      "text": "problem",
+      "duration": 4.32,
+      "offset": 686.24,
+      "lang": "en"
+    },
+    {
+      "text": "here let me go head and just paste this",
+      "duration": 5.76,
+      "offset": 687.56,
+      "lang": "en"
+    },
+    {
+      "text": "into lovable and see what I should do",
+      "duration": 4.36,
+      "offset": 690.56,
+      "lang": "en"
+    },
+    {
+      "text": "next",
+      "duration": 6.28,
+      "offset": 693.32,
+      "lang": "en"
+    },
+    {
+      "text": "okay so if I go here what is my apps",
+      "duration": 8.48,
+      "offset": 694.92,
+      "lang": "en"
+    },
+    {
+      "text": "URL I think it&#39;s this uh lovable URL or",
+      "duration": 5.32,
+      "offset": 699.6,
+      "lang": "en"
+    },
+    {
+      "text": "wherever I&#39;m going to end up deploying",
+      "duration": 5.52,
+      "offset": 703.4,
+      "lang": "en"
+    },
+    {
+      "text": "it but right now I think um this is the",
+      "duration": 6.48,
+      "offset": 704.92,
+      "lang": "en"
+    },
+    {
+      "text": "correct URL and then I wonder if we just",
+      "duration": 6.6,
+      "offset": 708.92,
+      "lang": "en"
+    },
+    {
+      "text": "go there with the access",
+      "duration": 7.32,
+      "offset": 711.4,
+      "lang": "en"
+    },
+    {
+      "text": "token okay it&#39;s taking us to the login",
+      "duration": 6.2,
+      "offset": 715.52,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s see if I I can sign",
+      "duration": 5.8,
+      "offset": 718.72,
+      "lang": "en"
+    },
+    {
+      "text": "in all right there we go I was able to",
+      "duration": 4.04,
+      "offset": 721.72,
+      "lang": "en"
+    },
+    {
+      "text": "log",
+      "duration": 5.92,
+      "offset": 724.52,
+      "lang": "en"
+    },
+    {
+      "text": "in excellent I can log out I&#39;ll just",
+      "duration": 7.84,
+      "offset": 725.76,
+      "lang": "en"
+    },
+    {
+      "text": "mess up the password and you see it it",
+      "duration": 6.0,
+      "offset": 730.44,
+      "lang": "en"
+    },
+    {
+      "text": "has uh it handles that properly now",
+      "duration": 5.24,
+      "offset": 733.6,
+      "lang": "en"
+    },
+    {
+      "text": "right now both of these notes are not",
+      "duration": 4.48,
+      "offset": 736.44,
+      "lang": "en"
+    },
+    {
+      "text": "actually associated with my user so it&#39;s",
+      "duration": 4.12,
+      "offset": 738.84,
+      "lang": "en"
+    },
+    {
+      "text": "just showing me all of the notes so",
+      "duration": 4.56,
+      "offset": 740.92,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s have it update this so that it",
+      "duration": 4.64,
+      "offset": 742.96,
+      "lang": "en"
+    },
+    {
+      "text": "when it stores notes it stores the user",
+      "duration": 4.76,
+      "offset": 745.48,
+      "lang": "en"
+    },
+    {
+      "text": "ID and when it retrieves notes it only",
+      "duration": 5.24,
+      "offset": 747.6,
+      "lang": "en"
+    },
+    {
+      "text": "retrieves the notes for that",
+      "duration": 5.44,
+      "offset": 750.24,
+      "lang": "en"
+    },
+    {
+      "text": "user okay so I explained that I wanted",
+      "duration": 5.32,
+      "offset": 752.84,
+      "lang": "en"
+    },
+    {
+      "text": "to associate the notes with my user and",
+      "duration": 3.88,
+      "offset": 755.68,
+      "lang": "en"
+    },
+    {
+      "text": "then when I share the note it should",
+      "duration": 3.4,
+      "offset": 758.16,
+      "lang": "en"
+    },
+    {
+      "text": "have a public link so that anybody with",
+      "duration": 4.56,
+      "offset": 759.56,
+      "lang": "en"
+    },
+    {
+      "text": "that link can actually see",
+      "duration": 6.24,
+      "offset": 761.56,
+      "lang": "en"
+    },
+    {
+      "text": "it okay so we got some SQL here nice to",
+      "duration": 5.2,
+      "offset": 764.12,
+      "lang": "en"
+    },
+    {
+      "text": "be able to interact with all the layers",
+      "duration": 5.24,
+      "offset": 767.8,
+      "lang": "en"
+    },
+    {
+      "text": "of our app from one",
+      "duration": 6.04,
+      "offset": 769.32,
+      "lang": "en"
+    },
+    {
+      "text": "place okay so I no longer see those",
+      "duration": 3.88,
+      "offset": 773.04,
+      "lang": "en"
+    },
+    {
+      "text": "notes because they&#39;re not associated",
+      "duration": 4.44,
+      "offset": 775.36,
+      "lang": "en"
+    },
+    {
+      "text": "with my user all right so we&#39;ll write a",
+      "duration": 5.72,
+      "offset": 776.92,
+      "lang": "en"
+    },
+    {
+      "text": "note note successfully",
+      "duration": 7.96,
+      "offset": 779.8,
+      "lang": "en"
+    },
+    {
+      "text": "created here it is then if",
+      "duration": 5.12,
+      "offset": 782.64,
+      "lang": "en"
+    },
+    {
+      "text": "I then if I log",
+      "duration": 4.88,
+      "offset": 788.08,
+      "lang": "en"
+    },
+    {
+      "text": "out and let me create a different",
+      "duration": 5.48,
+      "offset": 790.56,
+      "lang": "en"
+    },
+    {
+      "text": "account so we can test this out okay so",
+      "duration": 4.72,
+      "offset": 792.96,
+      "lang": "en"
+    },
+    {
+      "text": "here I am signed in with the different",
+      "duration": 4.52,
+      "offset": 796.04,
+      "lang": "en"
+    },
+    {
+      "text": "account and I don&#39;t see the note I can",
+      "duration": 5.92,
+      "offset": 797.68,
+      "lang": "en"
+    },
+    {
+      "text": "create my own notes here but I don&#39;t see",
+      "duration": 6.28,
+      "offset": 800.56,
+      "lang": "en"
+    },
+    {
+      "text": "this note",
+      "duration": 3.24,
+      "offset": 803.6,
+      "lang": "en"
+    },
+    {
+      "text": "okay but now if I copy this link and I",
+      "duration": 5.84,
+      "offset": 814.96,
+      "lang": "en"
+    },
+    {
+      "text": "just go to it out here in the",
+      "duration": 6.68,
+      "offset": 817.68,
+      "lang": "en"
+    },
+    {
+      "text": "open Tada we can actually see the note",
+      "duration": 5.4,
+      "offset": 820.8,
+      "lang": "en"
+    },
+    {
+      "text": "even though we&#39;re not signed in as that",
+      "duration": 4.0,
+      "offset": 824.36,
+      "lang": "en"
+    },
+    {
+      "text": "user so this essentially meets all the",
+      "duration": 3.68,
+      "offset": 826.2,
+      "lang": "en"
+    },
+    {
+      "text": "requirements that I was looking for",
+      "duration": 3.76,
+      "offset": 828.36,
+      "lang": "en"
+    },
+    {
+      "text": "right being able to create notes they&#39;re",
+      "duration": 4.64,
+      "offset": 829.88,
+      "lang": "en"
+    },
+    {
+      "text": "associated with my user being able to",
+      "duration": 4.44,
+      "offset": 832.12,
+      "lang": "en"
+    },
+    {
+      "text": "publicly share them and I was able to",
+      "duration": 4.04,
+      "offset": 834.52,
+      "lang": "en"
+    },
+    {
+      "text": "get all of that working in about 45",
+      "duration": 4.2,
+      "offset": 836.56,
+      "lang": "en"
+    },
+    {
+      "text": "minutes so that really shows you how",
+      "duration": 4.64,
+      "offset": 838.56,
+      "lang": "en"
+    },
+    {
+      "text": "quickly you can start new projects with",
+      "duration": 4.24,
+      "offset": 840.76,
+      "lang": "en"
+    },
+    {
+      "text": "this and the cool thing is because of",
+      "duration": 3.68,
+      "offset": 843.2,
+      "lang": "en"
+    },
+    {
+      "text": "the Integrations they have you&#39;re able",
+      "duration": 4.0,
+      "offset": 845.0,
+      "lang": "en"
+    },
+    {
+      "text": "to then pick it up and keep building it",
+      "duration": 4.36,
+      "offset": 846.88,
+      "lang": "en"
+    },
+    {
+      "text": "from there okay so now that I&#39;m finished",
+      "duration": 5.2,
+      "offset": 849.0,
+      "lang": "en"
+    },
+    {
+      "text": "working on this app um one other cool",
+      "duration": 5.0,
+      "offset": 851.24,
+      "lang": "en"
+    },
+    {
+      "text": "thing about lovable is that it&#39;s really",
+      "duration": 4.12,
+      "offset": 854.2,
+      "lang": "en"
+    },
+    {
+      "text": "easy to then deploy this so I can just",
+      "duration": 5.08,
+      "offset": 856.24,
+      "lang": "en"
+    },
+    {
+      "text": "click this publish button up here and",
+      "duration": 5.56,
+      "offset": 858.32,
+      "lang": "en"
+    },
+    {
+      "text": "make it public hit",
+      "duration": 6.16,
+      "offset": 861.32,
+      "lang": "en"
+    },
+    {
+      "text": "deploy and it&#39;s going to you know put",
+      "duration": 5.24,
+      "offset": 863.88,
+      "lang": "en"
+    },
+    {
+      "text": "this app online so that other people",
+      "duration": 3.8,
+      "offset": 867.48,
+      "lang": "en"
+    },
+    {
+      "text": "people can actually use it here we go",
+      "duration": 4.96,
+      "offset": 869.12,
+      "lang": "en"
+    },
+    {
+      "text": "not snapshare lovable app and we can log",
+      "duration": 5.04,
+      "offset": 871.28,
+      "lang": "en"
+    },
+    {
+      "text": "in and and start using this thing and",
+      "duration": 4.32,
+      "offset": 874.08,
+      "lang": "en"
+    },
+    {
+      "text": "they also have some support for custom",
+      "duration": 4.56,
+      "offset": 876.32,
+      "lang": "en"
+    },
+    {
+      "text": "domains here I haven&#39;t tried it out uh",
+      "duration": 4.64,
+      "offset": 878.4,
+      "lang": "en"
+    },
+    {
+      "text": "just yet so if I wanted this to be like",
+      "duration": 4.72,
+      "offset": 880.88,
+      "lang": "en"
+    },
+    {
+      "text": "notes share.com or something like that",
+      "duration": 5.28,
+      "offset": 883.04,
+      "lang": "en"
+    },
+    {
+      "text": "then you know I would be able to do that",
+      "duration": 5.2,
+      "offset": 885.6,
+      "lang": "en"
+    },
+    {
+      "text": "um and that&#39;s a really smooth process so",
+      "duration": 4.24,
+      "offset": 888.32,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ll handle that for you the things",
+      "duration": 4.24,
+      "offset": 890.8,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m not totally certain about are how it",
+      "duration": 4.84,
+      "offset": 892.56,
+      "lang": "en"
+    },
+    {
+      "text": "handles like totally backend sort of",
+      "duration": 4.0,
+      "offset": 895.04,
+      "lang": "en"
+    },
+    {
+      "text": "things like if I need to do a bunch of",
+      "duration": 4.32,
+      "offset": 897.4,
+      "lang": "en"
+    },
+    {
+      "text": "web scraping or something like that um",
+      "duration": 4.72,
+      "offset": 899.04,
+      "lang": "en"
+    },
+    {
+      "text": "and how it actually handles these",
+      "duration": 4.2,
+      "offset": 901.72,
+      "lang": "en"
+    },
+    {
+      "text": "deploys and whether it&#39;s going to be",
+      "duration": 4.64,
+      "offset": 903.76,
+      "lang": "en"
+    },
+    {
+      "text": "able to autoscale servers for me that&#39;s",
+      "duration": 4.72,
+      "offset": 905.92,
+      "lang": "en"
+    },
+    {
+      "text": "something I&#39;ll investigate as I continue",
+      "duration": 4.52,
+      "offset": 908.4,
+      "lang": "en"
+    },
+    {
+      "text": "to explore the platform so lovable",
+      "duration": 4.32,
+      "offset": 910.64,
+      "lang": "en"
+    },
+    {
+      "text": "definitely seems like a powerful way to",
+      "duration": 3.96,
+      "offset": 912.92,
+      "lang": "en"
+    },
+    {
+      "text": "start new projects especially if you&#39;re",
+      "duration": 4.68,
+      "offset": 914.96,
+      "lang": "en"
+    },
+    {
+      "text": "okay with using superbase and GitHub and",
+      "duration": 6.36,
+      "offset": 916.88,
+      "lang": "en"
+    },
+    {
+      "text": "relying on common Frameworks like react",
+      "duration": 5.12,
+      "offset": 919.64,
+      "lang": "en"
+    },
+    {
+      "text": "uh it&#39;s going to actually do a really",
+      "duration": 3.6,
+      "offset": 923.24,
+      "lang": "en"
+    },
+    {
+      "text": "good job of getting a project started",
+      "duration": 4.88,
+      "offset": 924.76,
+      "lang": "en"
+    },
+    {
+      "text": "for you I&#39;m curious to test it out on",
+      "duration": 5.76,
+      "offset": 926.84,
+      "lang": "en"
+    },
+    {
+      "text": "larger code bases to see how it performs",
+      "duration": 5.0,
+      "offset": 929.64,
+      "lang": "en"
+    },
+    {
+      "text": "I do think it&#39;s geared a little bit more",
+      "duration": 4.68,
+      "offset": 932.6,
+      "lang": "en"
+    },
+    {
+      "text": "towards getting projects off the ground",
+      "duration": 4.44,
+      "offset": 934.64,
+      "lang": "en"
+    },
+    {
+      "text": "but I will try it with a larger code",
+      "duration": 3.72,
+      "offset": 937.28,
+      "lang": "en"
+    },
+    {
+      "text": "base and see how it performs and then",
+      "duration": 4.04,
+      "offset": 939.08,
+      "lang": "en"
+    },
+    {
+      "text": "give it a more complete review so one",
+      "duration": 3.8,
+      "offset": 941.0,
+      "lang": "en"
+    },
+    {
+      "text": "thing to keep in mind about lovable is",
+      "duration": 3.6,
+      "offset": 943.12,
+      "lang": "en"
+    },
+    {
+      "text": "that it is more expensive than some of",
+      "duration": 4.36,
+      "offset": 944.8,
+      "lang": "en"
+    },
+    {
+      "text": "the other options that are available so",
+      "duration": 6.32,
+      "offset": 946.72,
+      "lang": "en"
+    },
+    {
+      "text": "with the $20 a month you only get a 100",
+      "duration": 6.2,
+      "offset": 949.16,
+      "lang": "en"
+    },
+    {
+      "text": "requests uh for the course of that month",
+      "duration": 4.32,
+      "offset": 953.04,
+      "lang": "en"
+    },
+    {
+      "text": "and so this demo took me I don&#39;t know",
+      "duration": 4.32,
+      "offset": 955.36,
+      "lang": "en"
+    },
+    {
+      "text": "about 105 requests",
+      "duration": 4.68,
+      "offset": 957.36,
+      "lang": "en"
+    },
+    {
+      "text": "so you know you&#39;re not going to be",
+      "duration": 5.0,
+      "offset": 959.68,
+      "lang": "en"
+    },
+    {
+      "text": "working in this thing all day every day",
+      "duration": 4.16,
+      "offset": 962.04,
+      "lang": "en"
+    },
+    {
+      "text": "like you are with something like cursor",
+      "duration": 3.96,
+      "offset": 964.68,
+      "lang": "en"
+    },
+    {
+      "text": "or wind surf that has unlimited you know",
+      "duration": 4.68,
+      "offset": 966.2,
+      "lang": "en"
+    },
+    {
+      "text": "slow queries you&#39;re definitely going to",
+      "duration": 5.12,
+      "offset": 968.64,
+      "lang": "en"
+    },
+    {
+      "text": "hit those limits a lot quicker and you",
+      "duration": 5.0,
+      "offset": 970.88,
+      "lang": "en"
+    },
+    {
+      "text": "know it gets pretty pricey uh pretty",
+      "duration": 4.68,
+      "offset": 973.76,
+      "lang": "en"
+    },
+    {
+      "text": "quickly that being said I think the",
+      "duration": 5.04,
+      "offset": 975.88,
+      "lang": "en"
+    },
+    {
+      "text": "superbase and the GitHub Integrations",
+      "duration": 4.52,
+      "offset": 978.44,
+      "lang": "en"
+    },
+    {
+      "text": "and just the fact that it works very",
+      "duration": 4.28,
+      "offset": 980.92,
+      "lang": "en"
+    },
+    {
+      "text": "smoothly really set it apart from some",
+      "duration": 4.4,
+      "offset": 982.96,
+      "lang": "en"
+    },
+    {
+      "text": "of the other options and I really think",
+      "duration": 3.72,
+      "offset": 985.2,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ve done a great job with the over",
+      "duration": 3.56,
+      "offset": 987.36,
+      "lang": "en"
+    },
+    {
+      "text": "over all user experience it&#39;s definitely",
+      "duration": 4.72,
+      "offset": 988.92,
+      "lang": "en"
+    },
+    {
+      "text": "simplified but also because of those",
+      "duration": 5.08,
+      "offset": 990.92,
+      "lang": "en"
+    },
+    {
+      "text": "Integrations it&#39;s capable of doing quite",
+      "duration": 5.12,
+      "offset": 993.64,
+      "lang": "en"
+    },
+    {
+      "text": "a lot now lovable isn&#39;t the only AI app",
+      "duration": 4.36,
+      "offset": 996.0,
+      "lang": "en"
+    },
+    {
+      "text": "builder out there so check out this",
+      "duration": 3.16,
+      "offset": 998.76,
+      "lang": "en"
+    },
+    {
+      "text": "video to see what I thought about some",
+      "duration": 3.68,
+      "offset": 1000.36,
+      "lang": "en"
+    },
+    {
+      "text": "of the other ones as always thanks for",
+      "duration": 3.56,
+      "offset": 1001.92,
+      "lang": "en"
+    },
+    {
+      "text": "watching and I&#39;ll see you in the next",
+      "duration": 4.88,
+      "offset": 1004.04,
+      "lang": "en"
+    },
+    {
+      "text": "one take care",
+      "duration": 3.44,
+      "offset": 1005.48,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.productgrowth.blog/p/how-midjourney-hit-500m-arr",
+    "title": "how-midjourney-hit-500m-arr",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://devgraphiq.com/midjourney-statistics/",
+    "title": "midjourney-statistics",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/microsaas/comments/1rf4fvh/midjourney_generates_3m_per_employee_with_0_vc/",
+    "title": "midjourney_generates_3m_per_employee_with_0_vc",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

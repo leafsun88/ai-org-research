@@ -1,0 +1,361 @@
+{
+  "research_key": "ANTHROPIC",
+  "company": "Anthropic",
+  "channel": "founder_voice",
+  "generated_at": "2026-04-17T13:23:19",
+  "total_records": 50,
+  "success_records": 8,
+  "failure_records": 42,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-full-transcript/",
+      "title": "Anthropic CEO Dario Amodei full transcript",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://lexfridman.com/dario-amodei-transcript/",
+      "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://singjupost.com/anthropic-ceo-dario-amodeis-interview-on-dwarkesh-podcast-transcript/",
+      "title": "Anthropic CEO Dario Amodei's Interview on Dwarkesh Podcast (Transcript)",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.dwarkesh.com/p/dario-amodei",
+      "title": "Dario Amodei (Anthropic CEO) - Dwarkesh Podcast",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://singjupost.com/transcript-anthropic-ceo-dario-amodeis-interview-on-big-technology-podcast/",
+      "title": "Transcript: Anthropic CEO Dario Amodei's Interview on Big Technology Podcast",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://podscripts.co/podcasts/hard-fork/anthropics-ceo-dario-amodei-on-surviving-the-ai-endgame",
+      "title": "Hard Fork - Anthropic's C.E.O. Dario Amodei on Surviving the A.I. Endgame",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.darioamodei.com/essay/the-adolescence-of-technology",
+      "title": "from perplexity citation",
+      "chars": 131055,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_from_perplexity_citation.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://transcriptmate.com/interviews/dario-amodei/dario-amodei-on-ai-s-impact-opportunity-risk-and-societal-adaptation/interview_executive_summary",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.lesswrong.com/posts/vLp5wvSzZXWzEEZJh/podcast-transcript-daniela-and-dario-amodei-on-anthropic",
+      "title": "Podcast Transcript: Daniela and Dario Amodei on Anthropic",
+      "chars": 132906,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_podcast_transcript_daniela_and_dario_amodei_on_anthropic.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://open.spotify.com/episode/0qGrk6jkHIklVFVlVNasOI",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=8cJAXfbuzx0",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://sixthstreet.com/podcasts/a-conversation-with-daniela-amodei-co-founder-and-president-of-anthropic/",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://kitrum.com/blog/the-inspiring-story-of-daniela-amodei-anthropics-leader/",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=Ly8uHk4S70M",
+      "title": "Anthropic's Jared Kaplan on the Future of AI Agents",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.lifewithmachines.media/p/from-scaling-laws-to-safe-ai-anthropics",
+      "title": "From Scaling Laws to Safe AI: Anthropic's Jared Kaplan",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=p8Jx4qvDoSo",
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-Founder Jared Kaplan",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=zy4sqhBUINU",
+      "title": "Anthropic Co-Founder Jared Kaplan Discusses Future of AI",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.ycombinator.com/library/Ml-scaling-and-the-road-to-human-level-ai-anthropic-co-founder-jared-kaplan",
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=p8Jx4qvDoSo&vl=en-US",
+      "title": "from perplexity citation",
+      "error": "HTTPSConnectionPool(host='www.youtube.com', port=443): Max retries exceeded with url: /watch?v=p8Jx4qvDoSo&vl=en-US (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.hubspot.com/startups/tech-stacks/ai/breakthroughs-in-llm-research",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://open.spotify.com/episode/3wWkcT5ckaA6B0LiHJlNmz",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://podcasts.apple.com/mt/podcast/jack-clark/id1671669052?i=1000711127134",
+      "title": "Jack Clark–Tetragrammaton with Rick Rubin - Apple Podcasts",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2025/03/07/5-questions-for-jack-clark-00218274",
+      "title": "5 Questions for Jack Clark - POLITICO",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://jack-clark.net/2023/07/18/ai-safety-and-corporate-power-remarks-given-at-the-un-security-council/",
+      "title": "AI Safety and Corporate Power – remarks given at the United Nations Security Council",
+      "error": "HTTP 429",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=b1-OuHWu88Y",
+      "title": "AI, policy, and the weird sci-fi future with Anthropic's Jack Clark",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://joetechnologist.com/fireside-chat-frontiers-foundations-a-conversation-with-jack-clark-co-founder-of-anthropic/",
+      "title": "A Conversation with Jack Clark, Co-founder of Anthropic – JT ...",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.aol.com/articles/anthropic-changes-safety-policy-amid-224211109.html",
+      "title": "from perplexity citation",
+      "chars": 5016,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_from_perplexity_citation.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://romulusstrategy.substack.com/p/anthropic-building-the-safety-first",
+      "title": "Anthropic: Building the “Safety-First” AI Company in a Speed ...",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://research.contrary.com/company/anthropic",
+      "title": "Anthropic Business Breakdown & Founding Story | Contrary Research",
+      "chars": 114619,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_anthropic_business_breakdown_founding_story_contrary_research.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=om2lIWXLLN4",
+      "title": "Building Anthropic | A conversation with our co-founders - YouTube",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=ZwYG6pEW39I",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://en.wikipedia.org/wiki/Anthropic",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://cyberscoop.com/house-homeland-asks-anthropic-ceo-to-testfy-on-chinese-espionage-campaign/",
+      "title": "Congress calls on Anthropic CEO to testify on Chinese Claude espionage campaign",
+      "chars": 4815,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_congress_calls_on_anthropic_ceo_to_testify_on_chinese_claude_espionage_campaign.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.axios.com/2025/11/26/anthropic-google-cloud-quantum-xchange-house-homeland-hearing",
+      "title": "Exclusive: Anthropic CEO called to testify on Chinese AI cyberattack",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.judiciary.senate.gov/imo/media/doc/2023-07-26_-_testimony_-_amodei.pdf",
+      "title": "Written Testimony of Dario Amodei, Ph.D.",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://hipaatimes.com/house-committee-requests-anthropic-ceo-testimony-on-chinese-ai-enabled-cyber-campaign",
+      "title": "House Committee requests Anthropic CEO testimony on Chinese AI-enabled cyber campaign",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://homeland.house.gov/wp-content/uploads/2025/11/2025-11-26-CHS-to-Anthropic-re-Request-to-Testify.pdf",
+      "title": "November 26, 2025 Request to Testify - House Homeland Security Committee",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=3yorhctVvm4",
+      "title": "Watch again: Anthropic CEO testifies to Senate",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=zeduU9BWHD0",
+      "title": "Dario Amodei's message to Congress on AI",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://baincapitalventures.com/insight/anthropic-cofounder-and-president-daniela-amodei-on-how-to-maintain-startup-culture-in-hypergrowth/",
+      "title": "Anthropic's Daniela Amodei on How To Maintain Your Startup's Culture in Hypergrowth",
+      "chars": 3734,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_anthropics_daniela_amodei_on_how_to_maintain_your_startups_culture_in_hypergrowt.md"
+    },
+    {
+      "status": "success",
+      "url": "https://fortune.com/2026/02/07/anthropic-cofounder-daniela-amodei-humanities-majors-soft-skills-hiring-ai-stem/",
+      "title": "Anthropic cofounder says studying the humanities will be 'more important than ever' and reveals what the AI company looks for when hiring",
+      "chars": 9868,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/2026-02-07_anthropic_cofounder_says_studying_the_humanities_will_be_more_important_than_eve.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.vanta.com/resources/hiring-10x-engineers-at-anthropic",
+      "title": "Building the Team at Anthropic: Daniela Amodei on Hiring 10x AI Engineers",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=iTaHatJKphg",
+      "title": "A Conversation with Daniela Amodei, Co-Founder and President of Anthropic",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://www.paraform.com/blog/anthropic-hiring-culture",
+      "title": "Why Anthropic's talent strategy will help them win the AI race",
+      "chars": 6555,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/ANTHROPIC/sources/founder_voice/unknown_why_anthropics_talent_strategy_will_help_them_win_the_ai_race.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.semafor.com/article/03/06/2026/anthropics-amodei-grows-up-on-the-job",
+      "title": "View: Anthropic's Amodei grows up on the job",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://futureoflife.org/podcast/daniela-and-dario-amodei-on-anthropic/",
+      "title": "Daniela and Dario Amodei on Anthropic",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.youtube.com/watch?v=uAA6PZkek4A",
+      "title": "Daniela and Dario Amodei on Anthropic",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://podcasts.apple.com/in/podcast/anthropic-ceo-dario-amodei-ais-potential-openai-rivalry/id1522960417?i=1000719782760",
+      "title": "Anthropic CEO Dario Amodei: AI’s Potential, OpenAI Rivalry",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://open.spotify.com/episode/69V7CtdbB8blcxNPXvpnmk",
+      "title": "Dario Amodei: Anthropic CEO on Claude, AGI & the Future of AI",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "failed",
+      "url": "https://news.ycombinator.com/item?id=47176744",
+      "title": "from perplexity citation",
+      "error": "Content too short (likely paywall)",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

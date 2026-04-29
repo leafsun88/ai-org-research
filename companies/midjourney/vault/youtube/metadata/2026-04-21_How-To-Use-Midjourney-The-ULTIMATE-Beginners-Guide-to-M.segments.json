@@ -1,0 +1,2955 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "J3DWZ60ShzM",
+  "url": "https://www.youtube.com/watch?v=J3DWZ60ShzM",
+  "title": "How To Use Midjourney | The ULTIMATE Beginners Guide to Midjourney 2025",
+  "channel": "Wes Roth",
+  "source_queries": [
+    "Midjourney V7 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:10:26",
+  "segments": [
+    {
+      "text": "So, in this video, let&#39;s talk about how",
+      "duration": 4.64,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "to use Midjourney. MidJourney has been",
+      "duration": 7.12,
+      "offset": 1.52,
+      "lang": "en"
+    },
+    {
+      "text": "one of my most used AI tools perhaps",
+      "duration": 6.24,
+      "offset": 4.72,
+      "lang": "en"
+    },
+    {
+      "text": "ever. Actually, I&#39;m pretty sure of it.",
+      "duration": 4.0,
+      "offset": 8.64,
+      "lang": "en"
+    },
+    {
+      "text": "So, this going to be a full tutorial how",
+      "duration": 4.08,
+      "offset": 10.96,
+      "lang": "en"
+    },
+    {
+      "text": "to use MidJourney, comprehensive list of",
+      "duration": 4.08,
+      "offset": 12.64,
+      "lang": "en"
+    },
+    {
+      "text": "prompts you can use, but specifically",
+      "duration": 3.36,
+      "offset": 15.04,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to get at the kind of",
+      "duration": 3.52,
+      "offset": 16.72,
+      "lang": "en"
+    },
+    {
+      "text": "foundational level so that you&#39;re able",
+      "duration": 4.48,
+      "offset": 18.4,
+      "lang": "en"
+    },
+    {
+      "text": "to understand exactly how to do it. I&#39;ll",
+      "duration": 4.4,
+      "offset": 20.24,
+      "lang": "en"
+    },
+    {
+      "text": "show you the best building blocks to",
+      "duration": 4.48,
+      "offset": 22.88,
+      "lang": "en"
+    },
+    {
+      "text": "create the best images and video",
+      "duration": 4.8,
+      "offset": 24.64,
+      "lang": "en"
+    },
+    {
+      "text": "possible. Now, when I say I&#39;ve used",
+      "duration": 4.64,
+      "offset": 27.36,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney, I am not kidding around.",
+      "duration": 4.56,
+      "offset": 29.44,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been creating images with it for a",
+      "duration": 3.76,
+      "offset": 32.0,
+      "lang": "en"
+    },
+    {
+      "text": "long, long time. Here&#39;s a few images",
+      "duration": 4.0,
+      "offset": 34.0,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve made yesterday. And if you scroll",
+      "duration": 4.4,
+      "offset": 35.76,
+      "lang": "en"
+    },
+    {
+      "text": "back, not all of them are loading just",
+      "duration": 4.72,
+      "offset": 38.0,
+      "lang": "en"
+    },
+    {
+      "text": "because of the sheer amount of how many",
+      "duration": 4.08,
+      "offset": 40.16,
+      "lang": "en"
+    },
+    {
+      "text": "videos I&#39;ve created. But as you can see",
+      "duration": 4.88,
+      "offset": 42.72,
+      "lang": "en"
+    },
+    {
+      "text": "here, there&#39;s a lot a lot a lot like",
+      "duration": 4.96,
+      "offset": 44.24,
+      "lang": "en"
+    },
+    {
+      "text": "thousands, maybe in the tens of",
+      "duration": 4.08,
+      "offset": 47.6,
+      "lang": "en"
+    },
+    {
+      "text": "thousands already going back to January",
+      "duration": 5.28,
+      "offset": 49.2,
+      "lang": "en"
+    },
+    {
+      "text": "2023. By the way, these were",
+      "duration": 4.72,
+      "offset": 51.68,
+      "lang": "en"
+    },
+    {
+      "text": "state-of-the-art at the time. Recently,",
+      "duration": 4.08,
+      "offset": 54.48,
+      "lang": "en"
+    },
+    {
+      "text": "MidJourney added the ability to turn",
+      "duration": 5.12,
+      "offset": 56.4,
+      "lang": "en"
+    },
+    {
+      "text": "those images into videos and the videos",
+      "duration": 5.76,
+      "offset": 58.56,
+      "lang": "en"
+    },
+    {
+      "text": "have been absolutely mind-blowing,",
+      "duration": 5.04,
+      "offset": 61.52,
+      "lang": "en"
+    },
+    {
+      "text": "really capturing kind of the essence of",
+      "duration": 5.36,
+      "offset": 64.32,
+      "lang": "en"
+    },
+    {
+      "text": "the image. So, I absolutely love it.",
+      "duration": 4.96,
+      "offset": 66.56,
+      "lang": "en"
+    },
+    {
+      "text": "They also started partnering with Meta",
+      "duration": 4.96,
+      "offset": 69.68,
+      "lang": "en"
+    },
+    {
+      "text": "aka Facebook. So, expect to see this art",
+      "duration": 5.52,
+      "offset": 71.52,
+      "lang": "en"
+    },
+    {
+      "text": "style a lot more. All right, let&#39;s dive",
+      "duration": 3.68,
+      "offset": 74.64,
+      "lang": "en"
+    },
+    {
+      "text": "in. To get started, go to",
+      "duration": 3.04,
+      "offset": 77.04,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney.com,",
+      "duration": 4.96,
+      "offset": 78.32,
+      "lang": "en"
+    },
+    {
+      "text": "sign in, and open create. That&#39;s this",
+      "duration": 5.68,
+      "offset": 80.08,
+      "lang": "en"
+    },
+    {
+      "text": "little icon right there. Type in your",
+      "duration": 5.68,
+      "offset": 83.28,
+      "lang": "en"
+    },
+    {
+      "text": "prompt in here and then hit enter. So",
+      "duration": 5.36,
+      "offset": 85.76,
+      "lang": "en"
+    },
+    {
+      "text": "here&#39;s my prompt. I typed in an origami",
+      "duration": 4.4,
+      "offset": 88.96,
+      "lang": "en"
+    },
+    {
+      "text": "style combat scene from John Wick where",
+      "duration": 4.48,
+      "offset": 91.12,
+      "lang": "en"
+    },
+    {
+      "text": "the origami Kiana Reeves wielding a",
+      "duration": 4.08,
+      "offset": 93.36,
+      "lang": "en"
+    },
+    {
+      "text": "samurai sword in one hand and a pistol",
+      "duration": 4.08,
+      "offset": 95.6,
+      "lang": "en"
+    },
+    {
+      "text": "in the other engages in a battle with a",
+      "duration": 4.56,
+      "offset": 97.44,
+      "lang": "en"
+    },
+    {
+      "text": "group of assassins. Now don&#39;t worry",
+      "duration": 3.84,
+      "offset": 99.68,
+      "lang": "en"
+    },
+    {
+      "text": "about the rest of it yet. It&#39;ll make",
+      "duration": 3.04,
+      "offset": 102.0,
+      "lang": "en"
+    },
+    {
+      "text": "sense in just a second. We&#39;re going to",
+      "duration": 4.64,
+      "offset": 103.52,
+      "lang": "en"
+    },
+    {
+      "text": "hit enter or clicked submit and it&#39;s",
+      "duration": 5.2,
+      "offset": 105.04,
+      "lang": "en"
+    },
+    {
+      "text": "going to get to work creating whatever",
+      "duration": 4.24,
+      "offset": 108.16,
+      "lang": "en"
+    },
+    {
+      "text": "our mind imagines. And so it&#39;s",
+      "duration": 3.76,
+      "offset": 110.24,
+      "lang": "en"
+    },
+    {
+      "text": "approaching completion and you can kind",
+      "duration": 4.32,
+      "offset": 112.4,
+      "lang": "en"
+    },
+    {
+      "text": "of see the model sort of like bring the",
+      "duration": 4.64,
+      "offset": 114.0,
+      "lang": "en"
+    },
+    {
+      "text": "image to life from something that&#39;s very",
+      "duration": 4.0,
+      "offset": 116.72,
+      "lang": "en"
+    },
+    {
+      "text": "blurry to something that is looking",
+      "duration": 4.16,
+      "offset": 118.64,
+      "lang": "en"
+    },
+    {
+      "text": "pretty good. So you can click on them to",
+      "duration": 3.68,
+      "offset": 120.72,
+      "lang": "en"
+    },
+    {
+      "text": "see them a little bit better. You can",
+      "duration": 3.6,
+      "offset": 122.8,
+      "lang": "en"
+    },
+    {
+      "text": "cycle through them by clicking or with",
+      "duration": 4.24,
+      "offset": 124.4,
+      "lang": "en"
+    },
+    {
+      "text": "the arrow keys. I got to say all of",
+      "duration": 5.12,
+      "offset": 126.4,
+      "lang": "en"
+    },
+    {
+      "text": "these are looking pretty good. This is",
+      "duration": 5.84,
+      "offset": 128.64,
+      "lang": "en"
+    },
+    {
+      "text": "probably my favorite. I mean come on.",
+      "duration": 5.84,
+      "offset": 131.52,
+      "lang": "en"
+    },
+    {
+      "text": "That&#39;s pretty good, right? That doesn&#39;t",
+      "duration": 4.8,
+      "offset": 134.48,
+      "lang": "en"
+    },
+    {
+      "text": "look like origami. It looks like paper",
+      "duration": 3.52,
+      "offset": 137.36,
+      "lang": "en"
+    },
+    {
+      "text": "or paperier-mâché, whatever you want to",
+      "duration": 4.0,
+      "offset": 139.28,
+      "lang": "en"
+    },
+    {
+      "text": "call that. John Wick. Phenomenal. Now,",
+      "duration": 5.2,
+      "offset": 140.88,
+      "lang": "en"
+    },
+    {
+      "text": "if you notice some imperfections here or",
+      "duration": 4.96,
+      "offset": 143.28,
+      "lang": "en"
+    },
+    {
+      "text": "some things that feel off, don&#39;t worry",
+      "duration": 3.92,
+      "offset": 146.08,
+      "lang": "en"
+    },
+    {
+      "text": "about it because this is just sort of",
+      "duration": 3.76,
+      "offset": 148.24,
+      "lang": "en"
+    },
+    {
+      "text": "like the first draft. When you generate",
+      "duration": 3.84,
+      "offset": 150.0,
+      "lang": "en"
+    },
+    {
+      "text": "images, they&#39;re going to be numbered 1",
+      "duration": 5.12,
+      "offset": 152.0,
+      "lang": "en"
+    },
+    {
+      "text": "through 4. 1 2 3 4. Or if you get a grid",
+      "duration": 5.92,
+      "offset": 153.84,
+      "lang": "en"
+    },
+    {
+      "text": "more like this, it&#39;s going to be 1 2 3",
+      "duration": 5.04,
+      "offset": 157.12,
+      "lang": "en"
+    },
+    {
+      "text": "4. Now, the next step is to do one of",
+      "duration": 6.64,
+      "offset": 159.76,
+      "lang": "en"
+    },
+    {
+      "text": "two things. Either vary or upscale. So,",
+      "duration": 6.96,
+      "offset": 162.16,
+      "lang": "en"
+    },
+    {
+      "text": "as you can see here, it says V subtle, V",
+      "duration": 6.0,
+      "offset": 166.4,
+      "lang": "en"
+    },
+    {
+      "text": "strong. V is for very as in I like this",
+      "duration": 4.96,
+      "offset": 169.12,
+      "lang": "en"
+    },
+    {
+      "text": "concept you&#39;re going with. Give me more",
+      "duration": 2.96,
+      "offset": 172.4,
+      "lang": "en"
+    },
+    {
+      "text": "like that. Like for example, out of",
+      "duration": 3.6,
+      "offset": 174.08,
+      "lang": "en"
+    },
+    {
+      "text": "these four, I&#39;m really liking this.",
+      "duration": 4.88,
+      "offset": 175.36,
+      "lang": "en"
+    },
+    {
+      "text": "Subtle means give me more like that with",
+      "duration": 5.6,
+      "offset": 177.68,
+      "lang": "en"
+    },
+    {
+      "text": "subtle changes. And V strong means give",
+      "duration": 5.44,
+      "offset": 180.24,
+      "lang": "en"
+    },
+    {
+      "text": "me more like that with big strong",
+      "duration": 5.6,
+      "offset": 183.28,
+      "lang": "en"
+    },
+    {
+      "text": "changes. So I&#39;ll click V strong and I&#39;ll",
+      "duration": 6.0,
+      "offset": 185.68,
+      "lang": "en"
+    },
+    {
+      "text": "click V subtle so we can see sort of the",
+      "duration": 4.32,
+      "offset": 188.88,
+      "lang": "en"
+    },
+    {
+      "text": "difference between the two. Animate",
+      "duration": 3.12,
+      "offset": 191.68,
+      "lang": "en"
+    },
+    {
+      "text": "creates our video for us. We&#39;ll get to",
+      "duration": 3.52,
+      "offset": 193.2,
+      "lang": "en"
+    },
+    {
+      "text": "that in just a second. So these are the",
+      "duration": 4.48,
+      "offset": 194.8,
+      "lang": "en"
+    },
+    {
+      "text": "two results we asked for. One is subtle",
+      "duration": 4.96,
+      "offset": 196.72,
+      "lang": "en"
+    },
+    {
+      "text": "and one is strong. You can probably tell",
+      "duration": 4.0,
+      "offset": 199.28,
+      "lang": "en"
+    },
+    {
+      "text": "which one&#39;s which, right? So, this is",
+      "duration": 4.4,
+      "offset": 201.68,
+      "lang": "en"
+    },
+    {
+      "text": "the subtle one. Notice it remains very",
+      "duration": 5.04,
+      "offset": 203.28,
+      "lang": "en"
+    },
+    {
+      "text": "similar to that original one. There are",
+      "duration": 4.96,
+      "offset": 206.08,
+      "lang": "en"
+    },
+    {
+      "text": "subtle small changes, but the scene, the",
+      "duration": 4.24,
+      "offset": 208.32,
+      "lang": "en"
+    },
+    {
+      "text": "composition stays the same. The one on",
+      "duration": 3.36,
+      "offset": 211.04,
+      "lang": "en"
+    },
+    {
+      "text": "the bottom is the strong one, right?",
+      "duration": 4.32,
+      "offset": 212.56,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re changing clothes, position, you",
+      "duration": 4.08,
+      "offset": 214.4,
+      "lang": "en"
+    },
+    {
+      "text": "know what he&#39;s holding. Like, there&#39;s",
+      "duration": 3.52,
+      "offset": 216.88,
+      "lang": "en"
+    },
+    {
+      "text": "big changes being made. So, if we take a",
+      "duration": 3.76,
+      "offset": 218.48,
+      "lang": "en"
+    },
+    {
+      "text": "look at the strong one, man, that&#39;s",
+      "duration": 5.28,
+      "offset": 220.4,
+      "lang": "en"
+    },
+    {
+      "text": "really good. Okay, so that&#39;s one, two,",
+      "duration": 6.24,
+      "offset": 222.24,
+      "lang": "en"
+    },
+    {
+      "text": "three, and four. And for the subtle",
+      "duration": 6.0,
+      "offset": 225.68,
+      "lang": "en"
+    },
+    {
+      "text": "changes, this is one, two, three, and",
+      "duration": 5.68,
+      "offset": 228.48,
+      "lang": "en"
+    },
+    {
+      "text": "four. I don&#39;t know about you, I&#39;m really",
+      "duration": 4.8,
+      "offset": 231.68,
+      "lang": "en"
+    },
+    {
+      "text": "liking this one. All right. So, what&#39;s",
+      "duration": 4.4,
+      "offset": 234.16,
+      "lang": "en"
+    },
+    {
+      "text": "next? Let&#39;s slide it out a little bit",
+      "duration": 3.76,
+      "offset": 236.48,
+      "lang": "en"
+    },
+    {
+      "text": "like this. And in the right bar, you&#39;re",
+      "duration": 4.08,
+      "offset": 238.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to see a lot more actions that we",
+      "duration": 4.96,
+      "offset": 240.24,
+      "lang": "en"
+    },
+    {
+      "text": "can take. So, we tried vary, right? So,",
+      "duration": 4.8,
+      "offset": 242.64,
+      "lang": "en"
+    },
+    {
+      "text": "we make images similar to this one with",
+      "duration": 5.12,
+      "offset": 245.2,
+      "lang": "en"
+    },
+    {
+      "text": "slight changes or strong changes. And",
+      "duration": 5.28,
+      "offset": 247.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can keep doing that iteration for as",
+      "duration": 4.48,
+      "offset": 250.32,
+      "lang": "en"
+    },
+    {
+      "text": "long as you want. Just keep varying",
+      "duration": 4.48,
+      "offset": 252.72,
+      "lang": "en"
+    },
+    {
+      "text": "subtle things, creating new images, and",
+      "duration": 4.64,
+      "offset": 254.8,
+      "lang": "en"
+    },
+    {
+      "text": "just seeing if you can get that perfect",
+      "duration": 4.08,
+      "offset": 257.2,
+      "lang": "en"
+    },
+    {
+      "text": "look that you&#39;re going for. Or once",
+      "duration": 3.84,
+      "offset": 259.44,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re done, you can click upscale. This",
+      "duration": 4.16,
+      "offset": 261.28,
+      "lang": "en"
+    },
+    {
+      "text": "creates a larger version of the image,",
+      "duration": 5.12,
+      "offset": 263.28,
+      "lang": "en"
+    },
+    {
+      "text": "much higher resolution. And also, I find",
+      "duration": 5.76,
+      "offset": 265.44,
+      "lang": "en"
+    },
+    {
+      "text": "if there&#39;s any weirdness on the original",
+      "duration": 4.4,
+      "offset": 268.4,
+      "lang": "en"
+    },
+    {
+      "text": "ones, it tends to smooth it out. So,",
+      "duration": 3.04,
+      "offset": 271.2,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re just throwing kind of more compute",
+      "duration": 3.36,
+      "offset": 272.8,
+      "lang": "en"
+    },
+    {
+      "text": "at it, more resources to generate that",
+      "duration": 4.32,
+      "offset": 274.24,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful image. And again, we can do a",
+      "duration": 5.6,
+      "offset": 276.16,
+      "lang": "en"
+    },
+    {
+      "text": "subtle or a more creative upscale. I&#39;ll",
+      "duration": 5.12,
+      "offset": 278.56,
+      "lang": "en"
+    },
+    {
+      "text": "hit subtle and then I&#39;ll hit creative",
+      "duration": 4.08,
+      "offset": 281.76,
+      "lang": "en"
+    },
+    {
+      "text": "just so we can see how both of them look",
+      "duration": 4.08,
+      "offset": 283.68,
+      "lang": "en"
+    },
+    {
+      "text": "like. And now our two upscales are",
+      "duration": 4.8,
+      "offset": 285.84,
+      "lang": "en"
+    },
+    {
+      "text": "complete. This is the subtle one. Let&#39;s",
+      "duration": 5.2,
+      "offset": 287.76,
+      "lang": "en"
+    },
+    {
+      "text": "blow it up a little bit. Look at that.",
+      "duration": 4.56,
+      "offset": 290.64,
+      "lang": "en"
+    },
+    {
+      "text": "Look at the detail on that. You can kind",
+      "duration": 4.32,
+      "offset": 292.96,
+      "lang": "en"
+    },
+    {
+      "text": "of tell the texture, the fabric,",
+      "duration": 3.28,
+      "offset": 295.2,
+      "lang": "en"
+    },
+    {
+      "text": "everything. Right. So, as we&#39;re",
+      "duration": 2.88,
+      "offset": 297.28,
+      "lang": "en"
+    },
+    {
+      "text": "scrolling down, notice the kind of the",
+      "duration": 3.76,
+      "offset": 298.48,
+      "lang": "en"
+    },
+    {
+      "text": "field of view, the blurred figures in",
+      "duration": 5.12,
+      "offset": 300.16,
+      "lang": "en"
+    },
+    {
+      "text": "the background. This is looking good.",
+      "duration": 4.96,
+      "offset": 302.24,
+      "lang": "en"
+    },
+    {
+      "text": "You can tell like almost all the fingers",
+      "duration": 4.32,
+      "offset": 305.28,
+      "lang": "en"
+    },
+    {
+      "text": "and stuff like that. Terrific. So that",
+      "duration": 5.04,
+      "offset": 307.2,
+      "lang": "en"
+    },
+    {
+      "text": "is the subtle one and this is the",
+      "duration": 4.0,
+      "offset": 309.6,
+      "lang": "en"
+    },
+    {
+      "text": "creative one. So there&#39;s some things",
+      "duration": 3.6,
+      "offset": 312.24,
+      "lang": "en"
+    },
+    {
+      "text": "that are changing. There&#39;s the facial",
+      "duration": 4.88,
+      "offset": 313.6,
+      "lang": "en"
+    },
+    {
+      "text": "expressions, etc. But for the most part,",
+      "duration": 4.16,
+      "offset": 315.84,
+      "lang": "en"
+    },
+    {
+      "text": "since they&#39;re starting kind of from the",
+      "duration": 3.28,
+      "offset": 318.48,
+      "lang": "en"
+    },
+    {
+      "text": "same place, they&#39;re going to look",
+      "duration": 3.84,
+      "offset": 320.0,
+      "lang": "en"
+    },
+    {
+      "text": "somewhat similar. Here&#39;s kind of like",
+      "duration": 4.64,
+      "offset": 321.76,
+      "lang": "en"
+    },
+    {
+      "text": "the difference between the two. So the",
+      "duration": 4.96,
+      "offset": 323.84,
+      "lang": "en"
+    },
+    {
+      "text": "style changed a little bit how the folds",
+      "duration": 4.64,
+      "offset": 326.4,
+      "lang": "en"
+    },
+    {
+      "text": "are, some of the saturations. So you can",
+      "duration": 4.32,
+      "offset": 328.8,
+      "lang": "en"
+    },
+    {
+      "text": "use whichever one you prefer. All right.",
+      "duration": 4.48,
+      "offset": 331.04,
+      "lang": "en"
+    },
+    {
+      "text": "Now, let&#39;s say we like this one. In the",
+      "duration": 3.44,
+      "offset": 333.12,
+      "lang": "en"
+    },
+    {
+      "text": "bottom right, you&#39;re going to have",
+      "duration": 3.12,
+      "offset": 335.52,
+      "lang": "en"
+    },
+    {
+      "text": "animate image. It also if you&#39;re in this",
+      "duration": 4.4,
+      "offset": 336.56,
+      "lang": "en"
+    },
+    {
+      "text": "view you can hover and click animate or",
+      "duration": 3.92,
+      "offset": 338.64,
+      "lang": "en"
+    },
+    {
+      "text": "if you click on the image then the",
+      "duration": 2.96,
+      "offset": 340.96,
+      "lang": "en"
+    },
+    {
+      "text": "entire list of all the commands you can",
+      "duration": 3.2,
+      "offset": 342.56,
+      "lang": "en"
+    },
+    {
+      "text": "run will be shown here on the right you",
+      "duration": 3.84,
+      "offset": 343.92,
+      "lang": "en"
+    },
+    {
+      "text": "can download favorite you can do a lot",
+      "duration": 3.2,
+      "offset": 345.76,
+      "lang": "en"
+    },
+    {
+      "text": "of things here you can see what prompt",
+      "duration": 3.36,
+      "offset": 347.76,
+      "lang": "en"
+    },
+    {
+      "text": "you use but in the bottom is going to be",
+      "duration": 4.0,
+      "offset": 348.96,
+      "lang": "en"
+    },
+    {
+      "text": "animate image the simplest way to use it",
+      "duration": 3.68,
+      "offset": 351.12,
+      "lang": "en"
+    },
+    {
+      "text": "is going to be auto you can do low",
+      "duration": 3.84,
+      "offset": 352.96,
+      "lang": "en"
+    },
+    {
+      "text": "motion or high motion right so low",
+      "duration": 3.84,
+      "offset": 354.8,
+      "lang": "en"
+    },
+    {
+      "text": "motion might be maybe like slow motion",
+      "duration": 3.76,
+      "offset": 356.8,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s sort of like moving his swords high",
+      "duration": 3.76,
+      "offset": 358.64,
+      "lang": "en"
+    },
+    {
+      "text": "motion is probably going to be like a",
+      "duration": 4.0,
+      "offset": 360.56,
+      "lang": "en"
+    },
+    {
+      "text": "more like fighting scene so we&#39;ll try",
+      "duration": 5.28,
+      "offset": 362.4,
+      "lang": "en"
+    },
+    {
+      "text": "both low motion and high motion similar",
+      "duration": 4.96,
+      "offset": 364.56,
+      "lang": "en"
+    },
+    {
+      "text": "to when we create the images. It&#39;s going",
+      "duration": 4.64,
+      "offset": 367.68,
+      "lang": "en"
+    },
+    {
+      "text": "to give you four variations. So, you&#39;re",
+      "duration": 4.4,
+      "offset": 369.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to be able to select from one of",
+      "duration": 4.08,
+      "offset": 372.32,
+      "lang": "en"
+    },
+    {
+      "text": "those kind of like what animation you&#39;re",
+      "duration": 4.0,
+      "offset": 373.92,
+      "lang": "en"
+    },
+    {
+      "text": "looking for. Now, I think it&#39;s important",
+      "duration": 2.96,
+      "offset": 376.4,
+      "lang": "en"
+    },
+    {
+      "text": "to quickly point out the pricing,",
+      "duration": 3.2,
+      "offset": 377.92,
+      "lang": "en"
+    },
+    {
+      "text": "especially when it comes to video,",
+      "duration": 3.36,
+      "offset": 379.36,
+      "lang": "en"
+    },
+    {
+      "text": "because there are some things that you",
+      "duration": 2.96,
+      "offset": 381.12,
+      "lang": "en"
+    },
+    {
+      "text": "need to know about. So, you can check",
+      "duration": 3.68,
+      "offset": 382.72,
+      "lang": "en"
+    },
+    {
+      "text": "the website for updated pricing. The big",
+      "duration": 3.68,
+      "offset": 384.08,
+      "lang": "en"
+    },
+    {
+      "text": "thing to understand here with video,",
+      "duration": 2.88,
+      "offset": 386.4,
+      "lang": "en"
+    },
+    {
+      "text": "especially, is that they have something",
+      "duration": 3.84,
+      "offset": 387.76,
+      "lang": "en"
+    },
+    {
+      "text": "called relaxed mode. Basically, whenever",
+      "duration": 3.84,
+      "offset": 389.28,
+      "lang": "en"
+    },
+    {
+      "text": "you type in a prompt, they give you",
+      "duration": 3.76,
+      "offset": 391.6,
+      "lang": "en"
+    },
+    {
+      "text": "results fast. That&#39;s fast mode right",
+      "duration": 4.24,
+      "offset": 393.12,
+      "lang": "en"
+    },
+    {
+      "text": "away. They also have relaxed mode which",
+      "duration": 4.96,
+      "offset": 395.36,
+      "lang": "en"
+    },
+    {
+      "text": "basically sometimes delays the making of",
+      "duration": 6.32,
+      "offset": 397.36,
+      "lang": "en"
+    },
+    {
+      "text": "the video/image until their GPUs are a",
+      "duration": 5.04,
+      "offset": 400.32,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more available. So every",
+      "duration": 3.84,
+      "offset": 403.68,
+      "lang": "en"
+    },
+    {
+      "text": "month you get a limited amount of fast",
+      "duration": 5.6,
+      "offset": 405.36,
+      "lang": "en"
+    },
+    {
+      "text": "hours, but on the pro and mega plan you",
+      "duration": 6.88,
+      "offset": 407.52,
+      "lang": "en"
+    },
+    {
+      "text": "get unlimited relaxed mode video. The",
+      "duration": 4.72,
+      "offset": 410.96,
+      "lang": "en"
+    },
+    {
+      "text": "reason I mention that is because if you",
+      "duration": 4.8,
+      "offset": 414.4,
+      "lang": "en"
+    },
+    {
+      "text": "want unlimited video, you can have it in",
+      "duration": 5.6,
+      "offset": 415.68,
+      "lang": "en"
+    },
+    {
+      "text": "the pro and mega mode. So, for example,",
+      "duration": 3.2,
+      "offset": 419.2,
+      "lang": "en"
+    },
+    {
+      "text": "if you&#39;re doing it for commercial",
+      "duration": 3.6,
+      "offset": 421.28,
+      "lang": "en"
+    },
+    {
+      "text": "purposes, which are broadly permitted",
+      "duration": 4.16,
+      "offset": 422.4,
+      "lang": "en"
+    },
+    {
+      "text": "for subscribers, if you&#39;re doing more",
+      "duration": 3.76,
+      "offset": 424.88,
+      "lang": "en"
+    },
+    {
+      "text": "than 1 million annual revenue, you must",
+      "duration": 4.56,
+      "offset": 426.56,
+      "lang": "en"
+    },
+    {
+      "text": "use pro or mega. But the point here is",
+      "duration": 4.8,
+      "offset": 428.64,
+      "lang": "en"
+    },
+    {
+      "text": "that you can have unlimited video",
+      "duration": 4.16,
+      "offset": 431.12,
+      "lang": "en"
+    },
+    {
+      "text": "generation. You just have to run it in",
+      "duration": 4.56,
+      "offset": 433.44,
+      "lang": "en"
+    },
+    {
+      "text": "the relax mode. So, that might take 10",
+      "duration": 3.92,
+      "offset": 435.28,
+      "lang": "en"
+    },
+    {
+      "text": "minutes before it starts. I haven&#39;t",
+      "duration": 2.32,
+      "offset": 438.0,
+      "lang": "en"
+    },
+    {
+      "text": "played around with it too much, but",
+      "duration": 3.28,
+      "offset": 439.2,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;ll just delay the making of the",
+      "duration": 4.16,
+      "offset": 440.32,
+      "lang": "en"
+    },
+    {
+      "text": "video, but you&#39;ll be able to make",
+      "duration": 4.08,
+      "offset": 442.48,
+      "lang": "en"
+    },
+    {
+      "text": "unlimited videos. So, if you&#39;re making",
+      "duration": 4.08,
+      "offset": 444.48,
+      "lang": "en"
+    },
+    {
+      "text": "something that requires a lot of videos,",
+      "duration": 3.6,
+      "offset": 446.56,
+      "lang": "en"
+    },
+    {
+      "text": "like you&#39;re using it for commercial",
+      "duration": 4.8,
+      "offset": 448.56,
+      "lang": "en"
+    },
+    {
+      "text": "footage, B-roll, making your own movies,",
+      "duration": 5.84,
+      "offset": 450.16,
+      "lang": "en"
+    },
+    {
+      "text": "whatever, that starts at 60 bucks a",
+      "duration": 4.8,
+      "offset": 453.36,
+      "lang": "en"
+    },
+    {
+      "text": "month and you&#39;re able to use it for",
+      "duration": 5.12,
+      "offset": 456.0,
+      "lang": "en"
+    },
+    {
+      "text": "commercial usage, which is kind of cool.",
+      "duration": 4.72,
+      "offset": 458.16,
+      "lang": "en"
+    },
+    {
+      "text": "I know that&#39;s not for everybody, but I",
+      "duration": 3.36,
+      "offset": 461.12,
+      "lang": "en"
+    },
+    {
+      "text": "kind of thought that was a neat little",
+      "duration": 3.36,
+      "offset": 462.88,
+      "lang": "en"
+    },
+    {
+      "text": "thing you can do if you&#39;re willing to",
+      "duration": 2.96,
+      "offset": 464.48,
+      "lang": "en"
+    },
+    {
+      "text": "just wait a little bit instead of",
+      "duration": 2.8,
+      "offset": 466.24,
+      "lang": "en"
+    },
+    {
+      "text": "getting everything right away. All",
+      "duration": 4.64,
+      "offset": 467.44,
+      "lang": "en"
+    },
+    {
+      "text": "right, so our first four variations are",
+      "duration": 6.0,
+      "offset": 469.04,
+      "lang": "en"
+    },
+    {
+      "text": "ready. This is the low motion that we&#39;re",
+      "duration": 4.16,
+      "offset": 472.08,
+      "lang": "en"
+    },
+    {
+      "text": "going to be using. So, let&#39;s take a",
+      "duration": 3.76,
+      "offset": 475.04,
+      "lang": "en"
+    },
+    {
+      "text": "look. This is the first one.",
+      "duration": 5.04,
+      "offset": 476.24,
+      "lang": "en"
+    },
+    {
+      "text": "Kind of interesting. Very cool. You can",
+      "duration": 4.32,
+      "offset": 478.8,
+      "lang": "en"
+    },
+    {
+      "text": "tell there&#39;s a battle scene going on.",
+      "duration": 5.92,
+      "offset": 481.28,
+      "lang": "en"
+    },
+    {
+      "text": "This is number two. There it goes. Not",
+      "duration": 8.32,
+      "offset": 483.12,
+      "lang": "en"
+    },
+    {
+      "text": "quite as good. Here&#39;s number three.",
+      "duration": 6.48,
+      "offset": 487.2,
+      "lang": "en"
+    },
+    {
+      "text": "Still pretty good. Okay, there&#39;s a lot",
+      "duration": 4.72,
+      "offset": 491.44,
+      "lang": "en"
+    },
+    {
+      "text": "more debris on number three. And here&#39;s",
+      "duration": 4.8,
+      "offset": 493.68,
+      "lang": "en"
+    },
+    {
+      "text": "four. So, he&#39;s spinning around fighting",
+      "duration": 4.48,
+      "offset": 496.16,
+      "lang": "en"
+    },
+    {
+      "text": "the ninjas. There&#39;s a one of them on the",
+      "duration": 4.24,
+      "offset": 498.48,
+      "lang": "en"
+    },
+    {
+      "text": "ground. All right. I like number one",
+      "duration": 4.96,
+      "offset": 500.64,
+      "lang": "en"
+    },
+    {
+      "text": "maybe the best. Really depends on the",
+      "duration": 4.72,
+      "offset": 502.72,
+      "lang": "en"
+    },
+    {
+      "text": "the style that you&#39;re using because some",
+      "duration": 4.32,
+      "offset": 505.6,
+      "lang": "en"
+    },
+    {
+      "text": "of them just look flawless. This one",
+      "duration": 4.08,
+      "offset": 507.44,
+      "lang": "en"
+    },
+    {
+      "text": "obviously is going to be a little bit",
+      "duration": 2.8,
+      "offset": 509.92,
+      "lang": "en"
+    },
+    {
+      "text": "harder because if you think about it,",
+      "duration": 4.08,
+      "offset": 511.52,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s not that much data on various",
+      "duration": 5.92,
+      "offset": 512.72,
+      "lang": "en"
+    },
+    {
+      "text": "origami figures reenacting John Wick",
+      "duration": 6.32,
+      "offset": 515.6,
+      "lang": "en"
+    },
+    {
+      "text": "movies. So, I got to say for for what it",
+      "duration": 6.32,
+      "offset": 518.64,
+      "lang": "en"
+    },
+    {
+      "text": "is, it&#39;s pretty good. And this one with",
+      "duration": 6.24,
+      "offset": 521.92,
+      "lang": "en"
+    },
+    {
+      "text": "all the flying debris is also kind of",
+      "duration": 5.04,
+      "offset": 524.96,
+      "lang": "en"
+    },
+    {
+      "text": "graphic. And from here you can also",
+      "duration": 4.56,
+      "offset": 528.16,
+      "lang": "en"
+    },
+    {
+      "text": "extend the video with low motion or high",
+      "duration": 4.56,
+      "offset": 530.0,
+      "lang": "en"
+    },
+    {
+      "text": "motion. So that&#39;s how you get more than",
+      "duration": 4.48,
+      "offset": 532.72,
+      "lang": "en"
+    },
+    {
+      "text": "the allotted sort of number of seconds.",
+      "duration": 5.04,
+      "offset": 534.56,
+      "lang": "en"
+    },
+    {
+      "text": "So these are 5.2 seconds and by",
+      "duration": 4.64,
+      "offset": 537.2,
+      "lang": "en"
+    },
+    {
+      "text": "extending it you can get it longer and",
+      "duration": 4.88,
+      "offset": 539.6,
+      "lang": "en"
+    },
+    {
+      "text": "longer. So that&#39;s really all you need to",
+      "duration": 5.28,
+      "offset": 541.84,
+      "lang": "en"
+    },
+    {
+      "text": "know to dive in and get started. The",
+      "duration": 5.04,
+      "offset": 544.48,
+      "lang": "en"
+    },
+    {
+      "text": "question is how do you get better? Well",
+      "duration": 4.96,
+      "offset": 547.12,
+      "lang": "en"
+    },
+    {
+      "text": "go to this explore section and this will",
+      "duration": 4.72,
+      "offset": 549.52,
+      "lang": "en"
+    },
+    {
+      "text": "show you the community favorites images",
+      "duration": 5.6,
+      "offset": 552.08,
+      "lang": "en"
+    },
+    {
+      "text": "and videos for the week, the day or the",
+      "duration": 4.88,
+      "offset": 554.24,
+      "lang": "en"
+    },
+    {
+      "text": "month. So, let&#39;s say we want to see the",
+      "duration": 4.08,
+      "offset": 557.68,
+      "lang": "en"
+    },
+    {
+      "text": "top week videos. They will be listed",
+      "duration": 4.72,
+      "offset": 559.12,
+      "lang": "en"
+    },
+    {
+      "text": "here. You can go through and see and",
+      "duration": 3.6,
+      "offset": 561.76,
+      "lang": "en"
+    },
+    {
+      "text": "check it out what everyone&#39;s been",
+      "duration": 3.92,
+      "offset": 563.84,
+      "lang": "en"
+    },
+    {
+      "text": "making. I highly recommend going to the",
+      "duration": 4.72,
+      "offset": 565.36,
+      "lang": "en"
+    },
+    {
+      "text": "top week talk month, whatever top date",
+      "duration": 4.96,
+      "offset": 567.76,
+      "lang": "en"
+    },
+    {
+      "text": "images that people have created and the",
+      "duration": 4.56,
+      "offset": 570.08,
+      "lang": "en"
+    },
+    {
+      "text": "styles that you really like. Like if you",
+      "duration": 4.16,
+      "offset": 572.72,
+      "lang": "en"
+    },
+    {
+      "text": "really something jumps out at you, click",
+      "duration": 4.72,
+      "offset": 574.64,
+      "lang": "en"
+    },
+    {
+      "text": "on it and you will be able to see the",
+      "duration": 3.84,
+      "offset": 576.88,
+      "lang": "en"
+    },
+    {
+      "text": "actual prompt that they&#39;ve used to",
+      "duration": 3.92,
+      "offset": 579.36,
+      "lang": "en"
+    },
+    {
+      "text": "develop it. So, here&#39;s the prompt that",
+      "duration": 5.2,
+      "offset": 580.72,
+      "lang": "en"
+    },
+    {
+      "text": "contributed to this image. Here is the",
+      "duration": 5.28,
+      "offset": 583.28,
+      "lang": "en"
+    },
+    {
+      "text": "prompt that made this. So, you can see",
+      "duration": 5.76,
+      "offset": 585.92,
+      "lang": "en"
+    },
+    {
+      "text": "how these different images were made by",
+      "duration": 4.64,
+      "offset": 588.56,
+      "lang": "en"
+    },
+    {
+      "text": "looking at the prompts and seeing what",
+      "duration": 3.6,
+      "offset": 591.68,
+      "lang": "en"
+    },
+    {
+      "text": "the results were. What makes a big",
+      "duration": 3.6,
+      "offset": 593.2,
+      "lang": "en"
+    },
+    {
+      "text": "difference? Well, in the prompt, be",
+      "duration": 3.76,
+      "offset": 595.28,
+      "lang": "en"
+    },
+    {
+      "text": "specific about subject, medium,",
+      "duration": 6.16,
+      "offset": 596.8,
+      "lang": "en"
+    },
+    {
+      "text": "lighting, mood, shot type, era, etc. The",
+      "duration": 5.76,
+      "offset": 599.04,
+      "lang": "en"
+    },
+    {
+      "text": "medium is going to be probably the",
+      "duration": 3.84,
+      "offset": 602.96,
+      "lang": "en"
+    },
+    {
+      "text": "biggest thing, right? Do you want it as",
+      "duration": 4.48,
+      "offset": 604.8,
+      "lang": "en"
+    },
+    {
+      "text": "a pastel painting? Do you want it to be",
+      "duration": 4.32,
+      "offset": 606.8,
+      "lang": "en"
+    },
+    {
+      "text": "pixel art? Do you want it to be shot on",
+      "duration": 3.92,
+      "offset": 609.28,
+      "lang": "en"
+    },
+    {
+      "text": "a realistic looking camera? Do you want",
+      "duration": 4.24,
+      "offset": 611.12,
+      "lang": "en"
+    },
+    {
+      "text": "it to be macro photography? The best",
+      "duration": 4.48,
+      "offset": 613.2,
+      "lang": "en"
+    },
+    {
+      "text": "outputs will likely have something that",
+      "duration": 4.72,
+      "offset": 615.36,
+      "lang": "en"
+    },
+    {
+      "text": "specifies what medium we&#39;re using to do",
+      "duration": 4.24,
+      "offset": 617.68,
+      "lang": "en"
+    },
+    {
+      "text": "them. So, this is a vintage style blue",
+      "duration": 5.28,
+      "offset": 620.08,
+      "lang": "en"
+    },
+    {
+      "text": "and white Twi de Joey pattern featuring",
+      "duration": 4.8,
+      "offset": 621.92,
+      "lang": "en"
+    },
+    {
+      "text": "woodland animals. I don&#39;t know what it",
+      "duration": 4.0,
+      "offset": 625.36,
+      "lang": "en"
+    },
+    {
+      "text": "is, but if I type in Twi, I don&#39;t know",
+      "duration": 3.92,
+      "offset": 626.72,
+      "lang": "en"
+    },
+    {
+      "text": "how to pronounce that, but if I type",
+      "duration": 3.44,
+      "offset": 629.36,
+      "lang": "en"
+    },
+    {
+      "text": "that in, this is what it is. Right? So,",
+      "duration": 4.32,
+      "offset": 630.64,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re saying we want this medium, this",
+      "duration": 4.4,
+      "offset": 632.8,
+      "lang": "en"
+    },
+    {
+      "text": "style, but we want it with woodland",
+      "duration": 4.8,
+      "offset": 634.96,
+      "lang": "en"
+    },
+    {
+      "text": "animals. And boom, this is what appears.",
+      "duration": 4.96,
+      "offset": 637.2,
+      "lang": "en"
+    },
+    {
+      "text": "Here&#39;s an airbrush painting of a human",
+      "duration": 4.64,
+      "offset": 639.76,
+      "lang": "en"
+    },
+    {
+      "text": "eye. So, that&#39;s exactly the medium that",
+      "duration": 3.52,
+      "offset": 642.16,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re getting. Here&#39;s a beautiful,",
+      "duration": 3.04,
+      "offset": 644.4,
+      "lang": "en"
+    },
+    {
+      "text": "gorgeous young woman. Notice the medium.",
+      "duration": 3.92,
+      "offset": 645.68,
+      "lang": "en"
+    },
+    {
+      "text": "They&#39;re saying stock photo. So, that&#39;s",
+      "duration": 4.0,
+      "offset": 647.44,
+      "lang": "en"
+    },
+    {
+      "text": "kind of what you would expect a stock",
+      "duration": 4.32,
+      "offset": 649.6,
+      "lang": "en"
+    },
+    {
+      "text": "photo of that subject to look like. They",
+      "duration": 5.52,
+      "offset": 651.44,
+      "lang": "en"
+    },
+    {
+      "text": "also specify ski, ski goggles, outside",
+      "duration": 5.36,
+      "offset": 653.92,
+      "lang": "en"
+    },
+    {
+      "text": "in winter landscape. Perfect. So, here,",
+      "duration": 5.28,
+      "offset": 656.96,
+      "lang": "en"
+    },
+    {
+      "text": "notice this is posing for a GQ magazine.",
+      "duration": 5.68,
+      "offset": 659.28,
+      "lang": "en"
+    },
+    {
+      "text": "That kind of nails it. White background,",
+      "duration": 4.24,
+      "offset": 662.24,
+      "lang": "en"
+    },
+    {
+      "text": "contrast on his face, realistic",
+      "duration": 3.52,
+      "offset": 664.96,
+      "lang": "en"
+    },
+    {
+      "text": "photography. So, as you can see here, as",
+      "duration": 3.6,
+      "offset": 666.48,
+      "lang": "en"
+    },
+    {
+      "text": "you look at these prompts, you kind of",
+      "duration": 4.16,
+      "offset": 668.48,
+      "lang": "en"
+    },
+    {
+      "text": "begin to see how they translate into the",
+      "duration": 4.32,
+      "offset": 670.08,
+      "lang": "en"
+    },
+    {
+      "text": "final image. But these are the things",
+      "duration": 3.6,
+      "offset": 672.64,
+      "lang": "en"
+    },
+    {
+      "text": "that really help. Again, subject, like",
+      "duration": 3.68,
+      "offset": 674.4,
+      "lang": "en"
+    },
+    {
+      "text": "who is the subject? In this case, it&#39;s a",
+      "duration": 5.12,
+      "offset": 676.24,
+      "lang": "en"
+    },
+    {
+      "text": "Caucasian man, 22 years old. Boom. So,",
+      "duration": 4.96,
+      "offset": 678.08,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s the subject. Medium",
+      "duration": 3.52,
+      "offset": 681.36,
+      "lang": "en"
+    },
+    {
+      "text": "lighting. Notice they they do have",
+      "duration": 4.4,
+      "offset": 683.04,
+      "lang": "en"
+    },
+    {
+      "text": "lighting contrast on his face. Shot",
+      "duration": 4.8,
+      "offset": 684.88,
+      "lang": "en"
+    },
+    {
+      "text": "type, right? Realistic photography. Era.",
+      "duration": 3.76,
+      "offset": 687.44,
+      "lang": "en"
+    },
+    {
+      "text": "So, they&#39;re saying GQ magazine. That",
+      "duration": 3.28,
+      "offset": 689.68,
+      "lang": "en"
+    },
+    {
+      "text": "kind of gives you the sort of the era,",
+      "duration": 3.44,
+      "offset": 691.2,
+      "lang": "en"
+    },
+    {
+      "text": "right? It&#39;s not Renaissance. It&#39;s a",
+      "duration": 3.44,
+      "offset": 692.96,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more modern. So that&#39;s the",
+      "duration": 3.92,
+      "offset": 694.64,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. That&#39;s probably the biggest",
+      "duration": 3.76,
+      "offset": 696.4,
+      "lang": "en"
+    },
+    {
+      "text": "thing that you have to play around with",
+      "duration": 4.24,
+      "offset": 698.56,
+      "lang": "en"
+    },
+    {
+      "text": "to change what appears. Part of",
+      "duration": 4.16,
+      "offset": 700.16,
+      "lang": "en"
+    },
+    {
+      "text": "understanding what works well is just",
+      "duration": 2.64,
+      "offset": 702.8,
+      "lang": "en"
+    },
+    {
+      "text": "playing around with it. See what",
+      "duration": 3.2,
+      "offset": 704.32,
+      "lang": "en"
+    },
+    {
+      "text": "everyone else is creating and just doing",
+      "duration": 4.16,
+      "offset": 705.44,
+      "lang": "en"
+    },
+    {
+      "text": "more. As you keep doing different stuff,",
+      "duration": 3.84,
+      "offset": 707.52,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll see what works, what doesn&#39;t,",
+      "duration": 3.92,
+      "offset": 709.6,
+      "lang": "en"
+    },
+    {
+      "text": "etc. So that&#39;s the prompt. Again, that&#39;s",
+      "duration": 3.84,
+      "offset": 711.36,
+      "lang": "en"
+    },
+    {
+      "text": "the biggest thing. But there&#39;s also",
+      "duration": 3.52,
+      "offset": 713.52,
+      "lang": "en"
+    },
+    {
+      "text": "parameters. Parameters are the little",
+      "duration": 4.08,
+      "offset": 715.2,
+      "lang": "en"
+    },
+    {
+      "text": "things that go after the prompt. They",
+      "duration": 3.92,
+      "offset": 717.04,
+      "lang": "en"
+    },
+    {
+      "text": "look a little bit complicated at first,",
+      "duration": 3.68,
+      "offset": 719.28,
+      "lang": "en"
+    },
+    {
+      "text": "but once you memorize your favorite",
+      "duration": 4.4,
+      "offset": 720.96,
+      "lang": "en"
+    },
+    {
+      "text": "parameters, it&#39;ll be super easy. The one",
+      "duration": 4.64,
+      "offset": 722.96,
+      "lang": "en"
+    },
+    {
+      "text": "I use probably most of the time is",
+      "duration": 6.48,
+      "offset": 725.36,
+      "lang": "en"
+    },
+    {
+      "text": "d-aspect or the shortcut is d- a. So the",
+      "duration": 6.0,
+      "offset": 727.6,
+      "lang": "en"
+    },
+    {
+      "text": "aspect ratio is kind of like the the",
+      "duration": 3.68,
+      "offset": 731.84,
+      "lang": "en"
+    },
+    {
+      "text": "width and the height of the photography.",
+      "duration": 4.72,
+      "offset": 733.6,
+      "lang": "en"
+    },
+    {
+      "text": "So in this Kiana Reeves we used 9 to6.",
+      "duration": 4.64,
+      "offset": 735.52,
+      "lang": "en"
+    },
+    {
+      "text": "So it&#39;s kind of like that vertical. This",
+      "duration": 5.68,
+      "offset": 738.32,
+      "lang": "en"
+    },
+    {
+      "text": "one is 16 to9. So it&#39;s the wide screen",
+      "duration": 7.04,
+      "offset": 740.16,
+      "lang": "en"
+    },
+    {
+      "text": "sort of like this aspect ratio. This",
+      "duration": 6.64,
+      "offset": 744.0,
+      "lang": "en"
+    },
+    {
+      "text": "would be a 1:1 aspect ratio. You get it",
+      "duration": 6.56,
+      "offset": 747.2,
+      "lang": "en"
+    },
+    {
+      "text": "right. So this is 916 etc. So, how do we",
+      "duration": 4.8,
+      "offset": 750.64,
+      "lang": "en"
+    },
+    {
+      "text": "use it in the prompt section? Let&#39;s say",
+      "duration": 4.0,
+      "offset": 753.76,
+      "lang": "en"
+    },
+    {
+      "text": "we wanted a glamour shot of a female",
+      "duration": 4.64,
+      "offset": 755.44,
+      "lang": "en"
+    },
+    {
+      "text": "hippo, right? So, that&#39;s the end of our",
+      "duration": 5.76,
+      "offset": 757.76,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. Then we do space dash AR space.",
+      "duration": 4.64,
+      "offset": 760.08,
+      "lang": "en"
+    },
+    {
+      "text": "Let me zoom out a little bit so it&#39;s not",
+      "duration": 4.0,
+      "offset": 763.52,
+      "lang": "en"
+    },
+    {
+      "text": "as confusing. So, d- AR, right? Then",
+      "duration": 4.96,
+      "offset": 764.72,
+      "lang": "en"
+    },
+    {
+      "text": "space. Then you type in the aspect",
+      "duration": 5.12,
+      "offset": 767.52,
+      "lang": "en"
+    },
+    {
+      "text": "ratio. And then the width by height. So",
+      "duration": 5.84,
+      "offset": 769.68,
+      "lang": "en"
+    },
+    {
+      "text": "916 is going to be that sort of",
+      "duration": 6.56,
+      "offset": 772.64,
+      "lang": "en"
+    },
+    {
+      "text": "vertical. 169 is going to be horizontal.",
+      "duration": 5.68,
+      "offset": 775.52,
+      "lang": "en"
+    },
+    {
+      "text": "1:1 is going to be square. So, whatever",
+      "duration": 3.28,
+      "offset": 779.2,
+      "lang": "en"
+    },
+    {
+      "text": "you think is best, right? So, we&#39;re",
+      "duration": 4.24,
+      "offset": 781.2,
+      "lang": "en"
+    },
+    {
+      "text": "going to do one 121",
+      "duration": 5.96,
+      "offset": 782.48,
+      "lang": "en"
+    },
+    {
+      "text": "69",
+      "duration": 3.0,
+      "offset": 785.44,
+      "lang": "en"
+    },
+    {
+      "text": "916. The other ones that I see sometimes",
+      "duration": 4.96,
+      "offset": 789.12,
+      "lang": "en"
+    },
+    {
+      "text": "is like 3 to four. I mean, you can put",
+      "duration": 3.92,
+      "offset": 791.76,
+      "lang": "en"
+    },
+    {
+      "text": "anything you want, but there&#39;s a few",
+      "duration": 4.0,
+      "offset": 794.08,
+      "lang": "en"
+    },
+    {
+      "text": "probably like more common ones, and",
+      "duration": 3.76,
+      "offset": 795.68,
+      "lang": "en"
+    },
+    {
+      "text": "those are the ones that you see here.",
+      "duration": 3.6,
+      "offset": 798.08,
+      "lang": "en"
+    },
+    {
+      "text": "All right, so this is one. It&#39;s a",
+      "duration": 4.48,
+      "offset": 799.44,
+      "lang": "en"
+    },
+    {
+      "text": "square. The wider ones, those are the",
+      "duration": 6.08,
+      "offset": 801.68,
+      "lang": "en"
+    },
+    {
+      "text": "169. The up and down ones are 916. And",
+      "duration": 6.16,
+      "offset": 803.92,
+      "lang": "en"
+    },
+    {
+      "text": "these are the 34. Look at that",
+      "duration": 4.48,
+      "offset": 807.76,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful, beautiful hippo. On an",
+      "duration": 3.84,
+      "offset": 810.08,
+      "lang": "en"
+    },
+    {
+      "text": "unrelated note, did you know that this",
+      "duration": 3.44,
+      "offset": 812.24,
+      "lang": "en"
+    },
+    {
+      "text": "is what their skulls look like? These",
+      "duration": 4.4,
+      "offset": 813.92,
+      "lang": "en"
+    },
+    {
+      "text": "are monsters. If we found these like",
+      "duration": 4.24,
+      "offset": 815.68,
+      "lang": "en"
+    },
+    {
+      "text": "fossils, we would assume these are some",
+      "duration": 4.08,
+      "offset": 818.32,
+      "lang": "en"
+    },
+    {
+      "text": "like monsters that they just eat humans",
+      "duration": 4.56,
+      "offset": 819.92,
+      "lang": "en"
+    },
+    {
+      "text": "and are just horrible looking. But I",
+      "duration": 3.2,
+      "offset": 822.4,
+      "lang": "en"
+    },
+    {
+      "text": "think cuz they&#39;re kind of chubby",
+      "duration": 2.96,
+      "offset": 824.48,
+      "lang": "en"
+    },
+    {
+      "text": "looking. We&#39;re like, &quot;Oh, it&#39;s okay. It",
+      "duration": 4.32,
+      "offset": 825.6,
+      "lang": "en"
+    },
+    {
+      "text": "can&#39;t be a monster.&quot; But it is exhibit",
+      "duration": 4.4,
+      "offset": 827.44,
+      "lang": "en"
+    },
+    {
+      "text": "A. Don&#39;t forget. Couple other",
+      "duration": 4.56,
+      "offset": 829.92,
+      "lang": "en"
+    },
+    {
+      "text": "interesting parameters for like the core",
+      "duration": 4.56,
+      "offset": 831.84,
+      "lang": "en"
+    },
+    {
+      "text": "layout and style are the following.",
+      "duration": 4.08,
+      "offset": 834.48,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re going to switch to a light mode",
+      "duration": 4.24,
+      "offset": 836.4,
+      "lang": "en"
+    },
+    {
+      "text": "website. Warning you in advance, but",
+      "duration": 5.44,
+      "offset": 838.56,
+      "lang": "en"
+    },
+    {
+      "text": "those are raw, chaos, weird, and",
+      "duration": 5.52,
+      "offset": 840.64,
+      "lang": "en"
+    },
+    {
+      "text": "stylize. Actually, this runs dark mode",
+      "duration": 4.96,
+      "offset": 844.0,
+      "lang": "en"
+    },
+    {
+      "text": "fine. So, we have stylize. So, this is",
+      "duration": 6.24,
+      "offset": 846.16,
+      "lang": "en"
+    },
+    {
+      "text": "d-stylize or just d-sort.",
+      "duration": 6.24,
+      "offset": 848.96,
+      "lang": "en"
+    },
+    {
+      "text": "This controls the artistic flare. This",
+      "duration": 6.96,
+      "offset": 852.4,
+      "lang": "en"
+    },
+    {
+      "text": "is 0, 100, 500, and a,000. Again, play",
+      "duration": 5.92,
+      "offset": 855.2,
+      "lang": "en"
+    },
+    {
+      "text": "around to see kind of like what you like",
+      "duration": 4.4,
+      "offset": 859.36,
+      "lang": "en"
+    },
+    {
+      "text": "best. Raw mode allows you to gain more",
+      "duration": 4.88,
+      "offset": 861.12,
+      "lang": "en"
+    },
+    {
+      "text": "control over your images. This is more,",
+      "duration": 3.36,
+      "offset": 863.76,
+      "lang": "en"
+    },
+    {
+      "text": "if you think about it, there&#39;s kind of",
+      "duration": 3.2,
+      "offset": 866.0,
+      "lang": "en"
+    },
+    {
+      "text": "like a house style. There&#39;s a certain",
+      "duration": 3.84,
+      "offset": 867.12,
+      "lang": "en"
+    },
+    {
+      "text": "style that slowly evolves over time of",
+      "duration": 4.16,
+      "offset": 869.2,
+      "lang": "en"
+    },
+    {
+      "text": "majourney as people vote things up and",
+      "duration": 4.4,
+      "offset": 870.96,
+      "lang": "en"
+    },
+    {
+      "text": "down. You might want to get away from",
+      "duration": 3.84,
+      "offset": 873.36,
+      "lang": "en"
+    },
+    {
+      "text": "that. This raw mode allows you to do",
+      "duration": 3.52,
+      "offset": 875.36,
+      "lang": "en"
+    },
+    {
+      "text": "that. So, the standard mode, as you can",
+      "duration": 2.72,
+      "offset": 877.2,
+      "lang": "en"
+    },
+    {
+      "text": "see here, it&#39;s a little bit more",
+      "duration": 4.0,
+      "offset": 878.88,
+      "lang": "en"
+    },
+    {
+      "text": "artistic, colorful, anime raw mode is a",
+      "duration": 4.88,
+      "offset": 879.92,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more realistic. It gets away",
+      "duration": 4.16,
+      "offset": 882.88,
+      "lang": "en"
+    },
+    {
+      "text": "from that midjourney mode and allows you",
+      "duration": 5.52,
+      "offset": 884.8,
+      "lang": "en"
+    },
+    {
+      "text": "to do a wider range of artistic styles.",
+      "duration": 7.28,
+      "offset": 887.04,
+      "lang": "en"
+    },
+    {
+      "text": "We also have our chaos or d- C. So as",
+      "duration": 6.56,
+      "offset": 890.32,
+      "lang": "en"
+    },
+    {
+      "text": "you can see here with d- c as we",
+      "duration": 4.8,
+      "offset": 894.32,
+      "lang": "en"
+    },
+    {
+      "text": "increase that number gets a little bit",
+      "duration": 5.04,
+      "offset": 896.88,
+      "lang": "en"
+    },
+    {
+      "text": "more chaotic right more variety gets a",
+      "duration": 4.64,
+      "offset": 899.12,
+      "lang": "en"
+    },
+    {
+      "text": "little bit weird like this is a turtle",
+      "duration": 4.32,
+      "offset": 901.92,
+      "lang": "en"
+    },
+    {
+      "text": "but you know increase the chaos and this",
+      "duration": 4.48,
+      "offset": 903.76,
+      "lang": "en"
+    },
+    {
+      "text": "might be a turtle. This one can be set",
+      "duration": 5.6,
+      "offset": 906.24,
+      "lang": "en"
+    },
+    {
+      "text": "from zero to 100. So in our glamour shot",
+      "duration": 5.44,
+      "offset": 908.24,
+      "lang": "en"
+    },
+    {
+      "text": "of a female hippo if we send chaos to",
+      "duration": 3.92,
+      "offset": 911.84,
+      "lang": "en"
+    },
+    {
+      "text": "100 we might get something like so as",
+      "duration": 3.52,
+      "offset": 913.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s shaping up you can already tell",
+      "duration": 4.64,
+      "offset": 915.76,
+      "lang": "en"
+    },
+    {
+      "text": "that it&#39;s getting a little bit more",
+      "duration": 5.92,
+      "offset": 917.2,
+      "lang": "en"
+    },
+    {
+      "text": "weird. Here&#39;s one of the results. Yikes.",
+      "duration": 4.08,
+      "offset": 920.4,
+      "lang": "en"
+    },
+    {
+      "text": "And this is another one. So you can see",
+      "duration": 3.36,
+      "offset": 923.12,
+      "lang": "en"
+    },
+    {
+      "text": "it kind of yeah there&#39;s a lot more",
+      "duration": 4.8,
+      "offset": 924.48,
+      "lang": "en"
+    },
+    {
+      "text": "variety. So expect weird results. Now at",
+      "duration": 4.56,
+      "offset": 926.48,
+      "lang": "en"
+    },
+    {
+      "text": "this point you know most of the things",
+      "duration": 4.0,
+      "offset": 929.28,
+      "lang": "en"
+    },
+    {
+      "text": "you need to know to really start",
+      "duration": 4.72,
+      "offset": 931.04,
+      "lang": "en"
+    },
+    {
+      "text": "creating. So take a look at explore. See",
+      "duration": 4.4,
+      "offset": 933.28,
+      "lang": "en"
+    },
+    {
+      "text": "what people are using. Click on the",
+      "duration": 3.52,
+      "offset": 935.76,
+      "lang": "en"
+    },
+    {
+      "text": "various images. See how they&#39;re writing",
+      "duration": 4.24,
+      "offset": 937.68,
+      "lang": "en"
+    },
+    {
+      "text": "them. You can just click this to import",
+      "duration": 4.64,
+      "offset": 939.28,
+      "lang": "en"
+    },
+    {
+      "text": "it into your prompt and see if you",
+      "duration": 4.16,
+      "offset": 941.92,
+      "lang": "en"
+    },
+    {
+      "text": "create something similar. Now your",
+      "duration": 3.44,
+      "offset": 943.92,
+      "lang": "en"
+    },
+    {
+      "text": "results are going to be different",
+      "duration": 3.68,
+      "offset": 946.08,
+      "lang": "en"
+    },
+    {
+      "text": "because of a different seed. Each image",
+      "duration": 3.76,
+      "offset": 947.36,
+      "lang": "en"
+    },
+    {
+      "text": "starts out with a different seed. It&#39;s",
+      "duration": 3.84,
+      "offset": 949.76,
+      "lang": "en"
+    },
+    {
+      "text": "kind of a randomized parameter and you",
+      "duration": 5.12,
+      "offset": 951.12,
+      "lang": "en"
+    },
+    {
+      "text": "will only get similar images if you",
+      "duration": 4.24,
+      "offset": 953.6,
+      "lang": "en"
+    },
+    {
+      "text": "start out with a similar seed. Now,",
+      "duration": 2.72,
+      "offset": 956.24,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s a little bit more complicated.",
+      "duration": 3.52,
+      "offset": 957.84,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;ll cover it in a different video, but",
+      "duration": 4.08,
+      "offset": 958.96,
+      "lang": "en"
+    },
+    {
+      "text": "some of the cool things to try is one,",
+      "duration": 3.6,
+      "offset": 961.36,
+      "lang": "en"
+    },
+    {
+      "text": "check out personalize. This is where",
+      "duration": 4.08,
+      "offset": 963.04,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re able to turn personalization on",
+      "duration": 4.8,
+      "offset": 964.96,
+      "lang": "en"
+    },
+    {
+      "text": "and then select which images you like.",
+      "duration": 4.4,
+      "offset": 967.12,
+      "lang": "en"
+    },
+    {
+      "text": "Over time, the AI model will create a",
+      "duration": 3.92,
+      "offset": 969.76,
+      "lang": "en"
+    },
+    {
+      "text": "sort of profile for you of things that",
+      "duration": 4.96,
+      "offset": 971.52,
+      "lang": "en"
+    },
+    {
+      "text": "you like and it will try to stylize them",
+      "duration": 5.76,
+      "offset": 973.68,
+      "lang": "en"
+    },
+    {
+      "text": "to your favorite sort of styles, your",
+      "duration": 5.28,
+      "offset": 976.48,
+      "lang": "en"
+    },
+    {
+      "text": "preferences. So here you can see the",
+      "duration": 4.72,
+      "offset": 979.44,
+      "lang": "en"
+    },
+    {
+      "text": "difference. So here&#39;s a person but for",
+      "duration": 4.16,
+      "offset": 981.76,
+      "lang": "en"
+    },
+    {
+      "text": "different people with different style",
+      "duration": 3.44,
+      "offset": 984.16,
+      "lang": "en"
+    },
+    {
+      "text": "preferences. As you can see here,",
+      "duration": 4.8,
+      "offset": 985.92,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;re very, very, very different. The",
+      "duration": 5.36,
+      "offset": 987.6,
+      "lang": "en"
+    },
+    {
+      "text": "latest thing is mood boards. I haven&#39;t",
+      "duration": 3.84,
+      "offset": 990.72,
+      "lang": "en"
+    },
+    {
+      "text": "had a chance to play around with this",
+      "duration": 3.68,
+      "offset": 992.96,
+      "lang": "en"
+    },
+    {
+      "text": "yet, but this is if you have a specific",
+      "duration": 4.32,
+      "offset": 994.56,
+      "lang": "en"
+    },
+    {
+      "text": "vision. Let&#39;s say creating a stylistic",
+      "duration": 3.76,
+      "offset": 996.64,
+      "lang": "en"
+    },
+    {
+      "text": "cartoon. You want to keep everything",
+      "duration": 3.52,
+      "offset": 998.88,
+      "lang": "en"
+    },
+    {
+      "text": "sort of in the same style. You&#39;re able",
+      "duration": 4.0,
+      "offset": 1000.4,
+      "lang": "en"
+    },
+    {
+      "text": "to curate a collection of images and set",
+      "duration": 4.16,
+      "offset": 1002.4,
+      "lang": "en"
+    },
+    {
+      "text": "the style. Focused mood boards create",
+      "duration": 3.92,
+      "offset": 1004.4,
+      "lang": "en"
+    },
+    {
+      "text": "consistency. Now, I do have a",
+      "duration": 3.84,
+      "offset": 1006.56,
+      "lang": "en"
+    },
+    {
+      "text": "comprehensive guide that I just created",
+      "duration": 4.96,
+      "offset": 1008.32,
+      "lang": "en"
+    },
+    {
+      "text": "to using MidJourney. It goes over",
+      "duration": 5.68,
+      "offset": 1010.4,
+      "lang": "en"
+    },
+    {
+      "text": "everything, pricing plans, how to use",
+      "duration": 4.64,
+      "offset": 1013.28,
+      "lang": "en"
+    },
+    {
+      "text": "Discord, because you&#39;re also able to use",
+      "duration": 4.4,
+      "offset": 1016.08,
+      "lang": "en"
+    },
+    {
+      "text": "Mid Journey within their Discord. You",
+      "duration": 4.88,
+      "offset": 1017.92,
+      "lang": "en"
+    },
+    {
+      "text": "can create within Discord. And there&#39;s a",
+      "duration": 4.16,
+      "offset": 1020.48,
+      "lang": "en"
+    },
+    {
+      "text": "lot of benefits to that. There&#39;s tons of",
+      "duration": 3.2,
+      "offset": 1022.8,
+      "lang": "en"
+    },
+    {
+      "text": "stuff we didn&#39;t talk about like",
+      "duration": 3.52,
+      "offset": 1024.64,
+      "lang": "en"
+    },
+    {
+      "text": "inpainting, outpainting, panning, and",
+      "duration": 4.16,
+      "offset": 1026.0,
+      "lang": "en"
+    },
+    {
+      "text": "zooming. Basically, inpainting is",
+      "duration": 4.08,
+      "offset": 1028.16,
+      "lang": "en"
+    },
+    {
+      "text": "changing some aspect of the existing",
+      "duration": 4.48,
+      "offset": 1030.16,
+      "lang": "en"
+    },
+    {
+      "text": "image. Outpainting is if you give sort",
+      "duration": 4.72,
+      "offset": 1032.24,
+      "lang": "en"
+    },
+    {
+      "text": "of one image, the AI model creates",
+      "duration": 3.92,
+      "offset": 1034.64,
+      "lang": "en"
+    },
+    {
+      "text": "everything around it. So if you kind of",
+      "duration": 3.76,
+      "offset": 1036.96,
+      "lang": "en"
+    },
+    {
+      "text": "zoom out, it imagines what it would be",
+      "duration": 3.84,
+      "offset": 1038.56,
+      "lang": "en"
+    },
+    {
+      "text": "like around it. There are also",
+      "duration": 4.72,
+      "offset": 1040.72,
+      "lang": "en"
+    },
+    {
+      "text": "parameters for repeatability and speed",
+      "duration": 4.8,
+      "offset": 1042.4,
+      "lang": "en"
+    },
+    {
+      "text": "such as the seed that we talked about,",
+      "duration": 3.12,
+      "offset": 1045.44,
+      "lang": "en"
+    },
+    {
+      "text": "whether you&#39;re doing it fast, whether",
+      "duration": 3.52,
+      "offset": 1047.2,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re doing it draft mode, etc. So",
+      "duration": 3.76,
+      "offset": 1048.56,
+      "lang": "en"
+    },
+    {
+      "text": "check out the guide. I&#39;ll leave it down",
+      "duration": 5.04,
+      "offset": 1050.72,
+      "lang": "en"
+    },
+    {
+      "text": "below. I will also create a fuller, more",
+      "duration": 5.68,
+      "offset": 1052.32,
+      "lang": "en"
+    },
+    {
+      "text": "comprehensive tutorial that&#39;s going to",
+      "duration": 4.4,
+      "offset": 1055.76,
+      "lang": "en"
+    },
+    {
+      "text": "go into all the nooks and crannies and",
+      "duration": 4.08,
+      "offset": 1058.0,
+      "lang": "en"
+    },
+    {
+      "text": "explain how everything works. comment",
+      "duration": 4.24,
+      "offset": 1060.16,
+      "lang": "en"
+    },
+    {
+      "text": "down below if you want any specific",
+      "duration": 4.64,
+      "offset": 1062.08,
+      "lang": "en"
+    },
+    {
+      "text": "things covered. But with this video, you",
+      "duration": 4.16,
+      "offset": 1064.4,
+      "lang": "en"
+    },
+    {
+      "text": "have everything to get started. So, if",
+      "duration": 3.28,
+      "offset": 1066.72,
+      "lang": "en"
+    },
+    {
+      "text": "you haven&#39;t used MidJourney yet, but",
+      "duration": 3.76,
+      "offset": 1068.56,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to, again, it&#39;s the probably my",
+      "duration": 4.24,
+      "offset": 1070.0,
+      "lang": "en"
+    },
+    {
+      "text": "number one tool. You saw how much images",
+      "duration": 3.28,
+      "offset": 1072.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve created, this is the one thing that",
+      "duration": 3.68,
+      "offset": 1074.24,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ve been using since 2023. And even",
+      "duration": 4.96,
+      "offset": 1075.6,
+      "lang": "en"
+    },
+    {
+      "text": "though tons of other AI tools have come",
+      "duration": 5.36,
+      "offset": 1077.92,
+      "lang": "en"
+    },
+    {
+      "text": "on the market for creating images, this",
+      "duration": 4.56,
+      "offset": 1080.56,
+      "lang": "en"
+    },
+    {
+      "text": "is the one I go back to just because of",
+      "duration": 3.84,
+      "offset": 1083.28,
+      "lang": "en"
+    },
+    {
+      "text": "the incredible styles that it&#39;s able to",
+      "duration": 3.36,
+      "offset": 1085.12,
+      "lang": "en"
+    },
+    {
+      "text": "produce. With that said, make sure",
+      "duration": 2.8,
+      "offset": 1087.12,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re subscribed. Thank you so much for",
+      "duration": 5.28,
+      "offset": 1088.48,
+      "lang": "en"
+    },
+    {
+      "text": "watching and I&#39;ll see you in the next",
+      "duration": 3.84,
+      "offset": 1089.92,
+      "lang": "en"
+    }
+  ]
+}

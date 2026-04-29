@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 123,
+  "total_size_kb": 7724,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":9,"latest":"2025-04-24_DEF 14A.md"},"youtube":{"count":17,"latest":"2026-04-08_Deep-Dive-Is-Salesforce-a-Buy-Amid-AI-Transformati.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 31,
+    "breakdown": {"c_suite":18,"board":12,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_xbrl_facts.json","size_kb":4994},{"path":"sources/earnings/2024-12-04_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-09-04_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-12-04_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-05-29_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-04-24_DEF 14A.md","size_kb":148},{"path":"organization/proxy/2025-04-24_DEF 14A.md","size_kb":148},{"path":"sources/earnings/2023-03-08_10-K.md","size_kb":147},{"path":"sources/earnings/2024-03-06_10-K.md","size_kb":147},{"path":"sources/earnings/2026-03-02_10-K.md","size_kb":147}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

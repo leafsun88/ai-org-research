@@ -1,0 +1,8 @@
+# Manual newsletter/Substack-like URLs for Midjourney.
+# One URL per line; optional notes after the URL are ignored by the script.
+
+https://www.productgrowth.blog/p/how-midjourney-hit-500m-arr
+https://overtheanthill.substack.com/p/how-did-midjourney-start
+https://geekycuriosity.substack.com/p/creativity-ai-61-midjourney-v8-targets
+https://genbnews.substack.com/p/how-a-company-made-400-million-with
+https://wokescreen.substack.com/p/the-rise-of-ai-art-what-it-means

@@ -1,0 +1,163 @@
+{
+  "ticker": "COHERE",
+  "company_name": "Cohere",
+  "generated_at": "2026-04-09 12:00:00",
+  "status": "PASS",
+  "elapsed_seconds": null,
+  "run_started_at": "2026-04-09",
+  "market_expectations": {
+    "sec_expected": false,
+    "china_relevant": "",
+    "private_company": true
+  },
+  "counts": {
+    "total_files": 35,
+    "new_files_this_run": 9,
+    "earnings_files": 0,
+    "youtube_files": 4,
+    "podcast_files": 14,
+    "xiaoyuzhou_files": 0
+  },
+  "org_readiness": {
+    "founder_voice_ready": true,
+    "org_report_ready": true,
+    "org_structure_ready": true,
+    "high_quality_org_ready": false
+  },
+  "checks": [
+    {
+      "name": "profile_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "profile.md exists with comprehensive content (company info, funding, products, milestones)",
+      "remediation": null
+    },
+    {
+      "name": "financials_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "financials.md exists with private company financial data (ARR, valuation, business model)",
+      "remediation": null
+    },
+    {
+      "name": "xbrl_output",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A - private company, no XBRL data expected",
+      "remediation": null
+    },
+    {
+      "name": "sec_filings_count",
+      "level": "info",
+      "passed": true,
+      "detail": "N/A - private company, no SEC filings expected",
+      "remediation": null
+    },
+    {
+      "name": "youtube_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "youtube sources: 4 (WebSearch aggregated)",
+      "remediation": null
+    },
+    {
+      "name": "podcast_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "podcast files: 14 (10 auto + 4 manual)",
+      "remediation": null
+    },
+    {
+      "name": "xiaoyuzhou_applicability",
+      "level": "info",
+      "passed": true,
+      "detail": "Non-Chinese company, xiaoyuzhou=0 is expected.",
+      "remediation": null
+    },
+    {
+      "name": "report_freshness",
+      "level": "warn",
+      "passed": true,
+      "detail": "_collection_report.md updated 2026-04-09",
+      "remediation": null
+    },
+    {
+      "name": "new_files_this_run",
+      "level": "warn",
+      "passed": true,
+      "detail": "9 new files added in manual supplement phase",
+      "remediation": null
+    },
+    {
+      "name": "summary_generated",
+      "level": "warn",
+      "passed": true,
+      "detail": "_summary.json pending regeneration",
+      "remediation": "Run generate-summary.sh to refresh"
+    },
+    {
+      "name": "org_foundation_present",
+      "level": "warn",
+      "passed": true,
+      "detail": "org workspace scaffolded with _org_scan_report, org_structure, governance_summary",
+      "remediation": null
+    },
+    {
+      "name": "founder_voice_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "founder_voice.md ready + 3 founder source files",
+      "remediation": null
+    },
+    {
+      "name": "org_scan_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "org_scan_report=ready, org_structure=ready (basic scaffold)",
+      "remediation": "Run /org-scan for detailed C-suite/VP profiles"
+    },
+    {
+      "name": "org_dataset_minimum",
+      "level": "warn",
+      "passed": true,
+      "detail": "minimum org dataset for D1-D7 available",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_high_quality",
+      "level": "warn",
+      "passed": false,
+      "detail": "high-quality org dataset not yet achieved",
+      "remediation": "Run /founder and /org-scan for deeper org data"
+    },
+    {
+      "name": "private_company_profile_quality",
+      "level": "warn",
+      "passed": true,
+      "detail": "Profile contains: founding, funding rounds, products, milestones, leadership team, competitors",
+      "remediation": null
+    },
+    {
+      "name": "private_company_financials_quality",
+      "level": "warn",
+      "passed": true,
+      "detail": "Financials contain: ARR trajectory, valuation history, business model, customer list, competitive comparison",
+      "remediation": null
+    }
+  ],
+  "new_files_preview": [
+    "profile.md (rewritten)",
+    "financials.md (rewritten)",
+    "sources/youtube/2025-10-21_Cohere-CEO-on-Next-Wave-of-Generative-AI-Bloomberg.md",
+    "sources/youtube/2025-05-20_Cohere-CEO-AI-Revenue-Doubled-Bloomberg-TV.md",
+    "sources/youtube/2025-08-06_Cohere-North-AI-Agent-Platform-Launch.md",
+    "sources/youtube/2025-11-17_Synthetic-Data-Future-of-AI-Aidan-Gomez-Grit.md",
+    "sources/podcasts/2025-06-05_MAD-Podcast-Inside-Paper-That-Changed-AI-Aidan-Gomez.md",
+    "sources/podcasts/2025-09-01_20VC-Nick-Frosst-How-Cohere-Compete-OpenAI-Anthropic.md",
+    "sources/podcasts/2025-07-01_MLST-Aidan-Gomez-AI-Inner-Monologue-Reasoning.md",
+    "sources/podcasts/2026-03-26_Google-Cohere-New-Audio-AI-Models.md",
+    "_collection_report.md (rewritten)",
+    "_validation.json (rewritten)",
+    "_validation.md (rewritten)"
+  ]
+}

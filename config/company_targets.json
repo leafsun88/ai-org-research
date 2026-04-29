@@ -1,0 +1,1510 @@
+{
+  "targets": {
+    "ANTHROPIC": {
+      "ticker": "ANTHROPIC",
+      "research_key": "ANTHROPIC",
+      "slug": "anthropic",
+      "company_name": "Anthropic",
+      "company_name_cn": "Anthropic",
+      "is_public": false,
+      "category": "private_ai_lab",
+      "industry": "frontier AI lab, AI assistants, enterprise AI, AI safety",
+      "website": "https://www.anthropic.com",
+      "official_domains": [
+        "anthropic.com",
+        "docs.anthropic.com",
+        "assets.anthropic.com",
+        "www-cdn.anthropic.com"
+      ],
+      "aliases": [
+        "Anthropic",
+        "Claude",
+        "Claude Code",
+        "Constitutional AI",
+        "Model Context Protocol",
+        "MCP",
+        "Responsible Scaling Policy",
+        "RSP",
+        "AI Safety Levels",
+        "ASL",
+        "Economic Index"
+      ],
+      "founders": [
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Jared Kaplan",
+        "Jack Clark",
+        "Sam McCandlish",
+        "Tom Brown"
+      ],
+      "executives": [
+        "Dario Amodei",
+        "Daniela Amodei",
+        "Jared Kaplan",
+        "Jack Clark",
+        "Krishna Rao",
+        "Mike Krieger"
+      ],
+      "exclude_terms": [
+        "anthropic principle",
+        "anthropic bias",
+        "anthropic reasoning",
+        "anthropic landscape",
+        "anthropic cosmology"
+      ],
+      "output_paths": {
+        "company_root": "companies/anthropic",
+        "vault": "companies/anthropic/vault",
+        "analysis": "companies/anthropic/analysis",
+        "script_root": "companies/anthropic/_staging"
+      },
+      "channels": {
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.anthropic.com/careers",
+            "https://www.anthropic.com/news",
+            "https://www.anthropic.com/research",
+            "https://www.anthropic.com/responsible-scaling-policy",
+            "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
+            "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+            "https://www.anthropic.com/research/economic-index-march-2026-report/",
+            "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+            "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+            "https://www.anthropic.com/news/expanding-global-operations-to-india"
+          ]
+        },
+        "youtube": {
+          "enabled": true,
+          "max_videos": 20,
+          "query_max_results": 8,
+          "queries": [
+            "Anthropic Dario Amodei interview",
+            "Anthropic Daniela Amodei interview",
+            "Anthropic Jared Kaplan interview",
+            "Anthropic Jack Clark interview",
+            "Anthropic Claude Code interview",
+            "Anthropic Model Context Protocol MCP interview",
+            "Anthropic Responsible Scaling Policy talk",
+            "Anthropic AI safety Dario Amodei",
+            "Anthropic enterprise AI Claude Code",
+            "Anthropic Economic Index",
+            "Dario Amodei Lex Fridman Anthropic",
+            "Dario Amodei 60 Minutes Anthropic",
+            "Dario Amodei Axios Anthropic Congress",
+            "Daniela Amodei hiring Anthropic"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 80,
+          "query_limit": 20,
+          "months": 72,
+          "queries": [
+            "Anthropic Dario Amodei interview",
+            "Anthropic Daniela Amodei interview",
+            "Anthropic Jared Kaplan interview",
+            "Anthropic Jack Clark interview",
+            "Anthropic podcast",
+            "Claude Code podcast",
+            "Model Context Protocol podcast",
+            "Anthropic AI safety podcast",
+            "Anthropic enterprise AI podcast",
+            "Dario Amodei Lex Fridman",
+            "Dario Amodei interview transcript",
+            "Daniela Amodei interview transcript",
+            "Anthropic Responsible Scaling Policy podcast"
+          ],
+          "relevance_terms": [
+            "Dario Amodei",
+            "Daniela Amodei",
+            "Jared Kaplan",
+            "Jack Clark",
+            "Claude Code",
+            "Model Context Protocol",
+            "Responsible Scaling Policy",
+            "enterprise",
+            "safety",
+            "alignment",
+            "interpretability",
+            "Constitutional AI"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "seed_urls": [
+            "https://ramp.com/leading-indicators/ai-index-march-2026",
+            "https://www.anthropic.com/research/economic-index-march-2026-report/",
+            "https://www.anthropic.com/news/impact-software-development",
+            "https://arxiv.org/abs/2511.15080",
+            "https://www.technology.org/2025/08/02/anthropic-claude-models-capture-32-enterprise-market-share-overtaking-openai-in-business-ai-adoption/",
+            "https://scottarmbruster.com/articles/chatgpt-built-market-claude-winning-enterprise-2026/",
+            "https://www.techradar.com/pro/claude-cowork-is-now-available-for-enterprise-use-adds-analytics-access-controls-and-more",
+            "https://www.itpro.com/security/ai-agents-using-anthropic-mcp-supply-chain-attacks-claim-researchers",
+            "https://arxiv.org/abs/2601.17549",
+            "https://arxiv.org/abs/2603.20847"
+          ],
+          "topics": [
+            "longform_analysis",
+            "founder_voice",
+            "research_safety",
+            "social_community"
+          ],
+          "queries": [
+            "Anthropic Dario Amodei interview transcript",
+            "Anthropic Daniela Amodei hiring culture interview",
+            "Anthropic Claude Code enterprise adoption analysis",
+            "Anthropic Model Context Protocol MCP analysis",
+            "Anthropic Responsible Scaling Policy analysis",
+            "Anthropic Economic Index analysis",
+            "Anthropic funding valuation revenue run rate compute commitments",
+            "Anthropic organization culture hiring research engineering",
+            "Anthropic Claude Code developer adoption Substack",
+            "Anthropic safety policy TIME Axios Fortune TechCrunch"
+          ]
+        },
+        "founder_voice": {
+          "enabled": true,
+          "queries": [
+            "Anthropic founder Dario Amodei interview transcript",
+            "Anthropic founder Daniela Amodei interview transcript",
+            "Anthropic Jared Kaplan interview AI safety scaling laws",
+            "Anthropic Jack Clark interview policy AI safety",
+            "Anthropic founders building Anthropic race to the top",
+            "Dario Amodei Congress testimony Anthropic",
+            "Daniela Amodei hiring culture Anthropic",
+            "Anthropic founder podcast Dario Daniela Jared Jack"
+          ]
+        },
+        "enterprise_partnerships": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+            "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+            "https://newsroom.accenture.com/news/2025/accenture-and-anthropic-launch-multi-year-partnership-to-drive-enterprise-ai-innovation-and-value-across-industries",
+            "https://news.cognizant.com/2025-11-04-Cognizant-Adopts-Anthropics-Claude-to-Accelerate-Enterprise-AI-Adoption-at-Scale-and-Deploys-Claude-to-Drive-Internal-AI-Transformation?asPDF=1",
+            "https://www.anthropic.com/news/maryland-partnership"
+          ],
+          "queries": [
+            "Anthropic Accenture partnership Claude Code enterprise",
+            "Anthropic Salesforce Agentforce Claude Code partnership",
+            "Anthropic Cognizant Claude enterprise partnership",
+            "Anthropic Snowflake partnership Claude enterprise",
+            "Anthropic Microsoft Nvidia Amazon compute partnership"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.anthropic.com/careers"
+          ],
+          "queries": [
+            "site:anthropic.com/careers/jobs Anthropic research engineer",
+            "site:anthropic.com/careers/jobs Anthropic policy safety",
+            "site:anthropic.com/careers/jobs Anthropic Claude Code",
+            "site:anthropic.com/careers/jobs Anthropic enterprise",
+            "site:anthropic.com/careers/jobs Anthropic security",
+            "site:anthropic.com/careers/jobs Anthropic Bengaluru Tokyo"
+          ]
+        },
+        "social_community": {
+          "enabled": true,
+          "seed_urls": [
+            "https://github.com/advisories/GHSA-j4h9-wv2m-wrf7",
+            "https://github.com/anthropics/claude-code-security-review",
+            "https://github.com/orgs/anthropics/repositories",
+            "https://www.reddit.com/r/ClaudeAI/comments/1qsdq58/claude_desktop_new_mcp_ui_bug_tools_freeze_until/",
+            "https://www.reddit.com/r/MCPservers/comments/1s8lrcs/claude_codes_entire_source_code_just_leaked_heres/",
+            "https://www.reddit.com/r/ClaudeAI/comments/1pq2cf8/official_claude_in_chrome_is_now_live_for_all/",
+            "https://www.reddit.com/r/ClaudeAI/comments/1rh92yp/anthropic_has_opened_up_its_entire_educational/",
+            "https://gist.github.com/hartphoenix/698eb8ef8b08ad2ce6a99cf7346cd7cc",
+            "https://gist.github.com/LEX8888/675867b7f130b7ad614905c9dd86b57a"
+          ],
+          "topics": [
+            "social_community"
+          ],
+          "queries": [
+            "Anthropic Claude Code developer adoption Reddit Hacker News",
+            "Anthropic Claude Code vs Cursor Reddit",
+            "Anthropic Model Context Protocol Hacker News",
+            "Anthropic MCP security developer blog",
+            "Anthropic Claude enterprise trust Reddit",
+            "Anthropic safety controversy TIME Reddit",
+            "Anthropic Dario Amodei X post AI safety"
+          ]
+        },
+        "funding_compute": {
+          "enabled": true,
+          "seed_urls": [
+            "https://apnews.com/article/275df9e291bbb361962dfc6ba868506c",
+            "https://www.forbes.com/sites/tylerroush/2026/01/07/anthropic-seeks-10-billion-raised-on-350-billion-valuation-report-says/",
+            "https://www.tomshardware.com/tech-industry/broadcom-expands-anthropic-deal-to-3-5gw-of-google-tpu-capacity-from-2027",
+            "https://www.longtermwiki.com/knowledge-base/organizations/anthropic-valuation/",
+            "https://www.axios.com/2026/02/17/wall-street-ai-bet-risk",
+            "https://www.lemonde.fr/en/economy/article/2026/02/18/anthropic-the-ai-start-up-that-dares-to-defy-donald-trump_6750627_19.html"
+          ],
+          "topics": [
+            "funding_compute"
+          ],
+          "queries": [
+            "Anthropic funding valuation 2026 revenue run rate",
+            "Anthropic compute commitment Microsoft Nvidia Amazon Google 2026",
+            "Anthropic Series G 380 billion valuation AP Reuters",
+            "Anthropic revenue run rate enterprise customers 2026",
+            "Anthropic CFO Krishna Rao funding enterprise products"
+          ]
+        }
+      }
+    },
+    "CURSOR": {
+      "ticker": "CURSOR",
+      "research_key": "CURSOR",
+      "slug": "cursor",
+      "company_name": "Anysphere",
+      "company_name_cn": "Cursor",
+      "is_public": false,
+      "category": "private_ai_coding_ide",
+      "industry": "AI coding IDE, agentic software development, developer tools, code review, AI agents",
+      "website": "https://cursor.com",
+      "official_domains": [
+        "cursor.com",
+        "www.cursor.com",
+        "docs.cursor.com",
+        "forum.cursor.com",
+        "trust.cursor.com",
+        "status.cursor.com",
+        "anysphere.inc"
+      ],
+      "aliases": [
+        "Cursor",
+        "Cursor AI",
+        "Cursor IDE",
+        "Anysphere",
+        "Anysphere Inc.",
+        "Cursor Agent",
+        "Cursor Tab",
+        "Cursor Composer",
+        "Composer 2",
+        "Cursor Cloud Agents",
+        "Background Agent",
+        "Bugbot",
+        "Cursor for Business",
+        "Cursor Enterprise",
+        "Agent Client Protocol",
+        "ACP",
+        "AI coding IDE",
+        "AI code editor"
+      ],
+      "founders": [
+        "Michael Truell",
+        "Sualeh Asif",
+        "Arvid Lunnemark",
+        "Aman Sanger"
+      ],
+      "executives": [
+        "Michael Truell",
+        "Sualeh Asif",
+        "Arvid Lunnemark",
+        "Aman Sanger"
+      ],
+      "exclude_terms": [
+        "mouse cursor",
+        "CSS cursor",
+        "database cursor",
+        "cursor pagination",
+        "cursor pointer",
+        "cursor sql"
+      ],
+      "output_paths": {
+        "company_root": "companies/cursor",
+        "vault": "companies/cursor/vault",
+        "analysis": "companies/cursor/analysis",
+        "script_root": "companies/cursor/_staging"
+      },
+      "channels": {
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://cursor.com",
+            "https://cursor.com/pricing",
+            "https://cursor.com/enterprise",
+            "https://cursor.com/security",
+            "https://cursor.com/careers",
+            "https://cursor.com/changelog",
+            "https://www.cursor.com/blog/openai-fund",
+            "https://cursor.com/blog/series-a",
+            "https://cursor.com/blog/series-b",
+            "https://cursor.com/blog/series-c",
+            "https://cursor.com/blog/series-d",
+            "https://cursor.com/blog/team",
+            "https://cursor.com/blog/cursor-support",
+            "https://cursor.com/blog/graphite"
+          ],
+          "queries": [
+            "Cursor Anysphere official company funding ARR",
+            "Cursor official pricing enterprise security careers changelog",
+            "Cursor Anysphere Series A Series B Series C Series D official"
+          ]
+        },
+        "products": {
+          "enabled": true,
+          "seed_urls": [
+            "https://cursor.com/product",
+            "https://cursor.com/product/tab",
+            "https://cursor.com/bugbot",
+            "https://cursor.com/changelog",
+            "https://cursor.com/blog/tab-update",
+            "https://cursor.com/blog/tab-rl",
+            "https://cursor.com/blog/problems-2024",
+            "https://cursor.com/blog/shadow-workspace",
+            "https://cursor.com/blog/prompt-design",
+            "https://cursor.com/resources/Composer2.pdf",
+            "https://cursor.com/blog/graphite"
+          ],
+          "queries": [
+            "Cursor Agent Tab Bugbot Cloud Agents Composer 2 product docs",
+            "Cursor Background Agent Bugbot MCP skills hooks docs",
+            "Cursor Composer 2 technical report CursorBench",
+            "Cursor Agent Client Protocol JetBrains ACP"
+          ]
+        },
+        "youtube": {
+          "enabled": true,
+          "max_videos": 20,
+          "query_max_results": 8,
+          "queries": [
+            "Michael Truell Cursor interview",
+            "Cursor CEO Michael Truell AI coding interview",
+            "Anysphere Cursor founder interview",
+            "Cursor a16z Michael Truell",
+            "Cursor Y Combinator Michael Truell",
+            "Cursor Lenny podcast Michael Truell",
+            "Cursor Composer 2 technical report",
+            "Cursor AI coding enterprise developers"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 30,
+          "query_limit": 16,
+          "months": 48,
+          "queries": [
+            "Michael Truell Cursor interview",
+            "Michael Truell Anysphere podcast",
+            "Cursor CEO podcast",
+            "Sualeh Asif Cursor podcast",
+            "Arvid Lunnemark Cursor podcast",
+            "Aman Sanger Cursor podcast",
+            "Cursor AI coding podcast",
+            "Cursor a16z podcast",
+            "Cursor Y Combinator podcast",
+            "Cursor Lenny podcast"
+          ],
+          "relevance_terms": [
+            "Michael Truell",
+            "Sualeh Asif",
+            "Arvid Lunnemark",
+            "Aman Sanger",
+            "Cursor",
+            "Anysphere",
+            "AI coding",
+            "Cursor Tab",
+            "Bugbot",
+            "Composer",
+            "Agent",
+            "hiring",
+            "developer productivity"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "seed_urls": [
+            "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+            "https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/",
+            "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/",
+            "https://metacast.app/podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm",
+            "https://rosetta.to/u/a16z/michael-truell-how-cursor-builds-at-the-speed-of-ai",
+            "https://sacra-pdfs.s3.us-east-2.amazonaws.com/cursor.pdf",
+            "https://assets.ctfassets.net/f1df9zr7wr1a/7ucnzZnHdS4aTeUxhgKc13/d99ff1d7099cf352b7f7e220dc6938a2/Anysphere_Cursor.pdf"
+          ],
+          "queries": [
+            "Cursor Anysphere revenue ARR valuation funding deep dive",
+            "Cursor Michael Truell founder interview transcript",
+            "Cursor Anysphere product strategy enterprise developer productivity",
+            "Cursor vs Claude Code vs GitHub Copilot analysis",
+            "Cursor AI coding market share enterprise adoption"
+          ]
+        },
+        "founder_voice": {
+          "enabled": true,
+          "seed_urls": [
+            "https://metacast.app/podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm",
+            "https://rosetta.to/u/a16z/michael-truell-how-cursor-builds-at-the-speed-of-ai",
+            "https://pocketcasts.com/podcasts/334dacc0-7a20-0136-7b90-27f978dac4db/56bda5d0-640c-4f6a-96cf-8b9766a0674a",
+            "https://cursor.com/blog/problems-2024",
+            "https://cursor.com/blog/shadow-workspace",
+            "https://cursor.com/blog/prompt-design"
+          ],
+          "queries": [
+            "Michael Truell Cursor interview transcript hiring philosophy",
+            "Michael Truell Cursor speed of AI hiring two day work trial",
+            "Sualeh Asif Cursor early team blog",
+            "Arvid Lunnemark Cursor shadow workspace",
+            "Aman Sanger Cursor next action prediction"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://cursor.com/careers",
+            "https://cursor.com/blog/team"
+          ],
+          "queries": [
+            "site:cursor.com/careers Cursor field engineer solutions sales",
+            "site:cursor.com/careers Cursor agent evaluation quality",
+            "site:cursor.com/careers Cursor model routing inference",
+            "site:cursor.com/careers Cursor research scientist engineering",
+            "site:cursor.com/careers Cursor security GRC enterprise"
+          ]
+        },
+        "social_community": {
+          "enabled": true,
+          "seed_urls": [
+            "https://forum.cursor.com/",
+            "https://www.reddit.com/r/cursor/",
+            "https://news.ycombinator.com/item?id=44039203",
+            "https://news.ycombinator.com/item?id=44677455"
+          ],
+          "queries": [
+            "Cursor user feedback Reddit Hacker News pricing limits",
+            "Cursor vs Claude Code Reddit Hacker News",
+            "Cursor enterprise adoption developer experience",
+            "Cursor forum Bugbot Background Agent feedback",
+            "Cursor pricing changes backlash slow requests"
+          ]
+        },
+        "funding_compute": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.cursor.com/blog/openai-fund",
+            "https://cursor.com/blog/series-a",
+            "https://cursor.com/blog/series-b",
+            "https://cursor.com/blog/series-c",
+            "https://cursor.com/blog/series-d",
+            "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+            "https://techcrunch.com/2025/05/04/cursor-is-reportedly-raising-funds-at-9-billion-valuation-from-thrive-a16z-and-accel/",
+            "https://techcrunch.com/2023/10/11/anysphere-raises-8m-from-openai-to-build-an-ai-powered-ide/"
+          ],
+          "queries": [
+            "Cursor Anysphere funding valuation revenue ARR 2026",
+            "Cursor Anysphere Series D 29.3 billion Google Nvidia Coatue",
+            "Cursor Anysphere 50 billion valuation April 2026 TechCrunch",
+            "Cursor annualized revenue 2 billion 6 billion forecast 2026",
+            "Cursor gross margin proprietary model Composer Kimi third party models"
+          ]
+        },
+        "enterprise_partnerships": {
+          "enabled": true,
+          "seed_urls": [
+            "https://cursor.com/enterprise",
+            "https://cursor.com/blog/enterprise",
+            "https://cursor.com/blog/nvidia",
+            "https://cursor.com/blog/amplitude",
+            "https://cursor.com/blog/money-forward",
+            "https://cursor.com/blog/planetscale",
+            "https://cursor.com/blog/graphite"
+          ],
+          "queries": [
+            "Cursor Enterprise customer NVIDIA 30000 developers",
+            "Cursor Enterprise Box security control",
+            "Cursor Enterprise Amplitude 3x production code",
+            "Cursor Enterprise PlanetScale Bugbot",
+            "Cursor Fortune 500 customers NVIDIA Uber Adobe"
+          ]
+        }
+      }
+    },
+    "MIDJOURNEY": {
+      "ticker": "MIDJOURNEY",
+      "research_key": "MIDJOURNEY",
+      "slug": "midjourney",
+      "company_name": "Midjourney",
+      "company_name_cn": "Midjourney",
+      "is_public": false,
+      "category": "private_ai_image_video_lab",
+      "industry": "AI image generation, AI video generation, creative tools, community-driven model development",
+      "website": "https://www.midjourney.com",
+      "official_domains": [
+        "midjourney.com",
+        "www.midjourney.com",
+        "docs.midjourney.com",
+        "updates.midjourney.com",
+        "alpha.midjourney.com",
+        "status.midjourney.com"
+      ],
+      "aliases": [
+        "Midjourney",
+        "MJ",
+        "Midjourney AI",
+        "Midjourney V7",
+        "Midjourney V8",
+        "Midjourney V8.1",
+        "Midjourney Video",
+        "V1 Video Model",
+        "Niji",
+        "Niji 7",
+        "Omni Reference",
+        "Style Reference",
+        "SREF",
+        "Moodboards",
+        "Draft Mode",
+        "Rooms",
+        "Midjourney Discord",
+        "David Holz"
+      ],
+      "founders": [
+        "David Holz"
+      ],
+      "executives": [
+        "David Holz"
+      ],
+      "exclude_terms": [
+        "journey",
+        "mid journey",
+        "customer journey",
+        "hero's journey",
+        "journey planner"
+      ],
+      "output_paths": {
+        "company_root": "companies/midjourney",
+        "vault": "companies/midjourney/vault",
+        "analysis": "companies/midjourney/analysis",
+        "script_root": "companies/midjourney/_staging"
+      },
+      "channels": {
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.midjourney.com/home",
+            "https://www.midjourney.com/explore",
+            "https://www.midjourney.com/careers",
+            "https://docs.midjourney.com/hc/en-us",
+            "https://docs.midjourney.com/docs/plans",
+            "https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version",
+            "https://updates.midjourney.com/"
+          ],
+          "queries": [
+            "Midjourney official website careers docs pricing version updates",
+            "Midjourney David Holz official company AI lab careers",
+            "Midjourney official V7 V8 video model updates"
+          ]
+        },
+        "products": {
+          "enabled": true,
+          "seed_urls": [
+            "https://docs.midjourney.com/docs/plans",
+            "https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version",
+            "https://updates.midjourney.com/v7-alpha/",
+            "https://updates.midjourney.com/v7-is-now-the-default-model/",
+            "https://updates.midjourney.com/introducing-our-v1-video-model/",
+            "https://updates.midjourney.com/v8-rating-party/",
+            "https://updates.midjourney.com/v8-rating-party-final-round/",
+            "https://updates.midjourney.com/v8-alpha/",
+            "https://updates.midjourney.com/relax-mode-for-v8-alpha/",
+            "https://updates.midjourney.com/v8-1-alpha/",
+            "https://updates.midjourney.com/faster-v7-ideas-ranking-party-and-better-moderation/",
+            "https://updates.midjourney.com/style-references-for-v7/"
+          ],
+          "queries": [
+            "Midjourney V7 V8 V8.1 official updates image model",
+            "Midjourney V1 video model official update image to video",
+            "Midjourney personalization moodboards style reference Omni Reference official",
+            "Midjourney plans pricing docs video prompts"
+          ]
+        },
+        "youtube": {
+          "enabled": true,
+          "max_videos": 30,
+          "query_max_results": 8,
+          "search_provider_order": [
+            "rapidapi_metadata_search",
+            "yt_dlp_search"
+          ],
+          "transcript_provider_order": [
+            "rapidapi_transcript3",
+            "youtube_transcript_api",
+            "yt_dlp_subtitle"
+          ],
+          "category": "Technology",
+          "sort_by": "relevance",
+          "duration": "any",
+          "mode": "fuzzy",
+          "fuzzy": 1,
+          "max_candidates_per_query": 8,
+          "min_duration_min": 10,
+          "pre_download_relevance": true,
+          "relevance_min_score": 3,
+          "relevance_terms": [
+            "Midjourney",
+            "David Holz",
+            "Midjourney V7",
+            "Midjourney V8",
+            "Midjourney Video",
+            "Midjourney Discord",
+            "Midjourney office hours",
+            "aesthetic technology"
+          ],
+          "queries": [
+            "David Holz Midjourney interview",
+            "Midjourney founder David Holz interview AI art",
+            "Midjourney office hours David Holz",
+            "Midjourney V7 V8 video model David Holz",
+            "Midjourney AI image generation founder",
+            "Midjourney lawsuit Disney Universal Warner Bros David Holz"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 30,
+          "query_limit": 16,
+          "months": 60,
+          "queries": [
+            "David Holz Midjourney podcast",
+            "David Holz Midjourney interview",
+            "How Computers Dream David Holz",
+            "What Future David Holz Midjourney",
+            "Stratechery David Holz Midjourney interview",
+            "Midjourney founder podcast",
+            "Midjourney founder interview podcast",
+            "Midjourney AI art podcast",
+            "Midjourney V7 V8 podcast",
+            "Midjourney video model podcast",
+            "Midjourney Disney Universal lawsuit podcast",
+            "Midjourney Meta partnership podcast",
+            "Midjourney bootstrapped no VC podcast",
+            "Midjourney Discord community podcast",
+            "Midjourney aesthetic technology podcast",
+            "Midjourney revenue funding podcast"
+          ],
+          "relevance_terms": [
+            "David Holz",
+            "Midjourney",
+            "AI art",
+            "image generation",
+            "video model",
+            "V7",
+            "V8",
+            "Discord",
+            "community",
+            "copyright",
+            "aesthetic technology"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+            "https://venturebeat.com/ai/midjourney-founder-says-the-world-needs-more-imagination/",
+            "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+            "https://techcrunch.com/2025/06/18/midjourney-launches-its-first-ai-video-generation-model-V1/",
+            "https://apnews.com/article/722b1b892192e7e1628f7ae5da8cc427",
+            "https://apnews.com/article/b87d80d7b4a4dfdcf0ee149d30830551",
+            "https://copyrightalliance.org/wp-content/uploads/2025/09/WBE-v.-Midjourney.pdf",
+            "https://news.justia.com/wp-content/uploads/2025/06/Disney-Universal-v.-Midjourney-Complaint.pdf"
+          ],
+          "queries": [
+            "Midjourney David Holz founder interview organization creative economy",
+            "Midjourney revenue ARR employees no VC funding 2025 2026",
+            "Midjourney Disney Universal Warner Bros lawsuit 2025",
+            "Midjourney video model V1 TechCrunch 2025",
+            "Midjourney Meta licensing aesthetic technology 2025"
+          ]
+        },
+        "substack": {
+          "enabled": true,
+          "queries": [
+            "Midjourney David Holz Substack",
+            "Midjourney revenue ARR employees no VC Substack",
+            "Midjourney Disney Universal lawsuit Substack analysis",
+            "Midjourney Meta licensing aesthetic technology Substack",
+            "Midjourney V7 V8 video model Substack",
+            "Midjourney community Discord product strategy Substack"
+          ],
+          "relevance_terms": [
+            "Midjourney",
+            "David Holz",
+            "AI art",
+            "image generation",
+            "video model",
+            "V7",
+            "V8",
+            "Discord",
+            "community",
+            "copyright",
+            "aesthetic technology",
+            "ARR",
+            "bootstrapped"
+          ]
+        },
+        "founder_voice": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz",
+            "https://venturebeat.com/ai/midjourney-founder-says-the-world-needs-more-imagination/",
+            "https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/",
+            "https://www.listennotes.com/podcasts/what-future-with/how-computers-dream-with-GaxD3dgovRK/"
+          ],
+          "queries": [
+            "David Holz Midjourney interview imagination community organization",
+            "David Holz Midjourney office hours transcript Discord",
+            "David Holz Midjourney founder no VC small team",
+            "David Holz Midjourney human imagination AI tools"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.midjourney.com/careers"
+          ],
+          "queries": [
+            "Midjourney careers research infrastructure frontend data engineering",
+            "Midjourney jobs AI researcher GPU infrastructure ML data engineer",
+            "Midjourney organization small team community-backed research group"
+          ]
+        },
+        "social_community": {
+          "enabled": true,
+          "seed_urls": [
+            "https://discord.gg/midjourney",
+            "https://www.reddit.com/r/midjourney/",
+            "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+            "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+            "https://www.reddit.com/r/midjourney/comments/1lfnlc4/the_game_has_changed_with_midjourney_v7_video/",
+            "https://www.reddit.com/r/midjourney/comments/1mx0scp/midjourney_has_become_unusable/"
+          ],
+          "queries": [
+            "Midjourney Reddit V8 alpha user feedback",
+            "Midjourney Reddit V7 video user feedback",
+            "Midjourney Discord community office hours David Holz",
+            "Midjourney user complaints moderation pricing copyright"
+          ]
+        },
+        "funding_compute": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.productgrowth.blog/p/how-midjourney-hit-500m-arr",
+            "https://devgraphiq.com/midjourney-statistics/",
+            "https://www.reddit.com/r/microsaas/comments/1rf4fvh/midjourney_generates_3m_per_employee_with_0_vc/"
+          ],
+          "queries": [
+            "Midjourney revenue ARR employees no venture funding 2025 2026",
+            "Midjourney valuation bootstrapped 500M ARR 0 VC",
+            "Midjourney compute cost GPU infrastructure revenue per employee",
+            "Midjourney subscription pricing annual revenue estimates"
+          ]
+        },
+        "enterprise_partnerships": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.bloomberg.com/news/articles/2025-08-22/meta-to-license-ai-lab-midjourney-s-tech-in-new-partnership",
+            "https://tech.yahoo.com/ai/article/meta-licensing-midjourneys-ai-image-120012551.html",
+            "https://the-decoder.com/meta-licenses-midjourneys-aesthetic-technology-to-improve-visual-quality-of-future-models/"
+          ],
+          "queries": [
+            "Meta Midjourney license aesthetic technology August 2025 Alexandr Wang",
+            "Midjourney partnership Meta image video models licensing",
+            "Midjourney licensing aesthetic technology enterprise partnership"
+          ]
+        }
+      }
+    },
+    "LOVABLE": {
+      "ticker": "LOVABLE",
+      "research_key": "LOVABLE",
+      "slug": "lovable",
+      "company_name": "Lovable",
+      "company_name_cn": "Lovable",
+      "is_public": false,
+      "category": "private_ai_app_builder",
+      "industry": "AI app builder, vibe coding, AI software creation, developer tools, no-code, enterprise app prototyping",
+      "website": "https://lovable.dev",
+      "official_domains": [
+        "lovable.dev",
+        "docs.lovable.dev"
+      ],
+      "aliases": [
+        "Lovable",
+        "Lovable.dev",
+        "Lovable Labs",
+        "GPT Engineer",
+        "Lovable Agent",
+        "Lovable 2.0",
+        "Lovable Cloud",
+        "Lovable Teams",
+        "vibe coding",
+        "AI app builder"
+      ],
+      "founders": [
+        "Anton Osika"
+      ],
+      "executives": [
+        "Anton Osika"
+      ],
+      "exclude_terms": [
+        "loveable leader",
+        "lovable leader",
+        "loveable dog",
+        "lovable dog",
+        "lovable cat",
+        "lovable kid",
+        "lovable person",
+        "lovable character",
+        "Lovable Leader Insights",
+        "Jeff G"
+      ],
+      "output_paths": {
+        "company_root": "companies/lovable",
+        "vault": "companies/lovable/vault",
+        "analysis": "companies/lovable/analysis",
+        "script_root": "companies/lovable/_staging"
+      },
+      "channels": {
+        "youtube": {
+          "enabled": true,
+          "max_videos": 30,
+          "query_max_results": 8,
+          "search_provider_order": [
+            "rapidapi_metadata_search",
+            "yt_dlp_search"
+          ],
+          "transcript_provider_order": [
+            "rapidapi_transcript3",
+            "youtube_transcript_api",
+            "yt_dlp_subtitle"
+          ],
+          "category": "Technology",
+          "sort_by": "relevance",
+          "duration": "any",
+          "mode": "fuzzy",
+          "fuzzy": 1,
+          "max_candidates_per_query": 8,
+          "min_duration_min": 10,
+          "pre_download_relevance": true,
+          "relevance_min_score": 3,
+          "relevance_terms": [
+            "Lovable",
+            "Lovable.dev",
+            "Anton Osika",
+            "GPT Engineer",
+            "Lovable Agent",
+            "Lovable 2.0"
+          ],
+          "queries": [
+            "Lovable Anton Osika interview",
+            "Anton Osika Lovable podcast",
+            "Lovable CEO Anton Osika",
+            "Lovable Lenny 10M ARR 60 days",
+            "Lovable 20VC Anton Osika",
+            "Lovable AI app builder interview",
+            "Lovable Agent product demo",
+            "Lovable enterprise AI app builder",
+            "Lovable vibe coding",
+            "Lovable 2.0 honest review",
+            "Lovable prototype to production",
+            "GPT Engineer Lovable Anton Osika"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "queries": [
+            "Lovable Anton Osika podcast",
+            "Lovable Anton Osika interview",
+            "Lovable 20VC Anton Osika",
+            "Lovable Lenny 10M ARR",
+            "Lovable AI app builder podcast",
+            "Lovable vibe coding podcast"
+          ],
+          "relevance_terms": [
+            "Lovable",
+            "Anton Osika",
+            "GPT Engineer",
+            "AI app builder",
+            "vibe coding",
+            "enterprise",
+            "work simulation",
+            "founder mode"
+          ]
+        },
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://lovable.dev",
+            "https://lovable.dev/careers",
+            "https://lovable.dev/blog/200m-series-a-fundraise",
+            "https://lovable.dev/blog/agent",
+            "https://lovable.dev/blog/one-year-of-lovable",
+            "https://lovable.dev/blog/series-b",
+            "https://lovable.dev/blog/prototype-to-production-handoff-how-non-technical-teams-use-lovable-without-bypassing-engineering",
+            "https://lovable.dev/blog/security-for-non-technical-teams"
+          ],
+          "queries": [
+            "Lovable official careers Anton Osika AI app builder",
+            "Lovable Agent official enterprise governance security",
+            "Lovable prototype to production handoff non technical teams"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "queries": [
+            "Lovable Anton Osika interview organization hiring",
+            "Lovable 100M ARR 15 people Anton Osika",
+            "Lovable enterprise app builder strategy",
+            "Lovable Zendesk Deutsche Telekom customer case"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://lovable.dev/careers"
+          ],
+          "queries": [
+            "Lovable careers ownership speed direct feedback",
+            "Lovable jobs forward deployed engineer deployment strategist GRC security",
+            "Lovable Product Manager Agents eval infrastructure regression monitoring"
+          ]
+        }
+      }
+    },
+    "QUNHE": {
+      "ticker": "00068.HK",
+      "research_key": "QUNHE",
+      "slug": "qunhe",
+      "company_name": "Manycore Tech Inc.",
+      "company_name_cn": "群核科技",
+      "is_public": true,
+      "category": "public_spatial_intelligence_saas",
+      "industry": "spatial intelligence, cloud-native spatial design software, AI design, SaaS, embodied AI data",
+      "website": "https://www.manycoretech.com",
+      "official_domains": [
+        "manycoretech.com",
+        "kujiale.com",
+        "coohom.com",
+        "blog.coohom.com",
+        "hkexnews.hk",
+        "www1.hkexnews.hk"
+      ],
+      "aliases": [
+        "群核科技",
+        "酷家乐",
+        "Manycore",
+        "Manycore Tech",
+        "Manycore Tech Inc.",
+        "Kujiale",
+        "Coohom",
+        "SpatialVerse",
+        "SpatialLM",
+        "SpatialGen",
+        "SpatialTwin",
+        "Aholo",
+        "LuxReal",
+        "杭州群核",
+        "杭州群核信息技术有限公司"
+      ],
+      "founders": [
+        "黄晓煌",
+        "陈航",
+        "朱皓",
+        "Huang Xiaohuang",
+        "Chen Hang",
+        "Zhu Hao"
+      ],
+      "executives": [
+        "黄晓煌",
+        "陈航",
+        "朱皓",
+        "沈倍",
+        "Huang Xiaohuang",
+        "Chen Hang",
+        "Zhu Hao",
+        "Shen Bei"
+      ],
+      "exclude_terms": [
+        "manycore CPU",
+        "multi-core processor",
+        "群核处理器",
+        "多核科技"
+      ],
+      "output_paths": {
+        "company_root": "companies/qunhe",
+        "vault": "companies/qunhe/vault",
+        "analysis": "companies/qunhe/analysis",
+        "script_root": "companies/qunhe/_staging"
+      },
+      "channels": {
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.manycoretech.com",
+            "https://www.kujiale.com/",
+            "https://www.coohom.com/",
+            "https://blog.coohom.com/",
+            "https://www.prnewswire.com/news-releases/manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html"
+          ],
+          "queries": [
+            "群核科技 官网 公司简介 酷家乐 Coohom",
+            "Manycore Tech official website Kujiale Coohom SpatialVerse",
+            "酷家乐 官网 群核科技 空间智能",
+            "Coohom Manycore Tech official spatial intelligence"
+          ]
+        },
+        "regulatory": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0409/2026040900025.pdf",
+            "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0409/2026040900026_c.pdf",
+            "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0416/2026041601685_c.pdf"
+          ],
+          "queries": [
+            "site:hkexnews.hk Manycore Tech Inc prospectus 00068",
+            "site:hkexnews.hk 群核科技 招股章程 00068",
+            "site:hkexnews.hk MANYCORE TECH 配發結果 00068",
+            "site:hkexnews.hk 群核科技 年報 2025"
+          ]
+        },
+        "financials": {
+          "enabled": true,
+          "queries": [
+            "Manycore Tech 00068 financial results revenue 2025",
+            "群核科技 00068 财务 收入 毛利率 2025",
+            "群核科技 年报 2025 招股书 财务资料",
+            "Manycore Tech annual report 2025 prospectus"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "seed_urls": [
+            "https://finance.sina.com.cn/tech/2026-04-17/doc-inhuupte2249457.shtml",
+            "https://www.eeo.com.cn/2026/0417/841813.shtml",
+            "https://ori.hangzhou.com.cn/ornews/content/2026-04/17/content_9208000.htm",
+            "https://www.jiemian.com/article/14266182.html",
+            "https://www.nbd.com.cn/articles/2026-04-09/4330797.html"
+          ],
+          "queries": [
+            "群核科技 上市 深度报道 空间智能 第一股",
+            "群核科技 黄晓煌 陈航 朱皓 访谈",
+            "群核科技 酷家乐 商业模式 SaaS 空间智能",
+            "Manycore Tech IPO analysis spatial intelligence SaaS"
+          ]
+        },
+        "founder_voice": {
+          "enabled": true,
+          "queries": [
+            "黄晓煌 群核科技 访谈",
+            "陈航 群核科技 访谈",
+            "朱皓 群核科技 技术 访谈",
+            "酷家乐 创始人 黄晓煌 陈航 朱皓 采访",
+            "Manycore Huang Xiaohuang interview",
+            "Manycore Chen Hang interview"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.kujiale.com/about/jobs"
+          ],
+          "queries": [
+            "群核科技 招聘 AI 空间智能",
+            "酷家乐 招聘 算法 图形学 AIGC",
+            "Manycore Tech careers spatial intelligence AI",
+            "Coohom careers AI rendering"
+          ]
+        },
+        "products": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.kujiale.com/",
+            "https://www.coohom.com/",
+            "https://blog.coohom.com/"
+          ],
+          "queries": [
+            "酷家乐 AI智能设计平台 SpatialLM SpatialGen SpatialVerse",
+            "群核科技 SpatialTwin Aholo LuxReal",
+            "Coohom Spatial Design Solutions Manycore",
+            "酷家乐 产品 服务 BIM 渲染 设计生产一体化"
+          ]
+        },
+        "funding_compute": {
+          "enabled": true,
+          "queries": [
+            "群核科技 融资 IDG GGV 顺为 高瓴 Coatue Hearst Pavilion",
+            "Manycore Tech funding GGV IDG Shunwei Hillhouse Coatue Hearst Pavilion",
+            "群核科技 IPO 基石投资者 泰康 阳光 广发 Mirae Redwood Hesai",
+            "Manycore Tech cornerstone investors IPO 00068"
+          ]
+        },
+        "social_community": {
+          "enabled": true,
+          "queries": [
+            "群核科技 酷家乐 社媒 讨论",
+            "酷家乐 用户 评价 设计师",
+            "Coohom reviews G2 3D rendering",
+            "Manycore Tech IPO investor discussion"
+          ]
+        }
+      }
+    },
+    "PERPLEXITY": {
+      "ticker": "PERPLEXITY",
+      "research_key": "PERPLEXITY",
+      "slug": "perplexity",
+      "company_name": "Perplexity",
+      "company_name_cn": "Perplexity",
+      "is_public": false,
+      "category": "private_ai_application",
+      "industry": "AI search, answer engine, agentic browser",
+      "website": "https://www.perplexity.ai",
+      "aliases": [
+        "Perplexity",
+        "Perplexity AI",
+        "Comet",
+        "Perplexity Search API"
+      ],
+      "founders": [
+        "Aravind Srinivas"
+      ],
+      "executives": [
+        "Aravind Srinivas"
+      ],
+      "exclude_terms": [
+        "perplexity meaning",
+        "language model perplexity metric"
+      ],
+      "output_paths": {
+        "company_root": "companies/perplexity",
+        "vault": "companies/perplexity/vault",
+        "analysis": "companies/perplexity/analysis",
+        "script_root": "companies/perplexity/_staging"
+      },
+      "channels": {
+        "youtube": {
+          "enabled": true,
+          "max_videos": 20,
+          "query_max_results": 8,
+          "queries": [
+            "Perplexity Aravind Srinivas interview",
+            "Perplexity CEO interview AI search",
+            "Perplexity Comet browser interview",
+            "Perplexity AI organization culture"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 50,
+          "query_limit": 20,
+          "months": 72,
+          "queries": [
+            "Perplexity Aravind Srinivas podcast",
+            "Perplexity CEO interview podcast",
+            "Perplexity AI search podcast",
+            "Perplexity Comet browser podcast"
+          ],
+          "relevance_terms": [
+            "Perplexity",
+            "Aravind Srinivas",
+            "Comet",
+            "AI search",
+            "browser",
+            "organization"
+          ]
+        },
+        "substack": {
+          "enabled": true,
+          "queries": [
+            "Perplexity Aravind Srinivas Substack",
+            "Perplexity AI search analysis Substack",
+            "Perplexity Comet browser analysis"
+          ]
+        }
+      }
+    },
+    "SNDK": {
+      "ticker": "SNDK",
+      "research_key": "SNDK",
+      "slug": "sandisk",
+      "company_name": "Sandisk",
+      "company_name_cn": "闪迪",
+      "is_public": true,
+      "category": "public_semiconductor_storage",
+      "industry": "NAND flash, SSDs, data storage, AI infrastructure memory and storage",
+      "website": "https://www.sandisk.com",
+      "official_domains": [
+        "sandisk.com",
+        "www.sandisk.com",
+        "investor.sandisk.com",
+        "documents.sandisk.com",
+        "sec.gov"
+      ],
+      "aliases": [
+        "Sandisk",
+        "SanDisk",
+        "Sandisk Corporation",
+        "SanDisk Corporation",
+        "SNDK",
+        "Western Digital spin-off",
+        "NAND",
+        "flash memory",
+        "SSD",
+        "BiCS",
+        "data center SSD"
+      ],
+      "founders": [
+        "Eli Harari",
+        "Sanjay Mehrotra",
+        "Jack Yuan"
+      ],
+      "executives": [
+        "David Goeckeler",
+        "Luis Visoso",
+        "Alper Ilkbahar",
+        "Christine Bastian",
+        "Jim Elliott",
+        "Don Angspatt"
+      ],
+      "exclude_terms": [
+        "sandisk usb troubleshooting",
+        "sd card repair",
+        "memory card recovery",
+        "fake sandisk",
+        "sandisk driver download"
+      ],
+      "output_paths": {
+        "company_root": "companies/sandisk",
+        "vault": "companies/sandisk/vault",
+        "analysis": "companies/sandisk/analysis",
+        "script_root": "companies/sandisk/_staging"
+      },
+      "public_company": {
+        "market": "US",
+        "exchange": "Nasdaq",
+        "cik": "0002023554",
+        "ir_url": "https://investor.sandisk.com",
+        "legacy_cik": "0001000180",
+        "legacy_note": "Legacy SanDisk Corp CIK is only for pre-spinoff history; default SNDK collection uses current Sandisk Corp CIK.",
+        "earnings_presentations": [
+          {
+            "label": "Q2 FY2026 Earnings Presentation",
+            "url": "https://investor.sandisk.com/static-files/1b7ca99b-f84a-4294-9f56-690b32fce69a"
+          },
+          {
+            "label": "Q1 FY2026 Earnings Presentation",
+            "url": "https://investor.sandisk.com/static-files/a1cf180d-5720-4475-a3cc-345cfc8aab38"
+          },
+          {
+            "label": "Q4 FY2025 Earnings Presentation",
+            "url": "https://investor.sandisk.com/static-files/0d41325a-6dc9-47f6-9da7-661b97de6826"
+          },
+          {
+            "label": "Q3 FY2025 Earnings Presentation",
+            "url": "https://investor.sandisk.com/static-files/28846bc7-9d2c-4587-98d2-32741a623e0f"
+          }
+        ],
+        "peer_tickers": [
+          "WDC",
+          "MU",
+          "STX",
+          "285A.T"
+        ]
+      },
+      "channels": {
+        "financials": {
+          "enabled": true
+        },
+        "official": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.sandisk.com",
+            "https://www.sandisk.com/company/about-us",
+            "https://investor.sandisk.com",
+            "https://investor.sandisk.com/sec-filings",
+            "https://investor.sandisk.com/news-events/events",
+            "https://investor.sandisk.com/news-events/presentations",
+            "https://investor.sandisk.com/news-releases",
+            "https://www.sandisk.com/company/careers"
+          ],
+          "queries": [
+            "Sandisk investor relations",
+            "SNDK SEC filings",
+            "Sandisk earnings presentation",
+            "Sandisk investor day"
+          ]
+        },
+        "youtube": {
+          "enabled": true,
+          "max_videos": 20,
+          "query_max_results": 8,
+          "queries": [
+            "Sandisk David Goeckeler interview",
+            "SNDK earnings call",
+            "Sandisk investor day presentation",
+            "Western Digital Sandisk spin-off",
+            "Sandisk NAND AI storage demand",
+            "Sandisk data center SSD interview"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 50,
+          "query_limit": 20,
+          "months": 72,
+          "queries": [
+            "Sandisk David Goeckeler podcast",
+            "SNDK earnings podcast",
+            "Western Digital Sandisk spin-off podcast",
+            "NAND flash cycle podcast Sandisk",
+            "AI storage demand Sandisk podcast"
+          ],
+          "relevance_terms": [
+            "Sandisk",
+            "SanDisk",
+            "SNDK",
+            "David Goeckeler",
+            "NAND",
+            "SSD",
+            "Western Digital spin-off"
+          ]
+        },
+        "substack": {
+          "enabled": true,
+          "queries": [
+            "SNDK Sandisk Substack",
+            "Sandisk NAND cycle analysis Substack",
+            "Sandisk AI storage demand analysis",
+            "Western Digital Sandisk spin-off analysis"
+          ]
+        },
+        "founder_voice": {
+          "enabled": true,
+          "queries": [
+            "Sandisk David Goeckeler interview transcript",
+            "Sandisk CEO interview AI storage",
+            "SanDisk founder Eli Harari interview",
+            "Sanjay Mehrotra SanDisk founder interview"
+          ]
+        },
+        "web_longform": {
+          "enabled": true,
+          "queries": [
+            "SNDK Sandisk deep dive",
+            "Sandisk NAND cycle analysis",
+            "Sandisk Western Digital spin-off analysis",
+            "Sandisk vs Micron Western Digital Seagate Kioxia",
+            "Sandisk AI data center SSD demand analysis"
+          ]
+        },
+        "jobs_org": {
+          "enabled": true,
+          "seed_urls": [
+            "https://www.sandisk.com/company/careers"
+          ],
+          "queries": [
+            "Sandisk careers engineering NAND",
+            "Sandisk jobs data center SSD",
+            "Sandisk hiring AI infrastructure storage"
+          ]
+        },
+        "social_community": {
+          "enabled": true,
+          "queries": [
+            "SNDK reddit investing",
+            "Sandisk stock analysis reddit",
+            "SNDK NAND cycle discussion",
+            "Sandisk vs Micron stock discussion",
+            "Sandisk Western Digital spin-off investor discussion"
+          ]
+        }
+      }
+    },
+    "BLOCK": {
+      "ticker": "SQ",
+      "research_key": "BLOCK",
+      "slug": "block",
+      "company_name": "Block",
+      "company_name_cn": "Block",
+      "is_public": true,
+      "category": "public_fintech",
+      "industry": "fintech, payments, Cash App, Square, AI operating model",
+      "website": "https://block.xyz",
+      "aliases": [
+        "Block",
+        "Block Inc",
+        "Square",
+        "Cash App",
+        "Afterpay",
+        "Goose"
+      ],
+      "founders": [
+        "Jack Dorsey",
+        "Jim McKelvey"
+      ],
+      "executives": [
+        "Jack Dorsey",
+        "Amrita Ahuja"
+      ],
+      "exclude_terms": [
+        "blockchain generic",
+        "city block"
+      ],
+      "output_paths": {
+        "company_root": "companies/block",
+        "vault": "companies/block/vault",
+        "analysis": "companies/block/analysis",
+        "script_root": "companies/block/_staging"
+      },
+      "channels": {
+        "youtube": {
+          "enabled": true,
+          "max_videos": 20,
+          "query_max_results": 8,
+          "queries": [
+            "Jack Dorsey Block AI interview",
+            "Block Jack Dorsey hierarchy intelligence",
+            "Block Inc AI organization Jack Dorsey",
+            "Square Cash App AI interview"
+          ]
+        },
+        "podcasts": {
+          "enabled": true,
+          "max_episodes": 50,
+          "query_limit": 20,
+          "months": 72,
+          "queries": [
+            "Jack Dorsey Block podcast AI",
+            "Block Inc Jack Dorsey interview",
+            "Block Square Cash App AI podcast",
+            "Block earnings AI workforce podcast"
+          ],
+          "relevance_terms": [
+            "Block",
+            "Jack Dorsey",
+            "Square",
+            "Cash App",
+            "AI",
+            "hierarchy",
+            "organization"
+          ]
+        },
+        "substack": {
+          "enabled": true,
+          "queries": [
+            "Block Jack Dorsey AI organization Substack",
+            "Block Inc AI workforce analysis",
+            "Square Cash App AI operating model"
+          ]
+        },
+        "financials": {
+          "enabled": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "org-xray",
+  "company": "Cursor",
+  "title": "Cursor组织X光：300人创造$2B ARR的极致效率机器",
+  "generated": "2026-04-03",
+  "content": "# 组织X光：300人/$2B ARR的效率之谜\n\n## 组织架构概览\n\n```\nMichael Truell (CEO) — 战略/融资/对外\n├── Sualeh Asif (CPO) — 产品/Tab功能/基础设施/实际承担CTO职责\n├── Aman Sanger (COO) — 运营/增长/定价/模型训练/对外spokesperson\n└── [空缺] CTO — Arvid Lunnemark 2025-10离职\n```\n\n全公司约300人，其中~40人专注模型训练。无公开的CFO、CHRO、CRO等C-level外部雇员。\n\n## 核心发现\n\n### 1. 人效比是SaaS历史之最\n\n300人创造$2B ARR = 人均$666万/年。对比参考：\n- Anthropic: ~1500人/$2B ARR = 人均$133万 → Cursor是5x\n- Netflix: 14000人/$33.7B = 人均$240万 → Cursor是2.8x\n- Duolingo: 900人/$1B = 人均$115万 → Cursor是5.8x\n\n这种人效比的来源：(1)零营销增长→不需要GTM组织；(2)递归自用→产品改进=团队效率提升；(3)极端招聘标准→每个人产出极高。\n\n### 2. 创始团队纯度极高但治理不透明\n\n三位在任创始人控制所有关键决策。无外部空降高管、无独立董事会信息、无外部advisor公开记录。优点是决策速度极快、文化纯度极高、不会出现'代理人问题'。风险是任何创始人离开（已发生一次）将造成不可逆的组织能力损失。\n\n### 3. 40人模型团队的战略地位\n\nAman描述为'exceptionally talent-dense team'，但Composer 2仍需第三方基座（Kimi K2.5）。这说明自研能力正在构建中，但距离完全自主仍有差距。模型团队占全公司13%的人力，反映了管理层对技术自主的重视。\n\n### 4. M&A作为组织扩张的核心工具\n\n四次关键收购：Supermaven（AI自动补全团队，含前Copilot核心人物）、Graphite（代码审查，$52M prior funding）、Koala（企业工具）、Growth by Design（招聘策略）。收购逻辑统一：获取难以正常招聘到的顶级人才+快速扩展产品线。Growth by Design的收购尤其值得注意——说明管理层认识到招聘本身需要专业化。\n\n### 5. CTO空缺的组织影响\n\nArvid Lunnemark（IOI+IMO奖牌）于2025年10月离开创立AI安全实验室。CTO职位至今空缺无继任者。Sualeh Asif在Stanford CS153以'CTO'身份出现，暗示已实际接管。但正式任命缺位可能反映：(1)团队不认为需要正式CTO title；(2)在寻找合适人选；(3)三位创始人分担了CTO职责。\n\n## 信息黑洞\n\n1. 内部组织层级和汇报结构\n2. 员工留存率和离职率\n3. 薪酬和股权激励结构\n4. 董事会构成和治理机制\n5. Arvid离开后是否有核心工程师跟随离职\n6. 300人中工程/产品/运营/销售的构成比例"
+}

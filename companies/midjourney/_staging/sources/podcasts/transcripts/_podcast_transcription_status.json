@@ -1,0 +1,373 @@
+{
+  "ticker": "MIDJOURNEY",
+  "generated_at": "2026-04-20T21:43:40",
+  "retry_rounds": 3,
+  "min_duration_min": 0,
+  "total_records": 38,
+  "success_records": 33,
+  "failure_records": 5,
+  "statuses": [
+    {
+      "status": "existing_success",
+      "title": "#57 Midjourneyが動画生成に対応へ？ v7.1 v8など",
+      "date": "2025-06-16",
+      "podcast": "ちょっとAI",
+      "audio_url": "https://cdncf.stand.fm/audios/01JXVKD6Z5QGMWH8H2K019FK89.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-16_57-Midjourneyが動画生成に対応へ-v71-v8など.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "#446 David Holz Maker Mantra: “Embrace Technology, Ignite Your Imagination!”",
+      "date": "2025-10-05",
+      "podcast": "Coder Caffeine",
+      "audio_url": "https://anchor.fm/s/f8f3baa8/podcast/play/109222276/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-5%2F8614f2ba-cce4-69f9-789d-51e6f87d411a.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-10-05_446-David-Holz-Maker-Mantra-Embrace-Technology-Ignite-Your-I.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "David Holz (Midjourney)",
+      "date": "2023-06-20",
+      "podcast": "Power Law with John Coogan",
+      "audio_url": "https://media.transistor.fm/aac60837/02682864.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-06-20_David-Holz-Midjourney.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "MIXEDCAST #313: Träumen KI-Konsolen in Zukunft Videospiele?",
+      "date": "2022-08-27",
+      "podcast": "MIXEDCAST: Podcast über VR, AR, KI",
+      "audio_url": "https://feeds.soundcloud.com/stream/1332355060-mixedcast-mixedcast-313-traumen-ki-konsolen-in-zukunft-videospiele.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2022-08-27_MIXEDCAST-313-Träumen-KI-Konsolen-in-Zukunft-Videospiele.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Digimasters Shorts - Midjourney's Deepfake Dilemma, Wayve's US Expansion, Anchor Founders Launch Oboe, Google's SynthID Text, White House AI Rules",
+      "date": "2024-10-25",
+      "podcast": "Digimasters Shorts",
+      "audio_url": "https://op3.dev/e/www.buzzsprout.com/2292087/episodes/15986361-digimasters-shorts-midjourney-s-deepfake-dilemma-wayve-s-us-expansion-anchor-founders-launch-oboe-google-s-synthid-text-white-house-ai-rules.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-10-25_Digimasters-Shorts---Midjourneys-Deepfake-Dilemma-Wayves-US.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Midjourney v8 Countdown, Are \"AI Artists\" A Thing? + Nano Banana Pro vs ChatGPT Image 1.5",
+      "date": "2025-12-21",
+      "podcast": "Midjourney Fast Hours",
+      "audio_url": "https://anchor.fm/s/f84d7f94/podcast/play/112957793/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-21%2F414799478-44100-2-7ed3ba7bd8249.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-12-21_Midjourney-v8-Countdown-Are-AI-Artists-A-Thing--Nano-Banana.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "March 19 2026 - Midjourney V8, Gemini Privacy & Mamba-3Midjourney V8, Gemini Privacy & Mamba-3",
+      "date": "2026-03-19",
+      "podcast": "The AI Signal & The AI Noise",
+      "audio_url": "https://mcdn.podbean.com/mf/web/9x78wfvwiwuh3klj/50586703-94d7-422e-a3b1-555c2c1e5c0d.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2026-03-19_March-19-2026---Midjourney-V8-Gemini-Privacy--Mamba-3Midjour.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "MidJourney for Business: How to Quickly Create Professional AI Art",
+      "date": "2024-12-31",
+      "podcast": "AI Explored",
+      "audio_url": "https://rss.art19.com/episodes/c081705e-35c5-4fc6-9f18-2c2c2421b09e.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-12-31_MidJourney-for-Business-How-to-Quickly-Create-Professional-A.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "S1:E14: AI Art and You - Is Midjourney an Omen for the Arts?",
+      "date": "2022-09-13",
+      "podcast": "The Sights and Sounds Podcast",
+      "audio_url": "https://www.buzzsprout.com/1995605/episodes/11298054-s1-e14-ai-art-and-you-is-midjourney-an-omen-for-the-arts.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2022-09-13_S1E14-AI-Art-and-You---Is-Midjourney-an-Omen-for-the-Arts.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Nick from 'Midjourney for Creatives': Unlocking the full power of generative AI art via Midjourney",
+      "date": "2023-11-06",
+      "podcast": "Probably Something: Artificial Intelligence | Entrepreneurship | Technology | Startups | Founders",
+      "audio_url": "https://anchor.fm/s/eaa83bcc/podcast/play/78234742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-6%2F354312230-44100-2-3ac25add062c6.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-11-06_Nick-from-Midjourney-for-Creatives-Unlocking-the-full-power.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "\"MidJourney's Latest Feature Breakdown + AI's Political Sensation",
+      "date": "2024-03-17",
+      "podcast": "Founder Built: Interviews, News, Startups, Lex Fridman, Joe Rogan, AI",
+      "audio_url": "https://rss.art19.com/episodes/03fedfb2-17d5-4771-854b-d7520fb08b35.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-03-17_MidJourneys-Latest-Feature-Breakdown--AIs-Political-Sensatio.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Text-to-Image Evolution: Analyzing MidJourney & Stability AI's Recent Upgrades",
+      "date": "2024-03-16",
+      "podcast": "Founder Built: Interviews, News, Startups, Lex Fridman, Joe Rogan, AI",
+      "audio_url": "https://rss.art19.com/episodes/6d098971-fbc5-4558-afc1-520d074aaf78.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-03-16_Text-to-Image-Evolution-Analyzing-MidJourney--Stability-AIs.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Inpainting by MidJourney: Customizing Every Pixel for Personalized Photo Editing",
+      "date": "2024-02-05",
+      "podcast": "Founder Built: Interviews, News, Startups, Lex Fridman, Joe Rogan, AI",
+      "audio_url": "https://rss.art19.com/episodes/349df1e7-0227-4266-b386-986d7d4aecb6.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-02-05_Inpainting-by-MidJourney-Customizing-Every-Pixel-for-Persona.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Midjourney's Custom Models and Video are Here",
+      "date": "2024-04-01",
+      "podcast": "Founder Built: Interviews, News, Startups, Lex Fridman, Joe Rogan, AI",
+      "audio_url": "https://rss.art19.com/episodes/b8815d3f-a50b-4ab5-862f-cd9fb6e1e5e6.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-04-01_Midjourneys-Custom-Models-and-Video-are-Here.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Midjourney V7 Showed Up in Crocs and COOKED",
+      "date": "2025-04-13",
+      "podcast": "Midjourney Fast Hours",
+      "audio_url": "https://anchor.fm/s/f84d7f94/podcast/play/101180299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-11%2F398258242-44100-2-0e5abd43ca538.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-04-13_Midjourney-V7-Showed-Up-in-Crocs-and-COOKED.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Episode 158 - Making AI Art with Midjourney Part 1 (feat. Bryceston)",
+      "date": "2023-02-11",
+      "podcast": "It's Been Awhile Podcast",
+      "audio_url": "https://traffic.megaphone.fm/APO7046857983.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-02-11_Episode-158---Making-AI-Art-with-Midjourney-Part-1-feat-Bryc.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Midjourney After Dark: Nightcap Nerd-Out",
+      "date": "2024-09-01",
+      "podcast": "Midjourney Fast Hours",
+      "audio_url": "https://anchor.fm/s/f84d7f94/podcast/play/91084433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-30%2F385567593-44100-2-861c46171b7e5.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2024-09-01_Midjourney-After-Dark-Nightcap-Nerd-Out.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Sub Agents and Safe Chaos in GPT 5.4 Mini, V8, and Covo Audio",
+      "date": "2026-03-19",
+      "podcast": "COEY Cast",
+      "audio_url": "https://coey-podcast.s3.us-east-2.amazonaws.com/20260318110502186+-+sub_agents_safe_chaos.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2026-03-19_Sub-Agents-and-Safe-Chaos-in-GPT-54-Mini-V8-and-Covo-Audio.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "MLA 025 AI Image Generation: Midjourney vs Stable Diffusion, GPT-4o, Imagen & Firefly",
+      "date": "2025-07-09",
+      "podcast": "Machine Learning Guide",
+      "audio_url": "https://traffic.libsyn.com/secure/machinelearningguide/mla-25.20260202.ocdevel.mp3?dest-id=529035",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-07-09_MLA-025-AI-Image-Generation-Midjourney-vs-Stable-Diffusion-G.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Episode 11 | Banjo Kazooie | Midjourney | Ai Art",
+      "date": "2023-05-17",
+      "podcast": "Dead Game Podcast - With Wally & Carlos",
+      "audio_url": "https://anchor.fm/s/d16566d0/podcast/play/70522298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-17%2F329982443-44100-2-e31565216cc94.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-05-17_Episode-11--Banjo-Kazooie--Midjourney--Ai-Art.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Turn AI Art into Cash: How to Sell Midjourney & DALL·E Creations on Etsy and Adobe Stock for Passive Income",
+      "date": "2025-04-29",
+      "podcast": "AI Paycheck",
+      "audio_url": "https://anchor.fm/s/103e19124/podcast/play/101921322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-18%2F402423358-44100-2-9d62409e95048.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-04-29_Turn-AI-Art-into-Cash-How-to-Sell-Midjourney--DALLE-Creation.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Disney is Suing Midjourney, Trump Says US-China Trade Deal is ‘Done’",
+      "date": "2025-06-12",
+      "podcast": "Venture Daily",
+      "audio_url": "https://anchor.fm/s/e4c82230/podcast/play/104044298/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-12%2F402056477-44100-2-b4dc2cd8d6c46.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-12_Disney-is-Suing-Midjourney-Trump-Says-US-China-Trade-Deal-is.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "EP 177 : Midjourney's Video V1, OpenAI Files, & ChatGPT's Cognitive Impact! Tune In!",
+      "date": "2025-06-20",
+      "podcast": "AI Brief",
+      "audio_url": "https://anchor.fm/s/ff46c8c8/podcast/play/104380420/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-19%2F402479697-44100-2-17c31f64cd8e5.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-20_EP-177--Midjourneys-Video-V1-OpenAI-Files--ChatGPTs-Cognitiv.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "G7 & KI-Energie. OpenAI & Microsoft. Amazon & KI-Jobs. Midjourney Videomodell.",
+      "date": "2025-06-19",
+      "podcast": "KI-Briefing Daily - Tägliche KI-News in 5 Minuten",
+      "audio_url": "https://audio.podigee-cdn.net/1979392-m-79c01828a49714d082870c45d9ee7942.mp3?source=feed",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-19_G7--KI-Energie-OpenAI--Microsoft-Amazon--KI-Jobs-Midjourney.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Vol.09 大模型之下，Midjourney等内容工具和平台的新机会在哪里？",
+      "date": "2023-07-06",
+      "podcast": "AI局内人 | AGI Insider",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/643928f99361a4e7c38a9555/6496d9dd86eb9d7e47131fcd/media.xyzcdn.net/lgqZFwHnEJ9NPyE1Qoh7mSOReq5j.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-07-06_Vol09-大模型之下Midjourney等内容工具和平台的新机会在哪里.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "No.3 影石敲钟 700 亿，迪士尼起诉 Midjourney，医托乱象惹悲剧，车企能否兑现账期？",
+      "date": "2025-06-17",
+      "podcast": "半拿铁·周刊",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/682c566cc7c5f17595635a2c/685119692a38b4d979145eb2/media.xyzcdn.net/682c566cc7c5f17595635a2c/lszGn4Tqxf1VWZW3UPDS8Icju4RB.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-17_No3-影石敲钟-700-亿迪士尼起诉-Midjourney医托乱象惹悲剧车企能否兑现账期.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "012. MidJourney, A.I. Art, and seeking God. Also, Stephen Jobe is Rad For Jesus.",
+      "date": "2022-10-19",
+      "podcast": "Be Rad For Jesus",
+      "audio_url": "https://anchor.fm/s/39ebe7c0/podcast/play/59284979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F39ebe7c0%2F59284979%2Fd4202beee48ea9fe92f005723ec98ba6.m4a",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2022-10-19_012-MidJourney-AI-Art-and-seeking-God-Also-Stephen-Jobe-is-R.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "XRGC: Are the Emmy’s still relevant, WB sues MidJourney and Summer streaming wrapped",
+      "date": "2025-09-12",
+      "podcast": "X-Ray Vision",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c4d5247b-874a-40bb-a201-b12500ec6f12/5cc85ce3-5add-4276-b584-b35501653cf4/audio.mp3?utm_source=Podcast&in_playlist=743baaf0-fd7c-49ce-b056-b12500ec6f46",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-09-12_XRGC-Are-the-Emmys-still-relevant-WB-sues-MidJourney-and-Sum.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "Why Disney vs. MidJourney Could Rewrite Hollywood’s IP Playbook",
+      "date": "2025-09-09",
+      "podcast": "Technically Creative by KoobrikLabs",
+      "audio_url": "https://downloads.pod.co/ab6fb1f7-2ab8-496a-adbe-6ff852c147d6/7d5f4868-f7ee-436b-9982-6119da1ff9f1.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-09-09_Why-Disney-vs-MidJourney-Could-Rewrite-Hollywoods-IP-Playboo.md"
+    },
+    {
+      "status": "existing_success",
+      "title": "S07E05 - Character Copyright and the Disney + Universal Lawsuit vs. Midjourney",
+      "date": "2025-07-02",
+      "podcast": "A Lawyer's Guide to the Galaxy Podcast",
+      "audio_url": "https://feeds.soundcloud.com/stream/2115001617-user-329223368-s07e05-character-copyright-and-the-disney-universal-lawsuit-vs-midjourney.mp3",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-07-02_S07E05---Character-Copyright-and-the-Disney--Universal-Lawsu.md"
+    },
+    {
+      "status": "success",
+      "title": "Stable Diffusion 都快倒闭了？Midjourney 凭什么是绘画的未来！",
+      "date": "2023-05-08",
+      "podcast": "且曼播客",
+      "audio_url": "https://media.xyzcdn.net/lg0SyMY-q873IjIpYHk4kjFZeojE.m4a",
+      "source_audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63ed26f351a4e4150a8d2304/6458a0157d934b8505e8abd2/media.xyzcdn.net/lg0SyMY-q873IjIpYHk4kjFZeojE.m4a",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2023-05-08_Stable-Diffusion-都快倒闭了Midjourney-凭什么是绘画的未来.md",
+      "chars": 14698,
+      "task_id": "86f39e8f-98ec-4fd0-a7af-a46996f95268",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://media.xyzcdn.net/lg0SyMY-q873IjIpYHk4kjFZeojE.m4a"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "He Pushed a Vibe Coded App to Production.  What Did He Learn?",
+      "date": "2025-07-02",
+      "podcast": "Prompt and Circumstance",
+      "audio_url": "https://audio.transistor.fm/m/shows/64003/b012e191d4a53042586beca9cc1f93dc.mp3",
+      "source_audio_url": "https://media.transistor.fm/d2a69253/19b0eea5.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-07-02_He-Pushed-a-Vibe-Coded-App-to-Production--What-Did-He-Learn.md",
+      "chars": 16848,
+      "task_id": "5b5cc037-91fa-4078-ad5d-8026d7329b75",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/64003/b012e191d4a53042586beca9cc1f93dc.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "EP 25: AI in Visual Art - Midjourney, DALL-E, and the Copyright Battlefield",
+      "date": "2026-02-17",
+      "podcast": "Inside AsembleAI: DeepTech, AI & Science",
+      "audio_url": "https://mcdn.podbean.com/mf/web/cug45qaq0kw193un/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3",
+      "attempt_round": 1,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://s358.podbean.com/pb/3fba58ca0d18e5c9339a26ccaeba508c/69e581de/data1/fs54/22120098/uploads/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3?pbss=d5f3a7b5-a7d4-59fb-9ac8-b5368ece35a5",
+        "https://mcdn.podbean.com/mf/web/cug45qaq0kw193un/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/07b62e57-b6d1-9e0f-acd8-d53fdc507963/2026-02-17_EP-25-AI-in-Visual-Art---Midjourney-DALL-E-and-the-Copyright.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/7365e54d-37cb-940d-895e-d05328463928/2026-02-17_EP-25-AI-in-Visual-Art---Midjourney-DALL-E-and-the-Copyright.mp3"
+      ]
+    },
+    {
+      "status": "success",
+      "title": "Midjourney Made $300M, Disney’s Fuming, and AI Pets Are TV Stars Now: What Is Going On?!",
+      "date": "2025-06-17",
+      "podcast": "The AI Download",
+      "audio_url": "https://audio.transistor.fm/m/shows/61224/9de838d6bb5fbe6ea06d06841090a49b.mp3",
+      "source_audio_url": "https://media.transistor.fm/f6f040a0/71b38967.mp3",
+      "local_audio_path": "",
+      "transcript_path": "/Users/leafsun/Desktop/AI Org研究/scripts/MIDJOURNEY/sources/podcasts_transcripts/2025-06-17_Midjourney-Made-300M-Disneys-Fuming-and-AI-Pets-Are-TV-Stars.md",
+      "chars": 12905,
+      "task_id": "6ff00dfa-5e28-4e22-a376-9b424672d8f0",
+      "attempt_round": 1,
+      "tried_urls": [
+        "https://audio.transistor.fm/m/shows/61224/9de838d6bb5fbe6ea06d06841090a49b.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "#122 - AI for Word and Excel, leaked Google memo, ImageBind, LLAva, robot soccer, Midjourney 5.1",
+      "date": "2023-05-13",
+      "podcast": "Last Week in AI",
+      "audio_url": "https://rss.art19.com/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "attempt_round": 1,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://rss.art19.com/external/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "https://rss.art19.com/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/9661893c-0bc9-9455-98cb-d764c5bf79d8/2023-05-13_122---AI-for-Word-and-Excel-leaked-Google-memo-ImageBind-LLA.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/2b4fd9c2-e48e-9691-bd18-4b457b9f6443/2023-05-13_122---AI-for-Word-and-Excel-leaked-Google-memo-ImageBind-LLA.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Creating ANIMAL WELL, Building a Game Engine, Finding Opportunities, Indie Games, Dunkey, Going to DePaul, Having Patience, Publisher BIGMODE, Disdain for Midjourney Assets and Crow Country with Billy Basso of Animal Well",
+      "date": "2024-06-10",
+      "podcast": "Game Dev Advice: The Game Developer's Podcast",
+      "audio_url": "https://pdcn.co/e/traffic.megaphone.fm/ADL5768495258.mp3?updated=1741019807",
+      "attempt_round": 1,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://dcs-spotify.megaphone.fm/ADL5768495258.mp3?key=a2e87cbd9d5995ae5655d851f20cd882&request_event_id=86c712d3-f984-4578-948e-958473bf1ac6&session_id=a5f3a89f-8b4a-42e7-91d4-fcb7f7356188&timetoken=1776697706_EA68E2A1F636F0CAD58BD2D319E62C1B",
+        "https://pdcn.co/e/traffic.megaphone.fm/ADL5768495258.mp3?updated=1741019807",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/b9b217f5-4800-9bca-9533-a0a0d240003d/2024-06-10_Creating-ANIMAL-WELL-Building-a-Game-Engine-Finding-Opportun.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/d5624154-7c32-9018-ae32-fda32bb4904c/2024-06-10_Creating-ANIMAL-WELL-Building-a-Game-Engine-Finding-Opportun.mp3"
+      ]
+    },
+    {
+      "status": "failed",
+      "title": "Midjourney’s Secret Playground: Chaos, Weird, and New Editor",
+      "date": "2025-04-22",
+      "podcast": "Midjourney Fast Hours",
+      "audio_url": "https://anchor.fm/s/f84d7f94/podcast/play/101617326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2F398813684-44100-2-d74928bfcb11.mp3",
+      "attempt_round": 1,
+      "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+      "stage": "dashscope_transcription",
+      "tried_urls": [
+        "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-22/398813684-44100-2-d74928bfcb11.mp3",
+        "https://anchor.fm/s/f84d7f94/podcast/play/101617326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2F398813684-44100-2-d74928bfcb11.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/7d9f6287-cb63-9570-bd92-702f750d269e/2025-04-22_Midjourneys-Secret-Playground-Chaos-Weird-and-New-Editor.mp3",
+        "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/3d575dca-e63d-902e-a2c4-f42f84df6ff2/2025-04-22_Midjourneys-Secret-Playground-Chaos-Weird-and-New-Editor.mp3"
+      ]
+    },
+    {
+      "status": "running",
+      "title": "#149 - Reflecting on 2023, Midjourney v6, Anthropic Revenue, Unified-IO 2, NY Times sues OpenAI",
+      "date": "2024-01-07",
+      "podcast": "Last Week in AI",
+      "audio_url": "https://rss.art19.com/episodes/3fc6572b-f72f-457d-9cfe-b84ea7e90f60.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "attempt_round": 1,
+      "stage": "dashscope_transcription",
+      "started_at": "2026-04-20T21:43:40"
+    }
+  ]
+}

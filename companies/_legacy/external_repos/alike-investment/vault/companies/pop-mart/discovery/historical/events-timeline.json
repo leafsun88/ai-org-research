@@ -1,0 +1,96 @@
+{
+  "description": "PopMart关键事件时间线 — 按时间排序，引用对应entry ID",
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "event": "王宁在北京开设第一家PopMart门店(潮流杂货铺)",
+      "category": "founding",
+      "significance": "high",
+      "entry_refs": ["pm_org_001"]
+    },
+    {
+      "date": "2015-01-01",
+      "event": "司德加入PopMart，后成为联席COO(大中华+美洲)",
+      "category": "leadership",
+      "significance": "medium",
+      "entry_refs": ["pm_org_005"]
+    },
+    {
+      "date": "2016-06-01",
+      "event": "王宁签下Molly IP，正式开启盲盒商业模式转型",
+      "category": "milestone",
+      "significance": "high",
+      "entry_refs": ["pm_org_002", "pm_biz_001", "pm_biz_002"]
+    },
+    {
+      "date": "2017-01-01",
+      "event": "杨镜冰加入担任CFO",
+      "category": "leadership",
+      "significance": "medium",
+      "entry_refs": ["pm_org_012"]
+    },
+    {
+      "date": "2018-01-01",
+      "event": "文德一(韩国籍)加入PopMart，开启海外扩张布局",
+      "category": "leadership",
+      "significance": "high",
+      "entry_refs": ["pm_org_004"]
+    },
+    {
+      "date": "2020-12-11",
+      "event": "PopMart在港交所上市(9992.HK)",
+      "category": "milestone",
+      "significance": "high",
+      "entry_refs": ["pm_org_010"]
+    },
+    {
+      "date": "2024-06-01",
+      "event": "Labubu因Lisa(BLACKPINK)带货在东南亚爆火，成为现象级IP",
+      "category": "product",
+      "significance": "high",
+      "entry_refs": ["pm_org_009", "pm_biz_002", "pm_biz_010"]
+    },
+    {
+      "date": "2024-12-31",
+      "event": "FY2024财报：营收130.4亿(+107%)，海外收入占比突破40%",
+      "category": "financial",
+      "significance": "high",
+      "entry_refs": ["pm_biz_004"]
+    },
+    {
+      "date": "2025-03-20",
+      "event": "FY2025财报发布：营收371.2亿(+185%)，但股价当日暴跌22.5%",
+      "category": "financial",
+      "significance": "high",
+      "entry_refs": ["pm_biz_003", "pm_org_016", "pm_biz_009"]
+    },
+    {
+      "date": "2025-04-15",
+      "event": "五年最大组织架构调整：CEO直管→四大区域总部制+十大中台",
+      "category": "org",
+      "significance": "high",
+      "entry_refs": ["pm_org_006", "pm_org_007", "pm_org_015"]
+    },
+    {
+      "date": "2025-12-31",
+      "event": "库存从15亿飙升至55亿，周转天数126→148天，引发市场担忧",
+      "category": "financial",
+      "significance": "high",
+      "entry_refs": ["pm_biz_006", "pm_comp_005"]
+    },
+    {
+      "date": "2026-01-01",
+      "event": "战略新方向公布：家电产品线、Sony Pictures电影合作、主题公园1.5期",
+      "category": "strategy",
+      "significance": "high",
+      "entry_refs": ["pm_biz_008", "pm_biz_015"]
+    },
+    {
+      "date": "2026-01-01",
+      "event": "2026 guidance发布：'至少20%增长'，市场解读为保守",
+      "category": "financial",
+      "significance": "medium",
+      "entry_refs": ["pm_biz_009"]
+    }
+  ]
+}

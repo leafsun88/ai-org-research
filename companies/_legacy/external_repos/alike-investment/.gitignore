@@ -1,0 +1,36 @@
+# === 个人配置（不共享） ===
+.claude/settings.local.json
+
+# === macOS ===
+.DS_Store
+**/.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# === 编辑器 ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# === Node ===
+node_modules/
+
+# === 临时文件 ===
+*.tmp
+*~
+*.bak
+*.orig
+.claude/worktrees/
+dashboard/
+product-demo/index-ye.html
+product-demo/_company_status_meta.js
+HANDOFF.md

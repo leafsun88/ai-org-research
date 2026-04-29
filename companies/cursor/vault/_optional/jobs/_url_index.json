@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://cursor.com/careers",
+    "title": "careers",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for jobs_org",
+    "seed": true
+  },
+  {
+    "url": "https://cursor.com/blog/team",
+    "title": "team",
+    "source": "cursor.com",
+    "date": "unknown",
+    "brief": "configured seed for jobs_org",
+    "seed": true
+  }
+]

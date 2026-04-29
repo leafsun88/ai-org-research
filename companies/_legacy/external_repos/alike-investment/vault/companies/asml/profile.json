@@ -1,0 +1,10 @@
+{
+  "name": "ASML Holding",
+  "ticker": "ASML",
+  "exchange": "NASDAQ",
+  "market_cap": "$250B",
+  "sector": "光刻机",
+  "category": "NVIDIA类",
+  "note": "EUV光刻机全球唯一",
+  "created": "2026-04-06"
+}

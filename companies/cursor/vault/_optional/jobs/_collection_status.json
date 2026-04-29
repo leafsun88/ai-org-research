@@ -1,0 +1,25 @@
+{
+  "research_key": "CURSOR",
+  "company": "Anysphere",
+  "channel": "jobs_org",
+  "generated_at": "2026-04-20T17:46:14",
+  "total_records": 2,
+  "success_records": 2,
+  "failure_records": 0,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://cursor.com/careers",
+      "title": "careers",
+      "chars": 13418,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/jobs_org/unknown_careers.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/team",
+      "title": "team",
+      "chars": 3728,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/jobs_org/unknown_team.md"
+    }
+  ]
+}

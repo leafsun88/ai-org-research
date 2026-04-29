@@ -1,0 +1,18 @@
+{
+  "video_id": "F_KB3TI3aAg",
+  "title": "AiPod Eps 32: Disney & Universal SUING AI?!: MidJourney vs The World, Is THIS the End of Creativity?",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:31:09"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:11",
+      "chars": 15835
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:11"
+}

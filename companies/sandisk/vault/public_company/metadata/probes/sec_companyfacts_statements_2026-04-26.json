@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "annual_periods": 3,
+  "quarterly_periods": 4,
+  "coverage": {
+    "expected_annual_income_years_from_companyfacts": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "actual_annual_periods": [
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "actual_quarterly_periods": [
+      "2025-Q2",
+      "2025-Q3",
+      "2026-Q1",
+      "2026-Q2"
+    ],
+    "sparse_annual_periods_excluded_from_main_table": [
+      {
+        "period": "2022",
+        "end": "2022-07-01",
+        "present_metrics": [
+          "cash",
+          "stockholders_equity"
+        ]
+      }
+    ]
+  },
+  "gaps": [],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "sec_companyfacts_statements",
+  "updated_at": "2026-04-26T00:36:20"
+}

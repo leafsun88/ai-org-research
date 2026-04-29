@@ -1,0 +1,76 @@
+[
+  {
+    "status": "failed",
+    "title": "EP 25: AI in Visual Art - Midjourney, DALL-E, and the Copyright Battlefield",
+    "date": "2026-02-17",
+    "podcast": "Inside AsembleAI: DeepTech, AI & Science",
+    "audio_url": "https://mcdn.podbean.com/mf/web/cug45qaq0kw193un/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3",
+    "attempt_round": 1,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://s358.podbean.com/pb/3fba58ca0d18e5c9339a26ccaeba508c/69e581de/data1/fs54/22120098/uploads/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3?pbss=d5f3a7b5-a7d4-59fb-9ac8-b5368ece35a5",
+      "https://mcdn.podbean.com/mf/web/cug45qaq0kw193un/episodes_339261_2549116_inside-asembleai_2026_02_14_18_36_15_34bca337-0788-4dbb-b6aa-f6c4b5ca9d91.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/07b62e57-b6d1-9e0f-acd8-d53fdc507963/2026-02-17_EP-25-AI-in-Visual-Art---Midjourney-DALL-E-and-the-Copyright.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/7365e54d-37cb-940d-895e-d05328463928/2026-02-17_EP-25-AI-in-Visual-Art---Midjourney-DALL-E-and-the-Copyright.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "#122 - AI for Word and Excel, leaked Google memo, ImageBind, LLAva, robot soccer, Midjourney 5.1",
+    "date": "2023-05-13",
+    "podcast": "Last Week in AI",
+    "audio_url": "https://rss.art19.com/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+    "attempt_round": 1,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://rss.art19.com/external/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "https://rss.art19.com/episodes/34be97ba-6375-4585-8d76-2d51656e0f27.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/9661893c-0bc9-9455-98cb-d764c5bf79d8/2023-05-13_122---AI-for-Word-and-Excel-leaked-Google-memo-ImageBind-LLA.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/2b4fd9c2-e48e-9691-bd18-4b457b9f6443/2023-05-13_122---AI-for-Word-and-Excel-leaked-Google-memo-ImageBind-LLA.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "Creating ANIMAL WELL, Building a Game Engine, Finding Opportunities, Indie Games, Dunkey, Going to DePaul, Having Patience, Publisher BIGMODE, Disdain for Midjourney Assets and Crow Country with Billy Basso of Animal Well",
+    "date": "2024-06-10",
+    "podcast": "Game Dev Advice: The Game Developer's Podcast",
+    "audio_url": "https://pdcn.co/e/traffic.megaphone.fm/ADL5768495258.mp3?updated=1741019807",
+    "attempt_round": 1,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://dcs-spotify.megaphone.fm/ADL5768495258.mp3?key=a2e87cbd9d5995ae5655d851f20cd882&request_event_id=86c712d3-f984-4578-948e-958473bf1ac6&session_id=a5f3a89f-8b4a-42e7-91d4-fcb7f7356188&timetoken=1776697706_EA68E2A1F636F0CAD58BD2D319E62C1B",
+      "https://pdcn.co/e/traffic.megaphone.fm/ADL5768495258.mp3?updated=1741019807",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/b9b217f5-4800-9bca-9533-a0a0d240003d/2024-06-10_Creating-ANIMAL-WELL-Building-a-Game-Engine-Finding-Opportun.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/d5624154-7c32-9018-ae32-fda32bb4904c/2024-06-10_Creating-ANIMAL-WELL-Building-a-Game-Engine-Finding-Opportun.mp3"
+    ]
+  },
+  {
+    "status": "failed",
+    "title": "Midjourney’s Secret Playground: Chaos, Weird, and New Editor",
+    "date": "2025-04-22",
+    "podcast": "Midjourney Fast Hours",
+    "audio_url": "https://anchor.fm/s/f84d7f94/podcast/play/101617326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2F398813684-44100-2-d74928bfcb11.mp3",
+    "attempt_round": 1,
+    "error": "Subtask failed: FILE_DOWNLOAD_FAILED",
+    "stage": "dashscope_transcription",
+    "tried_urls": [
+      "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2025-3-22/398813684-44100-2-d74928bfcb11.mp3",
+      "https://anchor.fm/s/f84d7f94/podcast/play/101617326/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-3-22%2F398813684-44100-2-d74928bfcb11.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/7d9f6287-cb63-9570-bd92-702f750d269e/2025-04-22_Midjourneys-Secret-Playground-Chaos-Weird-and-New-Editor.mp3",
+      "oss://dashscope-instant/550922eef262a7f5220a769f0bb38dc3/2026-04-20/3d575dca-e63d-902e-a2c4-f42f84df6ff2/2025-04-22_Midjourneys-Secret-Playground-Chaos-Weird-and-New-Editor.mp3"
+    ]
+  },
+  {
+    "status": "running",
+    "title": "#149 - Reflecting on 2023, Midjourney v6, Anthropic Revenue, Unified-IO 2, NY Times sues OpenAI",
+    "date": "2024-01-07",
+    "podcast": "Last Week in AI",
+    "audio_url": "https://rss.art19.com/episodes/3fc6572b-f72f-457d-9cfe-b84ea7e90f60.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+    "attempt_round": 1,
+    "stage": "dashscope_transcription",
+    "started_at": "2026-04-20T21:43:40"
+  }
+]

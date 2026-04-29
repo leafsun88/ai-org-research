@@ -1,0 +1,5589 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "OrA2JP-FAwc",
+  "url": "https://www.youtube.com/watch?v=OrA2JP-FAwc",
+  "title": "► Dustin Browder Interview: \"Adding an unranked Draft Mode\" - Heroes of the Storm",
+  "channel": "Khaldor",
+  "source_queries": [
+    "Draft Mode interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:04:47",
+  "segments": [
+    {
+      "text": "all right guys so I&#39;m here at the heroes",
+      "duration": 3.36,
+      "offset": 1.04,
+      "lang": "en"
+    },
+    {
+      "text": "Summit in North America with Dustin",
+      "duration": 3.84,
+      "offset": 2.8,
+      "lang": "en"
+    },
+    {
+      "text": "Browder and we just I saw the pretty",
+      "duration": 3.88,
+      "offset": 4.4,
+      "lang": "en"
+    },
+    {
+      "text": "epic presentation I guess at that point",
+      "duration": 3.68,
+      "offset": 6.64,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s already public knowledge most of it",
+      "duration": 4.0,
+      "offset": 8.28,
+      "lang": "en"
+    },
+    {
+      "text": "so yeah first of all thank you very much",
+      "duration": 3.88,
+      "offset": 10.32,
+      "lang": "en"
+    },
+    {
+      "text": "for the opportunity to do the interview",
+      "duration": 3.4,
+      "offset": 12.28,
+      "lang": "en"
+    },
+    {
+      "text": "here and as you can imagine I have a",
+      "duration": 3.24,
+      "offset": 14.2,
+      "lang": "en"
+    },
+    {
+      "text": "couple of question mainly with all the",
+      "duration": 3.28,
+      "offset": 15.68,
+      "lang": "en"
+    },
+    {
+      "text": "modes that you guys are putting out",
+      "duration": 3.08,
+      "offset": 17.44,
+      "lang": "en"
+    },
+    {
+      "text": "right now so one of the things I was",
+      "duration": 2.88,
+      "offset": 18.96,
+      "lang": "en"
+    },
+    {
+      "text": "actually a bit curious about you already",
+      "duration": 3.0,
+      "offset": 20.52,
+      "lang": "en"
+    },
+    {
+      "text": "announced that in the changes to come",
+      "duration": 3.68,
+      "offset": 21.84,
+      "lang": "en"
+    },
+    {
+      "text": "for rank mode for hero League uh you are",
+      "duration": 4.08,
+      "offset": 23.52,
+      "lang": "en"
+    },
+    {
+      "text": "increasing the queue size again from",
+      "duration": 4.16,
+      "offset": 25.52,
+      "lang": "en"
+    },
+    {
+      "text": "like 2 to three what exactly is this",
+      "duration": 3.4,
+      "offset": 27.6,
+      "lang": "en"
+    },
+    {
+      "text": "thought process behind it like we",
+      "duration": 2.8,
+      "offset": 29.68,
+      "lang": "en"
+    },
+    {
+      "text": "already had those Dynamic cues a long",
+      "duration": 2.76,
+      "offset": 31.0,
+      "lang": "en"
+    },
+    {
+      "text": "time ago people weren&#39;t really happy",
+      "duration": 2.8,
+      "offset": 32.48,
+      "lang": "en"
+    },
+    {
+      "text": "with it you went down to two there&#39;s",
+      "duration": 3.32,
+      "offset": 33.76,
+      "lang": "en"
+    },
+    {
+      "text": "always been a bit of discussion about it",
+      "duration": 3.4,
+      "offset": 35.28,
+      "lang": "en"
+    },
+    {
+      "text": "what kind of thought process had did you",
+      "duration": 3.76,
+      "offset": 37.08,
+      "lang": "en"
+    },
+    {
+      "text": "guys have going now for thre men Q once",
+      "duration": 4.24,
+      "offset": 38.68,
+      "lang": "en"
+    },
+    {
+      "text": "again well our goal with the the qes has",
+      "duration": 3.4,
+      "offset": 40.84,
+      "lang": "en"
+    },
+    {
+      "text": "always been get as many players as",
+      "duration": 2.6,
+      "offset": 42.92,
+      "lang": "en"
+    },
+    {
+      "text": "possible who want to play together",
+      "duration": 3.04,
+      "offset": 44.24,
+      "lang": "en"
+    },
+    {
+      "text": "playing with the with one another one of",
+      "duration": 2.8,
+      "offset": 45.52,
+      "lang": "en"
+    },
+    {
+      "text": "the challenges we have with the three",
+      "duration": 2.88,
+      "offset": 47.28,
+      "lang": "en"
+    },
+    {
+      "text": "and the fourman qes is our Matchmaker",
+      "duration": 3.16,
+      "offset": 48.32,
+      "lang": "en"
+    },
+    {
+      "text": "wasn&#39;t really at a place where it could",
+      "duration": 4.08,
+      "offset": 50.16,
+      "lang": "en"
+    },
+    {
+      "text": "hold up and provide quality matches to",
+      "duration": 4.12,
+      "offset": 51.48,
+      "lang": "en"
+    },
+    {
+      "text": "players in the four-man qes in",
+      "duration": 3.0,
+      "offset": 54.24,
+      "lang": "en"
+    },
+    {
+      "text": "particular were causing a lot of",
+      "duration": 3.2,
+      "offset": 55.6,
+      "lang": "en"
+    },
+    {
+      "text": "problems but the three-man qes weren&#39;t",
+      "duration": 3.2,
+      "offset": 57.24,
+      "lang": "en"
+    },
+    {
+      "text": "helping us at all either and so as a",
+      "duration": 4.12,
+      "offset": 58.8,
+      "lang": "en"
+    },
+    {
+      "text": "defensive move we pulled those out to",
+      "duration": 4.2,
+      "offset": 60.44,
+      "lang": "en"
+    },
+    {
+      "text": "make our matchmaking process easier and",
+      "duration": 3.96,
+      "offset": 62.92,
+      "lang": "en"
+    },
+    {
+      "text": "that was um before BlizzCon last year",
+      "duration": 3.64,
+      "offset": 64.64,
+      "lang": "en"
+    },
+    {
+      "text": "when our Matchmaker was really",
+      "duration": 3.52,
+      "offset": 66.88,
+      "lang": "en"
+    },
+    {
+      "text": "struggling to to uh match people",
+      "duration": 3.6,
+      "offset": 68.28,
+      "lang": "en"
+    },
+    {
+      "text": "correctly we&#39;ve done a lot of",
+      "duration": 2.96,
+      "offset": 70.4,
+      "lang": "en"
+    },
+    {
+      "text": "improvements to the Matchmaker since",
+      "duration": 3.76,
+      "offset": 71.88,
+      "lang": "en"
+    },
+    {
+      "text": "then and with this new rank play update",
+      "duration": 3.84,
+      "offset": 73.36,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re introducing a change where you",
+      "duration": 3.72,
+      "offset": 75.64,
+      "lang": "en"
+    },
+    {
+      "text": "cannot group together with somebody who",
+      "duration": 4.16,
+      "offset": 77.2,
+      "lang": "en"
+    },
+    {
+      "text": "is of a significantly different skill",
+      "duration": 3.96,
+      "offset": 79.36,
+      "lang": "en"
+    },
+    {
+      "text": "level than you are um so you&#39;re going to",
+      "duration": 3.28,
+      "offset": 81.36,
+      "lang": "en"
+    },
+    {
+      "text": "be pretty close so you won&#39;t be able to",
+      "duration": 3.44,
+      "offset": 83.32,
+      "lang": "en"
+    },
+    {
+      "text": "have those bronze and Diamond level",
+      "duration": 3.52,
+      "offset": 84.64,
+      "lang": "en"
+    },
+    {
+      "text": "players grouping up making the",
+      "duration": 2.6,
+      "offset": 86.76,
+      "lang": "en"
+    },
+    {
+      "text": "Matchmaker like I don&#39;t know what to do",
+      "duration": 2.44,
+      "offset": 88.16,
+      "lang": "en"
+    },
+    {
+      "text": "right like it is know how to handle that",
+      "duration": 3.0,
+      "offset": 89.36,
+      "lang": "en"
+    },
+    {
+      "text": "kind of insanity and so by for like",
+      "duration": 3.96,
+      "offset": 90.6,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re all pretty much gold um now",
+      "duration": 3.44,
+      "offset": 92.36,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re led to group we think that the",
+      "duration": 2.52,
+      "offset": 94.56,
+      "lang": "en"
+    },
+    {
+      "text": "Matchmaker will be able to hold up to",
+      "duration": 3.0,
+      "offset": 95.8,
+      "lang": "en"
+    },
+    {
+      "text": "that um we&#39;ve done some simulations on",
+      "duration": 3.28,
+      "offset": 97.08,
+      "lang": "en"
+    },
+    {
+      "text": "it we&#39;ve looked at you know current data",
+      "duration": 3.28,
+      "offset": 98.8,
+      "lang": "en"
+    },
+    {
+      "text": "and said no this Matchmaker be it should",
+      "duration": 3.88,
+      "offset": 100.36,
+      "lang": "en"
+    },
+    {
+      "text": "make some good quality matches um even",
+      "duration": 3.44,
+      "offset": 102.08,
+      "lang": "en"
+    },
+    {
+      "text": "up to three players so we&#39;re going to",
+      "duration": 3.32,
+      "offset": 104.24,
+      "lang": "en"
+    },
+    {
+      "text": "test three players and see if that does",
+      "duration": 4.48,
+      "offset": 105.52,
+      "lang": "en"
+    },
+    {
+      "text": "maintain sort of good quality matches",
+      "duration": 4.08,
+      "offset": 107.56,
+      "lang": "en"
+    },
+    {
+      "text": "for our players we&#39;d love to be able to",
+      "duration": 3.32,
+      "offset": 110.0,
+      "lang": "en"
+    },
+    {
+      "text": "have as many players as possible but we",
+      "duration": 3.16,
+      "offset": 111.64,
+      "lang": "en"
+    },
+    {
+      "text": "think three is probably the limit right",
+      "duration": 2.56,
+      "offset": 113.32,
+      "lang": "en"
+    },
+    {
+      "text": "now and we&#39;ll we&#39;ll sort of see where",
+      "duration": 2.88,
+      "offset": 114.8,
+      "lang": "en"
+    },
+    {
+      "text": "this goes one of the things that a lot",
+      "duration": 2.88,
+      "offset": 115.88,
+      "lang": "en"
+    },
+    {
+      "text": "of people have already been talking",
+      "duration": 2.68,
+      "offset": 117.68,
+      "lang": "en"
+    },
+    {
+      "text": "about kind of like catering towards the",
+      "duration": 3.52,
+      "offset": 118.76,
+      "lang": "en"
+    },
+    {
+      "text": "same idea is that people have been",
+      "duration": 3.24,
+      "offset": 120.36,
+      "lang": "en"
+    },
+    {
+      "text": "saying like what about additional game",
+      "duration": 3.0,
+      "offset": 122.28,
+      "lang": "en"
+    },
+    {
+      "text": "modes would it for example be something",
+      "duration": 3.72,
+      "offset": 123.6,
+      "lang": "en"
+    },
+    {
+      "text": "that you guys consider putting in some",
+      "duration": 3.32,
+      "offset": 125.28,
+      "lang": "en"
+    },
+    {
+      "text": "kind of quick match mode where you have",
+      "duration": 3.2,
+      "offset": 127.32,
+      "lang": "en"
+    },
+    {
+      "text": "a draft as well where you allow like",
+      "duration": 4.04,
+      "offset": 128.6,
+      "lang": "en"
+    },
+    {
+      "text": "fourman qes five men qes outside of Team",
+      "duration": 4.08,
+      "offset": 130.52,
+      "lang": "en"
+    },
+    {
+      "text": "league and of course there&#39;s a couple of",
+      "duration": 3.36,
+      "offset": 132.64,
+      "lang": "en"
+    },
+    {
+      "text": "downsides people are always talking",
+      "duration": 2.8,
+      "offset": 134.6,
+      "lang": "en"
+    },
+    {
+      "text": "about is the player base really big",
+      "duration": 2.76,
+      "offset": 136.0,
+      "lang": "en"
+    },
+    {
+      "text": "enough to cater towards something like",
+      "duration": 3.16,
+      "offset": 137.4,
+      "lang": "en"
+    },
+    {
+      "text": "this people of course want to prevent",
+      "duration": 3.72,
+      "offset": 138.76,
+      "lang": "en"
+    },
+    {
+      "text": "that you queue for like an hour to find",
+      "duration": 3.76,
+      "offset": 140.56,
+      "lang": "en"
+    },
+    {
+      "text": "a game there just exaggerating things a",
+      "duration": 3.84,
+      "offset": 142.48,
+      "lang": "en"
+    },
+    {
+      "text": "little bit are additional game modes in",
+      "duration": 4.96,
+      "offset": 144.32,
+      "lang": "en"
+    },
+    {
+      "text": "that sense to like just put a bit more",
+      "duration": 4.56,
+      "offset": 146.32,
+      "lang": "en"
+    },
+    {
+      "text": "diversity in something that you are",
+      "duration": 3.12,
+      "offset": 149.28,
+      "lang": "en"
+    },
+    {
+      "text": "currently considering or is it something",
+      "duration": 3.24,
+      "offset": 150.88,
+      "lang": "en"
+    },
+    {
+      "text": "where you are saying we want to focus on",
+      "duration": 3.48,
+      "offset": 152.4,
+      "lang": "en"
+    },
+    {
+      "text": "the game modes we have for now and maybe",
+      "duration": 3.28,
+      "offset": 154.12,
+      "lang": "en"
+    },
+    {
+      "text": "in the distant future we can add",
+      "duration": 3.0,
+      "offset": 155.88,
+      "lang": "en"
+    },
+    {
+      "text": "something like what&#39;s the thoughts on",
+      "duration": 3.88,
+      "offset": 157.4,
+      "lang": "en"
+    },
+    {
+      "text": "that well we want to avoid as many modes",
+      "duration": 3.84,
+      "offset": 158.88,
+      "lang": "en"
+    },
+    {
+      "text": "as we possibly can we have the fewest",
+      "duration": 2.84,
+      "offset": 161.28,
+      "lang": "en"
+    },
+    {
+      "text": "possible modes but we do understand",
+      "duration": 3.48,
+      "offset": 162.72,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s a diverse Community with a lot",
+      "duration": 3.12,
+      "offset": 164.12,
+      "lang": "en"
+    },
+    {
+      "text": "of different interests out there so",
+      "duration": 2.4,
+      "offset": 166.2,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re definitely looking at an unranked",
+      "duration": 2.92,
+      "offset": 167.24,
+      "lang": "en"
+    },
+    {
+      "text": "draft especially coming out now that",
+      "duration": 3.36,
+      "offset": 168.6,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re restricting players in their",
+      "duration": 3.12,
+      "offset": 170.16,
+      "lang": "en"
+    },
+    {
+      "text": "ability to play together if they&#39;re",
+      "duration": 2.84,
+      "offset": 171.96,
+      "lang": "en"
+    },
+    {
+      "text": "different skill levels so I know I have",
+      "duration": 3.52,
+      "offset": 173.28,
+      "lang": "en"
+    },
+    {
+      "text": "several players that I play with where",
+      "duration": 3.52,
+      "offset": 174.8,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re very different skill levels I have",
+      "duration": 3.08,
+      "offset": 176.8,
+      "lang": "en"
+    },
+    {
+      "text": "rank one players that I play with that",
+      "duration": 3.4,
+      "offset": 178.32,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m nowhere near rank one and in this",
+      "duration": 3.04,
+      "offset": 179.88,
+      "lang": "en"
+    },
+    {
+      "text": "world we would&#39;t be able to play Draft",
+      "duration": 2.92,
+      "offset": 181.72,
+      "lang": "en"
+    },
+    {
+      "text": "together anymore so we are going to add",
+      "duration": 3.32,
+      "offset": 182.92,
+      "lang": "en"
+    },
+    {
+      "text": "an unranked draft mode which will allow",
+      "duration": 2.68,
+      "offset": 184.64,
+      "lang": "en"
+    },
+    {
+      "text": "that to happen we&#39;re going to see how",
+      "duration": 2.6,
+      "offset": 186.24,
+      "lang": "en"
+    },
+    {
+      "text": "that goes we certainly had a lot of very",
+      "duration": 3.16,
+      "offset": 187.32,
+      "lang": "en"
+    },
+    {
+      "text": "positive feedback from the community",
+      "duration": 3.04,
+      "offset": 188.84,
+      "lang": "en"
+    },
+    {
+      "text": "towards that direction but I want to see",
+      "duration": 3.72,
+      "offset": 190.48,
+      "lang": "en"
+    },
+    {
+      "text": "is that a dead mode you know I I I know",
+      "duration": 4.04,
+      "offset": 191.88,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll plan it I know I I believe some",
+      "duration": 3.52,
+      "offset": 194.2,
+      "lang": "en"
+    },
+    {
+      "text": "people will playing it um we&#39;ll see",
+      "duration": 3.32,
+      "offset": 195.92,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll see how it goes um it&#39;s not really",
+      "duration": 3.36,
+      "offset": 197.72,
+      "lang": "en"
+    },
+    {
+      "text": "about population size you know we we&#39;ve",
+      "duration": 3.2,
+      "offset": 199.24,
+      "lang": "en"
+    },
+    {
+      "text": "got lots and lots of players in this",
+      "duration": 4.32,
+      "offset": 201.08,
+      "lang": "en"
+    },
+    {
+      "text": "game but we do um players do gravitate",
+      "duration": 5.04,
+      "offset": 202.44,
+      "lang": "en"
+    },
+    {
+      "text": "towards um you know certain gameplay",
+      "duration": 3.68,
+      "offset": 205.4,
+      "lang": "en"
+    },
+    {
+      "text": "modes and so we really want to make sure",
+      "duration": 2.88,
+      "offset": 207.48,
+      "lang": "en"
+    },
+    {
+      "text": "that we don&#39;t have as few modes as",
+      "duration": 2.6,
+      "offset": 209.08,
+      "lang": "en"
+    },
+    {
+      "text": "possible that create the best possible",
+      "duration": 3.16,
+      "offset": 210.36,
+      "lang": "en"
+    },
+    {
+      "text": "play experience so unranked draft is",
+      "duration": 2.96,
+      "offset": 211.68,
+      "lang": "en"
+    },
+    {
+      "text": "almost a certainly at this point I",
+      "duration": 2.56,
+      "offset": 213.52,
+      "lang": "en"
+    },
+    {
+      "text": "believe we are going to add it um",
+      "duration": 2.76,
+      "offset": 214.64,
+      "lang": "en"
+    },
+    {
+      "text": "hopefully very quickly here so we can",
+      "duration": 2.56,
+      "offset": 216.08,
+      "lang": "en"
+    },
+    {
+      "text": "get into players hands especially as we",
+      "duration": 2.8,
+      "offset": 217.4,
+      "lang": "en"
+    },
+    {
+      "text": "roll out this new rank play system and",
+      "duration": 2.84,
+      "offset": 218.64,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m certainly open to people&#39;s feedback",
+      "duration": 2.52,
+      "offset": 220.2,
+      "lang": "en"
+    },
+    {
+      "text": "of what other modes they&#39; want to see",
+      "duration": 2.52,
+      "offset": 221.48,
+      "lang": "en"
+    },
+    {
+      "text": "but we&#39;re going to examine each mode",
+      "duration": 3.28,
+      "offset": 222.72,
+      "lang": "en"
+    },
+    {
+      "text": "very carefully say is this adding real",
+      "duration": 3.72,
+      "offset": 224.0,
+      "lang": "en"
+    },
+    {
+      "text": "value to The Gamers just a little tweak",
+      "duration": 3.04,
+      "offset": 226.0,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t really change it that much and",
+      "duration": 2.36,
+      "offset": 227.72,
+      "lang": "en"
+    },
+    {
+      "text": "now we&#39;re in a position where we&#39;re",
+      "duration": 2.12,
+      "offset": 229.04,
+      "lang": "en"
+    },
+    {
+      "text": "really dividing up our matchmaking",
+      "duration": 2.6,
+      "offset": 230.08,
+      "lang": "en"
+    },
+    {
+      "text": "buckets even more making matchmaking",
+      "duration": 3.28,
+      "offset": 231.16,
+      "lang": "en"
+    },
+    {
+      "text": "more challenging if you would add",
+      "duration": 3.0,
+      "offset": 232.68,
+      "lang": "en"
+    },
+    {
+      "text": "additional modes that would of course",
+      "duration": 3.32,
+      "offset": 234.44,
+      "lang": "en"
+    },
+    {
+      "text": "also mean that rank that there&#39;s like a",
+      "duration": 4.08,
+      "offset": 235.68,
+      "lang": "en"
+    },
+    {
+      "text": "lot more options for players that want",
+      "duration": 3.68,
+      "offset": 237.76,
+      "lang": "en"
+    },
+    {
+      "text": "to clue with a lot of friends as we just",
+      "duration": 3.44,
+      "offset": 239.76,
+      "lang": "en"
+    },
+    {
+      "text": "like also mentioned uh is that something",
+      "duration": 3.4,
+      "offset": 241.44,
+      "lang": "en"
+    },
+    {
+      "text": "where you also say okay we put in the",
+      "duration": 3.08,
+      "offset": 243.2,
+      "lang": "en"
+    },
+    {
+      "text": "3an queue now again for hero League",
+      "duration": 2.44,
+      "offset": 244.84,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to that you&#39;re going to look",
+      "duration": 2.44,
+      "offset": 246.28,
+      "lang": "en"
+    },
+    {
+      "text": "at the feedback and see if players",
+      "duration": 3.24,
+      "offset": 247.28,
+      "lang": "en"
+    },
+    {
+      "text": "actually accept it especially on the pro",
+      "duration": 4.4,
+      "offset": 248.72,
+      "lang": "en"
+    },
+    {
+      "text": "level a lot of players like seem to be",
+      "duration": 4.92,
+      "offset": 250.52,
+      "lang": "en"
+    },
+    {
+      "text": "more lenient towards having two man cues",
+      "duration": 4.24,
+      "offset": 253.12,
+      "lang": "en"
+    },
+    {
+      "text": "solo qes even in some cases when you",
+      "duration": 3.68,
+      "offset": 255.44,
+      "lang": "en"
+    },
+    {
+      "text": "talk to the pro teams is that something",
+      "duration": 3.4,
+      "offset": 257.36,
+      "lang": "en"
+    },
+    {
+      "text": "where you say hey we have the 3an queue",
+      "duration": 3.0,
+      "offset": 259.12,
+      "lang": "en"
+    },
+    {
+      "text": "right now we have our Matchmaker",
+      "duration": 3.36,
+      "offset": 260.76,
+      "lang": "en"
+    },
+    {
+      "text": "Matchmaker like much better we have the",
+      "duration": 3.52,
+      "offset": 262.12,
+      "lang": "en"
+    },
+    {
+      "text": "new restrictions so that should actually",
+      "duration": 3.0,
+      "offset": 264.12,
+      "lang": "en"
+    },
+    {
+      "text": "like put us in a position where you can",
+      "duration": 4.0,
+      "offset": 265.64,
+      "lang": "en"
+    },
+    {
+      "text": "like handle that uh is it something that",
+      "duration": 3.72,
+      "offset": 267.12,
+      "lang": "en"
+    },
+    {
+      "text": "is now fixed or is it something where",
+      "duration": 2.48,
+      "offset": 269.64,
+      "lang": "en"
+    },
+    {
+      "text": "you look at the feedback and say like",
+      "duration": 2.72,
+      "offset": 270.84,
+      "lang": "en"
+    },
+    {
+      "text": "depending on what the the players want",
+      "duration": 3.48,
+      "offset": 272.12,
+      "lang": "en"
+    },
+    {
+      "text": "we might even be reducing that again",
+      "duration": 3.44,
+      "offset": 273.56,
+      "lang": "en"
+    },
+    {
+      "text": "nothing in this game is fixed we&#39;re",
+      "duration": 2.72,
+      "offset": 275.6,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re always listening to feedback we&#39;re",
+      "duration": 2.32,
+      "offset": 277.0,
+      "lang": "en"
+    },
+    {
+      "text": "always looking to make it better we have",
+      "duration": 2.56,
+      "offset": 278.32,
+      "lang": "en"
+    },
+    {
+      "text": "a giant team of people constantly",
+      "duration": 2.8,
+      "offset": 279.32,
+      "lang": "en"
+    },
+    {
+      "text": "working on the game our Our Heroes",
+      "duration": 2.8,
+      "offset": 280.88,
+      "lang": "en"
+    },
+    {
+      "text": "aren&#39;t fixed our talents aren&#39;t fixed",
+      "duration": 3.48,
+      "offset": 282.12,
+      "lang": "en"
+    },
+    {
+      "text": "our matchmaking isn&#39;t fixed even this",
+      "duration": 3.56,
+      "offset": 283.68,
+      "lang": "en"
+    },
+    {
+      "text": "rank play System we&#39;re rolling out right",
+      "duration": 3.16,
+      "offset": 285.6,
+      "lang": "en"
+    },
+    {
+      "text": "now we&#39;re open to feedback on it one of",
+      "duration": 2.96,
+      "offset": 287.24,
+      "lang": "en"
+    },
+    {
+      "text": "the reasons you know that we like coming",
+      "duration": 2.8,
+      "offset": 288.76,
+      "lang": "en"
+    },
+    {
+      "text": "to events like this is we get to talk",
+      "duration": 2.6,
+      "offset": 290.2,
+      "lang": "en"
+    },
+    {
+      "text": "very directly with some of our most",
+      "duration": 3.68,
+      "offset": 291.56,
+      "lang": "en"
+    },
+    {
+      "text": "passionate um players and see what their",
+      "duration": 4.0,
+      "offset": 292.8,
+      "lang": "en"
+    },
+    {
+      "text": "thoughts are on this now I&#39;m not going",
+      "duration": 2.64,
+      "offset": 295.24,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to make a sudden change if",
+      "duration": 2.32,
+      "offset": 296.8,
+      "lang": "en"
+    },
+    {
+      "text": "you said something today like oh my God",
+      "duration": 2.68,
+      "offset": 297.88,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re doing great Grand Master wrong",
+      "duration": 2.36,
+      "offset": 299.12,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m probably not going to be able to fix",
+      "duration": 2.12,
+      "offset": 300.56,
+      "lang": "en"
+    },
+    {
+      "text": "that before it comes out but I could fix",
+      "duration": 3.12,
+      "offset": 301.48,
+      "lang": "en"
+    },
+    {
+      "text": "it soon after and having that that",
+      "duration": 3.68,
+      "offset": 302.68,
+      "lang": "en"
+    },
+    {
+      "text": "feedback available to us now is",
+      "duration": 3.68,
+      "offset": 304.6,
+      "lang": "en"
+    },
+    {
+      "text": "incredibly powerful to us there&#39;s we&#39;re",
+      "duration": 3.2,
+      "offset": 306.36,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re not dying on any Hills here",
+      "duration": 2.76,
+      "offset": 308.28,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s nothing about this game that we",
+      "duration": 3.44,
+      "offset": 309.56,
+      "lang": "en"
+    },
+    {
+      "text": "would say I would never hear feedback on",
+      "duration": 3.72,
+      "offset": 311.04,
+      "lang": "en"
+    },
+    {
+      "text": "that no matter what I&#39;m going to my",
+      "duration": 4.0,
+      "offset": 313.0,
+      "lang": "en"
+    },
+    {
+      "text": "grave with that like I don&#39;t care we we",
+      "duration": 3.48,
+      "offset": 314.76,
+      "lang": "en"
+    },
+    {
+      "text": "totally want to hear people&#39;s feedback",
+      "duration": 2.6,
+      "offset": 317.0,
+      "lang": "en"
+    },
+    {
+      "text": "of what what&#39;s working and not working",
+      "duration": 2.48,
+      "offset": 318.24,
+      "lang": "en"
+    },
+    {
+      "text": "for them in the game and we do want to",
+      "duration": 2.4,
+      "offset": 319.6,
+      "lang": "en"
+    },
+    {
+      "text": "respond and we are trying to make the",
+      "duration": 3.6,
+      "offset": 320.72,
+      "lang": "en"
+    },
+    {
+      "text": "best possible experience for all of our",
+      "duration": 3.52,
+      "offset": 322.0,
+      "lang": "en"
+    },
+    {
+      "text": "players obviously there&#39;s going to be",
+      "duration": 3.84,
+      "offset": 324.32,
+      "lang": "en"
+    },
+    {
+      "text": "competing requests I want this I don&#39;t",
+      "duration": 3.84,
+      "offset": 325.52,
+      "lang": "en"
+    },
+    {
+      "text": "want that and we have to sort of figure",
+      "duration": 3.92,
+      "offset": 328.16,
+      "lang": "en"
+    },
+    {
+      "text": "out what is ultimately the way to go",
+      "duration": 4.48,
+      "offset": 329.36,
+      "lang": "en"
+    },
+    {
+      "text": "through that what is the most fun um",
+      "duration": 2.8,
+      "offset": 332.08,
+      "lang": "en"
+    },
+    {
+      "text": "what do we think is the best play",
+      "duration": 2.64,
+      "offset": 333.84,
+      "lang": "en"
+    },
+    {
+      "text": "experience um but but no we&#39;re not we&#39;re",
+      "duration": 2.88,
+      "offset": 334.88,
+      "lang": "en"
+    },
+    {
+      "text": "not committed to this and you&#39;re going",
+      "duration": 2.36,
+      "offset": 336.48,
+      "lang": "en"
+    },
+    {
+      "text": "to see this with the rank place so we&#39;re",
+      "duration": 3.2,
+      "offset": 337.76,
+      "lang": "en"
+    },
+    {
+      "text": "going out with um we&#39;re going to try",
+      "duration": 3.36,
+      "offset": 338.84,
+      "lang": "en"
+    },
+    {
+      "text": "some different season lengths here in",
+      "duration": 2.52,
+      "offset": 340.96,
+      "lang": "en"
+    },
+    {
+      "text": "this first year to see what kind of",
+      "duration": 2.88,
+      "offset": 342.2,
+      "lang": "en"
+    },
+    {
+      "text": "season length feels good to us you know",
+      "duration": 4.16,
+      "offset": 343.48,
+      "lang": "en"
+    },
+    {
+      "text": "if we you know Hearthstone does a month",
+      "duration": 4.48,
+      "offset": 345.08,
+      "lang": "en"
+    },
+    {
+      "text": "Starcraft does three months what makes",
+      "duration": 3.92,
+      "offset": 347.64,
+      "lang": "en"
+    },
+    {
+      "text": "sense for Heroes what what feels like a",
+      "duration": 3.48,
+      "offset": 349.56,
+      "lang": "en"
+    },
+    {
+      "text": "good a good a good season length we&#39;re",
+      "duration": 2.84,
+      "offset": 351.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to try eight to 12 weeks to start",
+      "duration": 2.92,
+      "offset": 353.04,
+      "lang": "en"
+    },
+    {
+      "text": "with and kind of see how that how that",
+      "duration": 2.92,
+      "offset": 354.4,
+      "lang": "en"
+    },
+    {
+      "text": "feels to our players and and we&#39;re open",
+      "duration": 2.6,
+      "offset": 355.96,
+      "lang": "en"
+    },
+    {
+      "text": "to everybody&#39;s feedback on what makes",
+      "duration": 3.08,
+      "offset": 357.32,
+      "lang": "en"
+    },
+    {
+      "text": "sense as we try those things",
+      "duration": 3.16,
+      "offset": 358.56,
+      "lang": "en"
+    },
+    {
+      "text": "uh one of the things that I also wanted",
+      "duration": 3.44,
+      "offset": 360.4,
+      "lang": "en"
+    },
+    {
+      "text": "to ask when it came to the matchmaking",
+      "duration": 3.76,
+      "offset": 361.72,
+      "lang": "en"
+    },
+    {
+      "text": "system like we&#39;ve already talked a",
+      "duration": 3.24,
+      "offset": 363.84,
+      "lang": "en"
+    },
+    {
+      "text": "little bit about in private like the",
+      "duration": 3.56,
+      "offset": 365.48,
+      "lang": "en"
+    },
+    {
+      "text": "players have for example during the last",
+      "duration": 3.96,
+      "offset": 367.08,
+      "lang": "en"
+    },
+    {
+      "text": "week&#39;s also said that they feel that the",
+      "duration": 3.88,
+      "offset": 369.04,
+      "lang": "en"
+    },
+    {
+      "text": "queue time went down which in general is",
+      "duration": 3.6,
+      "offset": 371.04,
+      "lang": "en"
+    },
+    {
+      "text": "of course like a good thing people don&#39;t",
+      "duration": 3.24,
+      "offset": 372.92,
+      "lang": "en"
+    },
+    {
+      "text": "really want to queue for too long but",
+      "duration": 2.88,
+      "offset": 374.64,
+      "lang": "en"
+    },
+    {
+      "text": "then there&#39;s always like this idea that",
+      "duration": 2.96,
+      "offset": 376.16,
+      "lang": "en"
+    },
+    {
+      "text": "you have if you queue for longer if the",
+      "duration": 3.68,
+      "offset": 377.52,
+      "lang": "en"
+    },
+    {
+      "text": "queue time increases that the game",
+      "duration": 3.24,
+      "offset": 379.12,
+      "lang": "en"
+    },
+    {
+      "text": "experience that you have is going to be",
+      "duration": 2.64,
+      "offset": 381.2,
+      "lang": "en"
+    },
+    {
+      "text": "better because the match making system",
+      "duration": 3.28,
+      "offset": 382.36,
+      "lang": "en"
+    },
+    {
+      "text": "is going to be able to just like look",
+      "duration": 3.68,
+      "offset": 383.84,
+      "lang": "en"
+    },
+    {
+      "text": "for a match that really fits you and",
+      "duration": 3.32,
+      "offset": 385.64,
+      "lang": "en"
+    },
+    {
+      "text": "maybe wait for a couple of high- skill",
+      "duration": 2.92,
+      "offset": 387.52,
+      "lang": "en"
+    },
+    {
+      "text": "players to jump in as well especially on",
+      "duration": 3.56,
+      "offset": 388.96,
+      "lang": "en"
+    },
+    {
+      "text": "the pro level that has been sentiment is",
+      "duration": 3.4,
+      "offset": 390.44,
+      "lang": "en"
+    },
+    {
+      "text": "that one of the things where you say",
+      "duration": 3.12,
+      "offset": 392.52,
+      "lang": "en"
+    },
+    {
+      "text": "that for example Dynamic cures might be",
+      "duration": 3.32,
+      "offset": 393.84,
+      "lang": "en"
+    },
+    {
+      "text": "an option in the future that&#39;s of course",
+      "duration": 2.92,
+      "offset": 395.64,
+      "lang": "en"
+    },
+    {
+      "text": "always that need to cater towards the",
+      "duration": 3.24,
+      "offset": 397.16,
+      "lang": "en"
+    },
+    {
+      "text": "more casual base that are especially in",
+      "duration": 3.36,
+      "offset": 398.56,
+      "lang": "en"
+    },
+    {
+      "text": "the quick match and hero League sense",
+      "duration": 3.72,
+      "offset": 400.4,
+      "lang": "en"
+    },
+    {
+      "text": "looking for very short queue and uh then",
+      "duration": 3.8,
+      "offset": 401.92,
+      "lang": "en"
+    },
+    {
+      "text": "you have to cater towards the top of the",
+      "duration": 3.4,
+      "offset": 404.12,
+      "lang": "en"
+    },
+    {
+      "text": "pyramid where the pro players are",
+      "duration": 3.72,
+      "offset": 405.72,
+      "lang": "en"
+    },
+    {
+      "text": "willing to wait much much longer but",
+      "duration": 3.76,
+      "offset": 407.52,
+      "lang": "en"
+    },
+    {
+      "text": "want to have like a much closer game is",
+      "duration": 3.4,
+      "offset": 409.44,
+      "lang": "en"
+    },
+    {
+      "text": "that something where matchmaking change",
+      "duration": 3.96,
+      "offset": 411.28,
+      "lang": "en"
+    },
+    {
+      "text": "also going to come in that maybe like",
+      "duration": 4.32,
+      "offset": 412.84,
+      "lang": "en"
+    },
+    {
+      "text": "try to take into consideration which",
+      "duration": 4.16,
+      "offset": 415.24,
+      "lang": "en"
+    },
+    {
+      "text": "kind of player is currently queuing up I",
+      "duration": 3.68,
+      "offset": 417.16,
+      "lang": "en"
+    },
+    {
+      "text": "but certainly an option for us uh I",
+      "duration": 2.52,
+      "offset": 419.4,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t think we&#39;ve done anything suddenly",
+      "duration": 2.64,
+      "offset": 420.84,
+      "lang": "en"
+    },
+    {
+      "text": "that would cause matchmaking times to go",
+      "duration": 2.84,
+      "offset": 421.92,
+      "lang": "en"
+    },
+    {
+      "text": "down other than maybe we have more",
+      "duration": 2.6,
+      "offset": 423.48,
+      "lang": "en"
+    },
+    {
+      "text": "players in there that&#39;s making it more",
+      "duration": 3.36,
+      "offset": 424.76,
+      "lang": "en"
+    },
+    {
+      "text": "possible um so we haven&#39;t done anything",
+      "duration": 3.4,
+      "offset": 426.08,
+      "lang": "en"
+    },
+    {
+      "text": "to tune that like oh we&#39;re gonna make",
+      "duration": 2.96,
+      "offset": 428.12,
+      "lang": "en"
+    },
+    {
+      "text": "bad games really quickly now that&#39;s not",
+      "duration": 3.96,
+      "offset": 429.48,
+      "lang": "en"
+    },
+    {
+      "text": "our goal um we&#39;re still very much on the",
+      "duration": 3.72,
+      "offset": 431.08,
+      "lang": "en"
+    },
+    {
+      "text": "side of making quality games we&#39;ve heard",
+      "duration": 2.84,
+      "offset": 433.44,
+      "lang": "en"
+    },
+    {
+      "text": "that feedback over again and honestly it",
+      "duration": 3.28,
+      "offset": 434.8,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t really change that much whether",
+      "duration": 4.76,
+      "offset": 436.28,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re a casual or a hardcore everybody",
+      "duration": 5.16,
+      "offset": 438.08,
+      "lang": "en"
+    },
+    {
+      "text": "wants good games um the player who&#39;s not",
+      "duration": 3.72,
+      "offset": 441.04,
+      "lang": "en"
+    },
+    {
+      "text": "that great guess what he wants he wants",
+      "duration": 3.08,
+      "offset": 443.24,
+      "lang": "en"
+    },
+    {
+      "text": "a good game and he&#39;s willing to sit",
+      "duration": 2.96,
+      "offset": 444.76,
+      "lang": "en"
+    },
+    {
+      "text": "there a little bit and get it there&#39;s a",
+      "duration": 3.08,
+      "offset": 446.32,
+      "lang": "en"
+    },
+    {
+      "text": "point where which no one will wait that",
+      "duration": 3.04,
+      "offset": 447.72,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s just human nature like I got other",
+      "duration": 3.44,
+      "offset": 449.4,
+      "lang": "en"
+    },
+    {
+      "text": "things to do guys like this is 37",
+      "duration": 3.8,
+      "offset": 450.76,
+      "lang": "en"
+    },
+    {
+      "text": "minutes I&#39;m I I could have played three",
+      "duration": 3.56,
+      "offset": 452.84,
+      "lang": "en"
+    },
+    {
+      "text": "games by now I&#39;m out of here um so I",
+      "duration": 3.24,
+      "offset": 454.56,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really feel like there&#39;s that much",
+      "duration": 4.64,
+      "offset": 456.4,
+      "lang": "en"
+    },
+    {
+      "text": "conflict between you know a gold player",
+      "duration": 5.44,
+      "offset": 457.8,
+      "lang": "en"
+    },
+    {
+      "text": "and a grandmas player they&#39;re both",
+      "duration": 4.16,
+      "offset": 461.04,
+      "lang": "en"
+    },
+    {
+      "text": "pretty passionate about good games it&#39;s",
+      "duration": 4.04,
+      "offset": 463.24,
+      "lang": "en"
+    },
+    {
+      "text": "not like we&#39;re like ah that guy he&#39;ll",
+      "duration": 5.12,
+      "offset": 465.2,
+      "lang": "en"
+    },
+    {
+      "text": "take whatever he really won&#39;t and and",
+      "duration": 5.28,
+      "offset": 467.28,
+      "lang": "en"
+    },
+    {
+      "text": "and remember too that gold guy if he&#39;s",
+      "duration": 4.0,
+      "offset": 470.32,
+      "lang": "en"
+    },
+    {
+      "text": "if if I&#39;m giving him whatever that",
+      "duration": 3.76,
+      "offset": 472.56,
+      "lang": "en"
+    },
+    {
+      "text": "whatever might be a diamond player and",
+      "duration": 4.08,
+      "offset": 474.32,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s not happy either so there really is",
+      "duration": 4.56,
+      "offset": 476.32,
+      "lang": "en"
+    },
+    {
+      "text": "no one out there who&#39;s like ah just give",
+      "duration": 3.92,
+      "offset": 478.4,
+      "lang": "en"
+    },
+    {
+      "text": "me a game in 30 seconds I don&#39;t care",
+      "duration": 3.36,
+      "offset": 480.88,
+      "lang": "en"
+    },
+    {
+      "text": "who&#39;s in it no one&#39;s in that place",
+      "duration": 3.24,
+      "offset": 482.32,
+      "lang": "en"
+    },
+    {
+      "text": "everybody wants the best game we can",
+      "duration": 3.04,
+      "offset": 484.24,
+      "lang": "en"
+    },
+    {
+      "text": "possibly give them as quickly as",
+      "duration": 2.92,
+      "offset": 485.56,
+      "lang": "en"
+    },
+    {
+      "text": "possible but they want the best game we",
+      "duration": 3.44,
+      "offset": 487.28,
+      "lang": "en"
+    },
+    {
+      "text": "can possibly give them so I&#39;m very open",
+      "duration": 3.64,
+      "offset": 488.48,
+      "lang": "en"
+    },
+    {
+      "text": "to the idea that we could do something",
+      "duration": 3.16,
+      "offset": 490.72,
+      "lang": "en"
+    },
+    {
+      "text": "different for our Grandmaster players",
+      "duration": 4.56,
+      "offset": 492.12,
+      "lang": "en"
+    },
+    {
+      "text": "but I we&#39;re not I don&#39;t feel like the",
+      "duration": 4.48,
+      "offset": 493.88,
+      "lang": "en"
+    },
+    {
+      "text": "gold players are in an emotionally",
+      "duration": 3.52,
+      "offset": 496.68,
+      "lang": "en"
+    },
+    {
+      "text": "different place they want a good game",
+      "duration": 3.04,
+      "offset": 498.36,
+      "lang": "en"
+    },
+    {
+      "text": "too and they don&#39;t want to see those",
+      "duration": 2.96,
+      "offset": 500.2,
+      "lang": "en"
+    },
+    {
+      "text": "grand Masters in their game any more",
+      "duration": 2.96,
+      "offset": 501.4,
+      "lang": "en"
+    },
+    {
+      "text": "than the grand Masters want them to be",
+      "duration": 2.72,
+      "offset": 503.16,
+      "lang": "en"
+    },
+    {
+      "text": "there right nobody wants to nobody wants",
+      "duration": 3.36,
+      "offset": 504.36,
+      "lang": "en"
+    },
+    {
+      "text": "to be that guy so I I think we&#39;re okay",
+      "duration": 3.44,
+      "offset": 505.88,
+      "lang": "en"
+    },
+    {
+      "text": "with really pushing the idea of like",
+      "duration": 2.96,
+      "offset": 507.72,
+      "lang": "en"
+    },
+    {
+      "text": "look let&#39;s just focus on making the best",
+      "duration": 3.84,
+      "offset": 509.32,
+      "lang": "en"
+    },
+    {
+      "text": "games we possibly can um and then and",
+      "duration": 4.16,
+      "offset": 510.68,
+      "lang": "en"
+    },
+    {
+      "text": "then there there comes a place where I I",
+      "duration": 2.72,
+      "offset": 513.16,
+      "lang": "en"
+    },
+    {
+      "text": "feel like it&#39;s and we can have a",
+      "duration": 2.32,
+      "offset": 514.84,
+      "lang": "en"
+    },
+    {
+      "text": "discussion what&#39;s a reasonable amount of",
+      "duration": 3.36,
+      "offset": 515.88,
+      "lang": "en"
+    },
+    {
+      "text": "time like when you&#39;re waiting longer",
+      "duration": 4.36,
+      "offset": 517.16,
+      "lang": "en"
+    },
+    {
+      "text": "than a match time to get the game if",
+      "duration": 4.32,
+      "offset": 519.24,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re waiting 20 25 minutes I kind of",
+      "duration": 4.44,
+      "offset": 521.52,
+      "lang": "en"
+    },
+    {
+      "text": "want to call foul and say come on let&#39;s",
+      "duration": 4.04,
+      "offset": 523.56,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s get something going here right",
+      "duration": 2.88,
+      "offset": 525.96,
+      "lang": "en"
+    },
+    {
+      "text": "maybe maybe then may maybe we start",
+      "duration": 2.2,
+      "offset": 527.6,
+      "lang": "en"
+    },
+    {
+      "text": "another game it&#39;ll be a little better",
+      "duration": 2.32,
+      "offset": 528.84,
+      "lang": "en"
+    },
+    {
+      "text": "but we don&#39;t have the pool here for this",
+      "duration": 3.8,
+      "offset": 529.8,
+      "lang": "en"
+    },
+    {
+      "text": "right now but um but we&#39;re very open to",
+      "duration": 4.32,
+      "offset": 531.16,
+      "lang": "en"
+    },
+    {
+      "text": "you know trying to try to focus on game",
+      "duration": 2.92,
+      "offset": 533.6,
+      "lang": "en"
+    },
+    {
+      "text": "quality and if you guys are seeing",
+      "duration": 2.44,
+      "offset": 535.48,
+      "lang": "en"
+    },
+    {
+      "text": "something different than that um we&#39;d",
+      "duration": 2.76,
+      "offset": 536.52,
+      "lang": "en"
+    },
+    {
+      "text": "love to hear it and and certainly you",
+      "duration": 3.28,
+      "offset": 537.92,
+      "lang": "en"
+    },
+    {
+      "text": "know I&#39;ve had conversations on Twitter",
+      "duration": 3.28,
+      "offset": 539.28,
+      "lang": "en"
+    },
+    {
+      "text": "um and I can sometimes go and look at",
+      "duration": 3.4,
+      "offset": 541.2,
+      "lang": "en"
+    },
+    {
+      "text": "accounts and look for bugs and problems",
+      "duration": 3.32,
+      "offset": 542.56,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes the things that we see are",
+      "duration": 4.88,
+      "offset": 544.6,
+      "lang": "en"
+    },
+    {
+      "text": "very specific like oh oh in this game",
+      "duration": 4.92,
+      "offset": 545.88,
+      "lang": "en"
+    },
+    {
+      "text": "this guy showed up and the Matchmaker",
+      "duration": 2.88,
+      "offset": 549.48,
+      "lang": "en"
+    },
+    {
+      "text": "thought that and that&#39;s not right at all",
+      "duration": 2.92,
+      "offset": 550.8,
+      "lang": "en"
+    },
+    {
+      "text": "and we can actually go and engage that",
+      "duration": 2.6,
+      "offset": 552.36,
+      "lang": "en"
+    },
+    {
+      "text": "and a lot of the matchmaking problems",
+      "duration": 2.88,
+      "offset": 553.72,
+      "lang": "en"
+    },
+    {
+      "text": "been seeing these days they don&#39;t apply",
+      "duration": 2.84,
+      "offset": 554.96,
+      "lang": "en"
+    },
+    {
+      "text": "to the general population if you&#39;re",
+      "duration": 3.04,
+      "offset": 556.6,
+      "lang": "en"
+    },
+    {
+      "text": "looking at you know 90% of our games",
+      "duration": 3.36,
+      "offset": 557.8,
+      "lang": "en"
+    },
+    {
+      "text": "everything&#39;s fine everything&#39;s working",
+      "duration": 3.16,
+      "offset": 559.64,
+      "lang": "en"
+    },
+    {
+      "text": "but every now and then we will find a",
+      "duration": 2.88,
+      "offset": 561.16,
+      "lang": "en"
+    },
+    {
+      "text": "bug or a little hitch or something",
+      "duration": 3.48,
+      "offset": 562.8,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s gone a little bit wrong we go we",
+      "duration": 3.6,
+      "offset": 564.04,
+      "lang": "en"
+    },
+    {
+      "text": "could we could special case that and",
+      "duration": 2.56,
+      "offset": 566.28,
+      "lang": "en"
+    },
+    {
+      "text": "then it would be better and so we are",
+      "duration": 2.6,
+      "offset": 567.64,
+      "lang": "en"
+    },
+    {
+      "text": "looking for those and we are continually",
+      "duration": 3.48,
+      "offset": 568.84,
+      "lang": "en"
+    },
+    {
+      "text": "hunting those um as well as looking for",
+      "duration": 5.52,
+      "offset": 570.24,
+      "lang": "en"
+    },
+    {
+      "text": "ways to make um MMR more accurate so MMR",
+      "duration": 5.36,
+      "offset": 572.32,
+      "lang": "en"
+    },
+    {
+      "text": "we all sort of accept the idea that well",
+      "duration": 3.12,
+      "offset": 575.76,
+      "lang": "en"
+    },
+    {
+      "text": "I have a matchmaking rating and the",
+      "duration": 3.08,
+      "offset": 577.68,
+      "lang": "en"
+    },
+    {
+      "text": "matchmaking rating is going to be um a",
+      "duration": 4.04,
+      "offset": 578.88,
+      "lang": "en"
+    },
+    {
+      "text": "reflection of my skill yeah but what if",
+      "duration": 3.32,
+      "offset": 580.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not a perfect reflection of your",
+      "duration": 3.0,
+      "offset": 582.92,
+      "lang": "en"
+    },
+    {
+      "text": "skill then when you get into a game",
+      "duration": 3.36,
+      "offset": 584.08,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re like why is this guy ranked two",
+      "duration": 3.96,
+      "offset": 585.92,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s terrible right and and and maybe",
+      "duration": 3.72,
+      "offset": 587.44,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re terrible you don&#39;t understand or",
+      "duration": 2.2,
+      "offset": 589.88,
+      "lang": "en"
+    },
+    {
+      "text": "maybe he&#39;s terrible there&#39;s something",
+      "duration": 2.12,
+      "offset": 591.16,
+      "lang": "en"
+    },
+    {
+      "text": "off in your skill level there",
+      "duration": 2.96,
+      "offset": 592.08,
+      "lang": "en"
+    },
+    {
+      "text": "potentially and so um I know that team",
+      "duration": 3.2,
+      "offset": 593.28,
+      "lang": "en"
+    },
+    {
+      "text": "is working very hard right now to find",
+      "duration": 4.32,
+      "offset": 595.04,
+      "lang": "en"
+    },
+    {
+      "text": "ways to make better estimates of your of",
+      "duration": 4.52,
+      "offset": 596.48,
+      "lang": "en"
+    },
+    {
+      "text": "your actual skill using match so we got",
+      "duration": 3.88,
+      "offset": 599.36,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of work still in front of us on on",
+      "duration": 4.04,
+      "offset": 601.0,
+      "lang": "en"
+    },
+    {
+      "text": "the whole system but I&#39;m not sure we",
+      "duration": 3.16,
+      "offset": 603.24,
+      "lang": "en"
+    },
+    {
+      "text": "have a conflict between the grand",
+      "duration": 3.24,
+      "offset": 605.04,
+      "lang": "en"
+    },
+    {
+      "text": "Masters and the golds but I&#39;m open to it",
+      "duration": 3.2,
+      "offset": 606.4,
+      "lang": "en"
+    },
+    {
+      "text": "and we could certainly if we wanted to",
+      "duration": 2.76,
+      "offset": 608.28,
+      "lang": "en"
+    },
+    {
+      "text": "make a different rule set at the highest",
+      "duration": 3.2,
+      "offset": 609.6,
+      "lang": "en"
+    },
+    {
+      "text": "end another change that you&#39;ve been",
+      "duration": 3.76,
+      "offset": 611.04,
+      "lang": "en"
+    },
+    {
+      "text": "talking about which actually I very much",
+      "duration": 4.08,
+      "offset": 612.8,
+      "lang": "en"
+    },
+    {
+      "text": "welcomed then I there was Applause in",
+      "duration": 3.32,
+      "offset": 614.8,
+      "lang": "en"
+    },
+    {
+      "text": "the audience immediately when it was",
+      "duration": 3.2,
+      "offset": 616.88,
+      "lang": "en"
+    },
+    {
+      "text": "announced is that uh if you&#39;re a silen",
+      "duration": 3.92,
+      "offset": 618.12,
+      "lang": "en"
+    },
+    {
+      "text": "player you&#39;re not not queuing any you&#39;re",
+      "duration": 3.52,
+      "offset": 620.08,
+      "lang": "en"
+    },
+    {
+      "text": "queuing with other Silence player so",
+      "duration": 3.04,
+      "offset": 622.04,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re not going to end up with a game",
+      "duration": 3.4,
+      "offset": 623.6,
+      "lang": "en"
+    },
+    {
+      "text": "that was a bit of a problem in the past",
+      "duration": 3.24,
+      "offset": 625.08,
+      "lang": "en"
+    },
+    {
+      "text": "I mean to an extent where silenced",
+      "duration": 3.64,
+      "offset": 627.0,
+      "lang": "en"
+    },
+    {
+      "text": "players even became captains of the team",
+      "duration": 3.6,
+      "offset": 628.32,
+      "lang": "en"
+    },
+    {
+      "text": "couldn&#39;t even communicate with the team",
+      "duration": 3.28,
+      "offset": 630.64,
+      "lang": "en"
+    },
+    {
+      "text": "and ask does someone want to play that",
+      "duration": 3.92,
+      "offset": 631.92,
+      "lang": "en"
+    },
+    {
+      "text": "illin or do we have to ban that guy out",
+      "duration": 4.24,
+      "offset": 633.92,
+      "lang": "en"
+    },
+    {
+      "text": "exactly um one of the questions that of",
+      "duration": 3.48,
+      "offset": 635.84,
+      "lang": "en"
+    },
+    {
+      "text": "course definitely going to pop up at",
+      "duration": 3.44,
+      "offset": 638.16,
+      "lang": "en"
+    },
+    {
+      "text": "some point is are you going to reset",
+      "duration": 4.04,
+      "offset": 639.32,
+      "lang": "en"
+    },
+    {
+      "text": "silence durations or is that guy that",
+      "duration": 4.92,
+      "offset": 641.6,
+      "lang": "en"
+    },
+    {
+      "text": "has his 14-day one month silence going",
+      "duration": 5.28,
+      "offset": 643.36,
+      "lang": "en"
+    },
+    {
+      "text": "to just completely being screwed right",
+      "duration": 3.36,
+      "offset": 646.52,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a really good question we&#39;ve talked",
+      "duration": 2.52,
+      "offset": 648.64,
+      "lang": "en"
+    },
+    {
+      "text": "about it quite a bit I&#39;m certainly open",
+      "duration": 2.8,
+      "offset": 649.88,
+      "lang": "en"
+    },
+    {
+      "text": "to to feedback on this is the first time",
+      "duration": 2.92,
+      "offset": 651.16,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve announced this sort of publicly so",
+      "duration": 3.0,
+      "offset": 652.68,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to kind of see what what the",
+      "duration": 3.24,
+      "offset": 654.08,
+      "lang": "en"
+    },
+    {
+      "text": "reaction is and see if somebody can you",
+      "duration": 3.36,
+      "offset": 655.68,
+      "lang": "en"
+    },
+    {
+      "text": "know um explain to us why we should un",
+      "duration": 3.52,
+      "offset": 657.32,
+      "lang": "en"
+    },
+    {
+      "text": "silence these players in order to be for",
+      "duration": 3.84,
+      "offset": 659.04,
+      "lang": "en"
+    },
+    {
+      "text": "silence for more than a month you have",
+      "duration": 4.88,
+      "offset": 660.84,
+      "lang": "en"
+    },
+    {
+      "text": "to have been",
+      "duration": 2.84,
+      "offset": 662.88,
+      "lang": "en"
+    },
+    {
+      "text": "really the polite where to go you had to",
+      "duration": 5.36,
+      "offset": 665.76,
+      "lang": "en"
+    },
+    {
+      "text": "have certainly um incited a lot of",
+      "duration": 3.88,
+      "offset": 668.72,
+      "lang": "en"
+    },
+    {
+      "text": "reports it&#39;s a lot of reports because",
+      "duration": 2.92,
+      "offset": 671.12,
+      "lang": "en"
+    },
+    {
+      "text": "you remember the the first silence I",
+      "duration": 2.8,
+      "offset": 672.6,
+      "lang": "en"
+    },
+    {
+      "text": "think is I think I think it&#39;s for a day",
+      "duration": 2.6,
+      "offset": 674.04,
+      "lang": "en"
+    },
+    {
+      "text": "is the first silence and then it doubles",
+      "duration": 2.32,
+      "offset": 675.4,
+      "lang": "en"
+    },
+    {
+      "text": "again and again and again so you had to",
+      "duration": 2.72,
+      "offset": 676.64,
+      "lang": "en"
+    },
+    {
+      "text": "been silenced for a day that silence had",
+      "duration": 3.68,
+      "offset": 677.72,
+      "lang": "en"
+    },
+    {
+      "text": "to have ended because then we reset you",
+      "duration": 3.52,
+      "offset": 679.36,
+      "lang": "en"
+    },
+    {
+      "text": "and then you had to get you had to been",
+      "duration": 3.28,
+      "offset": 681.4,
+      "lang": "en"
+    },
+    {
+      "text": "bad again and you had to have multiple",
+      "duration": 4.44,
+      "offset": 682.88,
+      "lang": "en"
+    },
+    {
+      "text": "games worth of players all reporting you",
+      "duration": 4.6,
+      "offset": 684.68,
+      "lang": "en"
+    },
+    {
+      "text": "right and and and it had to keep going",
+      "duration": 3.2,
+      "offset": 687.32,
+      "lang": "en"
+    },
+    {
+      "text": "so you you silence for two days so you",
+      "duration": 2.64,
+      "offset": 689.28,
+      "lang": "en"
+    },
+    {
+      "text": "Sil two days you can&#39;t be reported",
+      "duration": 3.48,
+      "offset": 690.52,
+      "lang": "en"
+    },
+    {
+      "text": "during those two days so then you got",
+      "duration": 4.76,
+      "offset": 691.92,
+      "lang": "en"
+    },
+    {
+      "text": "back on day four now and then again you",
+      "duration": 4.8,
+      "offset": 694.0,
+      "lang": "en"
+    },
+    {
+      "text": "were mean to people long enough again",
+      "duration": 3.68,
+      "offset": 696.68,
+      "lang": "en"
+    },
+    {
+      "text": "over multiple games not like one game is",
+      "duration": 2.68,
+      "offset": 698.8,
+      "lang": "en"
+    },
+    {
+      "text": "going to get you silent you got to keep",
+      "duration": 2.8,
+      "offset": 700.36,
+      "lang": "en"
+    },
+    {
+      "text": "going so everybody&#39;s reporting you many",
+      "duration": 3.36,
+      "offset": 701.48,
+      "lang": "en"
+    },
+    {
+      "text": "many games in a row and it&#39;s not like",
+      "duration": 3.04,
+      "offset": 703.16,
+      "lang": "en"
+    },
+    {
+      "text": "the enemy team can report you it&#39;s only",
+      "duration": 2.76,
+      "offset": 704.84,
+      "lang": "en"
+    },
+    {
+      "text": "your your allies that are reporting you",
+      "duration": 2.88,
+      "offset": 706.2,
+      "lang": "en"
+    },
+    {
+      "text": "and and so it goes and so you know some",
+      "duration": 2.76,
+      "offset": 707.6,
+      "lang": "en"
+    },
+    {
+      "text": "of these guys you know they&#39;re silenced",
+      "duration": 4.24,
+      "offset": 709.08,
+      "lang": "en"
+    },
+    {
+      "text": "for six months they&#39; they&#39;ve been pretty",
+      "duration": 5.12,
+      "offset": 710.36,
+      "lang": "en"
+    },
+    {
+      "text": "bad I&#39;m I&#39;m open to the idea that",
+      "duration": 3.32,
+      "offset": 713.32,
+      "lang": "en"
+    },
+    {
+      "text": "they&#39;ve bricked their account maybe",
+      "duration": 4.36,
+      "offset": 715.48,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s a problem right um um and so we",
+      "duration": 4.84,
+      "offset": 716.64,
+      "lang": "en"
+    },
+    {
+      "text": "had a big argument about it I know last",
+      "duration": 2.92,
+      "offset": 719.84,
+      "lang": "en"
+    },
+    {
+      "text": "week when when this sort of came to",
+      "duration": 2.76,
+      "offset": 721.48,
+      "lang": "en"
+    },
+    {
+      "text": "light that this was a possibility there",
+      "duration": 3.2,
+      "offset": 722.76,
+      "lang": "en"
+    },
+    {
+      "text": "were a few players out there that had a",
+      "duration": 3.44,
+      "offset": 724.24,
+      "lang": "en"
+    },
+    {
+      "text": "a six-month silence and that they were",
+      "duration": 4.04,
+      "offset": 725.96,
+      "lang": "en"
+    },
+    {
+      "text": "now out of out of uh hero League they",
+      "duration": 4.44,
+      "offset": 727.68,
+      "lang": "en"
+    },
+    {
+      "text": "can still play Team league um that&#39;s",
+      "duration": 5.04,
+      "offset": 730.0,
+      "lang": "en"
+    },
+    {
+      "text": "still an option for them and um the St",
+      "duration": 4.04,
+      "offset": 732.12,
+      "lang": "en"
+    },
+    {
+      "text": "um you know if we get an unranked draft",
+      "duration": 2.84,
+      "offset": 735.04,
+      "lang": "en"
+    },
+    {
+      "text": "in play they still be a to play there as",
+      "duration": 3.76,
+      "offset": 736.16,
+      "lang": "en"
+    },
+    {
+      "text": "well we&#39;re really talking about um and",
+      "duration": 3.6,
+      "offset": 737.88,
+      "lang": "en"
+    },
+    {
+      "text": "they can still um I believe they can",
+      "duration": 4.8,
+      "offset": 739.92,
+      "lang": "en"
+    },
+    {
+      "text": "still join as well in uh um actually",
+      "duration": 4.2,
+      "offset": 741.48,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t qu me I&#39;m not sure if they can",
+      "duration": 2.08,
+      "offset": 744.72,
+      "lang": "en"
+    },
+    {
+      "text": "join dual Q or not but they can",
+      "duration": 4.16,
+      "offset": 745.68,
+      "lang": "en"
+    },
+    {
+      "text": "certainly play some game modes but right",
+      "duration": 5.2,
+      "offset": 746.8,
+      "lang": "en"
+    },
+    {
+      "text": "now our feeling is no we&#39;re not going to",
+      "duration": 3.4,
+      "offset": 749.84,
+      "lang": "en"
+    },
+    {
+      "text": "but we&#39;ll see we&#39;ll see that&#39;s certainly",
+      "duration": 2.92,
+      "offset": 752.0,
+      "lang": "en"
+    },
+    {
+      "text": "an option for us and and I&#39;d certainly",
+      "duration": 2.92,
+      "offset": 753.24,
+      "lang": "en"
+    },
+    {
+      "text": "be interested in hearing more feedback",
+      "duration": 3.32,
+      "offset": 754.92,
+      "lang": "en"
+    },
+    {
+      "text": "about that this weekend how do you",
+      "duration": 4.16,
+      "offset": 756.16,
+      "lang": "en"
+    },
+    {
+      "text": "currently also like handle the aspects",
+      "duration": 4.48,
+      "offset": 758.24,
+      "lang": "en"
+    },
+    {
+      "text": "of like often times for example it was a",
+      "duration": 3.48,
+      "offset": 760.32,
+      "lang": "en"
+    },
+    {
+      "text": "problem with the silence players",
+      "duration": 2.84,
+      "offset": 762.72,
+      "lang": "en"
+    },
+    {
+      "text": "especially in the past ping spam became",
+      "duration": 3.48,
+      "offset": 763.8,
+      "lang": "en"
+    },
+    {
+      "text": "an issue you already cater towards that",
+      "duration": 3.64,
+      "offset": 765.56,
+      "lang": "en"
+    },
+    {
+      "text": "need at the same time though often times",
+      "duration": 3.84,
+      "offset": 767.28,
+      "lang": "en"
+    },
+    {
+      "text": "you have people that intentionally lose",
+      "duration": 4.44,
+      "offset": 769.2,
+      "lang": "en"
+    },
+    {
+      "text": "games for the team they revive they just",
+      "duration": 4.16,
+      "offset": 771.12,
+      "lang": "en"
+    },
+    {
+      "text": "right click the enemy base they die",
+      "duration": 3.04,
+      "offset": 773.64,
+      "lang": "en"
+    },
+    {
+      "text": "again and that happens over and over",
+      "duration": 3.64,
+      "offset": 775.28,
+      "lang": "en"
+    },
+    {
+      "text": "again it&#39;s a lot harder to detect than",
+      "duration": 4.08,
+      "offset": 776.68,
+      "lang": "en"
+    },
+    {
+      "text": "silences I would say or that flaming",
+      "duration": 3.28,
+      "offset": 778.92,
+      "lang": "en"
+    },
+    {
+      "text": "because of the report system and how it",
+      "duration": 3.68,
+      "offset": 780.76,
+      "lang": "en"
+    },
+    {
+      "text": "works how do you guys currently deal",
+      "duration": 3.96,
+      "offset": 782.2,
+      "lang": "en"
+    },
+    {
+      "text": "with that and with like ban like what",
+      "duration": 2.92,
+      "offset": 784.44,
+      "lang": "en"
+    },
+    {
+      "text": "can be the punishment for someone",
+      "duration": 2.48,
+      "offset": 786.16,
+      "lang": "en"
+    },
+    {
+      "text": "because it feels like this is actually",
+      "duration": 2.6,
+      "offset": 787.36,
+      "lang": "en"
+    },
+    {
+      "text": "something where a game master has to",
+      "duration": 3.48,
+      "offset": 788.64,
+      "lang": "en"
+    },
+    {
+      "text": "look at the actual game to identify that",
+      "duration": 4.04,
+      "offset": 789.96,
+      "lang": "en"
+    },
+    {
+      "text": "problem so how does p currently handle",
+      "duration": 3.84,
+      "offset": 792.12,
+      "lang": "en"
+    },
+    {
+      "text": "these things we have a a customer",
+      "duration": 3.4,
+      "offset": 794.0,
+      "lang": "en"
+    },
+    {
+      "text": "service group that does look at these",
+      "duration": 3.8,
+      "offset": 795.96,
+      "lang": "en"
+    },
+    {
+      "text": "things um but we&#39;re not able to hit them",
+      "duration": 4.12,
+      "offset": 797.4,
+      "lang": "en"
+    },
+    {
+      "text": "as quickly I think as players would like",
+      "duration": 3.24,
+      "offset": 799.76,
+      "lang": "en"
+    },
+    {
+      "text": "this is something that we are very",
+      "duration": 2.68,
+      "offset": 801.52,
+      "lang": "en"
+    },
+    {
+      "text": "passionate about in the development team",
+      "duration": 2.8,
+      "offset": 803.0,
+      "lang": "en"
+    },
+    {
+      "text": "finding us Sol for the challenge",
+      "duration": 4.76,
+      "offset": 804.2,
+      "lang": "en"
+    },
+    {
+      "text": "obviously is anything that we do to you",
+      "duration": 5.4,
+      "offset": 805.8,
+      "lang": "en"
+    },
+    {
+      "text": "um could be abused by other players they",
+      "duration": 3.76,
+      "offset": 808.96,
+      "lang": "en"
+    },
+    {
+      "text": "could say oh I didn&#39;t like the fact that",
+      "duration": 3.68,
+      "offset": 811.2,
+      "lang": "en"
+    },
+    {
+      "text": "you picked uh murky so I&#39;m going to",
+      "duration": 4.92,
+      "offset": 812.72,
+      "lang": "en"
+    },
+    {
+      "text": "report you as AFK feeding and and if",
+      "duration": 4.08,
+      "offset": 814.88,
+      "lang": "en"
+    },
+    {
+      "text": "something happens automatically at that",
+      "duration": 2.48,
+      "offset": 817.64,
+      "lang": "en"
+    },
+    {
+      "text": "point and then we&#39;re we&#39;re punishing the",
+      "duration": 3.16,
+      "offset": 818.96,
+      "lang": "en"
+    },
+    {
+      "text": "innocent but we are we are pretty",
+      "duration": 3.2,
+      "offset": 820.12,
+      "lang": "en"
+    },
+    {
+      "text": "excited about some solves for this we&#39;re",
+      "duration": 2.36,
+      "offset": 822.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to keep talking about solves for",
+      "duration": 2.44,
+      "offset": 823.32,
+      "lang": "en"
+    },
+    {
+      "text": "that we talk about it you know almost on",
+      "duration": 2.72,
+      "offset": 824.48,
+      "lang": "en"
+    },
+    {
+      "text": "a weekly basis at this point we have",
+      "duration": 2.84,
+      "offset": 825.76,
+      "lang": "en"
+    },
+    {
+      "text": "some ideas for things we able to do",
+      "duration": 2.76,
+      "offset": 827.2,
+      "lang": "en"
+    },
+    {
+      "text": "right now we are relying on customer",
+      "duration": 2.56,
+      "offset": 828.6,
+      "lang": "en"
+    },
+    {
+      "text": "support so if you see somebody doing",
+      "duration": 3.36,
+      "offset": 829.96,
+      "lang": "en"
+    },
+    {
+      "text": "that definitely report them they will",
+      "duration": 4.0,
+      "offset": 831.16,
+      "lang": "en"
+    },
+    {
+      "text": "get hit at some point um if they&#39;ve done",
+      "duration": 3.32,
+      "offset": 833.32,
+      "lang": "en"
+    },
+    {
+      "text": "it often enough in customer support but",
+      "duration": 2.88,
+      "offset": 835.16,
+      "lang": "en"
+    },
+    {
+      "text": "it may not happen right away and that&#39;s",
+      "duration": 2.52,
+      "offset": 836.64,
+      "lang": "en"
+    },
+    {
+      "text": "where the real challenge comes in you",
+      "duration": 2.88,
+      "offset": 838.04,
+      "lang": "en"
+    },
+    {
+      "text": "kind of want to see Justice immediately",
+      "duration": 2.88,
+      "offset": 839.16,
+      "lang": "en"
+    },
+    {
+      "text": "you kind of want to know this guy got",
+      "duration": 3.08,
+      "offset": 840.92,
+      "lang": "en"
+    },
+    {
+      "text": "reported and then his his computer got",
+      "duration": 3.36,
+      "offset": 842.04,
+      "lang": "en"
+    },
+    {
+      "text": "formatted and he&#39;s just something bad",
+      "duration": 2.28,
+      "offset": 844.0,
+      "lang": "en"
+    },
+    {
+      "text": "because he&#39;s really hurting your",
+      "duration": 2.24,
+      "offset": 845.4,
+      "lang": "en"
+    },
+    {
+      "text": "gameplay experience and if if you&#39;re",
+      "duration": 3.92,
+      "offset": 846.28,
+      "lang": "en"
+    },
+    {
+      "text": "playing in ranked he&#39;s really hurting",
+      "duration": 3.96,
+      "offset": 847.64,
+      "lang": "en"
+    },
+    {
+      "text": "your gameplay experience in a terrible",
+      "duration": 3.84,
+      "offset": 850.2,
+      "lang": "en"
+    },
+    {
+      "text": "way so I I think um we need to find um",
+      "duration": 3.8,
+      "offset": 851.6,
+      "lang": "en"
+    },
+    {
+      "text": "some better tools that maybe aren&#39;t as",
+      "duration": 2.92,
+      "offset": 854.04,
+      "lang": "en"
+    },
+    {
+      "text": "abusable and but right now we are",
+      "duration": 3.16,
+      "offset": 855.4,
+      "lang": "en"
+    },
+    {
+      "text": "relying on on the report system that we",
+      "duration": 3.64,
+      "offset": 856.96,
+      "lang": "en"
+    },
+    {
+      "text": "have which is not necessarily getting",
+      "duration": 3.24,
+      "offset": 858.56,
+      "lang": "en"
+    },
+    {
+      "text": "you the Justice you want as quickly as",
+      "duration": 3.2,
+      "offset": 860.6,
+      "lang": "en"
+    },
+    {
+      "text": "you need it absolutely the community has",
+      "duration": 3.96,
+      "offset": 861.8,
+      "lang": "en"
+    },
+    {
+      "text": "also talked a bit about that it feels a",
+      "duration": 3.76,
+      "offset": 863.8,
+      "lang": "en"
+    },
+    {
+      "text": "bit weird if you like report people for",
+      "duration": 3.4,
+      "offset": 865.76,
+      "lang": "en"
+    },
+    {
+      "text": "feeding I mean those are I would even",
+      "duration": 3.52,
+      "offset": 867.56,
+      "lang": "en"
+    },
+    {
+      "text": "argue that silence players and people",
+      "duration": 3.6,
+      "offset": 869.16,
+      "lang": "en"
+    },
+    {
+      "text": "that flame you during the game can be",
+      "duration": 3.52,
+      "offset": 871.08,
+      "lang": "en"
+    },
+    {
+      "text": "quite toxic and it&#39;s definitely taking",
+      "duration": 3.48,
+      "offset": 872.76,
+      "lang": "en"
+    },
+    {
+      "text": "away from your game experience but I",
+      "duration": 3.16,
+      "offset": 874.6,
+      "lang": "en"
+    },
+    {
+      "text": "would say that someone who intentially",
+      "duration": 3.4,
+      "offset": 876.24,
+      "lang": "en"
+    },
+    {
+      "text": "loses the game for the team is even",
+      "duration": 4.32,
+      "offset": 877.76,
+      "lang": "en"
+    },
+    {
+      "text": "worse so if you report that guy at some",
+      "duration": 3.68,
+      "offset": 879.64,
+      "lang": "en"
+    },
+    {
+      "text": "point of course you would really love to",
+      "duration": 2.64,
+      "offset": 882.08,
+      "lang": "en"
+    },
+    {
+      "text": "see what happens to him and the",
+      "duration": 2.68,
+      "offset": 883.32,
+      "lang": "en"
+    },
+    {
+      "text": "community has been talking a bit about",
+      "duration": 3.52,
+      "offset": 884.72,
+      "lang": "en"
+    },
+    {
+      "text": "how if blizzard can maybe give you some",
+      "duration": 3.68,
+      "offset": 886.0,
+      "lang": "en"
+    },
+    {
+      "text": "kind of notification in battle net when",
+      "duration": 2.96,
+      "offset": 888.24,
+      "lang": "en"
+    },
+    {
+      "text": "you lock in and say like listen that guy",
+      "duration": 2.84,
+      "offset": 889.68,
+      "lang": "en"
+    },
+    {
+      "text": "that you played with a couple of times",
+      "duration": 2.76,
+      "offset": 891.2,
+      "lang": "en"
+    },
+    {
+      "text": "and that you reported like five times",
+      "duration": 3.04,
+      "offset": 892.52,
+      "lang": "en"
+    },
+    {
+      "text": "for that he actually that was a",
+      "duration": 3.24,
+      "offset": 893.96,
+      "lang": "en"
+    },
+    {
+      "text": "punishment is that something that you&#39;re",
+      "duration": 3.6,
+      "offset": 895.56,
+      "lang": "en"
+    },
+    {
+      "text": "also trying to add or is that at this",
+      "duration": 3.36,
+      "offset": 897.2,
+      "lang": "en"
+    },
+    {
+      "text": "point just more of an ice to have that",
+      "duration": 2.8,
+      "offset": 899.16,
+      "lang": "en"
+    },
+    {
+      "text": "you would like to add in the future but",
+      "duration": 2.76,
+      "offset": 900.56,
+      "lang": "en"
+    },
+    {
+      "text": "just don&#39;t have the resource or the time",
+      "duration": 2.88,
+      "offset": 901.96,
+      "lang": "en"
+    },
+    {
+      "text": "for implementing yet we&#39;re definitely",
+      "duration": 3.16,
+      "offset": 903.32,
+      "lang": "en"
+    },
+    {
+      "text": "focused on the things so we&#39;re focused",
+      "duration": 3.52,
+      "offset": 904.84,
+      "lang": "en"
+    },
+    {
+      "text": "obvious been focused on matchmaking um",
+      "duration": 3.6,
+      "offset": 906.48,
+      "lang": "en"
+    },
+    {
+      "text": "almost exclusively for quite some time",
+      "duration": 3.96,
+      "offset": 908.36,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re now also adding to that Focus this",
+      "duration": 3.2,
+      "offset": 910.08,
+      "lang": "en"
+    },
+    {
+      "text": "you know changes we&#39;re talking about",
+      "duration": 4.2,
+      "offset": 912.32,
+      "lang": "en"
+    },
+    {
+      "text": "here to ranked play as well um and but",
+      "duration": 4.28,
+      "offset": 913.28,
+      "lang": "en"
+    },
+    {
+      "text": "but this is something we would",
+      "duration": 1.88,
+      "offset": 916.52,
+      "lang": "en"
+    },
+    {
+      "text": "definitely like to get to I&#39;m not",
+      "duration": 2.52,
+      "offset": 917.56,
+      "lang": "en"
+    },
+    {
+      "text": "against getting to this at all um I",
+      "duration": 3.32,
+      "offset": 918.4,
+      "lang": "en"
+    },
+    {
+      "text": "would say actually getting those guys",
+      "duration": 3.48,
+      "offset": 920.08,
+      "lang": "en"
+    },
+    {
+      "text": "out of the game period would be my",
+      "duration": 3.68,
+      "offset": 921.72,
+      "lang": "en"
+    },
+    {
+      "text": "highest priority the second highest",
+      "duration": 3.16,
+      "offset": 923.56,
+      "lang": "en"
+    },
+    {
+      "text": "priority after that would be telling you",
+      "duration": 3.44,
+      "offset": 925.4,
+      "lang": "en"
+    },
+    {
+      "text": "that your report was meaningful um would",
+      "duration": 3.2,
+      "offset": 926.72,
+      "lang": "en"
+    },
+    {
+      "text": "much rather have the criminals caught",
+      "duration": 2.48,
+      "offset": 928.84,
+      "lang": "en"
+    },
+    {
+      "text": "and thrown in jail than the police came",
+      "duration": 2.4,
+      "offset": 929.92,
+      "lang": "en"
+    },
+    {
+      "text": "to your door and said hey it was because",
+      "duration": 3.96,
+      "offset": 931.32,
+      "lang": "en"
+    },
+    {
+      "text": "of your report but once we you know get",
+      "duration": 4.08,
+      "offset": 932.32,
+      "lang": "en"
+    },
+    {
+      "text": "these guys tossed in jail we get them",
+      "duration": 2.92,
+      "offset": 935.28,
+      "lang": "en"
+    },
+    {
+      "text": "sort of out of the ecosystem or or in a",
+      "duration": 2.8,
+      "offset": 936.4,
+      "lang": "en"
+    },
+    {
+      "text": "spot in the ecosystem they can&#39;t really",
+      "duration": 3.12,
+      "offset": 938.2,
+      "lang": "en"
+    },
+    {
+      "text": "hurt anybody anymore um then I think it",
+      "duration": 3.88,
+      "offset": 939.2,
+      "lang": "en"
+    },
+    {
+      "text": "would another feature they would love to",
+      "duration": 3.2,
+      "offset": 941.32,
+      "lang": "en"
+    },
+    {
+      "text": "have on that is that hey your report was",
+      "duration": 2.52,
+      "offset": 943.08,
+      "lang": "en"
+    },
+    {
+      "text": "a meaningful part of that I think that",
+      "duration": 2.96,
+      "offset": 944.52,
+      "lang": "en"
+    },
+    {
+      "text": "would be hugely helpful one last",
+      "duration": 3.2,
+      "offset": 945.6,
+      "lang": "en"
+    },
+    {
+      "text": "question with the match system when it",
+      "duration": 3.32,
+      "offset": 947.48,
+      "lang": "en"
+    },
+    {
+      "text": "comes to like rank mode overall uh one",
+      "duration": 3.92,
+      "offset": 948.8,
+      "lang": "en"
+    },
+    {
+      "text": "of the problems or one of the issues",
+      "duration": 3.44,
+      "offset": 950.8,
+      "lang": "en"
+    },
+    {
+      "text": "that a lot of the competitive players",
+      "duration": 3.6,
+      "offset": 952.72,
+      "lang": "en"
+    },
+    {
+      "text": "have been talking about is that they try",
+      "duration": 4.08,
+      "offset": 954.24,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes to get into the same games on",
+      "duration": 4.0,
+      "offset": 956.32,
+      "lang": "en"
+    },
+    {
+      "text": "either side just by queuing at the same",
+      "duration": 3.88,
+      "offset": 958.32,
+      "lang": "en"
+    },
+    {
+      "text": "time but find themselves ending up in",
+      "duration": 4.32,
+      "offset": 960.32,
+      "lang": "en"
+    },
+    {
+      "text": "different games and often times match",
+      "duration": 3.8,
+      "offset": 962.2,
+      "lang": "en"
+    },
+    {
+      "text": "with players that are on a much lower",
+      "duration": 3.8,
+      "offset": 964.64,
+      "lang": "en"
+    },
+    {
+      "text": "level than they are so that is seems to",
+      "duration": 4.16,
+      "offset": 966.0,
+      "lang": "en"
+    },
+    {
+      "text": "be a bit of a problem can you maybe tell",
+      "duration": 3.96,
+      "offset": 968.44,
+      "lang": "en"
+    },
+    {
+      "text": "us if that a was already addressed in",
+      "duration": 3.52,
+      "offset": 970.16,
+      "lang": "en"
+    },
+    {
+      "text": "the changes to the matchmaking system",
+      "duration": 3.24,
+      "offset": 972.4,
+      "lang": "en"
+    },
+    {
+      "text": "that you&#39;ve been talking about or how",
+      "duration": 4.0,
+      "offset": 973.68,
+      "lang": "en"
+    },
+    {
+      "text": "that can actually happen do you have any",
+      "duration": 3.84,
+      "offset": 975.64,
+      "lang": "en"
+    },
+    {
+      "text": "insights on that so I I&#39;m going to have",
+      "duration": 3.56,
+      "offset": 977.68,
+      "lang": "en"
+    },
+    {
+      "text": "more questions for you on that so",
+      "duration": 3.2,
+      "offset": 979.48,
+      "lang": "en"
+    },
+    {
+      "text": "obviously our goal would never to be to",
+      "duration": 2.76,
+      "offset": 981.24,
+      "lang": "en"
+    },
+    {
+      "text": "allow players to collude to get into",
+      "duration": 2.76,
+      "offset": 982.68,
+      "lang": "en"
+    },
+    {
+      "text": "games opposite one another right that",
+      "duration": 3.08,
+      "offset": 984.0,
+      "lang": "en"
+    },
+    {
+      "text": "could manipulate the the rank system",
+      "duration": 2.84,
+      "offset": 985.44,
+      "lang": "en"
+    },
+    {
+      "text": "doing that so what are they trying to",
+      "duration": 2.44,
+      "offset": 987.08,
+      "lang": "en"
+    },
+    {
+      "text": "accompl by getting into a game with one",
+      "duration": 2.6,
+      "offset": 988.28,
+      "lang": "en"
+    },
+    {
+      "text": "another are they hoping to get a fair",
+      "duration": 2.24,
+      "offset": 989.52,
+      "lang": "en"
+    },
+    {
+      "text": "match is that what they&#39;re hoping to",
+      "duration": 2.52,
+      "offset": 990.88,
+      "lang": "en"
+    },
+    {
+      "text": "accomplish so it&#39;s not like we should be",
+      "duration": 2.84,
+      "offset": 991.76,
+      "lang": "en"
+    },
+    {
+      "text": "playing in custom game but we&#39;re trying",
+      "duration": 3.48,
+      "offset": 993.4,
+      "lang": "en"
+    },
+    {
+      "text": "to use the Matchmaker it&#39;s I want to be",
+      "duration": 4.12,
+      "offset": 994.6,
+      "lang": "en"
+    },
+    {
+      "text": "in a game with great players I know",
+      "duration": 3.16,
+      "offset": 996.88,
+      "lang": "en"
+    },
+    {
+      "text": "there&#39;s great players in the game right",
+      "duration": 2.6,
+      "offset": 998.72,
+      "lang": "en"
+    },
+    {
+      "text": "now if we Queue at the same time maybe",
+      "duration": 3.84,
+      "offset": 1000.04,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll end up together interesting like",
+      "duration": 3.76,
+      "offset": 1001.32,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s not like they&#39;re hitting the the",
+      "duration": 2.68,
+      "offset": 1003.88,
+      "lang": "en"
+    },
+    {
+      "text": "search button necessarily at the same",
+      "duration": 2.92,
+      "offset": 1005.08,
+      "lang": "en"
+    },
+    {
+      "text": "time but often times when you have like",
+      "duration": 2.64,
+      "offset": 1006.56,
+      "lang": "en"
+    },
+    {
+      "text": "for example different teams coming",
+      "duration": 2.32,
+      "offset": 1008.0,
+      "lang": "en"
+    },
+    {
+      "text": "online they&#39;re just looking their",
+      "duration": 2.96,
+      "offset": 1009.2,
+      "lang": "en"
+    },
+    {
+      "text": "friends place they&#39;re seeing okay",
+      "duration": 3.4,
+      "offset": 1010.32,
+      "lang": "en"
+    },
+    {
+      "text": "players from dignitas from fanatic are",
+      "duration": 2.96,
+      "offset": 1012.16,
+      "lang": "en"
+    },
+    {
+      "text": "currently playing as well they&#39;re all",
+      "duration": 3.4,
+      "offset": 1013.72,
+      "lang": "en"
+    },
+    {
+      "text": "queuing so if I queue now chances that I",
+      "duration": 3.52,
+      "offset": 1015.12,
+      "lang": "en"
+    },
+    {
+      "text": "actually get a good game playing on a",
+      "duration": 3.48,
+      "offset": 1017.12,
+      "lang": "en"
+    },
+    {
+      "text": "high level against other people then",
+      "duration": 3.52,
+      "offset": 1018.64,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s like and often times they end up in",
+      "duration": 2.68,
+      "offset": 1020.6,
+      "lang": "en"
+    },
+    {
+      "text": "different games and the question was",
+      "duration": 3.32,
+      "offset": 1022.16,
+      "lang": "en"
+    },
+    {
+      "text": "always how that does that happen why is",
+      "duration": 3.96,
+      "offset": 1023.28,
+      "lang": "en"
+    },
+    {
+      "text": "the matchmaking suddenly teaming me up",
+      "duration": 4.04,
+      "offset": 1025.48,
+      "lang": "en"
+    },
+    {
+      "text": "with people that are like 1,500 MMR",
+      "duration": 4.04,
+      "offset": 1027.24,
+      "lang": "en"
+    },
+    {
+      "text": "below me whereas at the same time other",
+      "duration": 3.12,
+      "offset": 1029.52,
+      "lang": "en"
+    },
+    {
+      "text": "Pro players queued up as well and I",
+      "duration": 3.08,
+      "offset": 1031.28,
+      "lang": "en"
+    },
+    {
+      "text": "should have ended up in a game with and",
+      "duration": 3.04,
+      "offset": 1032.64,
+      "lang": "en"
+    },
+    {
+      "text": "against them I don&#39;t think I know the",
+      "duration": 2.36,
+      "offset": 1034.36,
+      "lang": "en"
+    },
+    {
+      "text": "answer to that question I think it&#39;s a",
+      "duration": 3.04,
+      "offset": 1035.68,
+      "lang": "en"
+    },
+    {
+      "text": "great question I think um what we could",
+      "duration": 4.76,
+      "offset": 1036.72,
+      "lang": "en"
+    },
+    {
+      "text": "do is um we could certainly have a look",
+      "duration": 4.28,
+      "offset": 1038.72,
+      "lang": "en"
+    },
+    {
+      "text": "into that those games specifically like",
+      "duration": 3.12,
+      "offset": 1041.48,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;d have to actually have an engineer",
+      "duration": 3.12,
+      "offset": 1043.0,
+      "lang": "en"
+    },
+    {
+      "text": "look at the matchmaking at that moment",
+      "duration": 2.92,
+      "offset": 1044.6,
+      "lang": "en"
+    },
+    {
+      "text": "to see what the brain of the Matchmaker",
+      "duration": 3.28,
+      "offset": 1046.12,
+      "lang": "en"
+    },
+    {
+      "text": "was thinking at that moment like we can",
+      "duration": 3.44,
+      "offset": 1047.52,
+      "lang": "en"
+    },
+    {
+      "text": "quiz the Matchmaker we can say what were",
+      "duration": 2.56,
+      "offset": 1049.4,
+      "lang": "en"
+    },
+    {
+      "text": "you thinking right there right and we",
+      "duration": 2.6,
+      "offset": 1050.96,
+      "lang": "en"
+    },
+    {
+      "text": "can look in at the math and we can sort",
+      "duration": 3.48,
+      "offset": 1051.96,
+      "lang": "en"
+    },
+    {
+      "text": "of um query the Matchmaker to see what",
+      "duration": 3.12,
+      "offset": 1053.56,
+      "lang": "en"
+    },
+    {
+      "text": "his thoughts were at that moment but I",
+      "duration": 2.4,
+      "offset": 1055.44,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t I don&#39;t know what happened to that",
+      "duration": 3.76,
+      "offset": 1056.68,
+      "lang": "en"
+    },
+    {
+      "text": "moment um you know and I and I don&#39;t",
+      "duration": 3.92,
+      "offset": 1057.84,
+      "lang": "en"
+    },
+    {
+      "text": "know what&#39;s going on with hotslogs like",
+      "duration": 3.0,
+      "offset": 1060.44,
+      "lang": "en"
+    },
+    {
+      "text": "I think hotslogs is is a wonderful",
+      "duration": 3.48,
+      "offset": 1061.76,
+      "lang": "en"
+    },
+    {
+      "text": "Community tool and I definitely um love",
+      "duration": 2.68,
+      "offset": 1063.44,
+      "lang": "en"
+    },
+    {
+      "text": "that it&#39;s out there but it&#39;s not",
+      "duration": 4.32,
+      "offset": 1065.24,
+      "lang": "en"
+    },
+    {
+      "text": "necessarily accurate and or or it",
+      "duration": 6.04,
+      "offset": 1066.12,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t match our numbers right um and",
+      "duration": 5.56,
+      "offset": 1069.56,
+      "lang": "en"
+    },
+    {
+      "text": "so I I don&#39;t know what um when you say",
+      "duration": 4.4,
+      "offset": 1072.16,
+      "lang": "en"
+    },
+    {
+      "text": "they were they were the same like were",
+      "duration": 2.8,
+      "offset": 1075.12,
+      "lang": "en"
+    },
+    {
+      "text": "they were they the same to us or they",
+      "duration": 3.24,
+      "offset": 1076.56,
+      "lang": "en"
+    },
+    {
+      "text": "just the same in hotslogs I don&#39;t know",
+      "duration": 4.24,
+      "offset": 1077.92,
+      "lang": "en"
+    },
+    {
+      "text": "maybe probably uh it&#39;s very possible but",
+      "duration": 4.4,
+      "offset": 1079.8,
+      "lang": "en"
+    },
+    {
+      "text": "maybe not um certainly at that high in",
+      "duration": 3.44,
+      "offset": 1082.16,
+      "lang": "en"
+    },
+    {
+      "text": "MMR it&#39;s very likely almost all the",
+      "duration": 2.6,
+      "offset": 1084.2,
+      "lang": "en"
+    },
+    {
+      "text": "games are being reported and then in",
+      "duration": 2.6,
+      "offset": 1085.6,
+      "lang": "en"
+    },
+    {
+      "text": "that place you know hotlog is probably",
+      "duration": 2.96,
+      "offset": 1086.8,
+      "lang": "en"
+    },
+    {
+      "text": "going to be very similar to ours but but",
+      "duration": 2.84,
+      "offset": 1088.2,
+      "lang": "en"
+    },
+    {
+      "text": "but maybe not so maybe there&#39;s somebody",
+      "duration": 3.8,
+      "offset": 1089.76,
+      "lang": "en"
+    },
+    {
+      "text": "in there that didn&#39;t match according to",
+      "duration": 4.12,
+      "offset": 1091.04,
+      "lang": "en"
+    },
+    {
+      "text": "our MMR ratings and so the Matchmaker",
+      "duration": 3.36,
+      "offset": 1093.56,
+      "lang": "en"
+    },
+    {
+      "text": "said nope not you you&#39;re lower than you",
+      "duration": 3.08,
+      "offset": 1095.16,
+      "lang": "en"
+    },
+    {
+      "text": "think you are or you&#39;re higher than you",
+      "duration": 3.04,
+      "offset": 1096.92,
+      "lang": "en"
+    },
+    {
+      "text": "think you are and so um we could",
+      "duration": 2.92,
+      "offset": 1098.24,
+      "lang": "en"
+    },
+    {
+      "text": "certainly look at it and see but we we",
+      "duration": 2.32,
+      "offset": 1099.96,
+      "lang": "en"
+    },
+    {
+      "text": "could we could query it we could have a",
+      "duration": 2.44,
+      "offset": 1101.16,
+      "lang": "en"
+    },
+    {
+      "text": "look in it though so maybe that&#39;s",
+      "duration": 2.2,
+      "offset": 1102.28,
+      "lang": "en"
+    },
+    {
+      "text": "something we could we could have a",
+      "duration": 2.12,
+      "offset": 1103.6,
+      "lang": "en"
+    },
+    {
+      "text": "conversation about we could you know get",
+      "duration": 3.04,
+      "offset": 1104.48,
+      "lang": "en"
+    },
+    {
+      "text": "an example of this guy on this date did",
+      "duration": 3.24,
+      "offset": 1105.72,
+      "lang": "en"
+    },
+    {
+      "text": "this thing how come",
+      "duration": 2.6,
+      "offset": 1107.52,
+      "lang": "en"
+    },
+    {
+      "text": "and we can we can take a look at the",
+      "duration": 2.16,
+      "offset": 1108.96,
+      "lang": "en"
+    },
+    {
+      "text": "Matchmaker and see what his thought",
+      "duration": 3.44,
+      "offset": 1110.12,
+      "lang": "en"
+    },
+    {
+      "text": "process was all right coming back to a",
+      "duration": 3.72,
+      "offset": 1111.12,
+      "lang": "en"
+    },
+    {
+      "text": "different game mode now that we actually",
+      "duration": 3.04,
+      "offset": 1113.56,
+      "lang": "en"
+    },
+    {
+      "text": "talked a lot about rank coming back to",
+      "duration": 3.6,
+      "offset": 1114.84,
+      "lang": "en"
+    },
+    {
+      "text": "quick match for a moment currently one",
+      "duration": 3.52,
+      "offset": 1116.6,
+      "lang": "en"
+    },
+    {
+      "text": "of the things that is a bit transparent",
+      "duration": 3.32,
+      "offset": 1118.44,
+      "lang": "en"
+    },
+    {
+      "text": "in quick match is that the system seems",
+      "duration": 3.6,
+      "offset": 1120.12,
+      "lang": "en"
+    },
+    {
+      "text": "when it comes to compositions of Heroes",
+      "duration": 4.96,
+      "offset": 1121.76,
+      "lang": "en"
+    },
+    {
+      "text": "to aim for not really aim but to",
+      "duration": 5.16,
+      "offset": 1123.72,
+      "lang": "en"
+    },
+    {
+      "text": "certainly prioritize certain mirror",
+      "duration": 3.8,
+      "offset": 1126.72,
+      "lang": "en"
+    },
+    {
+      "text": "matches as well is leaning a little bit",
+      "duration": 3.72,
+      "offset": 1128.88,
+      "lang": "en"
+    },
+    {
+      "text": "more to a mirror matches it doesn&#39;t have",
+      "duration": 3.44,
+      "offset": 1130.52,
+      "lang": "en"
+    },
+    {
+      "text": "any rules one way or the other about",
+      "duration": 2.28,
+      "offset": 1132.6,
+      "lang": "en"
+    },
+    {
+      "text": "mirror matches it doesn&#39;t really care",
+      "duration": 2.8,
+      "offset": 1133.96,
+      "lang": "en"
+    },
+    {
+      "text": "about mirror matches and so if it goes",
+      "duration": 3.2,
+      "offset": 1134.88,
+      "lang": "en"
+    },
+    {
+      "text": "to make a match and it happens to be a",
+      "duration": 2.64,
+      "offset": 1136.76,
+      "lang": "en"
+    },
+    {
+      "text": "mirror because certain heroes are very",
+      "duration": 2.52,
+      "offset": 1138.08,
+      "lang": "en"
+    },
+    {
+      "text": "popular then it&#39;s certainly going to be",
+      "duration": 2.84,
+      "offset": 1139.4,
+      "lang": "en"
+    },
+    {
+      "text": "okay with that so it currently tries to",
+      "duration": 3.32,
+      "offset": 1140.6,
+      "lang": "en"
+    },
+    {
+      "text": "match at least roles a little bit if one",
+      "duration": 3.52,
+      "offset": 1142.24,
+      "lang": "en"
+    },
+    {
+      "text": "team does have a Healer it&#39;s going to",
+      "duration": 3.2,
+      "offset": 1143.92,
+      "lang": "en"
+    },
+    {
+      "text": "try and put a support on the other team",
+      "duration": 3.12,
+      "offset": 1145.76,
+      "lang": "en"
+    },
+    {
+      "text": "as well and that happens quite a bit uh",
+      "duration": 3.08,
+      "offset": 1147.12,
+      "lang": "en"
+    },
+    {
+      "text": "one of the things is that it doesn&#39;t",
+      "duration": 2.48,
+      "offset": 1148.88,
+      "lang": "en"
+    },
+    {
+      "text": "really seem to make a distinction",
+      "duration": 2.6,
+      "offset": 1150.2,
+      "lang": "en"
+    },
+    {
+      "text": "between a melee assassin and range",
+      "duration": 3.0,
+      "offset": 1151.36,
+      "lang": "en"
+    },
+    {
+      "text": "assassin which can come sometimes be a",
+      "duration": 3.08,
+      "offset": 1152.8,
+      "lang": "en"
+    },
+    {
+      "text": "huge problem if for example you end up",
+      "duration": 2.84,
+      "offset": 1154.36,
+      "lang": "en"
+    },
+    {
+      "text": "in a team without a tank and your",
+      "duration": 4.12,
+      "offset": 1155.88,
+      "lang": "en"
+    },
+    {
+      "text": "opponent is running a thall and an illin",
+      "duration": 4.8,
+      "offset": 1157.2,
+      "lang": "en"
+    },
+    {
+      "text": "um whereas you only have one Healer and",
+      "duration": 3.52,
+      "offset": 1160.0,
+      "lang": "en"
+    },
+    {
+      "text": "a lot of range heers is that something",
+      "duration": 3.12,
+      "offset": 1162.0,
+      "lang": "en"
+    },
+    {
+      "text": "where you feel the need to like put more",
+      "duration": 3.12,
+      "offset": 1163.52,
+      "lang": "en"
+    },
+    {
+      "text": "rules in is that a thing where you say",
+      "duration": 2.64,
+      "offset": 1165.12,
+      "lang": "en"
+    },
+    {
+      "text": "like yeah that happens every now and",
+      "duration": 3.52,
+      "offset": 1166.64,
+      "lang": "en"
+    },
+    {
+      "text": "then and deal with it or are there going",
+      "duration": 3.88,
+      "offset": 1167.76,
+      "lang": "en"
+    },
+    {
+      "text": "to be any changes to the way that the",
+      "duration": 2.96,
+      "offset": 1170.16,
+      "lang": "en"
+    },
+    {
+      "text": "matchmaking system is going for the",
+      "duration": 3.2,
+      "offset": 1171.64,
+      "lang": "en"
+    },
+    {
+      "text": "compositions I&#39;ll put this out there to",
+      "duration": 3.16,
+      "offset": 1173.12,
+      "lang": "en"
+    },
+    {
+      "text": "see sort of what your thoughts are and",
+      "duration": 3.04,
+      "offset": 1174.84,
+      "lang": "en"
+    },
+    {
+      "text": "the thoughts of the community our view",
+      "duration": 3.6,
+      "offset": 1176.28,
+      "lang": "en"
+    },
+    {
+      "text": "on quick match right now is we do want",
+      "duration": 3.6,
+      "offset": 1177.88,
+      "lang": "en"
+    },
+    {
+      "text": "to have some rules in there but as few",
+      "duration": 3.28,
+      "offset": 1179.88,
+      "lang": "en"
+    },
+    {
+      "text": "rules as possible the quick match is",
+      "duration": 3.64,
+      "offset": 1181.48,
+      "lang": "en"
+    },
+    {
+      "text": "designed to be the wild west of",
+      "duration": 4.08,
+      "offset": 1183.16,
+      "lang": "en"
+    },
+    {
+      "text": "uncertainty it&#39;s asking you to react to",
+      "duration": 3.88,
+      "offset": 1185.12,
+      "lang": "en"
+    },
+    {
+      "text": "the environment as much as possible and",
+      "duration": 2.92,
+      "offset": 1187.24,
+      "lang": "en"
+    },
+    {
+      "text": "some ways I regret they need to do any",
+      "duration": 3.16,
+      "offset": 1189.0,
+      "lang": "en"
+    },
+    {
+      "text": "rules at all um I wish we almost um",
+      "duration": 3.32,
+      "offset": 1190.16,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t have to do the support rule for",
+      "duration": 2.92,
+      "offset": 1192.16,
+      "lang": "en"
+    },
+    {
+      "text": "example but but we did and I think it",
+      "duration": 3.52,
+      "offset": 1193.48,
+      "lang": "en"
+    },
+    {
+      "text": "does add to the experience but we really",
+      "duration": 3.28,
+      "offset": 1195.08,
+      "lang": "en"
+    },
+    {
+      "text": "want you to be in there and reacting",
+      "duration": 1.96,
+      "offset": 1197.0,
+      "lang": "en"
+    },
+    {
+      "text": "sometimes you&#39;re going to get a",
+      "duration": 1.84,
+      "offset": 1198.36,
+      "lang": "en"
+    },
+    {
+      "text": "composition in there that you go I don&#39;t",
+      "duration": 2.68,
+      "offset": 1198.96,
+      "lang": "en"
+    },
+    {
+      "text": "know how I&#39;m supposed to what am I",
+      "duration": 2.52,
+      "offset": 1200.2,
+      "lang": "en"
+    },
+    {
+      "text": "supposed to do and it&#39;s like okay you",
+      "duration": 2.16,
+      "offset": 1201.64,
+      "lang": "en"
+    },
+    {
+      "text": "better think about your talents a little",
+      "duration": 2.68,
+      "offset": 1202.72,
+      "lang": "en"
+    },
+    {
+      "text": "differently than you have in your past",
+      "duration": 2.76,
+      "offset": 1203.8,
+      "lang": "en"
+    },
+    {
+      "text": "Don&#39;t just run the same play you&#39;ve",
+      "duration": 2.8,
+      "offset": 1205.4,
+      "lang": "en"
+    },
+    {
+      "text": "always run try something different try",
+      "duration": 3.72,
+      "offset": 1206.56,
+      "lang": "en"
+    },
+    {
+      "text": "something new at most skill levels of",
+      "duration": 4.68,
+      "offset": 1208.2,
+      "lang": "en"
+    },
+    {
+      "text": "play I would argue it&#39;s fine now at the",
+      "duration": 4.36,
+      "offset": 1210.28,
+      "lang": "en"
+    },
+    {
+      "text": "highest end competition those players",
+      "duration": 3.28,
+      "offset": 1212.88,
+      "lang": "en"
+    },
+    {
+      "text": "maybe should be either in unranked draft",
+      "duration": 3.64,
+      "offset": 1214.64,
+      "lang": "en"
+    },
+    {
+      "text": "or in a draft mode because at that level",
+      "duration": 3.68,
+      "offset": 1216.16,
+      "lang": "en"
+    },
+    {
+      "text": "of play maybe it&#39;s not possible to",
+      "duration": 3.6,
+      "offset": 1218.28,
+      "lang": "en"
+    },
+    {
+      "text": "Talent your way or teamwork your way out",
+      "duration": 3.84,
+      "offset": 1219.84,
+      "lang": "en"
+    },
+    {
+      "text": "of out of one of these scenarios but we",
+      "duration": 3.24,
+      "offset": 1221.88,
+      "lang": "en"
+    },
+    {
+      "text": "definitely feel like that wild west is",
+      "duration": 3.2,
+      "offset": 1223.68,
+      "lang": "en"
+    },
+    {
+      "text": "part of the fun of quick match one of",
+      "duration": 2.84,
+      "offset": 1225.12,
+      "lang": "en"
+    },
+    {
+      "text": "the things that has happened to a lot of",
+      "duration": 3.36,
+      "offset": 1226.88,
+      "lang": "en"
+    },
+    {
+      "text": "games in this genre is they get very",
+      "duration": 4.68,
+      "offset": 1227.96,
+      "lang": "en"
+    },
+    {
+      "text": "restrictive with how you have to play",
+      "duration": 4.68,
+      "offset": 1230.24,
+      "lang": "en"
+    },
+    {
+      "text": "the game and and The Meta becomes just",
+      "duration": 4.8,
+      "offset": 1232.64,
+      "lang": "en"
+    },
+    {
+      "text": "the rules and that&#39;s it we really want",
+      "duration": 4.16,
+      "offset": 1234.92,
+      "lang": "en"
+    },
+    {
+      "text": "this game to be more fun than that we",
+      "duration": 3.64,
+      "offset": 1237.44,
+      "lang": "en"
+    },
+    {
+      "text": "really are very passionate as game",
+      "duration": 4.4,
+      "offset": 1239.08,
+      "lang": "en"
+    },
+    {
+      "text": "developers about no they we&#39;re going to",
+      "duration": 3.96,
+      "offset": 1241.08,
+      "lang": "en"
+    },
+    {
+      "text": "keep changing Heroes we&#39;re going to keep",
+      "duration": 3.32,
+      "offset": 1243.48,
+      "lang": "en"
+    },
+    {
+      "text": "introducing new Heroes like medivh that",
+      "duration": 3.4,
+      "offset": 1245.04,
+      "lang": "en"
+    },
+    {
+      "text": "really shake up what you think of the",
+      "duration": 3.44,
+      "offset": 1246.8,
+      "lang": "en"
+    },
+    {
+      "text": "meta if you look at miv he doesn&#39;t have",
+      "duration": 5.32,
+      "offset": 1248.44,
+      "lang": "en"
+    },
+    {
+      "text": "a role he&#39;s not support he&#39;s not",
+      "duration": 6.92,
+      "offset": 1250.24,
+      "lang": "en"
+    },
+    {
+      "text": "assassin he&#39;s not tank he&#39;s miv pretty",
+      "duration": 6.76,
+      "offset": 1253.76,
+      "lang": "en"
+    },
+    {
+      "text": "op you mean maybe we&#39;ll see um but his",
+      "duration": 5.96,
+      "offset": 1257.16,
+      "lang": "en"
+    },
+    {
+      "text": "utility like crazy right and that&#39;s what",
+      "duration": 4.4,
+      "offset": 1260.52,
+      "lang": "en"
+    },
+    {
+      "text": "most of his power comes from but he&#39;s",
+      "duration": 3.16,
+      "offset": 1263.12,
+      "lang": "en"
+    },
+    {
+      "text": "not going to blow up with his fist he&#39;s",
+      "duration": 3.16,
+      "offset": 1264.92,
+      "lang": "en"
+    },
+    {
+      "text": "not going to blast you with a spell but",
+      "duration": 3.04,
+      "offset": 1266.28,
+      "lang": "en"
+    },
+    {
+      "text": "he&#39;s going to work within the team in",
+      "duration": 3.0,
+      "offset": 1268.08,
+      "lang": "en"
+    },
+    {
+      "text": "these really unusual ways that either",
+      "duration": 3.36,
+      "offset": 1269.32,
+      "lang": "en"
+    },
+    {
+      "text": "make plays or don&#39;t depending on the",
+      "duration": 4.08,
+      "offset": 1271.08,
+      "lang": "en"
+    },
+    {
+      "text": "cooperation so quick match for us is an",
+      "duration": 4.72,
+      "offset": 1272.68,
+      "lang": "en"
+    },
+    {
+      "text": "extension of that core philosophy of we",
+      "duration": 4.16,
+      "offset": 1275.16,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t want a stale meta we don&#39;t even",
+      "duration": 3.84,
+      "offset": 1277.4,
+      "lang": "en"
+    },
+    {
+      "text": "want a particularly stable meta we",
+      "duration": 3.56,
+      "offset": 1279.32,
+      "lang": "en"
+    },
+    {
+      "text": "really want this to be an environment",
+      "duration": 4.0,
+      "offset": 1281.24,
+      "lang": "en"
+    },
+    {
+      "text": "where anything can and will happen now",
+      "duration": 3.96,
+      "offset": 1282.88,
+      "lang": "en"
+    },
+    {
+      "text": "obviously once we get to Hero league and",
+      "duration": 2.88,
+      "offset": 1285.24,
+      "lang": "en"
+    },
+    {
+      "text": "to Team league we&#39;re dealing with this",
+      "duration": 2.68,
+      "offset": 1286.84,
+      "lang": "en"
+    },
+    {
+      "text": "space with bands and drafts where",
+      "duration": 3.84,
+      "offset": 1288.12,
+      "lang": "en"
+    },
+    {
+      "text": "players have the capability and we&#39;re",
+      "duration": 6.24,
+      "offset": 1289.52,
+      "lang": "en"
+    },
+    {
+      "text": "even sort of asking them make a meta",
+      "duration": 6.28,
+      "offset": 1291.96,
+      "lang": "en"
+    },
+    {
+      "text": "Define the rules restrict the play",
+      "duration": 4.96,
+      "offset": 1295.76,
+      "lang": "en"
+    },
+    {
+      "text": "reduce the variables destroy as much fun",
+      "duration": 3.56,
+      "offset": 1298.24,
+      "lang": "en"
+    },
+    {
+      "text": "as possible to make sure it&#39;s as",
+      "duration": 2.52,
+      "offset": 1300.72,
+      "lang": "en"
+    },
+    {
+      "text": "competitive as possible get those Heroes",
+      "duration": 2.72,
+      "offset": 1301.8,
+      "lang": "en"
+    },
+    {
+      "text": "out because they&#39;re no good only focus",
+      "duration": 3.24,
+      "offset": 1303.24,
+      "lang": "en"
+    },
+    {
+      "text": "on these 14 or these 16 or these 20 or",
+      "duration": 2.84,
+      "offset": 1304.52,
+      "lang": "en"
+    },
+    {
+      "text": "whatever we can make and we&#39;re going do",
+      "duration": 2.08,
+      "offset": 1306.48,
+      "lang": "en"
+    },
+    {
+      "text": "everything we can to make all the heroes",
+      "duration": 3.12,
+      "offset": 1307.36,
+      "lang": "en"
+    },
+    {
+      "text": "viable but but there&#39;s going to be a",
+      "duration": 3.12,
+      "offset": 1308.56,
+      "lang": "en"
+    },
+    {
+      "text": "meta in that space and that&#39;s going to",
+      "duration": 2.56,
+      "offset": 1310.48,
+      "lang": "en"
+    },
+    {
+      "text": "be cool for that environment and quick",
+      "duration": 4.2,
+      "offset": 1311.68,
+      "lang": "en"
+    },
+    {
+      "text": "match is quick match quick match is a",
+      "duration": 4.52,
+      "offset": 1313.04,
+      "lang": "en"
+    },
+    {
+      "text": "space where anything can and will happen",
+      "duration": 3.32,
+      "offset": 1315.88,
+      "lang": "en"
+    },
+    {
+      "text": "now there may be more scenarios that I&#39;m",
+      "duration": 3.04,
+      "offset": 1317.56,
+      "lang": "en"
+    },
+    {
+      "text": "not aware of that require more rules and",
+      "duration": 2.88,
+      "offset": 1319.2,
+      "lang": "en"
+    },
+    {
+      "text": "maybe melee and range is one of those",
+      "duration": 2.92,
+      "offset": 1320.6,
+      "lang": "en"
+    },
+    {
+      "text": "the more rules we add the worse the",
+      "duration": 3.08,
+      "offset": 1322.08,
+      "lang": "en"
+    },
+    {
+      "text": "matchmaking becomes so I&#39;m resistant",
+      "duration": 3.88,
+      "offset": 1323.52,
+      "lang": "en"
+    },
+    {
+      "text": "also the more rules we have the more it",
+      "duration": 3.68,
+      "offset": 1325.16,
+      "lang": "en"
+    },
+    {
+      "text": "doesn&#39;t become quick match anymore it",
+      "duration": 3.68,
+      "offset": 1327.4,
+      "lang": "en"
+    },
+    {
+      "text": "becomes find me four guys to help me win",
+      "duration": 4.52,
+      "offset": 1328.84,
+      "lang": "en"
+    },
+    {
+      "text": "a game which is not really the goal of",
+      "duration": 3.72,
+      "offset": 1331.08,
+      "lang": "en"
+    },
+    {
+      "text": "quick match the goal of quick match",
+      "duration": 3.44,
+      "offset": 1333.36,
+      "lang": "en"
+    },
+    {
+      "text": "really is I want to get in the game with",
+      "duration": 3.56,
+      "offset": 1334.8,
+      "lang": "en"
+    },
+    {
+      "text": "this hero and I don&#39;t really care who",
+      "duration": 3.48,
+      "offset": 1336.8,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m playing with exactly I want skill",
+      "duration": 2.96,
+      "offset": 1338.36,
+      "lang": "en"
+    },
+    {
+      "text": "level to be the same but I don&#39;t know",
+      "duration": 2.08,
+      "offset": 1340.28,
+      "lang": "en"
+    },
+    {
+      "text": "who I&#39;m going to get like I just want to",
+      "duration": 2.36,
+      "offset": 1341.32,
+      "lang": "en"
+    },
+    {
+      "text": "play Lee Ming can I just play Lee Ming",
+      "duration": 3.16,
+      "offset": 1342.36,
+      "lang": "en"
+    },
+    {
+      "text": "sure you can play Lee Ming do I get a",
+      "duration": 4.04,
+      "offset": 1343.68,
+      "lang": "en"
+    },
+    {
+      "text": "tank I don&#39;t know um we&#39;re going to see",
+      "duration": 3.44,
+      "offset": 1345.52,
+      "lang": "en"
+    },
+    {
+      "text": "what happens but that that&#39;s our",
+      "duration": 3.0,
+      "offset": 1347.72,
+      "lang": "en"
+    },
+    {
+      "text": "position and we&#39;ve been certainly",
+      "duration": 3.36,
+      "offset": 1348.96,
+      "lang": "en"
+    },
+    {
+      "text": "hearing from players that they wish",
+      "duration": 3.36,
+      "offset": 1350.72,
+      "lang": "en"
+    },
+    {
+      "text": "quick match was a different mode they",
+      "duration": 4.64,
+      "offset": 1352.32,
+      "lang": "en"
+    },
+    {
+      "text": "wish that quick match was go find me a",
+      "duration": 5.36,
+      "offset": 1354.08,
+      "lang": "en"
+    },
+    {
+      "text": "great composition that meets my needs uh",
+      "duration": 4.24,
+      "offset": 1356.96,
+      "lang": "en"
+    },
+    {
+      "text": "I chose Lee Ming so I get a support and",
+      "duration": 4.12,
+      "offset": 1359.44,
+      "lang": "en"
+    },
+    {
+      "text": "I get a warrior and I get one melee DPS",
+      "duration": 4.04,
+      "offset": 1361.2,
+      "lang": "en"
+    },
+    {
+      "text": "and I get one other range DPS",
+      "duration": 3.76,
+      "offset": 1363.56,
+      "lang": "en"
+    },
+    {
+      "text": "Specialists have no role in in this",
+      "duration": 3.28,
+      "offset": 1365.24,
+      "lang": "en"
+    },
+    {
+      "text": "moment right because I don&#39;t know how to",
+      "duration": 3.0,
+      "offset": 1367.32,
+      "lang": "en"
+    },
+    {
+      "text": "fit them in right um medivh doesn&#39;t ever",
+      "duration": 3.24,
+      "offset": 1368.52,
+      "lang": "en"
+    },
+    {
+      "text": "play because because I don&#39;t know what",
+      "duration": 2.84,
+      "offset": 1370.32,
+      "lang": "en"
+    },
+    {
+      "text": "he is and that&#39;s not what I came for I",
+      "duration": 3.44,
+      "offset": 1371.76,
+      "lang": "en"
+    },
+    {
+      "text": "want I want but um this spefic thing but",
+      "duration": 4.0,
+      "offset": 1373.16,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s that&#39;s we&#39;re viewing that as as",
+      "duration": 4.4,
+      "offset": 1375.2,
+      "lang": "en"
+    },
+    {
+      "text": "as draft if you w to build the perfect",
+      "duration": 5.4,
+      "offset": 1377.16,
+      "lang": "en"
+    },
+    {
+      "text": "comp go to draft um but if you just want",
+      "duration": 4.32,
+      "offset": 1379.6,
+      "lang": "en"
+    },
+    {
+      "text": "to play your hero and you don&#39;t mind",
+      "duration": 2.84,
+      "offset": 1382.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to a place where who knows what",
+      "duration": 3.48,
+      "offset": 1383.92,
+      "lang": "en"
+    },
+    {
+      "text": "will happen next we think quick match is",
+      "duration": 3.56,
+      "offset": 1385.4,
+      "lang": "en"
+    },
+    {
+      "text": "where it&#39;s at and I&#39;ll add further that",
+      "duration": 2.6,
+      "offset": 1387.4,
+      "lang": "en"
+    },
+    {
+      "text": "while you do definitely get the game",
+      "duration": 2.96,
+      "offset": 1388.96,
+      "lang": "en"
+    },
+    {
+      "text": "where you&#39;ve got four Warriors and the",
+      "duration": 3.56,
+      "offset": 1390.0,
+      "lang": "en"
+    },
+    {
+      "text": "other team has one and you&#39;re like okay",
+      "duration": 2.88,
+      "offset": 1391.92,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t know what we&#39;re going to do here",
+      "duration": 3.68,
+      "offset": 1393.56,
+      "lang": "en"
+    },
+    {
+      "text": "right um you also get the game you know",
+      "duration": 4.68,
+      "offset": 1394.8,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s all Specialists and all assassins",
+      "duration": 3.36,
+      "offset": 1397.24,
+      "lang": "en"
+    },
+    {
+      "text": "and suddenly the game is a whole",
+      "duration": 2.64,
+      "offset": 1399.48,
+      "lang": "en"
+    },
+    {
+      "text": "different game and it&#39;s an absolute",
+      "duration": 3.36,
+      "offset": 1400.6,
+      "lang": "en"
+    },
+    {
+      "text": "blast so I I don&#39;t know we&#39;re open to it",
+      "duration": 3.16,
+      "offset": 1402.12,
+      "lang": "en"
+    },
+    {
+      "text": "but we we definitely feel like quick",
+      "duration": 3.04,
+      "offset": 1403.96,
+      "lang": "en"
+    },
+    {
+      "text": "match for many of our players is kind of",
+      "duration": 2.8,
+      "offset": 1405.28,
+      "lang": "en"
+    },
+    {
+      "text": "working and it&#39;s something we&#39;re very",
+      "duration": 2.56,
+      "offset": 1407.0,
+      "lang": "en"
+    },
+    {
+      "text": "passionate about you called it the",
+      "duration": 3.6,
+      "offset": 1408.08,
+      "lang": "en"
+    },
+    {
+      "text": "Anything Can Happen mode in the past and",
+      "duration": 3.72,
+      "offset": 1409.56,
+      "lang": "en"
+    },
+    {
+      "text": "I mean catering towards the spirit of",
+      "duration": 3.6,
+      "offset": 1411.68,
+      "lang": "en"
+    },
+    {
+      "text": "what you just explained do you feel that",
+      "duration": 4.24,
+      "offset": 1413.28,
+      "lang": "en"
+    },
+    {
+      "text": "there might be space for like certain",
+      "duration": 3.96,
+      "offset": 1415.28,
+      "lang": "en"
+    },
+    {
+      "text": "maps that only appear in quick match",
+      "duration": 3.4,
+      "offset": 1417.52,
+      "lang": "en"
+    },
+    {
+      "text": "that have for example certain random",
+      "duration": 3.68,
+      "offset": 1419.24,
+      "lang": "en"
+    },
+    {
+      "text": "elements or like random stuff happening",
+      "duration": 3.92,
+      "offset": 1420.92,
+      "lang": "en"
+    },
+    {
+      "text": "on the game we saw things like this in",
+      "duration": 3.44,
+      "offset": 1422.92,
+      "lang": "en"
+    },
+    {
+      "text": "Starcraft at certain tournaments where",
+      "duration": 2.88,
+      "offset": 1424.84,
+      "lang": "en"
+    },
+    {
+      "text": "you could all of a sudden like flood the",
+      "duration": 3.52,
+      "offset": 1426.36,
+      "lang": "en"
+    },
+    {
+      "text": "entire map with lava or stuff just like",
+      "duration": 3.68,
+      "offset": 1427.72,
+      "lang": "en"
+    },
+    {
+      "text": "random stuff I mean I&#39;m going over the",
+      "duration": 2.92,
+      "offset": 1429.88,
+      "lang": "en"
+    },
+    {
+      "text": "top here a little bit but if you say",
+      "duration": 2.76,
+      "offset": 1431.4,
+      "lang": "en"
+    },
+    {
+      "text": "like the anything can happen more just",
+      "duration": 3.16,
+      "offset": 1432.8,
+      "lang": "en"
+    },
+    {
+      "text": "like having a map that wouldn&#39;t work in",
+      "duration": 3.2,
+      "offset": 1434.16,
+      "lang": "en"
+    },
+    {
+      "text": "comparative because you need stable",
+      "duration": 3.4,
+      "offset": 1435.96,
+      "lang": "en"
+    },
+    {
+      "text": "elements there but that would allow for",
+      "duration": 3.72,
+      "offset": 1437.36,
+      "lang": "en"
+    },
+    {
+      "text": "like certain random effects to happen on",
+      "duration": 3.88,
+      "offset": 1439.36,
+      "lang": "en"
+    },
+    {
+      "text": "the map that just cater towards that is",
+      "duration": 3.0,
+      "offset": 1441.08,
+      "lang": "en"
+    },
+    {
+      "text": "that something that you guys have",
+      "duration": 2.2,
+      "offset": 1443.24,
+      "lang": "en"
+    },
+    {
+      "text": "already thought about uh it&#39;s something",
+      "duration": 2.36,
+      "offset": 1444.08,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve talked about we&#39;ve talked about it",
+      "duration": 3.0,
+      "offset": 1445.44,
+      "lang": "en"
+    },
+    {
+      "text": "more for arena we feel like that&#39;s the",
+      "duration": 3.44,
+      "offset": 1446.44,
+      "lang": "en"
+    },
+    {
+      "text": "place for those kinds of game modes and",
+      "duration": 3.32,
+      "offset": 1448.44,
+      "lang": "en"
+    },
+    {
+      "text": "so we&#39;re really looking at Arena as",
+      "duration": 3.52,
+      "offset": 1449.88,
+      "lang": "en"
+    },
+    {
+      "text": "maybe more of a Tavern brawl mode if",
+      "duration": 3.8,
+      "offset": 1451.76,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve played any Hearthstone um where",
+      "duration": 3.48,
+      "offset": 1453.4,
+      "lang": "en"
+    },
+    {
+      "text": "anything can and will happen and we&#39;re",
+      "duration": 3.16,
+      "offset": 1455.56,
+      "lang": "en"
+    },
+    {
+      "text": "rotating what does happen on a weekly or",
+      "duration": 3.84,
+      "offset": 1456.88,
+      "lang": "en"
+    },
+    {
+      "text": "bi-weekly basis um we showed some Arena",
+      "duration": 4.16,
+      "offset": 1458.72,
+      "lang": "en"
+    },
+    {
+      "text": "last year uh you know at BlizzCon and we",
+      "duration": 3.96,
+      "offset": 1460.72,
+      "lang": "en"
+    },
+    {
+      "text": "thought it was pretty cool but all the",
+      "duration": 3.64,
+      "offset": 1462.88,
+      "lang": "en"
+    },
+    {
+      "text": "maps were in a similar theme you know",
+      "duration": 3.96,
+      "offset": 1464.68,
+      "lang": "en"
+    },
+    {
+      "text": "you get a you get choice of three random",
+      "duration": 3.84,
+      "offset": 1466.52,
+      "lang": "en"
+    },
+    {
+      "text": "Heroes and you go into a very small type",
+      "duration": 2.76,
+      "offset": 1468.64,
+      "lang": "en"
+    },
+    {
+      "text": "Battleground and there&#39;s different",
+      "duration": 2.6,
+      "offset": 1470.36,
+      "lang": "en"
+    },
+    {
+      "text": "Battlegrounds we&#39;re fighting on um we",
+      "duration": 3.8,
+      "offset": 1471.4,
+      "lang": "en"
+    },
+    {
+      "text": "introduced an aam map recently um the",
+      "duration": 3.48,
+      "offset": 1472.96,
+      "lang": "en"
+    },
+    {
+      "text": "only playing custom game but that&#39;s the",
+      "duration": 2.24,
+      "offset": 1475.2,
+      "lang": "en"
+    },
+    {
+      "text": "kind of thing that would go right into",
+      "duration": 3.12,
+      "offset": 1476.44,
+      "lang": "en"
+    },
+    {
+      "text": "Arena as well and be available um in",
+      "duration": 3.6,
+      "offset": 1477.44,
+      "lang": "en"
+    },
+    {
+      "text": "Arena so I think we&#39;re viewing Arena as",
+      "duration": 3.24,
+      "offset": 1479.56,
+      "lang": "en"
+    },
+    {
+      "text": "kind of that really crazy on the",
+      "duration": 3.48,
+      "offset": 1481.04,
+      "lang": "en"
+    },
+    {
+      "text": "Battleground side where things can get",
+      "duration": 3.6,
+      "offset": 1482.8,
+      "lang": "en"
+    },
+    {
+      "text": "really nutty and um it&#39;s certainly a",
+      "duration": 2.76,
+      "offset": 1484.52,
+      "lang": "en"
+    },
+    {
+      "text": "place we could experiment with those",
+      "duration": 2.88,
+      "offset": 1486.4,
+      "lang": "en"
+    },
+    {
+      "text": "ideas and if we liked a Battleground in",
+      "duration": 4.24,
+      "offset": 1487.28,
+      "lang": "en"
+    },
+    {
+      "text": "there we could consider it um we have",
+      "duration": 4.8,
+      "offset": 1489.28,
+      "lang": "en"
+    },
+    {
+      "text": "talked about having a split pool for",
+      "duration": 4.8,
+      "offset": 1491.52,
+      "lang": "en"
+    },
+    {
+      "text": "quick match and for hero League um as a",
+      "duration": 3.8,
+      "offset": 1494.08,
+      "lang": "en"
+    },
+    {
+      "text": "possibility and for Team league as well",
+      "duration": 2.88,
+      "offset": 1496.32,
+      "lang": "en"
+    },
+    {
+      "text": "and we can certainly still discuss I&#39;m",
+      "duration": 2.8,
+      "offset": 1497.88,
+      "lang": "en"
+    },
+    {
+      "text": "open to that feedback one of the",
+      "duration": 3.8,
+      "offset": 1499.2,
+      "lang": "en"
+    },
+    {
+      "text": "concerns we have about that is that that",
+      "duration": 3.72,
+      "offset": 1500.68,
+      "lang": "en"
+    },
+    {
+      "text": "transition could be much more difficult",
+      "duration": 3.08,
+      "offset": 1503.0,
+      "lang": "en"
+    },
+    {
+      "text": "for players even even if it&#39;s like",
+      "duration": 3.08,
+      "offset": 1504.4,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re playing quick match and then the",
+      "duration": 3.4,
+      "offset": 1506.08,
+      "lang": "en"
+    },
+    {
+      "text": "next game you play Hero League like wait",
+      "duration": 3.16,
+      "offset": 1507.48,
+      "lang": "en"
+    },
+    {
+      "text": "what are these Maps again right",
+      "duration": 2.36,
+      "offset": 1509.48,
+      "lang": "en"
+    },
+    {
+      "text": "depending on what&#39;s in there um and",
+      "duration": 2.24,
+      "offset": 1510.64,
+      "lang": "en"
+    },
+    {
+      "text": "certainly for players coming up through",
+      "duration": 3.44,
+      "offset": 1511.84,
+      "lang": "en"
+    },
+    {
+      "text": "the ranks so I I think we&#39;d like to keep",
+      "duration": 4.08,
+      "offset": 1512.88,
+      "lang": "en"
+    },
+    {
+      "text": "him the same from now and I think we",
+      "duration": 4.2,
+      "offset": 1515.28,
+      "lang": "en"
+    },
+    {
+      "text": "make Arena the the crazy town but maybe",
+      "duration": 3.6,
+      "offset": 1516.96,
+      "lang": "en"
+    },
+    {
+      "text": "not I mean that that that&#39;s certainly an",
+      "duration": 3.76,
+      "offset": 1519.48,
+      "lang": "en"
+    },
+    {
+      "text": "open discussion one last question um we",
+      "duration": 4.12,
+      "offset": 1520.56,
+      "lang": "en"
+    },
+    {
+      "text": "talked about Maps a little bit and one",
+      "duration": 3.28,
+      "offset": 1523.24,
+      "lang": "en"
+    },
+    {
+      "text": "of the things that have also popped up",
+      "duration": 3.12,
+      "offset": 1524.68,
+      "lang": "en"
+    },
+    {
+      "text": "in the community and that you already",
+      "duration": 3.04,
+      "offset": 1526.52,
+      "lang": "en"
+    },
+    {
+      "text": "have implemented in Starcraft is that if",
+      "duration": 3.48,
+      "offset": 1527.8,
+      "lang": "en"
+    },
+    {
+      "text": "you queue for games you can actually",
+      "duration": 3.16,
+      "offset": 1529.56,
+      "lang": "en"
+    },
+    {
+      "text": "download certain maps that you can say",
+      "duration": 2.56,
+      "offset": 1531.28,
+      "lang": "en"
+    },
+    {
+      "text": "like okay this is a map that I don&#39;t",
+      "duration": 2.64,
+      "offset": 1532.72,
+      "lang": "en"
+    },
+    {
+      "text": "want to play is that something that you",
+      "duration": 3.16,
+      "offset": 1533.84,
+      "lang": "en"
+    },
+    {
+      "text": "are thinking about introducing into hero",
+      "duration": 2.88,
+      "offset": 1535.36,
+      "lang": "en"
+    },
+    {
+      "text": "league as well that a player can for",
+      "duration": 2.84,
+      "offset": 1537.0,
+      "lang": "en"
+    },
+    {
+      "text": "example say I hate playing on black",
+      "duration": 3.52,
+      "offset": 1538.24,
+      "lang": "en"
+    },
+    {
+      "text": "hearts Bay in hero League I want to just",
+      "duration": 4.6,
+      "offset": 1539.84,
+      "lang": "en"
+    },
+    {
+      "text": "not play this map ever um we some we",
+      "duration": 4.24,
+      "offset": 1541.76,
+      "lang": "en"
+    },
+    {
+      "text": "talked about it frequently one of the",
+      "duration": 2.92,
+      "offset": 1544.44,
+      "lang": "en"
+    },
+    {
+      "text": "challenges we have with it with 10",
+      "duration": 4.2,
+      "offset": 1546.0,
+      "lang": "en"
+    },
+    {
+      "text": "players we would need at least 11 or 12",
+      "duration": 5.88,
+      "offset": 1547.36,
+      "lang": "en"
+    },
+    {
+      "text": "maps in the pool to really make sure",
+      "duration": 5.2,
+      "offset": 1550.2,
+      "lang": "en"
+    },
+    {
+      "text": "that everybody&#39;s vote was meaningful",
+      "duration": 3.28,
+      "offset": 1553.24,
+      "lang": "en"
+    },
+    {
+      "text": "otherwise there&#39;s a good chunk of the",
+      "duration": 2.32,
+      "offset": 1555.4,
+      "lang": "en"
+    },
+    {
+      "text": "time you&#39;re going to down vote a map and",
+      "duration": 3.04,
+      "offset": 1556.52,
+      "lang": "en"
+    },
+    {
+      "text": "still going to get it because everybody",
+      "duration": 3.64,
+      "offset": 1557.72,
+      "lang": "en"
+    },
+    {
+      "text": "down voted different Maps or or whatever",
+      "duration": 3.56,
+      "offset": 1559.56,
+      "lang": "en"
+    },
+    {
+      "text": "it was and so we feel like that&#39;s kind",
+      "duration": 3.16,
+      "offset": 1561.36,
+      "lang": "en"
+    },
+    {
+      "text": "of a weird experience like I don&#39;t want",
+      "duration": 2.44,
+      "offset": 1563.12,
+      "lang": "en"
+    },
+    {
+      "text": "to see black carts spay here&#39;s black",
+      "duration": 3.28,
+      "offset": 1564.52,
+      "lang": "en"
+    },
+    {
+      "text": "carts Bay what did I just say to you I",
+      "duration": 3.48,
+      "offset": 1565.56,
+      "lang": "en"
+    },
+    {
+      "text": "just said I don&#39;t want to see it like",
+      "duration": 2.56,
+      "offset": 1567.8,
+      "lang": "en"
+    },
+    {
+      "text": "here it is because you know everybody",
+      "duration": 2.6,
+      "offset": 1569.04,
+      "lang": "en"
+    },
+    {
+      "text": "else banned things they didn&#39;t want to",
+      "duration": 3.88,
+      "offset": 1570.36,
+      "lang": "en"
+    },
+    {
+      "text": "do and so um in in the 10 V10 it&#39;s a",
+      "duration": 4.68,
+      "offset": 1571.64,
+      "lang": "en"
+    },
+    {
+      "text": "little harder than it is in the 1 V one",
+      "duration": 3.52,
+      "offset": 1574.24,
+      "lang": "en"
+    },
+    {
+      "text": "um in some ways I&#39;d rather just fix",
+      "duration": 3.36,
+      "offset": 1576.32,
+      "lang": "en"
+    },
+    {
+      "text": "black hearts Bay but but we&#39;re certainly",
+      "duration": 4.84,
+      "offset": 1577.76,
+      "lang": "en"
+    },
+    {
+      "text": "open to it um as a possibility and we&#39;re",
+      "duration": 4.24,
+      "offset": 1579.68,
+      "lang": "en"
+    },
+    {
+      "text": "looking for different systems that can",
+      "duration": 3.32,
+      "offset": 1582.6,
+      "lang": "en"
+    },
+    {
+      "text": "sort of allow for that thank you very",
+      "duration": 3.0,
+      "offset": 1583.92,
+      "lang": "en"
+    },
+    {
+      "text": "much Dustin thanks a lot for the",
+      "duration": 2.2,
+      "offset": 1585.92,
+      "lang": "en"
+    },
+    {
+      "text": "interview great",
+      "duration": 4.2,
+      "offset": 1586.92,
+      "lang": "en"
+    },
+    {
+      "text": "say",
+      "duration": 3.0,
+      "offset": 1588.12,
+      "lang": "en"
+    }
+  ]
+}

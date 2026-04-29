@@ -1,0 +1,90 @@
+{
+  "research_key": "ANTHROPIC",
+  "started_at": "2026-04-17T13:44:38",
+  "channels": {
+    "web_longform": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "ANTHROPIC",
+        "--channels",
+        "web_longform",
+        "--max-queries",
+        "3"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-17T13:44:38",
+      "finished_at": "2026-04-17T13:45:01",
+      "stdout_tail": "\n[web_longform] discovering sources for ANTHROPIC\n  [web_longform] query 1/3: Anthropic Dario Amodei interview transcript\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [web_longform] query 2/3: Anthropic Daniela Amodei hiring culture interview\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [web_longform] query 3/3: Anthropic Claude Code enterprise adoption analysis\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  web_longform: 3 fetched, 7 non-fetched, 10 indexed\n",
+      "stderr_tail": ""
+    },
+    "social_community": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "ANTHROPIC",
+        "--channels",
+        "social_community",
+        "--max-queries",
+        "3"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-17T13:45:01",
+      "finished_at": "2026-04-17T13:45:24",
+      "stdout_tail": "\n[social_community] discovering sources for ANTHROPIC\n  [social_community] query 1/3: Anthropic Claude Code developer adoption Reddit Hacker News\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [social_community] query 2/3: Anthropic Claude Code vs Cursor Reddit\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [social_community] query 3/3: Anthropic Model Context Protocol Hacker News\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  social_community: 0 fetched, 9 non-fetched, 9 indexed\n",
+      "stderr_tail": ""
+    },
+    "funding_compute": {
+      "command": [
+        "/opt/anaconda3/bin/python3",
+        "scripts/discovery/fetch_web_sources.py",
+        "--target",
+        "ANTHROPIC",
+        "--channels",
+        "funding_compute",
+        "--max-queries",
+        "3"
+      ],
+      "returncode": 0,
+      "started_at": "2026-04-17T13:45:24",
+      "finished_at": "2026-04-17T13:45:42",
+      "stdout_tail": "\n[funding_compute] discovering sources for ANTHROPIC\n  [funding_compute] query 1/3: Anthropic funding valuation 2026 revenue run rate\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [funding_compute] query 2/3: Anthropic compute commitment Microsoft Nvidia Amazon Google 2026\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n  [funding_compute] query 3/3: Anthropic Series G 380 billion valuation AP Reuters\n  API Error 401: {\"error\":{\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information, visit https://www.perplexity.ai/settings/api.\",\"type\":\"insufficient_quota\",\"code\n\nWeb source collection summary:\n  funding_compute: 1 fetched, 5 non-fetched, 6 indexed\n",
+      "stderr_tail": ""
+    }
+  },
+  "sync": {
+    "web_longform": {
+      "copied": 6,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/unknown_impact-software-development.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/unknown_ai-index-march-2026.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/unknown_economic-index-march-2026-report.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/web/_collection_status.json"
+      ]
+    },
+    "social_community": {
+      "copied": 3,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/social/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/social/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/social/_collection_status.json"
+      ]
+    },
+    "funding_compute": {
+      "copied": 4,
+      "files": [
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/funding/unknown_anthropic-valuation.md",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/funding/_url_index.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/funding/_collection_failures.json",
+        "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/vault/funding/_collection_status.json"
+      ]
+    }
+  },
+  "source_inventory": "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/analysis/Anthropic_source_inventory_2026-04-17.md",
+  "evidence_map": "/Users/leafsun/Desktop/AI Org研究/companies/anthropic/analysis/Anthropic_evidence_map_2026-04-17.md",
+  "finished_at": "2026-04-17T13:45:42"
+}

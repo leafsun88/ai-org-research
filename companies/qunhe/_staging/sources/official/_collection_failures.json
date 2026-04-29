@@ -1,0 +1,30 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.manycoretech.com",
+    "title": "www.manycoretech.com",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.kujiale.com/",
+    "title": "www.kujiale.com",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.coohom.com/",
+    "title": "www.coohom.com",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.prnewswire.com/news-releases/manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+    "title": "manycore-tech-debuts-on-hkex-as-the-worlds-first-spatial-intelligence-company-302745593.html",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

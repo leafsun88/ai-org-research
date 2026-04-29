@@ -1,0 +1,88 @@
+{
+  "research_key": "CURSOR",
+  "company": "Anysphere",
+  "channel": "products",
+  "generated_at": "2026-04-20T17:55:57",
+  "total_records": 11,
+  "success_records": 10,
+  "failure_records": 1,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://cursor.com/product",
+      "title": "product",
+      "chars": 21118,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_product.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/product/tab",
+      "title": "tab",
+      "chars": 6878,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_tab.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/bugbot",
+      "title": "bugbot",
+      "chars": 7372,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_bugbot.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/changelog",
+      "title": "changelog",
+      "chars": 20054,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_changelog.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/tab-update",
+      "title": "tab-update",
+      "chars": 6960,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_tab-update.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/tab-rl",
+      "title": "tab-rl",
+      "chars": 13666,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_tab-rl.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/problems-2024",
+      "title": "problems-2024",
+      "chars": 14770,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_problems-2024.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/shadow-workspace",
+      "title": "shadow-workspace",
+      "chars": 47826,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_shadow-workspace.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/prompt-design",
+      "title": "prompt-design",
+      "chars": 13570,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_prompt-design.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://cursor.com/resources/Composer2.pdf",
+      "title": "Composer2.pdf",
+      "error": "Unsupported content type: application/pdf",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/graphite",
+      "title": "graphite",
+      "chars": 2622,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/products/unknown_graphite.md"
+    }
+  ]
+}

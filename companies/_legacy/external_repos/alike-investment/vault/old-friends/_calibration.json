@@ -1,0 +1,598 @@
+{
+  "version": "2.0",
+  "description": "D1-D7校准矩阵 — 7位Old Friends提供每个维度的标杆刻度",
+  "last_updated": "2026-04-07",
+  "old_friends": [
+    "netflix",
+    "pdd",
+    "applovin",
+    "meta",
+    "shopify",
+    "nvidia",
+    "anthropic"
+  ],
+  "score_matrix": {
+    "netflix": {
+      "d1": 5.0,
+      "d2": 5.0,
+      "d3": 5.0,
+      "d4": 5.0,
+      "d5": 5.0,
+      "d6": 5.0,
+      "d7": 5.0,
+      "fit": 5.0
+    },
+    "pdd": {
+      "d1": 5.0,
+      "d2": 5.0,
+      "d3": 5.0,
+      "d4": 5.0,
+      "d5": 5.0,
+      "d6": 4.0,
+      "d7": 5.0,
+      "fit": 5.0
+    },
+    "applovin": {
+      "d1": 5.0,
+      "d2": 5.0,
+      "d3": 5.0,
+      "d4": 5.0,
+      "d5": 5.0,
+      "d6": 5.0,
+      "d7": 4.5,
+      "fit": 5.0
+    },
+    "meta": {
+      "d1": 4.5,
+      "d2": 4.0,
+      "d3": 4.5,
+      "d4": 5.0,
+      "d5": 4.0,
+      "d6": 3.5,
+      "d7": 3.5,
+      "fit": 4.0
+    },
+    "shopify": {
+      "d1": 5.0,
+      "d2": 4.5,
+      "d3": 4.5,
+      "d4": 5.0,
+      "d5": 5.0,
+      "d6": 4.5,
+      "d7": 4.0,
+      "fit": 5.0
+    },
+    "nvidia": {
+      "d1": 5.0,
+      "d2": 4.0,
+      "d3": 4.5,
+      "d4": 5.0,
+      "d5": 4.5,
+      "d6": 5.0,
+      "d7": 5.0,
+      "fit": 5.0
+    },
+    "anthropic": {
+      "d1": 4.5,
+      "d2": 4.0,
+      "d3": 5.0,
+      "d4": 3.0,
+      "d5": 4.5,
+      "d6": 5.0,
+      "d7": 5.0,
+      "fit": 5.0
+    }
+  },
+  "dimensions": {
+    "d1_ceo_cognition": {
+      "weight": 0.2,
+      "label": "CEO认知质量",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "person": "Reed Hastings",
+            "evidence": "5次战略转型每次都敢自我颠覆，第一性原理思考+系统化组织哲学"
+          },
+          {
+            "company": "pdd",
+            "person": "Colin Huang/黄峥",
+            "evidence": "'60分万岁'+'敢为天下后'决策框架，'染色'逻辑的制度设计"
+          },
+          {
+            "company": "applovin",
+            "person": "Adam Foroughi",
+            "evidence": "HC执念、MAX战略超前布局、危机中提拔葛小川的判断力"
+          },
+          {
+            "company": "shopify",
+            "person": "Tobi Lütke",
+            "evidence": "Vision驱动不看指标、GSD系统CEO全项目穿透"
+          },
+          {
+            "company": "nvidia",
+            "person": "Jensen Huang",
+            "evidence": "20年CUDA长期主义、One Architecture统一信念、T5T设计"
+          }
+        ],
+        "4.5": [
+          {
+            "company": "meta",
+            "person": "Mark Zuckerberg",
+            "evidence": "极端现实主义+理想主义结合，hands-on极高，但AI范式判断存疑"
+          },
+          {
+            "company": "anthropic",
+            "person": "Dario Amodei",
+            "evidence": "递归飞轮战略清晰，评分基于间接推断"
+          }
+        ],
+        "3.5": []
+      }
+    },
+    "d2_key_leader": {
+      "weight": 0.15,
+      "label": "Key Leader深度",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "persons": "Ted Sarandos + Greg Peters",
+            "evidence": "Co-CEO模式，Reed退出后无缝接管"
+          },
+          {
+            "company": "pdd",
+            "persons": "阿布+冬枣+土豆+葡萄",
+            "evidence": "四柱支撑，黄峥退后公司不受影响"
+          },
+          {
+            "company": "applovin",
+            "persons": "葛小川 + Basil",
+            "evidence": "葛小川单人覆盖10-15个VP决策范围"
+          }
+        ],
+        "4-4.5": [
+          {
+            "company": "shopify",
+            "score": 4.5,
+            "evidence": "Tobi + Kaz Nejatian强组合"
+          },
+          {
+            "company": "nvidia",
+            "score": 4,
+            "evidence": "Jensen集权，关键人物相对隐形"
+          },
+          {
+            "company": "meta",
+            "score": 4,
+            "evidence": "Boz/Cox/Nat强但AI缺visionary"
+          },
+          {
+            "company": "anthropic",
+            "score": 4,
+            "evidence": "Chris Olah/Jared Kaplan各有专长"
+          }
+        ]
+      }
+    },
+    "d3_incentive": {
+      "weight": 0.15,
+      "label": "考核激励机制",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "mechanism": "Keeper Test",
+            "evidence": "无年终奖无绩效评估，pay top of market"
+          },
+          {
+            "company": "pdd",
+            "mechanism": "解题优先于业绩+全层级赛马",
+            "evidence": "强制10%流动性"
+          },
+          {
+            "company": "applovin",
+            "mechanism": "Revenue Impact直接考核",
+            "evidence": "Revenue-Driven Autonomy"
+          },
+          {
+            "company": "anthropic",
+            "mechanism": "Pass/No Pass",
+            "evidence": "消灭内耗"
+          }
+        ],
+        "4.5": [
+          {
+            "company": "meta",
+            "mechanism": "Focus on Impact",
+            "evidence": "精妙但Llama暴露Goodhart's Law"
+          },
+          {
+            "company": "shopify",
+            "mechanism": "黑盒绩效算法",
+            "evidence": "抑制政治化"
+          },
+          {
+            "company": "nvidia",
+            "mechanism": "T5T+不裁员",
+            "evidence": "安全感驱动长期投入"
+          }
+        ],
+        "2.5": []
+      }
+    },
+    "d4_info_architecture": {
+      "weight": 0.1,
+      "label": "信息架构",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "mechanism": "Informed Captain + Context not Control"
+          },
+          {
+            "company": "pdd",
+            "mechanism": "阿布数据罗盘+闺蜜圈+执行审批分离+无固定工位"
+          },
+          {
+            "company": "applovin",
+            "mechanism": "反会议制度化+3个Class极简代码+闭环数据三角"
+          },
+          {
+            "company": "meta",
+            "mechanism": "Workplace+Task+Profile信息基础设施"
+          },
+          {
+            "company": "shopify",
+            "mechanism": "GSD系统+CEO全项目穿透"
+          },
+          {
+            "company": "nvidia",
+            "mechanism": "T5T全员信号网络"
+          }
+        ],
+        "3": [
+          {
+            "company": "anthropic",
+            "evidence": "代码跨组隔离限制协作"
+          }
+        ],
+        "2": []
+      }
+    },
+    "d5_entropy_reduction": {
+      "weight": 0.1,
+      "label": "组织熵减能力",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "mechanism": "No Rules Rules+文化穿越5次转型"
+          },
+          {
+            "company": "pdd",
+            "mechanism": "干电池筛选+逐步出清+系统替代人"
+          },
+          {
+            "company": "applovin",
+            "mechanism": "股价高位裁员+技术换血，人减半营收涨43%"
+          },
+          {
+            "company": "shopify",
+            "mechanism": "Thrive on Change"
+          }
+        ],
+        "4-4.5": [
+          {
+            "company": "nvidia",
+            "score": 4.5
+          },
+          {
+            "company": "anthropic",
+            "score": 4.5
+          },
+          {
+            "company": "meta",
+            "score": 4
+          }
+        ],
+        "3.5": []
+      }
+    },
+    "d6_talent_density": {
+      "weight": 0.15,
+      "label": "Talent Density",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "evidence": "Pay top of market + Keeper Test"
+          },
+          {
+            "company": "applovin",
+            "evidence": "人均创利1000万美元"
+          },
+          {
+            "company": "nvidia",
+            "evidence": "极高技术门槛自然筛选"
+          },
+          {
+            "company": "anthropic",
+            "evidence": "Culture Interview筛选mission-fit"
+          }
+        ],
+        "4-4.5": [
+          {
+            "company": "shopify",
+            "score": 4.5
+          },
+          {
+            "company": "pdd",
+            "score": 4,
+            "note": "有罪推论压缩创造性空间"
+          },
+          {
+            "company": "meta",
+            "score": 3.5,
+            "note": "Llama反向选拔暴露结构问题"
+          }
+        ]
+      }
+    },
+    "d7_key_bet": {
+      "weight": 0.15,
+      "label": "Key Bet质量",
+      "anchors": {
+        "5": [
+          {
+            "company": "netflix",
+            "bets": "DVD→流媒体→原创→全球→广告+游戏"
+          },
+          {
+            "company": "pdd",
+            "bets": "主站→百亿补贴→多多买菜→TEMU"
+          },
+          {
+            "company": "nvidia",
+            "bets": "CUDA 20年+AI算力"
+          },
+          {
+            "company": "anthropic",
+            "bets": "Constitutional AI+Claude系列递归飞轮"
+          }
+        ],
+        "4-4.5": [
+          {
+            "company": "applovin",
+            "score": 4.5,
+            "note": "电商+社交应用待验证"
+          },
+          {
+            "company": "shopify",
+            "score": 4
+          }
+        ],
+        "3.5": [
+          {
+            "company": "meta",
+            "score": 3.5,
+            "note": "Llama 4失败浪费时间窗口"
+          }
+        ]
+      }
+    }
+  },
+  "fit_score": {
+    "label": "组织-业务适配度",
+    "note": "独立于D1-D7的最重要单一判断",
+    "anchors": {
+      "5": [
+        {
+          "company": "netflix",
+          "note": "内容+技术双轮=Informed Captain分布式决策完美适配"
+        },
+        {
+          "company": "pdd",
+          "note": "流通效率=分权制衡+系统替代人"
+        },
+        {
+          "company": "applovin",
+          "note": "预测精度之争=极简组织+Revenue Impact"
+        },
+        {
+          "company": "shopify",
+          "note": "商家赋能=CEO龙卷风+GSD穿透"
+        },
+        {
+          "company": "nvidia",
+          "note": "算力基础设施=One Architecture"
+        },
+        {
+          "company": "anthropic",
+          "note": "前沿AI研发=递归飞轮+Pass/No Pass"
+        }
+      ],
+      "4": [
+        {
+          "company": "meta",
+          "note": "社交广告适配高，但硬件和基础模型研发存在错配"
+        }
+      ]
+    }
+  },
+  "paradigms": {
+    "netflix": "人才密度驱动的分布式决策——用文化替代流程，用淘汰替代激励，用透明替代管控",
+    "pdd": "分权制衡+系统替代人——用机制设计消灭人性弱点，用赛马饱和攻击替代战略预判",
+    "applovin": "算法是果，组织是因——极致人效+Revenue Impact闭环+HC执念",
+    "meta": "用社交网络的方式管理公司——信息透明+Impact驱动+Benevolent Dictator",
+    "shopify": "CEO龙卷风——GSD系统+Vision驱动+Thrive on Change",
+    "nvidia": "One Architecture——十年不变的GPU+CUDA双核+T5T全员信号网络",
+    "anthropic": "递归飞轮——用最好的模型构建下一代模型，组织设计服务于compounding"
+  },
+  "inflection_anchors": {
+    "description": "Old Friends的历史inflection样本——校准'好Timing长什么样'",
+    "org_inflection_patterns": {
+      "ceo_change": {
+        "label": "换帅/创始人角色变化",
+        "examples": [
+          {
+            "company": "netflix",
+            "event": "Reed→Ted+Greg Co-CEO (2023)",
+            "time_lag": "组织变化→业务验证：12个月"
+          },
+          {
+            "company": "pdd",
+            "event": "黄峥退居幕后→阿布接管 (2021)",
+            "time_lag": "退出→TEMU爆发：18个月"
+          },
+          {
+            "company": "meta",
+            "event": "Zuckerberg Year of Efficiency转向 (2023)",
+            "time_lag": "裁员→利润暴涨：6个月"
+          }
+        ]
+      },
+      "reorg": {
+        "label": "大规模重组",
+        "examples": [
+          {
+            "company": "applovin",
+            "event": "砍掉自营游戏+技术换血 (2022-23)",
+            "time_lag": "人减半→营收+43%：12个月"
+          },
+          {
+            "company": "meta",
+            "event": "TBD Lab重组+Llama团队清洗",
+            "time_lag": "进行中"
+          },
+          {
+            "company": "shopify",
+            "event": "裁员20%+Thrive on Change (2023)",
+            "time_lag": "裁员→利润率修复：6个月"
+          }
+        ]
+      },
+      "culture_shift": {
+        "label": "文化变革",
+        "examples": [
+          {
+            "company": "netflix",
+            "event": "引入职级体系 (2022)",
+            "time_lag": "文化迭代→规模化管理成功：24个月"
+          },
+          {
+            "company": "applovin",
+            "event": "从游戏公司→AI效率机器文化转型 (2022)",
+            "time_lag": "文化转型→AXON 2.0验证：12个月"
+          }
+        ]
+      },
+      "talent_tide": {
+        "label": "关键人才大规模流入/流出",
+        "examples": [
+          {
+            "company": "applovin",
+            "event": "游戏团队出清+AI人才引入 (2022-23)",
+            "time_lag": "换血完成→业绩爆发：6-12个月"
+          },
+          {
+            "company": "nvidia",
+            "event": "20年零裁员积累技术人才密度",
+            "time_lag": "持续积累→AI浪潮时全面爆发"
+          }
+        ]
+      }
+    },
+    "biz_inflection_patterns": {
+      "engine_switch": {
+        "label": "B层：增长引擎切换",
+        "examples": [
+          {
+            "company": "netflix",
+            "event": "DVD→流媒体 (2007)",
+            "result": "颠覆Blockbuster，股价10年涨100x"
+          },
+          {
+            "company": "netflix",
+            "event": "授权内容→原创内容 (2013)",
+            "result": "纸牌屋成功，内容成本结构质变"
+          },
+          {
+            "company": "netflix",
+            "event": "纯订阅→AOD+限制密码共享 (2022)",
+            "result": "用户下跌逆转，股价从低点涨3x"
+          },
+          {
+            "company": "pdd",
+            "event": "主站→百亿补贴→多多买菜→TEMU",
+            "result": "每次引擎切换都打开新增长空间"
+          },
+          {
+            "company": "applovin",
+            "event": "游戏发行→广告技术平台 (2022-23)",
+            "result": "AXON 2.0驱动营收利润双爆发"
+          }
+        ]
+      },
+      "asset_quality": {
+        "label": "A层：资产质量拐点",
+        "examples": [
+          {
+            "company": "netflix",
+            "event": "原创内容库达到自给自足 (~2018)",
+            "result": "不再被授权方卡脖子"
+          },
+          {
+            "company": "applovin",
+            "event": "AXON数据飞轮达到规模效应",
+            "result": "广告预测精度>竞品=定价权"
+          },
+          {
+            "company": "nvidia",
+            "event": "CUDA生态20年积累达到lock-in",
+            "result": "算力需求爆发时无替代方案"
+          }
+        ]
+      },
+      "time_lag_calibration": {
+        "label": "时间差校准——投资窗口标准",
+        "note": "组织变化→战略变化→业务结果→股价反映的典型时间差",
+        "patterns": [
+          {
+            "pattern": "组织效率提升→利润率改善",
+            "typical_lag": "6-12个月",
+            "examples": [
+              "Meta Year of Efficiency",
+              "AppLovin裁员后",
+              "Shopify裁员后"
+            ]
+          },
+          {
+            "pattern": "CEO认知迭代→新战略落地",
+            "typical_lag": "12-24个月",
+            "examples": [
+              "Netflix AOD决策→执行",
+              "PDD黄峥TEMU构想→规模化"
+            ]
+          },
+          {
+            "pattern": "人才换血→产品质变",
+            "typical_lag": "12-18个月",
+            "examples": [
+              "AppLovin AI人才引入→AXON 2.0",
+              "Meta Llama团队重组→待验证"
+            ]
+          },
+          {
+            "pattern": "文化变革→组织行为改变",
+            "typical_lag": "18-36个月",
+            "examples": [
+              "Netflix引入职级",
+              "AppLovin游戏→AI效率文化"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

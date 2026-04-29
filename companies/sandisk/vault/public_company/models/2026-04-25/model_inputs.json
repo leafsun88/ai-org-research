@@ -1,0 +1,177 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "as_of_date": "2026-04-25",
+  "assumptions": {
+    "revenue_growth": {
+      "value": 0.05,
+      "status": "auto_default",
+      "description": "Base forecast revenue growth"
+    },
+    "operating_margin": {
+      "value": 0.12,
+      "status": "auto_default",
+      "description": "Base forecast operating margin"
+    },
+    "tax_rate": {
+      "value": 0.21,
+      "status": "auto_default",
+      "description": "Cash tax rate"
+    },
+    "da_percent_revenue": {
+      "value": 0.04,
+      "status": "auto_default",
+      "description": "D&A as % of revenue"
+    },
+    "capex_percent_revenue": {
+      "value": 0.08,
+      "status": "auto_default",
+      "description": "Capital expenditure as % of revenue"
+    },
+    "nwc_percent_revenue": {
+      "value": 0.02,
+      "status": "auto_default",
+      "description": "Change in working capital as % of revenue"
+    },
+    "wacc": {
+      "value": 0.1,
+      "status": "auto_default",
+      "description": "Weighted average cost of capital"
+    },
+    "terminal_growth": {
+      "value": 0.03,
+      "status": "auto_default",
+      "description": "Terminal growth rate"
+    }
+  },
+  "latest_annual": {
+    "period_type": "annual",
+    "period": "2025",
+    "fiscal_year": 2025,
+    "fiscal_period": "FY",
+    "form": "10-K",
+    "filed": "2025-08-21",
+    "end": "2025-06-27",
+    "revenue": 7355000000,
+    "revenue_tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "revenue_filed": "2025-08-21",
+    "gross_profit": 2212000000,
+    "gross_profit_tag": "GrossProfit",
+    "gross_profit_filed": "2025-08-21",
+    "operating_income": -1377000000,
+    "operating_income_tag": "OperatingIncomeLoss",
+    "operating_income_filed": "2025-08-21",
+    "net_income": -1641000000,
+    "net_income_tag": "NetIncomeLoss",
+    "net_income_filed": "2025-08-21",
+    "operating_cash_flow": 84000000,
+    "operating_cash_flow_tag": "NetCashProvidedByUsedInOperatingActivities",
+    "operating_cash_flow_filed": "2025-08-21",
+    "capital_expenditures": -204000000,
+    "capital_expenditures_tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "capital_expenditures_filed": "2025-08-21",
+    "cash": 1481000000,
+    "cash_tag": "CashAndCashEquivalentsAtCarryingValue",
+    "cash_filed": "2025-08-21",
+    "assets": 12985000000,
+    "assets_tag": "Assets",
+    "assets_filed": "2025-08-21",
+    "liabilities": 3769000000,
+    "liabilities_tag": "Liabilities",
+    "liabilities_filed": "2025-08-21",
+    "stockholders_equity": 9216000000,
+    "stockholders_equity_tag": "StockholdersEquity",
+    "stockholders_equity_filed": "2025-08-21",
+    "debt_current": 20000000,
+    "debt_current_tag": "LongTermDebtCurrent",
+    "debt_current_filed": "2025-08-21",
+    "debt_noncurrent": 1829000000,
+    "debt_noncurrent_tag": "LongTermDebtNoncurrent",
+    "debt_noncurrent_filed": "2025-08-21",
+    "shares_outstanding": 145000000,
+    "shares_outstanding_tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+    "shares_outstanding_filed": "2025-08-21",
+    "debt": 1849000000.0
+  },
+  "valuation": {
+    "ticker": "SNDK",
+    "source": "yahoo_chart_json + stockanalysis_statistics_page + sec_companyfacts",
+    "market_cap_source": "stockanalysis_statistics_page",
+    "market_cap_confidence": "medium",
+    "currency": "USD",
+    "exchange": "NasdaqGS",
+    "last_price": 989.9,
+    "regular_market_time": 1777060800,
+    "year_high": 1002.09,
+    "year_low": 31.01,
+    "shares_outstanding_source": "stockanalysis_statistics_page",
+    "shares_outstanding": 147600000.0,
+    "market_cap": 146110000000.0,
+    "enterprise_value": 145380000000.0,
+    "price_to_sales": 16.36,
+    "ev_to_ebitda": 102.02,
+    "trailing_pe": null,
+    "source_urls": [
+      "https://stockanalysis.com/stocks/sndk/statistics/"
+    ],
+    "cash": 1481000000,
+    "debt": 1849000000.0,
+    "valuation_note": "StockAnalysis statistics are used as a medium-confidence public fallback when unauthenticated Yahoo quote fields are unavailable; SEC statement fields remain canonical for financial statements.",
+    "updated_at": "2026-04-25T23:09:55"
+  },
+  "model_outputs": {
+    "status": "calculated",
+    "forecast": [
+      {
+        "year": 1,
+        "revenue": 7722750000.0,
+        "free_cash_flow": 268751700.0
+      },
+      {
+        "year": 2,
+        "revenue": 8108887500.0,
+        "free_cash_flow": 282189285.0
+      },
+      {
+        "year": 3,
+        "revenue": 8514331875.0,
+        "free_cash_flow": 296298749.25
+      },
+      {
+        "year": 4,
+        "revenue": 8940048468.75,
+        "free_cash_flow": 311113686.7125001
+      },
+      {
+        "year": 5,
+        "revenue": 9387050892.1875,
+        "free_cash_flow": 326669371.048125
+      }
+    ],
+    "pv_fcf": [
+      244319727.27272725,
+      233214285.1239669,
+      222613635.8001502,
+      212494834.17287073,
+      202835978.0741038
+    ],
+    "terminal_value": 4806706459.708125,
+    "pv_terminal_value": 2984586534.5189557,
+    "enterprise_value": 4100064994.9627743,
+    "equity_value": 3732064994.9627743,
+    "implied_price": 25.73837927560534,
+    "assumption_status": "auto_default"
+  },
+  "peer_tickers": [
+    "WDC",
+    "MU",
+    "STX",
+    "285A.T"
+  ],
+  "source_files": {
+    "annual": "data/statements/annual_statements.json",
+    "quarterly": "data/statements/quarterly_statements.json",
+    "market_data": "data/market_data/price_history.csv",
+    "valuation": "data/valuation/valuation_snapshot.json"
+  }
+}

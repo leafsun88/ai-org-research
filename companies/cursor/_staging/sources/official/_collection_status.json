@@ -1,0 +1,109 @@
+{
+  "research_key": "CURSOR",
+  "company": "Anysphere",
+  "channel": "official",
+  "generated_at": "2026-04-20T17:57:41",
+  "total_records": 14,
+  "success_records": 13,
+  "failure_records": 1,
+  "statuses": [
+    {
+      "status": "success",
+      "url": "https://cursor.com",
+      "title": "cursor.com",
+      "chars": 17506,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_cursorcom.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/pricing",
+      "title": "pricing",
+      "chars": 6790,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_pricing.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/enterprise",
+      "title": "enterprise",
+      "chars": 18936,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_enterprise.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/security",
+      "title": "security",
+      "chars": 33226,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_security.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/careers",
+      "title": "careers",
+      "chars": 13418,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_careers.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/changelog",
+      "title": "changelog",
+      "chars": 20054,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_changelog.md"
+    },
+    {
+      "status": "failed",
+      "url": "https://www.cursor.com/blog/openai-fund",
+      "title": "openai-fund",
+      "error": "HTTP 404",
+      "stage": "fetch_full_text"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/series-a",
+      "title": "series-a",
+      "chars": 4034,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_series-a.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/series-b",
+      "title": "series-b",
+      "chars": 2894,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_series-b.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/series-c",
+      "title": "series-c",
+      "chars": 1534,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_series-c.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/series-d",
+      "title": "series-d",
+      "chars": 3602,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_series-d.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/team",
+      "title": "team",
+      "chars": 3728,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_team.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/cursor-support",
+      "title": "cursor-support",
+      "chars": 21770,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_cursor-support.md"
+    },
+    {
+      "status": "success",
+      "url": "https://cursor.com/blog/graphite",
+      "title": "graphite",
+      "chars": 2622,
+      "path": "/Users/leafsun/Desktop/AI Org研究/scripts/CURSOR/sources/official/unknown_graphite.md"
+    }
+  ]
+}

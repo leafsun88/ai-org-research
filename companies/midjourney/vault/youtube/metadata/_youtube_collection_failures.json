@@ -1,0 +1,40 @@
+[
+  {
+    "id": "j0TIiIQ0loM",
+    "video_id": "j0TIiIQ0loM",
+    "title": "Ep. 59—Midjourney v8 Countdown, Are \"AI Artists\" A Thing? + Nano Banana Pro vs ChatGPT Image 1.5",
+    "status": "no_transcript",
+    "error": "all_transcript_providers_failed",
+    "search_provider": "yt_dlp_search",
+    "source_queries": [
+      "Midjourney AI art podcast",
+      "Midjourney V7 V8 podcast",
+      "Midjourney V8.1 interview"
+    ],
+    "provider_attempts": [
+      {
+        "provider": "rapidapi_transcript3",
+        "param": "videoId",
+        "host": "youtube-transcript3.p.rapidapi.com",
+        "generated_at": "2026-04-22T16:30:01",
+        "ok": false,
+        "status": "rapidapi_quota_or_rate_limit",
+        "status_code": 429,
+        "body_preview": "{\"message\":\"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\\/\\/rapidapi.com\\/solid-api-solid-api-default\\/api\\/youtube-transcript3\"}",
+        "stop_provider": true
+      },
+      {
+        "provider": "youtube_transcript_api",
+        "status": "no_transcript",
+        "generated_at": "2026-04-22T16:30:08",
+        "chars": 0
+      },
+      {
+        "provider": "yt_dlp_subtitle",
+        "status": "no_subtitle",
+        "generated_at": "2026-04-22T16:30:44",
+        "chars": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Spotify",
+  "ticker": "SPOT",
+  "exchange": "NYSE",
+  "market_cap": "$100B",
+  "sector": "流媒体/音频",
+  "category": "Meta类",
+  "note": "音频流媒体+AI广告+播客生态",
+  "created": "2026-04-06"
+}

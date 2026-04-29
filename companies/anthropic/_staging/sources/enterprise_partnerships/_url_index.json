@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
+    "title": "salesforce-anthropic-expanded-partnership",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+    "title": "driving-ai-transformation-with-claude",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://newsroom.accenture.com/news/2025/accenture-and-anthropic-launch-multi-year-partnership-to-drive-enterprise-ai-innovation-and-value-across-industries",
+    "title": "accenture-and-anthropic-launch-multi-year-partnership-to-drive-enterprise-ai-innovation-and-value-across-industries",
+    "source": "newsroom.accenture.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://news.cognizant.com/2025-11-04-Cognizant-Adopts-Anthropics-Claude-to-Accelerate-Enterprise-AI-Adoption-at-Scale-and-Deploys-Claude-to-Drive-Internal-AI-Transformation?asPDF=1",
+    "title": "2025-11-04-Cognizant-Adopts-Anthropics-Claude-to-Accelerate-Enterprise-AI-Adoption-at-Scale-and-Deploys-Claude-to-Drive-Internal-AI-Transformation?asPDF=1",
+    "source": "news.cognizant.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  },
+  {
+    "url": "https://www.anthropic.com/news/maryland-partnership",
+    "title": "maryland-partnership",
+    "source": "www.anthropic.com",
+    "date": "unknown",
+    "brief": "configured seed for enterprise_partnerships",
+    "seed": true
+  }
+]

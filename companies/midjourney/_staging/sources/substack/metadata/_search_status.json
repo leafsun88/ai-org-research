@@ -1,0 +1,48 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "substack",
+  "generated_at": "2026-04-21T20:58:07",
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/companies/midjourney/_staging/sources/substack/metadata/_substack_query_map.md",
+  "inherited_podcast_query_map": "",
+  "query_count": 6,
+  "total_returned_urls": 0,
+  "statuses": [
+    {
+      "query": "Midjourney David Holz Substack",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Midjourney revenue ARR employees no VC Substack",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Midjourney Disney Universal lawsuit Substack analysis",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Midjourney Meta licensing aesthetic technology Substack",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Midjourney V7 V8 video model Substack",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    },
+    {
+      "query": "Midjourney community Discord product strategy Substack",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    }
+  ]
+}

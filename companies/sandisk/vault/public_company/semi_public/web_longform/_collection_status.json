@@ -1,0 +1,16 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "web_longform",
+  "status": "scaffolded",
+  "queries": [
+    "SNDK Sandisk deep dive",
+    "Sandisk NAND cycle analysis",
+    "Sandisk Western Digital spin-off analysis",
+    "Sandisk vs Micron Western Digital Seagate Kioxia",
+    "Sandisk AI data center SSD demand analysis"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": "python3 scripts/discovery/collect_target.py SNDK --channels web_longform --skip-transcript --web-max-queries 8",
+  "updated_at": "2026-04-26T09:39:55"
+}

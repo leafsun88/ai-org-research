@@ -1,0 +1,16 @@
+{
+  "video_id": "_iMBcVNJ0Q8",
+  "title": "OFCの八王子コンサルで１ヶ月で売上３万円から１７万円に向上したNIJI【虹】さんに一条響がインタビュー",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:06:09",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:06:09"
+}

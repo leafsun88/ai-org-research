@@ -1,0 +1,9 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.kujiale.com/about/jobs",
+    "title": "jobs",
+    "error": "HTTP 404",
+    "stage": "fetch_full_text"
+  }
+]

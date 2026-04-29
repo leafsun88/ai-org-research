@@ -1,0 +1,18 @@
+{
+  "video_id": "YVW0Sjp3VS8",
+  "title": "Founder issues, the big idea, how to visualize a game with midjourney PakodaProfit Podcast S2 EP9",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:31:11"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:31:13",
+      "chars": 32502
+    }
+  ],
+  "fetched_at": "2026-04-22T16:31:13"
+}

@@ -1,0 +1,172 @@
+{
+  "version": "1.0",
+  "updated": "2026-03-25",
+  "tiers": {
+    "conviction": { "label": "Conviction", "color": "#CECBF6", "badge": "#3C3489", "description": "全维度确认+多年验证+周期考验" },
+    "collect": { "label": "Collect", "color": "#9FE1CB", "badge": "#085041", "description": "3-4维度确认，估值或历史不够" },
+    "watch": { "label": "Watch", "color": "#D3D1C7", "badge": "#444441", "description": "1-2维度确认，需更多观察" },
+    "pass": { "label": "Pass", "color": "#F7C1C1", "badge": "#791F1F", "description": "核心维度不通过" }
+  },
+  "dimensions": ["integrity", "passion", "intel_taste", "background", "vision", "key_insight", "execution"],
+  "dimension_labels": {
+    "integrity": "诚信",
+    "passion": "热情",
+    "intel_taste": "智识+品味",
+    "background": "背景",
+    "vision": "愿景",
+    "key_insight": "关键洞察",
+    "execution": "执行力"
+  },
+  "founders": [
+    {
+      "name": "Demis Hassabis",
+      "company": "DeepMind/Google",
+      "role": "CEO",
+      "tier": "conviction",
+      "insight_altitude": "civilizational",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "green" },
+      "key_quote": "If you solve intelligence, you can use it to solve everything else.",
+      "quote_source": "Multiple interviews, 2020-2024",
+      "summary": "将智能视为元问题的解决方案，20年坚持从游戏AI→蛋白质折叠→通用智能的路径",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "张一鸣",
+      "name_en": "Zhang Yiming",
+      "company": "ByteDance",
+      "role": "Founder",
+      "tier": "conviction",
+      "insight_altitude": "mid_to_civilizational",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "green" },
+      "key_quote": "算法应该服务于用户兴趣，而不是社交图谱。信息的分发效率是核心。",
+      "quote_source": "早期访谈, 2015-2016",
+      "summary": "在所有人押注社交图谱时，押注算法推荐分发，创造了抖音/TikTok的全球格局",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "黄峥",
+      "name_en": "Colin Zheng Huang",
+      "company": "Pinduoduo/Temu",
+      "role": "Founder",
+      "tier": "conviction",
+      "insight_altitude": "ground_to_mid",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "amber" },
+      "key_quote": "消费升级不是让上海人过巴黎人的生活，而是让安徽人有厨房纸和好水果。",
+      "quote_source": "财经杂志专访, 2018",
+      "summary": "重新定义消费升级，用社交拼团+极致供应链效率触达被忽视的广大市场",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Tobi Lütke",
+      "company": "Shopify",
+      "role": "CEO & Founder",
+      "tier": "conviction",
+      "insight_altitude": "mid",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "green" },
+      "key_quote": "Before asking to hire, teams must demonstrate why AI cannot do the job.",
+      "quote_source": "Internal memo leaked, 2025.04",
+      "summary": "程序员出身的CEO，将Shopify从滑雪板电商做成全球电商基础设施，AI-first组织纪律",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Adam Foroughi",
+      "company": "AppLovin",
+      "role": "CEO & Co-Founder",
+      "tier": "collect",
+      "insight_altitude": "mid",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "amber" },
+      "key_quote": "We think we've got the best performance advertising AI model the world has ever seen today.",
+      "quote_source": "Q1 2025 Earnings Call",
+      "summary": "极致组织效率（900人/$55亿）+AXON AI引擎，从游戏向电商扩张中，SEC调查是关键风险",
+      "vault_company": "applovin",
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Dario Amodei",
+      "company": "Anthropic",
+      "role": "CEO & Co-Founder",
+      "tier": "collect",
+      "insight_altitude": "civilizational",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "amber", "execution": "amber" },
+      "key_quote": "The question isn't whether AI will be transformative, but whether it will be developed safely enough to be beneficial.",
+      "quote_source": "Various interviews, 2023-2024",
+      "summary": "从OpenAI出走创立Anthropic，押注AI安全即商业价值，Constitutional AI路线",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Sam Altman",
+      "company": "OpenAI",
+      "role": "CEO",
+      "tier": "collect",
+      "insight_altitude": "mid",
+      "scores": { "integrity": "amber", "passion": "green", "intel_taste": "green", "background": "green", "vision": "green", "key_insight": "green", "execution": "amber" },
+      "key_quote": "Moore's Law for everything.",
+      "quote_source": "Blog post, 2021",
+      "summary": "AGI推进者，执行力极强但诚信维度存疑（Board事件），商业化路线激进",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "马云",
+      "name_en": "Jack Ma",
+      "company": "Alibaba",
+      "role": "Founder",
+      "tier": "collect",
+      "insight_altitude": "ground",
+      "scores": { "integrity": "amber", "passion": "green", "intel_taste": "amber", "background": "green", "vision": "green", "key_insight": "green", "execution": "green" },
+      "key_quote": "让天下没有难做的生意。",
+      "quote_source": "阿里巴巴创始宣言",
+      "summary": "中国电商教父，执行力卓越但近年治理和监管风险导致降级观察",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Eric Lefkofsky",
+      "company": "Tempus AI",
+      "role": "CEO & Founder",
+      "tier": "watch",
+      "insight_altitude": "ground",
+      "scores": { "integrity": "amber", "passion": "green", "intel_taste": "green", "background": "amber", "vision": "green", "key_insight": "amber", "execution": "amber" },
+      "key_quote": "We're building the operating system for precision medicine.",
+      "quote_source": "TechCrunch interview, 2024",
+      "summary": "Groupon连续创业者转型医疗AI，数据飞轮思路正确但insider selling和治理结构存疑",
+      "vault_company": "tempus-ai",
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Alexandr Wang",
+      "company": "Scale AI",
+      "role": "CEO & Founder",
+      "tier": "watch",
+      "insight_altitude": "ground",
+      "scores": { "integrity": "green", "passion": "green", "intel_taste": "green", "background": "amber", "vision": "amber", "key_insight": "amber", "execution": "green" },
+      "key_quote": "Data is the new oil, and we're the refiners.",
+      "quote_source": "Forbes interview, 2023",
+      "summary": "19岁辍学MIT创立AI数据标注公司，政府合同强势但护城河持续性存疑",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    },
+    {
+      "name": "Sundar Pichai",
+      "company": "Google/Alphabet",
+      "role": "CEO",
+      "tier": "pass",
+      "insight_altitude": null,
+      "scores": { "integrity": "green", "passion": "amber", "intel_taste": "green", "background": "green", "vision": "amber", "key_insight": "gray", "execution": "amber" },
+      "key_quote": null,
+      "quote_source": null,
+      "summary": "职业经理人CEO，非创始人，缺乏独特的非共识洞察，在AI竞赛中执行速度偏慢",
+      "vault_company": null,
+      "evaluated": "2026-03-24"
+    }
+  ],
+  "discovery_sources": [
+    "Acquired podcast", "Invest Like the Best", "Lex Fridman", "Founders podcast",
+    "Dwarkesh Podcast", "36氪深访", "晚点LatePost", "混沌学园", "财经杂志"
+  ]
+}

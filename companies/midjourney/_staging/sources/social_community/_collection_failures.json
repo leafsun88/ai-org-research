@@ -1,0 +1,44 @@
+[
+  {
+    "status": "failed",
+    "url": "https://discord.gg/midjourney",
+    "title": "midjourney",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/midjourney/",
+    "title": "midjourney",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/midjourney/comments/1rwkcfu/v8_alpha_is_here/",
+    "title": "v8_alpha_is_here",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/midjourney/comments/1slml6j/v81_alpha_is_out/",
+    "title": "v81_alpha_is_out",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/midjourney/comments/1lfnlc4/the_game_has_changed_with_midjourney_v7_video/",
+    "title": "the_game_has_changed_with_midjourney_v7_video",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://www.reddit.com/r/midjourney/comments/1mx0scp/midjourney_has_become_unusable/",
+    "title": "midjourney_has_become_unusable",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "social_community",
+  "status": "scaffolded",
+  "queries": [
+    "SNDK reddit investing",
+    "Sandisk stock analysis reddit",
+    "SNDK NAND cycle discussion",
+    "Sandisk vs Micron stock discussion",
+    "Sandisk Western Digital spin-off investor discussion"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": "python3 scripts/discovery/collect_target.py SNDK --channels social_community --skip-transcript --web-max-queries 8",
+  "updated_at": "2026-04-26T09:39:55"
+}

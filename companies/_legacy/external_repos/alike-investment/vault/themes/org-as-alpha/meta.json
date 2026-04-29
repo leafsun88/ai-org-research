@@ -1,0 +1,27 @@
+{
+  "name": "组织效率即Alpha",
+  "slug": "org-as-alpha",
+  "type": "contrarian",
+  "description": "市场系统性低估'组织效率异常高'的公司——人效10x不只是省钱，而是不可复制的组织设计创新",
+  "status": "active",
+  "companies": ["applovin"],
+  "watchlist_companies": ["tempus-ai"],
+  "excluded_companies": ["tencent"],
+  "tags": ["org-efficiency", "contrarian", "人效", "组织穿透", "RPE", "talent-density"],
+  "market_consensus": "市场把高人效视为'成本控制好'或'周期性裁员效果'，给予cost-story定价而非moat-story定价",
+  "contrarian_thesis": "组织效率异常（RPE>同行3x）是组织设计创新+AI原生能力+业务模型特殊性三者叠加的结果，这种结构性优势不可复制，构成真正的护城河",
+  "key_questions": [
+    "人效异常是结构性的还是周期性的？（增长期headcount是否等比扩张？）",
+    "组织设计的不可复制性如何验证？（竞争对手模仿了吗？效果如何？）",
+    "市场何时从'成本故事'重新定价为'护城河故事'？（触发催化剂是什么？）",
+    "AI是工具层替代还是工作流层重构？（McKinsey框架验证）",
+    "创始人headcount纪律哲学是否持续？（信号追踪）"
+  ],
+  "signals": {
+    "leading": ["RPE持续扩大vs同行", "增长期headcount不扩张", "关键人才净流入", "新业务复用组织能力而非增人"],
+    "catalyst": ["财报超预期+人数不增", "竞争对手尝试模仿失败", "卖方升级叙事从cost到moat", "CEO公开组织效率哲学被广泛传播"],
+    "invalidation": ["关键人物离职潮", "RPE下降", "为增长开始大规模招人", "组织文化信号恶化（Glassdoor暴跌）"]
+  },
+  "created": "2026-03-24",
+  "updated": "2026-03-24"
+}

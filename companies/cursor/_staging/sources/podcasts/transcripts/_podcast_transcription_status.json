@@ -1,0 +1,363 @@
+{
+  "ticker": "CURSOR",
+  "generated_at": "2026-04-20T17:57:11",
+  "retry_rounds": 3,
+  "min_duration_min": 0,
+  "total_records": 39,
+  "success_records": 0,
+  "failure_records": 39,
+  "statuses": [
+    {
+      "status": "deferred_max_limit",
+      "title": "The End of the Designer–Engineer Divide",
+      "date": "2025-12-12",
+      "podcast": "Y Combinator Startup Podcast",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/112525558/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-12%2F414247815-44100-2-ba9fd01fd4a79.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Episode 002: AI Keeps Forgetting? How to Manage Context in Coding Tools (Cursor, Claude, Windsurf)",
+      "date": "2025-09-08",
+      "podcast": "Vibing with AI Code",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/c8a4ad2b-dfe8-44f3-9a66-0f0713ee3407/56050201-ccd0-4a10-a421-4126b584b65b.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Episode 88: Cursor AI - Bringing Coding to Your Marketing Department",
+      "date": "2024-08-26",
+      "podcast": "The AI Marketing Navigator",
+      "audio_url": "https://anchor.fm/s/f23f78f0/podcast/play/90898080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-26%2F385339870-44100-2-f3c37cda11f3e.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "AI Coding Tool Showdown_ Cursor, Bolt, Replit, and V0 Compared",
+      "date": "2024-12-12",
+      "podcast": "Neural intel Pod",
+      "audio_url": "https://anchor.fm/s/feb5beb4/podcast/play/95619208/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-10%2Fbdf4d35a-1a11-c0f5-f864-231b6a9c1b62.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Best IDEs and AI Coding Assistants in 2025: Complete Guide to VSCode, Cursor, GitHub Copilot & More",
+      "date": "2025-07-06",
+      "podcast": "Cybersecurity, Privacy, Risk Management, Cryptocurrencies, Fintech, Information Technology",
+      "audio_url": "https://anchor.fm/s/ed3ac6e8/podcast/play/105103377/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-6%2F403403382-44100-2-7062266c49fab.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Cursor, Claude Code, and Codex are merging into one AI coding stack nobody plann",
+      "date": "2026-04-16",
+      "podcast": "Daily Musings",
+      "audio_url": "https://lzzfimictlsibeppnium.supabase.co/storage/v1/object/public/podcast-outputs/7926c09f-13c0-41d3-a04d-4a748743b7e2/94417a65-3c22-4e33-bd94-e361240ddd53.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "【3/14 2時】xAI共同創業者の大量離脱とCursorエンジニア引き抜き・ServiceNow CEO、AIエージェントで大卒失業率30%超を警告",
+      "date": "2026-03-13",
+      "podcast": "AIニュース速報",
+      "audio_url": "https://storage.googleapis.com/ai-news-podcast-ren/episodes/20260314_0200/news.wav",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Cognition CEO Scott Wu on Acquiring Windsurf: The Process, The Deal, The Rationale | Did Google Overlook a Goldmine in the Core Asset and Did Founders Leave a Sinking Ship | How Cursor and Cognition Deal with Ever Increasing Reliance on Anthropic",
+      "date": "2025-07-18",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Scott_Wu__Cognition_AI.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Microsoft CEO’s Copilot Push, Cursor Acquires Graphite, Hurdles for Waymo & Humanoids | Dec 22, 2025",
+      "date": "2025-12-22",
+      "podcast": "The Information's TITV",
+      "audio_url": "https://anchor.fm/s/9add758/podcast/play/113001130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-22%2F414854833-44100-2-3b17f5080b195.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "E238: Thinking Machines eyes $60B valuation; Cursor locks $29.3B valuation; Blue Origin lands first rocket booster; Raises from Clio, Skims, Scribe, WisdomAI, Wonderful",
+      "date": "2025-11-14",
+      "podcast": "This Week in Pre-IPO Stocks",
+      "audio_url": "https://www.buzzsprout.com/2079052/episodes/18192636-e238-thinking-machines-eyes-60b-valuation-cursor-locks-29-3b-valuation-blue-origin-lands-first-rocket-booster-raises-from-clio-skims-scribe-wisdomai-wonderful.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "【2026-04-19】Cursor 新一轮 20 亿美元融资，估值冲 500 亿美元 | Anthropic CEO 阿莫迪：未来 5 年或取代半数初级白领",
+      "date": "2026-04-18",
+      "podcast": "晨间信号",
+      "audio_url": "https://devsignal.oss-cn-hangzhou.aliyuncs.com/morning-signal/episodes/2026-04-19_01/episode.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "EP10 - Cursor CEO預言無Code未來！NanoBrowser一鍵操控太香了",
+      "date": "2025-06-12",
+      "podcast": "AI懶人報",
+      "audio_url": "https://rss.soundon.fm/rssf/ca974d36-6fcc-46fc-a339-ba7ed8902c80/feedurl/adcc7c44-f4f9-4f44-8a2c-0c0091f86fb0/rssFileVip.mp3?timestamp=1751387541798",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Anthropic vs The Pentagon: Who Wins | OpenAI's $110BN Mega Round | Cursor Hits $2BN in ARR | Block's 40% Headcount Reduction: AI or Overhiring",
+      "date": "2026-03-05",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_EP.46.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#173. Cursor设计主管Ryo Lu：如何设计 Cursor 的未来",
+      "date": "2025-07-12",
+      "podcast": "跨国串门儿计划",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/68726bfc93fd2d72b8d74c16/media.xyzcdn.net/670f3da40d2f24f28978736f/lgjy_hbXMUu9II6Q0_iOVVytaUMc.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "EP30｜为何 Claude Code、Cursor 的技术栈都已过时",
+      "date": "2026-01-03",
+      "podcast": "硅谷声研所",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69074610aca57a5e75a40cf7/69591bc814db1df9ef2e673a/media.xyzcdn.net/69074610aca57a5e75a40cf7/ln8QhyxSCDCjo-MkpVEk-iLsAlid.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "【中文版Lex fridman播客】Cursor团队：AI 时代的编程未来",
+      "date": "2024-10-16",
+      "podcast": "跨国串门儿计划",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/670f49a0db2cf827579733d6/media.xyzcdn.net/lkqtFiHy1evNSFZv5U3881xKbpYh.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Solo founder, $80M exit, 6 months: The Base44 bootstrapped startup success story | Maor Shlomo",
+      "date": "2025-07-06",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://api.substack.com/feed/podcast/167384119/3c6dd94cbdc9484b9c7ab16717debd4d.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Anthropic's $10BN Fundraise: Have They Beaten Cursor Already | a16z's $15BN Fundraise: Is the Middle Dead in VC Today? | How OpenAI Could Go to Zero and ElevenLabs at $11BN: Buy or Not?",
+      "date": "2026-01-15",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/The_Trio_-_Ep.39.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Is SaaS Dead in a World of AI | Do Margins Matter Anymore | Is Triple, Triple, Double, Double Dead Today? | Who Wins the Dev Market: Cursor or Claude Code | Why We Are Not in an AI Bubble with Anish Acharya @ a16z",
+      "date": "2026-02-09",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Anish_Acharya__a16z.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The non-technical PM’s guide to building with Cursor | Zevi Arnovitz (Meta)",
+      "date": "2026-01-18",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://api.substack.com/feed/podcast/184167026/d503111be560b59dfd3023389a2ff6ec.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "AI Revolution Gains, Non-Consensus Startups & Prosperous AI | E2104",
+      "date": "2025-03-29",
+      "podcast": "This Week in Startups",
+      "audio_url": "https://anchor.fm/s/7c624c84/podcast/play/100533179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-29%2F09f2f93c-7cbd-37d7-f317-7598e042db83.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: a16z's Martin Casado on Anthropic vs OpenAI: Where Value Accrues | Cursor vs Replit vs Lovable: Who Wins and Who Loses | The One Sin in AI Investing | Why Open Source is a National Security Risk with China",
+      "date": "2025-07-28",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Martin_Casado__a16z.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "视频剪辑的「Cursor 时刻」来了？｜对谈 ChatCut 创始人李凯文：从金马导演到 AI 创业",
+      "date": "2026-01-25",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9e1df1e6d/media.xyzcdn.net/60502e253c92d4f62c2a9577/luhqJam_8w2wlYWKP2GtPmSRUQnn.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20VC: Inside Accel's $4BN Growth Investing Machine | Cursor is Dead is Total BS: Here is Why | What Missing Rippling and ElevenLabs Taught Us | Are $2BN-$10BN IPOs Dead | Why Now is a Great Time to be Thoma Bravo with Miles Clements",
+      "date": "2026-03-09",
+      "podcast": "The Twenty Minute VC (20VC): Venture Capital | Startup Funding | The Pitch",
+      "audio_url": "https://traffic.libsyn.com/secure/thetwentyminutevc/Miles_Clement__Accel.mp3?dest-id=240976",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Bitter Lessons in Venture vs Growth: Anthropic vs OpenAI, Noam Shazeer, World Labs, Thinking Machines, Cursor, ASIC Economics — Martin Casado & Sarah Wang of a16z",
+      "date": "2026-02-19",
+      "podcast": "Latent Space: The AI Engineer Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/188504140/c66a34d6406cd1b378cffe52d8a8c00b.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The Cursor Story: Four MIT Prodigies Built a $29 Billion Coding IDE in 24 Months",
+      "date": "2026-03-20",
+      "podcast": "Guy Louzon - a Podcast about business",
+      "audio_url": "https://api.substack.com/feed/podcast/191625573/13ed461a24f2c793ef32b5a0aeccb70f.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Ryo Lu (Cursor): AI Turns Designers to Developers",
+      "date": "2025-12-16",
+      "podcast": "The a16z Show",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/87830803-b05e-4096-83cc-d8c540a73711/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=87830803-b05e-4096-83cc-d8c540a73711&feed=JGE3yC0V",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "№190: Swift 一天没学过，但我用 Cursor 开发了一个 macOS 压图工具",
+      "date": "2025-07-14",
+      "podcast": "Anyway.FM 设计杂谈",
+      "audio_url": "https://anwfm.com/anyway-190.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Cursor Head of Design Reviews Startup Websites",
+      "date": "2025-11-20",
+      "podcast": "Y Combinator Startup Podcast",
+      "audio_url": "https://anchor.fm/s/8c1524bc/podcast/play/111462347/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-20%2F412846194-44100-2-25e3c9ec36a73.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "#454.AI 时代的设计：从 Notion 到 Cursor，对话Ryo Lu",
+      "date": "2026-03-10",
+      "podcast": "跨国串门儿计划",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/670f3da40d2f24f28978736f/69b029752a2882aae75b8c2c/media.xyzcdn.net/670f3da40d2f24f28978736f/lnuDZF-OMKDlQ9Y5i0oT9mqwczDn.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Valve Takes On Consoles And VR",
+      "date": "2025-11-13",
+      "podcast": "Tech Brew Ride Home",
+      "audio_url": "https://tracking.swap.fm/track/bHsDpvy53mYwJpnc1UL5/traffic.megaphone.fm/MOBI8883220145.mp3?updated=1763053688",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "20260408 |【Cursor 3】发布/【OpenAI】绝密文件曝光/【开源社区】完爆卡帕西",
+      "date": "2026-04-07",
+      "podcast": "AI圈日报｜龙虾精选AI资讯",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/69561f756d2fb2759d4a512c/69d4f0d7b977fb2c4751f1fe/media.xyzcdn.net/69561f756d2fb2759d4a512c/ltEl9DJLM7FqwVnYHrauuLA-P5xh.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Cursor 别联系我了，我怕 Claude Desktop/Codex.app 误会",
+      "date": "2026-03-10",
+      "podcast": "AsyncTalk",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoNhe4nAExylAR3uIVk.m4a?channel=rss&album_id=53875103&track_id=961996061&uid=372148060&jt=https://aod.cos.tx.xmcdn.com/storages/9fb4-audiofreehighqps/5F/74/GKwRIDoNhe4nAExylAR3uIVk.m4a",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The AI Tipping Point: Paranoia, Personalisation, and the Power Shift Ahead",
+      "date": "2025-11-26",
+      "podcast": "AI Journal",
+      "audio_url": "https://mcdn.podbean.com/mf/web/ad89axnuyxgpgbin/The_AI_Tipping_Point_Paranoia_Personalisation_and_the_Power_Shift_Aheadbb1af.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Bolt.new, Flow Engineering for Code Agents, and >$8m ARR in 2 months as a Claude Wrapper",
+      "date": "2024-12-02",
+      "podcast": "Latent Space: The AI Engineer Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/152358099/fe0f16fd6f4bdce05c60cc1645f10f16.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "NeurIPS 2023 Recap — Top Startups",
+      "date": "2023-12-30",
+      "podcast": "Latent Space: The AI Engineer Podcast",
+      "audio_url": "https://api.substack.com/feed/podcast/140188949/767b140a547ef05b86ecf161c4e56b98.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "Today in AI - December 19, 2024",
+      "date": "2024-12-20",
+      "podcast": "Today in AI",
+      "audio_url": "https://anchor.fm/s/fb1e63a0/podcast/play/96088065/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-11-20%2F485a3546-7adf-8344-e6c8-e3e67aef09b6.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "deferred_max_limit",
+      "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
+      "date": "2026-02-08",
+      "podcast": "Lenny's Podcast: Product | Career | Growth",
+      "audio_url": "https://api.substack.com/feed/podcast/186928764/005fbace84ee13dabcd544f688341e0b.mp3",
+      "error": "max_episodes_limit_30",
+      "stage": "selection"
+    },
+    {
+      "status": "running",
+      "title": "Cursor AI: The AI Code Editor Transforming Software Development",
+      "date": "2025-11-09",
+      "podcast": "The AI & Tech Society by Danar",
+      "audio_url": "https://sphinx.acast.com/p/open/s/659557afc7c0640016f29135/e/69110453c1ed8717c5661564/media.mp3",
+      "attempt_round": 1,
+      "stage": "dashscope_transcription",
+      "started_at": "2026-04-20T17:57:11"
+    }
+  ]
+}

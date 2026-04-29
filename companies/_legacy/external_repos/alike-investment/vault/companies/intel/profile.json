@@ -1,0 +1,10 @@
+{
+  "name": "Intel",
+  "ticker": "INTC",
+  "exchange": "NASDAQ",
+  "market_cap": "$90B",
+  "sector": "半导体",
+  "category": "NVIDIA类",
+  "note": "Gaudi AI加速器+GPU+FPGA",
+  "created": "2026-04-06"
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "MmKT-p6kxe4",
+  "title": "An Interview From Notebooklm Google Com, Chatgpt.com, Midjourney Discord.com, and Gemini.google.com",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:02:20",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:02:20"
+}

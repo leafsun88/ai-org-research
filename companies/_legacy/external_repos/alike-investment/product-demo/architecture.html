@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alike Investment - System Architecture</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', sans-serif;
+  background: #faf9f6;
+  color: #1a1a1a;
+  padding: 60px 80px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+.subtitle {
+  font-size: 16px;
+  color: #888;
+  margin-bottom: 48px;
+}
+h2 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 56px;
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #e8a849;
+  display: inline-block;
+}
+h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  color: #555;
+}
+
+/* Architecture layers */
+.arch-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.arch-layer {
+  border: 2px solid #ddd;
+  border-radius: 16px;
+  padding: 28px 32px;
+  position: relative;
+  background: white;
+}
+.arch-layer.active { border-color: #e8a849; }
+.arch-layer.partial { border-color: #e8a849; border-style: dashed; }
+.arch-layer.todo { border-color: #ccc; background: #fafafa; }
+
+.layer-badge {
+  position: absolute;
+  top: -12px;
+  left: 24px;
+  background: #e8a849;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 3px 12px;
+  border-radius: 20px;
+}
+.layer-badge.gray { background: #aaa; }
+.layer-badge.green { background: #4a9; }
+.layer-badge.blue { background: #5a8fd4; }
+
+.layer-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.layer-desc {
+  font-size: 13px;
+  color: #888;
+  margin-bottom: 16px;
+}
+
+.layer-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 12px;
+}
+.layer-card {
+  background: #f8f7f4;
+  border: 1px solid #e8e6e0;
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+.layer-card.done { border-left: 3px solid #4a9; }
+.layer-card.wip { border-left: 3px solid #e8a849; }
+.layer-card.todo-card { border-left: 3px solid #ccc; }
+
+.card-name {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.card-desc {
+  font-size: 11px;
+  color: #888;
+  line-height: 1.5;
+}
+.card-status {
+  font-size: 10px;
+  font-weight: 600;
+  margin-top: 6px;
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 10px;
+}
+.card-status.done { background: #e6f5ee; color: #2a7; }
+.card-status.wip { background: #fef3e0; color: #c87; }
+.card-status.todo { background: #f0f0f0; color: #999; }
+
+/* Arrow between layers */
+.arrow-down {
+  text-align: center;
+  padding: 8px 0;
+  color: #ccc;
+  font-size: 24px;
+}
+
+/* Data flow */
+.flow-container {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 24px 0;
+}
+.flow-step {
+  background: white;
+  border: 2px solid #e8e6e0;
+  border-radius: 12px;
+  padding: 16px 20px;
+  text-align: center;
+  min-width: 140px;
+}
+.flow-step.highlight { border-color: #e8a849; background: #fffbf0; }
+.flow-arrow {
+  font-size: 24px;
+  color: #ccc;
+  padding: 0 8px;
+}
+.flow-step-title {
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.flow-step-desc {
+  font-size: 11px;
+  color: #888;
+}
+
+/* Score formula */
+.formula-box {
+  background: white;
+  border: 2px solid #e8e6e0;
+  border-radius: 16px;
+  padding: 32px;
+  margin: 24px 0;
+}
+.formula-main {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'SF Mono', 'Menlo', monospace;
+  text-align: center;
+  margin-bottom: 24px;
+  color: #333;
+}
+.formula-main span.var { color: #e8a849; }
+.formula-main span.op { color: #888; }
+
+.formula-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 16px;
+  margin-top: 20px;
+}
+.formula-item {
+  background: #f8f7f4;
+  border-radius: 12px;
+  padding: 20px;
+}
+.formula-item-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.formula-item-desc {
+  font-size: 12px;
+  color: #666;
+  line-height: 1.6;
+}
+.formula-item .dim-list {
+  margin-top: 8px;
+  font-size: 11px;
+  color: #888;
+  line-height: 1.8;
+}
+
+/* Weight table */
+.weight-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 13px;
+}
+.weight-table th {
+  background: #f8f7f4;
+  padding: 10px 16px;
+  text-align: left;
+  font-weight: 600;
+  border-bottom: 2px solid #e8e6e0;
+}
+.weight-table td {
+  padding: 10px 16px;
+  border-bottom: 1px solid #f0eeea;
+}
+.weight-table tr:hover { background: #faf9f6; }
+.weight-example {
+  font-size: 12px;
+  color: #888;
+  font-style: italic;
+}
+
+/* Confidence */
+.confidence-section {
+  margin: 24px 0;
+}
+.conf-axis {
+  background: white;
+  border: 1px solid #e8e6e0;
+  border-radius: 12px;
+  padding: 20px 24px;
+  margin: 12px 0;
+}
+.conf-axis-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+.conf-levels {
+  display: flex;
+  gap: 0;
+}
+.conf-level {
+  flex: 1;
+  padding: 10px 12px;
+  font-size: 11px;
+  line-height: 1.5;
+  text-align: center;
+  border-right: 1px solid #e8e6e0;
+}
+.conf-level:last-child { border-right: none; }
+.conf-level .level-score {
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+.conf-level.high { background: #f0f9f4; }
+.conf-level.mid { background: #fef8ed; }
+.conf-level.low { background: #fef0f0; }
+
+/* Status legend */
+.legend {
+  display: flex;
+  gap: 20px;
+  margin: 16px 0 32px;
+  font-size: 12px;
+  color: #888;
+}
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.legend-dot.green { background: #4a9; }
+.legend-dot.yellow { background: #e8a849; }
+.legend-dot.gray { background: #ccc; }
+
+/* Footer */
+.footer {
+  margin-top: 60px;
+  padding-top: 24px;
+  border-top: 1px solid #e8e6e0;
+  font-size: 12px;
+  color: #aaa;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Alike Investment</h1>
+<p class="subtitle">AI-Native Investment System &mdash; "Who is the next ____?" &mdash; System Architecture v1.0</p>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot green"></div> Done</div>
+  <div class="legend-item"><div class="legend-dot yellow"></div> In Progress</div>
+  <div class="legend-item"><div class="legend-dot gray"></div> To Build</div>
+</div>
+
+<!-- ===== ARCHITECTURE ===== -->
+<h2>System Architecture</h2>
+
+<div class="arch-container">
+
+  <!-- Frontend -->
+  <div class="arch-layer active">
+    <div class="layer-badge green">FRONTEND</div>
+    <div class="layer-title">Single Page Application (HTML/CSS/JS, Zero Dependencies)</div>
+    <div class="layer-desc">用户界面层 &mdash; 读取 JSON 数据，展示排名、状态、协作</div>
+    <div class="layer-grid">
+      <div class="layer-card done">
+        <div class="card-name">League Table</div>
+        <div class="card-desc">动态排名 Top 10，D1-D7 + Fit 各维度得分，Delta 增减</div>
+        <div class="card-status done">Done</div>
+      </div>
+      <div class="layer-card done">
+        <div class="card-name">Status (per company)</div>
+        <div class="card-desc">Scoring Panel + Signals + Key Questions + Artifacts</div>
+        <div class="card-status done">Done</div>
+      </div>
+      <div class="layer-card wip">
+        <div class="card-name">Cowork (人机协作)</div>
+        <div class="card-desc">三模式：Chat / Signals / Key Questions，AI主导、人辅助</div>
+        <div class="card-status wip">WIP</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Data Infra 浏览</div>
+        <div class="card-desc">浏览200家公司的数据源状态</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Invest Brain 管理</div>
+        <div class="card-desc">查看3个核心Skills + 权重配置</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down">&#8595;</div>
+
+  <!-- Output Generator -->
+  <div class="arch-layer partial">
+    <div class="layer-badge">LAYER 5 &mdash; OUTPUT</div>
+    <div class="layer-title">Output Generator</div>
+    <div class="layer-desc">生成前端需要的 JSON 文件</div>
+    <div class="layer-grid">
+      <div class="layer-card wip">
+        <div class="card-name">league-table.json</div>
+        <div class="card-desc">每个 Old Friend 的动态排名（含 delta history）</div>
+        <div class="card-status wip">WIP</div>
+      </div>
+      <div class="layer-card wip">
+        <div class="card-name">{company}/status.json</div>
+        <div class="card-desc">每家公司的维度得分 + signals + KQs + artifacts</div>
+        <div class="card-status wip">WIP</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">cowork-sessions.json</div>
+        <div class="card-desc">对话历史持久化</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down">&#8595;</div>
+
+  <!-- Signal Engine -->
+  <div class="arch-layer partial">
+    <div class="layer-badge">LAYER 4 &mdash; SIGNAL ENGINE</div>
+    <div class="layer-title">Signal Engine (每日运行)</div>
+    <div class="layer-desc">扫描 Data Infra 新信息 &rarr; 生成 Signals &amp; KQs &rarr; 计算 Confidence &rarr; 应用 Delta &rarr; 更新动态排名</div>
+    <div class="layer-grid">
+      <div class="layer-card wip">
+        <div class="card-name">Signal Detection</div>
+        <div class="card-desc">从新数据中识别组织/业务信号</div>
+        <div class="card-status wip">Framework Done</div>
+      </div>
+      <div class="layer-card wip">
+        <div class="card-name">Confidence Calculator</div>
+        <div class="card-desc">材料置信度 &times; 信源置信度 = 综合置信度</div>
+        <div class="card-status wip">Framework Done</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Delta Applier</div>
+        <div class="card-desc">置信度 &ge;80% 自动应用，50-80% 需人确认</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">orchestra-generate</div>
+        <div class="card-desc">统一内容生成引擎（Agent产出、debate、evolving answer）</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down">&#8595;</div>
+
+  <!-- Scoring Engine -->
+  <div class="arch-layer partial">
+    <div class="layer-badge blue">LAYER 3 &mdash; SCORING</div>
+    <div class="layer-title">Scoring Engine</div>
+    <div class="layer-desc">3 Skills &times; 200 Companies &rarr; 静态 Alike Score 排名</div>
+    <div class="layer-grid">
+      <div class="layer-card done">
+        <div class="card-name">Winner Pattern Org</div>
+        <div class="card-desc">D1-D7 + Fit，因果脊柱权重推导<br>Anthropic + AppLovin 基准已建</div>
+        <div class="card-status done">Done</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Org Inflection</div>
+        <div class="card-desc">组织拐点信号：人事变动、架构重组、文化转向、关键人物进出</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Biz Inflection</div>
+        <div class="card-desc">业务拐点信号：产品发布、大单签约、技术突破、融资事件</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down">&#8595;</div>
+
+  <!-- Invest Brain -->
+  <div class="arch-layer partial">
+    <div class="layer-badge blue">LAYER 2 &mdash; INVEST BRAIN</div>
+    <div class="layer-title">Invest Brain (3 Core Skills)</div>
+    <div class="layer-desc">核心投资大脑 &mdash; 基于 Old Friends 的 Winner Pattern，对候选公司多维评估</div>
+    <div class="layer-grid">
+      <div class="layer-card done" style="grid-column: span 3;">
+        <div class="card-name">Winner Pattern Org Knowledge Base</div>
+        <div class="card-desc" style="font-size:12px;line-height:1.8;">
+          <strong>7 Dimensions + Fit Score</strong><br>
+          D1: CEO认知/Leadership Cognition &nbsp;|&nbsp; D2: Key Leader配置 &nbsp;|&nbsp; D3: 考核与激励机制 &nbsp;|&nbsp; D4: 信息架构与决策效率<br>
+          D5: 组织熵减能力 &nbsp;|&nbsp; D6: Talent Density &nbsp;|&nbsp; D7: Key Bet战略取舍 &nbsp;|&nbsp; Fit: 组织-业务适配度<br><br>
+          <strong>权重推导</strong>：Weight = base &times; causal_multiplier &times; diagnostic_multiplier<br>
+          因果位置（spine &gt; flywheel &gt; support） &times; 诊断力（signature &gt; common）&rarr; 每个 Old Friend 权重矩阵不同<br><br>
+          <strong>已建基准</strong>：Anthropic (4.5/5) + AppLovin (4.0/5) &nbsp;|&nbsp; <strong>待建</strong>：Netflix, PDD, ByteDance, Google, Meta, Shopify, Nvidia
+        </div>
+        <div class="card-status done">Core Done</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="arrow-down">&#8595;</div>
+
+  <!-- Data Infra -->
+  <div class="arch-layer todo">
+    <div class="layer-badge gray">LAYER 1 &mdash; DATA INFRA</div>
+    <div class="layer-title">Data Infrastructure (本地文件系统)</div>
+    <div class="layer-desc">200家公司 &times; 多维度数据 &mdash; vault/companies/{company}/ </div>
+    <div class="layer-grid">
+      <div class="layer-card todo-card">
+        <div class="card-name">Company Profiles</div>
+        <div class="card-desc">200家公司的标准化基础信息</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Org Data</div>
+        <div class="card-desc">组织架构、人事、文化</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Biz Data</div>
+        <div class="card-desc">产品、财务、客户、竞争</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Transcripts</div>
+        <div class="card-desc">访谈、演讲、Podcast</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Public Info</div>
+        <div class="card-desc">新闻、社交媒体、SEC</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+      <div class="layer-card todo-card">
+        <div class="card-name">Daily Crawl Skills</div>
+        <div class="card-desc">6+ 定时爬取任务<br>news / social / job / github / sec / exec-voice</div>
+        <div class="card-status todo">To Build</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<!-- ===== DATA FLOW ===== -->
+<h2>Data Flow</h2>
+
+<div style="margin:24px 0;">
+  <!-- Row 1: Daily cycle -->
+  <h3>Daily Cycle (自动化)</h3>
+  <div class="flow-container">
+    <div class="flow-step">
+      <div class="flow-step-title">Daily Crawl</div>
+      <div class="flow-step-desc">6+ Skills<br>定时抓取</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">Data Infra</div>
+      <div class="flow-step-desc">200家公司<br>数据更新</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Signal Engine</div>
+      <div class="flow-step-desc">扫描新信息<br>识别信号</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">Signal Proposals</div>
+      <div class="flow-step-desc">+ Key Questions<br>+ Confidence</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Delta Applied</div>
+      <div class="flow-step-desc">&ge;80% auto<br>50-80% human confirm</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">League Table</div>
+      <div class="flow-step-desc">动态排名<br>持续更新</div>
+    </div>
+  </div>
+
+  <!-- Row 2: Human-AI Cowork -->
+  <h3 style="margin-top:32px;">Human-AI Cowork (人机协作)</h3>
+  <div class="flow-container">
+    <div class="flow-step">
+      <div class="flow-step-title">Status 查看</div>
+      <div class="flow-step-desc">Signals / KQs<br>点击卡片</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Cowork 交互</div>
+      <div class="flow-step-desc">AI 主导判断<br>人提供一手信息</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">Confidence &Delta;</div>
+      <div class="flow-step-desc">置信度变化<br>材料 &times; 信源</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Delta Decision</div>
+      <div class="flow-step-desc">AI 决定增减<br>更新 Score</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">Status 更新</div>
+      <div class="flow-step-desc">Artifacts 产出<br>排名变动</div>
+    </div>
+  </div>
+
+  <!-- Row 3: Initial scoring -->
+  <h3 style="margin-top:32px;">Initial Scoring (一次性)</h3>
+  <div class="flow-container">
+    <div class="flow-step">
+      <div class="flow-step-title">Old Friend</div>
+      <div class="flow-step-desc">选择参照<br>e.g. Anthropic</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Invest Brain</div>
+      <div class="flow-step-desc">3 Skills<br>全维度评估</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">200家打分</div>
+      <div class="flow-step-desc">Org Pattern<br>+ Org Inf + Biz Inf</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step">
+      <div class="flow-step-title">Alike Score</div>
+      <div class="flow-step-desc">加权计算<br>Top 10 筛选</div>
+    </div>
+    <div class="flow-arrow">&rarr;</div>
+    <div class="flow-step highlight">
+      <div class="flow-step-title">Static Ranking</div>
+      <div class="flow-step-desc">基线 League Table<br>→ 进入 Daily Cycle</div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== ALIKE SCORE FORMULA ===== -->
+<h2>Alike Score Formula</h2>
+
+<div class="formula-box">
+  <div class="formula-main">
+    <span class="var">Alike Score</span> <span class="op">=</span>
+    <span class="var">W<sub>org</sub></span> <span class="op">&times;</span> OrgPatternMatch
+    <span class="op">+</span>
+    <span class="var">W<sub>orgInf</sub></span> <span class="op">&times;</span> OrgInflection
+    <span class="op">+</span>
+    <span class="var">W<sub>bizInf</sub></span> <span class="op">&times;</span> BizInflection
+  </div>
+
+  <div class="formula-grid">
+    <div class="formula-item">
+      <div class="formula-item-title">
+        <span style="color:#4a9;">&#9679;</span> OrgPatternMatch
+      </div>
+      <div class="formula-item-desc">
+        候选公司与 Old Friend 的组织 Winner Pattern 匹配度
+      </div>
+      <div class="dim-list">
+        D1-D7 + Fit 各维度得分<br>
+        &times; 因果位置权重 (spine/flywheel/support)<br>
+        &times; 诊断力权重 (signature/common)<br>
+        &rarr; 加权匹配百分比
+      </div>
+      <div class="card-status done" style="margin-top:12px;">Done</div>
+    </div>
+    <div class="formula-item">
+      <div class="formula-item-title">
+        <span style="color:#e8a849;">&#9679;</span> OrgInflection
+      </div>
+      <div class="formula-item-desc">
+        组织拐点信号强度
+      </div>
+      <div class="dim-list">
+        &bull; 关键人事变动（C-level 加入/离开）<br>
+        &bull; 组织架构重组<br>
+        &bull; 文化/考核制度转向<br>
+        &bull; 关键人物密度变化<br>
+        &rarr; 拐点强度 &times; 方向(正/负)
+      </div>
+      <div class="card-status todo" style="margin-top:12px;">To Build</div>
+    </div>
+    <div class="formula-item">
+      <div class="formula-item-title">
+        <span style="color:#e8a849;">&#9679;</span> BizInflection
+      </div>
+      <div class="formula-item-desc">
+        业务拐点信号强度
+      </div>
+      <div class="dim-list">
+        &bull; 产品发布 / 重大更新<br>
+        &bull; 大单签约 ($100M+)<br>
+        &bull; 技术突破 / 专利<br>
+        &bull; 融资事件 / 估值变化<br>
+        &rarr; 拐点强度 &times; 方向(正/负)
+      </div>
+      <div class="card-status todo" style="margin-top:12px;">To Build</div>
+    </div>
+  </div>
+
+  <div style="margin-top:24px;padding-top:20px;border-top:1px solid #e8e6e0;">
+    <h3>权重因 Old Friend 不同而不同</h3>
+    <table class="weight-table">
+      <tr>
+        <th>Old Friend</th>
+        <th>W<sub>org</sub></th>
+        <th>W<sub>orgInf</sub></th>
+        <th>W<sub>bizInf</sub></th>
+        <th style="color:#888;">Logic</th>
+      </tr>
+      <tr>
+        <td><strong>Anthropic</strong></td>
+        <td>50%</td>
+        <td>30%</td>
+        <td>20%</td>
+        <td class="weight-example">组织驱动型：递归org是核心竞争力，org inflection权重高</td>
+      </tr>
+      <tr>
+        <td><strong>AppLovin</strong></td>
+        <td>30%</td>
+        <td>20%</td>
+        <td>50%</td>
+        <td class="weight-example">效率+业务驱动型：AXON引擎和营收增长是核心信号</td>
+      </tr>
+      <tr>
+        <td><strong>Netflix</strong></td>
+        <td>40%</td>
+        <td>25%</td>
+        <td>35%</td>
+        <td class="weight-example">文化+内容驱动型：Freedom & Responsibility文化 + 内容策略拐点</td>
+      </tr>
+      <tr>
+        <td><strong>ByteDance</strong></td>
+        <td>35%</td>
+        <td>25%</td>
+        <td>40%</td>
+        <td class="weight-example">算法+组织驱动型：推荐引擎突破 + 组织效率是双引擎</td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- ===== CONFIDENCE FRAMEWORK ===== -->
+<h2>Confidence Framework (Delta 决策机制)</h2>
+
+<div class="confidence-section">
+  <div class="conf-axis">
+    <div class="conf-axis-title">Axis 1: 材料置信度 (Evidence Dimensionality)</div>
+    <div class="conf-levels">
+      <div class="conf-level high">
+        <div class="level-score">L4</div>
+        多维度<br>多信息源<br>校验
+      </div>
+      <div class="conf-level mid">
+        <div class="level-score">L3</div>
+        多维度<br>单信息源<br>校验
+      </div>
+      <div class="conf-level mid">
+        <div class="level-score">L2</div>
+        单维度<br>多信息源<br>校验
+      </div>
+      <div class="conf-level low">
+        <div class="level-score">L1</div>
+        单维度<br>单信息源<br>校验
+      </div>
+    </div>
+  </div>
+
+  <div class="conf-axis">
+    <div class="conf-axis-title">Axis 2: 信源置信度 (Source Credibility)</div>
+    <div class="conf-levels">
+      <div class="conf-level high">
+        <div class="level-score">S5</div>
+        客观事实<br>直接导出<br><span style="font-size:10px;color:#888;">官网产品上线<br>SEC filing</span>
+      </div>
+      <div class="conf-level high">
+        <div class="level-score">S4</div>
+        客观事实<br>间接推导<br><span style="font-size:10px;color:#888;">GitHub +40%<br>招聘页撤下</span>
+      </div>
+      <div class="conf-level mid">
+        <div class="level-score">S3</div>
+        主观创始人/<br>管理层/一手专家<br><span style="font-size:10px;color:#888;">Podcast/访谈<br>专家call</span>
+      </div>
+      <div class="conf-level mid">
+        <div class="level-score">S2</div>
+        主观买方/<br>媒体报道<br><span style="font-size:10px;color:#888;">投资人采访<br>TechCrunch</span>
+      </div>
+      <div class="conf-level low">
+        <div class="level-score">S1</div>
+        主观卖方<br>投研报告<br><span style="font-size:10px;color:#888;">券商研报<br>分析师观点</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="conf-axis" style="background:#fffbf0;border-color:#e8a849;">
+    <div class="conf-axis-title">Delta Decision Rule (AI 自主决策)</div>
+    <div class="conf-levels">
+      <div class="conf-level high" style="background:#e6f5ee;">
+        <div class="level-score" style="color:#2a7;">&ge; 80%</div>
+        <strong>Auto Apply</strong><br>
+        AI 直接应用 Delta<br>
+        通知人类
+      </div>
+      <div class="conf-level mid" style="background:#fef8ed;">
+        <div class="level-score" style="color:#c87;">50-80%</div>
+        <strong>Recommend</strong><br>
+        AI 推荐应用<br>
+        人类可提供更多信息
+      </div>
+      <div class="conf-level low" style="background:#fef0f0;">
+        <div class="level-score" style="color:#c55;">&lt; 50%</div>
+        <strong>Pending</strong><br>
+        标记为待验证<br>
+        不调分
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  Alike Investment System Architecture v1.0 &mdash; March 2026 &mdash; AI-Native Investment Fund
+</div>
+
+</body>
+</html>

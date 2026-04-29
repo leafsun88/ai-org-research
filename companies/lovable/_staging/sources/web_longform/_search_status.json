@@ -1,0 +1,18 @@
+{
+  "research_key": "LOVABLE",
+  "company": "Lovable",
+  "channel": "web_longform",
+  "generated_at": "2026-04-21T14:52:49",
+  "query_map": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/sources/web_longform/_web_query_map.md",
+  "inherited_podcast_query_map": "/Users/leafsun/Desktop/AI Org研究/scripts/LOVABLE/_podcast_query_map.md",
+  "query_count": 1,
+  "total_returned_urls": 0,
+  "statuses": [
+    {
+      "query": "Lovable Anton Osika podcast",
+      "provider": "perplexity",
+      "returned_urls": 0,
+      "status": "no_results_or_provider_failed"
+    }
+  ]
+}

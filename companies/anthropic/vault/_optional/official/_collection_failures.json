@@ -1,0 +1,9 @@
+[
+  {
+    "status": "failed",
+    "url": "https://www.anthropic.com/news/driving-ai-transformation-with-claude",
+    "title": "driving-ai-transformation-with-claude",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

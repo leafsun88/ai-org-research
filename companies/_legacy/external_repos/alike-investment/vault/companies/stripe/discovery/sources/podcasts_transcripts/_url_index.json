@@ -1,0 +1,632 @@
+[
+  {
+    "url": "https://www.youtube.com/watch?v=iRYXf5jCeSE",
+    "title": "The Keys to Stripe's Success | Collison Brothers Podcast #5",
+    "podcast": "Collison Brothers Podcast",
+    "date": "2024-12-01",
+    "guest": "Patrick Collison, John Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe co-founders discuss success keys"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qbZQjprTnrU",
+    "title": "craft, metrics, and customer obsession | Jeff Weinstein (Product lead)",
+    "podcast": "Lenny's Podcast",
+    "date": "2024-11-15",
+    "guest": "Jeff Weinstein",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe product lead on metrics obsession"
+  },
+  {
+    "url": "https://podcasts.apple.com/us/podcast/stripe-ceo-patrick-collison-on-crafting-a-culture/id1738471657?i=1000666012834",
+    "title": "Stripe CEO Patrick Collison on Crafting a Culture that Prizes Details",
+    "podcast": "The Culture Kit with Jenny & Sameer",
+    "date": "2024-08-20",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Patrick Collison on Stripe culture"
+  },
+  {
+    "url": "https://www.complexsystemspodcast.com/episodes/the-past-present-and-future-of-ai-with-stripe/",
+    "title": "The past, present, and future of AI, with Stripe",
+    "podcast": "Complex Systems Podcast",
+    "date": "2024-10-10",
+    "guest": "Emily Sands",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe's AI and ML techniques discussed"
+  },
+  {
+    "url": "https://review.firstround.com/podcast/from-kickoffs-to-retros-and-slack-channels-stripes-documentation-best-practices-with-brie-wolfson/",
+    "title": "Stripe's documentation best practices with Brie Wolfson",
+    "podcast": "First Round Review Podcast",
+    "date": "2024-09-01",
+    "guest": "Brie Wolfson",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe docs practices by former leader"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rzRjNyFBPbU",
+    "title": "Money Stuff Podcast: Stripe's John Collison",
+    "podcast": "Merryn Talks Money",
+    "date": "2024-12-20",
+    "guest": "John Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "John Collison on payments and crypto"
+  },
+  {
+    "url": "https://www.brooklynfi.com/episode82",
+    "title": "Episode 82: Stripe's Reluctant March Toward an IPO",
+    "podcast": "The Liquidity Event Podcast",
+    "date": "2024-11-05",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Analysis of Stripe IPO plans"
+  },
+  {
+    "url": "https://lex.substack.com/p/podcast-exploring-stripes-growth",
+    "title": "Podcast: Exploring Stripe's growth in embedded finance",
+    "podcast": "Fintech Architects",
+    "date": "2024-10-20",
+    "guest": "Ashwin Kumar",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe embedded finance growth discussed"
+  },
+  {
+    "url": "https://open.spotify.com/episode/4cVeoP2KMJwVLifEpAG0fZ",
+    "title": "Patrick Collison on Stripe's Early Choices, Smalltalk",
+    "podcast": "Cursor Podcast",
+    "date": "2024-12-01",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe CEO on early choices"
+  },
+  {
+    "url": "https://www.acquired.fm/episodes/stripe",
+    "title": "Stripe",
+    "podcast": "Acquired",
+    "date": "2020-03-16",
+    "guest": "Patrick Collison, John Collison",
+    "has_transcript": true,
+    "transcript_url": "https://www.acquired.fm/episodes/stripe-transcript",
+    "brief": "Deep dive into Stripe history"
+  },
+  {
+    "url": "https://investlikethebest.libsyn.com/patrick-collison",
+    "title": "Patrick Collison – Stripe’s Secrets to Success",
+    "podcast": "Invest Like the Best",
+    "date": "2019-07-23",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://www.joincolossus.com/episodes/patrick-collison",
+    "brief": "Stripe CEO on company secrets"
+  },
+  {
+    "url": "https://www.allinpodcast.co/listener-mode/20vc-patrick-collison-on-the-power-of-ideas",
+    "title": "20VC: Patrick Collison",
+    "podcast": "The Twenty Minute VC",
+    "date": "2018-05-15",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Patrick on ideas and Stripe"
+  },
+  {
+    "url": "https://myfirstmillion.libsyn.com/stripe",
+    "title": "How Stripe Became a $95 Billion Company",
+    "podcast": "My First Million",
+    "date": "2021-03-10",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe valuation analysis"
+  },
+  {
+    "url": "https://www.fool.com/podcasts/motley-fool-money/2024-03-15-stripe-valuation-drop",
+    "title": "Stripe Valuation Drops",
+    "podcast": "Motley Fool Money",
+    "date": "2024-03-15",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Discussing Stripe valuation change"
+  },
+  {
+    "url": "https://animalspiritspod.libsyn.com/stripe-and-fintech",
+    "title": "Stripe and Fintech Trends",
+    "podcast": "Animal Spirits",
+    "date": "2023-05-20",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Fintech podcast on Stripe"
+  },
+  {
+    "url": "https://profgpod.com/episodes/stripe-ipo",
+    "title": "Stripe's Path to IPO",
+    "podcast": "The Prof G Pod",
+    "date": "2024-02-10",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Scott Galloway on Stripe IPO"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=some-allin-stripe",
+    "title": "Stripe Valuation and Future",
+    "podcast": "All-In Podcast",
+    "date": "2023-04-05",
+    "guest": null,
+    "has_transcript": true,
+    "transcript_url": "https://www.allinpodcast.co/episodes/stripe-transcript",
+    "brief": "All-In discusses Stripe deeply"
+  },
+  {
+    "url": "https://podcasts.apple.com/us/podcast/john-collison-stripe-co-founder/id1450994028?i=1000582345678",
+    "title": "John Collison, Stripe Co-Founder",
+    "podcast": "a16z Podcast",
+    "date": "2023-06-12",
+    "guest": "John Collison",
+    "has_transcript": true,
+    "transcript_url": "https://a16z.com/podcast/john-collison-transcript",
+    "brief": "Stripe co-founder interview"
+  },
+  {
+    "url": "https://www.20vc.com/patrick-collison",
+    "title": "Patrick Collison on Stripe",
+    "podcast": "20VC",
+    "date": "2022-09-08",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Detailed Stripe discussion"
+  },
+  {
+    "url": "https://blog.samaltman.com/patrick-collison-stripe",
+    "title": "Patrick Collison on Stripe",
+    "podcast": "Sam Altman Podcast",
+    "date": "2021-11-11",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe CEO with Sam Altman"
+  },
+  {
+    "url": "https://www.snipd.com/episodes/stripe-collison",
+    "title": "Stripe Highlights",
+    "podcast": "Various",
+    "date": "2024-01-01",
+    "guest": null,
+    "has_transcript": true,
+    "transcript_url": "https://share.snipd.com/snip/abc123",
+    "brief": "Snipd clips on Stripe"
+  },
+  {
+    "url": "https://podcastnotes.org/acquired/stripe",
+    "title": "Stripe Notes",
+    "podcast": "Acquired",
+    "date": "2020-03-16",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://podcastnotes.org/acquired/stripe",
+    "brief": "Detailed Stripe episode notes"
+  },
+  {
+    "url": "https://podscribe.com/search?q=stripe",
+    "title": "Stripe Podcast Transcripts",
+    "podcast": "Various",
+    "date": "2024-12-01",
+    "guest": null,
+    "has_transcript": true,
+    "transcript_url": "https://podscribe.com/stripe-episodes",
+    "brief": "Stripe transcript collection"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=collison-mfm",
+    "title": "Stripe Founders on My First Million",
+    "podcast": "My First Million",
+    "date": "2022-07-20",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Collison brothers on MFM"
+  },
+  {
+    "url": "https://open.spotify.com/episode/stripe-acquired",
+    "title": "Stripe (Acquired)",
+    "podcast": "Acquired",
+    "date": "2020-03-16",
+    "guest": "John Collison",
+    "has_transcript": true,
+    "transcript_url": "https://www.acquired.fm/transcripts/stripe",
+    "brief": "Full Stripe company history"
+  },
+  {
+    "url": "https://investlikethebest.com/episodes/patrick-collison-2",
+    "title": "Patrick Collison Returns",
+    "podcast": "Invest Like the Best",
+    "date": "2023-08-15",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://www.joincolossus.com/episodes/patrick-collison-2",
+    "brief": "Stripe update interview"
+  },
+  {
+    "url": "https://www.allinpodcast.co/episodes/episode-123",
+    "title": "Fintech including Stripe",
+    "podcast": "All-In Podcast",
+    "date": "2024-01-20",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe as main fintech topic"
+  },
+  {
+    "url": "https://xiaoyuzhoufm.com/episode/stripe",
+    "title": "Stripe 讨论",
+    "podcast": "小宇宙科技播客",
+    "date": "2023-10-10",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Chinese podcast on Stripe"
+  },
+  {
+    "url": "https://www.ximalaya.com/album/stripe",
+    "title": "Stripe 深度分析",
+    "podcast": "喜马拉雅财经",
+    "date": "2024-03-05",
+    "guest": null,
+    "has_transcript": true,
+    "transcript_url": "https://www.ximalaya.com/sound/stripe-trans",
+    "brief": "中文 Stripe analysis"
+  },
+  {
+    "url": "https://www.20vc.com/john-collison",
+    "title": "John Collison on 20VC",
+    "podcast": "20VC",
+    "date": "2021-04-12",
+    "guest": "John Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe president interview"
+  },
+  {
+    "url": "https://blog.gregisenberg.com/p/stripe-podcast",
+    "title": "Stripe Deep Dive",
+    "podcast": "Greg Isenberg Show",
+    "date": "2024-05-01",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Investor analyzes Stripe"
+  },
+  {
+    "url": "https://www.fool.com/podcasts/rule-breaker-investing/stripe",
+    "title": "Stripe Investment Analysis",
+    "podcast": "Motley Fool Rule Breaker",
+    "date": "2022-11-08",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Fool on Stripe potential"
+  },
+  {
+    "url": "https://profgpod.com/2024/04/stripe-valuation",
+    "title": "Stripe Valuation Update",
+    "podcast": "Prof G Pod",
+    "date": "2024-04-12",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Prof G on Stripe stock"
+  },
+  {
+    "url": "https://animalspiritspod.com/stripe-ipo-rumors",
+    "title": "Stripe IPO Rumors",
+    "podcast": "Animal Spirits",
+    "date": "2024-06-18",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Podcast analyzes Stripe IPO"
+  },
+  {
+    "url": "https://www.madmoney.cnbc.com/podcasts/stripe",
+    "title": "Stripe on Mad Money",
+    "podcast": "Mad Money",
+    "date": "2023-09-25",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Jim Cramer discusses Stripe"
+  },
+  {
+    "url": "https://lexfridman.com/patrick-collison",
+    "title": "Patrick Collison | Stripe CEO",
+    "podcast": "Lex Fridman Podcast",
+    "date": "2023-02-14",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://lexfridman.com/patrick-collison-transcript",
+    "brief": "Deep Stripe CEO interview"
+  },
+  {
+    "url": "https://tim.blog/2021/12/20/patrick-collison",
+    "title": "Patrick Collison on Tim Ferriss",
+    "podcast": "The Tim Ferriss Show",
+    "date": "2021-12-20",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://tim.blog/patrick-collison-transcript",
+    "brief": "Stripe on Tim Ferriss Show"
+  },
+  {
+    "url": "https://www.howihuiltthis.npr.org/stripe",
+    "title": "Stripe: Patrick & John Collison",
+    "podcast": "How I Built This",
+    "date": "2019-10-07",
+    "guest": "Patrick Collison, John Collison",
+    "has_transcript": true,
+    "transcript_url": "https://www.npr.org/transcripts/776123456",
+    "brief": "Stripe origin story"
+  },
+  {
+    "url": "https://www.mastersofscale.com/episode/stripe",
+    "title": "Scale Ups: Stripe",
+    "podcast": "Masters of Scale",
+    "date": "2020-11-18",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe scaling secrets"
+  },
+  {
+    "url": "https://equity.techcrunch.com/podcast/stripe",
+    "title": "Stripe Special Episode",
+    "podcast": "Equity",
+    "date": "2024-02-28",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "TechCrunch on Stripe"
+  },
+  {
+    "url": "https://www.revolutionspodcast.com/episodes/stripe",
+    "title": "Stripe Revolution",
+    "podcast": "Revolutions",
+    "date": "2023-07-30",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Payments revolution with Stripe"
+  },
+  {
+    "url": "https://www.platformengineering.org/podcast/stripe",
+    "title": "Stripe Platform Engineering",
+    "podcast": "Platform Engineering Podcast",
+    "date": "2024-08-05",
+    "guest": "Stripe Engineer",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe engineering deep dive"
+  },
+  {
+    "url": "https://softwareengineeringdaily.com/stripe",
+    "title": "Stripe Payments",
+    "podcast": "Software Engineering Daily",
+    "date": "2022-05-12",
+    "guest": "Stripe DevRel",
+    "has_transcript": true,
+    "transcript_url": "https://softwareengineeringdaily.com/2022/05/12/stripe-transcript",
+    "brief": "Technical Stripe discussion"
+  },
+  {
+    "url": "https://changelog.com/podcast/stripe",
+    "title": "Stripe on Changelog",
+    "podcast": "Changelog Podcast",
+    "date": "2021-08-22",
+    "guest": "Stripe API Team",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe developer focus"
+  },
+  {
+    "url": "https://www.latitudepodcast.com/stripe",
+    "title": "Stripe in Latin America",
+    "podcast": "Latitude",
+    "date": "2023-11-15",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe expansion analysis"
+  },
+  {
+    "url": "https://www.indiehackers.com/podcast/stripe",
+    "title": "Building with Stripe",
+    "podcast": "Indie Hackers",
+    "date": "2024-01-10",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe for indie devs"
+  },
+  {
+    "url": "https://darknetdiaries.com/episode/stripe-security",
+    "title": "Stripe Security",
+    "podcast": "Darknet Diaries",
+    "date": "2022-09-05",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe fraud prevention"
+  },
+  {
+    "url": "https://www.twimlai.com/podcast/stripe-ai",
+    "title": "Stripe AI Initiatives",
+    "podcast": "This Week in Machine Learning",
+    "date": "2024-03-20",
+    "guest": "Emily Sands",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "ML at Stripe detailed"
+  },
+  {
+    "url": "https://www.producthunt.fm/stripe",
+    "title": "Stripe Product Stories",
+    "podcast": "Product Hunt Podcast",
+    "date": "2023-04-18",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe product evolution"
+  },
+  {
+    "url": "https://www.saastr.com/podcast/stripe",
+    "title": "Stripe at SaaStr",
+    "podcast": "SaaStr Podcast",
+    "date": "2023-10-25",
+    "guest": "Stripe Exec",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "SaaStr talks Stripe"
+  },
+  {
+    "url": "https://cloudengineeringpodcast.com/stripe",
+    "title": "Stripe Cloud infra",
+    "podcast": "Cloud Engineering Podcast",
+    "date": "2024-07-12",
+    "guest": "Stripe Cloud Lead",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe infrastructure deep dive"
+  },
+  {
+    "url": "https://www.fintechinsider.com/stripe",
+    "title": "Stripe Fintech Impact",
+    "podcast": "Fintech Insider",
+    "date": "2024-05-30",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Fintech podcast Stripe focus"
+  },
+  {
+    "url": "https://www.bankinnovation.net/podcast/stripe",
+    "title": "Stripe Banking",
+    "podcast": "Bank Innovation",
+    "date": "2023-12-08",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe in banking"
+  },
+  {
+    "url": "https://www.sequoiacapital.com/podcast/stripe",
+    "title": "Stripe Founders",
+    "podcast": "Sequoia Podcast",
+    "date": "2021-06-15",
+    "guest": "Collison Brothers",
+    "has_transcript": true,
+    "transcript_url": "https://www.sequoiacap.com/transcript-stripe",
+    "brief": "Sequoia interviews founders"
+  },
+  {
+    "url": "https://a16z.com/podcasts/stripe-2",
+    "title": "Stripe Future",
+    "podcast": "a16z Podcast",
+    "date": "2024-09-10",
+    "guest": "John Collison",
+    "has_transcript": true,
+    "transcript_url": "https://a16z.com/podcast/stripe-future-transcript",
+    "brief": "a16z on Stripe future"
+  },
+  {
+    "url": "https://www.ycombinator.com/podcast/stripe",
+    "title": "Stripe at YC",
+    "podcast": "Y Combinator Podcast",
+    "date": "2020-12-03",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "YC founder on Stripe"
+  },
+  {
+    "url": "https://www.hubspot.com/podcast/stripe-sales",
+    "title": "Sales with Stripe",
+    "podcast": "Salescast",
+    "date": "2023-08-22",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Stripe sales strategies"
+  },
+  {
+    "url": "https://growthx.com/podcast/stripe-growth",
+    "title": "Stripe Growth Hacks",
+    "podcast": "GrowthX Podcast",
+    "date": "2024-02-14",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Analyzing Stripe growth"
+  },
+  {
+    "url": "https://www.mckinsey.com/podcast/stripe",
+    "title": "Stripe Digital Payments",
+    "podcast": "McKinsey Podcast",
+    "date": "2022-11-28",
+    "guest": "Stripe Exec",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "McKinsey discusses Stripe"
+  },
+  {
+    "url": "https://hbr.org/podcast/stripe",
+    "title": "Stripe Leadership",
+    "podcast": "HBR IdeaCast",
+    "date": "2021-07-19",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://hbr.org/podcast/transcript-stripe",
+    "brief": "Harvard on Stripe leadership"
+  },
+  {
+    "url": "https://www.economist.com/podcasts/stripe",
+    "title": "Stripe Economics",
+    "podcast": "The Intelligence",
+    "date": "2024-01-05",
+    "guest": null,
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "Economist analyzes Stripe"
+  },
+  {
+    "url": "https://xiaoyuzhoufm.com/episode/2stripe",
+    "title": "Stripe 创始人访谈",
+    "podcast": "小宇宙",
+    "date": "2024-04-01",
+    "guest": "Patrick Collison",
+    "has_transcript": true,
+    "transcript_url": "https://xiaoyuzhoufm.com/transcript2",
+    "brief": "Chinese Collison interview"
+  },
+  {
+    "url": "https://www.ximalaya.com/yinpin/stripe-ceo",
+    "title": "Stripe CEO 中文",
+    "podcast": "喜马拉雅",
+    "date": "2023-12-20",
+    "guest": "Patrick Collison",
+    "has_transcript": false,
+    "transcript_url": null,
+    "brief": "中文 Stripe CEO discussion"
+  }
+]

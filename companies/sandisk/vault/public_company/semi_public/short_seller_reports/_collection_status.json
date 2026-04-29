@@ -1,0 +1,13 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "channel": "short_seller_reports",
+  "status": "scaffolded",
+  "queries": [
+    "SNDK short seller report",
+    "Sandisk short report"
+  ],
+  "source_rule": "Save real URLs and source artifacts only; summaries are stored separately and never labeled as originals.",
+  "recommended_existing_collect_command": null,
+  "updated_at": "2026-04-26T09:39:55"
+}

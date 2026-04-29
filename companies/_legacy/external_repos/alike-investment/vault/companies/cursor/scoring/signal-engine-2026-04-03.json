@@ -1,0 +1,589 @@
+{
+  "date": "2026-04-03",
+  "company": "Cursor",
+  "old_friend": "Anthropic",
+  "source_hash": "cursor_initial_import_20260403",
+  "auto_applied": [
+    {
+      "id": "sig_cursor_001",
+      "signal": "CEO认知深度：Michael Truell展现了超越同龄CEO的系统性思维——iPod/iPhone范式跳跃类比、'wandering in the desert'的诚实叙事、反直觉战略选择（做IDE而非Agent），14岁创建被Two Sigma采用的AI竞赛平台Halite",
+      "confidence": 90,
+      "significance": "HIGH",
+      "dimensions": [
+        "D1",
+        "D7"
+      ],
+      "delta": {
+        "D1": 0.4,
+        "D7": 0.3
+      },
+      "source": "a16z Podcast / Lex Fridman #447 / Lenny's Podcast",
+      "source_classification": "S3",
+      "event_date": "2026-01-13",
+      "stale": false,
+      "key_question": "25岁CEO的认知深度是否能持续进化以应对从$2B到$10B ARR的组织复杂度？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "14岁Halite平台被Two Sigma采用→早期pattern recognition能力验证",
+            "CAD工具'沙漠漫游'→诚实承认错误的元认知能力",
+            "iPod/iPhone类比→对技术周期有清醒判断",
+            "面试禁用AI→反直觉但符合第一性原理的决策",
+            "Patrick Collison级别社交圈→被行业顶级CEO认可"
+          ],
+          "missing": [
+            "危机应对能力（公司尚未经历真正的逆境）",
+            "长期战略执行track record"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "与Dario Amodei类似：学术→创业的认知迁移",
+            "与Patrick Collison类似：年轻CEO+技术深度+产品直觉"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "25岁，尚未经历完整的商业周期和衰退期"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D1": 0.4,
+        "D7": 0.3
+      }
+    },
+    {
+      "id": "sig_cursor_002",
+      "signal": "极致人才密度：300人创造$2B ARR（人均$666万/年），2天实战测试+面试禁用AI保持筛选标准，40人模型团队汇集顶尖研究员，通过M&A获取关键人才（Supermaven/Graphite/Koala）",
+      "confidence": 85,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D6"
+      ],
+      "delta": {
+        "D2": -0.3,
+        "D6": -0.2
+      },
+      "source": "a16z Podcast / Aman Sanger Twitter",
+      "source_classification": "S3",
+      "event_date": "2026-03-01",
+      "stale": false,
+      "key_question": "从300人到1000人的扩张中能否保持人才密度？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "人均$666万ARR——SaaS史上最高效率之一",
+            "2天实战测试在200+人公司仍坚持",
+            "M&A获取Supermaven(前Copilot核心人物)、Graphite($52M融资公司)等关键人才",
+            "收购Growth by Design(招聘策略公司)说明对招聘本身的重视"
+          ],
+          "missing": [
+            "员工留存率数据",
+            "薪酬竞争力与FAANG对比"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "与Anthropic类似：小团队+极高人才密度",
+            "2天实战测试类似Anthropic的严格面试文化"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "非上市公司，无公开HR数据验证"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D2": -0.3,
+        "D6": -0.2
+      }
+    },
+    {
+      "id": "sig_cursor_003",
+      "signal": "CTO Arvid Lunnemark离职：创始团队从4人变3人，CTO职位空缺至今无继任者，IOI+IMO奖牌得主转向AI安全研究",
+      "confidence": 95,
+      "significance": "HIGH",
+      "dimensions": [
+        "D5",
+        "D6"
+      ],
+      "delta": {
+        "D5": 0.5,
+        "D6": 0.3
+      },
+      "source": "arvid.xyz personal blog",
+      "source_classification": "S3",
+      "event_date": "2025-10-18",
+      "stale": false,
+      "key_question": "CTO空缺是否已由Sualeh Asif实际填补？是否有核心工程师跟随Arvid离开？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "离职声明措辞正面无不满",
+            "创立Integrous Research——不同赛道，非竞争",
+            "仍持有~$1.3B股权——利益绑定仍在",
+            "Sualeh在Stanford CS153以'CTO'身份出现——暗示职责转移"
+          ],
+          "missing": [
+            "是否有工程师跟随离开",
+            "内部对离职的真实反应"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Ilya Sutskever离开OpenAI创立SSI——理想主义者从商业公司转向安全研究"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "在估值最高点离开，是否预见了竞争风险？"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D5": 0.5,
+        "D6": 0.3
+      }
+    },
+    {
+      "id": "sig_cursor_004",
+      "signal": "递归自用：Cursor用Cursor构建Cursor，agent编排'orchestra'可部署多个自主AI协作构建完整web浏览器",
+      "confidence": 80,
+      "significance": "HIGH",
+      "dimensions": [
+        "D7"
+      ],
+      "delta": {
+        "D7": 0.4
+      },
+      "source": "Connecting the Dots Podcast / Twitter",
+      "source_classification": "S3",
+      "event_date": "2026-03-09",
+      "stale": false,
+      "key_question": "递归自用是否转化为真正的组织效率优势（vs 仅是叙事）？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "团队自己是产品重度用户——低谷期的坚持源于此",
+            "Agent orchestra实验：多AI协作构建完整浏览器",
+            "Context重构减少46.9% token使用",
+            "300人/$2B ARR的极致人效比间接验证"
+          ],
+          "missing": [
+            "具体内部开发效率量化数据"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Anthropic用Claude辅助研究——递归式能力增强"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": []
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D7": 0.4
+      }
+    },
+    {
+      "id": "sig_cursor_005",
+      "signal": "All-in单产品赌注：拒绝多方向分散，选择VS Code fork做AI-first IDE，拒绝OpenAI等巨头收购要约（传闻multi-billion级别），专注power users而非'民主化'",
+      "confidence": 85,
+      "significance": "HIGH",
+      "dimensions": [
+        "D6",
+        "D5"
+      ],
+      "delta": {
+        "D6": 0.3,
+        "D5": 0.2
+      },
+      "source": "Lex Fridman #447 / Fortune / a16z Podcast",
+      "source_classification": "S3",
+      "event_date": "2025-06-01",
+      "stale": false,
+      "key_question": "All-in IDE赌注在Claude Code/Terminal Agent崛起后是否需要重新评估？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "20个月$0→$100M ARR验证了IDE赌注的正确性",
+            "拒绝收购要约说明CEO conviction极强",
+            "专注power users→更高ARPU→更好的单位经济",
+            "现在逐步向多产品扩展但仍以IDE为核心"
+          ],
+          "missing": [
+            "IDE vs Terminal Agent的长期架构优劣结论"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "与Anthropic拒绝Google收购类似——选择独立发展"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "Claude Code $2.5B run rate证明Terminal Agent是可行的替代范式"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D6": 0.3,
+        "D5": 0.2
+      }
+    },
+    {
+      "id": "sig_cursor_006",
+      "signal": "4位MIT同学团队动力学：极度平等主义决策、每日三餐辩论核心战略、价值观高度一致、无外部空降高管。Aman家庭背景（父亲对冲基金创始人）提供资本市场认知",
+      "confidence": 80,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D1",
+        "D4"
+      ],
+      "delta": {
+        "D1": 0.2,
+        "D4": 0.2
+      },
+      "source": "Lex Fridman #447 / Web Research",
+      "source_classification": "S3",
+      "event_date": "2024-10-06",
+      "stale": false,
+      "key_question": "3人团队能否在$50B+估值下维持创始人驱动的扁平决策？是否需要引入职业经理人？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "Lex Fridman播客中四人展现了极高的思维同步性",
+            "无外部空降高管——文化纯度极高",
+            "Aman父亲是对冲基金创始人——资本市场人脉",
+            "Sualeh IMO铜牌/Arvid IOI+IMO奖牌——团队智力密度"
+          ],
+          "missing": [
+            "内部决策冲突案例",
+            "Arvid离开后三人决策动力学变化"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "类似Anthropic联合创始人团队：学术背景×技术深度×使命一致"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "300人公司没有独立董事会、无外部advisor公开记录——治理风险"
+          ]
+        }
+      },
+      "applied_at": "2026-04-03T12:00:00Z",
+      "dims": {
+        "D1": 0.2,
+        "D4": 0.2
+      }
+    }
+  ],
+  "proposals": [
+    {
+      "id": "sig_cursor_007",
+      "signal": "极端key-man risk：300人公司完全依赖3个25-26岁创始人，无职业经理人、无独立董事会、无外部advisor公开记录",
+      "confidence": 75,
+      "significance": "HIGH",
+      "dimensions": [
+        "D2",
+        "D4"
+      ],
+      "delta": {
+        "D2": 0.2,
+        "D4": 0.2
+      },
+      "source": "Org Scan Report",
+      "source_classification": "S2",
+      "key_question": "如果任何一位剩余创始人离开，组织能否正常运转？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "无公开的董事会构成信息",
+            "无CFO/CTO外部招聘",
+            "无succession plan公开信息"
+          ],
+          "missing": [
+            "董事会构成",
+            "内部管理层级细节"
+          ]
+        },
+        "pattern": {
+          "match": false,
+          "points": [
+            "Anthropic有多位资深external hire(如CFO)，Cursor完全没有"
+          ]
+        },
+        "adversarial": {
+          "holes": 1,
+          "points": [
+            "Arvid离职证明创始人是可以离开的"
+          ]
+        }
+      },
+      "validation_trigger": "新CTO任命或外部高管招聘公告",
+      "dims": {
+        "D2": 0.2,
+        "D4": 0.2
+      }
+    },
+    {
+      "id": "sig_cursor_008",
+      "signal": "Aman Sanger快速认错能力：Kimi K2.5基座未披露事件中展现了健康的错误处理文化——'It was a miss'而非defensive回应",
+      "confidence": 70,
+      "significance": "MEDIUM",
+      "dimensions": [
+        "D3"
+      ],
+      "delta": {
+        "D3": 0.2
+      },
+      "source": "Twitter @amanrsanger",
+      "source_classification": "S3",
+      "key_question": "这种透明度文化能否制度化，还是仅依赖创始人个人品格？",
+      "triangulate": {
+        "evidence": {
+          "pass": true,
+          "points": [
+            "Aman直接在Twitter公开认错",
+            "承诺下次模型发布会披露基座选择"
+          ],
+          "missing": [
+            "是否有其他类似事件的处理案例"
+          ]
+        },
+        "pattern": {
+          "match": true,
+          "points": [
+            "健康的错误文化与Anthropic的安全透明度承诺类似"
+          ]
+        },
+        "adversarial": {
+          "holes": 0,
+          "points": []
+        }
+      },
+      "validation_trigger": "下一次产品争议的处理方式",
+      "dims": {
+        "D3": 0.2
+      }
+    }
+  ],
+  "watch": [
+    {
+      "signal": "非上市信息黑箱：$2B ARR是自我披露，无SEC filing、无审计报告、无第三方验证，毛利率/获客成本/留存率全部未知",
+      "reason": "信息质量限制，非组织信号，但影响所有评估的置信度",
+      "id": "sig_cursor_watch_001",
+      "dims": {
+        "D4": -0.2
+      },
+      "dimensions": [
+        "D4"
+      ],
+      "delta": {
+        "D4": -0.2
+      }
+    }
+  ],
+  "discard": [
+    {
+      "signal": "估值从$400M到$50B增长125倍",
+      "reason": "估值变动是资本市场信号，非组织信号"
+    },
+    {
+      "signal": "1M+ DAU、67% Fortune 500采用",
+      "reason": "用户增长指标，属于业务数据→KQ evidence trail"
+    }
+  ],
+  "key_questions": [
+    {
+      "id": "kq_cursor_001",
+      "question": "2026年下半年ARR增速：能否维持100%+ YoY还是降至<50%（Claude Code/Copilot竞争侵蚀）？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：Cursor ARR从$1B(2025.10)到$2B(2026.02)仅用4个月，增速惊人。但面临三重压力：(1)Claude Code达$2.5B run rate直接竞争；(2)Anthropic Priority Tier提价推高COGS；(3)GitHub Copilot拥有20M+用户的分发优势和更低价格。企业客户占比上升至60%是积极信号（更高粘性），但个人开发者层面的竞争最为激烈。自研模型（Composer 2）和context重构（-46.9% token）是降低供应商依赖的关键举措。如果H2增速降至<50%，说明竞争侵蚀开始显现。",
+      "sources": [
+        "TechCrunch",
+        "Fortune",
+        "MBI Deep Dives"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "月度ARR增长率",
+          "frequency": "月",
+          "green_threshold": ">8% MoM",
+          "red_threshold": "<4% MoM",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "企业客户净新增",
+          "frequency": "季",
+          "green_threshold": ">5000/季",
+          "red_threshold": "<2000/季",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "NRR(净收入留存率)",
+          "frequency": "季",
+          "green_threshold": ">130%",
+          "red_threshold": "<110%",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-03",
+          "source": "ai_init",
+          "content": "基于公开报道，ARR从$1B到$2B用时4个月。企业客户占比60%，Fortune 500渗透率67%。但供应商成本压力（Anthropic Priority Tier）和直接竞争（Claude Code $2.5B run rate）构成增长阻力。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "yellow",
+      "blocking": true
+    },
+    {
+      "id": "kq_cursor_002",
+      "question": "IDE vs Terminal Agent之争：哪种范式将主导AI辅助编程？Cursor的IDE路线是否是长期正确的架构赌注？",
+      "resolves_by": "2027-06-30",
+      "author": "ai",
+      "evolving_answer": "当前评估：两种范式可能共存而非赢家通吃。IDE路线优势：(1)丰富的视觉界面和多文件编辑体验；(2)已建立的开发者工作流惯性；(3)更适合需要人类审查的场景。Terminal Agent优势：(1)更接近完全自主化的方向；(2)不受IDE架构限制；(3)Claude Code的增长速度验证了需求。Truell的回应策略：(1)扩展Agent模式+多产品套件；(2)自研模型降低对第三方依赖；(3)First Proof数学突破暗示技术可泛化。关键变量是LLM能力提升速度——如果足够快，Terminal Agent可能取代IDE；如果能力进步放缓，IDE的体验优势会更持久。",
+      "sources": [
+        "Fortune",
+        "Connecting the Dots Podcast",
+        "MBI Deep Dives"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "Claude Code vs Cursor用户增长对比",
+          "frequency": "季",
+          "green_threshold": "Cursor增速>Claude Code",
+          "red_threshold": "Claude Code增速>2x Cursor",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "企业客户对两种范式的偏好调研",
+          "frequency": "半年",
+          "green_threshold": ">60%偏好IDE",
+          "red_threshold": "<40%偏好IDE",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-03",
+          "source": "ai_init",
+          "content": "Claude Code $2.5B run rate vs Cursor $2B ARR，两者增速都极快，暂未分出高下。Fortune称Cursor处于'十字路口'。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "yellow",
+      "blocking": true
+    },
+    {
+      "id": "kq_cursor_003",
+      "question": "Cursor毛利率和单位经济：作为LLM调用密集型产品，推理成本是否可控？自研模型能否显著改善COGS？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：这是Cursor最大的信息黑洞。非上市公司，无公开财务数据。已知线索：(1)单个月份现金消耗率为个位数，说明并非严重亏损；(2)$1B现金储备(2025.12)提供缓冲；(3)Composer 2自研模型和context重构(-46.9% token)是降低COGS的关键举措；(4)$200/月Ultra tier的推出暗示高用量用户的成本压力。Anthropic Priority Tier定价变化直接影响Cursor COGS。Truell称公司'占API提供商收入的两位数百分比'——这既是谈判筹码也是成本警示。",
+      "sources": [
+        "MBI Deep Dives",
+        "a16z Podcast",
+        "Sacra"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "自研模型vs第三方API调用比例",
+          "frequency": "季",
+          "green_threshold": ">50%自研",
+          "red_threshold": "<20%自研",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "用户投诉限速/降速频率",
+          "frequency": "月",
+          "green_threshold": "下降趋势",
+          "red_threshold": "上升趋势",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-03",
+          "source": "ai_init",
+          "content": "非上市信息黑箱。已知：single-digit monthly cash burn，$1B cash reserves，Composer 2自研模型，context重构-46.9% token。但毛利率、获客成本、留存率全部未知。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "yellow",
+      "blocking": true
+    },
+    {
+      "id": "kq_cursor_004",
+      "question": "企业客户留存和扩展：67% Fortune 500使用Cursor，但续约率和seat扩展率是多少？",
+      "resolves_by": "2026-12-31",
+      "author": "ai",
+      "evolving_answer": "当前评估：企业客户占收入60%是积极信号，平均企业合同$19K-$152K/年。但关键未知：(1)续约率——企业客户是否在pilot后持续扩展？(2)seat扩展率——初始采用后是否全团队推广？(3)竞品切换成本——Copilot/Claude Code的企业功能对标Cursor如何？已知积极信号：每日生成1.5亿行企业代码说明深度使用；收购Koala扩展企业销售能力。已知风险：GitHub Copilot覆盖Fortune 100的90%，且价格更低($19/user vs $40/user)。",
+      "sources": [
+        "Contrary Research",
+        "TechCrunch",
+        "Fortune"
+      ],
+      "verification_metrics": [
+        {
+          "metric": "企业客户NRR",
+          "frequency": "季",
+          "green_threshold": ">130%",
+          "red_threshold": "<110%",
+          "current_status": "未追踪"
+        },
+        {
+          "metric": "企业客户数增长",
+          "frequency": "季",
+          "green_threshold": ">30% QoQ",
+          "red_threshold": "<10% QoQ",
+          "current_status": "未追踪"
+        }
+      ],
+      "evidence_trail": [
+        {
+          "date": "2026-04-03",
+          "source": "ai_init",
+          "content": "67% Fortune 500使用，50K+企业客户，企业占收入60%，平均合同$19K-$152K/年。但续约率和扩展率完全未知。",
+          "impact": "neutral"
+        }
+      ],
+      "verdict": "yellow",
+      "blocking": false
+    }
+  ],
+  "next_catalyst": "新一轮融资（传闻$50B估值）确认或否定；CTO继任者任命；Claude Code企业版发布后的竞争态势变化"
+}

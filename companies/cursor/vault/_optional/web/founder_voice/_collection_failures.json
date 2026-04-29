@@ -1,0 +1,9 @@
+[
+  {
+    "status": "failed",
+    "url": "https://metacast.app/podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm",
+    "title": "7ALcQmUm",
+    "error": "HTTPSConnectionPool(host='metacast.app', port=443): Max retries exceeded with url: /podcast/y-combinator-startup-podcast/5Ub0Wy7G/cursor-ceo-going-beyond-code-superintelligent-ai-agents-and-why-taste-still-matters/7ALcQmUm (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))",
+    "stage": "fetch_full_text"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "video_id": "EeOuQBanjgc",
+  "title": "Midjourney Office Hours | July 26, 2023",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "status": "skipped_provider_disabled",
+      "generated_at": "2026-04-22T16:30:51"
+    },
+    {
+      "provider": "youtube_transcript_api",
+      "status": "success",
+      "generated_at": "2026-04-22T16:30:53",
+      "chars": 36351
+    }
+  ],
+  "fetched_at": "2026-04-22T16:30:53"
+}

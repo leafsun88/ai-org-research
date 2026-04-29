@@ -1,0 +1,4131 @@
+{
+  "ticker": "MIDJOURNEY",
+  "video_id": "p_8nJzciokQ",
+  "url": "https://www.youtube.com/watch?v=p_8nJzciokQ",
+  "title": "Midjourney V8 is NOW LIVE!! Here's how to use it.",
+  "channel": "Wade McMaster - Creator Impact",
+  "source_queries": [
+    "Midjourney V8.1 interview"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:03:49",
+  "segments": [
+    {
+      "text": "Midjourney version 8 is now live, but",
+      "duration": 4.5,
+      "offset": 0.08,
+      "lang": "en"
+    },
+    {
+      "text": "not on the main MidJourney website.",
+      "duration": 2.32,
+      "offset": 2.88,
+      "lang": "en"
+    },
+    {
+      "text": "[music]",
+      "duration": 2.86,
+      "offset": 4.58,
+      "lang": "en"
+    },
+    {
+      "text": "But we can still go in and try out this",
+      "duration": 3.76,
+      "offset": 5.2,
+      "lang": "en"
+    },
+    {
+      "text": "powerful new model and do some",
+      "duration": 3.36,
+      "offset": 7.44,
+      "lang": "en"
+    },
+    {
+      "text": "comparisons to see if it&#39;s really a step",
+      "duration": 4.32,
+      "offset": 8.96,
+      "lang": "en"
+    },
+    {
+      "text": "up from version 7. So essentially what",
+      "duration": 3.68,
+      "offset": 10.8,
+      "lang": "en"
+    },
+    {
+      "text": "you need to do if you want to use this",
+      "duration": 4.0,
+      "offset": 13.28,
+      "lang": "en"
+    },
+    {
+      "text": "model is head to alpha.mjourney.com",
+      "duration": 4.16,
+      "offset": 14.48,
+      "lang": "en"
+    },
+    {
+      "text": "where you&#39;ll be met with a screen just",
+      "duration": 3.2,
+      "offset": 17.28,
+      "lang": "en"
+    },
+    {
+      "text": "like this which details a lot of the",
+      "duration": 3.12,
+      "offset": 18.64,
+      "lang": "en"
+    },
+    {
+      "text": "improvements. So we&#39;re going to test",
+      "duration": 2.88,
+      "offset": 20.48,
+      "lang": "en"
+    },
+    {
+      "text": "those out and do a bit of a comparison",
+      "duration": 4.08,
+      "offset": 21.76,
+      "lang": "en"
+    },
+    {
+      "text": "to see if V8 is really that much of a",
+      "duration": 4.0,
+      "offset": 23.36,
+      "lang": "en"
+    },
+    {
+      "text": "step up. Now, I&#39;ve been popping out some",
+      "duration": 3.12,
+      "offset": 25.84,
+      "lang": "en"
+    },
+    {
+      "text": "images here, but if you actually go to",
+      "duration": 3.92,
+      "offset": 27.36,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney.com, you will not see the V8",
+      "duration": 3.92,
+      "offset": 28.96,
+      "lang": "en"
+    },
+    {
+      "text": "images you&#39;ve generated, but you&#39;re",
+      "duration": 2.56,
+      "offset": 31.28,
+      "lang": "en"
+    },
+    {
+      "text": "probably going to notice a little bit of",
+      "duration": 2.56,
+      "offset": 32.88,
+      "lang": "en"
+    },
+    {
+      "text": "a difference over here. We now have a",
+      "duration": 4.32,
+      "offset": 33.84,
+      "lang": "en"
+    },
+    {
+      "text": "sidebar for our settings. So, I just",
+      "duration": 3.84,
+      "offset": 35.44,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to mention that quickly because",
+      "duration": 2.8,
+      "offset": 38.16,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to change your model, we",
+      "duration": 3.84,
+      "offset": 39.28,
+      "lang": "en"
+    },
+    {
+      "text": "still have the model section here, and",
+      "duration": 4.8,
+      "offset": 40.96,
+      "lang": "en"
+    },
+    {
+      "text": "we can change through here and find the",
+      "duration": 4.4,
+      "offset": 43.12,
+      "lang": "en"
+    },
+    {
+      "text": "model we want to use, but we also have",
+      "duration": 4.4,
+      "offset": 45.76,
+      "lang": "en"
+    },
+    {
+      "text": "this uh HD mode as well, so you can",
+      "duration": 3.76,
+      "offset": 47.52,
+      "lang": "en"
+    },
+    {
+      "text": "switch between those two. We&#39;re going to",
+      "duration": 2.88,
+      "offset": 50.16,
+      "lang": "en"
+    },
+    {
+      "text": "explore that later and what that does.",
+      "duration": 2.96,
+      "offset": 51.28,
+      "lang": "en"
+    },
+    {
+      "text": "And you have your aesthetics like",
+      "duration": 4.0,
+      "offset": 53.04,
+      "lang": "en"
+    },
+    {
+      "text": "stylize, weirdness, variety here, as",
+      "duration": 4.64,
+      "offset": 54.24,
+      "lang": "en"
+    },
+    {
+      "text": "well as some other settings here for",
+      "duration": 4.96,
+      "offset": 57.04,
+      "lang": "en"
+    },
+    {
+      "text": "your speed, stealth, video resolution,",
+      "duration": 5.04,
+      "offset": 58.88,
+      "lang": "en"
+    },
+    {
+      "text": "that kind of thing. Now, you&#39;re probably",
+      "duration": 3.92,
+      "offset": 62.0,
+      "lang": "en"
+    },
+    {
+      "text": "wondering where the mood boards are, cuz",
+      "duration": 3.36,
+      "offset": 63.92,
+      "lang": "en"
+    },
+    {
+      "text": "we have a lot of the same options here.",
+      "duration": 3.92,
+      "offset": 65.92,
+      "lang": "en"
+    },
+    {
+      "text": "But if we go to images, this is where we",
+      "duration": 4.64,
+      "offset": 67.28,
+      "lang": "en"
+    },
+    {
+      "text": "can view our image uploads to drag them",
+      "duration": 4.24,
+      "offset": 69.84,
+      "lang": "en"
+    },
+    {
+      "text": "in for use as an image, whether it&#39;s for",
+      "duration": 3.68,
+      "offset": 71.92,
+      "lang": "en"
+    },
+    {
+      "text": "styles. So, if I take say this image",
+      "duration": 4.72,
+      "offset": 74.08,
+      "lang": "en"
+    },
+    {
+      "text": "here, I can use it as a style reference",
+      "duration": 5.04,
+      "offset": 75.6,
+      "lang": "en"
+    },
+    {
+      "text": "cuz it appears that omni reference isn&#39;t",
+      "duration": 3.2,
+      "offset": 78.8,
+      "lang": "en"
+    },
+    {
+      "text": "quite working yet in this model. But",
+      "duration": 2.96,
+      "offset": 80.64,
+      "lang": "en"
+    },
+    {
+      "text": "also we have our personalization",
+      "duration": 4.16,
+      "offset": 82.0,
+      "lang": "en"
+    },
+    {
+      "text": "profiles here,",
+      "duration": 5.04,
+      "offset": 83.6,
+      "lang": "en"
+    },
+    {
+      "text": "our mood boards, which this interface",
+      "duration": 3.84,
+      "offset": 86.16,
+      "lang": "en"
+    },
+    {
+      "text": "now that I&#39;m zoomed in is actually not",
+      "duration": 3.12,
+      "offset": 88.64,
+      "lang": "en"
+    },
+    {
+      "text": "that uh user friendly. If you scroll",
+      "duration": 3.28,
+      "offset": 90.0,
+      "lang": "en"
+    },
+    {
+      "text": "here, you kind of get caught scrolling",
+      "duration": 3.52,
+      "offset": 91.76,
+      "lang": "en"
+    },
+    {
+      "text": "between bits and pieces. But hover over",
+      "duration": 4.08,
+      "offset": 93.28,
+      "lang": "en"
+    },
+    {
+      "text": "the uh text area of the tab and you can",
+      "duration": 5.12,
+      "offset": 95.28,
+      "lang": "en"
+    },
+    {
+      "text": "go down. We also have our liked style",
+      "duration": 5.44,
+      "offset": 97.36,
+      "lang": "en"
+    },
+    {
+      "text": "codes here. So we have a lot of styles",
+      "duration": 4.4,
+      "offset": 100.4,
+      "lang": "en"
+    },
+    {
+      "text": "available to us in this right panel.",
+      "duration": 3.6,
+      "offset": 102.8,
+      "lang": "en"
+    },
+    {
+      "text": "Now, of course, if you zoom in further,",
+      "duration": 3.44,
+      "offset": 104.8,
+      "lang": "en"
+    },
+    {
+      "text": "this kind of reverts back to the old",
+      "duration": 4.4,
+      "offset": 106.4,
+      "lang": "en"
+    },
+    {
+      "text": "style panel. So, if I just zoom in on my",
+      "duration": 5.04,
+      "offset": 108.24,
+      "lang": "en"
+    },
+    {
+      "text": "browser, we get the old style image",
+      "duration": 7.04,
+      "offset": 110.8,
+      "lang": "en"
+    },
+    {
+      "text": "panel here and our old settings panel up",
+      "duration": 6.64,
+      "offset": 113.28,
+      "lang": "en"
+    },
+    {
+      "text": "here as well and the old personaliz. So,",
+      "duration": 3.92,
+      "offset": 117.84,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s something to be aware of. If you",
+      "duration": 3.68,
+      "offset": 119.92,
+      "lang": "en"
+    },
+    {
+      "text": "zoom out, things do change a little bit.",
+      "duration": 3.28,
+      "offset": 121.76,
+      "lang": "en"
+    },
+    {
+      "text": "Otherwise, you have your folders here,",
+      "duration": 3.6,
+      "offset": 123.6,
+      "lang": "en"
+    },
+    {
+      "text": "conversation mode, the ability to search",
+      "duration": 4.96,
+      "offset": 125.04,
+      "lang": "en"
+    },
+    {
+      "text": "in the grid view. We can actually change",
+      "duration": 4.8,
+      "offset": 127.2,
+      "lang": "en"
+    },
+    {
+      "text": "and scroll between grids this way as",
+      "duration": 3.68,
+      "offset": 130.0,
+      "lang": "en"
+    },
+    {
+      "text": "well. So, they have made some changes to",
+      "duration": 3.84,
+      "offset": 132.0,
+      "lang": "en"
+    },
+    {
+      "text": "the UI, but let&#39;s jump in and see what",
+      "duration": 3.44,
+      "offset": 133.68,
+      "lang": "en"
+    },
+    {
+      "text": "changes they&#39;ve made to the model",
+      "duration": 3.52,
+      "offset": 135.84,
+      "lang": "en"
+    },
+    {
+      "text": "itself. Starting at the top of the list,",
+      "duration": 4.4,
+      "offset": 137.12,
+      "lang": "en"
+    },
+    {
+      "text": "starting off with prompt understanding,",
+      "duration": 4.16,
+      "offset": 139.36,
+      "lang": "en"
+    },
+    {
+      "text": "V8 is much better at taking detailed",
+      "duration": 4.0,
+      "offset": 141.52,
+      "lang": "en"
+    },
+    {
+      "text": "directions. Use raw mode for even more",
+      "duration": 3.76,
+      "offset": 143.52,
+      "lang": "en"
+    },
+    {
+      "text": "control. Now, not long ago, I actually",
+      "duration": 4.72,
+      "offset": 145.52,
+      "lang": "en"
+    },
+    {
+      "text": "tested this in V7 where I asked for a",
+      "duration": 4.4,
+      "offset": 147.28,
+      "lang": "en"
+    },
+    {
+      "text": "picture of a happy family surrounded by",
+      "duration": 3.6,
+      "offset": 150.24,
+      "lang": "en"
+    },
+    {
+      "text": "pets. Don&#39;t include any dogs. I thought",
+      "duration": 4.08,
+      "offset": 151.68,
+      "lang": "en"
+    },
+    {
+      "text": "that was a pretty good attempt at trying",
+      "duration": 3.76,
+      "offset": 153.84,
+      "lang": "en"
+    },
+    {
+      "text": "to create something with a bit of",
+      "duration": 2.96,
+      "offset": 155.76,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence. So, I&#39;m going to actually",
+      "duration": 3.36,
+      "offset": 157.6,
+      "lang": "en"
+    },
+    {
+      "text": "use that same prompt. We&#39;re on version 8",
+      "duration": 4.24,
+      "offset": 158.72,
+      "lang": "en"
+    },
+    {
+      "text": "here. So, I&#39;m going to make sure we&#39;re",
+      "duration": 4.8,
+      "offset": 160.96,
+      "lang": "en"
+    },
+    {
+      "text": "on 16 to9 and submit that. And in every",
+      "duration": 5.12,
+      "offset": 162.96,
+      "lang": "en"
+    },
+    {
+      "text": "image of the grid, I get some dogs in",
+      "duration": 3.92,
+      "offset": 165.76,
+      "lang": "en"
+    },
+    {
+      "text": "the images. So, it hasn&#39;t really picked",
+      "duration": 3.52,
+      "offset": 168.08,
+      "lang": "en"
+    },
+    {
+      "text": "up on that instruction just yet. But I&#39;m",
+      "duration": 3.76,
+      "offset": 169.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to switch over to raw mode to see",
+      "duration": 5.68,
+      "offset": 171.6,
+      "lang": "en"
+    },
+    {
+      "text": "if that improves using that same prompt.",
+      "duration": 5.6,
+      "offset": 173.44,
+      "lang": "en"
+    },
+    {
+      "text": "And raw mode hasn&#39;t really improved on",
+      "duration": 3.44,
+      "offset": 177.28,
+      "lang": "en"
+    },
+    {
+      "text": "that particular instruction. So, at",
+      "duration": 3.28,
+      "offset": 179.04,
+      "lang": "en"
+    },
+    {
+      "text": "least in this instance, it doesn&#39;t seem",
+      "duration": 2.88,
+      "offset": 180.72,
+      "lang": "en"
+    },
+    {
+      "text": "to be as intelligent as they&#39;ve",
+      "duration": 3.12,
+      "offset": 182.32,
+      "lang": "en"
+    },
+    {
+      "text": "advertised. But I&#39;m going to switch over",
+      "duration": 4.64,
+      "offset": 183.6,
+      "lang": "en"
+    },
+    {
+      "text": "to conversational mode. And now I have",
+      "duration": 4.32,
+      "offset": 185.44,
+      "lang": "en"
+    },
+    {
+      "text": "that turned on. I&#39;ll pop that same",
+      "duration": 3.76,
+      "offset": 188.24,
+      "lang": "en"
+    },
+    {
+      "text": "prompt in here to see if conversational",
+      "duration": 4.24,
+      "offset": 189.76,
+      "lang": "en"
+    },
+    {
+      "text": "mode is able to interpret that a little",
+      "duration": 4.32,
+      "offset": 192.0,
+      "lang": "en"
+    },
+    {
+      "text": "bit better. And these were made of",
+      "duration": 3.84,
+      "offset": 194.0,
+      "lang": "en"
+    },
+    {
+      "text": "conversational mode. There are no dogs.",
+      "duration": 3.36,
+      "offset": 196.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, it seems that we&#39;re probably better",
+      "duration": 3.28,
+      "offset": 197.84,
+      "lang": "en"
+    },
+    {
+      "text": "off actually using conversational mode",
+      "duration": 2.48,
+      "offset": 199.68,
+      "lang": "en"
+    },
+    {
+      "text": "if we want a higher level of",
+      "duration": 2.64,
+      "offset": 201.12,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence in interpreting our",
+      "duration": 3.52,
+      "offset": 202.16,
+      "lang": "en"
+    },
+    {
+      "text": "instructions. But that&#39;s only one aspect",
+      "duration": 3.44,
+      "offset": 203.76,
+      "lang": "en"
+    },
+    {
+      "text": "of the intelligence of the model. So, I",
+      "duration": 2.56,
+      "offset": 205.68,
+      "lang": "en"
+    },
+    {
+      "text": "wanted to try something a little bit",
+      "duration": 2.72,
+      "offset": 207.2,
+      "lang": "en"
+    },
+    {
+      "text": "different. I have this image here. It&#39;s",
+      "duration": 3.12,
+      "offset": 208.24,
+      "lang": "en"
+    },
+    {
+      "text": "a Statue of Liberty in New York City.",
+      "duration": 3.44,
+      "offset": 209.92,
+      "lang": "en"
+    },
+    {
+      "text": "Now, I made this from Nano Banana 2 not",
+      "duration": 3.92,
+      "offset": 211.36,
+      "lang": "en"
+    },
+    {
+      "text": "that long ago. And I didn&#39;t mention the",
+      "duration": 3.2,
+      "offset": 213.36,
+      "lang": "en"
+    },
+    {
+      "text": "Statue of Liberty at I said create an",
+      "duration": 3.36,
+      "offset": 215.28,
+      "lang": "en"
+    },
+    {
+      "text": "image of USA&#39;s most famous statue. Add",
+      "duration": 3.92,
+      "offset": 216.56,
+      "lang": "en"
+    },
+    {
+      "text": "the name of the statue next to it and",
+      "duration": 3.84,
+      "offset": 218.64,
+      "lang": "en"
+    },
+    {
+      "text": "the city in plain text. I don&#39;t want a",
+      "duration": 3.76,
+      "offset": 220.48,
+      "lang": "en"
+    },
+    {
+      "text": "night photograph. I want a professional",
+      "duration": 3.68,
+      "offset": 222.48,
+      "lang": "en"
+    },
+    {
+      "text": "photo. So you can see with this prompt",
+      "duration": 4.72,
+      "offset": 224.24,
+      "lang": "en"
+    },
+    {
+      "text": "here, I&#39;ve decided to describe and hint",
+      "duration": 4.88,
+      "offset": 226.16,
+      "lang": "en"
+    },
+    {
+      "text": "at what I&#39;m actually after. So this time",
+      "duration": 3.76,
+      "offset": 228.96,
+      "lang": "en"
+    },
+    {
+      "text": "if I decide to go back to midjourney,",
+      "duration": 3.28,
+      "offset": 231.04,
+      "lang": "en"
+    },
+    {
+      "text": "keeping it conversational mode, will it",
+      "duration": 3.2,
+      "offset": 232.72,
+      "lang": "en"
+    },
+    {
+      "text": "actually be able to determine what I",
+      "duration": 3.52,
+      "offset": 234.32,
+      "lang": "en"
+    },
+    {
+      "text": "mean? Let&#39;s go take a look. So I&#39;m still",
+      "duration": 3.36,
+      "offset": 235.92,
+      "lang": "en"
+    },
+    {
+      "text": "in conversational mode here. I&#39;m going",
+      "duration": 2.96,
+      "offset": 237.84,
+      "lang": "en"
+    },
+    {
+      "text": "to add in that same prompt we were just",
+      "duration": 4.0,
+      "offset": 239.28,
+      "lang": "en"
+    },
+    {
+      "text": "looking at and submit it. And what we",
+      "duration": 3.84,
+      "offset": 240.8,
+      "lang": "en"
+    },
+    {
+      "text": "get here, if you look over, it says the",
+      "duration": 2.88,
+      "offset": 243.28,
+      "lang": "en"
+    },
+    {
+      "text": "Statue of Liberty. The conversational",
+      "duration": 2.88,
+      "offset": 244.64,
+      "lang": "en"
+    },
+    {
+      "text": "mode has actually determined what we&#39;re",
+      "duration": 3.04,
+      "offset": 246.16,
+      "lang": "en"
+    },
+    {
+      "text": "after. And if I open the images up, it",
+      "duration": 3.52,
+      "offset": 247.52,
+      "lang": "en"
+    },
+    {
+      "text": "hasn&#39;t included the text on this image",
+      "duration": 5.28,
+      "offset": 249.2,
+      "lang": "en"
+    },
+    {
+      "text": "or this one here, but has on this image,",
+      "duration": 5.52,
+      "offset": 251.04,
+      "lang": "en"
+    },
+    {
+      "text": "but not this last one. So, it does seem",
+      "duration": 3.68,
+      "offset": 254.48,
+      "lang": "en"
+    },
+    {
+      "text": "to be able to interpret the instructions",
+      "duration": 4.16,
+      "offset": 256.56,
+      "lang": "en"
+    },
+    {
+      "text": "to some degree using conversational",
+      "duration": 4.16,
+      "offset": 258.16,
+      "lang": "en"
+    },
+    {
+      "text": "mode. But let&#39;s just try that again. If",
+      "duration": 4.08,
+      "offset": 260.72,
+      "lang": "en"
+    },
+    {
+      "text": "I were to close this, turn",
+      "duration": 4.48,
+      "offset": 262.32,
+      "lang": "en"
+    },
+    {
+      "text": "conversational mode off, pop in the",
+      "duration": 4.32,
+      "offset": 264.8,
+      "lang": "en"
+    },
+    {
+      "text": "exact same prompt where I don&#39;t mention",
+      "duration": 4.24,
+      "offset": 266.8,
+      "lang": "en"
+    },
+    {
+      "text": "what we&#39;re after, and submit that. It&#39;s",
+      "duration": 3.12,
+      "offset": 269.12,
+      "lang": "en"
+    },
+    {
+      "text": "done a pretty good job with that also,",
+      "duration": 3.2,
+      "offset": 271.04,
+      "lang": "en"
+    },
+    {
+      "text": "but it just hasn&#39;t included the text.",
+      "duration": 3.2,
+      "offset": 272.24,
+      "lang": "en"
+    },
+    {
+      "text": "But I&#39;m actually really impressed.",
+      "duration": 3.12,
+      "offset": 274.24,
+      "lang": "en"
+    },
+    {
+      "text": "Midjourney in the past would have",
+      "duration": 3.76,
+      "offset": 275.44,
+      "lang": "en"
+    },
+    {
+      "text": "absolutely failed this test completely.",
+      "duration": 3.68,
+      "offset": 277.36,
+      "lang": "en"
+    },
+    {
+      "text": "So I can see there is a big step up with",
+      "duration": 3.36,
+      "offset": 279.2,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence. But let&#39;s try a little bit",
+      "duration": 3.68,
+      "offset": 281.04,
+      "lang": "en"
+    },
+    {
+      "text": "more detail to see how that works. This",
+      "duration": 3.76,
+      "offset": 282.56,
+      "lang": "en"
+    },
+    {
+      "text": "time I&#39;m going to enter a more detailed",
+      "duration": 3.76,
+      "offset": 284.72,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. I&#39;m going to say this time I&#39;ve",
+      "duration": 3.6,
+      "offset": 286.32,
+      "lang": "en"
+    },
+    {
+      "text": "asked for a professional photograph of a",
+      "duration": 3.28,
+      "offset": 288.48,
+      "lang": "en"
+    },
+    {
+      "text": "man&#39;s face looking anxious. His left eye",
+      "duration": 4.0,
+      "offset": 289.92,
+      "lang": "en"
+    },
+    {
+      "text": "is red. His right eye is blue. He has a",
+      "duration": 4.0,
+      "offset": 291.76,
+      "lang": "en"
+    },
+    {
+      "text": "receding hairline with fair complexion.",
+      "duration": 3.6,
+      "offset": 293.92,
+      "lang": "en"
+    },
+    {
+      "text": "Has a small red mole to the left of his",
+      "duration": 3.68,
+      "offset": 295.76,
+      "lang": "en"
+    },
+    {
+      "text": "nose and a very thin mustache. In the",
+      "duration": 3.68,
+      "offset": 297.52,
+      "lang": "en"
+    },
+    {
+      "text": "background there should be beach with",
+      "duration": 2.8,
+      "offset": 299.44,
+      "lang": "en"
+    },
+    {
+      "text": "seven people. I&#39;m just going to leave",
+      "duration": 2.88,
+      "offset": 301.2,
+      "lang": "en"
+    },
+    {
+      "text": "that. That&#39;s not really I&#39;m going to say",
+      "duration": 4.08,
+      "offset": 302.24,
+      "lang": "en"
+    },
+    {
+      "text": "a beach. So, do we get the seven people,",
+      "duration": 3.76,
+      "offset": 304.08,
+      "lang": "en"
+    },
+    {
+      "text": "the red mole? Do we get the different",
+      "duration": 3.12,
+      "offset": 306.32,
+      "lang": "en"
+    },
+    {
+      "text": "eye colors? There&#39;s a lot of detail",
+      "duration": 5.04,
+      "offset": 307.84,
+      "lang": "en"
+    },
+    {
+      "text": "here, but I&#39;m also going to add in d-v",
+      "duration": 4.96,
+      "offset": 309.44,
+      "lang": "en"
+    },
+    {
+      "text": "and permutations. So, I&#39;m going to add a",
+      "duration": 5.76,
+      "offset": 312.88,
+      "lang": "en"
+    },
+    {
+      "text": "curly bracket for seven and 8.",
+      "duration": 5.92,
+      "offset": 314.4,
+      "lang": "en"
+    },
+    {
+      "text": "And so, essentially, I want to try this",
+      "duration": 3.6,
+      "offset": 318.64,
+      "lang": "en"
+    },
+    {
+      "text": "out on both version seven and version 8",
+      "duration": 3.68,
+      "offset": 320.32,
+      "lang": "en"
+    },
+    {
+      "text": "to see if there&#39;s a difference. Now,",
+      "duration": 3.36,
+      "offset": 322.24,
+      "lang": "en"
+    },
+    {
+      "text": "straight away with version seven, we can",
+      "duration": 3.52,
+      "offset": 324.0,
+      "lang": "en"
+    },
+    {
+      "text": "see it didn&#39;t really understand the",
+      "duration": 3.44,
+      "offset": 325.6,
+      "lang": "en"
+    },
+    {
+      "text": "assignment. It got a little bit of red",
+      "duration": 3.76,
+      "offset": 327.52,
+      "lang": "en"
+    },
+    {
+      "text": "in the eye and made the eyes blue. We",
+      "duration": 3.68,
+      "offset": 329.04,
+      "lang": "en"
+    },
+    {
+      "text": "don&#39;t really see we see a little bit of",
+      "duration": 3.92,
+      "offset": 331.28,
+      "lang": "en"
+    },
+    {
+      "text": "a mole, but it&#39;s not really doing what",
+      "duration": 4.0,
+      "offset": 332.72,
+      "lang": "en"
+    },
+    {
+      "text": "we wanted to. But we swapped to version",
+      "duration": 3.92,
+      "offset": 335.2,
+      "lang": "en"
+    },
+    {
+      "text": "eight. We got a red eye and a blue eye.",
+      "duration": 4.08,
+      "offset": 336.72,
+      "lang": "en"
+    },
+    {
+      "text": "Red eye and a blue eye. He does have",
+      "duration": 4.0,
+      "offset": 339.12,
+      "lang": "en"
+    },
+    {
+      "text": "that fair complexion. He does have a",
+      "duration": 4.64,
+      "offset": 340.8,
+      "lang": "en"
+    },
+    {
+      "text": "mole, a red mole next to his nose on a",
+      "duration": 4.8,
+      "offset": 343.12,
+      "lang": "en"
+    },
+    {
+      "text": "lot of these. So, it definitely has",
+      "duration": 4.24,
+      "offset": 345.44,
+      "lang": "en"
+    },
+    {
+      "text": "improved its intelligence. So, that&#39;s a",
+      "duration": 3.44,
+      "offset": 347.92,
+      "lang": "en"
+    },
+    {
+      "text": "pretty big step up for Midjourney. I",
+      "duration": 2.8,
+      "offset": 349.68,
+      "lang": "en"
+    },
+    {
+      "text": "feel like what they&#39;ve done with the",
+      "duration": 2.96,
+      "offset": 351.36,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence here is pretty good because",
+      "duration": 3.84,
+      "offset": 352.48,
+      "lang": "en"
+    },
+    {
+      "text": "I do think when Nano Banana Pro hit and",
+      "duration": 4.56,
+      "offset": 354.32,
+      "lang": "en"
+    },
+    {
+      "text": "now Nano Banana 2, the intelligence was",
+      "duration": 4.32,
+      "offset": 356.32,
+      "lang": "en"
+    },
+    {
+      "text": "kind of really leaving midjourney behind",
+      "duration": 3.84,
+      "offset": 358.88,
+      "lang": "en"
+    },
+    {
+      "text": "in the dust. So, it&#39;s great to see them",
+      "duration": 3.52,
+      "offset": 360.64,
+      "lang": "en"
+    },
+    {
+      "text": "working on this, but I do recommend",
+      "duration": 3.04,
+      "offset": 362.72,
+      "lang": "en"
+    },
+    {
+      "text": "using conversational mode if you want to",
+      "duration": 3.36,
+      "offset": 364.16,
+      "lang": "en"
+    },
+    {
+      "text": "really up the intelligence further as",
+      "duration": 3.6,
+      "offset": 365.76,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s able to better interpret what",
+      "duration": 3.68,
+      "offset": 367.52,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re actually asking for and convert",
+      "duration": 3.68,
+      "offset": 369.36,
+      "lang": "en"
+    },
+    {
+      "text": "that into a prompt that will actually",
+      "duration": 3.76,
+      "offset": 371.2,
+      "lang": "en"
+    },
+    {
+      "text": "get the image that you want to generate.",
+      "duration": 3.68,
+      "offset": 373.04,
+      "lang": "en"
+    },
+    {
+      "text": "So, definitely using conversational",
+      "duration": 3.84,
+      "offset": 374.96,
+      "lang": "en"
+    },
+    {
+      "text": "mode, big yes. But also, if you want me",
+      "duration": 3.6,
+      "offset": 376.72,
+      "lang": "en"
+    },
+    {
+      "text": "to do a bit of a comparison of Mid",
+      "duration": 4.4,
+      "offset": 378.8,
+      "lang": "en"
+    },
+    {
+      "text": "Journeys version 8 versus Nano Banana 2,",
+      "duration": 4.32,
+      "offset": 380.32,
+      "lang": "en"
+    },
+    {
+      "text": "leave a comment below and I&#39;ll look at",
+      "duration": 3.36,
+      "offset": 383.2,
+      "lang": "en"
+    },
+    {
+      "text": "getting that video out soon. Also, the",
+      "duration": 3.44,
+      "offset": 384.64,
+      "lang": "en"
+    },
+    {
+      "text": "next point is text rendering where",
+      "duration": 3.12,
+      "offset": 386.56,
+      "lang": "en"
+    },
+    {
+      "text": "apparently they&#39;ve really upgraded the",
+      "duration": 3.12,
+      "offset": 388.08,
+      "lang": "en"
+    },
+    {
+      "text": "text ability of the model. I&#39;m actually",
+      "duration": 3.04,
+      "offset": 389.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to stick with this same prompt",
+      "duration": 3.52,
+      "offset": 391.2,
+      "lang": "en"
+    },
+    {
+      "text": "here and try and give it a little bit to",
+      "duration": 3.2,
+      "offset": 392.72,
+      "lang": "en"
+    },
+    {
+      "text": "work with. So, we&#39;ve got version seven",
+      "duration": 2.72,
+      "offset": 394.72,
+      "lang": "en"
+    },
+    {
+      "text": "and eight, but we&#39;re not looking at the",
+      "duration": 3.6,
+      "offset": 395.92,
+      "lang": "en"
+    },
+    {
+      "text": "details. What I am going to do is add",
+      "duration": 5.12,
+      "offset": 397.44,
+      "lang": "en"
+    },
+    {
+      "text": "right up here the word strange is",
+      "duration": 5.04,
+      "offset": 399.52,
+      "lang": "en"
+    },
+    {
+      "text": "written on his forehead. So, this is",
+      "duration": 3.52,
+      "offset": 402.56,
+      "lang": "en"
+    },
+    {
+      "text": "just one test we&#39;re going to run. I&#39;m",
+      "duration": 2.96,
+      "offset": 404.56,
+      "lang": "en"
+    },
+    {
+      "text": "going to try a few different ones, but",
+      "duration": 3.2,
+      "offset": 406.08,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to submit that. And now,",
+      "duration": 3.76,
+      "offset": 407.52,
+      "lang": "en"
+    },
+    {
+      "text": "version seven, for some reason, has done",
+      "duration": 3.6,
+      "offset": 409.28,
+      "lang": "en"
+    },
+    {
+      "text": "a better job with the eyes this time",
+      "duration": 3.12,
+      "offset": 411.28,
+      "lang": "en"
+    },
+    {
+      "text": "around, but they&#39;ve also nailed the",
+      "duration": 3.68,
+      "offset": 412.88,
+      "lang": "en"
+    },
+    {
+      "text": "text. Version 8&#39;s text, I feel, looks a",
+      "duration": 3.44,
+      "offset": 414.4,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more organic, like it&#39;s",
+      "duration": 3.36,
+      "offset": 416.56,
+      "lang": "en"
+    },
+    {
+      "text": "actually written on the forehead. So, I",
+      "duration": 4.16,
+      "offset": 417.84,
+      "lang": "en"
+    },
+    {
+      "text": "do think both models kind of nailed this",
+      "duration": 3.52,
+      "offset": 419.92,
+      "lang": "en"
+    },
+    {
+      "text": "one. But let&#39;s try something a little",
+      "duration": 3.12,
+      "offset": 422.0,
+      "lang": "en"
+    },
+    {
+      "text": "more difficult. This time I&#39;ve asked for",
+      "duration": 2.88,
+      "offset": 423.44,
+      "lang": "en"
+    },
+    {
+      "text": "a professional photograph of a",
+      "duration": 4.0,
+      "offset": 425.12,
+      "lang": "en"
+    },
+    {
+      "text": "handwritten note that says and then in",
+      "duration": 5.36,
+      "offset": 426.32,
+      "lang": "en"
+    },
+    {
+      "text": "quotation marks this paragraph I",
+      "duration": 5.12,
+      "offset": 429.12,
+      "lang": "en"
+    },
+    {
+      "text": "actually took from the MidJourney update",
+      "duration": 4.56,
+      "offset": 431.68,
+      "lang": "en"
+    },
+    {
+      "text": "post on the MidJourney website. So I&#39;m",
+      "duration": 3.6,
+      "offset": 434.24,
+      "lang": "en"
+    },
+    {
+      "text": "giving it a lot of text to see if it can",
+      "duration": 3.12,
+      "offset": 436.24,
+      "lang": "en"
+    },
+    {
+      "text": "handle it cuz I know that in the past",
+      "duration": 3.12,
+      "offset": 437.84,
+      "lang": "en"
+    },
+    {
+      "text": "things like Nana Banana 2 have done a",
+      "duration": 3.6,
+      "offset": 439.36,
+      "lang": "en"
+    },
+    {
+      "text": "pretty good job with this. So again I&#39;ll",
+      "duration": 3.6,
+      "offset": 440.96,
+      "lang": "en"
+    },
+    {
+      "text": "try version seven and version eight and",
+      "duration": 3.28,
+      "offset": 442.96,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ll try a few other images as well.",
+      "duration": 3.76,
+      "offset": 444.56,
+      "lang": "en"
+    },
+    {
+      "text": "So, here we have version seven and it&#39;s",
+      "duration": 3.76,
+      "offset": 446.24,
+      "lang": "en"
+    },
+    {
+      "text": "kind of tried to add in a little bit of",
+      "duration": 3.92,
+      "offset": 448.32,
+      "lang": "en"
+    },
+    {
+      "text": "V8 in there, but it&#39;s mostly just",
+      "duration": 4.64,
+      "offset": 450.0,
+      "lang": "en"
+    },
+    {
+      "text": "gibberish and handwriting that doesn&#39;t",
+      "duration": 4.32,
+      "offset": 452.24,
+      "lang": "en"
+    },
+    {
+      "text": "really make any sense. But we move on to",
+      "duration": 4.64,
+      "offset": 454.64,
+      "lang": "en"
+    },
+    {
+      "text": "version 8 and it&#39;s done a much better",
+      "duration": 4.8,
+      "offset": 456.56,
+      "lang": "en"
+    },
+    {
+      "text": "job. I wouldn&#39;t say it&#39;s perfect, but",
+      "duration": 3.68,
+      "offset": 459.28,
+      "lang": "en"
+    },
+    {
+      "text": "most of the information seems to be in",
+      "duration": 4.0,
+      "offset": 461.36,
+      "lang": "en"
+    },
+    {
+      "text": "there. It actually really has stepped up",
+      "duration": 5.2,
+      "offset": 462.96,
+      "lang": "en"
+    },
+    {
+      "text": "the text generation game and really done",
+      "duration": 4.4,
+      "offset": 465.36,
+      "lang": "en"
+    },
+    {
+      "text": "a great job at creating something unique",
+      "duration": 2.8,
+      "offset": 468.16,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s actually going to work with high",
+      "duration": 3.04,
+      "offset": 469.76,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence. So this is exciting",
+      "duration": 4.0,
+      "offset": 470.96,
+      "lang": "en"
+    },
+    {
+      "text": "considering Midjourney&#39;s aesthetic model",
+      "duration": 3.84,
+      "offset": 472.8,
+      "lang": "en"
+    },
+    {
+      "text": "being one of the best looking image",
+      "duration": 3.68,
+      "offset": 474.96,
+      "lang": "en"
+    },
+    {
+      "text": "generators along with this intelligence",
+      "duration": 4.24,
+      "offset": 476.64,
+      "lang": "en"
+    },
+    {
+      "text": "I think is going to be really really fun",
+      "duration": 4.56,
+      "offset": 478.64,
+      "lang": "en"
+    },
+    {
+      "text": "to work with. So I then decided to try",
+      "duration": 4.64,
+      "offset": 480.88,
+      "lang": "en"
+    },
+    {
+      "text": "just some more basic text with a little",
+      "duration": 3.92,
+      "offset": 483.2,
+      "lang": "en"
+    },
+    {
+      "text": "bit of a style. So this is a grungy old",
+      "duration": 2.88,
+      "offset": 485.52,
+      "lang": "en"
+    },
+    {
+      "text": "fashioned textile. It&#39;s done a pretty",
+      "duration": 3.28,
+      "offset": 487.12,
+      "lang": "en"
+    },
+    {
+      "text": "good job with this one. These are all in",
+      "duration": 4.08,
+      "offset": 488.4,
+      "lang": "en"
+    },
+    {
+      "text": "raw mode and it actually renders",
+      "duration": 3.76,
+      "offset": 490.4,
+      "lang": "en"
+    },
+    {
+      "text": "something pretty good. I&#39;ve asked for",
+      "duration": 2.96,
+      "offset": 492.48,
+      "lang": "en"
+    },
+    {
+      "text": "the midjourney logo and it doesn&#39;t",
+      "duration": 2.56,
+      "offset": 494.16,
+      "lang": "en"
+    },
+    {
+      "text": "actually understand its own logo but",
+      "duration": 2.24,
+      "offset": 495.44,
+      "lang": "en"
+    },
+    {
+      "text": "every now and then you get like a",
+      "duration": 3.28,
+      "offset": 496.72,
+      "lang": "en"
+    },
+    {
+      "text": "lowercase dot some of these images here.",
+      "duration": 3.92,
+      "offset": 497.68,
+      "lang": "en"
+    },
+    {
+      "text": "But I think this is still a big step up",
+      "duration": 3.04,
+      "offset": 500.0,
+      "lang": "en"
+    },
+    {
+      "text": "compared to what they used to have. I",
+      "duration": 3.2,
+      "offset": 501.6,
+      "lang": "en"
+    },
+    {
+      "text": "then asked for a graffiti style and it",
+      "duration": 4.48,
+      "offset": 503.04,
+      "lang": "en"
+    },
+    {
+      "text": "just kind of popped little midjourney",
+      "duration": 6.08,
+      "offset": 504.8,
+      "lang": "en"
+    },
+    {
+      "text": "text into the images and just had like a",
+      "duration": 5.92,
+      "offset": 507.52,
+      "lang": "en"
+    },
+    {
+      "text": "random kind of graffiti graphic next to",
+      "duration": 5.76,
+      "offset": 510.88,
+      "lang": "en"
+    },
+    {
+      "text": "it. But when I asked for a bold 3D",
+      "duration": 5.04,
+      "offset": 513.44,
+      "lang": "en"
+    },
+    {
+      "text": "rendered text, it did an okay job. It",
+      "duration": 3.52,
+      "offset": 516.64,
+      "lang": "en"
+    },
+    {
+      "text": "wasn&#39;t what I imagined, but it",
+      "duration": 3.2,
+      "offset": 518.48,
+      "lang": "en"
+    },
+    {
+      "text": "definitely follow the instructions",
+      "duration": 3.76,
+      "offset": 520.16,
+      "lang": "en"
+    },
+    {
+      "text": "pretty well. And this again is using raw",
+      "duration": 3.92,
+      "offset": 521.68,
+      "lang": "en"
+    },
+    {
+      "text": "mode. So I decided to do the exact same",
+      "duration": 4.56,
+      "offset": 523.92,
+      "lang": "en"
+    },
+    {
+      "text": "prompts again, but this time without raw",
+      "duration": 5.52,
+      "offset": 525.6,
+      "lang": "en"
+    },
+    {
+      "text": "mode. And I got something that still",
+      "duration": 4.56,
+      "offset": 528.48,
+      "lang": "en"
+    },
+    {
+      "text": "worked as well, but it&#39;s a little bit",
+      "duration": 3.92,
+      "offset": 531.12,
+      "lang": "en"
+    },
+    {
+      "text": "more aesthetic. You can see how when we",
+      "duration": 4.4,
+      "offset": 533.04,
+      "lang": "en"
+    },
+    {
+      "text": "go through these images, we get a better",
+      "duration": 5.28,
+      "offset": 535.04,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney aesthetic as well as coherent",
+      "duration": 4.88,
+      "offset": 537.44,
+      "lang": "en"
+    },
+    {
+      "text": "text. This one being more of the",
+      "duration": 3.6,
+      "offset": 540.32,
+      "lang": "en"
+    },
+    {
+      "text": "graffiti style. It did the same thing",
+      "duration": 4.72,
+      "offset": 542.32,
+      "lang": "en"
+    },
+    {
+      "text": "again. So, it actually struggled a",
+      "duration": 4.8,
+      "offset": 543.92,
+      "lang": "en"
+    },
+    {
+      "text": "little bit with this one, I think, when",
+      "duration": 3.92,
+      "offset": 547.04,
+      "lang": "en"
+    },
+    {
+      "text": "it came to the graffiti text. But the 3D",
+      "duration": 5.44,
+      "offset": 548.72,
+      "lang": "en"
+    },
+    {
+      "text": "image, I think, looks pretty solid and",
+      "duration": 5.44,
+      "offset": 550.96,
+      "lang": "en"
+    },
+    {
+      "text": "once again, a little bit more aesthetic.",
+      "duration": 4.32,
+      "offset": 554.16,
+      "lang": "en"
+    },
+    {
+      "text": "So, that&#39;s a really cool way to play",
+      "duration": 3.52,
+      "offset": 556.4,
+      "lang": "en"
+    },
+    {
+      "text": "with some text effects now using",
+      "duration": 3.36,
+      "offset": 558.48,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney and getting reliable text",
+      "duration": 4.4,
+      "offset": 559.92,
+      "lang": "en"
+    },
+    {
+      "text": "outputs. The next we have the speed. V8",
+      "duration": 5.36,
+      "offset": 561.84,
+      "lang": "en"
+    },
+    {
+      "text": "renders up to five times faster than V7.",
+      "duration": 4.4,
+      "offset": 564.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, that is pretty exciting. And I&#39;m",
+      "duration": 2.88,
+      "offset": 567.2,
+      "lang": "en"
+    },
+    {
+      "text": "going to run a little test. What I&#39;m",
+      "duration": 2.48,
+      "offset": 568.72,
+      "lang": "en"
+    },
+    {
+      "text": "going to do is I&#39;m going to take this",
+      "duration": 3.04,
+      "offset": 570.08,
+      "lang": "en"
+    },
+    {
+      "text": "prompt here, but also so we can see",
+      "duration": 3.2,
+      "offset": 571.2,
+      "lang": "en"
+    },
+    {
+      "text": "what&#39;s going on, I&#39;m going to change the",
+      "duration": 3.28,
+      "offset": 573.12,
+      "lang": "en"
+    },
+    {
+      "text": "aspect ratio to square and then turn off",
+      "duration": 3.6,
+      "offset": 574.4,
+      "lang": "en"
+    },
+    {
+      "text": "the sidebar completely so you can see",
+      "duration": 3.04,
+      "offset": 576.4,
+      "lang": "en"
+    },
+    {
+      "text": "exactly what we&#39;re looking at. And then",
+      "duration": 2.8,
+      "offset": 578.0,
+      "lang": "en"
+    },
+    {
+      "text": "I don&#39;t want the majour logo on there.",
+      "duration": 2.32,
+      "offset": 579.44,
+      "lang": "en"
+    },
+    {
+      "text": "So, I&#39;m going to remove that from the",
+      "duration": 2.88,
+      "offset": 580.8,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. But again, using permutation,",
+      "duration": 4.48,
+      "offset": 581.76,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to V7 and V8. So again, this",
+      "duration": 4.8,
+      "offset": 583.68,
+      "lang": "en"
+    },
+    {
+      "text": "will submit one with version 7 and one",
+      "duration": 4.4,
+      "offset": 586.24,
+      "lang": "en"
+    },
+    {
+      "text": "with version 8. And they should appear",
+      "duration": 3.76,
+      "offset": 588.48,
+      "lang": "en"
+    },
+    {
+      "text": "one after the other here. And I will",
+      "duration": 3.6,
+      "offset": 590.64,
+      "lang": "en"
+    },
+    {
+      "text": "actually show you in real time how long",
+      "duration": 5.28,
+      "offset": 592.24,
+      "lang": "en"
+    },
+    {
+      "text": "it takes to render V8. So I submit that.",
+      "duration": 5.68,
+      "offset": 594.24,
+      "lang": "en"
+    },
+    {
+      "text": "And you can see here just how much",
+      "duration": 4.8,
+      "offset": 597.52,
+      "lang": "en"
+    },
+    {
+      "text": "quicker the top row, which is version 8,",
+      "duration": 4.4,
+      "offset": 599.92,
+      "lang": "en"
+    },
+    {
+      "text": "has already rendered out that image. And",
+      "duration": 4.56,
+      "offset": 602.32,
+      "lang": "en"
+    },
+    {
+      "text": "I did not edit this time out. Version 7",
+      "duration": 5.68,
+      "offset": 604.32,
+      "lang": "en"
+    },
+    {
+      "text": "still only at 39 43%. It still works",
+      "duration": 4.88,
+      "offset": 606.88,
+      "lang": "en"
+    },
+    {
+      "text": "pretty quick, but nothing compared to",
+      "duration": 4.64,
+      "offset": 610.0,
+      "lang": "en"
+    },
+    {
+      "text": "V8. But also we now have a direct",
+      "duration": 4.72,
+      "offset": 611.76,
+      "lang": "en"
+    },
+    {
+      "text": "comparison where we can see it can&#39;t",
+      "duration": 4.24,
+      "offset": 614.64,
+      "lang": "en"
+    },
+    {
+      "text": "even put midjourney in there correctly",
+      "duration": 4.96,
+      "offset": 616.48,
+      "lang": "en"
+    },
+    {
+      "text": "except for this one in version 7 and",
+      "duration": 5.04,
+      "offset": 618.88,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s hasn&#39;t even added in the V8 is",
+      "duration": 4.64,
+      "offset": 621.44,
+      "lang": "en"
+    },
+    {
+      "text": "great. So you can see here the",
+      "duration": 4.96,
+      "offset": 623.92,
+      "lang": "en"
+    },
+    {
+      "text": "difference from version 7 to version 8",
+      "duration": 4.64,
+      "offset": 626.08,
+      "lang": "en"
+    },
+    {
+      "text": "except that we only have the word great",
+      "duration": 4.32,
+      "offset": 628.88,
+      "lang": "en"
+    },
+    {
+      "text": "in this image. But it just goes to show",
+      "duration": 4.48,
+      "offset": 630.72,
+      "lang": "en"
+    },
+    {
+      "text": "you how much better this model is at",
+      "duration": 3.84,
+      "offset": 633.2,
+      "lang": "en"
+    },
+    {
+      "text": "rendering text as well. But on top of",
+      "duration": 4.32,
+      "offset": 635.2,
+      "lang": "en"
+    },
+    {
+      "text": "that has a new 2K mode rendering images",
+      "duration": 5.6,
+      "offset": 637.04,
+      "lang": "en"
+    },
+    {
+      "text": "at 2x resolution. But it also doesn&#39;t",
+      "duration": 4.56,
+      "offset": 639.52,
+      "lang": "en"
+    },
+    {
+      "text": "mention something right here which is in",
+      "duration": 3.76,
+      "offset": 642.64,
+      "lang": "en"
+    },
+    {
+      "text": "the actual update post is on top of the",
+      "duration": 5.68,
+      "offset": 644.08,
+      "lang": "en"
+    },
+    {
+      "text": "HD mode here there&#39;s also a quality 4",
+      "duration": 5.2,
+      "offset": 646.4,
+      "lang": "en"
+    },
+    {
+      "text": "setting. So that means it takes four",
+      "duration": 3.04,
+      "offset": 649.76,
+      "lang": "en"
+    },
+    {
+      "text": "times as long to render an image and",
+      "duration": 3.6,
+      "offset": 651.6,
+      "lang": "en"
+    },
+    {
+      "text": "uses up four times the GPU time but has",
+      "duration": 5.92,
+      "offset": 652.8,
+      "lang": "en"
+    },
+    {
+      "text": "a much higher level of quality. So what",
+      "duration": 5.84,
+      "offset": 655.2,
+      "lang": "en"
+    },
+    {
+      "text": "we can do now I want to quickly mention",
+      "duration": 4.08,
+      "offset": 658.72,
+      "lang": "en"
+    },
+    {
+      "text": "that I downloaded this image that we",
+      "duration": 4.08,
+      "offset": 661.04,
+      "lang": "en"
+    },
+    {
+      "text": "just created and you can see it&#39;s 1024x",
+      "duration": 4.4,
+      "offset": 662.8,
+      "lang": "en"
+    },
+    {
+      "text": "1024 which is pretty much the standard",
+      "duration": 4.08,
+      "offset": 665.12,
+      "lang": "en"
+    },
+    {
+      "text": "midjourney size. But take that exact",
+      "duration": 4.72,
+      "offset": 667.2,
+      "lang": "en"
+    },
+    {
+      "text": "same prompt, go to our settings, turn on",
+      "duration": 6.32,
+      "offset": 669.2,
+      "lang": "en"
+    },
+    {
+      "text": "HD mode, or we can add in d- HD at the",
+      "duration": 5.68,
+      "offset": 671.92,
+      "lang": "en"
+    },
+    {
+      "text": "end here. But I&#39;m going to render it in",
+      "duration": 4.96,
+      "offset": 675.52,
+      "lang": "en"
+    },
+    {
+      "text": "HD mode. Submit. And this time I come",
+      "duration": 4.96,
+      "offset": 677.6,
+      "lang": "en"
+    },
+    {
+      "text": "into my image and I&#39;m going to download",
+      "duration": 5.04,
+      "offset": 680.48,
+      "lang": "en"
+    },
+    {
+      "text": "it. And this looks pretty sharp. And I",
+      "duration": 5.92,
+      "offset": 682.56,
+      "lang": "en"
+    },
+    {
+      "text": "come down is 2048 by 2048. So we are",
+      "duration": 4.8,
+      "offset": 685.52,
+      "lang": "en"
+    },
+    {
+      "text": "able to double that resolution. If I",
+      "duration": 4.88,
+      "offset": 688.48,
+      "lang": "en"
+    },
+    {
+      "text": "zoom in, it actually maintains a lot of",
+      "duration": 5.12,
+      "offset": 690.32,
+      "lang": "en"
+    },
+    {
+      "text": "quality. And this actually looks really",
+      "duration": 3.84,
+      "offset": 693.36,
+      "lang": "en"
+    },
+    {
+      "text": "fantastic. I do think that MidJourney",
+      "duration": 3.28,
+      "offset": 695.44,
+      "lang": "en"
+    },
+    {
+      "text": "have really stepped up their game with",
+      "duration": 3.12,
+      "offset": 697.2,
+      "lang": "en"
+    },
+    {
+      "text": "version 8. But there is another issue.",
+      "duration": 3.36,
+      "offset": 698.72,
+      "lang": "en"
+    },
+    {
+      "text": "Now, this image was made version 8. It&#39;s",
+      "duration": 4.08,
+      "offset": 700.32,
+      "lang": "en"
+    },
+    {
+      "text": "not even a HD image. If I come over",
+      "duration": 5.04,
+      "offset": 702.08,
+      "lang": "en"
+    },
+    {
+      "text": "here, there&#39;s no upscale option. If I",
+      "duration": 4.4,
+      "offset": 704.4,
+      "lang": "en"
+    },
+    {
+      "text": "decide to click on something made with",
+      "duration": 4.24,
+      "offset": 707.12,
+      "lang": "en"
+    },
+    {
+      "text": "version 7, that upscale option",
+      "duration": 4.24,
+      "offset": 708.8,
+      "lang": "en"
+    },
+    {
+      "text": "reappears. So, if you&#39;re looking to get",
+      "duration": 4.72,
+      "offset": 711.36,
+      "lang": "en"
+    },
+    {
+      "text": "that 2048x 2048 resolution, you need to",
+      "duration": 5.92,
+      "offset": 713.04,
+      "lang": "en"
+    },
+    {
+      "text": "use HD mode in order to access that. But",
+      "duration": 4.48,
+      "offset": 716.08,
+      "lang": "en"
+    },
+    {
+      "text": "one other really annoying thing is even",
+      "duration": 3.52,
+      "offset": 718.96,
+      "lang": "en"
+    },
+    {
+      "text": "if I generate something with version 8",
+      "duration": 4.32,
+      "offset": 720.56,
+      "lang": "en"
+    },
+    {
+      "text": "and I decide I want to copy the seed and",
+      "duration": 4.32,
+      "offset": 722.48,
+      "lang": "en"
+    },
+    {
+      "text": "generate it again in HD mode to kind of",
+      "duration": 3.92,
+      "offset": 724.88,
+      "lang": "en"
+    },
+    {
+      "text": "get the same image, it actually produces",
+      "duration": 3.84,
+      "offset": 726.8,
+      "lang": "en"
+    },
+    {
+      "text": "a completely different set of images",
+      "duration": 4.0,
+      "offset": 728.8,
+      "lang": "en"
+    },
+    {
+      "text": "despite having the same seed. So you",
+      "duration": 3.6,
+      "offset": 730.64,
+      "lang": "en"
+    },
+    {
+      "text": "need to make sure if you want a higher",
+      "duration": 2.96,
+      "offset": 732.8,
+      "lang": "en"
+    },
+    {
+      "text": "resolution image that you&#39;re starting",
+      "duration": 3.84,
+      "offset": 734.24,
+      "lang": "en"
+    },
+    {
+      "text": "off with HD so you don&#39;t basically miss",
+      "duration": 4.16,
+      "offset": 735.76,
+      "lang": "en"
+    },
+    {
+      "text": "out on getting that higher resolution.",
+      "duration": 2.72,
+      "offset": 738.08,
+      "lang": "en"
+    },
+    {
+      "text": "So we&#39;re going to come back to this",
+      "duration": 2.48,
+      "offset": 739.92,
+      "lang": "en"
+    },
+    {
+      "text": "image because I love the detail it has",
+      "duration": 3.84,
+      "offset": 740.8,
+      "lang": "en"
+    },
+    {
+      "text": "in it. It looks pretty good up close. So",
+      "duration": 3.28,
+      "offset": 742.4,
+      "lang": "en"
+    },
+    {
+      "text": "what I&#39;m going to do is I&#39;m going to use",
+      "duration": 3.12,
+      "offset": 744.64,
+      "lang": "en"
+    },
+    {
+      "text": "that same prompt again. We have all the",
+      "duration": 3.52,
+      "offset": 745.68,
+      "lang": "en"
+    },
+    {
+      "text": "settings there, but I&#39;m also going to",
+      "duration": 2.8,
+      "offset": 747.76,
+      "lang": "en"
+    },
+    {
+      "text": "add in the seed. So, I&#39;m going to once",
+      "duration": 3.28,
+      "offset": 749.2,
+      "lang": "en"
+    },
+    {
+      "text": "again copy",
+      "duration": 6.24,
+      "offset": 750.56,
+      "lang": "en"
+    },
+    {
+      "text": "seed and go dash HD",
+      "duration": 7.68,
+      "offset": 752.48,
+      "lang": "en"
+    },
+    {
+      "text": "space dash seed. And I&#39;m not trying to",
+      "duration": 6.24,
+      "offset": 756.8,
+      "lang": "en"
+    },
+    {
+      "text": "copy the this image specifically with",
+      "duration": 5.28,
+      "offset": 760.16,
+      "lang": "en"
+    },
+    {
+      "text": "that seed. But what I want to do is",
+      "duration": 5.36,
+      "offset": 763.04,
+      "lang": "en"
+    },
+    {
+      "text": "submit that. So, we have this set of",
+      "duration": 5.36,
+      "offset": 765.44,
+      "lang": "en"
+    },
+    {
+      "text": "images. But now, because we&#39;re in HD and",
+      "duration": 4.16,
+      "offset": 768.4,
+      "lang": "en"
+    },
+    {
+      "text": "we have that same seed, I will use this",
+      "duration": 3.28,
+      "offset": 770.8,
+      "lang": "en"
+    },
+    {
+      "text": "prompt again, but I&#39;m going to add at",
+      "duration": 5.12,
+      "offset": 772.56,
+      "lang": "en"
+    },
+    {
+      "text": "the end d-q4. So, we&#39;re going to 4x the",
+      "duration": 5.2,
+      "offset": 774.08,
+      "lang": "en"
+    },
+    {
+      "text": "time that Mjourney spends on this image",
+      "duration": 3.6,
+      "offset": 777.68,
+      "lang": "en"
+    },
+    {
+      "text": "to increase the quality. So, let&#39;s",
+      "duration": 4.16,
+      "offset": 779.28,
+      "lang": "en"
+    },
+    {
+      "text": "submit that and then we can compare the",
+      "duration": 3.76,
+      "offset": 781.28,
+      "lang": "en"
+    },
+    {
+      "text": "two. Now, I&#39;ve brought this into",
+      "duration": 4.08,
+      "offset": 783.44,
+      "lang": "en"
+    },
+    {
+      "text": "Photoshop and this is the quality",
+      "duration": 4.72,
+      "offset": 785.04,
+      "lang": "en"
+    },
+    {
+      "text": "setting of one. Now, it does change",
+      "duration": 4.88,
+      "offset": 787.52,
+      "lang": "en"
+    },
+    {
+      "text": "things a little bit. So, if I move up,",
+      "duration": 4.4,
+      "offset": 789.76,
+      "lang": "en"
+    },
+    {
+      "text": "we see a bit of the eye here. He&#39;s got",
+      "duration": 2.8,
+      "offset": 792.4,
+      "lang": "en"
+    },
+    {
+      "text": "something funny happening with the",
+      "duration": 3.36,
+      "offset": 794.16,
+      "lang": "en"
+    },
+    {
+      "text": "teeth. We the mole. I do like the fact",
+      "duration": 4.0,
+      "offset": 795.2,
+      "lang": "en"
+    },
+    {
+      "text": "the little strands of hair are all very",
+      "duration": 4.56,
+      "offset": 797.52,
+      "lang": "en"
+    },
+    {
+      "text": "detailed and this looks like an like a",
+      "duration": 6.0,
+      "offset": 799.2,
+      "lang": "en"
+    },
+    {
+      "text": "photo exactly as it is. I go to quality",
+      "duration": 5.76,
+      "offset": 802.08,
+      "lang": "en"
+    },
+    {
+      "text": "of four and it does change a little bit",
+      "duration": 5.2,
+      "offset": 805.2,
+      "lang": "en"
+    },
+    {
+      "text": "because it further develops. We get some",
+      "duration": 4.64,
+      "offset": 807.84,
+      "lang": "en"
+    },
+    {
+      "text": "thicker text.",
+      "duration": 4.8,
+      "offset": 810.4,
+      "lang": "en"
+    },
+    {
+      "text": "Some of the detail here is much the",
+      "duration": 6.16,
+      "offset": 812.48,
+      "lang": "en"
+    },
+    {
+      "text": "same. And with this particular example,",
+      "duration": 6.96,
+      "offset": 815.2,
+      "lang": "en"
+    },
+    {
+      "text": "I can&#39;t really see the difference. But",
+      "duration": 6.48,
+      "offset": 818.64,
+      "lang": "en"
+    },
+    {
+      "text": "if I try it out with say a text image, I",
+      "duration": 5.04,
+      "offset": 822.16,
+      "lang": "en"
+    },
+    {
+      "text": "have this image here. Once again, we&#39;re",
+      "duration": 3.44,
+      "offset": 825.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to use that same prompt and the",
+      "duration": 4.16,
+      "offset": 827.2,
+      "lang": "en"
+    },
+    {
+      "text": "seed which is already in there. Adding",
+      "duration": 7.36,
+      "offset": 828.56,
+      "lang": "en"
+    },
+    {
+      "text": "in that quality of four. submit that.",
+      "duration": 6.24,
+      "offset": 831.36,
+      "lang": "en"
+    },
+    {
+      "text": "So, we&#39;re in Photoshop again and I&#39;ve",
+      "duration": 3.92,
+      "offset": 835.92,
+      "lang": "en"
+    },
+    {
+      "text": "kind of zoomed in a bit. You can see",
+      "duration": 4.48,
+      "offset": 837.6,
+      "lang": "en"
+    },
+    {
+      "text": "here this is our quality of one and by",
+      "duration": 4.08,
+      "offset": 839.84,
+      "lang": "en"
+    },
+    {
+      "text": "switching to a quality of four, it",
+      "duration": 4.0,
+      "offset": 842.08,
+      "lang": "en"
+    },
+    {
+      "text": "actually changes the image. But one",
+      "duration": 3.92,
+      "offset": 843.92,
+      "lang": "en"
+    },
+    {
+      "text": "thing that although I don&#39;t like this",
+      "duration": 5.04,
+      "offset": 846.08,
+      "lang": "en"
+    },
+    {
+      "text": "text as much as the quality of one text,",
+      "duration": 5.04,
+      "offset": 847.84,
+      "lang": "en"
+    },
+    {
+      "text": "there are a few differences in the",
+      "duration": 3.84,
+      "offset": 851.12,
+      "lang": "en"
+    },
+    {
+      "text": "scene. I can see here that this looks",
+      "duration": 4.56,
+      "offset": 852.88,
+      "lang": "en"
+    },
+    {
+      "text": "very sort of standard. Like it looks",
+      "duration": 4.64,
+      "offset": 854.96,
+      "lang": "en"
+    },
+    {
+      "text": "good, but there&#39;s not a lot of detail to",
+      "duration": 4.24,
+      "offset": 857.44,
+      "lang": "en"
+    },
+    {
+      "text": "it. When I go to the quality of four, it",
+      "duration": 4.16,
+      "offset": 859.6,
+      "lang": "en"
+    },
+    {
+      "text": "really has added a lot of detail into",
+      "duration": 4.72,
+      "offset": 861.68,
+      "lang": "en"
+    },
+    {
+      "text": "the grass, even a little bit of a grungy",
+      "duration": 5.04,
+      "offset": 863.76,
+      "lang": "en"
+    },
+    {
+      "text": "overlay. So, it could be worth",
+      "duration": 4.24,
+      "offset": 866.4,
+      "lang": "en"
+    },
+    {
+      "text": "experimenting with again using your",
+      "duration": 4.08,
+      "offset": 868.8,
+      "lang": "en"
+    },
+    {
+      "text": "seed. It has added a little bit more",
+      "duration": 4.56,
+      "offset": 870.64,
+      "lang": "en"
+    },
+    {
+      "text": "detail to this image, but it does",
+      "duration": 4.24,
+      "offset": 872.88,
+      "lang": "en"
+    },
+    {
+      "text": "transform the image greatly. So, you&#39;re",
+      "duration": 3.52,
+      "offset": 875.2,
+      "lang": "en"
+    },
+    {
+      "text": "not going to get the exact same image",
+      "duration": 3.12,
+      "offset": 877.12,
+      "lang": "en"
+    },
+    {
+      "text": "using that quality mode, but it is good",
+      "duration": 3.36,
+      "offset": 878.72,
+      "lang": "en"
+    },
+    {
+      "text": "to know it&#39;s there to see what you can",
+      "duration": 3.76,
+      "offset": 880.24,
+      "lang": "en"
+    },
+    {
+      "text": "kind of squeeze out of your images when",
+      "duration": 3.6,
+      "offset": 882.08,
+      "lang": "en"
+    },
+    {
+      "text": "rendering with version 8. So, it&#39;s easy",
+      "duration": 3.04,
+      "offset": 884.0,
+      "lang": "en"
+    },
+    {
+      "text": "to see where a lot of these improvements",
+      "duration": 3.68,
+      "offset": 885.68,
+      "lang": "en"
+    },
+    {
+      "text": "are and is been a great improvement in",
+      "duration": 4.8,
+      "offset": 887.04,
+      "lang": "en"
+    },
+    {
+      "text": "intelligence and text. Uh, the quality",
+      "duration": 4.64,
+      "offset": 889.36,
+      "lang": "en"
+    },
+    {
+      "text": "mode I think is I know hit and miss",
+      "duration": 4.16,
+      "offset": 891.84,
+      "lang": "en"
+    },
+    {
+      "text": "really. But, uh, what we can also touch",
+      "duration": 4.08,
+      "offset": 894.0,
+      "lang": "en"
+    },
+    {
+      "text": "on, it says here that on the web, the",
+      "duration": 3.44,
+      "offset": 896.0,
+      "lang": "en"
+    },
+    {
+      "text": "conversation mode, grid mode, and",
+      "duration": 3.44,
+      "offset": 898.08,
+      "lang": "en"
+    },
+    {
+      "text": "sidebar setting panels are all optimized",
+      "duration": 3.84,
+      "offset": 899.44,
+      "lang": "en"
+    },
+    {
+      "text": "for speed and flow. So, we&#39;ve actually",
+      "duration": 3.44,
+      "offset": 901.52,
+      "lang": "en"
+    },
+    {
+      "text": "already covered that. But on top of",
+      "duration": 6.0,
+      "offset": 903.28,
+      "lang": "en"
+    },
+    {
+      "text": "that, it supports chaos, weird, explos.",
+      "duration": 5.36,
+      "offset": 904.96,
+      "lang": "en"
+    },
+    {
+      "text": "So, you can kind of play with those",
+      "duration": 2.16,
+      "offset": 909.28,
+      "lang": "en"
+    },
+    {
+      "text": "settings and probably get some more",
+      "duration": 3.44,
+      "offset": 910.32,
+      "lang": "en"
+    },
+    {
+      "text": "beautiful images that way. but also your",
+      "duration": 4.08,
+      "offset": 911.44,
+      "lang": "en"
+    },
+    {
+      "text": "personalization codes work too. They are",
+      "duration": 3.84,
+      "offset": 913.76,
+      "lang": "en"
+    },
+    {
+      "text": "backwards compatible. So stuff you made",
+      "duration": 4.4,
+      "offset": 915.52,
+      "lang": "en"
+    },
+    {
+      "text": "for version 7 now works with version 8.",
+      "duration": 4.24,
+      "offset": 917.6,
+      "lang": "en"
+    },
+    {
+      "text": "So let&#39;s try those out and just see how",
+      "duration": 3.44,
+      "offset": 919.92,
+      "lang": "en"
+    },
+    {
+      "text": "well the images turn out. Now of course",
+      "duration": 3.36,
+      "offset": 921.84,
+      "lang": "en"
+    },
+    {
+      "text": "what I can do is simply add this text",
+      "duration": 3.12,
+      "offset": 923.36,
+      "lang": "en"
+    },
+    {
+      "text": "here as we were for this particular",
+      "duration": 2.48,
+      "offset": 925.2,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. I feel like we&#39;ve seen this",
+      "duration": 4.16,
+      "offset": 926.48,
+      "lang": "en"
+    },
+    {
+      "text": "enough because if we go back over to the",
+      "duration": 4.4,
+      "offset": 927.68,
+      "lang": "en"
+    },
+    {
+      "text": "post, it does say here if you&#39;re looking",
+      "duration": 4.0,
+      "offset": 930.64,
+      "lang": "en"
+    },
+    {
+      "text": "for a more plain look using RAW will get",
+      "duration": 3.76,
+      "offset": 932.08,
+      "lang": "en"
+    },
+    {
+      "text": "you that and that&#39;s what we&#39;ve used with",
+      "duration": 3.52,
+      "offset": 934.64,
+      "lang": "en"
+    },
+    {
+      "text": "those images. So, let&#39;s turn RAW off and",
+      "duration": 3.6,
+      "offset": 935.84,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;re going to actually try a few",
+      "duration": 3.36,
+      "offset": 938.16,
+      "lang": "en"
+    },
+    {
+      "text": "different levels of stylize just to see",
+      "duration": 4.16,
+      "offset": 939.44,
+      "lang": "en"
+    },
+    {
+      "text": "how well it changes that image and then",
+      "duration": 3.76,
+      "offset": 941.52,
+      "lang": "en"
+    },
+    {
+      "text": "move on to some mood boards, which it",
+      "duration": 4.64,
+      "offset": 943.6,
+      "lang": "en"
+    },
+    {
+      "text": "does say costs 4x for now. There&#39;s also",
+      "duration": 5.84,
+      "offset": 945.28,
+      "lang": "en"
+    },
+    {
+      "text": "no relax mode when it comes to using V8.",
+      "duration": 4.48,
+      "offset": 948.24,
+      "lang": "en"
+    },
+    {
+      "text": "So, again, we have our prompt here. I&#39;m",
+      "duration": 3.2,
+      "offset": 951.12,
+      "lang": "en"
+    },
+    {
+      "text": "going to go to my settings. I&#39;m going to",
+      "duration": 2.96,
+      "offset": 952.72,
+      "lang": "en"
+    },
+    {
+      "text": "keep it on standard because you can see",
+      "duration": 4.08,
+      "offset": 954.32,
+      "lang": "en"
+    },
+    {
+      "text": "underneath over there, it is on RAW.",
+      "duration": 5.28,
+      "offset": 955.68,
+      "lang": "en"
+    },
+    {
+      "text": "Put it on 16 to 9. And we have our",
+      "duration": 4.4,
+      "offset": 958.4,
+      "lang": "en"
+    },
+    {
+      "text": "default stylization. So, I&#39;m going to",
+      "duration": 4.48,
+      "offset": 960.96,
+      "lang": "en"
+    },
+    {
+      "text": "try it just with 100 to start off with.",
+      "duration": 4.24,
+      "offset": 962.8,
+      "lang": "en"
+    },
+    {
+      "text": "And then we&#39;ll also try bringing that",
+      "duration": 4.88,
+      "offset": 965.44,
+      "lang": "en"
+    },
+    {
+      "text": "stylization up to a th00and. Crank it",
+      "duration": 5.28,
+      "offset": 967.04,
+      "lang": "en"
+    },
+    {
+      "text": "right to full to see what impact that",
+      "duration": 4.24,
+      "offset": 970.32,
+      "lang": "en"
+    },
+    {
+      "text": "has also. So you see here, this is",
+      "duration": 4.16,
+      "offset": 972.32,
+      "lang": "en"
+    },
+    {
+      "text": "without raw turned on, just on standard.",
+      "duration": 3.76,
+      "offset": 974.56,
+      "lang": "en"
+    },
+    {
+      "text": "And this looks relatively plain, but",
+      "duration": 3.04,
+      "offset": 976.48,
+      "lang": "en"
+    },
+    {
+      "text": "this one has a little bit more of a",
+      "duration": 3.52,
+      "offset": 978.32,
+      "lang": "en"
+    },
+    {
+      "text": "style to it. And it has a little bit",
+      "duration": 4.56,
+      "offset": 979.52,
+      "lang": "en"
+    },
+    {
+      "text": "more of a a tint, like a warmer tint to",
+      "duration": 4.32,
+      "offset": 981.84,
+      "lang": "en"
+    },
+    {
+      "text": "it. Seia, this one here, a little bit",
+      "duration": 4.24,
+      "offset": 984.08,
+      "lang": "en"
+    },
+    {
+      "text": "more dramatic. Now, it has actually put",
+      "duration": 3.6,
+      "offset": 986.16,
+      "lang": "en"
+    },
+    {
+      "text": "seven people in the scene. I didn&#39;t",
+      "duration": 2.72,
+      "offset": 988.32,
+      "lang": "en"
+    },
+    {
+      "text": "notice this earlier, but there are four",
+      "duration": 2.64,
+      "offset": 989.76,
+      "lang": "en"
+    },
+    {
+      "text": "people in the background, and he is the",
+      "duration": 3.52,
+      "offset": 991.04,
+      "lang": "en"
+    },
+    {
+      "text": "seventh person. You can see that over",
+      "duration": 3.68,
+      "offset": 992.4,
+      "lang": "en"
+    },
+    {
+      "text": "here, too. There are six people in the",
+      "duration": 4.4,
+      "offset": 994.56,
+      "lang": "en"
+    },
+    {
+      "text": "background. So, you can see how by going",
+      "duration": 4.56,
+      "offset": 996.08,
+      "lang": "en"
+    },
+    {
+      "text": "from raw to standard, you get a little",
+      "duration": 4.08,
+      "offset": 998.96,
+      "lang": "en"
+    },
+    {
+      "text": "bit more style. But then I crank stylize",
+      "duration": 6.16,
+      "offset": 1000.64,
+      "lang": "en"
+    },
+    {
+      "text": "up to 1,00 from the default of 100. And",
+      "duration": 5.12,
+      "offset": 1003.04,
+      "lang": "en"
+    },
+    {
+      "text": "what we get here, a little bit more",
+      "duration": 2.96,
+      "offset": 1006.8,
+      "lang": "en"
+    },
+    {
+      "text": "dramatic.",
+      "duration": 3.36,
+      "offset": 1008.16,
+      "lang": "en"
+    },
+    {
+      "text": "A little bit more dramatic. Again, I",
+      "duration": 3.2,
+      "offset": 1009.76,
+      "lang": "en"
+    },
+    {
+      "text": "noticed that the word strange didn&#39;t",
+      "duration": 2.96,
+      "offset": 1011.52,
+      "lang": "en"
+    },
+    {
+      "text": "appear as well on his forward on this",
+      "duration": 3.44,
+      "offset": 1012.96,
+      "lang": "en"
+    },
+    {
+      "text": "one, but it did on this particular",
+      "duration": 4.4,
+      "offset": 1014.48,
+      "lang": "en"
+    },
+    {
+      "text": "image. But we get much more dramatic,",
+      "duration": 4.08,
+      "offset": 1016.4,
+      "lang": "en"
+    },
+    {
+      "text": "much more aesthetic images. I love the",
+      "duration": 3.52,
+      "offset": 1018.88,
+      "lang": "en"
+    },
+    {
+      "text": "way it&#39;s zoomed in on this guy. But this",
+      "duration": 3.2,
+      "offset": 1020.48,
+      "lang": "en"
+    },
+    {
+      "text": "is where the coherence starts to",
+      "duration": 3.2,
+      "offset": 1022.4,
+      "lang": "en"
+    },
+    {
+      "text": "disappear in a way because we&#39;ve lost",
+      "duration": 3.36,
+      "offset": 1023.68,
+      "lang": "en"
+    },
+    {
+      "text": "those people in the background, but we",
+      "duration": 3.36,
+      "offset": 1025.6,
+      "lang": "en"
+    },
+    {
+      "text": "still have the red and the blue eye. And",
+      "duration": 4.56,
+      "offset": 1027.04,
+      "lang": "en"
+    },
+    {
+      "text": "so again, something a little bit more",
+      "duration": 5.36,
+      "offset": 1028.96,
+      "lang": "en"
+    },
+    {
+      "text": "sort of stylized and dramatic. These",
+      "duration": 4.4,
+      "offset": 1031.6,
+      "lang": "en"
+    },
+    {
+      "text": "images, I think, turned out pretty well.",
+      "duration": 4.88,
+      "offset": 1034.32,
+      "lang": "en"
+    },
+    {
+      "text": "So then I cranked up the weird to 3,000.",
+      "duration": 4.72,
+      "offset": 1036.0,
+      "lang": "en"
+    },
+    {
+      "text": "Put the stylized back down to its",
+      "duration": 4.16,
+      "offset": 1039.2,
+      "lang": "en"
+    },
+    {
+      "text": "default of 100. And these images",
+      "duration": 4.08,
+      "offset": 1040.72,
+      "lang": "en"
+    },
+    {
+      "text": "definitely have a bit of a weird look to",
+      "duration": 2.88,
+      "offset": 1043.36,
+      "lang": "en"
+    },
+    {
+      "text": "them. Again, we don&#39;t have the seven",
+      "duration": 3.12,
+      "offset": 1044.8,
+      "lang": "en"
+    },
+    {
+      "text": "people in the background, but it",
+      "duration": 3.68,
+      "offset": 1046.24,
+      "lang": "en"
+    },
+    {
+      "text": "definitely has weirded up those images.",
+      "duration": 3.68,
+      "offset": 1047.92,
+      "lang": "en"
+    },
+    {
+      "text": "And if this is the type of thing you&#39;re",
+      "duration": 3.12,
+      "offset": 1049.92,
+      "lang": "en"
+    },
+    {
+      "text": "after, that&#39;s cool. It&#39;s definitely not",
+      "duration": 3.28,
+      "offset": 1051.6,
+      "lang": "en"
+    },
+    {
+      "text": "aesthetic, but we&#39;re not always trying",
+      "duration": 3.2,
+      "offset": 1053.04,
+      "lang": "en"
+    },
+    {
+      "text": "to create aesthetic images. So, this",
+      "duration": 2.72,
+      "offset": 1054.88,
+      "lang": "en"
+    },
+    {
+      "text": "setting definitely has a great impact",
+      "duration": 3.6,
+      "offset": 1056.24,
+      "lang": "en"
+    },
+    {
+      "text": "when using V8. On top of that, I moved",
+      "duration": 3.68,
+      "offset": 1057.6,
+      "lang": "en"
+    },
+    {
+      "text": "the chaos all the way up to full,",
+      "duration": 4.48,
+      "offset": 1059.84,
+      "lang": "en"
+    },
+    {
+      "text": "otherwise known as variety. And this",
+      "duration": 4.88,
+      "offset": 1061.28,
+      "lang": "en"
+    },
+    {
+      "text": "definitely added some variety between",
+      "duration": 4.0,
+      "offset": 1064.32,
+      "lang": "en"
+    },
+    {
+      "text": "the grid images. We&#39;ve gone from bright",
+      "duration": 4.56,
+      "offset": 1066.16,
+      "lang": "en"
+    },
+    {
+      "text": "and crazy all the way up to something",
+      "duration": 5.04,
+      "offset": 1068.32,
+      "lang": "en"
+    },
+    {
+      "text": "really sort of dim, dark, and almost",
+      "duration": 4.96,
+      "offset": 1070.72,
+      "lang": "en"
+    },
+    {
+      "text": "gloomy to something a little bit more",
+      "duration": 3.76,
+      "offset": 1073.36,
+      "lang": "en"
+    },
+    {
+      "text": "like what we&#39;ve already seen, something",
+      "duration": 3.52,
+      "offset": 1075.68,
+      "lang": "en"
+    },
+    {
+      "text": "more standard. This one actually looks",
+      "duration": 3.52,
+      "offset": 1077.12,
+      "lang": "en"
+    },
+    {
+      "text": "pretty much spot on when it comes to the",
+      "duration": 4.96,
+      "offset": 1079.2,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. And finally, this one here. This",
+      "duration": 6.72,
+      "offset": 1080.64,
+      "lang": "en"
+    },
+    {
+      "text": "looks really weird, really creepy. So,",
+      "duration": 4.64,
+      "offset": 1084.16,
+      "lang": "en"
+    },
+    {
+      "text": "definitely playing with those stylized",
+      "duration": 3.6,
+      "offset": 1087.36,
+      "lang": "en"
+    },
+    {
+      "text": "settings works. They work very well with",
+      "duration": 3.92,
+      "offset": 1088.8,
+      "lang": "en"
+    },
+    {
+      "text": "version 8. So, I do think that&#39;s a bit",
+      "duration": 4.16,
+      "offset": 1090.96,
+      "lang": "en"
+    },
+    {
+      "text": "of a win. But coming back, we have our",
+      "duration": 4.64,
+      "offset": 1092.72,
+      "lang": "en"
+    },
+    {
+      "text": "prompt in here again. And what I&#39;m going",
+      "duration": 4.24,
+      "offset": 1095.12,
+      "lang": "en"
+    },
+    {
+      "text": "to do is keep those settings the same",
+      "duration": 5.6,
+      "offset": 1097.36,
+      "lang": "en"
+    },
+    {
+      "text": "and the aesthetics back to default here.",
+      "duration": 5.12,
+      "offset": 1099.36,
+      "lang": "en"
+    },
+    {
+      "text": "We&#39;re going to go up to our images",
+      "duration": 3.44,
+      "offset": 1102.96,
+      "lang": "en"
+    },
+    {
+      "text": "section here because I&#39;ve been doing",
+      "duration": 4.24,
+      "offset": 1104.48,
+      "lang": "en"
+    },
+    {
+      "text": "this without my global profile. If I",
+      "duration": 4.32,
+      "offset": 1106.4,
+      "lang": "en"
+    },
+    {
+      "text": "turn on my global profile, you&#39;ll see it",
+      "duration": 3.44,
+      "offset": 1108.72,
+      "lang": "en"
+    },
+    {
+      "text": "just sort of pops up here and you can",
+      "duration": 3.52,
+      "offset": 1110.72,
+      "lang": "en"
+    },
+    {
+      "text": "kind of X that if you want to. So, I&#39;m",
+      "duration": 5.36,
+      "offset": 1112.16,
+      "lang": "en"
+    },
+    {
+      "text": "going to submit that. But also, I&#39;m",
+      "duration": 4.96,
+      "offset": 1114.24,
+      "lang": "en"
+    },
+    {
+      "text": "going to keep that on and come down to",
+      "duration": 4.16,
+      "offset": 1117.52,
+      "lang": "en"
+    },
+    {
+      "text": "my mood boards. And I have Gigarest",
+      "duration": 3.76,
+      "offset": 1119.2,
+      "lang": "en"
+    },
+    {
+      "text": "Dystopia, which is one of my favorite",
+      "duration": 2.96,
+      "offset": 1121.68,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards and maybe V7. I&#39;m going to",
+      "duration": 4.32,
+      "offset": 1122.96,
+      "lang": "en"
+    },
+    {
+      "text": "click on that to add that in as well.",
+      "duration": 6.8,
+      "offset": 1124.64,
+      "lang": "en"
+    },
+    {
+      "text": "Submit. and maybe even try by unticking",
+      "duration": 6.56,
+      "offset": 1127.28,
+      "lang": "en"
+    },
+    {
+      "text": "something like dystopian vapor wave. And",
+      "duration": 4.32,
+      "offset": 1131.44,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to also add in old film, dust,",
+      "duration": 3.76,
+      "offset": 1133.84,
+      "lang": "en"
+    },
+    {
+      "text": "and scratch. As you can see, those are",
+      "duration": 3.76,
+      "offset": 1135.76,
+      "lang": "en"
+    },
+    {
+      "text": "in here as well. So, you can see which",
+      "duration": 3.44,
+      "offset": 1137.6,
+      "lang": "en"
+    },
+    {
+      "text": "profiles and mood boards you&#39;re using",
+      "duration": 3.84,
+      "offset": 1139.52,
+      "lang": "en"
+    },
+    {
+      "text": "right under your prompt. So, let&#39;s check",
+      "duration": 3.76,
+      "offset": 1141.04,
+      "lang": "en"
+    },
+    {
+      "text": "those out to see what kind of results we",
+      "duration": 3.12,
+      "offset": 1143.36,
+      "lang": "en"
+    },
+    {
+      "text": "get as well. Now, I have hit a little",
+      "duration": 3.68,
+      "offset": 1144.8,
+      "lang": "en"
+    },
+    {
+      "text": "bit of a snag here, and that is that",
+      "duration": 4.4,
+      "offset": 1146.48,
+      "lang": "en"
+    },
+    {
+      "text": "mood boards can&#39;t be used with HD mode",
+      "duration": 4.32,
+      "offset": 1148.48,
+      "lang": "en"
+    },
+    {
+      "text": "turned on. So, something worth noting. I",
+      "duration": 4.16,
+      "offset": 1150.88,
+      "lang": "en"
+    },
+    {
+      "text": "didn&#39;t realize that, but now we know",
+      "duration": 3.52,
+      "offset": 1152.8,
+      "lang": "en"
+    },
+    {
+      "text": "going ahead. So, I&#39;m going to resubmit",
+      "duration": 3.44,
+      "offset": 1155.04,
+      "lang": "en"
+    },
+    {
+      "text": "these with HD mode turned off. So again,",
+      "duration": 4.16,
+      "offset": 1156.32,
+      "lang": "en"
+    },
+    {
+      "text": "these were just created with my global",
+      "duration": 3.92,
+      "offset": 1158.48,
+      "lang": "en"
+    },
+    {
+      "text": "profile, and it kind of just looks like",
+      "duration": 4.08,
+      "offset": 1160.48,
+      "lang": "en"
+    },
+    {
+      "text": "the styliz is cranked up a little bit.",
+      "duration": 3.6,
+      "offset": 1162.4,
+      "lang": "en"
+    },
+    {
+      "text": "It has added a little bit of drama to",
+      "duration": 3.36,
+      "offset": 1164.56,
+      "lang": "en"
+    },
+    {
+      "text": "it, but my profile hasn&#39;t affected these",
+      "duration": 4.4,
+      "offset": 1166.0,
+      "lang": "en"
+    },
+    {
+      "text": "images as much as I&#39;d like. But adding",
+      "duration": 5.68,
+      "offset": 1167.92,
+      "lang": "en"
+    },
+    {
+      "text": "the gigesque dystopia mood board has",
+      "duration": 5.44,
+      "offset": 1170.4,
+      "lang": "en"
+    },
+    {
+      "text": "definitely added in that sort of HR Giga",
+      "duration": 5.52,
+      "offset": 1173.6,
+      "lang": "en"
+    },
+    {
+      "text": "3D alien style to a lot of these images,",
+      "duration": 5.04,
+      "offset": 1175.84,
+      "lang": "en"
+    },
+    {
+      "text": "and I think it&#39;s done a decent job of",
+      "duration": 3.44,
+      "offset": 1179.12,
+      "lang": "en"
+    },
+    {
+      "text": "handling it. It doesn&#39;t look quite as",
+      "duration": 3.68,
+      "offset": 1180.88,
+      "lang": "en"
+    },
+    {
+      "text": "good as I&#39;d like, but still pretty",
+      "duration": 5.28,
+      "offset": 1182.56,
+      "lang": "en"
+    },
+    {
+      "text": "decent. When I move over to my dystopian",
+      "duration": 5.28,
+      "offset": 1184.56,
+      "lang": "en"
+    },
+    {
+      "text": "vapor wave with the dust and scratch",
+      "duration": 3.92,
+      "offset": 1187.84,
+      "lang": "en"
+    },
+    {
+      "text": "mood board, this image is a really good",
+      "duration": 4.16,
+      "offset": 1189.84,
+      "lang": "en"
+    },
+    {
+      "text": "representation of those two mood boards",
+      "duration": 4.32,
+      "offset": 1191.76,
+      "lang": "en"
+    },
+    {
+      "text": "put together. So, it definitely seems to",
+      "duration": 4.4,
+      "offset": 1194.0,
+      "lang": "en"
+    },
+    {
+      "text": "handle those pretty well. Also, it has",
+      "duration": 4.08,
+      "offset": 1196.08,
+      "lang": "en"
+    },
+    {
+      "text": "done a great job of mixing them, which I",
+      "duration": 3.36,
+      "offset": 1198.4,
+      "lang": "en"
+    },
+    {
+      "text": "think in the past hasn&#39;t worked quite as",
+      "duration": 3.28,
+      "offset": 1200.16,
+      "lang": "en"
+    },
+    {
+      "text": "well. Now, I&#39;m going to compare version",
+      "duration": 3.36,
+      "offset": 1201.76,
+      "lang": "en"
+    },
+    {
+      "text": "7 to version 8 a little bit here again",
+      "duration": 5.04,
+      "offset": 1203.44,
+      "lang": "en"
+    },
+    {
+      "text": "because one thing I&#39;ve noticed is I have",
+      "duration": 5.6,
+      "offset": 1205.12,
+      "lang": "en"
+    },
+    {
+      "text": "some very stylized sort of images here.",
+      "duration": 4.0,
+      "offset": 1208.48,
+      "lang": "en"
+    },
+    {
+      "text": "This one is an Unreal Engine inspired",
+      "duration": 4.08,
+      "offset": 1210.72,
+      "lang": "en"
+    },
+    {
+      "text": "with brightly intense color. And version",
+      "duration": 4.4,
+      "offset": 1212.48,
+      "lang": "en"
+    },
+    {
+      "text": "seven has a very artistic look. But come",
+      "duration": 4.8,
+      "offset": 1214.8,
+      "lang": "en"
+    },
+    {
+      "text": "up to version 8, we get some some more",
+      "duration": 4.96,
+      "offset": 1216.88,
+      "lang": "en"
+    },
+    {
+      "text": "photo realistic styles. I haven&#39;t got",
+      "duration": 4.8,
+      "offset": 1219.6,
+      "lang": "en"
+    },
+    {
+      "text": "raw turned on here. Uh it hasn&#39;t really",
+      "duration": 4.88,
+      "offset": 1221.84,
+      "lang": "en"
+    },
+    {
+      "text": "applied the style as well as version 7.",
+      "duration": 4.24,
+      "offset": 1224.4,
+      "lang": "en"
+    },
+    {
+      "text": "I move up to a simple vector graphic of",
+      "duration": 5.44,
+      "offset": 1226.72,
+      "lang": "en"
+    },
+    {
+      "text": "an only mask. And the aesthetic down",
+      "duration": 5.76,
+      "offset": 1228.64,
+      "lang": "en"
+    },
+    {
+      "text": "here looks mean, looks really cool. This",
+      "duration": 5.76,
+      "offset": 1232.16,
+      "lang": "en"
+    },
+    {
+      "text": "is version seven. Version 8 seems a",
+      "duration": 5.36,
+      "offset": 1234.4,
+      "lang": "en"
+    },
+    {
+      "text": "little bit more generic. So, this is",
+      "duration": 3.68,
+      "offset": 1237.92,
+      "lang": "en"
+    },
+    {
+      "text": "where I think it starts to show a bit of",
+      "duration": 4.24,
+      "offset": 1239.76,
+      "lang": "en"
+    },
+    {
+      "text": "a weakness. I have glitchy red analog",
+      "duration": 4.88,
+      "offset": 1241.6,
+      "lang": "en"
+    },
+    {
+      "text": "dot matrix uh display here. Version",
+      "duration": 4.48,
+      "offset": 1244.0,
+      "lang": "en"
+    },
+    {
+      "text": "seven really nails it, but version 8",
+      "duration": 3.76,
+      "offset": 1246.48,
+      "lang": "en"
+    },
+    {
+      "text": "tends to focus and try to make things a",
+      "duration": 3.36,
+      "offset": 1248.48,
+      "lang": "en"
+    },
+    {
+      "text": "little too photorealistic and just kind",
+      "duration": 4.56,
+      "offset": 1250.24,
+      "lang": "en"
+    },
+    {
+      "text": "of overlay that style. But my brain stem",
+      "duration": 5.04,
+      "offset": 1251.84,
+      "lang": "en"
+    },
+    {
+      "text": "mood board I have here, cute yakai",
+      "duration": 3.36,
+      "offset": 1254.8,
+      "lang": "en"
+    },
+    {
+      "text": "animal, which is yellow. And this is a",
+      "duration": 2.56,
+      "offset": 1256.88,
+      "lang": "en"
+    },
+    {
+      "text": "brain stem mood board. It&#39;s part of my",
+      "duration": 2.88,
+      "offset": 1258.16,
+      "lang": "en"
+    },
+    {
+      "text": "premium mood board pack, which I will",
+      "duration": 3.6,
+      "offset": 1259.44,
+      "lang": "en"
+    },
+    {
+      "text": "link to in the description below. It",
+      "duration": 5.04,
+      "offset": 1261.04,
+      "lang": "en"
+    },
+    {
+      "text": "looks a bit closer with version eight",
+      "duration": 5.44,
+      "offset": 1263.04,
+      "lang": "en"
+    },
+    {
+      "text": "along the top there. But version 7",
+      "duration": 5.04,
+      "offset": 1266.08,
+      "lang": "en"
+    },
+    {
+      "text": "definitely is the better looking of",
+      "duration": 4.88,
+      "offset": 1268.48,
+      "lang": "en"
+    },
+    {
+      "text": "those images. Even moving into the style",
+      "duration": 4.48,
+      "offset": 1271.12,
+      "lang": "en"
+    },
+    {
+      "text": "of Casemir Malovich, it really nailed",
+      "duration": 4.72,
+      "offset": 1273.36,
+      "lang": "en"
+    },
+    {
+      "text": "it. Version 7 doesn&#39;t seem to be as",
+      "duration": 4.4,
+      "offset": 1275.6,
+      "lang": "en"
+    },
+    {
+      "text": "present with version 8. And that&#39;s where",
+      "duration": 3.84,
+      "offset": 1278.08,
+      "lang": "en"
+    },
+    {
+      "text": "this update does turn a little bit",
+      "duration": 4.32,
+      "offset": 1280.0,
+      "lang": "en"
+    },
+    {
+      "text": "because the technical advancements are",
+      "duration": 5.44,
+      "offset": 1281.92,
+      "lang": "en"
+    },
+    {
+      "text": "really solid. They are 100% fantastic,",
+      "duration": 6.56,
+      "offset": 1284.32,
+      "lang": "en"
+    },
+    {
+      "text": "but that loss of the aesthetic style",
+      "duration": 5.6,
+      "offset": 1287.36,
+      "lang": "en"
+    },
+    {
+      "text": "that MidJourney is known for, every",
+      "duration": 4.16,
+      "offset": 1290.88,
+      "lang": "en"
+    },
+    {
+      "text": "model they improve, it seems to slowly",
+      "duration": 4.08,
+      "offset": 1292.96,
+      "lang": "en"
+    },
+    {
+      "text": "disappear a little bit. So, this is a",
+      "duration": 3.36,
+      "offset": 1295.04,
+      "lang": "en"
+    },
+    {
+      "text": "reason why version 8 is going to be",
+      "duration": 3.52,
+      "offset": 1297.04,
+      "lang": "en"
+    },
+    {
+      "text": "really great for certain things, but",
+      "duration": 4.4,
+      "offset": 1298.4,
+      "lang": "en"
+    },
+    {
+      "text": "version 7 is going to be probably a bit",
+      "duration": 3.92,
+      "offset": 1300.56,
+      "lang": "en"
+    },
+    {
+      "text": "better for stylizing or even if you move",
+      "duration": 4.16,
+      "offset": 1302.8,
+      "lang": "en"
+    },
+    {
+      "text": "back a few versions. So, it&#39;s not a",
+      "duration": 5.2,
+      "offset": 1304.48,
+      "lang": "en"
+    },
+    {
+      "text": "superior model across the board. I don&#39;t",
+      "duration": 5.04,
+      "offset": 1306.96,
+      "lang": "en"
+    },
+    {
+      "text": "think this is a great move in the sense",
+      "duration": 4.32,
+      "offset": 1309.68,
+      "lang": "en"
+    },
+    {
+      "text": "of the aesthetic being taken away. But",
+      "duration": 3.44,
+      "offset": 1312.0,
+      "lang": "en"
+    },
+    {
+      "text": "the good news is I don&#39;t know if it&#39;s",
+      "duration": 3.84,
+      "offset": 1314.0,
+      "lang": "en"
+    },
+    {
+      "text": "improved the quality of the images in",
+      "duration": 4.56,
+      "offset": 1315.44,
+      "lang": "en"
+    },
+    {
+      "text": "certain areas enough to always warrant",
+      "duration": 4.32,
+      "offset": 1317.84,
+      "lang": "en"
+    },
+    {
+      "text": "version 8. So, falling back to version",
+      "duration": 3.84,
+      "offset": 1320.0,
+      "lang": "en"
+    },
+    {
+      "text": "seven I think is going to be a solid",
+      "duration": 3.76,
+      "offset": 1322.16,
+      "lang": "en"
+    },
+    {
+      "text": "move a lot of the time. Version 8 is",
+      "duration": 4.72,
+      "offset": 1323.84,
+      "lang": "en"
+    },
+    {
+      "text": "great for photo realism and any styles",
+      "duration": 5.04,
+      "offset": 1325.92,
+      "lang": "en"
+    },
+    {
+      "text": "that mean man manages to sort of adapt",
+      "duration": 4.4,
+      "offset": 1328.56,
+      "lang": "en"
+    },
+    {
+      "text": "being kind of use and when you&#39;re doing",
+      "duration": 4.16,
+      "offset": 1330.96,
+      "lang": "en"
+    },
+    {
+      "text": "things like text and you might want to",
+      "duration": 3.6,
+      "offset": 1332.96,
+      "lang": "en"
+    },
+    {
+      "text": "use things like style references to get",
+      "duration": 2.88,
+      "offset": 1335.12,
+      "lang": "en"
+    },
+    {
+      "text": "a bit more control. It&#39;s going to work",
+      "duration": 4.16,
+      "offset": 1336.56,
+      "lang": "en"
+    },
+    {
+      "text": "better there but it&#39;s not necessarily an",
+      "duration": 5.36,
+      "offset": 1338.0,
+      "lang": "en"
+    },
+    {
+      "text": "overall step up. It&#39;s a step up",
+      "duration": 4.48,
+      "offset": 1340.72,
+      "lang": "en"
+    },
+    {
+      "text": "technically, but aesthetically it&#39;s a",
+      "duration": 3.84,
+      "offset": 1343.36,
+      "lang": "en"
+    },
+    {
+      "text": "bit of a step back. And MidJourney is",
+      "duration": 4.24,
+      "offset": 1345.2,
+      "lang": "en"
+    },
+    {
+      "text": "known for its aesthetics, so I&#39;m not",
+      "duration": 4.16,
+      "offset": 1347.2,
+      "lang": "en"
+    },
+    {
+      "text": "quite sure what to say about that. But",
+      "duration": 3.52,
+      "offset": 1349.44,
+      "lang": "en"
+    },
+    {
+      "text": "what do you think about it? Leave a",
+      "duration": 2.96,
+      "offset": 1351.36,
+      "lang": "en"
+    },
+    {
+      "text": "comment below with your thoughts based",
+      "duration": 2.72,
+      "offset": 1352.96,
+      "lang": "en"
+    },
+    {
+      "text": "on what you&#39;ve seen today or your own",
+      "duration": 2.88,
+      "offset": 1354.32,
+      "lang": "en"
+    },
+    {
+      "text": "experience. Let me know if you think",
+      "duration": 3.84,
+      "offset": 1355.68,
+      "lang": "en"
+    },
+    {
+      "text": "it&#39;s a step up because when I do these",
+      "duration": 3.68,
+      "offset": 1357.2,
+      "lang": "en"
+    },
+    {
+      "text": "videos, there are always things that I",
+      "duration": 4.48,
+      "offset": 1359.52,
+      "lang": "en"
+    },
+    {
+      "text": "notice, but there&#39;s such a diverse taste",
+      "duration": 4.72,
+      "offset": 1360.88,
+      "lang": "en"
+    },
+    {
+      "text": "and knowledge of image generation out",
+      "duration": 3.68,
+      "offset": 1364.0,
+      "lang": "en"
+    },
+    {
+      "text": "there by people who use these tools for",
+      "duration": 4.4,
+      "offset": 1365.6,
+      "lang": "en"
+    },
+    {
+      "text": "very specific reasons and they notice",
+      "duration": 4.16,
+      "offset": 1367.68,
+      "lang": "en"
+    },
+    {
+      "text": "things that they don&#39;t like that maybe I",
+      "duration": 3.68,
+      "offset": 1370.0,
+      "lang": "en"
+    },
+    {
+      "text": "haven&#39;t noticed or things they do like",
+      "duration": 3.44,
+      "offset": 1371.84,
+      "lang": "en"
+    },
+    {
+      "text": "that I haven&#39;t noticed. So, I&#39;d love to",
+      "duration": 3.6,
+      "offset": 1373.68,
+      "lang": "en"
+    },
+    {
+      "text": "hear your thoughts on it down below and",
+      "duration": 3.76,
+      "offset": 1375.28,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s get this discussion moving.",
+      "duration": 3.68,
+      "offset": 1377.28,
+      "lang": "en"
+    },
+    {
+      "text": "Otherwise, I highly recommend going and",
+      "duration": 3.04,
+      "offset": 1379.04,
+      "lang": "en"
+    },
+    {
+      "text": "having a play and seeing what you think",
+      "duration": 3.6,
+      "offset": 1380.96,
+      "lang": "en"
+    },
+    {
+      "text": "for yourself. Try using version 8 for",
+      "duration": 4.64,
+      "offset": 1382.08,
+      "lang": "en"
+    },
+    {
+      "text": "what you think you&#39;ll be using it for",
+      "duration": 4.56,
+      "offset": 1384.56,
+      "lang": "en"
+    },
+    {
+      "text": "and see what results you get. Otherwise,",
+      "duration": 3.84,
+      "offset": 1386.72,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s the video for today, guys. I hope",
+      "duration": 2.72,
+      "offset": 1389.12,
+      "lang": "en"
+    },
+    {
+      "text": "you found it useful and if you did,",
+      "duration": 3.12,
+      "offset": 1390.56,
+      "lang": "en"
+    },
+    {
+      "text": "please consider giving the video a like.",
+      "duration": 3.28,
+      "offset": 1391.84,
+      "lang": "en"
+    },
+    {
+      "text": "Hope to see you again soon. Thanks for",
+      "duration": 5.47,
+      "offset": 1393.68,
+      "lang": "en"
+    },
+    {
+      "text": "watching and have a great day. [music]",
+      "duration": 4.03,
+      "offset": 1395.12,
+      "lang": "en"
+    },
+    {
+      "text": "[music]",
+      "duration": 2.02,
+      "offset": 1401.72,
+      "lang": "en"
+    },
+    {
+      "text": "&gt;&gt; [music]",
+      "duration": 2.02,
+      "offset": 1408.27,
+      "lang": "en"
+    }
+  ]
+}

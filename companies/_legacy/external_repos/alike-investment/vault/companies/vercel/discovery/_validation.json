@@ -1,0 +1,159 @@
+{
+  "ticker": "VERCEL",
+  "company_name": "Vercel",
+  "generated_at": "2026-04-09",
+  "status": "PASS",
+  "elapsed_seconds": null,
+  "run_started_at": "2026-04-09",
+  "market_expectations": {
+    "sec_expected": false,
+    "china_relevant": ""
+  },
+  "counts": {
+    "total_files": 18,
+    "new_files_this_run": 10,
+    "earnings_files": 0,
+    "youtube_files": 4,
+    "podcast_files": 4,
+    "xiaoyuzhou_files": 0
+  },
+  "org_readiness": {
+    "founder_voice_ready": true,
+    "org_report_ready": true,
+    "org_structure_ready": true,
+    "high_quality_org_ready": false
+  },
+  "checks": [
+    {
+      "name": "profile_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "profile.md present (WebSearch aggregation)",
+      "remediation": null
+    },
+    {
+      "name": "financials_exists",
+      "level": "fail",
+      "passed": true,
+      "detail": "financials.md present (WebSearch aggregation, private company)",
+      "remediation": null
+    },
+    {
+      "name": "xbrl_output",
+      "level": "info",
+      "passed": true,
+      "detail": "Non-public company, XBRL not applicable",
+      "remediation": null
+    },
+    {
+      "name": "sec_filings_count",
+      "level": "info",
+      "passed": true,
+      "detail": "Non-public company, SEC filings not applicable",
+      "remediation": null
+    },
+    {
+      "name": "youtube_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "youtube files: 4 (CEO interviews on CNBC, Lenny's, Refactoring)",
+      "remediation": null
+    },
+    {
+      "name": "podcast_count",
+      "level": "warn",
+      "passed": true,
+      "detail": "podcast files: 4 (AI&I, Training Data, How I AI, Accel)",
+      "remediation": null
+    },
+    {
+      "name": "xiaoyuzhou_applicability",
+      "level": "info",
+      "passed": true,
+      "detail": "非中国相关公司，小宇宙为 0 不视为问题。",
+      "remediation": null
+    },
+    {
+      "name": "report_freshness",
+      "level": "warn",
+      "passed": true,
+      "detail": "_collection_report.md updated 2026-04-09",
+      "remediation": null
+    },
+    {
+      "name": "new_files_this_run",
+      "level": "warn",
+      "passed": true,
+      "detail": "files added this run: 10",
+      "remediation": null
+    },
+    {
+      "name": "summary_generated",
+      "level": "warn",
+      "passed": true,
+      "detail": "_summary.json present (needs regeneration)",
+      "remediation": "运行 generate-summary.sh 更新"
+    },
+    {
+      "name": "org_foundation_present",
+      "level": "warn",
+      "passed": true,
+      "detail": "org workspace scaffolded",
+      "remediation": null
+    },
+    {
+      "name": "founder_voice_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "founder_voice ready + 8 CEO interview sources",
+      "remediation": null
+    },
+    {
+      "name": "org_scan_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "org_scan_report=ready, org_structure=ready",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_minimum",
+      "level": "warn",
+      "passed": true,
+      "detail": "minimum org dataset for D1-D7",
+      "remediation": null
+    },
+    {
+      "name": "org_dataset_high_quality",
+      "level": "warn",
+      "passed": false,
+      "detail": "high-quality org dataset (needs deeper org-scan for private company)",
+      "remediation": "运行 /private-search 和 /org-scan 深挖私有公司组织信息。"
+    },
+    {
+      "name": "governance_summary_ready",
+      "level": "warn",
+      "passed": true,
+      "detail": "governance_summary ready",
+      "remediation": null
+    },
+    {
+      "name": "proxy_filing_present",
+      "level": "info",
+      "passed": true,
+      "detail": "Non-public company, proxy filings not applicable",
+      "remediation": null
+    }
+  ],
+  "new_files_preview": [
+    "profile.md",
+    "financials.md",
+    "sources/youtube/2025-04-13_Lennys-Podcast-v0-Mission-100M-Builders.md",
+    "sources/youtube/2025-05-16_Refactoring-Vercel-Journey-Guillermo-Rauch.md",
+    "sources/youtube/2026-02-05_CNBC-Interview-Vercel-CEO-Guillermo-Rauch.md",
+    "sources/youtube/2026-03-09_Fortt-Knox-Conversation-Guillermo-Rauch.md",
+    "sources/podcasts/2025-02-04_AI-and-I-Guillermo-Rauch-What-Comes-After-Coding.md",
+    "sources/podcasts/2025-05-08_Training-Data-Guillermo-Rauch-Generative-Web.md",
+    "sources/podcasts/2025-09-30_Accel-Spotlight-Guillermo-Rauch-Bold-Visions.md",
+    "sources/podcasts/2026-02-04_How-I-AI-Guillermo-Rauch-v0-Git-Workflow.md"
+  ]
+}

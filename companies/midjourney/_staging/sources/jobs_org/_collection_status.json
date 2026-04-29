@@ -1,0 +1,18 @@
+{
+  "research_key": "MIDJOURNEY",
+  "company": "Midjourney",
+  "channel": "jobs_org",
+  "generated_at": "2026-04-20T18:03:04",
+  "total_records": 1,
+  "success_records": 0,
+  "failure_records": 1,
+  "statuses": [
+    {
+      "status": "failed",
+      "url": "https://www.midjourney.com/careers",
+      "title": "careers",
+      "error": "HTTP 403",
+      "stage": "fetch_full_text"
+    }
+  ]
+}

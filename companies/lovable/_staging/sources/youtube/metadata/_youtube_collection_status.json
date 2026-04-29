@@ -1,0 +1,508 @@
+{
+  "ticker": "LOVABLE",
+  "generated_at": "2026-04-22T16:30:04",
+  "dry_run": false,
+  "queries": [
+    "Lovable Anton Osika podcast",
+    "Lovable Anton Osika interview",
+    "Lovable 20VC Anton Osika",
+    "Lovable Lenny 10M ARR",
+    "Lovable AI app builder podcast",
+    "Lovable vibe coding podcast",
+    "Anton Osika Lovable podcast",
+    "Lovable CEO Anton Osika",
+    "Lovable Lenny 10M ARR 60 days",
+    "Lovable AI app builder interview",
+    "Lovable Agent product demo",
+    "Lovable enterprise AI app builder",
+    "Lovable vibe coding",
+    "Lovable 2.0 honest review",
+    "Lovable prototype to production",
+    "GPT Engineer Lovable Anton Osika",
+    "Lovable interview",
+    "Lovable.dev interview",
+    "Lovable Labs interview",
+    "GPT Engineer interview",
+    "Lovable Agent interview",
+    "Lovable 2.0 interview",
+    "Lovable Cloud interview",
+    "Lovable Teams interview",
+    "vibe coding interview",
+    "AI app builder interview",
+    "Anton Osika interview"
+  ],
+  "search_provider_order": [
+    "rapidapi_metadata_search",
+    "yt_dlp_search"
+  ],
+  "transcript_provider_order": [
+    "rapidapi_transcript3",
+    "youtube_transcript_api",
+    "yt_dlp_subtitle"
+  ],
+  "rapidapi_key_present": true,
+  "total_records": 30,
+  "success_records": 29,
+  "failure_records": 1,
+  "total_chars": 1201271,
+  "api_request_counts": {
+    "rapidapi_transcript3_calls": 1
+  },
+  "statuses": [
+    {
+      "id": "EkAWWgrr8aI",
+      "video_id": "EkAWWgrr8aI",
+      "title": "Lovable CEO, Anton Osika: The State of Foundation Models, Grok vs OpenAI, and Replit vs Bolt",
+      "chars": 72755,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-16_Lovable-CEO-Anton-Osika-The-State-of-Foundation-Mo.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Lovable Anton Osika interview",
+        "Lovable 20VC Anton Osika",
+        "Anton Osika Lovable podcast",
+        "Lovable CEO Anton Osika",
+        "Lovable interview",
+        "Lovable.dev interview",
+        "Anton Osika interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "DZtGxNs9AVg",
+      "video_id": "DZtGxNs9AVg",
+      "title": "Building Lovable: $10M ARR in 60 days with 15 people | Anton Osika (CEO and co-founder)",
+      "chars": 65237,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2025-03-09_Building-Lovable-10M-ARR-in-60-days-with-15-people.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Lovable Anton Osika interview",
+        "Anton Osika Lovable podcast",
+        "Lovable CEO Anton Osika",
+        "GPT Engineer Lovable Anton Osika",
+        "Lovable Teams interview",
+        "Anton Osika interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "TqAgejIX7uU",
+      "video_id": "TqAgejIX7uU",
+      "title": "Scaling AI Rocketships: ElevenLabs’ Mati Staniszewski & Lovable’s Anton Osika",
+      "chars": 58963,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-16_Scaling-AI-Rocketships-ElevenLabs-Mati-Staniszewsk.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Lovable Anton Osika interview",
+        "Anton Osika Lovable podcast",
+        "Lovable CEO Anton Osika",
+        "Lovable Labs interview",
+        "Anton Osika interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "hXxkIBm0t94",
+      "video_id": "hXxkIBm0t94",
+      "title": "The AI that Builds Million-Dollar Businesses – Anton Osika (Lovable CEO)",
+      "chars": 88980,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_The-AI-that-Builds-Million-Dollar-Businesses-Anton-Osik.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Anton Osika Lovable podcast",
+        "Lovable CEO Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "9FGMhz-e97k",
+      "video_id": "9FGMhz-e97k",
+      "title": "Lovable’s Anton Osika on turning ideas into software without coding | Masters of Scale Summit 2025",
+      "chars": 20477,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Lovables-Anton-Osika-on-turning-ideas-into-software-wit.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Lovable Anton Osika interview",
+        "Anton Osika interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "2oRkpiDZ6wk",
+      "video_id": "2oRkpiDZ6wk",
+      "title": "Growth minds Podcast Ep. 1 Anton Osika / Lovable (LinkedIn Live ReShare)",
+      "chars": 35805,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Growth-minds-Podcast-Ep-1-Anton-Osika-Lovable-LinkedIn.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika podcast",
+        "Anton Osika Lovable podcast"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "-T53fIsWrrs",
+      "video_id": "-T53fIsWrrs",
+      "title": "A conversation with Lovable CEO Anton Osika",
+      "chars": 29708,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-16_A-conversation-with-Lovable-CEO-Anton-Osika.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika interview",
+        "Lovable CEO Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "ueJB_rYWxYY",
+      "video_id": "ueJB_rYWxYY",
+      "title": "Anton Osika, Founder & CEO @Lovable | Slush 2024",
+      "chars": 8206,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Anton-Osika-Founder-CEO-Lovable-Slush-2024.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable Anton Osika interview",
+        "Anton Osika interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "DHLczPQj9rA",
+      "video_id": "DHLczPQj9rA",
+      "title": "Anton Osika, Co-Founder and CEO @ Lovable: Hitting 85% Day 30 Retention - Better than ChatGPT",
+      "chars": 46503,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Anton-Osika-Co-Founder-and-CEO-Lovable-Hitting-85-Day-3.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable 20VC Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "xeIAUoDZ2BM",
+      "video_id": "xeIAUoDZ2BM",
+      "title": "FULL PANEL Anton Osika(Lovable), Marius Meiners(Peec AI) and Harry Stebbings(20VC) | Antler Global",
+      "chars": 34808,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_FULL-PANEL-Anton-OsikaLovable-Marius-MeinersPeec-AI-and.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable 20VC Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Z1QyXxtI68M",
+      "video_id": "Z1QyXxtI68M",
+      "title": "How To Build A Single Person AI Unicorn (Lovable CEO, Anton Osika)",
+      "chars": 43754,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_How-To-Build-A-Single-Person-AI-Unicorn-Lovable-CEO-Ant.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable CEO Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Nfy9BCSOTF4",
+      "video_id": "Nfy9BCSOTF4",
+      "title": "Why 2026 is the Year of the AI Builder with Lovable CEO Anton Osika",
+      "chars": 33944,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Why-2026-is-the-Year-of-the-AI-Builder-with-Lovable-CEO.md",
+      "status": "existing_success",
+      "source_queries": [
+        "GPT Engineer Lovable Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "HooVi5p-zLI",
+      "video_id": "HooVi5p-zLI",
+      "title": "Turn Your Idea Into a Working App With One Prompt | Live Demo With Anton Osika of Lovable",
+      "chars": 29069,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Turn-Your-Idea-Into-a-Working-App-With-One-Prompt-Live.md",
+      "status": "existing_success",
+      "source_queries": [
+        "GPT Engineer Lovable Anton Osika"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "kgX6owQHaSQ",
+      "video_id": "kgX6owQHaSQ",
+      "title": "BONUS: Lovable’s Anton Osika | Unlocking a World of Creativity | Spotlight On | AccelVC",
+      "chars": 25724,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-22_BONUS-Lovables-Anton-Osika-Unlocking-a-World-of-Creativ.md",
+      "status": "success",
+      "transcript_method": "youtube_transcript_api",
+      "transcript_provider": "youtube_transcript_api",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Anton Osika Lovable podcast"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "param": "videoId",
+          "host": "youtube-transcript3.p.rapidapi.com",
+          "generated_at": "2026-04-22T16:29:29",
+          "ok": false,
+          "status": "rapidapi_quota_or_rate_limit",
+          "status_code": 429,
+          "body_preview": "{\"message\":\"You have exceeded the MONTHLY quota for Requests on your current plan, BASIC. Upgrade your plan at https:\\/\\/rapidapi.com\\/solid-api-solid-api-default\\/api\\/youtube-transcript3\"}",
+          "stop_provider": true
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "success",
+          "generated_at": "2026-04-22T16:29:31",
+          "chars": 25724
+        }
+      ]
+    },
+    {
+      "id": "HFrHMHXrYaI",
+      "video_id": "HFrHMHXrYaI",
+      "title": "His Ai App Builder Went From $0 to $43M in 5 Months | Lovable",
+      "chars": 62048,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_His-Ai-App-Builder-Went-From-0-to-43M-in-5-Months-Lovab.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder podcast",
+        "Lovable AI app builder interview",
+        "Lovable Teams interview",
+        "AI app builder interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "rqvtLxwMklo",
+      "video_id": "rqvtLxwMklo",
+      "title": "Master Lovable In 24 Minutes",
+      "chars": 29916,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Master-Lovable-In-24-Minutes.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder interview",
+        "Lovable Agent product demo",
+        "Lovable vibe coding",
+        "Lovable.dev interview",
+        "Lovable Labs interview",
+        "Lovable Agent interview",
+        "Lovable 2.0 interview",
+        "Lovable Cloud interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "XcVj8zzK4ss",
+      "video_id": "XcVj8zzK4ss",
+      "title": "STOP Wasting Money On AI Coding Tools Like Lovable.dev",
+      "chars": 13228,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-16_STOP-Wasting-Money-On-AI-Coding-Tools-Like-Lovable.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable 2.0 honest review"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "lhaGyrp1vfY",
+      "video_id": "lhaGyrp1vfY",
+      "title": "Lovable vs MeDo, which AI app builder actually works?",
+      "chars": 31244,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Lovable-vs-MeDo-which-AI-app-builder-actually-works.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder podcast",
+        "Lovable enterprise AI app builder"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "mOak_imYmqU",
+      "video_id": "mOak_imYmqU",
+      "title": "Master Lovable AI in 20 Minutes (NEW 2.0 UPDATE)",
+      "chars": 25445,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-16_Master-Lovable-AI-in-20-Minutes-NEW-20-UPDATE.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder podcast",
+        "Lovable AI app builder interview",
+        "Lovable Agent product demo",
+        "Lovable enterprise AI app builder",
+        "Lovable prototype to production",
+        "Lovable 2.0 interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "6VejFu1nEYs",
+      "video_id": "6VejFu1nEYs",
+      "title": "Lovable Tutorial for Beginners (Best AI App Builder?)",
+      "chars": 16247,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Lovable-Tutorial-for-Beginners-Best-AI-App-Builder.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder podcast",
+        "Lovable enterprise AI app builder"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "aYqY--CfwYI",
+      "video_id": "aYqY--CfwYI",
+      "title": "From Idea to App in Hours: Vibe Coding Masterclass with a Lovable Pro",
+      "chars": 84190,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_From-Idea-to-App-in-Hours-Vibe-Coding-Masterclass-with.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable vibe coding podcast"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "PPSQVveukNE",
+      "video_id": "PPSQVveukNE",
+      "title": "How Lovable Manages 100+ Daily Changes, Vibe Coding & Shadow AI",
+      "chars": 64688,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_How-Lovable-Manages-100-Daily-Changes-Vibe-Coding-Shado.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable vibe coding podcast"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "_C19uHMMrYQ",
+      "video_id": "_C19uHMMrYQ",
+      "title": "How to Win the Lovable Vibe Coding Hackathon",
+      "chars": 35689,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_How-to-Win-the-Lovable-Vibe-Coding-Hackathon.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable vibe coding podcast"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "JQoGbGl9fs4",
+      "video_id": "JQoGbGl9fs4",
+      "title": "Build a SaaS App in 18 Mins with Lovable! (Vibe Coding Tutorial)",
+      "chars": 16988,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Build-a-SaaS-App-in-18-Mins-with-Lovable-Vibe-Coding-Tu.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable vibe coding"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "SSJldR4S4v4",
+      "video_id": "SSJldR4S4v4",
+      "title": "STOP Wasting Credits & Master Lovable AI! (Vibe Coding Tutorial)",
+      "chars": 15936,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_STOP-Wasting-Credits-Master-Lovable-AI-Vibe-Coding-Tuto.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable vibe coding"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "6qAB6aUMIeA",
+      "video_id": "6qAB6aUMIeA",
+      "title": "The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year",
+      "chars": 101575,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_The-new-AI-growth-playbook-for-2026-How-Lovable-hit-200.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable interview",
+        "Lovable.dev interview",
+        "Lovable Agent interview",
+        "Lovable 2.0 interview",
+        "Lovable Teams interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "A2Koc0TNXqA",
+      "video_id": "A2Koc0TNXqA",
+      "title": "How He Vibe Coded His $1M/Year Education Platform",
+      "chars": 14079,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_How-He-Vibe-Coded-His-1MYear-Education-Platform.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder interview",
+        "Lovable vibe coding",
+        "Lovable.dev interview",
+        "Lovable Labs interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "2wdsNwPUCgQ",
+      "video_id": "2wdsNwPUCgQ",
+      "title": "Elena Verna: How Lovable Launches Product & Hacks Social to Go Viral",
+      "chars": 75223,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Elena-Verna-How-Lovable-Launches-Product-Hacks-Social-t.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable interview",
+        "Lovable.dev interview",
+        "Lovable Labs interview",
+        "Lovable Teams interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Vf2K0pcTLEo",
+      "video_id": "Vf2K0pcTLEo",
+      "title": "Master Lovable in 17 minutes (Starter Tutorial)",
+      "chars": 20842,
+      "file": "/Users/leafsun/Desktop/AI Org研究/companies/lovable/_staging/sources/youtube/transcripts/2026-04-21_Master-Lovable-in-17-minutes-Starter-Tutorial.md",
+      "status": "existing_success",
+      "source_queries": [
+        "Lovable AI app builder interview",
+        "Lovable Agent product demo",
+        "Lovable 2.0 interview",
+        "Lovable Cloud interview"
+      ],
+      "search_provider": "yt_dlp_search"
+    },
+    {
+      "id": "Zsh9giT237U",
+      "video_id": "Zsh9giT237U",
+      "title": "Anton Osika: Den sista mjukvaran, startups och framtiden för AI | En AI till Kaffet #39",
+      "status": "no_transcript",
+      "error": "all_transcript_providers_failed",
+      "search_provider": "yt_dlp_search",
+      "source_queries": [
+        "Anton Osika Lovable podcast",
+        "GPT Engineer Lovable Anton Osika"
+      ],
+      "provider_attempts": [
+        {
+          "provider": "rapidapi_transcript3",
+          "status": "skipped_provider_disabled",
+          "generated_at": "2026-04-22T16:29:31"
+        },
+        {
+          "provider": "youtube_transcript_api",
+          "status": "no_transcript",
+          "generated_at": "2026-04-22T16:29:37",
+          "chars": 0
+        },
+        {
+          "provider": "yt_dlp_subtitle",
+          "status": "no_subtitle",
+          "generated_at": "2026-04-22T16:30:04",
+          "chars": 0
+        }
+      ]
+    }
+  ]
+}

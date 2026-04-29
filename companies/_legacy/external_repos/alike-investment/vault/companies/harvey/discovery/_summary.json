@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-09",
+  "file_count": 19,
+  "total_size_kb": 92,
+  "last_updated": "2026-04-09",
+  "sources": {"earnings":{"count":0,"latest":""},"youtube":{"count":0,"latest":""},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 1,
+    "breakdown": {"c_suite":0,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_podcast_episodes.json","size_kb":8},{"path":"_validation.json","size_kb":5},{"path":"_validation.md","size_kb":2},{"path":"_collection_report.md","size_kb":2},{"path":"sources/podcasts/2026-03-23_Closing-Bell-Playing-Todays-Rally-32326.md","size_kb":1},{"path":"sources/podcasts/2026-03-19_Billionaire-disrupters-get-a-taste-of-their-own-me.md","size_kb":1},{"path":"sources/podcasts/2026-02-13_E247-OpenClaw--WHAT-Anthropic-380B-primary-closed.md","size_kb":1},{"path":"sources/podcasts/2025-04-22_How-Remote-Sales-Pros-Are-Earning-30K-pm-2025---Kr.md","size_kb":1},{"path":"sources/podcasts/2025-11-08_Massive-UK-Tax-Rises-FED-Pause-US-China-Rare-Earth.md","size_kb":1},{"path":"financials.md","size_kb":1}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "product-demo",
+      "runtimeExecutable": "/usr/local/bin/node",
+      "runtimeArgs": ["/Users/leafsun/Desktop/AI研究/Alike-Investment/product-demo/serve.js"],
+      "port": 3456
+    }
+  ]
+}

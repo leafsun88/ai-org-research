@@ -1,0 +1,2397 @@
+{
+  "ticker": "LOVABLE",
+  "video_id": "-lPee4zMQlk",
+  "url": "https://www.youtube.com/watch?v=-lPee4zMQlk",
+  "title": "Lovable Tutorial | Build Your Business App Idea in Minutes with AI",
+  "channel": "Stewart Gauld",
+  "source_queries": [
+    "Lovable enterprise AI app builder"
+  ],
+  "transcript_provider": "rapidapi",
+  "transcript_method": "rapidapi_transcript3",
+  "fetched_at": "2026-04-21T14:18:44",
+  "segments": [
+    {
+      "text": "AI has completely flipped the way that",
+      "duration": 4.64,
+      "offset": 0.16,
+      "lang": "en"
+    },
+    {
+      "text": "consumers use and build software. Now,",
+      "duration": 4.32,
+      "offset": 2.24,
+      "lang": "en"
+    },
+    {
+      "text": "any average Joe can build their own",
+      "duration": 3.92,
+      "offset": 4.8,
+      "lang": "en"
+    },
+    {
+      "text": "custom web apps and websites without",
+      "duration": 4.32,
+      "offset": 6.56,
+      "lang": "en"
+    },
+    {
+      "text": "touching any code. Essentially, with a",
+      "duration": 4.4,
+      "offset": 8.72,
+      "lang": "en"
+    },
+    {
+      "text": "vibe coding tool like Lovable, all you",
+      "duration": 4.56,
+      "offset": 10.88,
+      "lang": "en"
+    },
+    {
+      "text": "need to do is chat with AI to craft your",
+      "duration": 4.8,
+      "offset": 13.12,
+      "lang": "en"
+    },
+    {
+      "text": "own website or app. No longer do you",
+      "duration": 4.16,
+      "offset": 15.44,
+      "lang": "en"
+    },
+    {
+      "text": "need to hire developers or sign up to",
+      "duration": 3.92,
+      "offset": 17.92,
+      "lang": "en"
+    },
+    {
+      "text": "expensive business subscriptions. Now,",
+      "duration": 3.92,
+      "offset": 19.6,
+      "lang": "en"
+    },
+    {
+      "text": "you have the power to build your own",
+      "duration": 4.72,
+      "offset": 21.84,
+      "lang": "en"
+    },
+    {
+      "text": "custom web apps with AI. And today, I&#39;m",
+      "duration": 5.36,
+      "offset": 23.52,
+      "lang": "en"
+    },
+    {
+      "text": "going to show you how using Lovable.",
+      "duration": 3.52,
+      "offset": 26.56,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so with that covered, let&#39;s go",
+      "duration": 3.92,
+      "offset": 28.88,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and dive into this tutorial. Okay,",
+      "duration": 5.2,
+      "offset": 30.08,
+      "lang": "en"
+    },
+    {
+      "text": "so to arrive at Lovable, simply head",
+      "duration": 4.16,
+      "offset": 32.8,
+      "lang": "en"
+    },
+    {
+      "text": "over to your browser and type in",
+      "duration": 3.2,
+      "offset": 35.28,
+      "lang": "en"
+    },
+    {
+      "text": "lovable.dev",
+      "duration": 3.2,
+      "offset": 36.96,
+      "lang": "en"
+    },
+    {
+      "text": "or click on the link in the description",
+      "duration": 3.44,
+      "offset": 38.48,
+      "lang": "en"
+    },
+    {
+      "text": "below this video and that&#39;s going to",
+      "duration": 3.84,
+      "offset": 40.16,
+      "lang": "en"
+    },
+    {
+      "text": "take you here. Now, before we dive in",
+      "duration": 4.96,
+      "offset": 41.92,
+      "lang": "en"
+    },
+    {
+      "text": "and create a custom app, what exactly is",
+      "duration": 5.36,
+      "offset": 44.0,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable? Essentially, Lovable is a new",
+      "duration": 4.64,
+      "offset": 46.88,
+      "lang": "en"
+    },
+    {
+      "text": "AI powered platform that allows anyone",
+      "duration": 4.64,
+      "offset": 49.36,
+      "lang": "en"
+    },
+    {
+      "text": "to build powerful web apps and websites",
+      "duration": 5.12,
+      "offset": 51.52,
+      "lang": "en"
+    },
+    {
+      "text": "by simply chatting with AI. This is",
+      "duration": 4.88,
+      "offset": 54.0,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable&#39;s simple system that anyone can",
+      "duration": 5.04,
+      "offset": 56.64,
+      "lang": "en"
+    },
+    {
+      "text": "follow to turn ideas into online tools",
+      "duration": 5.84,
+      "offset": 58.88,
+      "lang": "en"
+    },
+    {
+      "text": "and websites. Simply describe your idea,",
+      "duration": 5.2,
+      "offset": 61.68,
+      "lang": "en"
+    },
+    {
+      "text": "then leverage AI to generate your idea",
+      "duration": 4.24,
+      "offset": 64.72,
+      "lang": "en"
+    },
+    {
+      "text": "with a single click. You can simply",
+      "duration": 4.56,
+      "offset": 66.88,
+      "lang": "en"
+    },
+    {
+      "text": "modify and refine with the editor or by",
+      "duration": 4.8,
+      "offset": 68.96,
+      "lang": "en"
+    },
+    {
+      "text": "chatting with AI. Then hit publish when",
+      "duration": 4.48,
+      "offset": 71.44,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re ready to publish your app. Okay,",
+      "duration": 4.24,
+      "offset": 73.76,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s see how easy it is to execute this",
+      "duration": 4.64,
+      "offset": 75.92,
+      "lang": "en"
+    },
+    {
+      "text": "system to build a custom web app. For",
+      "duration": 4.4,
+      "offset": 78.0,
+      "lang": "en"
+    },
+    {
+      "text": "the purpose of today&#39;s tutorial, I want",
+      "duration": 4.16,
+      "offset": 80.56,
+      "lang": "en"
+    },
+    {
+      "text": "to create an invoice and quote generator",
+      "duration": 4.56,
+      "offset": 82.4,
+      "lang": "en"
+    },
+    {
+      "text": "that I can then use in my business and",
+      "duration": 4.48,
+      "offset": 84.72,
+      "lang": "en"
+    },
+    {
+      "text": "that I can also sell as a subscription",
+      "duration": 4.4,
+      "offset": 86.96,
+      "lang": "en"
+    },
+    {
+      "text": "to other business owners. This is a",
+      "duration": 3.84,
+      "offset": 89.2,
+      "lang": "en"
+    },
+    {
+      "text": "useful SAS idea that I want to create",
+      "duration": 3.2,
+      "offset": 91.36,
+      "lang": "en"
+    },
+    {
+      "text": "for myself and for other business",
+      "duration": 3.68,
+      "offset": 93.04,
+      "lang": "en"
+    },
+    {
+      "text": "owners. Okay, let&#39;s build this with",
+      "duration": 4.32,
+      "offset": 94.56,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. And remember, you can build any",
+      "duration": 4.08,
+      "offset": 96.72,
+      "lang": "en"
+    },
+    {
+      "text": "custom web app or website that you can",
+      "duration": 4.0,
+      "offset": 98.88,
+      "lang": "en"
+    },
+    {
+      "text": "think of by following this process that",
+      "duration": 4.0,
+      "offset": 100.8,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;m going to walk you through to get",
+      "duration": 3.68,
+      "offset": 102.88,
+      "lang": "en"
+    },
+    {
+      "text": "started. And before we sign up, simply",
+      "duration": 3.92,
+      "offset": 104.8,
+      "lang": "en"
+    },
+    {
+      "text": "navigate down to this chat bar and",
+      "duration": 4.4,
+      "offset": 106.56,
+      "lang": "en"
+    },
+    {
+      "text": "describe the web app or website that you",
+      "duration": 4.0,
+      "offset": 108.72,
+      "lang": "en"
+    },
+    {
+      "text": "want to create. Okay, so I&#39;m going to",
+      "duration": 3.52,
+      "offset": 110.96,
+      "lang": "en"
+    },
+    {
+      "text": "begin with this prompt to create my web",
+      "duration": 4.16,
+      "offset": 112.72,
+      "lang": "en"
+    },
+    {
+      "text": "app. Create a modern invoice and quote",
+      "duration": 4.72,
+      "offset": 114.48,
+      "lang": "en"
+    },
+    {
+      "text": "generator web app. Make the invoice and",
+      "duration": 4.24,
+      "offset": 116.88,
+      "lang": "en"
+    },
+    {
+      "text": "quote generator intuitive and modern",
+      "duration": 4.4,
+      "offset": 119.2,
+      "lang": "en"
+    },
+    {
+      "text": "looking with hover effects on elements.",
+      "duration": 4.56,
+      "offset": 121.12,
+      "lang": "en"
+    },
+    {
+      "text": "The app color theme will be white, blue,",
+      "duration": 3.76,
+      "offset": 123.6,
+      "lang": "en"
+    },
+    {
+      "text": "and green. As you can see, I&#39;ve",
+      "duration": 3.28,
+      "offset": 125.68,
+      "lang": "en"
+    },
+    {
+      "text": "described the web app that I want to",
+      "duration": 3.84,
+      "offset": 127.36,
+      "lang": "en"
+    },
+    {
+      "text": "create and added a brief description of",
+      "duration": 4.16,
+      "offset": 128.96,
+      "lang": "en"
+    },
+    {
+      "text": "the look and feel of the app that I want",
+      "duration": 3.52,
+      "offset": 131.2,
+      "lang": "en"
+    },
+    {
+      "text": "to create. Then you want to break down",
+      "duration": 4.0,
+      "offset": 133.12,
+      "lang": "en"
+    },
+    {
+      "text": "the web app tools and features. Once the",
+      "duration": 4.4,
+      "offset": 134.72,
+      "lang": "en"
+    },
+    {
+      "text": "invoice or quote data has been added by",
+      "duration": 4.32,
+      "offset": 137.12,
+      "lang": "en"
+    },
+    {
+      "text": "the user, they can download the invoice",
+      "duration": 4.72,
+      "offset": 139.12,
+      "lang": "en"
+    },
+    {
+      "text": "or quote as a PDF. These are the",
+      "duration": 3.76,
+      "offset": 141.44,
+      "lang": "en"
+    },
+    {
+      "text": "following fields for generating an",
+      "duration": 4.64,
+      "offset": 143.84,
+      "lang": "en"
+    },
+    {
+      "text": "invoice or quote. From bill to date,",
+      "duration": 5.84,
+      "offset": 145.2,
+      "lang": "en"
+    },
+    {
+      "text": "number, item description, amount, tax,",
+      "duration": 4.56,
+      "offset": 148.48,
+      "lang": "en"
+    },
+    {
+      "text": "as well as terms and conditions. Now,",
+      "duration": 3.6,
+      "offset": 151.04,
+      "lang": "en"
+    },
+    {
+      "text": "the more detailed your prompt is, the",
+      "duration": 3.28,
+      "offset": 153.04,
+      "lang": "en"
+    },
+    {
+      "text": "better the output. For the purpose of",
+      "duration": 3.04,
+      "offset": 154.64,
+      "lang": "en"
+    },
+    {
+      "text": "this tutorial, I&#39;m going to begin",
+      "duration": 3.28,
+      "offset": 156.32,
+      "lang": "en"
+    },
+    {
+      "text": "building my app just using this simple",
+      "duration": 3.92,
+      "offset": 157.68,
+      "lang": "en"
+    },
+    {
+      "text": "prompt. You can also navigate over here",
+      "duration": 4.08,
+      "offset": 159.6,
+      "lang": "en"
+    },
+    {
+      "text": "and attach relevant images that you want",
+      "duration": 4.32,
+      "offset": 161.6,
+      "lang": "en"
+    },
+    {
+      "text": "to use inside your website or web app.",
+      "duration": 4.0,
+      "offset": 163.68,
+      "lang": "en"
+    },
+    {
+      "text": "You can also connect a database using",
+      "duration": 3.92,
+      "offset": 165.92,
+      "lang": "en"
+    },
+    {
+      "text": "two options, either Superbase or",
+      "duration": 5.04,
+      "offset": 167.68,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable&#39;s built-in Lovable Cloud. This",
+      "duration": 5.12,
+      "offset": 169.84,
+      "lang": "en"
+    },
+    {
+      "text": "is a built-in backend and database that",
+      "duration": 4.24,
+      "offset": 172.72,
+      "lang": "en"
+    },
+    {
+      "text": "you can leverage with your web apps. And",
+      "duration": 3.6,
+      "offset": 174.96,
+      "lang": "en"
+    },
+    {
+      "text": "I&#39;ll talk more about this new backend",
+      "duration": 3.68,
+      "offset": 176.96,
+      "lang": "en"
+    },
+    {
+      "text": "feature shortly. Okay, let&#39;s go ahead",
+      "duration": 4.08,
+      "offset": 178.56,
+      "lang": "en"
+    },
+    {
+      "text": "and build our web app. Then go ahead,",
+      "duration": 4.8,
+      "offset": 180.64,
+      "lang": "en"
+    },
+    {
+      "text": "take the time and sign up for free.",
+      "duration": 4.64,
+      "offset": 182.64,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, once you&#39;ve signed up and answered",
+      "duration": 4.0,
+      "offset": 185.44,
+      "lang": "en"
+    },
+    {
+      "text": "a few questions, you&#39;ll be taken to this",
+      "duration": 4.32,
+      "offset": 187.28,
+      "lang": "en"
+    },
+    {
+      "text": "interface. In the back end, Lovable is",
+      "duration": 3.92,
+      "offset": 189.44,
+      "lang": "en"
+    },
+    {
+      "text": "building your app. If we navigate over",
+      "duration": 3.28,
+      "offset": 191.6,
+      "lang": "en"
+    },
+    {
+      "text": "to the lefth hand side, you can see the",
+      "duration": 3.12,
+      "offset": 193.36,
+      "lang": "en"
+    },
+    {
+      "text": "prompt that you added, the description",
+      "duration": 3.44,
+      "offset": 194.88,
+      "lang": "en"
+    },
+    {
+      "text": "of your app or website, and you can",
+      "duration": 3.52,
+      "offset": 196.48,
+      "lang": "en"
+    },
+    {
+      "text": "navigate through Lovable&#39;s thinking when",
+      "duration": 3.6,
+      "offset": 198.32,
+      "lang": "en"
+    },
+    {
+      "text": "building your app. I&#39;m happy with the",
+      "duration": 4.0,
+      "offset": 200.0,
+      "lang": "en"
+    },
+    {
+      "text": "features for this version as well as the",
+      "duration": 4.0,
+      "offset": 201.92,
+      "lang": "en"
+    },
+    {
+      "text": "design approach. Then down here, you can",
+      "duration": 3.68,
+      "offset": 204.0,
+      "lang": "en"
+    },
+    {
+      "text": "see Lovable is building out the main",
+      "duration": 3.76,
+      "offset": 205.92,
+      "lang": "en"
+    },
+    {
+      "text": "invoice generator components. Your",
+      "duration": 3.84,
+      "offset": 207.68,
+      "lang": "en"
+    },
+    {
+      "text": "website or web app can take a few",
+      "duration": 3.76,
+      "offset": 209.68,
+      "lang": "en"
+    },
+    {
+      "text": "minutes to generate. Okay, so if we",
+      "duration": 3.44,
+      "offset": 211.52,
+      "lang": "en"
+    },
+    {
+      "text": "navigate over to the right hand side,",
+      "duration": 3.6,
+      "offset": 213.44,
+      "lang": "en"
+    },
+    {
+      "text": "you can see a preview of the invoice and",
+      "duration": 3.84,
+      "offset": 214.96,
+      "lang": "en"
+    },
+    {
+      "text": "quote generator that has been developed",
+      "duration": 4.48,
+      "offset": 217.04,
+      "lang": "en"
+    },
+    {
+      "text": "by Lovable. Now, if you identify an",
+      "duration": 4.64,
+      "offset": 218.8,
+      "lang": "en"
+    },
+    {
+      "text": "error like this, you can always click on",
+      "duration": 4.4,
+      "offset": 221.52,
+      "lang": "en"
+    },
+    {
+      "text": "try to fix, and the AI will attempt to",
+      "duration": 4.48,
+      "offset": 223.44,
+      "lang": "en"
+    },
+    {
+      "text": "fix that error. I haven&#39;t come across an",
+      "duration": 3.36,
+      "offset": 225.92,
+      "lang": "en"
+    },
+    {
+      "text": "error yet, so I&#39;m going to leave it as",
+      "duration": 3.2,
+      "offset": 227.92,
+      "lang": "en"
+    },
+    {
+      "text": "it is and continue building out this",
+      "duration": 3.76,
+      "offset": 229.28,
+      "lang": "en"
+    },
+    {
+      "text": "invoice and quote generator. Now, what",
+      "duration": 3.68,
+      "offset": 231.12,
+      "lang": "en"
+    },
+    {
+      "text": "we can do is navigate down here and add",
+      "duration": 3.92,
+      "offset": 233.04,
+      "lang": "en"
+    },
+    {
+      "text": "further prompts to continue customizing",
+      "duration": 4.32,
+      "offset": 234.8,
+      "lang": "en"
+    },
+    {
+      "text": "this app. We can also navigate down to",
+      "duration": 4.32,
+      "offset": 236.96,
+      "lang": "en"
+    },
+    {
+      "text": "editor, this edit button down here, and",
+      "duration": 4.08,
+      "offset": 239.12,
+      "lang": "en"
+    },
+    {
+      "text": "we can make edits to these specific",
+      "duration": 4.4,
+      "offset": 241.28,
+      "lang": "en"
+    },
+    {
+      "text": "items using this manual editor. For",
+      "duration": 4.72,
+      "offset": 243.2,
+      "lang": "en"
+    },
+    {
+      "text": "example, you can see we have an H1 here,",
+      "duration": 4.24,
+      "offset": 245.68,
+      "lang": "en"
+    },
+    {
+      "text": "this title. I&#39;m going to add something",
+      "duration": 4.48,
+      "offset": 247.92,
+      "lang": "en"
+    },
+    {
+      "text": "to this. I&#39;ve added invoiceify and I&#39;m",
+      "duration": 4.4,
+      "offset": 249.92,
+      "lang": "en"
+    },
+    {
+      "text": "going to delete this text here. And I&#39;m",
+      "duration": 3.52,
+      "offset": 252.4,
+      "lang": "en"
+    },
+    {
+      "text": "happy with that. I also have these other",
+      "duration": 3.36,
+      "offset": 254.32,
+      "lang": "en"
+    },
+    {
+      "text": "options down here. Okay, let&#39;s click out",
+      "duration": 4.0,
+      "offset": 255.92,
+      "lang": "en"
+    },
+    {
+      "text": "of here and then change this text. I&#39;m",
+      "duration": 3.92,
+      "offset": 257.68,
+      "lang": "en"
+    },
+    {
+      "text": "going to change create to generate",
+      "duration": 3.36,
+      "offset": 259.92,
+      "lang": "en"
+    },
+    {
+      "text": "generate professional invoices and",
+      "duration": 4.0,
+      "offset": 261.6,
+      "lang": "en"
+    },
+    {
+      "text": "quotes in seconds. And I&#39;m going to add",
+      "duration": 4.48,
+      "offset": 263.28,
+      "lang": "en"
+    },
+    {
+      "text": "with Invoiceify. Okay, so I&#39;m happy with",
+      "duration": 3.92,
+      "offset": 265.6,
+      "lang": "en"
+    },
+    {
+      "text": "that. Again, with this editor, you can",
+      "duration": 3.84,
+      "offset": 267.76,
+      "lang": "en"
+    },
+    {
+      "text": "manually make changes to your web app.",
+      "duration": 3.52,
+      "offset": 269.52,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, so I&#39;m going to navigate down to",
+      "duration": 2.96,
+      "offset": 271.6,
+      "lang": "en"
+    },
+    {
+      "text": "save. And now, let&#39;s quickly test out",
+      "duration": 3.52,
+      "offset": 273.04,
+      "lang": "en"
+    },
+    {
+      "text": "the invoice generator. As you can see, I",
+      "duration": 3.6,
+      "offset": 274.56,
+      "lang": "en"
+    },
+    {
+      "text": "have invoice selected. If I click on",
+      "duration": 3.28,
+      "offset": 276.56,
+      "lang": "en"
+    },
+    {
+      "text": "quote, that&#39;s going to change this to",
+      "duration": 3.76,
+      "offset": 278.16,
+      "lang": "en"
+    },
+    {
+      "text": "quote details and quote over here. Let&#39;s",
+      "duration": 3.92,
+      "offset": 279.84,
+      "lang": "en"
+    },
+    {
+      "text": "navigate back over to invoice and test",
+      "duration": 3.6,
+      "offset": 281.92,
+      "lang": "en"
+    },
+    {
+      "text": "out the invoice generator. I&#39;ve added",
+      "duration": 4.4,
+      "offset": 283.76,
+      "lang": "en"
+    },
+    {
+      "text": "from bill 2. Let&#39;s add a date. I&#39;m happy",
+      "duration": 4.16,
+      "offset": 285.52,
+      "lang": "en"
+    },
+    {
+      "text": "with today. I&#39;m also happy with the",
+      "duration": 3.52,
+      "offset": 288.16,
+      "lang": "en"
+    },
+    {
+      "text": "invoice number. And let&#39;s add an item.",
+      "duration": 3.6,
+      "offset": 289.68,
+      "lang": "en"
+    },
+    {
+      "text": "Let&#39;s say, for example, I&#39;m a digital",
+      "duration": 3.52,
+      "offset": 291.68,
+      "lang": "en"
+    },
+    {
+      "text": "marketing agency. So, one of the items",
+      "duration": 4.16,
+      "offset": 293.28,
+      "lang": "en"
+    },
+    {
+      "text": "is a web design package. And as you can",
+      "duration": 4.24,
+      "offset": 295.2,
+      "lang": "en"
+    },
+    {
+      "text": "see, when I add information over here,",
+      "duration": 3.92,
+      "offset": 297.44,
+      "lang": "en"
+    },
+    {
+      "text": "the invoice is populated on the right",
+      "duration": 5.28,
+      "offset": 299.44,
+      "lang": "en"
+    },
+    {
+      "text": "hand side. Let&#39;s add a tax rate 25% and",
+      "duration": 5.04,
+      "offset": 301.36,
+      "lang": "en"
+    },
+    {
+      "text": "terms and conditions. Please make this",
+      "duration": 3.76,
+      "offset": 304.72,
+      "lang": "en"
+    },
+    {
+      "text": "payment within 28 days. Let&#39;s go ahead",
+      "duration": 4.16,
+      "offset": 306.4,
+      "lang": "en"
+    },
+    {
+      "text": "and download as a PDF. Okay, let&#39;s",
+      "duration": 4.16,
+      "offset": 308.48,
+      "lang": "en"
+    },
+    {
+      "text": "quickly preview the PDF downloaded. And",
+      "duration": 4.0,
+      "offset": 310.56,
+      "lang": "en"
+    },
+    {
+      "text": "here we have the downloaded PDF. Let&#39;s",
+      "duration": 3.92,
+      "offset": 312.64,
+      "lang": "en"
+    },
+    {
+      "text": "jump back into Lovable and then add",
+      "duration": 4.32,
+      "offset": 314.56,
+      "lang": "en"
+    },
+    {
+      "text": "another prompt down here. I want to add",
+      "duration": 4.56,
+      "offset": 316.56,
+      "lang": "en"
+    },
+    {
+      "text": "a feature that allows the user to set up",
+      "duration": 4.56,
+      "offset": 318.88,
+      "lang": "en"
+    },
+    {
+      "text": "reoccurring invoices. These invoices",
+      "duration": 4.0,
+      "offset": 321.12,
+      "lang": "en"
+    },
+    {
+      "text": "will be automatically created on the",
+      "duration": 3.84,
+      "offset": 323.44,
+      "lang": "en"
+    },
+    {
+      "text": "selected reoccurring period and saved",
+      "duration": 3.84,
+      "offset": 325.12,
+      "lang": "en"
+    },
+    {
+      "text": "within this app. Think about the",
+      "duration": 3.36,
+      "offset": 327.28,
+      "lang": "en"
+    },
+    {
+      "text": "features and tools that you want to add",
+      "duration": 4.16,
+      "offset": 328.96,
+      "lang": "en"
+    },
+    {
+      "text": "to your app and simply chat with AI down",
+      "duration": 5.12,
+      "offset": 330.64,
+      "lang": "en"
+    },
+    {
+      "text": "here to develop that feature or tool.",
+      "duration": 4.4,
+      "offset": 333.12,
+      "lang": "en"
+    },
+    {
+      "text": "Now, as you can see, in order to develop",
+      "duration": 3.36,
+      "offset": 335.76,
+      "lang": "en"
+    },
+    {
+      "text": "this feature, we need to build a",
+      "duration": 3.6,
+      "offset": 337.52,
+      "lang": "en"
+    },
+    {
+      "text": "backend. This is important because we",
+      "duration": 4.24,
+      "offset": 339.12,
+      "lang": "en"
+    },
+    {
+      "text": "want users to be able to save invoices",
+      "duration": 4.48,
+      "offset": 341.12,
+      "lang": "en"
+    },
+    {
+      "text": "inside their account. This is especially",
+      "duration": 4.48,
+      "offset": 343.36,
+      "lang": "en"
+    },
+    {
+      "text": "important for reoccurring invoices. As I",
+      "duration": 3.6,
+      "offset": 345.6,
+      "lang": "en"
+    },
+    {
+      "text": "mentioned before, we can connect",
+      "duration": 4.4,
+      "offset": 347.84,
+      "lang": "en"
+    },
+    {
+      "text": "Superbase or we can use Lovable Cloud.",
+      "duration": 4.72,
+      "offset": 349.2,
+      "lang": "en"
+    },
+    {
+      "text": "This is a new backend feature that",
+      "duration": 3.68,
+      "offset": 352.24,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable recently released. Let&#39;s go",
+      "duration": 4.32,
+      "offset": 353.92,
+      "lang": "en"
+    },
+    {
+      "text": "ahead and click on allow and Lovable",
+      "duration": 4.88,
+      "offset": 355.92,
+      "lang": "en"
+    },
+    {
+      "text": "will create a full built-in database and",
+      "duration": 4.96,
+      "offset": 358.24,
+      "lang": "en"
+    },
+    {
+      "text": "backend for us. As you can see, action",
+      "duration": 4.56,
+      "offset": 360.8,
+      "lang": "en"
+    },
+    {
+      "text": "approved. Then we need to give Lovable a",
+      "duration": 4.56,
+      "offset": 363.2,
+      "lang": "en"
+    },
+    {
+      "text": "moment to develop that backend. Okay.",
+      "duration": 4.48,
+      "offset": 365.36,
+      "lang": "en"
+    },
+    {
+      "text": "Then we can click here and preview the",
+      "duration": 4.88,
+      "offset": 367.76,
+      "lang": "en"
+    },
+    {
+      "text": "SQL code. This is the coding required",
+      "duration": 5.04,
+      "offset": 369.84,
+      "lang": "en"
+    },
+    {
+      "text": "for your connected database. Navigate up",
+      "duration": 4.24,
+      "offset": 372.64,
+      "lang": "en"
+    },
+    {
+      "text": "to allow. Again, you do not need to know",
+      "duration": 4.24,
+      "offset": 374.88,
+      "lang": "en"
+    },
+    {
+      "text": "much about code. The AI can support you",
+      "duration": 4.56,
+      "offset": 376.88,
+      "lang": "en"
+    },
+    {
+      "text": "with this. Or if you have a developer on",
+      "duration": 4.08,
+      "offset": 379.12,
+      "lang": "en"
+    },
+    {
+      "text": "your team, they can also preview this",
+      "duration": 3.44,
+      "offset": 381.44,
+      "lang": "en"
+    },
+    {
+      "text": "code and better understand what&#39;s going",
+      "duration": 4.0,
+      "offset": 383.2,
+      "lang": "en"
+    },
+    {
+      "text": "on in the back end. Again, modify",
+      "duration": 4.48,
+      "offset": 384.88,
+      "lang": "en"
+    },
+    {
+      "text": "database. I&#39;m going to select allow.",
+      "duration": 4.48,
+      "offset": 387.2,
+      "lang": "en"
+    },
+    {
+      "text": "Now, in terms of lovable pricing, you do",
+      "duration": 4.72,
+      "offset": 389.36,
+      "lang": "en"
+    },
+    {
+      "text": "have access to free credits each day on",
+      "duration": 4.4,
+      "offset": 391.68,
+      "lang": "en"
+    },
+    {
+      "text": "the free plan. If you want to access",
+      "duration": 3.44,
+      "offset": 394.08,
+      "lang": "en"
+    },
+    {
+      "text": "more credits, you will need to upgrade",
+      "duration": 4.16,
+      "offset": 396.08,
+      "lang": "en"
+    },
+    {
+      "text": "to a paid plan, either pro or business.",
+      "duration": 4.64,
+      "offset": 397.52,
+      "lang": "en"
+    },
+    {
+      "text": "With a premium plan, you not only get",
+      "duration": 3.92,
+      "offset": 400.24,
+      "lang": "en"
+    },
+    {
+      "text": "more monthly credits, which basically",
+      "duration": 3.68,
+      "offset": 402.16,
+      "lang": "en"
+    },
+    {
+      "text": "means how many times you can chat with",
+      "duration": 3.76,
+      "offset": 404.16,
+      "lang": "en"
+    },
+    {
+      "text": "AI, you can also connect a custom",
+      "duration": 4.4,
+      "offset": 405.84,
+      "lang": "en"
+    },
+    {
+      "text": "domain, remove Lovable branding, as well",
+      "duration": 4.16,
+      "offset": 407.92,
+      "lang": "en"
+    },
+    {
+      "text": "as access more extensive database",
+      "duration": 3.68,
+      "offset": 410.24,
+      "lang": "en"
+    },
+    {
+      "text": "features. So again, if you run out of",
+      "duration": 3.84,
+      "offset": 412.08,
+      "lang": "en"
+    },
+    {
+      "text": "credits, you will need to upgrade. Okay,",
+      "duration": 4.16,
+      "offset": 413.92,
+      "lang": "en"
+    },
+    {
+      "text": "so just like that, I now have a database",
+      "duration": 4.64,
+      "offset": 415.92,
+      "lang": "en"
+    },
+    {
+      "text": "connected using Lovable Cloud. Also, as",
+      "duration": 4.16,
+      "offset": 418.08,
+      "lang": "en"
+    },
+    {
+      "text": "you can see, Lovable has successfully",
+      "duration": 3.84,
+      "offset": 420.56,
+      "lang": "en"
+    },
+    {
+      "text": "added reoccurring invoice functionality",
+      "duration": 4.48,
+      "offset": 422.24,
+      "lang": "en"
+    },
+    {
+      "text": "to your app. And down here, we can see",
+      "duration": 4.48,
+      "offset": 424.4,
+      "lang": "en"
+    },
+    {
+      "text": "what is available. Okay, let&#39;s go ahead",
+      "duration": 4.08,
+      "offset": 426.72,
+      "lang": "en"
+    },
+    {
+      "text": "and test out this app. Let&#39;s navigate",
+      "duration": 3.44,
+      "offset": 428.88,
+      "lang": "en"
+    },
+    {
+      "text": "through creating an account and",
+      "duration": 3.44,
+      "offset": 430.8,
+      "lang": "en"
+    },
+    {
+      "text": "leveraging this tool. I&#39;m going to",
+      "duration": 3.68,
+      "offset": 432.32,
+      "lang": "en"
+    },
+    {
+      "text": "select don&#39;t have an account. I&#39;m going",
+      "duration": 4.0,
+      "offset": 434.24,
+      "lang": "en"
+    },
+    {
+      "text": "to add my email and a password and click",
+      "duration": 4.72,
+      "offset": 436.0,
+      "lang": "en"
+    },
+    {
+      "text": "on sign up. Now inside this preview",
+      "duration": 4.32,
+      "offset": 438.24,
+      "lang": "en"
+    },
+    {
+      "text": "inside this account we have create",
+      "duration": 4.08,
+      "offset": 440.72,
+      "lang": "en"
+    },
+    {
+      "text": "invoice. Then we have reoccurring. Here",
+      "duration": 4.08,
+      "offset": 442.56,
+      "lang": "en"
+    },
+    {
+      "text": "we can create reoccurring invoices and",
+      "duration": 3.76,
+      "offset": 444.8,
+      "lang": "en"
+    },
+    {
+      "text": "then we have access to saved invoices",
+      "duration": 4.16,
+      "offset": 446.64,
+      "lang": "en"
+    },
+    {
+      "text": "and quotes. This is because we created",
+      "duration": 4.88,
+      "offset": 448.56,
+      "lang": "en"
+    },
+    {
+      "text": "and connected a database using lovable",
+      "duration": 4.16,
+      "offset": 450.8,
+      "lang": "en"
+    },
+    {
+      "text": "cloud. If we navigate over to",
+      "duration": 3.6,
+      "offset": 453.44,
+      "lang": "en"
+    },
+    {
+      "text": "reoccurring and click on add new",
+      "duration": 4.16,
+      "offset": 454.96,
+      "lang": "en"
+    },
+    {
+      "text": "template, I have these options now. Add",
+      "duration": 4.08,
+      "offset": 457.04,
+      "lang": "en"
+    },
+    {
+      "text": "the invoice, the frequency of this",
+      "duration": 3.84,
+      "offset": 459.12,
+      "lang": "en"
+    },
+    {
+      "text": "reoccurring invoice, and then other",
+      "duration": 3.76,
+      "offset": 461.12,
+      "lang": "en"
+    },
+    {
+      "text": "invoice details. Okay, so what you want",
+      "duration": 3.76,
+      "offset": 462.96,
+      "lang": "en"
+    },
+    {
+      "text": "to do is take the time to test out all",
+      "duration": 4.08,
+      "offset": 464.88,
+      "lang": "en"
+    },
+    {
+      "text": "your features within your app. Now, I&#39;m",
+      "duration": 4.24,
+      "offset": 466.72,
+      "lang": "en"
+    },
+    {
+      "text": "also going to navigate down here, add a",
+      "duration": 4.48,
+      "offset": 468.96,
+      "lang": "en"
+    },
+    {
+      "text": "subscription of $4.99 per month for",
+      "duration": 4.88,
+      "offset": 470.96,
+      "lang": "en"
+    },
+    {
+      "text": "premium users. These premium users can",
+      "duration": 4.48,
+      "offset": 473.44,
+      "lang": "en"
+    },
+    {
+      "text": "save and downloaded unlimited invoices",
+      "duration": 5.2,
+      "offset": 475.84,
+      "lang": "en"
+    },
+    {
+      "text": "and quotes. Free users can only save and",
+      "duration": 5.12,
+      "offset": 477.92,
+      "lang": "en"
+    },
+    {
+      "text": "download 10 invoices and quotes per",
+      "duration": 3.76,
+      "offset": 481.04,
+      "lang": "en"
+    },
+    {
+      "text": "month. I&#39;m adding this because this is",
+      "duration": 3.76,
+      "offset": 483.04,
+      "lang": "en"
+    },
+    {
+      "text": "an invoice and quote generated SAS",
+      "duration": 3.76,
+      "offset": 484.8,
+      "lang": "en"
+    },
+    {
+      "text": "product that I want to sell to other",
+      "duration": 3.52,
+      "offset": 486.8,
+      "lang": "en"
+    },
+    {
+      "text": "small business owners and we can",
+      "duration": 3.6,
+      "offset": 488.56,
+      "lang": "en"
+    },
+    {
+      "text": "leverage AI to simply create this",
+      "duration": 3.76,
+      "offset": 490.32,
+      "lang": "en"
+    },
+    {
+      "text": "subscription for us. This is because",
+      "duration": 3.6,
+      "offset": 492.16,
+      "lang": "en"
+    },
+    {
+      "text": "we&#39;ve already connected a back-end",
+      "duration": 3.6,
+      "offset": 494.08,
+      "lang": "en"
+    },
+    {
+      "text": "database. Let&#39;s go ahead and click on",
+      "duration": 3.84,
+      "offset": 495.76,
+      "lang": "en"
+    },
+    {
+      "text": "enter. Give Loveable a moment to",
+      "duration": 3.76,
+      "offset": 497.68,
+      "lang": "en"
+    },
+    {
+      "text": "generate a response. And as you can see,",
+      "duration": 4.08,
+      "offset": 499.6,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable will add a Stripe subscription",
+      "duration": 4.48,
+      "offset": 501.44,
+      "lang": "en"
+    },
+    {
+      "text": "functionality with premium and free tier",
+      "duration": 4.4,
+      "offset": 503.68,
+      "lang": "en"
+    },
+    {
+      "text": "limits. So here we just need to enable",
+      "duration": 4.08,
+      "offset": 505.92,
+      "lang": "en"
+    },
+    {
+      "text": "Stripe. We need to add a Stripe",
+      "duration": 4.24,
+      "offset": 508.08,
+      "lang": "en"
+    },
+    {
+      "text": "restricted API key. To do this, simply",
+      "duration": 4.64,
+      "offset": 510.0,
+      "lang": "en"
+    },
+    {
+      "text": "jump into your Stripe account. Now, if",
+      "duration": 4.0,
+      "offset": 512.32,
+      "lang": "en"
+    },
+    {
+      "text": "you currently do not have a Stripe",
+      "duration": 4.0,
+      "offset": 514.64,
+      "lang": "en"
+    },
+    {
+      "text": "account, it&#39;s completely free to set up.",
+      "duration": 4.08,
+      "offset": 516.32,
+      "lang": "en"
+    },
+    {
+      "text": "So, go ahead and create one. And then",
+      "duration": 3.92,
+      "offset": 518.64,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ll arrive inside your account.",
+      "duration": 5.04,
+      "offset": 520.4,
+      "lang": "en"
+    },
+    {
+      "text": "Navigate down to developers, then API",
+      "duration": 5.52,
+      "offset": 522.56,
+      "lang": "en"
+    },
+    {
+      "text": "keys, then navigate down to restricted",
+      "duration": 4.88,
+      "offset": 525.44,
+      "lang": "en"
+    },
+    {
+      "text": "keys, and go ahead and create one. Then,",
+      "duration": 5.04,
+      "offset": 528.08,
+      "lang": "en"
+    },
+    {
+      "text": "navigate down to create restricted key.",
+      "duration": 4.72,
+      "offset": 530.32,
+      "lang": "en"
+    },
+    {
+      "text": "Then go ahead and click on provide this",
+      "duration": 4.96,
+      "offset": 533.12,
+      "lang": "en"
+    },
+    {
+      "text": "key to another website and hit continue.",
+      "duration": 5.68,
+      "offset": 535.04,
+      "lang": "en"
+    },
+    {
+      "text": "Then navigate up to name, add Lovable,",
+      "duration": 5.12,
+      "offset": 538.08,
+      "lang": "en"
+    },
+    {
+      "text": "then add the Lovable website in here and",
+      "duration": 4.56,
+      "offset": 540.72,
+      "lang": "en"
+    },
+    {
+      "text": "click on create restricted key. You may",
+      "duration": 3.68,
+      "offset": 543.2,
+      "lang": "en"
+    },
+    {
+      "text": "need to verify your account before you",
+      "duration": 3.68,
+      "offset": 545.28,
+      "lang": "en"
+    },
+    {
+      "text": "can access this restricted key. Go ahead",
+      "duration": 3.76,
+      "offset": 546.88,
+      "lang": "en"
+    },
+    {
+      "text": "and copy the restricted key and head",
+      "duration": 3.84,
+      "offset": 548.96,
+      "lang": "en"
+    },
+    {
+      "text": "back over to Lovable. Then navigate over",
+      "duration": 4.72,
+      "offset": 550.64,
+      "lang": "en"
+    },
+    {
+      "text": "to update Stripe secret key. Then paste",
+      "duration": 4.32,
+      "offset": 552.8,
+      "lang": "en"
+    },
+    {
+      "text": "in the restricted API key that you",
+      "duration": 4.56,
+      "offset": 555.36,
+      "lang": "en"
+    },
+    {
+      "text": "copied over from Stripe and hit submit.",
+      "duration": 5.68,
+      "offset": 557.12,
+      "lang": "en"
+    },
+    {
+      "text": "Click on allow. Give Lovable AI a moment",
+      "duration": 4.8,
+      "offset": 559.92,
+      "lang": "en"
+    },
+    {
+      "text": "to add your subscription. And as you can",
+      "duration": 3.6,
+      "offset": 562.8,
+      "lang": "en"
+    },
+    {
+      "text": "see, just like that, the subscription",
+      "duration": 3.68,
+      "offset": 564.72,
+      "lang": "en"
+    },
+    {
+      "text": "plan has been added. Free plan, 10",
+      "duration": 4.16,
+      "offset": 566.4,
+      "lang": "en"
+    },
+    {
+      "text": "invoices remaining. Upgrade to premium",
+      "duration": 4.08,
+      "offset": 568.4,
+      "lang": "en"
+    },
+    {
+      "text": "for unlimited access. And then we have",
+      "duration": 3.92,
+      "offset": 570.56,
+      "lang": "en"
+    },
+    {
+      "text": "the button here that users can click to",
+      "duration": 4.72,
+      "offset": 572.48,
+      "lang": "en"
+    },
+    {
+      "text": "upgrade and pay via Stripe to sign up to",
+      "duration": 5.04,
+      "offset": 574.48,
+      "lang": "en"
+    },
+    {
+      "text": "this subscription. Now, to test this",
+      "duration": 3.92,
+      "offset": 577.2,
+      "lang": "en"
+    },
+    {
+      "text": "out, you want to jump back over to",
+      "duration": 3.6,
+      "offset": 579.52,
+      "lang": "en"
+    },
+    {
+      "text": "Stripe and make sure that you have test",
+      "duration": 4.0,
+      "offset": 581.12,
+      "lang": "en"
+    },
+    {
+      "text": "mode enabled. This means no real",
+      "duration": 3.84,
+      "offset": 583.12,
+      "lang": "en"
+    },
+    {
+      "text": "transactions will be processed. Okay,",
+      "duration": 4.24,
+      "offset": 585.12,
+      "lang": "en"
+    },
+    {
+      "text": "let&#39;s jump back over to Lovable. And now",
+      "duration": 5.12,
+      "offset": 586.96,
+      "lang": "en"
+    },
+    {
+      "text": "as a user, if I navigate up to upgrade,",
+      "duration": 4.32,
+      "offset": 589.36,
+      "lang": "en"
+    },
+    {
+      "text": "that&#39;s going to take the user to the",
+      "duration": 3.68,
+      "offset": 592.08,
+      "lang": "en"
+    },
+    {
+      "text": "Stripe payment page, subscribe to",
+      "duration": 4.4,
+      "offset": 593.68,
+      "lang": "en"
+    },
+    {
+      "text": "Invoiceify Premium, and they can simply",
+      "duration": 4.48,
+      "offset": 595.76,
+      "lang": "en"
+    },
+    {
+      "text": "add their details and sign up to this",
+      "duration": 4.32,
+      "offset": 598.08,
+      "lang": "en"
+    },
+    {
+      "text": "subscription. Unlimited invoice and",
+      "duration": 4.88,
+      "offset": 600.24,
+      "lang": "en"
+    },
+    {
+      "text": "quote generation, saving, and downloads.",
+      "duration": 4.96,
+      "offset": 602.4,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, let&#39;s jump back to Lovable again.",
+      "duration": 4.08,
+      "offset": 605.12,
+      "lang": "en"
+    },
+    {
+      "text": "Take the time to test out your entire",
+      "duration": 4.56,
+      "offset": 607.36,
+      "lang": "en"
+    },
+    {
+      "text": "app. Sign up as a new user. Navigate",
+      "duration": 4.64,
+      "offset": 609.2,
+      "lang": "en"
+    },
+    {
+      "text": "through the different features, invoice,",
+      "duration": 4.48,
+      "offset": 611.92,
+      "lang": "en"
+    },
+    {
+      "text": "quote, the reoccurring, saved, all the",
+      "duration": 4.08,
+      "offset": 613.84,
+      "lang": "en"
+    },
+    {
+      "text": "other different tools and features that",
+      "duration": 3.2,
+      "offset": 616.4,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve added to your app. Then once",
+      "duration": 3.28,
+      "offset": 617.92,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;ve navigated through all the tools",
+      "duration": 3.44,
+      "offset": 619.6,
+      "lang": "en"
+    },
+    {
+      "text": "and features, you&#39;ve made sure that the",
+      "duration": 4.0,
+      "offset": 621.2,
+      "lang": "en"
+    },
+    {
+      "text": "limits are in place if you&#39;re adding a",
+      "duration": 4.08,
+      "offset": 623.04,
+      "lang": "en"
+    },
+    {
+      "text": "subscription and the subscription plan",
+      "duration": 3.68,
+      "offset": 625.2,
+      "lang": "en"
+    },
+    {
+      "text": "works and gives your users all the",
+      "duration": 3.76,
+      "offset": 627.12,
+      "lang": "en"
+    },
+    {
+      "text": "correct premium features, then you&#39;re",
+      "duration": 4.0,
+      "offset": 628.88,
+      "lang": "en"
+    },
+    {
+      "text": "ready to go live. Again, if you want to",
+      "duration": 3.68,
+      "offset": 630.88,
+      "lang": "en"
+    },
+    {
+      "text": "make any changes, simply navigate down",
+      "duration": 4.32,
+      "offset": 632.88,
+      "lang": "en"
+    },
+    {
+      "text": "here and chat with AI to add edits or",
+      "duration": 4.72,
+      "offset": 634.56,
+      "lang": "en"
+    },
+    {
+      "text": "add new features and tools to your app.",
+      "duration": 3.84,
+      "offset": 637.2,
+      "lang": "en"
+    },
+    {
+      "text": "If we navigate down here and click this",
+      "duration": 4.16,
+      "offset": 639.28,
+      "lang": "en"
+    },
+    {
+      "text": "plus icon, you can connect Superbase if",
+      "duration": 4.96,
+      "offset": 641.04,
+      "lang": "en"
+    },
+    {
+      "text": "you prefer this over lovable cloud. You",
+      "duration": 4.4,
+      "offset": 643.44,
+      "lang": "en"
+    },
+    {
+      "text": "can also add attachments. For example,",
+      "duration": 3.44,
+      "offset": 646.0,
+      "lang": "en"
+    },
+    {
+      "text": "if you want to add images or other",
+      "duration": 3.28,
+      "offset": 647.84,
+      "lang": "en"
+    },
+    {
+      "text": "documents to your app, you can do that",
+      "duration": 3.84,
+      "offset": 649.44,
+      "lang": "en"
+    },
+    {
+      "text": "by adding attachments and chatting with",
+      "duration": 4.32,
+      "offset": 651.12,
+      "lang": "en"
+    },
+    {
+      "text": "AI. Let&#39;s click out of here. Now, if we",
+      "duration": 4.72,
+      "offset": 653.28,
+      "lang": "en"
+    },
+    {
+      "text": "navigate up to view history, if you want",
+      "duration": 4.88,
+      "offset": 655.44,
+      "lang": "en"
+    },
+    {
+      "text": "to revert to a different version, a",
+      "duration": 4.16,
+      "offset": 658.0,
+      "lang": "en"
+    },
+    {
+      "text": "previous version of your app, you can",
+      "duration": 3.68,
+      "offset": 660.32,
+      "lang": "en"
+    },
+    {
+      "text": "simply click on that version and run",
+      "duration": 3.68,
+      "offset": 662.16,
+      "lang": "en"
+    },
+    {
+      "text": "that new version. Maybe you broke",
+      "duration": 3.44,
+      "offset": 664.0,
+      "lang": "en"
+    },
+    {
+      "text": "something, you made a mistake, and you",
+      "duration": 3.04,
+      "offset": 665.84,
+      "lang": "en"
+    },
+    {
+      "text": "want to go back to a previous version.",
+      "duration": 3.2,
+      "offset": 667.44,
+      "lang": "en"
+    },
+    {
+      "text": "You can do that here. Okay, let&#39;s jump",
+      "duration": 3.52,
+      "offset": 668.88,
+      "lang": "en"
+    },
+    {
+      "text": "out of this. Now, if we navigate over",
+      "duration": 4.08,
+      "offset": 670.64,
+      "lang": "en"
+    },
+    {
+      "text": "here, you can also preview the code and",
+      "duration": 4.32,
+      "offset": 672.4,
+      "lang": "en"
+    },
+    {
+      "text": "this is the backing code of your app.",
+      "duration": 3.36,
+      "offset": 674.72,
+      "lang": "en"
+    },
+    {
+      "text": "You can see the different files on the",
+      "duration": 3.52,
+      "offset": 676.72,
+      "lang": "en"
+    },
+    {
+      "text": "left hand side. If you have a developer,",
+      "duration": 4.08,
+      "offset": 678.08,
+      "lang": "en"
+    },
+    {
+      "text": "they will want to make use of this. Now,",
+      "duration": 4.24,
+      "offset": 680.24,
+      "lang": "en"
+    },
+    {
+      "text": "if we navigate back over to preview, we",
+      "duration": 4.24,
+      "offset": 682.16,
+      "lang": "en"
+    },
+    {
+      "text": "can also navigate over to cloud. And",
+      "duration": 3.6,
+      "offset": 684.48,
+      "lang": "en"
+    },
+    {
+      "text": "remember, this is lovable cloud, the",
+      "duration": 3.44,
+      "offset": 686.4,
+      "lang": "en"
+    },
+    {
+      "text": "database, the backend that we connected",
+      "duration": 3.52,
+      "offset": 688.08,
+      "lang": "en"
+    },
+    {
+      "text": "with our app. You can see the number of",
+      "duration": 4.16,
+      "offset": 689.84,
+      "lang": "en"
+    },
+    {
+      "text": "users, the storage you&#39;ve used, the API",
+      "duration": 4.64,
+      "offset": 691.6,
+      "lang": "en"
+    },
+    {
+      "text": "connections, your database, as well as",
+      "duration": 4.56,
+      "offset": 694.0,
+      "lang": "en"
+    },
+    {
+      "text": "logs and more. If we navigate up to this",
+      "duration": 4.48,
+      "offset": 696.24,
+      "lang": "en"
+    },
+    {
+      "text": "plus icon, we can add analytics,",
+      "duration": 4.16,
+      "offset": 698.56,
+      "lang": "en"
+    },
+    {
+      "text": "security and speed. For example, if we",
+      "duration": 3.84,
+      "offset": 700.72,
+      "lang": "en"
+    },
+    {
+      "text": "click on security, we can see all",
+      "duration": 4.48,
+      "offset": 702.72,
+      "lang": "en"
+    },
+    {
+      "text": "critical issues, all security issues. We",
+      "duration": 4.0,
+      "offset": 704.56,
+      "lang": "en"
+    },
+    {
+      "text": "can navigate down and click on",
+      "duration": 3.6,
+      "offset": 707.2,
+      "lang": "en"
+    },
+    {
+      "text": "additional security review and improve",
+      "duration": 5.28,
+      "offset": 708.56,
+      "lang": "en"
+    },
+    {
+      "text": "these issues using AI. Again, if we",
+      "duration": 4.88,
+      "offset": 710.8,
+      "lang": "en"
+    },
+    {
+      "text": "navigate up to this plus icon, we can",
+      "duration": 3.6,
+      "offset": 713.84,
+      "lang": "en"
+    },
+    {
+      "text": "add analytics. And here you can view the",
+      "duration": 3.84,
+      "offset": 715.68,
+      "lang": "en"
+    },
+    {
+      "text": "analytics of your web app or website.",
+      "duration": 4.48,
+      "offset": 717.44,
+      "lang": "en"
+    },
+    {
+      "text": "Okay, let&#39;s navigate back over to code",
+      "duration": 4.4,
+      "offset": 719.52,
+      "lang": "en"
+    },
+    {
+      "text": "and preview. We can also navigate over",
+      "duration": 3.76,
+      "offset": 721.92,
+      "lang": "en"
+    },
+    {
+      "text": "here to the left hand side. You can see",
+      "duration": 3.6,
+      "offset": 723.92,
+      "lang": "en"
+    },
+    {
+      "text": "your monthly credits, rename your",
+      "duration": 4.0,
+      "offset": 725.68,
+      "lang": "en"
+    },
+    {
+      "text": "project, and jump into settings or jump",
+      "duration": 4.48,
+      "offset": 727.52,
+      "lang": "en"
+    },
+    {
+      "text": "back over to your dashboard. Now, when",
+      "duration": 4.0,
+      "offset": 729.68,
+      "lang": "en"
+    },
+    {
+      "text": "you&#39;re ready to publish, simply navigate",
+      "duration": 3.44,
+      "offset": 732.0,
+      "lang": "en"
+    },
+    {
+      "text": "over to publish, add your website",
+      "duration": 4.08,
+      "offset": 733.68,
+      "lang": "en"
+    },
+    {
+      "text": "address, or connect a custom domain.",
+      "duration": 4.0,
+      "offset": 735.44,
+      "lang": "en"
+    },
+    {
+      "text": "Down here, you can see your icon and",
+      "duration": 4.0,
+      "offset": 737.76,
+      "lang": "en"
+    },
+    {
+      "text": "title, the description of your app and",
+      "duration": 4.32,
+      "offset": 739.44,
+      "lang": "en"
+    },
+    {
+      "text": "image that appears. Again, if you want",
+      "duration": 3.44,
+      "offset": 741.76,
+      "lang": "en"
+    },
+    {
+      "text": "to make any changes here, simply",
+      "duration": 3.84,
+      "offset": 743.76,
+      "lang": "en"
+    },
+    {
+      "text": "navigate over to lovable chat, and ask",
+      "duration": 4.48,
+      "offset": 745.2,
+      "lang": "en"
+    },
+    {
+      "text": "AI to change your website description,",
+      "duration": 4.08,
+      "offset": 747.6,
+      "lang": "en"
+    },
+    {
+      "text": "as well as upload and add a different",
+      "duration": 3.92,
+      "offset": 749.68,
+      "lang": "en"
+    },
+    {
+      "text": "icon. Again, once you&#39;ve gone through",
+      "duration": 3.92,
+      "offset": 751.68,
+      "lang": "en"
+    },
+    {
+      "text": "the security scan and you&#39;ve improved",
+      "duration": 4.08,
+      "offset": 753.6,
+      "lang": "en"
+    },
+    {
+      "text": "the security by chatting with AI, you",
+      "duration": 4.08,
+      "offset": 755.6,
+      "lang": "en"
+    },
+    {
+      "text": "can come down and click on publish.",
+      "duration": 3.92,
+      "offset": 757.68,
+      "lang": "en"
+    },
+    {
+      "text": "Remember, inside of Stripe, if you",
+      "duration": 3.6,
+      "offset": 759.68,
+      "lang": "en"
+    },
+    {
+      "text": "turned test mode on, you want to make",
+      "duration": 3.6,
+      "offset": 761.6,
+      "lang": "en"
+    },
+    {
+      "text": "sure you turn this off before you",
+      "duration": 3.76,
+      "offset": 763.28,
+      "lang": "en"
+    },
+    {
+      "text": "publish your app. And just like that,",
+      "duration": 4.16,
+      "offset": 765.2,
+      "lang": "en"
+    },
+    {
+      "text": "you built a web app from scratch using",
+      "duration": 5.36,
+      "offset": 767.04,
+      "lang": "en"
+    },
+    {
+      "text": "AI using Lovable. Pretty cool, huh? Now,",
+      "duration": 5.52,
+      "offset": 769.36,
+      "lang": "en"
+    },
+    {
+      "text": "there are alternative AI platforms like",
+      "duration": 4.32,
+      "offset": 772.4,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable that you can use to build your",
+      "duration": 4.08,
+      "offset": 774.88,
+      "lang": "en"
+    },
+    {
+      "text": "own websites and web apps. Another good",
+      "duration": 4.64,
+      "offset": 776.72,
+      "lang": "en"
+    },
+    {
+      "text": "option is Hostinger Horizons. I&#39;ve",
+      "duration": 4.16,
+      "offset": 778.96,
+      "lang": "en"
+    },
+    {
+      "text": "created a dedicated tutorial that shows",
+      "duration": 3.52,
+      "offset": 781.36,
+      "lang": "en"
+    },
+    {
+      "text": "you how you can leverage this AI",
+      "duration": 4.24,
+      "offset": 783.12,
+      "lang": "en"
+    },
+    {
+      "text": "platform to build your own web app. I",
+      "duration": 5.36,
+      "offset": 784.88,
+      "lang": "en"
+    },
+    {
+      "text": "use the same example as I used inside of",
+      "duration": 4.88,
+      "offset": 787.36,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable. In my opinion, these are the",
+      "duration": 4.88,
+      "offset": 790.24,
+      "lang": "en"
+    },
+    {
+      "text": "two best AI platforms for leveraging AI",
+      "duration": 5.12,
+      "offset": 792.24,
+      "lang": "en"
+    },
+    {
+      "text": "to build a fully functional website or",
+      "duration": 4.16,
+      "offset": 795.12,
+      "lang": "en"
+    },
+    {
+      "text": "web app. Again, I&#39;ll add the complete",
+      "duration": 3.84,
+      "offset": 797.36,
+      "lang": "en"
+    },
+    {
+      "text": "tutorial for Hostinger Horizons down",
+      "duration": 3.92,
+      "offset": 799.28,
+      "lang": "en"
+    },
+    {
+      "text": "below in the description. And there we",
+      "duration": 3.2,
+      "offset": 801.2,
+      "lang": "en"
+    },
+    {
+      "text": "have it, guys. That is it for this",
+      "duration": 2.96,
+      "offset": 803.2,
+      "lang": "en"
+    },
+    {
+      "text": "Lovable tutorial. Now, if you have any",
+      "duration": 3.28,
+      "offset": 804.4,
+      "lang": "en"
+    },
+    {
+      "text": "questions about Lovable, make sure to",
+      "duration": 3.28,
+      "offset": 806.16,
+      "lang": "en"
+    },
+    {
+      "text": "pop them down below. And with that said,",
+      "duration": 2.88,
+      "offset": 807.68,
+      "lang": "en"
+    },
+    {
+      "text": "thank you so much for watching this",
+      "duration": 2.96,
+      "offset": 809.44,
+      "lang": "en"
+    },
+    {
+      "text": "video all the way through to the end. If",
+      "duration": 3.2,
+      "offset": 810.56,
+      "lang": "en"
+    },
+    {
+      "text": "you got value, make sure you leave a",
+      "duration": 3.2,
+      "offset": 812.4,
+      "lang": "en"
+    },
+    {
+      "text": "like and subscribe. And that way, I&#39;ll",
+      "duration": 3.6,
+      "offset": 813.76,
+      "lang": "en"
+    },
+    {
+      "text": "see you in the next video. Take care,",
+      "duration": 4.76,
+      "offset": 815.6,
+      "lang": "en"
+    },
+    {
+      "text": "everyone.",
+      "duration": 3.0,
+      "offset": 817.36,
+      "lang": "en"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "video_id": "tSKHHb0s7X4",
+  "title": "Meet The Man Who Makes $3M/year With AI",
+  "provider_attempts": [
+    {
+      "provider": "rapidapi_transcript3",
+      "param": "videoId",
+      "host": "youtube-transcript3.p.rapidapi.com",
+      "generated_at": "2026-04-21T14:18:56",
+      "ok": true,
+      "status": "success",
+      "status_code": 200
+    }
+  ],
+  "fetched_at": "2026-04-21T14:18:56"
+}

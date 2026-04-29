@@ -1,0 +1,25 @@
+{
+  "generated": "2026-04-08",
+  "file_count": 92,
+  "total_size_kb": 3868,
+  "last_updated": "2026-04-08",
+  "sources": {"earnings":{"count":9,"latest":"2025-05-21_DEF 14A.md"},"youtube":{"count":14,"latest":"2026-04-07_Why-Snowflake-Stock-CRASHED-After-a-Strong-Earnings-Report.md"},"perplexity":{"count":0,"latest":""}},
+  "organization": {
+    "people_count": 19,
+    "breakdown": {"c_suite":18,"board":0,"vp_level":0,"departed":0,"overview":1}
+  },
+  "key_files": {
+    "org_scan_report": true,
+    "profile": true,
+    "financials": true
+  },
+  "top_files_by_size": [{"path":"_xbrl_facts.json","size_kb":1623},{"path":"sources/earnings/2025-12-05_10-Q.md","size_kb":149},{"path":"sources/earnings/2024-11-27_10-Q.md","size_kb":149},{"path":"sources/earnings/2025-09-05_10-Q.md","size_kb":149},{"path":"sources/earnings/2025-05-30_10-Q.md","size_kb":148},{"path":"sources/earnings/2025-05-21_DEF 14A.md","size_kb":147},{"path":"organization/proxy/2025-05-21_DEF 14A.md","size_kb":147},{"path":"sources/earnings/2026-03-20_10-K.md","size_kb":147},{"path":"sources/earnings/2025-03-21_10-K.md","size_kb":147},{"path":"sources/earnings/2023-03-29_10-K.md","size_kb":147}],
+  "recommended_read_order": [
+    "profile.md",
+    "financials.md",
+    "organization/_org_scan_report.md",
+    "sources/earnings/ (latest 10-K)",
+    "sources/youtube/ (CEO interviews)",
+    "sources/social/ (sentiment)"
+  ]
+}

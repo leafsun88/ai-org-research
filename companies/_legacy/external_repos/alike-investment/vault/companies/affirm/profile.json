@@ -1,0 +1,10 @@
+{
+  "name": "Affirm",
+  "ticker": "AFRM",
+  "exchange": "NASDAQ",
+  "market_cap": "$12B",
+  "sector": "BNPL",
+  "category": "Shopify类",
+  "note": "为电商商家提供BNPL",
+  "created": "2026-04-06"
+}

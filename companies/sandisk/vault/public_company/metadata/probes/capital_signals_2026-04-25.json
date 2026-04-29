@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "items": [
+    {
+      "type": "insider_forms",
+      "count": 92
+    },
+    {
+      "type": "investor_views_index",
+      "count": 5
+    }
+  ],
+  "gaps": [
+    {
+      "reason": "institutional_holders_fetch_failed",
+      "error": "HTTPSConnectionPool(host='api.nasdaq.com', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "node": "capital_signals",
+  "updated_at": "2026-04-25T23:16:03"
+}

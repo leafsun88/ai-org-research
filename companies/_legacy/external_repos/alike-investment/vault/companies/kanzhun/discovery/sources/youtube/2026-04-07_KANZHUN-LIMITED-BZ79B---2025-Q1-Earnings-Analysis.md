@@ -1,0 +1,22 @@
+---
+type: youtube_transcript
+ticker: BZ
+title: "KANZHUN LIMITED (BZ|$7.9B) - 2025 Q1 Earnings Analysis"
+channel: "SmartStockWatch"
+date: 2026-04-07
+video_id: h_ifUVl1drc
+url: https://www.youtube.com/watch?v=h_ifUVl1drc
+transcript_method: youtube-transcript-api
+credibility: S2
+evidence: E2
+---
+
+# KANZHUN LIMITED (BZ|$7.9B) - 2025 Q1 Earnings Analysis
+
+**Channel**: SmartStockWatch  
+**Date**: 2026-04-07  
+**URL**: https://www.youtube.com/watch?v=h_ifUVl1drc
+
+## Transcript
+
+[Music] Welcome to Smart Stockwatch. Today is May 22nd, 2025 and we're diving into the latest financial results from Kanjun Limited, a leading online recruitment platform in China. Joining us is John, senior analyst from Smart Stockwatch. John, thanks for being here. Thank you for having me. It's a pleasure to discuss Conjun Limited's impressive Q1 2025 results revenue and profitability [Music] overview. Let's start with the top line. Canon Limited reported revenues of $265.0 million for Q1205, a 12.9% increase from the same quarter last year. John, what are the key drivers behind this growth? The growth in revenue is primarily driven by an increase in paid enterprise customers which rose by 12.3% year-onear. Additionally, the company's focus on core businesses and technological innovation has significantly contributed to this performance. And what about profitability? Kangjen Limited's net income surged by 111.9% to 70.6 million and their operating margin improved to 36.0% 0% up 13 percentage points from last year. This is a testament to their efficient operational leverage and strong cost control capabilities, user engagement and technological [Music] advancements. John Kangjen Limited has also reported a significant increase in user engagement. Can you elaborate on this? Absolutely. The average monthly active users reach 57.6 6 million, a 23.6% increase year-on-year. This growth is largely due to the company's successful integration of AI technologies, which have improved user engagement and recruitment efficiency. How has this impacted their enterprise customer base? The number of paid enterprise customers has grown to 6.4 million, up 12.3% from last year. This indicates strong brand appeal and user stickiness, which are crucial for sustained growth. Cost management and financial [Music] health. Let's talk about cost management. How has Kanjin Limited managed its expenses this quarter? The company has done an excellent job in managing costs with total operating expenses decreasing by 7.5% yearon-year. This was achieved through reductions in sales and marketing as well as research and development expenses. And what about their financial health? Kangjen Limited maintains a strong cash position with $2.04 billion in cash and cash equivalents. This provides them with ample liquidity to support future growth initiatives. EPS performance and analyst expectations. John, let's discuss the earnings per share. Kangjun Limited reported an adjusted EPS of 24 cents which is double the forecast of 12. What does this tell us? This significant beat on EPS indicates that Kun Limited has exceeded market expectations showcasing their strong operational performance and effective cost management. It reflects positively on their ability to deliver shareholder value. future outlook and strategic initiatives. Looking ahead, what can we expect from Kanjin Limited in the coming quarters? The company has provided revenue guidance of 2.05 billion to 2.8 billion for Q2 2025, indicating continued growth. Their strategic focus on core businesses and AI innovation is expected to drive highquality growth. And what about their capital allocation strategy? Kanju Unlimited has a share repurchase program in place allowing them to buy back up to 150 million of their shares. This demonstrates their confidence in the business and commitment to returning value to shareholders. Key [Music] takeaways. In summary, Kangjen Limited has delivered a strong performance in Q1 2025 with impressive revenue growth, a significant increase in net income, and a robust operating margin. John, thank you for your insights today. Thank you for having me. It's been a pleasure discussing Conjun Limited's results. Thank you for watching Smart Stockwatch. If you enjoyed this analysis, please like, share, and subscribe to our channel. We'd love to hear your thoughts on Kanjun Limited's performance in the comments below. Until next time.

@@ -1,0 +1,86 @@
+[
+  {
+    "status": "failed",
+    "url": "https://docs.midjourney.com/docs/plans",
+    "title": "plans",
+    "error": "HTTP 403",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://docs.midjourney.com/hc/en-us/articles/32199405667853-Version",
+    "title": "32199405667853-Version",
+    "error": "HTTP 403",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v7-alpha/",
+    "title": "v7-alpha",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v7-is-now-the-default-model/",
+    "title": "v7-is-now-the-default-model",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/introducing-our-v1-video-model/",
+    "title": "introducing-our-v1-video-model",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v8-rating-party/",
+    "title": "v8-rating-party",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v8-rating-party-final-round/",
+    "title": "v8-rating-party-final-round",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v8-alpha/",
+    "title": "v8-alpha",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/relax-mode-for-v8-alpha/",
+    "title": "relax-mode-for-v8-alpha",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/v8-1-alpha/",
+    "title": "v8-1-alpha",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/faster-v7-ideas-ranking-party-and-better-moderation/",
+    "title": "faster-v7-ideas-ranking-party-and-better-moderation",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  },
+  {
+    "status": "failed",
+    "url": "https://updates.midjourney.com/style-references-for-v7/",
+    "title": "style-references-for-v7",
+    "error": "Content too short (likely paywall)",
+    "stage": "fetch_full_text"
+  }
+]

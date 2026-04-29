@@ -1,0 +1,29 @@
+{
+  "company": "Sandisk",
+  "ticker": "SNDK",
+  "source_types": [
+    "sec_form_13f",
+    "institutional_ownership_page",
+    "public_fund_letter",
+    "public_interview",
+    "substack_or_investor_blog",
+    "short_seller_report"
+  ],
+  "queries": [
+    "SNDK 13F holders",
+    "Sandisk institutional ownership",
+    "Sandisk investor letter",
+    "SNDK hedge fund position",
+    "Sandisk short seller report"
+  ],
+  "items": [
+    {
+      "type": "institutional_ownership_page",
+      "source": "nasdaq_institutional_holdings_api_curl",
+      "source_url": "https://www.nasdaq.com/market-activity/stocks/sndk/institutional-holdings",
+      "holders": 25
+    }
+  ],
+  "status": "query_index_created",
+  "updated_at": "2026-04-26T00:28:10"
+}
