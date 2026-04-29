@@ -6,10 +6,10 @@
 
 - 名称：项目 GitHub 交接与独立仓库初始化
 - 日期：2026-04-29
-- 状态：进行中。已按 `Agent.md` 规则重读四个核心文件，并新增 `README.md` 与 `HANDOFF.md`，说明项目定位、公开信息采集、私有/半公开信息采集、source 分层、关键脚本、环境变量和 GitHub 提交边界。
+- 状态：本地已完成，远端创建受阻。已按 `Agent.md` 规则重读四个核心文件，并新增 `README.md` 与 `HANDOFF.md`，说明项目定位、公开信息采集、私有/半公开信息采集、source 分层、关键脚本、环境变量和 GitHub 提交边界。本地 git 仓库已初始化并提交：`583b941 Initial AI Org research workspace`。
 - 决策：仓库应提交脚本、配置、项目文档、文本证据、analysis 报告和 PDF；不提交 `.env`、`.vercel`、`.DS_Store`、原始音频、标准化音频和 ASR 转码缓存。原因是项目已有 transcript / metadata / source note / analysis 作为可复查文本证据，音频缓存体积约 19G，不适合作为 GitHub 仓库内容。
-- 已知风险：本机 `gh` 未登录，无法直接通过 GitHub API 创建新 repo；SSH 到 GitHub 账号 `leafsun88` 已验证可用。若不能自动创建远端仓库，需要用户先创建一个空 GitHub repo 或完成 `gh auth login`。
-- 下一步：初始化本地 git 仓库，提交当前项目快照；随后尝试创建/连接远端并 push。
+- 已知风险：本机 `gh` 未登录，无法直接通过 GitHub API 创建新 repo；SSH 到 GitHub 账号 `leafsun88` 已验证可用。已设置远端为 `git@github.com:leafsun88/ai-org-research.git`，但该 repo 目前不存在，`git push -u origin main` 返回 `Repository not found`。
+- 下一步：用户完成 `gh auth login` 或在 GitHub 上创建空私有仓库 `leafsun88/ai-org-research` 后，直接运行 `git push -u origin main` 即可推送。
 
 - 名称：Midjourney V8 HTML / 报告清理与社群增强版
 - 日期：2026-04-24
